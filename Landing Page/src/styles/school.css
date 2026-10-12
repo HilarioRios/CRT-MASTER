@@ -868,34 +868,11 @@ button:focus-visible,
   color: var(--panel-ink);
   box-shadow: var(--sombra-mock);
 }
-.recurso-bloqueado-cabecera {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px 12px;
-  margin: 0 0 14px;
-}
-/* En pantallas anchas el aviso queda al lado de la etiqueta; en el teléfono baja. */
-@media (min-width: 620px) {
-  .recurso-bloqueado-cabecera {
-    flex-wrap: nowrap;
-  }
-}
-.recurso-bloqueado-aviso {
-  flex: 1;
-  min-width: 0;
-  margin: 0;
-  font-size: 14px;
-  font-weight: 600;
-  line-height: 1.35;
-  color: #f5f0ed;
-}
 .recurso-bloqueado-rotulo {
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  flex: none;
-  margin: 0;
+  margin: 0 0 14px;
   padding: 6px 11px;
   border-radius: 999px;
   border: 1px solid rgba(240, 181, 74, 0.3);
