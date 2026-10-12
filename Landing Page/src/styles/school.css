@@ -868,11 +868,34 @@ button:focus-visible,
   color: var(--panel-ink);
   box-shadow: var(--sombra-mock);
 }
+.recurso-bloqueado-cabecera {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  margin: 0 0 14px;
+}
+/* En pantallas anchas el aviso queda al lado de la etiqueta; en el teléfono baja. */
+@media (min-width: 620px) {
+  .recurso-bloqueado-cabecera {
+    flex-wrap: nowrap;
+  }
+}
+.recurso-bloqueado-aviso {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #f5f0ed;
+}
 .recurso-bloqueado-rotulo {
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  margin: 0 0 14px;
+  flex: none;
+  margin: 0;
   padding: 6px 11px;
   border-radius: 999px;
   border: 1px solid rgba(240, 181, 74, 0.3);
@@ -887,7 +910,7 @@ button:focus-visible,
   color: var(--panel-ink-dim);
 }
 .recurso-bloqueado-titulo {
-  margin: 4px 0 0;
+  margin: 4px 0 18px;
   font-size: 18px;
   font-weight: 700;
   letter-spacing: -0.02em;
@@ -895,7 +918,7 @@ button:focus-visible,
   color: #f5f0ed;
 }
 .recurso-bloqueado-texto {
-  margin: 8px 0 18px;
+  margin: -10px 0 18px;
   max-width: 52ch;
   font-size: 14.5px;
   line-height: 1.55;
@@ -911,18 +934,11 @@ button:focus-visible,
 .codigo {
   margin-bottom: 14px;
 }
-.ya-tengo-codigo {
-  display: block;
-  margin: 14px auto 0;
-  padding: 6px 8px;
-  border: none;
-  background: none;
-  font: inherit;
-  font-size: 13.5px;
-  color: var(--panel-ink-dim);
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  cursor: pointer;
+/* "Ya tengo el código": mismo tamaño que el botón de WhatsApp, en amarillo. */
+.btn-codigo {
+  margin-top: 10px;
+  background: var(--acento-suave);
+  color: var(--panel);
 }
 .vsl-manual {
   width: auto;

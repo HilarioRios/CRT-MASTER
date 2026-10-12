@@ -13,12 +13,12 @@ const ERRORS = {
 const COPY = {
   recurso: {
     locked: 'Recurso bloqueado',
-    text: 'Este recurso se desbloquea con nuestro equipo.',
+    aviso: 'Comunícate con mi equipo para desbloquear el recurso',
     requested: 'Ya le escribiste al equipo. Cuando validen tu avance te pasan un código: ingrésalo acá para abrir el recurso.',
   },
   clase: {
     locked: 'Clase bloqueada',
-    text: 'Esta clase y su material se desbloquean con nuestro equipo. Escríbenos y te pasamos tu código.',
+    aviso: 'Comunícate con mi equipo para desbloquear la clase',
     requested: 'Ya le escribiste al equipo. Cuando te pasen tu código, ingrésalo acá para abrir la clase y su material.',
   },
 };
@@ -47,14 +47,15 @@ export function LockedResource({ resource, status, message, onRequest, onRedeem,
 
   return (
     <div className={`recurso-bloqueado${requested ? ' pedido' : ''}`}>
-      <p className="recurso-bloqueado-rotulo">
-        <LockIcon /> {requested ? 'Desbloqueo solicitado' : copy.locked}
-      </p>
+      <div className="recurso-bloqueado-cabecera">
+        <p className="recurso-bloqueado-rotulo">
+          <LockIcon /> {requested ? 'Desbloqueo solicitado' : copy.locked}
+        </p>
+        {!requested && <p className="recurso-bloqueado-aviso">{copy.aviso}</p>}
+      </div>
       <p className="recurso-tipo">{typeLabel || resourceType(resource.type).label}</p>
       <h4 className="recurso-bloqueado-titulo">{resource.title}</h4>
-      <p className="recurso-bloqueado-texto">
-        {requested ? copy.requested : copy.text}
-      </p>
+      {requested && <p className="recurso-bloqueado-texto">{copy.requested}</p>}
 
       {showForm && (
         <form className="codigo" onSubmit={submit} noValidate>
@@ -83,8 +84,8 @@ export function LockedResource({ resource, status, message, onRequest, onRedeem,
         {requested ? 'Volver a escribir al equipo' : 'Desbloquear con el equipo'}
       </WhatsAppCTA>
       {!showForm && (
-        <button type="button" className="ya-tengo-codigo" onClick={() => setHasCode(true)}>
-          Ya tengo un código
+        <button type="button" className="btn btn-codigo" onClick={() => setHasCode(true)}>
+          Ya tengo el código
         </button>
       )}
     </div>
