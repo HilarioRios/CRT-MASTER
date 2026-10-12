@@ -99,7 +99,18 @@ describe('redeemUnlockCode', () => {
     expect(await redeemUnlockCode('r', 'abc', { endpoint: '/api/recurso', fetchImpl })).toEqual({ ok: true, url: 'https://docs/x.pdf', video: 'abcdefghijk' });
   });
 
-  it('descarta un video que no tiene forma de id de YouTube', async () => {
+  it('devuelve el video cuando el servidor entrega un enlace de Loom', async () => {
+    const loom = 'https://www.loom.com/share/bcbeb3d2c19d41ae87ff4a045f18d429';
+    const fetchImpl = async () => ({ ok: true, json: async () => ({ url: 'https://docs/x.pdf', video: loom }) });
+    expect(await redeemUnlockCode('r', 'abc', { endpoint: '/api/recurso', fetchImpl })).toEqual({ ok: true, url: 'https://docs/x.pdf', video: loom });
+  });
+
+  it('descarta un enlace de video que no es de Loom', async () => {
+    const fetchImpl = async () => ({ ok: true, json: async () => ({ url: 'https://docs/x.pdf', video: 'https://evil.example/share/bcbeb3d2c19d41ae87ff4a045f18d429' }) });
+    expect(await redeemUnlockCode('r', 'abc', { endpoint: '/api/recurso', fetchImpl })).toEqual({ ok: true, url: 'https://docs/x.pdf' });
+  });
+
+  it('descarta un video que no es un id de YouTube ni un enlace de Loom', async () => {
     const fetchImpl = async () => ({ ok: true, json: async () => ({ url: 'https://docs/x.pdf', video: '"><script>' }) });
     expect(await redeemUnlockCode('r', 'abc', { endpoint: '/api/recurso', fetchImpl })).toEqual({ ok: true, url: 'https://docs/x.pdf' });
   });

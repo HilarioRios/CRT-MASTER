@@ -944,7 +944,6 @@ main h1:focus {
   background: var(--panel-2);
   border-color: var(--panel-line);
   color: #f5f0ed;
-  text-transform: uppercase;
 }
 .codigo .input {
   font-size: 16px; /* menos de 16px hace zoom al enfocar en iOS */

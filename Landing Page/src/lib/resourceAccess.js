@@ -1,4 +1,5 @@
 import { localStore } from './storage.js';
+import { parseLoomId } from './video.js';
 
 // Permisos de recursos.
 //
@@ -76,8 +77,8 @@ export async function redeemUnlockCode(resourceId, code, { endpoint, fetchImpl =
     if (!response.ok && response.status !== 403) return { ok: false, reason: 'unavailable' };
     const data = response.ok ? await response.json() : null;
     if (!isSafeUrl(data?.url)) return { ok: false, reason: 'invalid_code' };
-    // El video llega como id de YouTube: cualquier otra cosa se descarta.
-    return typeof data.video === 'string' && /^[\w-]{11}$/.test(data.video)
+    // El video llega como enlace de Loom o id de YouTube: cualquier otra cosa se descarta.
+    return typeof data.video === 'string' && (parseLoomId(data.video) || /^[\w-]{11}$/.test(data.video))
       ? { ok: true, url: data.url, video: data.video }
       : { ok: true, url: data.url };
   } catch {

@@ -67,7 +67,7 @@ export function LockedResource({ resource, status, message, onRequest, onRedeem,
               onChange={(event) => setCode(event.target.value)}
               placeholder="Tu código"
               autoComplete="off"
-              autoCapitalize="characters"
+              autoCapitalize="none"
               spellCheck={false}
               aria-invalid={Boolean(error)}
             />
