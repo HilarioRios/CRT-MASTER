@@ -222,7 +222,7 @@ export function VideoPlayer({ video, title, onPlay, onProgress, onEnded, onTrack
           <button
             type="button"
             className="video-poster video-loom-tapa"
-            aria-label={`Reproducir: ${title}`}
+            aria-label={playing ? `Cargando: ${title}` : `Reproducir: ${title}`}
             disabled={playing}
             onClick={() => {
               wantsPlay.current = true;
@@ -233,16 +233,9 @@ export function VideoPlayer({ video, title, onPlay, onProgress, onEnded, onTrack
             }}
           >
             <Poster className="video-poster-img" src={source.poster} fallback={source.posterFallback} eager />
-            {playing ? (
-              <span className="video-loom-estado" role="status">
-                <span className="video-loom-spinner" aria-hidden="true" />
-                Cargando video…
-              </span>
-            ) : (
-              <span className="video-play" aria-hidden="true">
-                <PlayIcon />
-              </span>
-            )}
+            <span className="video-play" aria-hidden="true">
+              {playing ? <span className="video-loom-spinner" /> : <PlayIcon />}
+            </span>
           </button>
         )}
       </div>

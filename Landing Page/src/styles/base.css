@@ -885,26 +885,9 @@ body {
 .video-loom-tapa:disabled {
   cursor: progress;
 }
-.video-loom-estado {
-  position: absolute;
-  z-index: 2;
-  left: 50%;
-  bottom: 22px;
-  display: inline-flex;
-  align-items: center;
-  gap: 9px;
-  padding: 9px 13px;
-  border-radius: 999px;
-  color: #fff;
-  background: rgba(20, 19, 18, 0.86);
-  font-size: 13px;
-  font-weight: 700;
-  transform: translateX(-50%);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
-}
 .video-loom-spinner {
-  width: 14px;
-  height: 14px;
+  width: 22px;
+  height: 22px;
   border: 2px solid rgba(255, 255, 255, 0.35);
   border-top-color: #fff;
   border-radius: 50%;
