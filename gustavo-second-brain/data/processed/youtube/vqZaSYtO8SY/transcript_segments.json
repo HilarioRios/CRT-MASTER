@@ -1,0 +1,882 @@
+[
+  {
+    "start_sec": 0.63,
+    "end_sec": 3.08,
+    "text": "[Música]"
+  },
+  {
+    "start_sec": 3.08,
+    "end_sec": 5.7,
+    "text": "estamos aquí en un nuevo vídeo para el"
+  },
+  {
+    "start_sec": 5.7,
+    "end_sec": 8.52,
+    "text": "canal donde les voy a traer la"
+  },
+  {
+    "start_sec": 8.52,
+    "end_sec": 10.56,
+    "text": "configuración del fibonacci que estamos"
+  },
+  {
+    "start_sec": 10.56,
+    "end_sec": 12.9,
+    "text": "utilizando para nuestra súper estrategia"
+  },
+  {
+    "start_sec": 12.9,
+    "end_sec": 15.9,
+    "text": "de scalping y de intraday que al día de"
+  },
+  {
+    "start_sec": 15.9,
+    "end_sec": 17.16,
+    "text": "que estoy grabando esto y probablemente"
+  },
+  {
+    "start_sec": 17.16,
+    "end_sec": 19.68,
+    "text": "que se ha subido el vídeo no lo hemos"
+  },
+  {
+    "start_sec": 19.68,
+    "end_sec": 21.06,
+    "text": "subido al Canal pero Próximamente"
+  },
+  {
+    "start_sec": 21.06,
+    "end_sec": 23.34,
+    "text": "esperela en el canal pero para la"
+  },
+  {
+    "start_sec": 23.34,
+    "end_sec": 26.82,
+    "text": "comunidad gratuita de Telegram ya se la"
+  },
+  {
+    "start_sec": 26.82,
+    "end_sec": 29.22,
+    "text": "impartimos en vivo Entonces los que no"
+  },
+  {
+    "start_sec": 29.22,
+    "end_sec": 31.32,
+    "text": "estén unidos al Canal de Telegram se"
+  },
+  {
+    "start_sec": 31.32,
+    "end_sec": 33.18,
+    "text": "pueden unir al Canal de Telegram porque"
+  },
+  {
+    "start_sec": 33.18,
+    "end_sec": 35.52,
+    "text": "ya saben ahí las clases llegan antes y"
+  },
+  {
+    "start_sec": 35.52,
+    "end_sec": 37.46,
+    "text": "también subimos contenido totalmente"
+  },
+  {
+    "start_sec": 37.46,
+    "end_sec": 40.08,
+    "text": "exclusivo para la comunidad de Telegram"
+  },
+  {
+    "start_sec": 40.08,
+    "end_sec": 42.9,
+    "text": "También estamos en WhatsApp y nos pueden"
+  },
+  {
+    "start_sec": 42.9,
+    "end_sec": 45.36,
+    "text": "suscribirse al canal de YouTube que van"
+  },
+  {
+    "start_sec": 45.36,
+    "end_sec": 48.06,
+    "text": "a esperar próximos vídeos bastante"
+  },
+  {
+    "start_sec": 48.06,
+    "end_sec": 50.76,
+    "text": "buenos donde estamos matando la liga de"
+  },
+  {
+    "start_sec": 50.76,
+    "end_sec": 52.98,
+    "text": "verdad Entonces si tú estás mirando Este"
+  },
+  {
+    "start_sec": 52.98,
+    "end_sec": 55.7,
+    "text": "vídeo y no te has suscrito suscríbete"
+  },
+  {
+    "start_sec": 55.7,
+    "end_sec": 57.66,
+    "text": "apóyanos con un like para que el"
+  },
+  {
+    "start_sec": 57.66,
+    "end_sec": 59.94,
+    "text": "algoritmo nos recomiende y síguenos en"
+  },
+  {
+    "start_sec": 59.94,
+    "end_sec": 62.64,
+    "text": "en tiktok en Facebook estamos ahí en"
+  },
+  {
+    "start_sec": 62.64,
+    "end_sec": 65.04,
+    "text": "todos lados estamos partiendo el mercado"
+  },
+  {
+    "start_sec": 65.04,
+    "end_sec": 68.88,
+    "text": "en dos y no te olvides de mirar todo el"
+  },
+  {
+    "start_sec": 68.88,
+    "end_sec": 70.44,
+    "text": "bookcam gratuito que vamos a estar"
+  },
+  {
+    "start_sec": 70.44,
+    "end_sec": 72.3,
+    "text": "subiendo Próximamente ya está la primera"
+  },
+  {
+    "start_sec": 72.3,
+    "end_sec": 74.22,
+    "text": "clase disponible para que la vayas a"
+  },
+  {
+    "start_sec": 74.22,
+    "end_sec": 76.62,
+    "text": "mirar y les voy a traer la configuración"
+  },
+  {
+    "start_sec": 76.62,
+    "end_sec": 78.9,
+    "text": "de este fibonacci el día de hoy que"
+  },
+  {
+    "start_sec": 78.9,
+    "end_sec": 81.12,
+    "text": "muchos me lo habían estado pidiendo Aquí"
+  },
+  {
+    "start_sec": 81.12,
+    "end_sec": 83.64,
+    "text": "tengo los niveles de vivo que ustedes me"
+  },
+  {
+    "start_sec": 83.64,
+    "end_sec": 84.96,
+    "text": "habían estado pidiendo la configuración"
+  },
+  {
+    "start_sec": 84.96,
+    "end_sec": 87.18,
+    "text": "de este fibonacci y a su vez le voy a"
+  },
+  {
+    "start_sec": 87.18,
+    "end_sec": 88.98,
+    "text": "enseñar un poquito cómo funciona pero"
+  },
+  {
+    "start_sec": 88.98,
+    "end_sec": 91.32,
+    "text": "ustedes ya lo van a poder estar viendo a"
+  },
+  {
+    "start_sec": 91.32,
+    "end_sec": 93.9,
+    "text": "detalle en la estrategia este Facebook"
+  },
+  {
+    "start_sec": 93.9,
+    "end_sec": 95.1,
+    "text": "saben que es una herramienta que"
+  },
+  {
+    "start_sec": 95.1,
+    "end_sec": 97.68,
+    "text": "nosotros utilizamos como ayuda visual y"
+  },
+  {
+    "start_sec": 97.68,
+    "end_sec": 100.26,
+    "text": "para identificar zonas importantes donde"
+  },
+  {
+    "start_sec": 100.26,
+    "end_sec": 102.62,
+    "text": "vamos a poder entrar al mercado entonces"
+  },
+  {
+    "start_sec": 102.62,
+    "end_sec": 104.88,
+    "text": "Esta es la configuración del fibo lo"
+  },
+  {
+    "start_sec": 104.88,
+    "end_sec": 106.92,
+    "text": "demás los colores y todo lo demás son"
+  },
+  {
+    "start_sec": 106.92,
+    "end_sec": 109.5,
+    "text": "cuestiones ya visuales que se configuran"
+  },
+  {
+    "start_sec": 109.5,
+    "end_sec": 111.18,
+    "text": "a gusto Pero lo importante son los"
+  },
+  {
+    "start_sec": 111.18,
+    "end_sec": 113.88,
+    "text": "niveles del 50 por ciento"
+  },
+  {
+    "start_sec": 113.88,
+    "end_sec": 118.46,
+    "text": "niveles del 61.8% 70 80"
+  },
+  {
+    "start_sec": 118.46,
+    "end_sec": 124.32,
+    "text": "88.6 95 100% 110 y 127 por ciento"
+  },
+  {
+    "start_sec": 124.32,
+    "end_sec": 126.54,
+    "text": "entonces interesante Aquí está para que"
+  },
+  {
+    "start_sec": 126.54,
+    "end_sec": 128.82,
+    "text": "ustedes lo configuren y lo vean cómo"
+  },
+  {
+    "start_sec": 128.82,
+    "end_sec": 132.24,
+    "text": "funciona Entonces paso algo que quiero"
+  },
+  {
+    "start_sec": 132.24,
+    "end_sec": 134.7,
+    "text": "recalcar primero siempre el fibonacci lo"
+  },
+  {
+    "start_sec": 134.7,
+    "end_sec": 136.32,
+    "text": "vamos a tratar de izquierda a derecha"
+  },
+  {
+    "start_sec": 136.32,
+    "end_sec": 139.14,
+    "text": "siempre bueno en este caso de mi"
+  },
+  {
+    "start_sec": 139.14,
+    "end_sec": 142.34,
+    "text": "izquierda hacia mi derecha de de aquí"
+  },
+  {
+    "start_sec": 142.34,
+    "end_sec": 145.5,
+    "text": "hacia este punto según el fractal que"
+  },
+  {
+    "start_sec": 145.5,
+    "end_sec": 148.26,
+    "text": "quiera que queramos medir fíjense muy"
+  },
+  {
+    "start_sec": 148.26,
+    "end_sec": 150.36,
+    "text": "bien Vamos a hacer primero les voy a"
+  },
+  {
+    "start_sec": 150.36,
+    "end_sec": 152.64,
+    "text": "explicar cómo funcionan y después vamos"
+  },
+  {
+    "start_sec": 152.64,
+    "end_sec": 154.74,
+    "text": "a hacer una pequeña práctica para que"
+  },
+  {
+    "start_sec": 154.74,
+    "end_sec": 156.72,
+    "text": "este vídeo quede totalmente completo y"
+  },
+  {
+    "start_sec": 156.72,
+    "end_sec": 158.58,
+    "text": "no haya duda vamos a tomar en cuenta"
+  },
+  {
+    "start_sec": 158.58,
+    "end_sec": 160.98,
+    "text": "este pequeño fractal que tenemos por"
+  },
+  {
+    "start_sec": 160.98,
+    "end_sec": 163.2,
+    "text": "aquí o este movimiento y fíjense vamos a"
+  },
+  {
+    "start_sec": 163.2,
+    "end_sec": 165.3,
+    "text": "medir este pequeño retroceso que ha"
+  },
+  {
+    "start_sec": 165.3,
+    "end_sec": 167.16,
+    "text": "tenido el precio bueno vamos a medir"
+  },
+  {
+    "start_sec": 167.16,
+    "end_sec": 168.9,
+    "text": "este pequeñito para que ustedes me"
+  },
+  {
+    "start_sec": 168.9,
+    "end_sec": 170.52,
+    "text": "entiendan y se entienda bastante bien"
+  },
+  {
+    "start_sec": 170.52,
+    "end_sec": 172.62,
+    "text": "este fibonacci fíjense si nosotros"
+  },
+  {
+    "start_sec": 172.62,
+    "end_sec": 175.26,
+    "text": "medimos de este punto a este punto vamos"
+  },
+  {
+    "start_sec": 175.26,
+    "end_sec": 177.48,
+    "text": "a ver que el precio muy probablemente"
+  },
+  {
+    "start_sec": 177.48,
+    "end_sec": 181.8,
+    "text": "retrocedió a un 80%, entonces niveles de"
+  },
+  {
+    "start_sec": 181.8,
+    "end_sec": 186.06,
+    "text": "110 127 por ciento niveles de entre 80"
+  },
+  {
+    "start_sec": 186.06,
+    "end_sec": 190.02,
+    "text": "88 95% son niveles que nosotros vamos a"
+  },
+  {
+    "start_sec": 190.02,
+    "end_sec": 192.6,
+    "text": "poder estar en este caso vendiendo todo"
+  },
+  {
+    "start_sec": 192.6,
+    "end_sec": 194.88,
+    "text": "lo que esté por encima del 50% van a ser"
+  },
+  {
+    "start_sec": 194.88,
+    "end_sec": 196.86,
+    "text": "zonas de venta en este caso todo lo que"
+  },
+  {
+    "start_sec": 196.86,
+    "end_sec": 199.08,
+    "text": "esté por debajo del 50% van a ser zonas"
+  },
+  {
+    "start_sec": 199.08,
+    "end_sec": 202.38,
+    "text": "de compras ventas arriba compras abajo y"
+  },
+  {
+    "start_sec": 202.38,
+    "end_sec": 205.14,
+    "text": "niveles del 61.8 lo utilizamos para ver"
+  },
+  {
+    "start_sec": 205.14,
+    "end_sec": 207.18,
+    "text": "las inducciones o las manipulaciones que"
+  },
+  {
+    "start_sec": 207.18,
+    "end_sec": 209.76,
+    "text": "hace mucho el mercado niveles de entre"
+  },
+  {
+    "start_sec": 209.76,
+    "end_sec": 212.84,
+    "text": "el 70 y el 80%"
+  },
+  {
+    "start_sec": 212.84,
+    "end_sec": 215.88,
+    "text": "88% son niveles de zonas decisionales"
+  },
+  {
+    "start_sec": 215.88,
+    "end_sec": 218.16,
+    "text": "donde el precio decidió romper la"
+  },
+  {
+    "start_sec": 218.16,
+    "end_sec": 221.48,
+    "text": "estructura por estructura niveles del 88"
+  },
+  {
+    "start_sec": 221.48,
+    "end_sec": 226.14,
+    "text": "al 95 incluso 100% son áreas de extremo"
+  },
+  {
+    "start_sec": 226.14,
+    "end_sec": 228.12,
+    "text": "entonces áreas de extremo áreas de"
+  },
+  {
+    "start_sec": 228.12,
+    "end_sec": 231.18,
+    "text": "adicional entre el 70 y el 88 decisional"
+  },
+  {
+    "start_sec": 231.18,
+    "end_sec": 233.76,
+    "text": "entre el 88 y 100% aproximadamente"
+  },
+  {
+    "start_sec": 233.76,
+    "end_sec": 237.24,
+    "text": "extrema y zonas de manipulación o zonas"
+  },
+  {
+    "start_sec": 237.24,
+    "end_sec": 241.74,
+    "text": "de stopcond 127 y 110 por ciento y así"
+  },
+  {
+    "start_sec": 241.74,
+    "end_sec": 244.1,
+    "text": "es como se vería nuestro poderoso"
+  },
+  {
+    "start_sec": 244.1,
+    "end_sec": 246.12,
+    "text": "fibonacci Se los voy a explicar con una"
+  },
+  {
+    "start_sec": 246.12,
+    "end_sec": 247.16,
+    "text": "entrada que tuvimos el día de hoy"
+  },
+  {
+    "start_sec": 247.16,
+    "end_sec": 249.9,
+    "text": "fíjense muy bien gráfico de una hora de"
+  },
+  {
+    "start_sec": 249.9,
+    "end_sec": 252.44,
+    "text": "30 nosotros tuvimos una entrada por acá"
+  },
+  {
+    "start_sec": 252.44,
+    "end_sec": 255.0,
+    "text": "por acá Tuvimos una entrada fíjense muy"
+  },
+  {
+    "start_sec": 255.0,
+    "end_sec": 256.92,
+    "text": "bien cómo funciona este fue una noche Yo"
+  },
+  {
+    "start_sec": 256.92,
+    "end_sec": 260.28,
+    "text": "me di si se fijan de este punto a este"
+  },
+  {
+    "start_sec": 260.28,
+    "end_sec": 262.62,
+    "text": "punto me di nuestro fractal que"
+  },
+  {
+    "start_sec": 262.62,
+    "end_sec": 264.66,
+    "text": "llevábamos y el precio pegó un mechas"
+  },
+  {
+    "start_sec": 264.66,
+    "end_sec": 268.02,
+    "text": "hacia arriba una vez la fuerte y llegó a"
+  },
+  {
+    "start_sec": 268.02,
+    "end_sec": 272.22,
+    "text": "nuestra zona de stopcond 110 y 127 por"
+  },
+  {
+    "start_sec": 272.22,
+    "end_sec": 275.04,
+    "text": "aproximadamente por encima del 110 la"
+  },
+  {
+    "start_sec": 275.04,
+    "end_sec": 277.32,
+    "text": "zona sería todo este cuadrito entre el"
+  },
+  {
+    "start_sec": 277.32,
+    "end_sec": 279.9,
+    "text": "110 y el 127 zona de stopcolm también"
+  },
+  {
+    "start_sec": 279.9,
+    "end_sec": 282.24,
+    "text": "teníamos nuestro order block extremo"
+  },
+  {
+    "start_sec": 282.24,
+    "end_sec": 284.88,
+    "text": "entre el 100 y el 88 aproximadamente un"
+  },
+  {
+    "start_sec": 284.88,
+    "end_sec": 287.22,
+    "text": "poquito más abajo del 88 y nuestra zona"
+  },
+  {
+    "start_sec": 287.22,
+    "end_sec": 289.68,
+    "text": "de decisional entre ese mismo nivel que"
+  },
+  {
+    "start_sec": 289.68,
+    "end_sec": 294.72,
+    "text": "sería del 88 85 86% por ahí anda blogs y"
+  },
+  {
+    "start_sec": 294.72,
+    "end_sec": 297.72,
+    "text": "un 70% y nuestra zona de equilibrio el"
+  },
+  {
+    "start_sec": 297.72,
+    "end_sec": 300.0,
+    "text": "50%, por eso si se fijan aquí tuvo un"
+  },
+  {
+    "start_sec": 300.0,
+    "end_sec": 302.04,
+    "text": "retroceso el precio para luego ir a"
+  },
+  {
+    "start_sec": 302.04,
+    "end_sec": 303.54,
+    "text": "buscar finalmente la zona que le"
+  },
+  {
+    "start_sec": 303.54,
+    "end_sec": 306.84,
+    "text": "interesaba Ok excelente entonces así"
+  },
+  {
+    "start_sec": 306.84,
+    "end_sec": 309.18,
+    "text": "funcionaría nuestro fibonacci como les"
+  },
+  {
+    "start_sec": 309.18,
+    "end_sec": 312.18,
+    "text": "digo lo tenemos mucho más detallado en"
+  },
+  {
+    "start_sec": 312.18,
+    "end_sec": 314.46,
+    "text": "la clase que tuvimos las clases que"
+  },
+  {
+    "start_sec": 314.46,
+    "end_sec": 316.2,
+    "text": "tuvimos del vodka Entonces no se"
+  },
+  {
+    "start_sec": 316.2,
+    "end_sec": 317.94,
+    "text": "preocupen por eso ahora les voy a"
+  },
+  {
+    "start_sec": 317.94,
+    "end_sec": 321.56,
+    "text": "enseñar a la inversa si medimos de"
+  },
+  {
+    "start_sec": 321.56,
+    "end_sec": 326.58,
+    "text": "del del de este punto a este punto más o"
+  },
+  {
+    "start_sec": 326.58,
+    "end_sec": 328.34,
+    "text": "menos el nivel"
+  },
+  {
+    "start_sec": 328.34,
+    "end_sec": 331.86,
+    "text": "que había tenido el el High el precio de"
+  },
+  {
+    "start_sec": 331.86,
+    "end_sec": 334.92,
+    "text": "este punto vamos a señalarlo por acá de"
+  },
+  {
+    "start_sec": 334.92,
+    "end_sec": 337.02,
+    "text": "este punto al alto que había tenido el"
+  },
+  {
+    "start_sec": 337.02,
+    "end_sec": 338.82,
+    "text": "precio si se fija en el precio del nuevo"
+  },
+  {
+    "start_sec": 338.82,
+    "end_sec": 340.58,
+    "text": "se metió en una zona de un"
+  },
+  {
+    "start_sec": 340.58,
+    "end_sec": 343.92,
+    "text": "127%. zona de compras o zona de stop"
+  },
+  {
+    "start_sec": 343.92,
+    "end_sec": 346.32,
+    "text": "Hunt donde liquidó estos bajos y a"
+  },
+  {
+    "start_sec": 346.32,
+    "end_sec": 347.82,
+    "text": "partir de ahí hizo un pequeño retroceso"
+  },
+  {
+    "start_sec": 347.82,
+    "end_sec": 350.28,
+    "text": "para seguir su tendencia e ir a una zona"
+  },
+  {
+    "start_sec": 350.28,
+    "end_sec": 351.96,
+    "text": "mucho más mayor que es esa zona de acá"
+  },
+  {
+    "start_sec": 351.96,
+    "end_sec": 355.02,
+    "text": "que era la que le entonces así"
+  },
+  {
+    "start_sec": 355.02,
+    "end_sec": 358.02,
+    "text": "funcionaría nuestro fibonacci Entonces"
+  },
+  {
+    "start_sec": 358.02,
+    "end_sec": 360.3,
+    "text": "vamos a resumirlo de nuevo para que"
+  },
+  {
+    "start_sec": 360.3,
+    "end_sec": 361.92,
+    "text": "quede muy claro muy cortito el vídeo"
+  },
+  {
+    "start_sec": 361.92,
+    "end_sec": 364.44,
+    "text": "pero muy claro fíjense nuestro fibonacci"
+  },
+  {
+    "start_sec": 364.44,
+    "end_sec": 368.28,
+    "text": "zonas de 50% zona de equilibrio donde"
+  },
+  {
+    "start_sec": 368.28,
+    "end_sec": 369.72,
+    "text": "vamos a estar teniendo ojo con el precio"
+  },
+  {
+    "start_sec": 369.72,
+    "end_sec": 372.0,
+    "text": "si venimos en compra porque por aquí"
+  },
+  {
+    "start_sec": 372.0,
+    "end_sec": 373.86,
+    "text": "podría regresarse no supongamos que"
+  },
+  {
+    "start_sec": 373.86,
+    "end_sec": 375.86,
+    "text": "venimos en una tendencia completamente"
+  },
+  {
+    "start_sec": 375.86,
+    "end_sec": 378.42,
+    "text": "bajista entonces aquí podría retornar el"
+  },
+  {
+    "start_sec": 378.42,
+    "end_sec": 380.7,
+    "text": "precio luego zonas óptimas de"
+  },
+  {
+    "start_sec": 380.7,
+    "end_sec": 386.36,
+    "text": "decisionales entre un 70 y un 88 por"
+  },
+  {
+    "start_sec": 386.36,
+    "end_sec": 389.66,
+    "text": "88.6% aproxima"
+  },
+  {
+    "start_sec": 389.66,
+    "end_sec": 392.88,
+    "text": "más pero son niveles institucionales y"
+  },
+  {
+    "start_sec": 392.88,
+    "end_sec": 395.22,
+    "text": "zona extrema originador de este"
+  },
+  {
+    "start_sec": 395.22,
+    "end_sec": 396.72,
+    "text": "movimiento fractal podríamos decir que"
+  },
+  {
+    "start_sec": 396.72,
+    "end_sec": 398.94,
+    "text": "el movimiento fractal sería este el"
+  },
+  {
+    "start_sec": 398.94,
+    "end_sec": 402.12,
+    "text": "original Aunque aquí este sería el"
+  },
+  {
+    "start_sec": 402.12,
+    "end_sec": 404.4,
+    "text": "originador del fractal entre un 100%"
+  },
+  {
+    "start_sec": 404.4,
+    "end_sec": 406.46,
+    "text": "Igualmente si el precio viene por acá"
+  },
+  {
+    "start_sec": 406.46,
+    "end_sec": 409.38,
+    "text": "Este les decisional y nuestro extremo"
+  },
+  {
+    "start_sec": 409.38,
+    "end_sec": 411.42,
+    "text": "podría encontrarse en esta zona que está"
+  },
+  {
+    "start_sec": 411.42,
+    "end_sec": 416.06,
+    "text": "aquí entre 100% 95 y 38.6 y las zonas de"
+  },
+  {
+    "start_sec": 416.06,
+    "end_sec": 418.02,
+    "text": "stopcolm donde también el precio puede"
+  },
+  {
+    "start_sec": 418.02,
+    "end_sec": 419.64,
+    "text": "tener una reversión como lo vimos el día"
+  },
+  {
+    "start_sec": 419.64,
+    "end_sec": 423.84,
+    "text": "de hoy en los 30 entre el 110 127% y por"
+  },
+  {
+    "start_sec": 423.84,
+    "end_sec": 425.88,
+    "text": "ahí podría el precio reaccionar tomar"
+  },
+  {
+    "start_sec": 425.88,
+    "end_sec": 428.76,
+    "text": "liquidez del High y ahí caer que fue"
+  },
+  {
+    "start_sec": 428.76,
+    "end_sec": 430.14,
+    "text": "exactamente lo que hizo el día de hoy"
+  },
+  {
+    "start_sec": 430.14,
+    "end_sec": 432.12,
+    "text": "Bueno espero que se haya entendido"
+  },
+  {
+    "start_sec": 432.12,
+    "end_sec": 433.8,
+    "text": "totalmente Este fibonache es un video"
+  },
+  {
+    "start_sec": 433.8,
+    "end_sec": 436.62,
+    "text": "bastante cortito para que lo vean"
+  },
+  {
+    "start_sec": 436.62,
+    "end_sec": 438.06,
+    "text": "ustedes esta herramienta que estamos"
+  },
+  {
+    "start_sec": 438.06,
+    "end_sec": 439.74,
+    "text": "manejando en nuestra estrategia Espero"
+  },
+  {
+    "start_sec": 439.74,
+    "end_sec": 441.48,
+    "text": "que les haya gustado suscribanse al"
+  },
+  {
+    "start_sec": 441.48,
+    "end_sec": 446.46,
+    "text": "Canal para más y nos vemos en la próxima"
+  },
+  {
+    "start_sec": 446.46,
+    "end_sec": 464.02,
+    "text": "[Música]"
+  }
+]

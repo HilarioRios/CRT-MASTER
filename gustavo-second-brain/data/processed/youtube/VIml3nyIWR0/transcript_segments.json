@@ -1,0 +1,792 @@
+[
+  {
+    "start_sec": 0.0,
+    "end_sec": 2.44,
+    "text": "Hola Qué pasa a todos amigos de YouTube"
+  },
+  {
+    "start_sec": 2.44,
+    "end_sec": 3.88,
+    "text": "ya estamos en un nuevo video esta vez"
+  },
+  {
+    "start_sec": 3.88,
+    "end_sec": 6.96,
+    "text": "con la mentoría gratuita 2024 ya estamos"
+  },
+  {
+    "start_sec": 6.96,
+    "end_sec": 9.08,
+    "text": "terminando el módulo 4ro eh nos faltan"
+  },
+  {
+    "start_sec": 9.08,
+    "end_sec": 12.08,
+    "text": "dos clasecitas Esta es la clase número"
+  },
+  {
+    "start_sec": 12.08,
+    "end_sec": 15.56,
+    "text": "cuatro y es dónde salir de un Trade bien"
+  },
+  {
+    "start_sec": 15.56,
+    "end_sec": 17.92,
+    "text": "importante la salida de un Trade por qué"
+  },
+  {
+    "start_sec": 17.92,
+    "end_sec": 19.88,
+    "text": "porque muchas gente saben entrar"
+  },
+  {
+    "start_sec": 19.88,
+    "end_sec": 22.84,
+    "text": "bastante bien saben hacerlo bien saben"
+  },
+  {
+    "start_sec": 22.84,
+    "end_sec": 24.84,
+    "text": "entrar saben tomar una entrada de"
+  },
+  {
+    "start_sec": 24.84,
+    "end_sec": 27.36,
+    "text": "sniping saben aplicar su estrategia pero"
+  },
+  {
+    "start_sec": 27.36,
+    "end_sec": 30.0,
+    "text": "no saben dónde salir de manera objetiva"
+  },
+  {
+    "start_sec": 30.0,
+    "end_sec": 32.92,
+    "text": "I Entonces es bien importante que tú"
+  },
+  {
+    "start_sec": 32.92,
+    "end_sec": 35.88,
+    "text": "sepas dónde vas a salir de un Trade para"
+  },
+  {
+    "start_sec": 35.88,
+    "end_sec": 37.56,
+    "text": "que puedas tener ganancias para que"
+  },
+  {
+    "start_sec": 37.56,
+    "end_sec": 39.84,
+    "text": "puedas tener ganancias recurrentes y"
+  },
+  {
+    "start_sec": 39.84,
+    "end_sec": 42.12,
+    "text": "para que sobre todo tus ganancias cubran"
+  },
+  {
+    "start_sec": 42.12,
+    "end_sec": 43.96,
+    "text": "a tus pérdidas verdad Entonces vamos a"
+  },
+  {
+    "start_sec": 43.96,
+    "end_sec": 46.68,
+    "text": "ver qué es el Take profit o la salida"
+  },
+  {
+    "start_sec": 46.68,
+    "end_sec": 49.28,
+    "text": "verdad Entonces el Take profit es una o"
+  },
+  {
+    "start_sec": 49.28,
+    "end_sec": 50.96,
+    "text": "tomar ganancias es una orden de un"
+  },
+  {
+    "start_sec": 50.96,
+    "end_sec": 53.04,
+    "text": "Trader que que el Trader coloca para"
+  },
+  {
+    "start_sec": 53.04,
+    "end_sec": 54.76,
+    "text": "vender un activo cuando alcance un"
+  },
+  {
+    "start_sec": 54.76,
+    "end_sec": 56.88,
+    "text": "precio determinado esta herramienta se"
+  },
+  {
+    "start_sec": 56.88,
+    "end_sec": 59.16,
+    "text": "utiliza para asegurar las ganancias una"
+  },
+  {
+    "start_sec": 59.16,
+    "end_sec": 61.0,
+    "text": "vez que el mer alcanzado un nivel"
+  },
+  {
+    "start_sec": 61.0,
+    "end_sec": 64.08,
+    "text": "favorable entonces la orden Take profit"
+  },
+  {
+    "start_sec": 64.08,
+    "end_sec": 66.64,
+    "text": "cierra automáticamente la posición Una"
+  },
+  {
+    "start_sec": 66.64,
+    "end_sec": 68.44,
+    "text": "vez que se alcanza el precio objetivo"
+  },
+  {
+    "start_sec": 68.44,
+    "end_sec": 70.32,
+    "text": "predeterminado del Trader para"
+  },
+  {
+    "start_sec": 70.32,
+    "end_sec": 72.92,
+    "text": "capitalizar las ganancias el Take profit"
+  },
+  {
+    "start_sec": 72.92,
+    "end_sec": 75.64,
+    "text": "hay muchas maneras de hacerlo pero yo lo"
+  },
+  {
+    "start_sec": 75.64,
+    "end_sec": 78.6,
+    "text": "hago actualmente fijo Qué significa que"
+  },
+  {
+    "start_sec": 78.6,
+    "end_sec": 82.48,
+    "text": "es fijo que eh está siempre en un nivel"
+  },
+  {
+    "start_sec": 82.48,
+    "end_sec": 85.76,
+    "text": "basado en qué basado en un Back testing"
+  },
+  {
+    "start_sec": 85.76,
+    "end_sec": 89.92,
+    "text": "no basado en un High en un low etcétera"
+  },
+  {
+    "start_sec": 89.92,
+    "end_sec": 92.4,
+    "text": "etcétera Pero aquí te voy a decir o te"
+  },
+  {
+    "start_sec": 92.4,
+    "end_sec": 94.92,
+    "text": "voy a definir unas ideas para que tú"
+  },
+  {
+    "start_sec": 94.92,
+    "end_sec": 97.2,
+    "text": "puedas poder definir tu Take profit lo"
+  },
+  {
+    "start_sec": 97.2,
+    "end_sec": 99.44,
+    "text": "primero es entender el máximo potencial"
+  },
+  {
+    "start_sec": 99.44,
+    "end_sec": 102.2,
+    "text": "de tu Trade entender hasta dónde va a"
+  },
+  {
+    "start_sec": 102.2,
+    "end_sec": 104.88,
+    "text": "llegar tu Trade como máximo verdad Y"
+  },
+  {
+    "start_sec": 104.88,
+    "end_sec": 107.16,
+    "text": "dónde podrías estar poniendo esa orden"
+  },
+  {
+    "start_sec": 107.16,
+    "end_sec": 110.0,
+    "text": "de de toma de ganancia lo segundo es"
+  },
+  {
+    "start_sec": 110.0,
+    "end_sec": 112.12,
+    "text": "entender En qué parte del mercado vamos"
+  },
+  {
+    "start_sec": 112.12,
+    "end_sec": 114.6,
+    "text": "a tomar ganancia entender Qué es la"
+  },
+  {
+    "start_sec": 114.6,
+    "end_sec": 116.6,
+    "text": "parte de Mercado que Tú manejas mejor"
+  },
+  {
+    "start_sec": 116.6,
+    "end_sec": 119.08,
+    "text": "luego vas a definir tus targets que sean"
+  },
+  {
+    "start_sec": 119.08,
+    "end_sec": 122.08,
+    "text": "unos targets totalmente objetivos unos"
+  },
+  {
+    "start_sec": 122.08,
+    "end_sec": 124.64,
+    "text": "targets que tú digas el precio siempre"
+  },
+  {
+    "start_sec": 124.64,
+    "end_sec": 126.52,
+    "text": "me da el uno a dos el precio siempre me"
+  },
+  {
+    "start_sec": 126.52,
+    "end_sec": 128.28,
+    "text": "da el uno a tres entonces Aquí voy a"
+  },
+  {
+    "start_sec": 128.28,
+    "end_sec": 130.6,
+    "text": "definir mis targets de manera objetiva"
+  },
+  {
+    "start_sec": 130.6,
+    "end_sec": 131.96,
+    "text": "luego lo que vamos a hacer es"
+  },
+  {
+    "start_sec": 131.96,
+    "end_sec": 134.04,
+    "text": "sistematizar esta forma de tomar"
+  },
+  {
+    "start_sec": 134.04,
+    "end_sec": 136.32,
+    "text": "ganancias Ya lo vamos a hacer una regla"
+  },
+  {
+    "start_sec": 136.32,
+    "end_sec": 139.04,
+    "text": "fija a partir de hacerlo una regla fija"
+  },
+  {
+    "start_sec": 139.04,
+    "end_sec": 142.0,
+    "text": "ya vamos a poder tener siempre una idea"
+  },
+  {
+    "start_sec": 142.0,
+    "end_sec": 144.6,
+    "text": "de dónde vamos a tomar beneficios antes"
+  },
+  {
+    "start_sec": 144.6,
+    "end_sec": 146.44,
+    "text": "de entrar un Trade es bien importante"
+  },
+  {
+    "start_sec": 146.44,
+    "end_sec": 148.2,
+    "text": "que antes de entrar a un Trade tú sepas"
+  },
+  {
+    "start_sec": 148.2,
+    "end_sec": 150.72,
+    "text": "dónde vas a estar tomando beneficios"
+  },
+  {
+    "start_sec": 150.72,
+    "end_sec": 153.12,
+    "text": "si no somos capaces de dejar correr si"
+  },
+  {
+    "start_sec": 153.12,
+    "end_sec": 155.36,
+    "text": "no eres capaz o te cuesta dejar correr"
+  },
+  {
+    "start_sec": 155.36,
+    "end_sec": 157.4,
+    "text": "un Trade al uno a tres al uno a cuatro"
+  },
+  {
+    "start_sec": 157.4,
+    "end_sec": 159.32,
+    "text": "al uno a c vamos a colocar lo que son"
+  },
+  {
+    "start_sec": 159.32,
+    "end_sec": 161.56,
+    "text": "descargas de presión las descargas de"
+  },
+  {
+    "start_sec": 161.56,
+    "end_sec": 164.28,
+    "text": "presión Qué son los parciales si tú eres"
+  },
+  {
+    "start_sec": 164.28,
+    "end_sec": 166.84,
+    "text": "una persona que te cuesta quieres tu tu"
+  },
+  {
+    "start_sec": 166.84,
+    "end_sec": 168.64,
+    "text": "Trade siempre te llega al uno a cco pero"
+  },
+  {
+    "start_sec": 168.64,
+    "end_sec": 170.92,
+    "text": "te cuesta por cuestiones psicológicas"
+  },
+  {
+    "start_sec": 170.92,
+    "end_sec": 172.4,
+    "text": "por lo que tú quieras entonces vas a"
+  },
+  {
+    "start_sec": 172.4,
+    "end_sec": 174.12,
+    "text": "colocar parcial en el uno a dos en el"
+  },
+  {
+    "start_sec": 174.12,
+    "end_sec": 176.92,
+    "text": "uno a uno en el uno a tres también esta"
+  },
+  {
+    "start_sec": 176.92,
+    "end_sec": 179.36,
+    "text": "estos parciales en un futuro te van a"
+  },
+  {
+    "start_sec": 179.36,
+    "end_sec": 181.48,
+    "text": "ayudar a a ti a ver bueno el precio"
+  },
+  {
+    "start_sec": 181.48,
+    "end_sec": 183.84,
+    "text": "siempre llega al 1o a tres pero es un"
+  },
+  {
+    "start_sec": 183.84,
+    "end_sec": 185.76,
+    "text": "parcial o Entonces ya a lo mejor tu"
+  },
+  {
+    "start_sec": 185.76,
+    "end_sec": 187.52,
+    "text": "ratio riesgo beneficio en lugar de ser"
+  },
+  {
+    "start_sec": 187.52,
+    "end_sec": 189.8,
+    "text": "uno a c que era inicialmente Ahora va a"
+  },
+  {
+    "start_sec": 189.8,
+    "end_sec": 191.72,
+    "text": "ser uno a tres en el parcial pero ya no"
+  },
+  {
+    "start_sec": 191.72,
+    "end_sec": 193.64,
+    "text": "vas a tomar parciales esto también te va"
+  },
+  {
+    "start_sec": 193.64,
+    "end_sec": 196.08,
+    "text": "a ayudar para poder medir dónde podrías"
+  },
+  {
+    "start_sec": 196.08,
+    "end_sec": 198.4,
+    "text": "tú salir con mayor objetividad luego lo"
+  },
+  {
+    "start_sec": 198.4,
+    "end_sec": 200.28,
+    "text": "que vas a tener en cuenta que para que"
+  },
+  {
+    "start_sec": 200.28,
+    "end_sec": 202.44,
+    "text": "sea una una operación ganadora depende"
+  },
+  {
+    "start_sec": 202.44,
+    "end_sec": 205.48,
+    "text": "del Target El sl y la gestión del Trade"
+  },
+  {
+    "start_sec": 205.48,
+    "end_sec": 207.6,
+    "text": "verad medir hasta cuándo somos capaces"
+  },
+  {
+    "start_sec": 207.6,
+    "end_sec": 209.32,
+    "text": "de dejar un correo una operación muchas"
+  },
+  {
+    "start_sec": 209.32,
+    "end_sec": 211.2,
+    "text": "personas no son capaces de dejar correr"
+  },
+  {
+    "start_sec": 211.2,
+    "end_sec": 212.24,
+    "text": "una operación por cuestiones"
+  },
+  {
+    "start_sec": 212.24,
+    "end_sec": 215.32,
+    "text": "psicológicas o entonces eh entender eso"
+  },
+  {
+    "start_sec": 215.32,
+    "end_sec": 216.76,
+    "text": "no si quieres estar ganando más"
+  },
+  {
+    "start_sec": 216.76,
+    "end_sec": 218.76,
+    "text": "frecuentemente que estar dejando correr"
+  },
+  {
+    "start_sec": 218.76,
+    "end_sec": 221.28,
+    "text": "un Trade eh yo personalmente antes tenía"
+  },
+  {
+    "start_sec": 221.28,
+    "end_sec": 224.36,
+    "text": "eh un rr de uno a seis tomaba un uno a"
+  },
+  {
+    "start_sec": 224.36,
+    "end_sec": 226.2,
+    "text": "seis siempre tomaba unos parciales y se"
+  },
+  {
+    "start_sec": 226.2,
+    "end_sec": 230.16,
+    "text": "me quedaban 1 cu y después bajé a un 1 a"
+  },
+  {
+    "start_sec": 230.16,
+    "end_sec": 232.6,
+    "text": "1.6 y estoy teniendo unos resultados"
+  },
+  {
+    "start_sec": 232.6,
+    "end_sec": 234.72,
+    "text": "enormes Entonces no tengas paradigmas"
+  },
+  {
+    "start_sec": 234.72,
+    "end_sec": 237.96,
+    "text": "con lo que son eh los los targets verdad"
+  },
+  {
+    "start_sec": 237.96,
+    "end_sec": 239.88,
+    "text": "siempre tiene que ser un Target que que"
+  },
+  {
+    "start_sec": 239.88,
+    "end_sec": 241.52,
+    "text": "tú digas Bueno mi estrategia aquí me lo"
+  },
+  {
+    "start_sec": 241.52,
+    "end_sec": 243.84,
+    "text": "da soy capaz de dejar psicológicamente"
+  },
+  {
+    "start_sec": 243.84,
+    "end_sec": 246.16,
+    "text": "correr el Trade hasta ese nivel Y a"
+  },
+  {
+    "start_sec": 246.16,
+    "end_sec": 247.64,
+    "text": "partir de ahí ya puedes tú tomar"
+  },
+  {
+    "start_sec": 247.64,
+    "end_sec": 249.56,
+    "text": "ganancias de forma profesional es"
+  },
+  {
+    "start_sec": 249.56,
+    "end_sec": 250.96,
+    "text": "importante que estés probando con"
+  },
+  {
+    "start_sec": 250.96,
+    "end_sec": 253.0,
+    "text": "diferentes ratios riesgo beneficio con"
+  },
+  {
+    "start_sec": 253.0,
+    "end_sec": 255.12,
+    "text": "el 1 a dos con el 1 TR para ver dónde te"
+  },
+  {
+    "start_sec": 255.12,
+    "end_sec": 257.68,
+    "text": "sientes más cómodo eh B estes en tu"
+  },
+  {
+    "start_sec": 257.68,
+    "end_sec": 259.92,
+    "text": "estrategia eh Hasta cuánto te da"
+  },
+  {
+    "start_sec": 259.92,
+    "end_sec": 262.72,
+    "text": "ganancias hasta el 1 a 1 1 2 1 a 3 1 cu"
+  },
+  {
+    "start_sec": 262.72,
+    "end_sec": 265.2,
+    "text": "1 C eh Y también que tengas en cuenta el"
+  },
+  {
+    "start_sec": 265.2,
+    "end_sec": 267.2,
+    "text": "tamaño del stop loss tal vez prefiero"
+  },
+  {
+    "start_sec": 267.2,
+    "end_sec": 269.16,
+    "text": "sacrificar stop loss tenerlo un poquito"
+  },
+  {
+    "start_sec": 269.16,
+    "end_sec": 271.72,
+    "text": "más grande pero estoy más seguro más más"
+  },
+  {
+    "start_sec": 271.72,
+    "end_sec": 273.6,
+    "text": "tranquilo en la operación porque mi stbl"
+  },
+  {
+    "start_sec": 273.6,
+    "end_sec": 274.92,
+    "text": "está más grande no me va a sacar tan"
+  },
+  {
+    "start_sec": 274.92,
+    "end_sec": 277.88,
+    "text": "fácil pero tengo un rr más pequeño o"
+  },
+  {
+    "start_sec": 277.88,
+    "end_sec": 280.64,
+    "text": "Quiero un rr más pequeño y un stop bl"
+  },
+  {
+    "start_sec": 280.64,
+    "end_sec": 283.8,
+    "text": "más eh eh Perdón un rr más grande y un"
+  },
+  {
+    "start_sec": 283.8,
+    "end_sec": 285.96,
+    "text": "stop bl más pequeño por último teníamos"
+  },
+  {
+    "start_sec": 285.96,
+    "end_sec": 288.76,
+    "text": "la teoría de Max potential Trade es"
+  },
+  {
+    "start_sec": 288.76,
+    "end_sec": 290.8,
+    "text": "hasta dónde yo quiero tomar beneficios"
+  },
+  {
+    "start_sec": 290.8,
+    "end_sec": 293.08,
+    "text": "dónde estoy dispuesto a tomar en verdad"
+  },
+  {
+    "start_sec": 293.08,
+    "end_sec": 295.12,
+    "text": "mis beneficios por ejemplo aquí tenemos"
+  },
+  {
+    "start_sec": 295.12,
+    "end_sec": 296.96,
+    "text": "el caso número a que es una entrada Aquí"
+  },
+  {
+    "start_sec": 296.96,
+    "end_sec": 299.72,
+    "text": "en esta zona en donde dice entry aquí"
+  },
+  {
+    "start_sec": 299.72,
+    "end_sec": 301.8,
+    "text": "tenemos una entrada en esta zona y el"
+  },
+  {
+    "start_sec": 301.8,
+    "end_sec": 303.8,
+    "text": "precio lo dejas correr hasta acá verdad"
+  },
+  {
+    "start_sec": 303.8,
+    "end_sec": 306.16,
+    "text": "Pero dentro de eso tú te comes todos los"
+  },
+  {
+    "start_sec": 306.16,
+    "end_sec": 308.04,
+    "text": "retrocesos que hay en el precio hasta"
+  },
+  {
+    "start_sec": 308.04,
+    "end_sec": 309.76,
+    "text": "llegar el precio hasta acá pero cómo"
+  },
+  {
+    "start_sec": 309.76,
+    "end_sec": 311.84,
+    "text": "determinas esto Pues con tu Back testing"
+  },
+  {
+    "start_sec": 311.84,
+    "end_sec": 313.88,
+    "text": "determinas que tú vas a poder salir ahí"
+  },
+  {
+    "start_sec": 313.88,
+    "end_sec": 315.68,
+    "text": "a partir de aquí pues tú ya puedes fijar"
+  },
+  {
+    "start_sec": 315.68,
+    "end_sec": 318.48,
+    "text": "niveles de parciales si quieres tenemos"
+  },
+  {
+    "start_sec": 318.48,
+    "end_sec": 321.28,
+    "text": "el caso B Que fíjate que eh lo es la"
+  },
+  {
+    "start_sec": 321.28,
+    "end_sec": 323.36,
+    "text": "misma entrada pero en lugar de de de"
+  },
+  {
+    "start_sec": 323.36,
+    "end_sec": 325.32,
+    "text": "tomar beneficios hasta arriba pues lo"
+  },
+  {
+    "start_sec": 325.32,
+    "end_sec": 328.64,
+    "text": "toma eh antes antes El caso es es lo"
+  },
+  {
+    "start_sec": 328.64,
+    "end_sec": 330.2,
+    "text": "mismo pero fíjate que el caso se"
+  },
+  {
+    "start_sec": 330.2,
+    "end_sec": 332.24,
+    "text": "solamente toma una reacción en el precio"
+  },
+  {
+    "start_sec": 332.24,
+    "end_sec": 334.24,
+    "text": "no toma todo el movimiento o la mitad"
+  },
+  {
+    "start_sec": 334.24,
+    "end_sec": 336.36,
+    "text": "del movimiento Entonces ya a partir de"
+  },
+  {
+    "start_sec": 336.36,
+    "end_sec": 339.2,
+    "text": "ahí tú podrías ir Ajustando y viendo eh"
+  },
+  {
+    "start_sec": 339.2,
+    "end_sec": 342.28,
+    "text": "Cuál podría ser la mayor o forma más"
+  },
+  {
+    "start_sec": 342.28,
+    "end_sec": 344.72,
+    "text": "fácil de poner tu Take profit Bueno"
+  },
+  {
+    "start_sec": 344.72,
+    "end_sec": 346.28,
+    "text": "chicos yo Espero que te haya gustado"
+  },
+  {
+    "start_sec": 346.28,
+    "end_sec": 347.96,
+    "text": "bastante igual si tienes alguna duda"
+  },
+  {
+    "start_sec": 347.96,
+    "end_sec": 349.64,
+    "text": "quieres que te haga un video extra sobre"
+  },
+  {
+    "start_sec": 349.64,
+    "end_sec": 351.56,
+    "text": "esto te leo en los comentarios si deseas"
+  },
+  {
+    "start_sec": 351.56,
+    "end_sec": 353.16,
+    "text": "una mentoría personalizada Puedes"
+  },
+  {
+    "start_sec": 353.16,
+    "end_sec": 355.28,
+    "text": "mandarme un mensaje por Instagram o por"
+  },
+  {
+    "start_sec": 355.28,
+    "end_sec": 358.36,
+    "text": "Whatsapp Gustavo Trader Sígueme por allá"
+  },
+  {
+    "start_sec": 358.36,
+    "end_sec": 359.88,
+    "text": "y nos vemos en un siguiente siguiente"
+  },
+  {
+    "start_sec": 359.88,
+    "end_sec": 362.52,
+    "text": "video adiós"
+  }
+]

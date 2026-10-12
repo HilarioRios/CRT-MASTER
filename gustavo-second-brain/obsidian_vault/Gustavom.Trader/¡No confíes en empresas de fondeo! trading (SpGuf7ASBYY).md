@@ -1,0 +1,451 @@
+---
+source_id: YT_CANAL_02_SpGuf7ASBYY
+video_id: SpGuf7ASBYY
+channel: "Gustavom.Trader"
+published_at: 2023-12-31
+url: https://www.youtube.com/watch?v=SpGuf7ASBYY
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 4
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# ¡No confíes en empresas de fondeo! #trading
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=SpGuf7ASBYY)
+
+## Transcript
+
+```
+[00:00:00]
+después de lo que pasó con my Forest
+
+[00:00:01]
+fone algunas personas me han preguntado
+
+[00:00:04]
+Gustavo qué debemos de hacer deberíamos
+
+[00:00:07]
+de seguir confiando en las empresas de
+
+[00:00:09]
+fondeo deberíamos de ahora tradear con
+
+[00:00:11]
+nuestro propio capital o Sencillamente
+
+[00:00:15]
+deberíamos de dejar de confiar en las
+
+[00:00:17]
+empresas de fondeo Y en este video Justo
+
+[00:00:20]
+voy a tratar este tema
+
+[00:00:23]
+eh mi respuesta es no deberías de
+
+[00:00:26]
+confiar en ninguna empresa de fondeo por
+
+[00:00:28]
+muy buena que se vea todas las empresas
+
+[00:00:31]
+de fondeo tienen eh la posibilidad o el
+
+[00:00:35]
+riesgo de algún día desaparecer todas
+
+[00:00:38]
+tienen problemas internos No hay ninguna
+
+[00:00:40]
+que se salve incluso ftmo que Considero
+
+[00:00:43]
+que es de las más sólidas tiene
+
+[00:00:45]
+problemas todas tienen problemas todas
+
+[00:00:47]
+tienen la posibilidad de algún día
+
+[00:00:49]
+desaparecer y no deberías de confiar en
+
+[00:00:52]
+ninguna o Entonces qué debería de estar
+
+[00:00:54]
+haciendo Gustavo comprar una challenge
+
+[00:00:56]
+nuevo no comprarlo dedicarme a tradear
+
+[00:00:59]
+con mi propio capital y la respuesta
+
+[00:01:01]
+para mí es muy sencilla lo que yo estoy
+
+[00:01:04]
+recomendando es que deberías de
+
+[00:01:07]
+diversificar cierto que hay algunas
+
+[00:01:10]
+empresas de fondeo que están más por
+
+[00:01:11]
+encima que otras que esas empresas yo
+
+[00:01:15]
+Considero que es a la que deberíamos ir
+
+[00:01:17]
+primero pero si tú por ejemplo tienes
+
+[00:01:20]
+$1,000 para comprar un challenge de 200k
+
+[00:01:24]
+no deberías de hacerlo yo recomiendo más
+
+[00:01:26]
+bien que te compres varios challenge de
+
+[00:01:28]
+50k en lugar de optar por un solo
+
+[00:01:30]
+challenge de 200 o de 100k entonces eh a
+
+[00:01:34]
+las personas que no tengan mucho dinero
+
+[00:01:36]
+yo Considero que hay unas empresas más
+
+[00:01:39]
+arriba que otras donde sí deberíamos ir
+
+[00:01:41]
+primero pero sí la principal consejo que
+
+[00:01:44]
+yo les quiero dar es que estén
+
+[00:01:46]
+diversificando en diferentes
+
+[00:01:48]
+eh empresas de fondeo y no se queden
+
+[00:01:51]
+solamente en una yo Próximamente en el
+
+[00:01:54]
+canal les voy a estar trayendo
+
+[00:01:55]
+revisiones de empresas de fondeo para
+
+[00:01:57]
+que ustedes tengan como una guía de
+
+[00:02:00]
+cuáles empresas podrían tomar y
+
+[00:02:02]
+Próximamente en el canal también va a
+
+[00:02:04]
+estar un top cco de las mejores empresas
+
+[00:02:07]
+de fondeo ahora lo con la con lo que me
+
+[00:02:10]
+preguntan de si debería Entonces tradear
+
+[00:02:13]
+en un broker o debería de tradear en
+
+[00:02:15]
+empresas de fondeo yo te digo que el
+
+[00:02:19]
+capital de empresas de fondeo deberías
+
+[00:02:21]
+de tú invertir un poco de capital ahí Y
+
+[00:02:24]
+tratar de rápidamente ir por el el
+
+[00:02:26]
+refund que te devuelvan lo que tú
+
+[00:02:28]
+invertiste para que ya ya tengas 0% de
+
+[00:02:31]
+riesgo y tratar de ir por el primer
+
+[00:02:33]
+retiro lo más antes posible y así puedas
+
+[00:02:36]
+invertir ese capital en otra empresa de
+
+[00:02:38]
+fondeo diferente Pero meter todo el
+
+[00:02:40]
+capital en una sola empresa de fondeo es
+
+[00:02:43]
+totalmente un error porque se puede ir
+
+[00:02:45]
+como My Forest fone como el caso que me
+
+[00:02:47]
+pasó a mí y te quedas sin nada En cambio
+
+[00:02:50]
+es más difícil que se vayan supongamos
+
+[00:02:53]
+que tú estás en tres empresas diferentes
+
+[00:02:54]
+es más difícil que se vaya a las tres
+
+[00:02:56]
+empresas a que se vaya una sola empresa
+
+[00:02:58]
+que tenga problemas y y que deje de
+
+[00:03:00]
+funcionar yo considero entonces que
+
+[00:03:02]
+puedes estar haciendo las dos cosas
+
+[00:03:04]
+teniendo tanto tu cuenta en un broker
+
+[00:03:08]
+incluso yo no tendría mi capital en un
+
+[00:03:10]
+solo broker lo tendría en varios Brokers
+
+[00:03:12]
+diferentes para diversificar también en
+
+[00:03:14]
+cuanto a Brokers y teniendo mi cuenta
+
+[00:03:17]
+propia en un solo broker Y utilizando
+
+[00:03:20]
+diversas empresas de fondeo para poder
+
+[00:03:23]
+apalancar y poder sacar más capital para
+
+[00:03:26]
+poder transportarlo a mis cuentas
+
+[00:03:29]
+principales reales en diferentes Brokers
+
+[00:03:32]
+que también próximamente les voy a estar
+
+[00:03:34]
+trayendo un video sobre mis tres mejores
+
+[00:03:36]
+Brokers donde voy a estar abriendo
+
+[00:03:38]
+cuentas en 2024 para estar
+
+[00:03:40]
+diversificando mi capital entonces
+
+[00:03:42]
+chicos La idea es muy sencilla
+
+[00:03:46]
+diversificar lo máximo posible en las
+
+[00:03:48]
+mejores primero empresas de fondeo Y en
+
+[00:03:51]
+lugar de comprar un challenge de 100k un
+
+[00:03:54]
+challenge de 200k cómprate varios
+
+[00:03:56]
+challenge diferentes pequeños en
+
+[00:03:58]
+diferentes empresas O tal vez tú puedes
+
+[00:04:00]
+decir Bueno voy a estar comprando
+
+[00:04:01]
+challenge de 20k pero en lugar de estar
+
+[00:04:04]
+comprando en ftmo Solamente voy a estar
+
+[00:04:06]
+comprando en ftmo en fund pips en fund
+
+[00:04:08]
+next en funder Trader y voy a estar
+
+[00:04:10]
+diversificando Precisamente es lo que
+
+[00:04:12]
+vengo yo haciendo de cara 2024 estoy
+
+[00:04:15]
+comprando eh voy a empezar a comprar más
+
+[00:04:18]
+challenge en ftmo en fund pips en fundex
+
+[00:04:21]
+en funder Trader en varias empresas de
+
+[00:04:24]
+fondeo diferentes voy a utilizar es
+
+[00:04:26]
+capital para palanc arme lo máximo
+
+[00:04:28]
+posible y a partir de ahí voy a empezar
+
+[00:04:30]
+a abrir Mis cuentas en Brokers para
+
+[00:04:33]
+poder también crear un historial y para
+
+[00:04:35]
+tener mi capital propio por si esta
+
+[00:04:37]
+alguna de estas empresas de fondeo
+
+[00:04:39]
+decide irse Esta es mi recomendación
+
+[00:04:41]
+para todos ustedes chicos Espero que les
+
+[00:04:44]
+sirva el video que les ayude
+
+[00:04:46]
+diversifiquen no metan todo su capital
+
+[00:04:48]
+en la misma empresa es riesgoso las
+
+[00:04:50]
+empresas de fondeo es un eh negocio que
+
+[00:04:53]
+es reciente es nuevo y también tiene en
+
+[00:04:56]
+cuenta que la finalidad de todas las
+
+[00:04:59]
+empresas de fondeo es que tú pierdas
+
+[00:05:01]
+ellos no quieren pagarte porque si te
+
+[00:05:04]
+pagan Ellos están perdiendo dinero
+
+[00:05:06]
+entonces la finalidad de todas esas
+
+[00:05:07]
+empresas de fondeo es que tú pierdas y
+
+[00:05:09]
+que no ganes dinero ellos ganan de que
+
+[00:05:13]
+tú pierdas los challenge o Entonces es
+
+[00:05:15]
+mejor diversificar aprovechar el negocio
+
+[00:05:18]
+en apalancarse de varias empresas de
+
+[00:05:19]
+fondeo pero diversificar lo antes
+
+[00:05:22]
+posible para e si alguna empresa
+
+[00:05:24]
+desaparece no hay ningún problema tengo
+
+[00:05:26]
+cuentas en alguna otra empresa de fondeo
+
+[00:05:29]
+y también diversifico en mi capital
+
+[00:05:32]
+propio en Brokers para eh tener lo
+
+[00:05:35]
+máximo posible cubierto el riesgo dentro
+
+[00:05:38]
+de lo que cabe porque sí es un tema
+
+[00:05:41]
+riesgoso y elegir las mejores empresas
+
+[00:05:43]
+de fondeo que Próximamente yo les voy a
+
+[00:05:46]
+estar trayendo un top cinco de las
+
+[00:05:47]
+mejores empresas de fondeo ya les había
+
+[00:05:49]
+dicho gracias por ver este video y nos
+
+[00:05:51]
+vemos en la próxima amigos adiós
+```

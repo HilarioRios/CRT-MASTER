@@ -1,0 +1,2185 @@
+---
+source_id: YT_CANAL_02_mhb_VkdQ7Ec
+video_id: mhb_VkdQ7Ec
+channel: "Gustavom.Trader"
+published_at: 2025-06-11
+url: https://www.youtube.com/watch?v=mhb_VkdQ7Ec
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 16
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# Estrategia CRT en ORO (XAUUSD)– ¡entradas perfectas!
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=mhb_VkdQ7Ec)
+
+## Transcript
+
+```
+[00:00:00]
+Hola, ¿qué pasa a todos amigos de
+
+[00:00:02]
+YouTube? Estamos en un nuevo video, esta
+
+[00:00:03]
+vez trayéndoles la estrategia del oro,
+
+[00:00:06]
+la estrategia de Will Street adaptada al
+
+[00:00:08]
+oro. Vamos a ver cómo funciona. Y antes
+
+[00:00:11]
+que nada decirles un par de cositas.
+
+[00:00:13]
+Primero, si no estás suscrito a este
+
+[00:00:14]
+canal, suscríbete porque estoy subiendo
+
+[00:00:16]
+muchos videos al estilo de este. Y lo
+
+[00:00:19]
+otro es decirles que estoy muy contento
+
+[00:00:22]
+por el apoyo de todos los videos.
+
+[00:00:24]
+Llegamos ya a los 2,500 suscriptores.
+
+[00:00:27]
+Muchísimas gracias por todo lo por todo
+
+[00:00:29]
+su apoyo y también les estoy
+
+[00:00:31]
+recomendando que se unan a mi comunidad
+
+[00:00:33]
+que se encuentra abajo en la
+
+[00:00:34]
+descripción, tanto grupos de Telegram,
+
+[00:00:37]
+de WhatsApp o también me pueden seguir
+
+[00:00:39]
+en Instagram que ahí estoy poniendo un
+
+[00:00:41]
+montón de información de valor. También
+
+[00:00:43]
+decirles una cosita, puede ser que este
+
+[00:00:46]
+video que vas a ver de esta estrategia
+
+[00:00:48]
+no sea exactamente igual como Will
+
+[00:00:50]
+Street lo predica o lo enseña. Puede ser
+
+[00:00:53]
+que haya unas varianzas, pero mucha
+
+[00:00:55]
+gente me está diciendo, "Gustavo, no es
+
+[00:00:57]
+exactamente igual, no es lo mismo,
+
+[00:01:00]
+gente. Yo la estoy enseñando a como yo
+
+[00:01:02]
+la entiendo, como yo la aplico en el
+
+[00:01:04]
+mercado." Muchas, mucha gente me estaba
+
+[00:01:06]
+diciendo también, "Si lo haces así, te
+
+[00:01:08]
+vas a comer stop loss." No es que me
+
+[00:01:11]
+coma stop loss, es que yo ya llevo años
+
+[00:01:13]
+aplicando este método y me está
+
+[00:01:16]
+funcionando de la manera en que yo lo
+
+[00:01:17]
+enseño. Y lo único que trato de hacer
+
+[00:01:19]
+aquí no se trata de que quién tiene la
+
+[00:01:22]
+razón, quién no la tiene, si la
+
+[00:01:24]
+estrategia es igual, si no es igual, si
+
+[00:01:26]
+le falta, si no le falta, sino lo que se
+
+[00:01:28]
+trata aquí es de aprender juntos y que
+
+[00:01:30]
+nos llevamos un contenido, una
+
+[00:01:32]
+información de valor. Si te sirve, que
+
+[00:01:34]
+esa es la finalidad de este video, pues
+
+[00:01:36]
+muy perfecto. Y si no te sirve, pues
+
+[00:01:38]
+está bien, no pasa nada, seguimos siendo
+
+[00:01:40]
+amigos. Y bueno, vamos allá con el
+
+[00:01:42]
+gráfico, gente, porque hay mucho que ver
+
+[00:01:44]
+sobre la estrategia de lo que es el oro.
+
+[00:01:49]
+Bueno, voy a enseñar aquí eh un par de
+
+[00:01:51]
+entradas. Voy a poner un ejemplo de
+
+[00:01:54]
+jueves de mayo, 22 de mayo del 2025 y
+
+[00:01:59]
+voy a poner otro del viernes también. Y
+
+[00:02:01]
+por aquí tengo unos ejemplos más
+
+[00:02:02]
+recientes, tanto de más ahora de 9 de
+
+[00:02:06]
+junio, que ustedes pueden ir a su
+
+[00:02:08]
+gráfico y comprobar. Eh, si estos
+
+[00:02:12]
+conceptos, si lo que les estoy diciendo
+
+[00:02:13]
+les hace sentido, si les gusta, no les
+
+[00:02:15]
+gusta, le faltaría, yo le agregaría. Al
+
+[00:02:17]
+igual al igual todo que las estrategias
+
+[00:02:20]
+que he traído, lo que se trata es de que
+
+[00:02:22]
+tú puedas adaptarlas a ti mismo, tanto
+
+[00:02:24]
+sea la estrategia de Will Street, sea la
+
+[00:02:26]
+estrategia mía, sea la estrategia de
+
+[00:02:28]
+quien sea, que tú veas esta estrategia y
+
+[00:02:31]
+que la puedas adaptar a tu operativa,
+
+[00:02:33]
+porque la finalidad de esto no es que lo
+
+[00:02:36]
+hagas exactamente como yo lo hago, como
+
+[00:02:38]
+lo hace Will Street, sino la finalidad
+
+[00:02:40]
+es que puedas ganar dinero, que puedas
+
+[00:02:43]
+ser rentable en el mercado. Y tú
+
+[00:02:44]
+consideras que muchas de las cosas no te
+
+[00:02:46]
+hacen sentido y puedes moverle una cosa,
+
+[00:02:48]
+cambiarle esto, pues está mejor para que
+
+[00:02:51]
+tú puedas ser rentable. A mí me funciona
+
+[00:02:54]
+tal y como lo enseño y me va muy bien y
+
+[00:02:57]
+no n más a mí, sino a muchos de mis
+
+[00:02:59]
+alumnos. Y voy a explicar ahora el tema
+
+[00:03:02]
+horarios. Vamos a empezar con el tema
+
+[00:03:04]
+horarios. Me habían preguntado, muchos
+
+[00:03:05]
+tenían dudas con el tema horarios. Aquí
+
+[00:03:08]
+lo tengo en horario Nueva York, 9:30 AM.
+
+[00:03:11]
+en Nueva York, que es cuando abre la
+
+[00:03:12]
+bolsa de Chicago. Ese es el horario que
+
+[00:03:15]
+yo suelo estar operando más o el que
+
+[00:03:17]
+estoy poniendo más foco, pero también
+
+[00:03:19]
+muchas de las entradas ocurren para la
+
+[00:03:21]
+sesión de Londres, 3 de la mañana AM,
+
+[00:03:23]
+Londres, el open de eh digamos que
+
+[00:03:28]
+Londres. Aquí, por ejemplo, esta entrada
+
+[00:03:31]
+se dio sobre las 4 de la mañana, 3 4.
+
+[00:03:35]
+También dicho, dicho que muchas de las
+
+[00:03:37]
+entradas también se dan a las 5, 5 de la
+
+[00:03:40]
+mañana eh eh horario Londres, pero ojo,
+
+[00:03:46]
+eh esto es para sesión de Londres, pero
+
+[00:03:48]
+no se confunda con que es el horario de
+
+[00:03:50]
+Londres. Es todos estos dos horarios
+
+[00:03:52]
+están en hora Nueva York. De hecho, lo
+
+[00:03:54]
+voy a poner aquí. Hora Nueva York.
+
+[00:03:58]
+Ora
+
+[00:04:00]
+New York. O sea, que principalmente los
+
+[00:04:04]
+horarios que vamos a estar manejando son
+
+[00:04:05]
+9:30 para la sesión sesión de Nueva York
+
+[00:04:10]
+y 3 AM para la sesión de Londres. Ya,
+
+[00:04:15]
+pero los horarios están en Nueva York, o
+
+[00:04:18]
+sea, lo estoy poniendo en horario de
+
+[00:04:19]
+Nueva York porque mucha gente se estaba
+
+[00:04:21]
+como confundiendo que horario y ahorita
+
+[00:04:24]
+vamos a ver inclusive el tema de
+
+[00:04:26]
+horarios, pero lo voy a dejar aquí por
+
+[00:04:28]
+aquí para que lo vean ustedes, ¿no?
+
+[00:04:31]
+Este,
+
+[00:04:33]
+vamos a ir exactamente con las entradas.
+
+[00:04:35]
+Primero empiezo siempre a ver mi
+
+[00:04:38]
+dirección del mercado en función de mi
+
+[00:04:41]
+contexto. ¿Cuál es el contexto que yo
+
+[00:04:43]
+tengo? Muchas tenían dudas también con
+
+[00:04:45]
+la dirección, cómo veo la dirección del
+
+[00:04:47]
+precio, cómo sé que va a subir, va a
+
+[00:04:49]
+bajar, este, etcétera, etcétera. Pues
+
+[00:04:53]
+tienes que ir a ver tu temporalidad eh
+
+[00:04:55]
+alta. Si se fijan en el contexto de esta
+
+[00:04:57]
+entrada que fue el 22 de mayo del 2025,
+
+[00:05:01]
+teníamos que el precio no se había
+
+[00:05:02]
+llevado estos objetivos que estaban acá,
+
+[00:05:05]
+que estoy marcando del viernes 09 de 9
+
+[00:05:08]
+de mayo, el precio tenía estos
+
+[00:05:10]
+objetivos. Esta esta línea que ustedes
+
+[00:05:12]
+pueden ver aquí tenía esos objetivos, no
+
+[00:05:15]
+se los había llevado, solo se había
+
+[00:05:16]
+llevado este objetivo, digamos, este
+
+[00:05:19]
+objetivo era el que se había llevado
+
+[00:05:21]
+acá. Entonces ese era el contexto que
+
+[00:05:23]
+teníamos, un contexto alcista. Si se
+
+[00:05:25]
+fijan también lo que hizo el precio,
+
+[00:05:28]
+estamos formulando nuestro contexto de
+
+[00:05:30]
+nuestra temporalidad diaria. Inclusive
+
+[00:05:33]
+ahorita puedo ir a semanal y ver un
+
+[00:05:37]
+contexto más todavía más profundo para
+
+[00:05:40]
+que ustedes tengan como mucho más
+
+[00:05:42]
+claridad. Siempre en nuestra
+
+[00:05:44]
+temporalidad mayor vamos a ver los
+
+[00:05:46]
+objetivos que tiene pendientes el precio
+
+[00:05:48]
+hacia nuestra dirección. por ejemplo, se
+
+[00:05:50]
+había llevado este, pero tenía pendiente
+
+[00:05:53]
+todavíamente ese. También si nosotros
+
+[00:05:55]
+nos vamos a nuestra temporalidad
+
+[00:05:57]
+semanal, podemos ver nuestra
+
+[00:05:59]
+temporalidad semanal que probablemente
+
+[00:06:02]
+el precio le faltaba llevarse como
+
+[00:06:03]
+objetivo o apenas estaba eh teniendo
+
+[00:06:06]
+como llegando a este objetivo de esta
+
+[00:06:09]
+vela semanal. Entonces, ese era el
+
+[00:06:12]
+contexto que yo traía de semanal y
+
+[00:06:14]
+diario, ¿no? En diario, eh, me faltaba
+
+[00:06:17]
+llevarme este último alto diario, que
+
+[00:06:19]
+también es otra cosa decirles detallito,
+
+[00:06:22]
+el alto del día. ¿Por qué? ¿Por qué
+
+[00:06:24]
+preferentemente el precio no se devolvió
+
+[00:06:27]
+a partir de que tomó este objetivo,
+
+[00:06:29]
+Gustavo, sino que hasta que tomó este?
+
+[00:06:32]
+Este también era el alto semanal, este
+
+[00:06:34]
+que está aquí, no el de arriba. Y yo
+
+[00:06:36]
+cuando vi esta entrada me pregunté por
+
+[00:06:38]
+qué probablemente el precio subió un
+
+[00:06:41]
+poco más y pudimos tener este raideo
+
+[00:06:44]
+hasta acá arriba. Y la eh la cosa que yo
+
+[00:06:48]
+he visto, observado durante a lo largo
+
+[00:06:51]
+de los años es que el bajo o el alto del
+
+[00:06:53]
+día viernes suele ser un alto muy
+
+[00:06:55]
+líquido, suele tener muchísima liquidez.
+
+[00:06:58]
+Entonces ahí es donde el precio
+
+[00:07:00]
+probablemente quiso ir a o raidear
+
+[00:07:02]
+porque tiene suele ser un punto con
+
+[00:07:04]
+mucha liquidez. Si ya nos bajamos a
+
+[00:07:07]
+nuestro contexto de 4 horas, fíjense
+
+[00:07:08]
+cómo vamos formulando el contexto. En
+
+[00:07:10]
+diario nos faltaba todavía por tomar ese
+
+[00:07:13]
+alto, fíjense este alto de día viernes.
+
+[00:07:16]
+Eh, también este
+
+[00:07:18]
+el precio hizo como una especie de
+
+[00:07:20]
+retroceso para eh ir hacia hacia nuestro
+
+[00:07:24]
+objetivo probable en 4 horas. Fíjense, 4
+
+[00:07:27]
+horas diario. Estamos formulando el
+
+[00:07:29]
+objetivo. Eh, fíjense que veníamos de un
+
+[00:07:32]
+diario también acá abajo donde el precio
+
+[00:07:35]
+había tomado la liquidez, cómo había
+
+[00:07:37]
+raideado esos mínimos de acá. Fíjense
+
+[00:07:39]
+cómo raidea este mínimo de la vela del
+
+[00:07:42]
+miércoles 14 de mayo. Lo raidea por este
+
+[00:07:44]
+lado. Una vez que tiene ese raideo, el
+
+[00:07:47]
+precio empieza con una con a cerrar a
+
+[00:07:49]
+cerrar rangos alcista, o sea, empieza a
+
+[00:07:52]
+romper hacia arriba y cierra todos los
+
+[00:07:54]
+rangos hacia arriba. cierra este y
+
+[00:07:56]
+cierra este. Entonces, probablemente
+
+[00:07:59]
+porque el precio pues necesitaba llegar
+
+[00:08:01]
+hasta ese punto. Ese eran los objetivos
+
+[00:08:03]
+cuando el precio empez hizo este raideo
+
+[00:08:05]
+diario que también si pueden observar de
+
+[00:08:08]
+este lado, pues vemos que también raideó
+
+[00:08:10]
+esta parte de aquí y también tomó este
+
+[00:08:12]
+bajo diario, o sea, tomó varios bajos
+
+[00:08:14]
+diarios y se fue con un modelo de
+
+[00:08:17]
+compras. Seguíamos con un modelo de
+
+[00:08:19]
+compras. Al observar eso, nosotros nos
+
+[00:08:21]
+ubicamos en nuestra sesión en 4 horas.
+
+[00:08:24]
+Vemos que el precio viene aquí, no se
+
+[00:08:26]
+lleva el objetivo, lo deja pendiente.
+
+[00:08:28]
+Entonces, lo mejor que nos puede pasar
+
+[00:08:31]
+es que el precio no se lleve todavía
+
+[00:08:34]
+nuestro objetivo y nos dé otra
+
+[00:08:36]
+oportunidad para montarnos en esa
+
+[00:08:38]
+tendencia alcista que llevaba el
+
+[00:08:40]
+mercado, ¿no? Entonces, ya aquí nos
+
+[00:08:42]
+vamos a nuestro en nuestra fractalidad.
+
+[00:08:45]
+Fíjense cómo tenemos un punto mínimo, un
+
+[00:08:48]
+punto alto, otro punto más mínimo, otro
+
+[00:08:51]
+punto más alto, retroceso, un nuevo
+
+[00:08:54]
+impulso hasta aquí. Esa era la
+
+[00:08:56]
+estructura que teníamos. Aparte estamos
+
+[00:08:57]
+a favor de la tendencia, es algo bueno
+
+[00:09:00]
+que tenemos acá en el precio. Tenemos un
+
+[00:09:02]
+precio a favor de la tendencia.
+
+[00:09:05]
+Entonces, si somos observadores, fíjense
+
+[00:09:07]
+como ya había marcado con líneas,
+
+[00:09:09]
+incluso la entrada, fíjense como el
+
+[00:09:11]
+precio raidea correctamente. Aquí voy a
+
+[00:09:14]
+mover un poco la entrada hacia este
+
+[00:09:16]
+lado, pero raidea correctamente este
+
+[00:09:19]
+bajo diario que nos confluye. Fíjense,
+
+[00:09:21]
+Gustavo, lo haces en diario también, o
+
+[00:09:23]
+sea, sí, confluye en todas las
+
+[00:09:26]
+temporalidades. ¿Cómo vemos el la el
+
+[00:09:29]
+Turtle Zap o la manipulación de esa vela
+
+[00:09:31]
+diaria? Acuérdense que esta estrategia
+
+[00:09:34]
+se apoya de la teoría de que el precio
+
+[00:09:36]
+va raideando, va creando rangos de velas
+
+[00:09:39]
+y los va tomando a favor de un objetivo,
+
+[00:09:42]
+una dirección de una temporalidad mayor,
+
+[00:09:43]
+a favor, por ejemplo, de esta
+
+[00:09:45]
+temporalidad diaria. Fíjense como aquí
+
+[00:09:47]
+tenemos la oportunidad precisamente y va
+
+[00:09:50]
+a ser en nuestro horario. Ahorita lo
+
+[00:09:51]
+vamos a ver cómo se formula nuestro
+
+[00:09:53]
+horario. No siempre va a ser diario,
+
+[00:09:55]
+muchas veces son 4 horas, 6 horas. Nos
+
+[00:09:58]
+podemos ayudar de la mayoría de las
+
+[00:10:00]
+temporalidades, pero yo a mí me gusta
+
+[00:10:01]
+observar mucho en temporalidades
+
+[00:10:04]
+mensual, semanal, diario, 4 horas, 3
+
+[00:10:06]
+horas, 2 horas, 1 hora, 45, 30, 15
+
+[00:10:10]
+minutos, 5 minutos, un minuto inclusive
+
+[00:10:12]
+para refinar mucho la entrada. Pero
+
+[00:10:14]
+fíjense como acá hacemos lo mismo y ya
+
+[00:10:17]
+lo único que hay que ir haciendo es
+
+[00:10:19]
+entender que nuestro objetivo estaba
+
+[00:10:21]
+aquí porque era un alto del día viernes
+
+[00:10:24]
+muy líquido probablemente y luego
+
+[00:10:27]
+entender ya cuando entendíamos la
+
+[00:10:28]
+dirección del precio por el alto el
+
+[00:10:31]
+rango semanal, el rango semanal que el
+
+[00:10:35]
+precio le faltaba por tomar el ese alto
+
+[00:10:38]
+semanal, entender que le faltaba un
+
+[00:10:41]
+poquito más también por subir por el
+
+[00:10:43]
+alto
+
+[00:10:44]
+por esta alto diario, este rango diario,
+
+[00:10:47]
+le faltaba por cerrar ese rango diario.
+
+[00:10:50]
+Después de entender eso, pues ya
+
+[00:10:51]
+teníamos nuestra temporalidad alcista.
+
+[00:10:54]
+Aparte de eso, tengo mi 4 horas
+
+[00:10:57]
+totalmente alcista. Y fíjense que en mi
+
+[00:10:59]
+4 horas, una vez que el precio me toma,
+
+[00:11:02]
+me raidea este mínimo diario, que es
+
+[00:11:05]
+esta flechita, este línea azul, me lo
+
+[00:11:08]
+raidea. Fíjense que ahora yo voy a estar
+
+[00:11:10]
+buscando lo mismo en un en una
+
+[00:11:12]
+temporalidad de 4 horas. Muchos me
+
+[00:11:14]
+preguntan, "Gustavo, también cómo haces
+
+[00:11:16]
+para saber que realmente el precio no va
+
+[00:11:18]
+a seguir cayendo aquí." Fíjense, precio
+
+[00:11:21]
+lo que hace aquí, a partir de aquí
+
+[00:11:23]
+raidea,
+
+[00:11:25]
+fíjense como raidea el bajo diario. Y
+
+[00:11:28]
+muchos me preguntaban, "¿Cómo haces para
+
+[00:11:30]
+saber que no va a seguir cayendo?" Pues
+
+[00:11:32]
+muy fácil. Lo que hago aquí es checar
+
+[00:11:35]
+este esta siguiente vela de 4 horas. la
+
+[00:11:38]
+siguiente vela de 4 horas, o sea, me
+
+[00:11:39]
+espero que cierre esta vela de 4 horas y
+
+[00:11:42]
+luego voy a la siguiente vela de 4 horas
+
+[00:11:44]
+y veo que o estoy pidiéndole al precio
+
+[00:11:47]
+que sí o sí ocurra lo mismo. Me raidé
+
+[00:11:50]
+también mi bajo diario. Puede ser que no
+
+[00:11:54]
+no necesariamente tiene que tener diario
+
+[00:11:56]
+y 4 horas para poder entrar, pero muchas
+
+[00:11:59]
+de las veces o la mayoría de las
+
+[00:12:00]
+entradas o muchísimas entradas van a
+
+[00:12:02]
+confluir ahí porque los bajos y los
+
+[00:12:05]
+altos de la vela diaria son altos y
+
+[00:12:07]
+mínimos de mucha liquidez. Entonces,
+
+[00:12:10]
+aquí me raidea a mí 4 horas. En cuanto
+
+[00:12:12]
+ya tengo un raideo de 4 horas, lo que
+
+[00:12:15]
+estoy esperando entonces es que suceda
+
+[00:12:17]
+lo mismo en mi temporalidad de una hora,
+
+[00:12:19]
+lo mismo, porque el mercado es
+
+[00:12:21]
+totalmente fractal. Y fíjense que
+
+[00:12:23]
+después de que el precio aquí no lo
+
+[00:12:25]
+había raideado todavía. Fíjense cómo
+
+[00:12:27]
+formó el precio este movimiento
+
+[00:12:31]
+aquí
+
+[00:12:33]
+hasta abajo. Aquí no había raideado
+
+[00:12:35]
+todavía mi liquidez diaria. Fíjense como
+
+[00:12:38]
+viene con esta vela y raidea aquí, pero
+
+[00:12:41]
+mi vela de 4 horas no ha sido tomada. La
+
+[00:12:44]
+siguiente vela de 4 horas que abre no ha
+
+[00:12:45]
+sido tomada hasta que aquí sucede lo
+
+[00:12:48]
+mismo. Mi vela de H1 y de mi vela de 4
+
+[00:12:51]
+horas toma el mínimo de esta vela de 4
+
+[00:12:53]
+horas y en una hora sucede totalmente lo
+
+[00:12:56]
+mismo. A partir de ahí ya se puede
+
+[00:12:58]
+entrar en el punto más bajo, pero
+
+[00:13:02]
+lo que puedes hacer muchas de las veces
+
+[00:13:04]
+como tip adicional es que el precio
+
+[00:13:06]
+regresa y se apoya exactamente donde
+
+[00:13:09]
+mismo, donde había raideado en esta
+
+[00:13:11]
+línea de acá. ¿Por qué esa línea morada
+
+[00:13:13]
+que está ahí, Gustavo? Pues bueno, si
+
+[00:13:15]
+ustedes se van a su temporalidad de 4
+
+[00:13:17]
+horas, es que el precio por lo general
+
+[00:13:20]
+suele regresar ahí mismo donde habían
+
+[00:13:22]
+abierto o cerrado las velas. Fíjense que
+
+[00:13:24]
+aquí, por ejemplo, es donde había el
+
+[00:13:27]
+precio abierto esta vela bajista que
+
+[00:13:29]
+raideó y se regresó. Aquí, por ejemplo,
+
+[00:13:32]
+en esta donde está esta línea morada, el
+
+[00:13:34]
+precio había cerrado la vela bajista y
+
+[00:13:37]
+se regresó. Fíjense, raideó y se regresó
+
+[00:13:40]
+aquí. Raideó y se regresó aquí de nuevo
+
+[00:13:44]
+y aquí cerró. Entonces el siguiente
+
+[00:13:46]
+movimiento, las siguientes velas de 4
+
+[00:13:48]
+horas lo va a tomar como apoyo de ese
+
+[00:13:51]
+mismo. Lo va va a apoyarse ahí. Y si
+
+[00:13:54]
+ustedes son observadores inclusive con
+
+[00:13:56]
+más detallitos, fíjense como el precio
+
+[00:13:58]
+elimina el último low de este rango.
+
+[00:14:02]
+Automáticamente que elimina este low de
+
+[00:14:03]
+este rango, pues ya sabíamos que
+
+[00:14:05]
+probablemente el precio vendría a tomar
+
+[00:14:07]
+estos objetivos que están acá, aparte de
+
+[00:14:10]
+que tenemos una tendencia alcista.
+
+[00:14:12]
+Entonces, a partir de ahí les voy a
+
+[00:14:13]
+mostrar qué entrada se hubiera podido
+
+[00:14:15]
+poner, qué cuál es la entrada que se
+
+[00:14:17]
+hubiera podido poner y luego les voy a
+
+[00:14:19]
+explicar esta otra entrada que tengo de
+
+[00:14:20]
+este lado. O sea, hay dos formas que
+
+[00:14:22]
+para mí son muy buenas de entrar. Una
+
+[00:14:24]
+vez que ya raideamos nuestra vela de
+
+[00:14:28]
+nuestra vela de una hora, raideo el la
+
+[00:14:31]
+última vela de una hora también, que
+
+[00:14:34]
+también sucede en 4 horas.
+
+[00:14:36]
+Una vez te puedes esperar a que cierre
+
+[00:14:38]
+la vela. Sí, pero lo más óptimo es que
+
+[00:14:41]
+el lo hagas mientras el precio está
+
+[00:14:43]
+raideando. Mientras lo está raideando y
+
+[00:14:45]
+cuando el precio se cuando el precio,
+
+[00:14:48]
+digamos que se recoja sobre esta zona,
+
+[00:14:51]
+esta misma zona donde había cerrado la
+
+[00:14:53]
+anterior vela de 4 horas, pues ahí te
+
+[00:14:55]
+puedes meter totalmente al alza. Ahora,
+
+[00:14:58]
+¿cómo se pone mi posición? Una vez que
+
+[00:15:00]
+yo veo que el precio está raideando esta
+
+[00:15:02]
+vela, se regrese y está absorbiendo por
+
+[00:15:05]
+aquí. Dice, "Ya raideó 4 horas, raideó
+
+[00:15:07]
+también una hora. Y anda por aquí el
+
+[00:15:09]
+precio, fíjate, por aquí mismo. No se
+
+[00:15:11]
+puede entrar perfecto, pero por ahí más
+
+[00:15:12]
+o menos. Y ahora van a vamos a fijar
+
+[00:15:15]
+nuestros objetivos. Pues nuestros
+
+[00:15:18]
+objetivos iban en diario. En diario era
+
+[00:15:20]
+este punto alto, era el objetivo en
+
+[00:15:23]
+nuestra temporalidad diaria. Estos eran
+
+[00:15:25]
+nuestros objetivos, pero estaba
+
+[00:15:27]
+superfácil también este último objetivo.
+
+[00:15:29]
+Estaba muy muy fácil eh tarjetearlos. Yo
+
+[00:15:34]
+les recomiendo que cuando tarjeteen
+
+[00:15:35]
+objetivos no lo hagan tan a tan al pip
+
+[00:15:38]
+porque muchas veces el precio no llega y
+
+[00:15:40]
+se puede regresar o entonces yo lo hago
+
+[00:15:44]
+lo más cercas del objetivo posible, lo
+
+[00:15:47]
+más cerquita que se pueda del objetivo
+
+[00:15:49]
+posible, pero le doy un poquito de
+
+[00:15:51]
+espacio para si no llega igual me saquen
+
+[00:15:53]
+take profit para que no se les queden
+
+[00:15:55]
+operaciones que llegan y luego no
+
+[00:15:57]
+llegan, o sea, como que llegan y se
+
+[00:15:59]
+regresa el precio, porque hay veces que
+
+[00:16:01]
+el precio lo deja pendiente, lo puede
+
+[00:16:02]
+volver a dejar pendiente. y hacer un
+
+[00:16:04]
+nuevo retroceso más agresivo y sacarlos
+
+[00:16:06]
+de la operación. A partir de ahí que
+
+[00:16:08]
+fijamos nuestro TP, ahora vamos a fijar
+
+[00:16:10]
+el stop loss para que nos quede
+
+[00:16:12]
+exactamente un RR de 1 a tres. Fíjense
+
+[00:16:16]
+que el stop es demasiado grande aquí. es
+
+[00:16:19]
+demasiado grande, pero si ustedes
+
+[00:16:21]
+quieren lo pueden ir poniendo más
+
+[00:16:24]
+pequeño, más chico, lo que sea. Yo lo
+
+[00:16:26]
+dejaría, por ejemplo, de uno a tres. Uno
+
+[00:16:28]
+a tres para mí es perfecto. Esta es la
+
+[00:16:30]
+entrada más perfecta que que podría
+
+[00:16:32]
+haber. Pero yo les voy a mostrar ahora
+
+[00:16:34]
+en lower temporalidad cómo se puede
+
+[00:16:37]
+entrar si ustedes eh quieren usar
+
+[00:16:39]
+confirmaciones en baja temporalidad.
+
+[00:16:41]
+Esto es solamente bajándonos hasta una
+
+[00:16:44]
+hora cuando vemos el raideo. También,
+
+[00:16:46]
+Gustavo, me pueden preguntar, ¿te puedes
+
+[00:16:49]
+esperar a que cierre la vela de una
+
+[00:16:51]
+hora? También te puedes esperar si
+
+[00:16:53]
+quieres a que cierre la vela de una
+
+[00:16:54]
+hora. También puedes ir vigilando tu
+
+[00:16:56]
+temporalidad de 2 horas. Piense en
+
+[00:16:58]
+nuestra temporalidad de 2 horas, pues
+
+[00:17:00]
+sucede lo mismo. Puedes esperar a que
+
+[00:17:02]
+cierre la vela de 2 horas y ahí mismo
+
+[00:17:03]
+entrar en el cierre de la vela de 2
+
+[00:17:05]
+horas. Por ejemplo, si una operación más
+
+[00:17:07]
+o menos tal que así. Ahí más o menos ya
+
+[00:17:10]
+si ves que no te da el el stop, lo
+
+[00:17:13]
+quieres tener un poquito no tan justo,
+
+[00:17:15]
+le puedes dar uno a 2 y medio. También
+
+[00:17:17]
+está totalmente bien el RR entre uno a
+
+[00:17:20]
+2,5 3 está perfecto, inclusive cuatro si
+
+[00:17:24]
+ya tienes mucho más experiencia entrando
+
+[00:17:26]
+al mercado, ¿no? Vamos a ver entonces
+
+[00:17:29]
+ahora cómo podríamos haber entrado
+
+[00:17:31]
+utilizando confirmaciones de más baja
+
+[00:17:34]
+temporalidad. 15 minutos.
+
+[00:17:37]
+Bajamos a 15 minutos y en 15 minutos,
+
+[00:17:39]
+fíjense cómo vemos esta estructura en el
+
+[00:17:41]
+precio. Entender aquí cuando nos bajemos
+
+[00:17:43]
+a baja temporalidad, entender la
+
+[00:17:45]
+estructura que va a venir cayendo, o
+
+[00:17:47]
+sea, esta estructura va formulando una
+
+[00:17:50]
+caída, ¿no? Viene con un order flow
+
+[00:17:52]
+bajista. Entonces, por ejemplo, aquí
+
+[00:17:54]
+está el punto mínimo y el punto más
+
+[00:17:56]
+alto. El punto mínimo, fíjense que logra
+
+[00:17:58]
+hacer un nuevo bajo porque nos ideal
+
+[00:18:01]
+nuestra vela de 4 horas y aquí tiene un
+
+[00:18:03]
+retroceso, pero ese retroceso no logra
+
+[00:18:06]
+hacer un nuevo mínimo de este lado.
+
+[00:18:08]
+Fíjense, aquí no logra hacer un nuevo
+
+[00:18:09]
+mínimo. Entonces, eso es lo que vamos a
+
+[00:18:11]
+estar fijándonos en nuestra estructura.
+
+[00:18:13]
+Pueden usar 5 minutos, un minuto. A mí
+
+[00:18:16]
+me encanta un minuto, pero pueden usar 5
+
+[00:18:18]
+minutos si ustedes desean, si no se
+
+[00:18:19]
+quieren bajar tanto. Pero fíjense como
+
+[00:18:22]
+correctamente nos vamos a dar cuenta.
+
+[00:18:24]
+Entonces, en nuestra entrada, gente,
+
+[00:18:26]
+como como les decía, aquí lo vamos a
+
+[00:18:29]
+marcar con un plumón. es el punto bajo,
+
+[00:18:31]
+el punto alto, el punto mínimo. Fíjense
+
+[00:18:34]
+como si logra hacer un nuevo lower log,
+
+[00:18:37]
+o sea, si si logra romper la estructura
+
+[00:18:40]
+para abajo, pero sin embargo, ¿cómo qué
+
+[00:18:43]
+observamos en lo siguiente? Aquí ya
+
+[00:18:44]
+estamos hablando de confirmaciones. En
+
+[00:18:46]
+la siguiente entrada es una entrada con
+
+[00:18:48]
+un raideo de una hora. una hora
+
+[00:18:50]
+entramos, es como más eh
+
+[00:18:54]
+agresivo entrar en el punto más bajo en
+
+[00:18:57]
+cuanto el precio hace el raideo y
+
+[00:18:59]
+entras, ¿no? Esto es esperarte un poco
+
+[00:19:01]
+más a la temporalidad menor. Entonces,
+
+[00:19:04]
+¿qué haces? Tienes este punto de arriba
+
+[00:19:08]
+y fíjense que este punto falla aquí,
+
+[00:19:10]
+exactamente aquí falla en hacer un nuevo
+
+[00:19:12]
+mínimo. No logra hacer un nuevo mínimo
+
+[00:19:15]
+este punto de aquí. Automáticamente lo
+
+[00:19:17]
+que sucede entonces es lo siguiente. Me
+
+[00:19:20]
+deja este punto, este punto máximo que
+
+[00:19:23]
+me genera máximos iguales de liquidez.
+
+[00:19:26]
+No me genera un cambio de carácter, pero
+
+[00:19:28]
+sí me genera máximos iguales de
+
+[00:19:29]
+liquidez. Y automáticamente en el
+
+[00:19:32]
+siguiente retroceso, yo sé que
+
+[00:19:33]
+probablemente el precio va a volver a
+
+[00:19:35]
+fallar.
+
+[00:19:37]
+Aquí el precio va a volver a fallar en
+
+[00:19:39]
+hacer nuevos mínimos y aquí es donde yo
+
+[00:19:42]
+entraría. Inclusive como tip adicional
+
+[00:19:44]
+pueden esperarse a que igual de nuevo
+
+[00:19:47]
+venimos con esta estructura bajista
+
+[00:19:49]
+aquí. Fíjense cómo genera este nuevo
+
+[00:19:51]
+mínimo y pueden esperarse a que el
+
+[00:19:52]
+precio haga lo mismo, falle y rompa la
+
+[00:19:55]
+estructura de nuevo. Y aquí es donde yo
+
+[00:19:57]
+hubiera entrado a la alza. Fíjense en
+
+[00:19:59]
+tema de horarios. La anterior entrada,
+
+[00:20:02]
+tema horarios. Vamos a ver tema
+
+[00:20:03]
+horarios, chicos, antes de poner el TP
+
+[00:20:05]
+de esa entrada. La anterior entrada en
+
+[00:20:07]
+una hora para mí hubiera estado perfecta
+
+[00:20:09]
+entrar a las vela de las 10. 10 de la
+
+[00:20:13]
+mañana les había dicho 9 de la mañana,
+
+[00:20:15]
+9:30. Fíjense que 30 minutos después yo,
+
+[00:20:18]
+para mí, yo hubiera entrado en esta
+
+[00:20:20]
+entrada hora Nueva York. Esta sí se dio
+
+[00:20:22]
+un poquito más tarde, pero igual es
+
+[00:20:24]
+totalmente válida. Sí, es para los que
+
+[00:20:27]
+quieren una mejor como confirmación, no
+
+[00:20:29]
+quieren entrar como más directo y
+
+[00:20:31]
+fíjense como ya entramos ahí cuando el
+
+[00:20:33]
+precio se apoyó y fíjense cómo hizo
+
+[00:20:35]
+incluso otro nuevo raideo después de que
+
+[00:20:37]
+rompió esta estructura. Rompió esta
+
+[00:20:40]
+estructura, hizo otro nuevo raideo.
+
+[00:20:42]
+También se puede entrar ahí, Gustavo,
+
+[00:20:44]
+cuando hizo otro nuevo raideo, porque
+
+[00:20:45]
+también raideó nuestra vela de una hora
+
+[00:20:48]
+también, pero yo hubiera entrado desde
+
+[00:20:50]
+antes, la verdad. Ahí ya tenemos nuestra
+
+[00:20:53]
+entrada. Entonces, en 5 minutos dijimos
+
+[00:20:55]
+que cuando rompió aquí otro, hizo otra
+
+[00:20:58]
+rompimiento en este punto, más o menos
+
+[00:21:01]
+aquí en este punto ahí ya entramos. Una
+
+[00:21:03]
+entrada totalmente realista para mi
+
+[00:21:05]
+gusto y de nuevo fijamos el objetivo. El
+
+[00:21:08]
+objetivo lo tenemos por acá. Fíjense que
+
+[00:21:10]
+estas entradas, la peculiaridad que van
+
+[00:21:11]
+a tener es que no van a tener un stop
+
+[00:21:14]
+loss tan bueno como las anteriores. Y
+
+[00:21:18]
+esta entrada incluso la podemos forzar a
+
+[00:21:19]
+un a cuatro y te da perfecto. Esta
+
+[00:21:22]
+entrada no tanto. Fíjense como aquí ya
+
+[00:21:24]
+tenemos 1283, pero aún así para mi gusto
+
+[00:21:28]
+está perfecta porque fíjense que se
+
+[00:21:30]
+protege del último mínimo que teníamos
+
+[00:21:32]
+acá. se protege de por debajo del último
+
+[00:21:35]
+mínimo. Ya si el precio cae por debajo y
+
+[00:21:37]
+vuelve a raidear, ya para mí no sería
+
+[00:21:39]
+una entrada válida y sería una entrada
+
+[00:21:41]
+perfecta para mi gusto, un a tres,
+
+[00:21:43]
+fíjense, un uno a tres, incluso si
+
+[00:21:45]
+quieren tener un stoplos más solgado, un
+
+[00:21:47]
+1 a 2 y medio, ¿ya? Primero se calcula
+
+[00:21:49]
+el TP y después ya calculamos en base al
+
+[00:21:53]
+target podemos calcular el tamaño del
+
+[00:21:56]
+stop loss. Entonces esas serían las dos
+
+[00:21:59]
+tipos de entradas super buenas, super
+
+[00:22:01]
+bellísimas con esta estrategia. Y vamos
+
+[00:22:04]
+a ver ahora una entrada eh eh de
+
+[00:22:08]
+continuación continuación una entrada
+
+[00:22:11]
+que no se toma en el punto más bajo,
+
+[00:22:13]
+sino que se toma en un punto ya más alto
+
+[00:22:16]
+cuando el precio está yendo hacia esos
+
+[00:22:18]
+objetivos, pero aún no ha logrado
+
+[00:22:20]
+llegar. Por como pueden ver acá el
+
+[00:22:23]
+precio no no ha logrado llegar todavía a
+
+[00:22:25]
+nuestro objetivo que era estos altos que
+
+[00:22:28]
+estaban aquí, no ha logrado sacarlos.
+
+[00:22:30]
+Entonces, el día viernes dentro de
+
+[00:22:32]
+nuestro horario que nosotros manejamos,
+
+[00:22:34]
+fíjense que esto es 5 de la mañana, esto
+
+[00:22:37]
+es la sesión de Londres,
+
+[00:22:42]
+de Londres, por donde se me perdieron
+
+[00:22:43]
+los horarios.
+
+[00:22:45]
+Aquí les había dicho 3 a. Eh, hora Nueva
+
+[00:22:48]
+York, sesión de Londres. Fíjense que se
+
+[00:22:50]
+da esa entrada. Nos podemos ir a una
+
+[00:22:53]
+hora
+
+[00:22:55]
+para que vean que también ocurren
+
+[00:22:57]
+entradas en Londres. Londres y Nueva
+
+[00:22:59]
+York. va bien en el oro. Este 5 de la
+
+[00:23:02]
+mañana, fíjense como la vela de las 4,
+
+[00:23:04]
+vela de las 4, vela de las 5. Entre ese
+
+[00:23:06]
+horario más o menos vamos a estar
+
+[00:23:08]
+entrando, eh, 2 3 4 5 4 horas yo creo
+
+[00:23:13]
+que le daría a Londres para poder
+
+[00:23:15]
+entrar. Y fíjense como eh qué pasa, qué
+
+[00:23:20]
+es lo bueno que nos pasa aquí, por
+
+[00:23:21]
+ejemplo, en esta entrada, que el precio
+
+[00:23:22]
+no había todavía llegado a nuestro
+
+[00:23:24]
+objetivo, todavía no había sacado esos
+
+[00:23:26]
+puntos altos que habíamos dicho, ese
+
+[00:23:28]
+punto de diario, esa temporalidad
+
+[00:23:30]
+diaria, ni tampoco había sacado este
+
+[00:23:32]
+punto alto que teníamos ahí. Entonces,
+
+[00:23:34]
+seguíamos con nuestra dirección alcista.
+
+[00:23:36]
+muchas veces vas a poder encontrarte
+
+[00:23:38]
+escenarios iguales. Entonces, aquí vamos
+
+[00:23:41]
+a ir viendo, vigilando nuestro 4 horas y
+
+[00:23:44]
+nuestra temporalidad de 3 horas. Fíjense
+
+[00:23:46]
+que nuestra temporalidad de 4 horas no
+
+[00:23:50]
+tenemos nada. Nos podemos ir a nuestra
+
+[00:23:52]
+temporalidad de 3 horas. Y fíjense como
+
+[00:23:54]
+nuestra temporalidad de 3 horas tampoco
+
+[00:23:55]
+tenemos nada. Muchas veces también nos
+
+[00:23:57]
+encanta que nuestra temporalidad de 3
+
+[00:23:59]
+horas, 4 horas nos haga esto. También es
+
+[00:24:02]
+es super bueno para tener
+
+[00:24:04]
+continuaciones, pero en ese caso de esa
+
+[00:24:06]
+entrada nos fuimos a una temporalidad de
+
+[00:24:08]
+una hora. El precio hace un pequeño
+
+[00:24:09]
+retroceso y en ese pequeño retroceso se
+
+[00:24:12]
+lleva, fíjense como el precio elimina
+
+[00:24:15]
+este mínimo y elimina este otro mínimo,
+
+[00:24:18]
+raidea ahí. En cuanto ya raidea el
+
+[00:24:21]
+precio ahí, pues ya nosotros
+
+[00:24:23]
+probablemente nos demos cuenta que ya no
+
+[00:24:25]
+va a seguir. Gustavo, ¿por qué ya no va
+
+[00:24:27]
+a seguir? ¿Por qué probablemente ya no
+
+[00:24:29]
+siga para abajo y ya no retroceda?
+
+[00:24:31]
+Porque acuérdense que nuestra dirección
+
+[00:24:33]
+previa es alcista y por eso nosotros nos
+
+[00:24:36]
+podemos dar cuenta que probablemente ya
+
+[00:24:38]
+no venga el precio hasta abajo antes de
+
+[00:24:40]
+ir por nuestro objetivo. Y ya si nos
+
+[00:24:42]
+vamos a una temporalidad de 5 minutos
+
+[00:24:45]
+podemos ver la confirmación. Pero
+
+[00:24:47]
+también voy a explicar la entrada. en
+
+[00:24:49]
+una hora. ¿Cómo podríamos haberla
+
+[00:24:52]
+tomado? Fíjense, aquí abre tres a las 4.
+
+[00:24:56]
+En la vela de las 4, en la vela de las
+
+[00:24:58]
+5, yo me hubiera incorporado al alza.
+
+[00:25:00]
+¿Cómo me hubiera incorporado al alza?
+
+[00:25:01]
+Bueno, una vez que ya veo que el precio
+
+[00:25:04]
+raidea esos mínimos, fíjense como este
+
+[00:25:07]
+cierre de esta vela, ya, por ejemplo,
+
+[00:25:09]
+veo yo que raidea este mínimo, raidea,
+
+[00:25:13]
+recoge, cuánto ya raideó y el precio
+
+[00:25:15]
+está recogiendo, podemos este entrar o
+
+[00:25:19]
+incluso se podría haber entrado una vez
+
+[00:25:20]
+que la vela cerró. Vamos a entrar una
+
+[00:25:23]
+vez que la vela cerró para que vean que
+
+[00:25:25]
+no es no tan perfecta la entrada.
+
+[00:25:28]
+Tampoco vamos a entrar en el tratamos de
+
+[00:25:30]
+entrar en el punto más bajo, pero no
+
+[00:25:32]
+siempre se va a poder. Entonces tratamos
+
+[00:25:33]
+de entrar lo más cercas posibles del
+
+[00:25:35]
+turtle sub. Fíjense cuando la vela cerró
+
+[00:25:38]
+ahí,
+
+[00:25:39]
+apertura de la vela, cerró la vela, ahí
+
+[00:25:41]
+recogió, sabemos que raideó y y decimos,
+
+[00:25:44]
+"Esta es nuestra entrada. Vamos a
+
+[00:25:45]
+apuntar hasta nuestros objetivos." Y
+
+[00:25:48]
+perdón que moví la entrada. Aquí cerró y
+
+[00:25:51]
+apuntamos hasta los objetivos. Aquí como
+
+[00:25:54]
+si estaba muy justo, o sea, en llegar, o
+
+[00:25:56]
+sea, aquí si le hubiera dado yo hasta el
+
+[00:25:59]
+último alto diario, hasta acá, hasta el
+
+[00:26:03]
+punto donde sacara el alto diario, hasta
+
+[00:26:05]
+ahí si le hubiera dado, porque nuestro
+
+[00:26:06]
+RR nos quedaba muy corto. Y de nuevo
+
+[00:26:09]
+ahora lo que hacemos aquí, como el
+
+[00:26:11]
+recorrido potencial es más corto que si
+
+[00:26:14]
+lo agarramos desde acá abajo la entrada,
+
+[00:26:17]
+pues nuestro RR probablemente no nos dea
+
+[00:26:19]
+uno a tres. Entonces, este tipo de
+
+[00:26:21]
+entradas, por ejemplo, me gustan a mí
+
+[00:26:23]
+agarrarlas con el uno a dos. Uno a dos
+
+[00:26:25]
+para mí suficiente para este tipo de
+
+[00:26:27]
+entradas. Y si nos vamos a nuestra
+
+[00:26:29]
+temporalidad de
+
+[00:26:32]
+5 minutos, pues lo mismo. El precio que
+
+[00:26:34]
+hace viene con una estructura bajista,
+
+[00:26:37]
+raidea estos mínimos. Por acá no
+
+[00:26:39]
+entramos porque el precio no había
+
+[00:26:40]
+raideado esa vela de una hora. Aquí sí
+
+[00:26:42]
+raidea el precio. ¿Qué hace? un impulso,
+
+[00:26:45]
+se apoya, no logra hacer un nuevo lower
+
+[00:26:49]
+y rompe de nuevo la estructura. Una vez
+
+[00:26:51]
+que rompe la estructura, aquí yo me
+
+[00:26:52]
+hubiera montado a la alza o también
+
+[00:26:54]
+hubieran podido esperar el cambio de
+
+[00:26:55]
+estructura, el retesteo y la misma
+
+[00:26:58]
+entrada para arriba. Y esa fue nuestra
+
+[00:27:00]
+explicación de esas entradas. El video
+
+[00:27:03]
+se me está quedando muy muy largo. Eh,
+
+[00:27:06]
+no pretendía hacer un video tan largo,
+
+[00:27:08]
+pero bueno, está super bien, super
+
+[00:27:10]
+excelente. Si tienen muchísimo apoyo,
+
+[00:27:13]
+este,
+
+[00:27:15]
+si hay muchísimo apoyo en los próximos,
+
+[00:27:18]
+eh, en este video, yo creo que podrás
+
+[00:27:21]
+ejemplos, más cositas, enseñarles un
+
+[00:27:23]
+poco más, pero se me va de las manos, o
+
+[00:27:25]
+sea, se me va muy largo el video, lo
+
+[00:27:27]
+vamos a dejar por aquí. Eh, sí tiene
+
+[00:27:31]
+muchísimo apoyo este video,
+
+[00:27:33]
+probablemente les enseñe también qué
+
+[00:27:35]
+sucedió acá o más ejemplos de entradas,
+
+[00:27:37]
+más ejemplos de entradas acá, pero
+
+[00:27:39]
+básicamente es lo que les expliqué y es
+
+[00:27:42]
+lo mismo que ocurre casi diario, o sea,
+
+[00:27:45]
+estas modelos de entrada se dan casi
+
+[00:27:46]
+diario. Déjenme en los comentarios qué
+
+[00:27:48]
+opinan de la estrategia, déjenme en los
+
+[00:27:50]
+comentarios qué quieren que explique
+
+[00:27:52]
+como tal y yo creo que iremos trayendo
+
+[00:27:55]
+para los próximos videos específicos.
+
+[00:27:57]
+explicar cosas específicas de la
+
+[00:28:00]
+estrategia como puede ser el failor
+
+[00:28:03]
+sweep, el fallo, o puede ser el explicar
+
+[00:28:07]
+eh qué horarios son mejores o explicar
+
+[00:28:11]
+eh confirmaciones, explicar más cosas
+
+[00:28:14]
+sobre la estrategia. Déjenme en los
+
+[00:28:16]
+comentarios qué opinan, eh, qué les
+
+[00:28:19]
+pareció la estrategia, cómo lo
+
+[00:28:21]
+emplearían en su modelo de trading, qué
+
+[00:28:23]
+le falta a este video para poder
+
+[00:28:26]
+explicar y bueno, no, yo voy a estarlos
+
+[00:28:28]
+leyendo los comentarios y lo que vea que
+
+[00:28:30]
+más eh se repite, que quieran que
+
+[00:28:33]
+explique, que más se repite, pues eso
+
+[00:28:34]
+traeré en un próximos
+
+[00:28:37]
+videos. Nos vemos y adiós.
+```

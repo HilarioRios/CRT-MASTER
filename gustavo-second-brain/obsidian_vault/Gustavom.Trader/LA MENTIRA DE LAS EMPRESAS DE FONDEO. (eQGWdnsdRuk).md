@@ -1,0 +1,1288 @@
+---
+source_id: YT_CANAL_02_eQGWdnsdRuk
+video_id: eQGWdnsdRuk
+channel: "Gustavom.Trader"
+published_at: 2023-02-17
+url: https://www.youtube.com/watch?v=eQGWdnsdRuk
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 11
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# LA MENTIRA DE LAS EMPRESAS DE FONDEO.
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=eQGWdnsdRuk)
+
+## Transcript
+
+```
+[00:00:00]
+también miré casos que de personas que
+
+[00:00:02]
+tenían Por ejemplo tú tenías tu orden de
+
+[00:00:05]
+compra o tu orden de venta no Y de
+
+[00:00:07]
+repente te desaparecía el té y profit no
+
+[00:00:09]
+sé si alguno de los que esté por aquí
+
+[00:00:10]
+les les haya pasado eso en sobre todo en
+
+[00:00:13]
+hip hop tanto Los que estén como Roque
+
+[00:00:15]
+doble de repente tú tienes por ejemplo
+
+[00:00:16]
+tu tp y dejaste tu tepeto sl cierras la
+
+[00:00:20]
+aplicación te pones otra cosa o te vas a
+
+[00:00:22]
+hacer No sé Y de repente te desapareció
+
+[00:00:24]
+el sl y te desapareció el tp como si
+
+[00:00:26]
+alguien entró a tu cuenta y pum
+
+[00:00:28]
+directamente lo quitó o sea todo ese
+
+[00:00:30]
+tipo de cosillas que han estado pasando
+
+[00:00:32]
+hace también poquito en Rocket estábamos
+
+[00:00:36]
+sucedió que algunas cuentas hubo un
+
+[00:00:38]
+problema con algunas cuentas un como un
+
+[00:00:40]
+fallo gracias a Dios ellos sí lo
+
+[00:00:43]
+resolvieron ese pequeño fallo pero luego
+
+[00:00:45]
+después decía admitir que tuvieran el
+
+[00:00:49]
+fallo y que no va a haber ningún
+
+[00:00:50]
+problema con tu cuenta tú la operas
+
+[00:00:52]
+normal Y ahora resulta que te niegan
+
+[00:00:54]
+pagos y sin sentido Pues con
+
+[00:00:57]
+inventándote cualquier cosa pues con
+
+[00:00:59]
+cualquier excusa
+
+[00:01:01]
+inventando excusas para denegar pagos
+
+[00:01:03]
+por ahí me dicen dicen que a Jaime está
+
+[00:01:06]
+prohibido en contrato en levelab con eso
+
+[00:01:08]
+que uno firma perdido Okay sí yo
+
+[00:01:12]
+entiendo yo sé que Level up dijeron que
+
+[00:01:14]
+el robot de alta frecuencia estaba
+
+[00:01:16]
+permitido no estaba permitido Hola
+
+[00:01:20]
+Hola Julio Cómo estás estamos hablando
+
+[00:01:22]
+aquí un poquito de los del tema Rocket
+
+[00:01:25]
+Level up tema también al tema de clases
+
+[00:01:28]
+un hay mucha Leña de que cortar no sé si
+
+[00:01:31]
+me quieras ayudar por ahí tú también que
+
+[00:01:33]
+estás metido en el tema de invite
+
+[00:01:35]
+también a Julio ya saben que Julio él
+
+[00:01:37]
+está metido también pasando incluso más
+
+[00:01:39]
+cuentas que yo yo pasé la verdad
+
+[00:01:40]
+poquitas no fueron muchas No estuve
+
+[00:01:42]
+pasando yo demasiadas cuentas pero sí el
+
+[00:01:45]
+tema de cómo ves el tema del de los
+
+[00:01:48]
+precios incluso ahora estuvieron Qué
+
+[00:01:51]
+pasó ahora que por ejemplo iba
+
+[00:01:53]
+30 segundos o cuarenta segundos el
+
+[00:01:55]
+precio del referente a un broker al otro
+
+[00:01:57]
+Sí
+
+[00:02:01]
+realmente es que el negocio de las
+
+[00:02:05]
+empresas de fondeo realmente cuando
+
+[00:02:07]
+todas las empresas escogen el mismo
+
+[00:02:09]
+broker para operar realmente es que se
+
+[00:02:13]
+presentan muchos problemas vamos por
+
+[00:02:15]
+parte porque realmente no solamente
+
+[00:02:17]
+estaba no estaba pasando con con eso
+
+[00:02:21]
+estaba pasando con levelad y estaba
+
+[00:02:23]
+pasando con
+
+[00:02:26]
+qué hicieron ahora para evitar que
+
+[00:02:28]
+nosotros lo que estábamos pasando
+
+[00:02:30]
+pruebas cuentas de fondeo con con los
+
+[00:02:33]
+sistemas de arbitraje y alta frecuencia
+
+[00:02:34]
+porque es arbitraje arbitraje y hay que
+
+[00:02:36]
+usar tanta frecuencia Pues eso o
+
+[00:02:38]
+tiescalper aumentaron el deslizamiento y
+
+[00:02:40]
+pusieron retraso al broker Pero qué pasa
+
+[00:02:42]
+que eso está afectando las operaciones
+
+[00:02:44]
+en las cuentas reales porque en pares
+
+[00:02:46]
+como un índice por ejemplo que eso es un
+
+[00:02:49]
+avión un segundo que se demore es una
+
+[00:02:52]
+cosa Terrible y lo peor de todo en mt5
+
+[00:02:55]
+es un poco más rápido que mt4 pero el
+
+[00:02:58]
+objetivo es de todas las empresas de
+
+[00:03:00]
+todas está hablando de en este fondo
+
+[00:03:03]
+hasta inclusive de tener fondo que que
+
+[00:03:06]
+pasar Prueba con eso es bastante
+
+[00:03:08]
+complejo el objetivo es que la gente no
+
+[00:03:10]
+use sistemas de arbitraje ni ni scalper
+
+[00:03:13]
+Ese es el objetivo por eso el capital ha
+
+[00:03:16]
+estado moleste y moleste esos servidores
+
+[00:03:20]
+First 21 levela ellos se hablan entre
+
+[00:03:24]
+todos brother negocio no es de uno solo
+
+[00:03:26]
+ellos se hablan entre todos Porque todos
+
+[00:03:30]
+se ponen de acuerdo en capitales
+
+[00:03:32]
+capitales yo yo realmente no sabía esto
+
+[00:03:35]
+me lo está contando un amigo que tiene
+
+[00:03:37]
+información digamos Así un poco más
+
+[00:03:40]
+acertada de de de de de capital en
+
+[00:03:42]
+Estados Unidos ya pero trabaja para
+
+[00:03:44]
+Londres con el capital
+
+[00:03:46]
+Dale luego
+
+[00:03:51]
+pero es que las cosas hay que decirlas
+
+[00:03:53]
+como son hermano porque
+
+[00:03:54]
+está demostrado que estas empresas no
+
+[00:03:56]
+viven Entonces los que nosotros los trae
+
+[00:03:58]
+en algún momento en cuentas reales
+
+[00:04:00]
+logramos hacer sobre ese veinte por
+
+[00:04:02]
+ciento que ellos se descuentan Sí el
+
+[00:04:05]
+negocio de estos son las pruebas de
+
+[00:04:07]
+fondeo cierto por cada 100 Trader por
+
+[00:04:11]
+ahí veinte sobreviven
+
+[00:04:13]
+quince sobreviven a a cuentas reales y
+
+[00:04:17]
+de ahí en adelante de pronto unos tres
+
+[00:04:19]
+cuatro cinco seis
+
+[00:04:22]
+dos tres meses consecutivos Entonces qué
+
+[00:04:24]
+pasó ellos se hablan entre todo hermano
+
+[00:04:26]
+y entre todos decidieron ajustar el
+
+[00:04:29]
+broker para que nadie le pasara a prueba
+
+[00:04:30]
+Sí pero ya estaban capitalizados ya bien
+
+[00:04:35]
+que se aprovecharon para que entrara
+
+[00:04:37]
+gente metiera plata y eso es lo que a mí
+
+[00:04:40]
+no me gusta pues porque tú no de un
+
+[00:04:42]
+principio hablas claro y tú dices voy a
+
+[00:04:45]
+poner un modelo de prueba donde vas a
+
+[00:04:47]
+voy a permitir utilizar robots de alta
+
+[00:04:49]
+frecuencia y te va a costar tanto por
+
+[00:04:51]
+qué Por ejemplo freeze Class no se
+
+[00:04:53]
+esperó hasta que tenían Diez mil o
+
+[00:04:56]
+veinte mil clientes o los que no hayan
+
+[00:04:57]
+tenido y ya después empezaron a hacer
+
+[00:04:59]
+eso y pusieron las cuentas súper caras o
+
+[00:05:02]
+sea y lo que hacen y lo que hacen es de
+
+[00:05:06]
+negarte el pago así nomás y te jodiste y
+
+[00:05:09]
+tu plata la perdiste y ya está
+
+[00:05:11]
+no están pagándole no están pagando
+
+[00:05:13]
+están pagándole unos pocos que pasaron
+
+[00:05:16]
+tal vez su su cuenta algunos con suerte
+
+[00:05:18]
+que hayan pasado con alta frecuencia y
+
+[00:05:20]
+otros que hayan pasado con otros tipos
+
+[00:05:22]
+de métodos pero pero créeme que no están
+
+[00:05:24]
+pagándole no están pagando hay otro
+
+[00:05:26]
+grupo que que estoy y hay un grupo de
+
+[00:05:29]
+veinte personas de First y a todos les
+
+[00:05:31]
+negaron la cuenta o sea el pago y les
+
+[00:05:35]
+cancelaron la cuenta Yo eso lo subía en
+
+[00:05:37]
+el grupo en el grupo lo subí y eso pasó
+
+[00:05:39]
+realmente entonces cosa que esa gente no
+
+[00:05:42]
+no es honesta hermano a mí me da gran
+
+[00:05:44]
+pena por eso porque a la empresa se le
+
+[00:05:46]
+dio la oportunidad y filtran lo ha
+
+[00:05:48]
+tenido todo para hacer una gran compañía
+
+[00:05:50]
+tal vez como FM o como como My Forest ya
+
+[00:05:55]
+u otra que que ande por ahí o de Fighter
+
+[00:06:00]
+por ejemplo que es una empresa que que
+
+[00:06:02]
+de una otra manera es de las viejas y
+
+[00:06:04]
+pagas pero no la usamos no lo usamos
+
+[00:06:06]
+porque creemos que
+
+[00:06:08]
+que tal vez no no es complicado no pero
+
+[00:06:11]
+realmente se están burlando de nosotros
+
+[00:06:14]
+brother
+
+[00:06:15]
+ya se están burlando de sus clientes
+
+[00:06:18]
+Sí porque el dinero que le entró a más
+
+[00:06:22]
+de veinte mil personas le entró a free
+
+[00:06:24]
+Class como en tres o en cuatro meses en
+
+[00:06:26]
+tres meses o menos de tres meses
+
+[00:06:28]
+ya
+
+[00:06:31]
+imagínate todo el dinero que que toda la
+
+[00:06:35]
+entrada de dinero que recaudaron ahí y
+
+[00:06:38]
+que no te puedan que no sean capaces de
+
+[00:06:42]
+pagarte de ponerte el pretexto de que no
+
+[00:06:45]
+tienen empleados o sea con toda esa
+
+[00:06:48]
+plata tú que no Tú crees que no puedas
+
+[00:06:50]
+pagar un grupo de personas para que
+
+[00:06:52]
+procesen los pagos y hagan eso no
+
+[00:06:54]
+quieren pagar allá o sea es cuento y qué
+
+[00:06:58]
+están haciendo cualquier de cualquier
+
+[00:07:00]
+cosa se están agarrando para ponerte un
+
+[00:07:02]
+pretexto a tú usaste voz de alta
+
+[00:07:04]
+frecuencia y
+
+[00:07:05]
+amigos míos personales a tres ya le han
+
+[00:07:09]
+cancelado la cuenta a tres hubo uno que
+
+[00:07:11]
+la pasó que las cuentas la pasó manual
+
+[00:07:15]
+ya al último que se llama Danilo mi
+
+[00:07:19]
+amigo hermano yo tengo por ahí incluso
+
+[00:07:22]
+tengo ahí el el correo que le enviaron
+
+[00:07:24]
+le dicen la cuenta él él por ejemplo hoy
+
+[00:07:28]
+hoy quince
+
+[00:07:30]
+ya le tocaba cobrar listo pinchó el
+
+[00:07:34]
+botón de cobrar se quedó ahí quieto como
+
+[00:07:37]
+mes y medio esperando que le pagaran y
+
+[00:07:40]
+el día que le respondieron
+
+[00:07:41]
+le dijeron No tú el 24
+
+[00:07:45]
+de enero
+
+[00:07:49]
+hiciste una operación y violaste las
+
+[00:07:53]
+reglas las normas de
+
+[00:07:55]
+las normas de de la compañía pero cómo
+
+[00:07:58]
+es posible si tú cuando vas a cobrar no
+
+[00:08:01]
+puedes operar la cuenta y él no tiene
+
+[00:08:03]
+operaciones hermano así de descarados
+
+[00:08:06]
+son
+
+[00:08:07]
+ya y tengo la prueba allí me dice porque
+
+[00:08:11]
+él me dice máster máster yo no voy a mi
+
+[00:08:14]
+tiempo con esta empresa la verdad es que
+
+[00:08:15]
+me salieron con esto y realmente yo
+
+[00:08:20]
+no puedo hacer nada no puedo hacer nada
+
+[00:08:23]
+porque me me cancelaron la cuenta y
+
+[00:08:25]
+aparte de eso se la cancelan No ni
+
+[00:08:27]
+siquiera nos dan oportunidad de seguirla
+
+[00:08:29]
+operando sino que se la cancelan que es
+
+[00:08:32]
+lo peor
+
+[00:08:33]
+ya la cancelan y el soporte te dice lo
+
+[00:08:36]
+mismo aparte ellos no están abiertos a
+
+[00:08:39]
+decirte nada sin embargo ahí andan
+
+[00:08:41]
+algunos en instagram que Ah no la
+
+[00:08:45]
+superempresa está revolucionando el
+
+[00:08:47]
+mercado qué Qué porquería la verdad
+
+[00:08:49]
+hermano Qué porquería la verdad no está
+
+[00:08:51]
+revolucionando nada no están
+
+[00:08:52]
+revolucionando absolutamente nada porque
+
+[00:08:56]
+es un modelo de negocio que ya está
+
+[00:08:59]
+y y han copiado un modelo de negocio de
+
+[00:09:04]
+una empresa fraudulenta Eso es todo
+
+[00:09:06]
+empresa seria y responsable que me le
+
+[00:09:08]
+quito el nombre con la que yo en lo
+
+[00:09:11]
+personal ya he cobrado
+
+[00:09:13]
+phone hermano usted hoy le toca el pago
+
+[00:09:18]
+Mejor dicho si usted hoy en una hora no
+
+[00:09:22]
+le da el botón
+
+[00:09:24]
+hermano le están enviando cantidades de
+
+[00:09:27]
+correo para que usted escuche Ese botón
+
+[00:09:30]
+al otro día Ya está tu dinero en dile ya
+
+[00:09:34]
+eso es todo
+
+[00:09:35]
+entonces
+
+[00:09:39]
+tristemente tristemente quedamos metido
+
+[00:09:42]
+mucha gente con esa empresa y porque
+
+[00:09:46]
+pensé que pensamos que Bueno al menos
+
+[00:09:48]
+iba a responder cierto o sea iba a pagar
+
+[00:09:52]
+después que las cuentas estuvieran en
+
+[00:09:53]
+real y tales no pero
+
+[00:09:55]
+bueno
+
+[00:09:57]
+suerte para las personas que han logrado
+
+[00:09:59]
+cobrar porque
+
+[00:10:01]
+yo creo que todo el personal ni siquiera
+
+[00:10:04]
+le han pagado al 10% estoy más que
+
+[00:10:06]
+seguro no no no ahí definitivamente
+
+[00:10:09]
+muchas personas que no le han pagado yo
+
+[00:10:13]
+he tenido casos no míos de personas que
+
+[00:10:15]
+yo en Rockets 21
+
+[00:10:18]
+les no les hayan denegado el el pago
+
+[00:10:22]
+tuve uno de levela tuve de Rocket no he
+
+[00:10:26]
+tenido Pero sí he visto en otras
+
+[00:10:28]
+comunidades que les están pasando y
+
+[00:10:31]
+de Level up Sí tuve una persona y he
+
+[00:10:34]
+escuchado incluso gente que operando
+
+[00:10:36]
+bien manual pasando su prueba así bien
+
+[00:10:39]
+les han también el pago o sea
+
+[00:10:44]
+no es que a ti no te van a pagar Es que
+
+[00:10:46]
+tú no sabes tú estás en la incertidumbre
+
+[00:10:48]
+de que tú no sabes y hoy por ejemplo
+
+[00:10:52]
+hablé con una persona que le pasamos su
+
+[00:10:54]
+cuenta pase uno la fase dos no se la
+
+[00:10:58]
+pudimos pasar porque ya no pudo no
+
+[00:11:01]
+sirvió y este y está bien o sea está
+
+[00:11:04]
+bien este tú por ejemplo el tema Roque
+
+[00:11:08]
+muchos podrán decir no permiten robots y
+
+[00:11:11]
+porque ustedes la estaban pasando está
+
+[00:11:13]
+bien pero mucha gente amigos de los de
+
+[00:11:16]
+la compañía estaban pasando y Nadie
+
+[00:11:18]
+estaba diciendo nada aparte otra cosa
+
+[00:11:21]
+paso yo con el Bot de alta frecuencia en
+
+[00:11:25]
+fase uno dime
+
+[00:11:27]
+dime Oye estás incumpliendo la regla te
+
+[00:11:30]
+quito la fase uno y se acabó no me hacen
+
+[00:11:33]
+a la gente que pase uno pase dos que
+
+[00:11:36]
+haga profit y encuentra light te dicen
+
+[00:11:38]
+que no y a cierta gente sí le pago
+
+[00:11:41]
+porque son mis amigos o porque no sé o
+
+[00:11:44]
+porque le hago de ti Mari de dos pingüé
+
+[00:11:47]
+a ti te pago a ti no
+
+[00:11:49]
+y a cierta gente sí le pago y a cierta
+
+[00:11:51]
+gente no y aparte jodo a gente que a la
+
+[00:11:55]
+mejor gente he escuchado casos que gente
+
+[00:11:58]
+que hacen scalping de Rápido y los
+
+[00:12:02]
+confunden piensa que Ah este Bot y
+
+[00:12:04]
+vámonos te jodiste y ya está como si le
+
+[00:12:06]
+doy un botón y ya Oye hermano Qué
+
+[00:12:09]
+responsabilidad es eso Y por qué no
+
+[00:12:11]
+fuiste en esto desde un principio y
+
+[00:12:13]
+vistes Ah la gente está pasando con
+
+[00:12:14]
+robot qué hago directamente desde que
+
+[00:12:19]
+veo que ya en fase uno no están Están
+
+[00:12:21]
+utilizando robots los Beto y empieza a
+
+[00:12:24]
+vetar gente y la gente va a entender que
+
+[00:12:26]
+estoy vetando gente y ya está o pones un
+
+[00:12:30]
+modelo de cuenta donde ese modelo de
+
+[00:12:32]
+cuenta te diga Este modelo de cuenta es
+
+[00:12:34]
+para pasar con robots de alta frecuencia
+
+[00:12:36]
+pero no qué hicieron ellos aprovecharse
+
+[00:12:38]
+eso es lo que a mí me castra con yo no
+
+[00:12:41]
+he cobrado
+
+[00:12:42]
+yo estoy pasando una prueba de una sola
+
+[00:12:45]
+fase ya va va suave vamos bien va suave
+
+[00:12:49]
+pero pero no es con sistema de alta
+
+[00:12:52]
+frecuencia la empresa paga yo ya la he
+
+[00:12:54]
+investigado hasta la saciedad y la
+
+[00:12:55]
+empresa paga ya no pone problemas y todo
+
+[00:13:00]
+es automático todo es en automático no
+
+[00:13:03]
+tiene que hablar con nadie entonces
+
+[00:13:05]
+hermano y es una sola fase
+
+[00:13:09]
+que seguir para adelante hay que seguir
+
+[00:13:12]
+para adelante ese es un modelo de de
+
+[00:13:15]
+cuenta que te dice directamente que
+
+[00:13:17]
+puedes usar robots de alta frecuencia
+
+[00:13:19]
+exactamente Sí eso es lo que yo digo yo
+
+[00:13:22]
+porque Rocket no hizo eso o por
+
+[00:13:24]
+qué le va a dar no hizo eso
+
+[00:13:28]
+Roque no hizo eso porque imagínate el
+
+[00:13:32]
+negocio
+
+[00:13:34]
+Ale no sé si es o cómo se llama el
+
+[00:13:37]
+personaje que tiene
+
+[00:13:38]
+si tiene una comunidad de Telegram de de
+
+[00:13:41]
+casi 70 mil personas
+
+[00:13:44]
+y tienes un sistema que tú hablas con el
+
+[00:13:47]
+broker perdón con la empresa de fondeo y
+
+[00:13:51]
+Claro tú para para una prueba de 100 K
+
+[00:13:54]
+vas a cobrar mil dólares por pasar la
+
+[00:13:56]
+prueba esos manes se forraron a billete
+
+[00:14:00]
+para mí y sacando yo mis conclusiones la
+
+[00:14:03]
+verdad el negocio era tanto de Roque
+
+[00:14:06]
+como de de de de de de de de esta
+
+[00:14:08]
+persona que
+
+[00:14:09]
+que estaba pasando la prueba y estaba
+
+[00:14:12]
+cobrando súper carísimo Como mil
+
+[00:14:14]
+quinientos dólares Si no estoy mala de
+
+[00:14:16]
+200 k
+
+[00:14:18]
+ya y como la gente ya tiene tiene
+
+[00:14:21]
+credibilidad porque son trae rentables y
+
+[00:14:24]
+bueno
+
+[00:14:26]
+hermano si esa gente no le pasó prueba a
+
+[00:14:30]
+una tres mil personas fue poco
+
+[00:14:35]
+cuerpo
+
+[00:14:37]
+entonces imagínate Imagínate la cantidad
+
+[00:14:40]
+de dinero que se mueve allí ya mucho
+
+[00:14:44]
+dinero y para mí para mí ese dinero no
+
+[00:14:48]
+solamente era para para aquella persona
+
+[00:14:50]
+eso tiene que haber habido un negocio y
+
+[00:14:52]
+por eso el rockers están calladitos y
+
+[00:14:55]
+Pero cuando la gente le descubrió que
+
+[00:14:57]
+podía pasar ellos no tenían en ese
+
+[00:15:00]
+momento en los Challenger no tenían como
+
+[00:15:03]
+decirle a ustedes y usted está usando un
+
+[00:15:05]
+sistema de alta frecuencia que están
+
+[00:15:06]
+prohibido porque ellos iban a saber que
+
+[00:15:08]
+la gente le iba a decir Bueno y por qué
+
+[00:15:10]
+tal persona sí pasa las pruebas de
+
+[00:15:13]
+fondeo con Rosa
+
+[00:15:14]
+quiero hacer quiero hacer una Cota ahí
+
+[00:15:17]
+yo directamente en el Instagram de Roque
+
+[00:15:20]
+Tony One yo le dije eso Oye porque
+
+[00:15:23]
+jerrybel está pasando con eso y tú no le
+
+[00:15:25]
+estás diciendo nada que a los yo no me
+
+[00:15:27]
+di cuenta yo le dije eso tomaron
+
+[00:15:30]
+screenshots porque cuando en Instagram
+
+[00:15:33]
+que cuando toman screenshot de tu de tu
+
+[00:15:36]
+chat te aparece a ti tomar un screenshot
+
+[00:15:39]
+de mi chat y a los días yo me di cuenta
+
+[00:15:42]
+yo seguí ayer y Belén en instagram a los
+
+[00:15:45]
+días jerrybell me bloqueó a mí entonces
+
+[00:15:48]
+están conectados o sea y o sea Y por qué
+
+[00:15:52]
+no habla la cosa Clara Por qué no haces
+
+[00:15:55]
+la cosa claras bien Eso es lo que a mí
+
+[00:15:57]
+me Okay está bien Yo respeto tu punto Tú
+
+[00:16:00]
+decías que no se podía pasar con alta
+
+[00:16:02]
+frecuencia Pero por qué no sales en un
+
+[00:16:04]
+video y así como haces tus tus light
+
+[00:16:06]
+pedorros que de de de de operando en
+
+[00:16:10]
+vivo por qué no sales y dices hablas
+
+[00:16:13]
+claramente Y dices Mira
+
+[00:16:15]
+ciertas personas están pasando con alta
+
+[00:16:18]
+frecuencia o no queremos que pasen con
+
+[00:16:19]
+alta frecuencia más pruebas y lo que
+
+[00:16:23]
+vamos a hacer es vetar a la gente de
+
+[00:16:25]
+fase uno no lo dejaste ahí o no supiste
+
+[00:16:30]
+hacer la verdad eso para mí es
+
+[00:16:33]
+aprovechamiento total eso es lo que pasó
+
+[00:16:34]
+y yo lo que les puedo recomendar a la
+
+[00:16:38]
+comunidad pequeña es que tengo que somos
+
+[00:16:41]
+pocos pero benditos gracias a Dios es
+
+[00:16:44]
+que la verdad se dejen para mí ir no les
+
+[00:16:49]
+puedo ya yo ni siquiera quiero
+
+[00:16:50]
+recomendar compañeros de fondeo porque
+
+[00:16:52]
+me siento mal contigo mismo No yo saben
+
+[00:16:55]
+ustedes que no es la no es la mía cuando
+
+[00:16:58]
+llegó todo este tema de los Bots y de
+
+[00:17:00]
+pasar la cuenta nosotros dijimos bueno
+
+[00:17:03]
+es una oportunidad para
+
+[00:17:04]
+apalancarse y pues para quitarte usted
+
+[00:17:07]
+sabe el estrés de pasar la cuenta
+
+[00:17:09]
+manualmente
+
+[00:17:10]
+de operar este pues el estrés que tiene
+
+[00:17:14]
+pasar su prueba de fondeo manualmente
+
+[00:17:16]
+entonces bueno con el robot si se puede
+
+[00:17:19]
+quitar eso gestionar y se puede pues
+
+[00:17:21]
+está bien pero al día de hoy hermanos yo
+
+[00:17:24]
+creo que váyanse con empresas seguras
+
+[00:17:27]
+como My Forest phone FM o
+
+[00:17:29]
+su hogar yo no metería las manos al
+
+[00:17:32]
+fuego por esa compañía yo me tiré la
+
+[00:17:34]
+mano al fuego Bueno ni siquiera las
+
+[00:17:36]
+metería yo diría si quieren fondearte
+
+[00:17:38]
+vean esas dos empresas que llevan años
+
+[00:17:42]
+en el mercado y yo también me preguntaba
+
+[00:17:46]
+fíjate por qué carajos si este tanta
+
+[00:17:51]
+competencia con fris Class con leve lab
+
+[00:17:54]
+con Rockets con estas empresas porque
+
+[00:17:57]
+carajos por ejemplo este temeo no bajo
+
+[00:17:59]
+sus precios my Forest phone se preocupó
+
+[00:18:01]
+Por qué Creen ustedes que ellos no se
+
+[00:18:03]
+preocuparon de esto porque ellos están
+
+[00:18:06]
+en el mismo negocio tan mal obviamente
+
+[00:18:08]
+tienen información más arriba que
+
+[00:18:10]
+nosotros y ellos saben que esto era era
+
+[00:18:14]
+eso
+
+[00:18:15]
+era un esquema así Y lamentablemente así
+
+[00:18:20]
+se volvió Y si ellos corrigen o no
+
+[00:18:23]
+corrigen la verdad la credibilidad que
+
+[00:18:24]
+tienen para mí es nula es nula por lo
+
+[00:18:27]
+que están haciendo por como se están
+
+[00:18:29]
+dirigiendo por lo que están haciendo y
+
+[00:18:31]
+para mí como decimos aquí en México
+
+[00:18:33]
+es una mentada de madre es una mentada
+```

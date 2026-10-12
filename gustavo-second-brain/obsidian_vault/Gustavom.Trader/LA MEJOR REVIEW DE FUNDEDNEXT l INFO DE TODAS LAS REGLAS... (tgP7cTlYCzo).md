@@ -1,0 +1,1747 @@
+---
+source_id: YT_CANAL_02_tgP7cTlYCzo
+video_id: tgP7cTlYCzo
+channel: "Gustavom.Trader"
+published_at: 2024-02-28
+url: https://www.youtube.com/watch?v=tgP7cTlYCzo
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 13
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# LA MEJOR REVIEW DE FUNDEDNEXT l INFO DE TODAS LAS REGLAS...
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=tgP7cTlYCzo)
+
+## Transcript
+
+```
+[00:00:00]
+pues Hola a todos amigos el día de hoy
+
+[00:00:02]
+Les vengo a traer un nuevo video esta
+
+[00:00:04]
+vez con la revisión de una nueva empresa
+
+[00:00:06]
+de fondeo esta es funden next Claro que
+
+[00:00:09]
+sí me faltaba ya hacer esta revisión en
+
+[00:00:11]
+nuestro canal de YouTube Antes que nada
+
+[00:00:14]
+recordarles que pueden suscribirse a
+
+[00:00:16]
+esta bella comunidad es totalmente
+
+[00:00:18]
+gratis y también No olvides comentar
+
+[00:00:21]
+dejar un buen like y también No olvides
+
+[00:00:24]
+unirte a nuestra comunidad de Telegram y
+
+[00:00:27]
+de WhatsApp que estamos ahí totalmente
+
+[00:00:29]
+activos Bueno chicos estamos aquí en la
+
+[00:00:32]
+página principal de fund next siempre
+
+[00:00:34]
+decirles que esto no es ninguna
+
+[00:00:35]
+recomendación de inversión y cada uno
+
+[00:00:38]
+tiene que hacer su propio análisis yo
+
+[00:00:40]
+Les recomiendo que aquí en la página de
+
+[00:00:42]
+funden next vayan a la sección que dice
+
+[00:00:45]
+faq o preguntas frecuentes para que
+
+[00:00:48]
+ustedes puedan despejar todas sus dudas
+
+[00:00:51]
+todas las dudas que llegan a tener sobre
+
+[00:00:52]
+la empresa si pagan o no pagan y que
+
+[00:00:55]
+puedan hacer su investigación como debe
+
+[00:00:58]
+ser y también apac acaba abajo en la
+
+[00:01:00]
+sección de aquí abajo van a tener lo que
+
+[00:01:03]
+es la parte donde pueden tirarle al
+
+[00:01:06]
+soporte verdad en esta página de aquí
+
+[00:01:08]
+pueden enviarle un mensaje al soporte yo
+
+[00:01:10]
+recomiendo que ustedes estén siempre
+
+[00:01:14]
+haciendo su investigación y tirándole
+
+[00:01:16]
+todas las preguntas que tengan al
+
+[00:01:18]
+soporte para que les puedan responder
+
+[00:01:20]
+qué tenemos entonces con funded next es
+
+[00:01:23]
+una empresa que a mí me gusta la verdad
+
+[00:01:25]
+es que puedo decir que me gusta eh es
+
+[00:01:28]
+una empresa que quieras o no quieras hay
+
+[00:01:31]
+algo que es una realidad y es que los
+
+[00:01:33]
+están haciendo muy bien están haciendo
+
+[00:01:35]
+las cosas muy bien o entonces eh No se
+
+[00:01:39]
+puede negar que están haciendo las cosas
+
+[00:01:40]
+muy bien en cuanto a marketing y también
+
+[00:01:42]
+en cuanto a sus reglas están poniéndose
+
+[00:01:46]
+mucho las pilas o entonces eh qué
+
+[00:01:49]
+evaluación yo les recomendaría poder
+
+[00:01:51]
+comprar aquí en funden next yo les
+
+[00:01:53]
+recomendaría lo que es la stellar Ellos
+
+[00:01:55]
+tienen la stellar la evaluación y la
+
+[00:01:57]
+Express verad yo les recomendaría que es
+
+[00:01:59]
+la stellar la stellar es la que tiene
+
+[00:02:01]
+días ilimitados y a mí me gusta la de
+
+[00:02:04]
+dos pasos pero pueden elegir la de un
+
+[00:02:06]
+paso o la de este dos pasos yo Les
+
+[00:02:10]
+recomiendo que vayan por esa la
+
+[00:02:11]
+valuación normal Me parece que sí tiene
+
+[00:02:13]
+días Eh o tiempo límite o Entonces es
+
+[00:02:17]
+como antes estaban las pruebas de fondeo
+
+[00:02:19]
+Entonces yo no recomiendo que que usen
+
+[00:02:21]
+esta mejor agarren la stellar que es la
+
+[00:02:23]
+que no tiene días como eh a fuerzas de
+
+[00:02:27]
+trading tiene días ilimitados entonces
+
+[00:02:30]
+eh Aquí tienen estos montos eh con ellos
+
+[00:02:33]
+puedes tener un capital máximo de hasta
+
+[00:02:35]
+$300000 y aquí puedes elegir una cuenta
+
+[00:02:38]
+de 6 de 15 de 25 de 50 o de 100 en mi
+
+[00:02:41]
+caso este yo Les recomiendo que empiecen
+
+[00:02:45]
+pues con lo que ustedes se sientan
+
+[00:02:46]
+cómodos yo tengo actualmente una de 15k
+
+[00:02:49]
+y me salió en $19 para estar testeando
+
+[00:02:51]
+la la empresa y te eh una de 6k te salen
+
+[00:02:56]
+$9 una de de 25 K Perdón te sale en 199
+
+[00:03:02]
+y una de 50k en casi $300 no una de $500
+
+[00:03:07]
+519 y una de 200k en 99 o 1,000 verad la
+
+[00:03:12]
+verdad es que los pagos Perdón los
+
+[00:03:14]
+precios de las cuentas están bastante
+
+[00:03:16]
+competitivos Esto es lo primero que
+
+[00:03:18]
+podemos decir y en cuanto a las pruebas
+
+[00:03:21]
+Yo no tengo ningún tipo de queja la
+
+[00:03:23]
+verdad que están bastante competitivas
+
+[00:03:25]
+los targets son 8% fase 1 5% fase 2
+
+[00:03:29]
+máximo de drw Down del 10 eh en el día
+
+[00:03:33]
+pérdida máxima del día del 5co el
+
+[00:03:36]
+drawdown es por el balance de la cuenta
+
+[00:03:38]
+basado en el balance no tenemos tiempo
+
+[00:03:40]
+límite tenemos un mínimo de trading de
+
+[00:03:42]
+10as de trading de cinco tenemos
+
+[00:03:45]
+comisiones por lote de tres esto es en
+
+[00:03:47]
+forex porque en índices no hay
+
+[00:03:49]
+comisiones y podemos acceder hasta un
+
+[00:03:51]
+profit de split de 95 pero empezamos con
+
+[00:03:55]
+un 80% me parece y después va subiendo
+
+[00:03:59]
+mesa mes me parece los lo lo que son el
+
+[00:04:02]
+apalancamiento es uno a 100 lo normalito
+
+[00:04:05]
+Y la verdad puedes tradear este lo que
+
+[00:04:08]
+son noticias pero tienen la regla de que
+
+[00:04:12]
+2 minutos antes y 2 minutos después no
+
+[00:04:14]
+te puedes meter a una noticia
+
+[00:04:15]
+fundamental solamente eso Pero sí puedes
+
+[00:04:18]
+tradear noticias si estás metido desde
+
+[00:04:21]
+antes tienen su programa Aquí y este
+
+[00:04:25]
+hace poquito sacaron que si no te pagan
+
+[00:04:27]
+en menos de 24 horas este regalan 000
+
+[00:04:31]
+extra verdad eso es como lo que sacaron
+
+[00:04:34]
+como potenciando o creyendo totalmente
+
+[00:04:37]
+en que ellos han a hacer los pagos
+
+[00:04:39]
+totalmente rápido en Brokers eh Quisiera
+
+[00:04:42]
+hablar aquí un poquito sobre el broker
+
+[00:04:43]
+porque ellos sacaron hace poquito su
+
+[00:04:45]
+broker funded next que es su el propio
+
+[00:04:48]
+broker que que está regulado según la
+
+[00:04:51]
+verdad no no me he puesto a investigar
+
+[00:04:53]
+exactamente qué regulaciones tiene pero
+
+[00:04:55]
+sé que está regulado este broker escuché
+
+[00:04:58]
+por ahí información y sé que este broker
+
+[00:05:00]
+es un broker que sacaron ellos que está
+
+[00:05:03]
+regulado y Válgame ahora que les
+
+[00:05:05]
+quitaron la licencia a muchas empresas
+
+[00:05:07]
+en metatrader esta ha sido de las casi
+
+[00:05:10]
+únicas que no ha estado teniendo
+
+[00:05:11]
+problemas con que les están quitando las
+
+[00:05:14]
+licencias de metatrader Porque creo yo
+
+[00:05:16]
+que es porque tienen su broker regulado
+
+[00:05:18]
+y tienen su broker en metat 4 metat 5 la
+
+[00:05:22]
+verdad que los spread son bastante
+
+[00:05:23]
+competitivos aquí igual tú puedes hacer
+
+[00:05:26]
+login en una cuenta metatrader 4
+
+[00:05:28]
+metatrader 5 que es un investor y puedes
+
+[00:05:31]
+estar chequeando los spread que eso es
+
+[00:05:33]
+bastante bueno hace poquito también
+
+[00:05:35]
+quería hablar sobre esto hace poquito
+
+[00:05:36]
+sacaron que este se agradece como para
+
+[00:05:39]
+las personas que que quieren empezar que
+
+[00:05:42]
+no tienen dinero para empezar pero que
+
+[00:05:44]
+quieren empezar a estudiar o a practicar
+
+[00:05:46]
+sacaron una free Trail una cuenta de
+
+[00:05:49]
+prueba que tú puedes irla abriendo cada
+
+[00:05:51]
+14 días creo puedes abrir una con su
+
+[00:05:54]
+broker con sus reglas etcétera etcétera
+
+[00:05:56]
+y aquí Tú puedes estar trabajando con
+
+[00:05:58]
+ese programa para para que estés
+
+[00:05:59]
+practicando la verdad que se agradece
+
+[00:06:02]
+muy bien Bueno chicos solo para decirles
+
+[00:06:04]
+que si se me pasó algo a mencionar sobre
+
+[00:06:06]
+la empresa funden next abajo en los
+
+[00:06:08]
+comentarios me pueden decir su
+
+[00:06:10]
+experiencia y si se me pasó algo
+
+[00:06:12]
+importante lo pueden poner abajo en los
+
+[00:06:14]
+comentarios para que todos podamos estar
+
+[00:06:16]
+eh teniendo retroalimentación de qué es
+
+[00:06:19]
+lo que pensamos sobre funded next y no
+
+[00:06:22]
+olviden por supuesto suscribirse y
+
+[00:06:24]
+unirse a mi comunidad Privada de
+
+[00:06:26]
+Telegram y de WhatsApp que están abajo
+
+[00:06:28]
+en la descripción para los links para
+
+[00:06:30]
+que se puedan unir que les decía que los
+
+[00:06:32]
+pagos son en teter en perf money en Bank
+
+[00:06:36]
+transferencia bancaria y en Wi estos
+
+[00:06:38]
+tienen estos modelos de pago que es
+
+[00:06:40]
+criptomoneda perfect Money transferencia
+
+[00:06:42]
+bancaria a tu banco directamente y wise
+
+[00:06:45]
+este yo no actualmente no he retirado
+
+[00:06:47]
+con ellos pero si sé de mucha gente que
+
+[00:06:50]
+está retirando este
+
+[00:06:53]
+influencers reconocidos yo no he
+
+[00:06:55]
+retirado con ellos porque la verdad no
+
+[00:06:57]
+he hecho no he probado mucho lo que son
+
+[00:07:00]
+las cuentas pero eh si en un futuro
+
+[00:07:03]
+llego a retirar o lo que sea les voy a
+
+[00:07:05]
+traer mi experiencia con la empresa esto
+
+[00:07:06]
+solamente es un review dice que la
+
+[00:07:08]
+garantía de pago de 24 horas se aplicará
+
+[00:07:10]
+después de solicitar el pago asegúrate
+
+[00:07:12]
+de introducir tus datos correctos y el
+
+[00:07:14]
+método de pago en el botón solicitud de
+
+[00:07:17]
+pago que lo tienen en su panel y luego
+
+[00:07:21]
+podrás participar o retirar el 15% de
+
+[00:07:24]
+los profits de las ganancias de tus
+
+[00:07:26]
+fases de evaluación o desafío stellar
+
+[00:07:28]
+una vez que logres un crecimiento del 5%
+
+[00:07:30]
+o sea una vez que logres hacer un 5%
+
+[00:07:33]
+ellos te van a estar pagando un 5% a los
+
+[00:07:36]
+profit de la fase uno Perdón un 15% de
+
+[00:07:38]
+los profits de la fase uno una vez que
+
+[00:07:40]
+logres hacer un un eh un profit de un 5%
+
+[00:07:44]
+y logres estar retirando y este al
+
+[00:07:48]
+primer te van a estar reembolsando tu tu
+
+[00:07:51]
+lo que te costó tu challenge en el
+
+[00:07:53]
+primer retiro bueno por aquí chicos
+
+[00:07:55]
+donde les decía en el faq eh van a tener
+
+[00:07:58]
+las preguntas y van a poder estar viendo
+
+[00:08:01]
+cada una de sus inquietudes frecuentes
+
+[00:08:04]
+si alguna de las preguntas no está aquí
+
+[00:08:08]
+pueden eh tirarle a soporte como les
+
+[00:08:10]
+decía con confianza para que calen el
+
+[00:08:12]
+soporte también y pueden estar
+
+[00:08:14]
+preguntando cualquier cosa que ustedes
+
+[00:08:16]
+crean que pueden inflingir alguna regla
+
+[00:08:18]
+o duda yo directamente me voy a ir con
+
+[00:08:21]
+lo que son los pagos que es lo que más
+
+[00:08:22]
+le interesa a todo el mundo pero si me
+
+[00:08:24]
+pongo a leer todas las reglas Pues yo
+
+[00:08:26]
+creo que no vamos a acabar hoy y la idea
+
+[00:08:28]
+tampoco es hacer un video muy largo
+
+[00:08:30]
+entonces frecuencia con la que recibiré
+
+[00:08:33]
+mi pago en este caso la que me interesa
+
+[00:08:35]
+más es la stellar que es la que yo más
+
+[00:08:36]
+le recomiendo y la que todo el mundo
+
+[00:08:38]
+vamos a estar comprando de hecho la más
+
+[00:08:39]
+popular y tenemos la cuenta stellar de
+
+[00:08:42]
+fase uno y fase dos y dice si cumple con
+
+[00:08:44]
+toda la regla recibirá una participación
+
+[00:08:47]
+de ganancias del 15% de las fases 1 y 2s
+
+[00:08:50]
+y se podrá retirar una vez que haya
+
+[00:08:51]
+obtenido un crecimiento del 5% lo que
+
+[00:08:53]
+les decía antes una vez que reciba su
+
+[00:08:55]
+cuenta fund next su participación de
+
+[00:08:57]
+ganancias aumentará al 80 por su primer
+
+[00:09:00]
+pago Se realiz se realizará Después de 4
+
+[00:09:03]
+semanas de negociación 28 días y
+
+[00:09:06]
+posteriormente recibirá pagos cada dos
+
+[00:09:08]
+semanas de negociación 14 días además
+
+[00:09:10]
+recibirá un reembolso de la tarifa de
+
+[00:09:12]
+suscripción durante su primer pago o sea
+
+[00:09:14]
+lo que te costó la cuenta la
+
+[00:09:16]
+participación de ganancias de fund next
+
+[00:09:18]
+Será un 90 por una vez que cumplas todos
+
+[00:09:20]
+los requisitos verdad Pero siempre te
+
+[00:09:22]
+van a estar dando un 80 20 y te van a
+
+[00:09:25]
+estar pagando cada 14 días después de
+
+[00:09:27]
+haber eh tenido tu primer retiro de que
+
+[00:09:30]
+va a durar 28 días y a los 5% que tú
+
+[00:09:33]
+hagas te van a estar dando un 15% de las
+
+[00:09:36]
+ganancias de hecho Si tú te vas aquí a
+
+[00:09:38]
+la página principal y te metes a los
+
+[00:09:41]
+desafíos que estábamos viendo aquí te
+
+[00:09:44]
+van a estar diciendo por ejemplo la
+
+[00:09:45]
+cuenta de
+
+[00:09:46]
+15k que es la que yo tengo por ejemplo
+
+[00:09:49]
+ahorita que estoy tratando de pasar te
+
+[00:09:51]
+van a dar un 292
+
+[00:09:54]
+22.5 por una cuenta de 50k por ejemplo
+
+[00:09:56]
+te van a dar un
+
+[00:09:58]
+975 la verdad es que esto motiva mucho
+
+[00:10:01]
+me gusta mucho es que tengan Esto me
+
+[00:10:03]
+gusta mucho que tengan esto porque te
+
+[00:10:05]
+motiva Pues porque te van a estar dando
+
+[00:10:08]
+una lanita extra O sea casi casi es otro
+
+[00:10:11]
+es el doble de lo que te costó la cuenta
+
+[00:10:13]
+vas a recibir tus 119 por ejemplo aquí
+
+[00:10:16]
+si compraste una de 15k y vas a recibir
+
+[00:10:18]
+292 que esto ya lo puedes tú
+
+[00:10:20]
+diversificar a comprar más cuentas con
+
+[00:10:23]
+ellos eso me lleva a ver cuál es el
+
+[00:10:26]
+máximo que ellos permiten tener en esta
+
+[00:10:29]
+empresa y permiten hasta
+
+[00:10:31]
+0000,000 está aquí en las preguntas
+
+[00:10:34]
+frecuentes en una de estas está pero ya
+
+[00:10:36]
+se los digo yo que ya lo leí permiten
+
+[00:10:38]
+hasta 0000,000 o entonces aquí pueden
+
+[00:10:41]
+leer cualquiera de las reglas y este va
+
+[00:10:44]
+a estar correctamente para que la puedan
+
+[00:10:47]
+estudiar hagan su propia investigación
+
+[00:10:49]
+Bueno aquí les decía eh que está que
+
+[00:10:51]
+fund next ofrece una gran variedad de
+
+[00:10:53]
+saldo inicial a los desafíos incluidos
+
+[00:10:54]
+6,000 15,000 25 50 100 y 200 sin embargo
+
+[00:10:59]
+para el desafío Express eh los saldos
+
+[00:11:01]
+iniciales son 6000 15000 25 50,000 y
+
+[00:11:04]
+100000 y ya si
+
+[00:11:06]
+DEA si deseas este operar con un saldo
+
+[00:11:09]
+de cuenta más alto o más capital vas a
+
+[00:11:11]
+tener que Acceder al plan de Scala o
+
+[00:11:14]
+plan scal fundex ofrece un plan de
+
+[00:11:17]
+ampliación a los operadores que muestran
+
+[00:11:19]
+eh consistencia y éxito y siguen las
+
+[00:11:22]
+reglas de ellos
+
+[00:11:23]
+eh este proceso de revisión y criterios
+
+[00:11:26]
+de este de elegibilidad eh Antes que
+
+[00:11:30]
+nada decir que ellos tienen una
+
+[00:11:31]
+asignación de capital de hasta 4
+
+[00:11:33]
+millones O sea tú puedes acceder hasta 4
+
+[00:11:35]
+millones con ellos este y lograr un
+
+[00:11:38]
+crecimiento mínimo acumulado de la
+
+[00:11:40]
+cuenta del 10% en 4 meses consecutivos
+
+[00:11:42]
+eh mínimo 10% durante 4 meses reciba al
+
+[00:11:46]
+menos dos pagos dentro de estos 4 meses
+
+[00:11:47]
+sucesivos el último ciclo comercial
+
+[00:11:50]
+debería terminar con ganancias las
+
+[00:11:52]
+cuentas fundex evaluación extell Expreso
+
+[00:11:55]
+extell se somete la revisión cada 4
+
+[00:11:57]
+meses los comerciantes que cumplan
+
+[00:11:59]
+criterios de elegibilidad son elegibles
+
+[00:12:01]
+para un aumento del 40% hasta 4 millones
+
+[00:12:04]
+verdad y aquí está primer ciclo Por
+
+[00:12:07]
+ejemplo si tú tienes una cuenta de 100k
+
+[00:12:09]
+vas a tener un profit de 3000 un 3%
+
+[00:12:12]
+eh Lu segundo ciclo así hasta que tengas
+
+[00:12:18]
+por lo menos 4 meses y hayas hecho un
+
+[00:12:20]
+acumulativo de 10% o sea hace un
+
+[00:12:23]
+acumulativo entre los 4 meses de mínimo
+
+[00:12:25]
+10% que va promediando como
+
+[00:12:29]
+un 3% mensual más o menos O sea que es
+
+[00:12:32]
+bastante accesible Y a partir de ahí te
+
+[00:12:34]
+pueden si tú cumples con eso te pueden
+
+[00:12:36]
+dar un 40% más del capital y este y vas
+
+[00:12:40]
+a ir aumentando tu
+
+[00:12:42]
+cuentecitos pueden leer más información
+
+[00:12:45]
+y está todo detallado para que lo puedan
+
+[00:12:47]
+ver Bueno chicos aquí por ejemplo pueden
+
+[00:12:49]
+ver las restricciones que tiene tu país
+
+[00:12:51]
+actualmente hicieron las restricciones a
+
+[00:12:53]
+bangladesh Corea del Norte Siria y
+
+[00:12:55]
+Estados Unidos no se puede acceder a la
+
+[00:12:57]
+plataforma comercial de de next si eres
+
+[00:12:59]
+de Estados Unidos lamentablemente es así
+
+[00:13:01]
+ya saben lo que está pasando con las
+
+[00:13:03]
+empresas de fondeo en lo que es la
+
+[00:13:05]
+cuestión de Estados Unidos entonces
+
+[00:13:08]
+lamentablemente es así hice un video
+
+[00:13:09]
+sobre eso que lo pueden ver en mi canal
+
+[00:13:11]
+de YouTube Ahí está para si lo quieren
+
+[00:13:13]
+ver eh que se llama k funden pips y eh
+
+[00:13:16]
+funded next restringe a los usuarios de
+
+[00:13:19]
+Estados Unidos y no no más funded next
+
+[00:13:21]
+muchas empresas lo están haciendo
+
+[00:13:22]
+Entonces ahí ustedes pueden chequear
+
+[00:13:24]
+para los que tengan dudas entonces es
+
+[00:13:27]
+obligatorio utilizar stop bl para todas
+
+[00:13:29]
+las operaciones no hay restricciones con
+
+[00:13:31]
+el uso de stop loss en todas las
+
+[00:13:32]
+operaciones por lo que puede operar sin
+
+[00:13:34]
+usarlo y este Eh hay algunas empresas
+
+[00:13:38]
+que sí la verdad es que tienen muy muy
+
+[00:13:41]
+bien como todas me gusta que tengan como
+
+[00:13:43]
+muchas preguntas que resuelven
+
+[00:13:45]
+muchísimas dudas a corto plazo verdad y
+
+[00:13:48]
+yo no he visto ninguna
+
+[00:13:50]
+Eh como cosa rara Lo único es que el VPN
+
+[00:13:55]
+el vps y la ip es como que lo que hay un
+
+[00:13:58]
+un poquito de lío Y la verdad eh la IP
+
+[00:14:02]
+que la verdad es que lo único que tienen
+
+[00:14:04]
+como un poquito de son estrictos con sus
+
+[00:14:06]
+reglas verad Entonces si violas una
+
+[00:14:08]
+regla ten por seguro que no te van a
+
+[00:14:10]
+pagar pero sí están pagando verad chicos
+
+[00:14:12]
+aquí tenemos un poquito lo del VPN o bps
+
+[00:14:15]
+los clientes de fundex tienen la opción
+
+[00:14:17]
+de utilizar servicios de red privada
+
+[00:14:19]
+virtual bpn y servicio privado virtual
+
+[00:14:21]
+bps para acceder la plataforma sin
+
+[00:14:23]
+embargo es fundamental seguir las futas
+
+[00:14:25]
+específicas Okay se recomienda utilizar
+
+[00:14:28]
+servicio de bpn de pago en lugar de
+
+[00:14:29]
+depender de opciones gratuitas eh las
+
+[00:14:32]
+bpns gratuitas a menú implican Que
+
+[00:14:34]
+varios usuarios compartan la misma
+
+[00:14:36]
+dirección IP lo que puede plantear
+
+[00:14:38]
+riesgo de seguridad y causar confusión
+
+[00:14:40]
+con respecto a las actividades
+
+[00:14:43]
+eh Para mantener un seguimiento de la
+
+[00:14:45]
+seguridad constante Es recomendable
+
+[00:14:47]
+seleccionar una IP específica dentro del
+
+[00:14:49]
+país específico cada vez que se conecta
+
+[00:14:51]
+la VPN el cambio frecuente entre
+
+[00:14:53]
+servidores o países puede generar
+
+[00:14:55]
+sospechas y potencialmente controladores
+
+[00:14:57]
+de seguridad entonces eh Como que puedes
+
+[00:15:00]
+utilizarlo pero si estás cambiando
+
+[00:15:03]
+constantemente IP vas a tener problemas
+
+[00:15:05]
+Cuáles son las estrategias eh
+
+[00:15:06]
+comerciales restringidas o prohibidas en
+
+[00:15:08]
+funden el abuso del sistema significa
+
+[00:15:11]
+que no se permite estilos comerciales
+
+[00:15:13]
+que no reflejen las operaciones reales
+
+[00:15:15]
+en el mercado y resultarán en un
+
+[00:15:17]
+cumplimiento en los términos del
+
+[00:15:19]
+servicio eh de servicio sin previo aviso
+
+[00:15:21]
+están estrictamente prohibidas las
+
+[00:15:23]
+estrategias que produzcan ganancias
+
+[00:15:25]
+constantes y sin riesgos exclusivamente
+
+[00:15:27]
+en cuentas Challenge se espera a que los
+
+[00:15:29]
+operadores operen sus cuentas como si
+
+[00:15:30]
+fueran cuentas fund next el uso de
+
+[00:15:32]
+estrategias que exploten las cuentas
+
+[00:15:34]
+challenge se dará lugar a la cancelación
+
+[00:15:36]
+de la cuenta eh Ya sea una fase o
+
+[00:15:39]
+mientras una cuenta fund pass your
+
+[00:15:41]
+challenge copy trading service o sinal
+
+[00:15:44]
+service también están estrictamente
+
+[00:15:45]
+prohibidos resultado en la denegación de
+
+[00:15:48]
+cualquier cuenta O sea no puedes hacer
+
+[00:15:49]
+este tipo de cositas comercio de alta
+
+[00:15:52]
+frecuencia prohibido y aquí también hht
+
+[00:15:55]
+restringió la plataforma de funden te
+
+[00:15:57]
+ponen ejemplos también lo del Bot de
+
+[00:16:00]
+latencia eh copy trading
+
+[00:16:03]
+cobertura grupal en varias cuentas
+
+[00:16:05]
+cualquier forma de negociación de
+
+[00:16:07]
+arbitraje scalping de de garrapatas dice
+
+[00:16:11]
+así cómo se llaman en English el
+
+[00:16:14]
+scalping este tick scalping o scalping
+
+[00:16:17]
+estos Bots que hacen este tipo de
+
+[00:16:19]
+scalping comercio de red apuestas
+
+[00:16:22]
+unilaterales compartir cuenta
+
+[00:16:24]
+hiperactividad y aquí están todas las
+
+[00:16:27]
+tipos de de eh trading que no es
+
+[00:16:31]
+permitido la verdad que si tú opas de
+
+[00:16:33]
+muy manera muy normal No creo que vayas
+
+[00:16:35]
+a tener ningún problema ojo los Bots
+
+[00:16:37]
+normales los Bots normalitos Sí están
+
+[00:16:40]
+este aceptados de hecho en la página
+
+[00:16:43]
+principal aquí te dice eh que puedes
+
+[00:16:46]
+traar noticias y que puedes usar expr
+
+[00:16:49]
+visor pero los Bot normales un Bot que
+
+[00:16:51]
+te haga una rentabilidad normal y que
+
+[00:16:54]
+sea no sea un robot de alta frecuencia o
+
+[00:16:56]
+este tipo de cosas da un robot normal
+
+[00:16:58]
+ito Bueno chicos estoy aquí con el
+
+[00:17:01]
+soporte les eh quería resolver esa duda
+
+[00:17:04]
+de la IP que muchos no quiero que se
+
+[00:17:07]
+vaya este video sin eso que muchos no
+
+[00:17:10]
+tienen como en cuenta esto y que sepan
+
+[00:17:12]
+muy bien a lo que se atienen con esto de
+
+[00:17:14]
+la IP Y cómo tienes que trabajar para
+
+[00:17:16]
+que no te vayan a quitar tu cuenta por
+
+[00:17:18]
+la cuestión de la IP que tú puedas
+
+[00:17:21]
+tradear tu cuenta en diferentes países o
+
+[00:17:24]
+en diferentes redes de internet y que no
+
+[00:17:27]
+te puedan quitar tu cuenta que te la
+
+[00:17:28]
+estén quitando porque ahorita funded
+
+[00:17:30]
+next está se puso muy estricto con la
+
+[00:17:33]
+cuestión de que tú puedas tradear la
+
+[00:17:35]
+cuenta con diferentes ips o sea con
+
+[00:17:37]
+diferentes redes de internet o Entonces
+
+[00:17:40]
+por aquí les pregunté al Bot de soporte
+
+[00:17:42]
+para que tengamos un artículo extensivo
+
+[00:17:45]
+de de que podamos ver qué qué es esto y
+
+[00:17:48]
+que podamos entender totalmente eh A qué
+
+[00:17:52]
+se refieren con esto de la IP verdad
+
+[00:17:55]
+Bueno chicos lo traduje al final eh con
+
+[00:17:57]
+el productor de Google como que no me
+
+[00:17:59]
+dejaba pero dice funden esfuerza por
+
+[00:18:01]
+garantizar un entorno comercial seguro
+
+[00:18:04]
+para todos nuestros operadores para
+
+[00:18:06]
+evitar complicaciones relacionadas con
+
+[00:18:08]
+las direcciones IP se recomienda a los
+
+[00:18:09]
+operadores utilicen un único dispositivo
+
+[00:18:12]
+con una dirección IP única durante sus
+
+[00:18:14]
+actividades comerciales en nuestra
+
+[00:18:16]
+plataforma sin embargo es es
+
+[00:18:19]
+comprensible que se pueda ver
+
+[00:18:21]
+circunstancias excepcionales e que
+
+[00:18:23]
+requieran el uso de múltiples
+
+[00:18:25]
+dispositivos y direcciones IP aquí
+
+[00:18:27]
+algunas pautas a seguir para
+
+[00:18:30]
+eh múltiples dispositivos verad o
+
+[00:18:33]
+múltiples direcciones IP Entonces vamos
+
+[00:18:35]
+a ver cuáles son esas pautas no si viaja
+
+[00:18:37]
+o se muda A un país diferente su cuenta
+
+[00:18:39]
+Se reflejará la dirección IP de ese país
+
+[00:18:41]
+en tales casos fund requiere un
+
+[00:18:43]
+documento válido que pueda verificar su
+
+[00:18:45]
+movimiento físico a la nueva ubicación
+
+[00:18:48]
+También es importante tener en cuenta
+
+[00:18:50]
+que si fund se encuentra una cantidad
+
+[00:18:52]
+significativa de cuentas con direcciones
+
+[00:18:54]
+IP similares detecta similitudes o
+
+[00:18:58]
+discrepancias en las estrategias
+
+[00:18:59]
+comerciales incluida la cobertura en
+
+[00:19:02]
+múltiples cuentas con las direcciones IP
+
+[00:19:04]
+se considerará una inflacción o o
+
+[00:19:07]
+violación se considerá una violación
+
+[00:19:09]
+Entonces es recomendable que no utilices
+
+[00:19:11]
+muchas direcciones IP Porque pueden
+
+[00:19:14]
+eh violar puedes violarte o o te van a
+
+[00:19:17]
+quitar la cuenta básicamente No si si
+
+[00:19:20]
+fund next encuentra una violación de sus
+
+[00:19:22]
+políticas relacionadas con múltiples
+
+[00:19:24]
+direcciones IP se pueden tomar las
+
+[00:19:25]
+siguientes acciones emitirá una
+
+[00:19:27]
+advertencia junto con la deducción de
+
+[00:19:29]
+ganancias y se restablecerá la cuenta si
+
+[00:19:31]
+no obtiene ganancias su cuenta no se
+
+[00:19:33]
+restablecerá la cuenta puede cancelarse
+
+[00:19:35]
+sin ninguna participación en las
+
+[00:19:36]
+ganancias dependiendo de la gravedad O
+
+[00:19:38]
+sea que ellos ya valoran el caso Pero si
+
+[00:19:41]
+te ven como que estás usando muchas ips
+
+[00:19:43]
+te pueden llegar a ver problemas verdad
+
+[00:19:45]
+Entonces eh Para que tengan esto muy en
+
+[00:19:48]
+cuenta fund next valorará la seguridad y
+
+[00:19:50]
+la integridad de nuestra plataforma y
+
+[00:19:52]
+alienta a los operadores a cumplir con
+
+[00:19:53]
+nuestras políticas poas para mantener un
+
+[00:19:56]
+entorno comercial seguro con todos bla
+
+[00:19:57]
+bla bla ya entonces si tienes alguna
+
+[00:19:59]
+inquietud más extra sobre las IP pues
+
+[00:20:02]
+Puedes preguntarle a soporte cuál es tu
+
+[00:20:04]
+inquietud más a fondo Bueno chicos eh
+
+[00:20:08]
+Por último dar eh enseñarles un poquito
+
+[00:20:10]
+lo que es el panel yo tengo aquí mi
+
+[00:20:12]
+cuenta de 15k stellar Como le decía de
+
+[00:20:14]
+dos pasos
+
+[00:20:15]
+eh aquí te muestra toda tu cuenta por
+
+[00:20:18]
+aquí Te va a dar las credenciales para
+
+[00:20:20]
+que tú puedas ver por ejemplo la
+
+[00:20:21]
+contraseña aquí en esta parte de aquí en
+
+[00:20:23]
+en Master pass te dice tu login te dice
+
+[00:20:26]
+la plataforma en la que está el servidor
+
+[00:20:28]
+Por ejemplo yo la tengo en gr next
+
+[00:20:30]
+porque la compré ya hace ya hace ratillo
+
+[00:20:32]
+apenas la estoy pasando este pero yo le
+
+[00:20:36]
+recomiendo que elijan el servidor o el
+
+[00:20:38]
+broker funden next que es el nuevo que
+
+[00:20:40]
+está regulado aquí abajo por ejemplo te
+
+[00:20:42]
+dicen cuándo se te va a resetear tu la
+
+[00:20:44]
+pérdida máxima del día te dicen tus
+
+[00:20:47]
+estadísticas yo la verdad que ahorita he
+
+[00:20:49]
+metido solamente un Trade y está
+
+[00:20:51]
+corriendo actualmente pero se va
+
+[00:20:52]
+actualizando en tiempo real porque ya lo
+
+[00:20:54]
+tengo medio negativo y se va
+
+[00:20:56]
+actualizando en tiempo real y te dice
+
+[00:20:59]
+tus días mínimos de trading la verdad es
+
+[00:21:01]
+que no una plataforma que te dice las
+
+[00:21:02]
+estadísticas necesarias y es una
+
+[00:21:04]
+plataforma o un panel bastante bueno que
+
+[00:21:07]
+me parece muy bieno muy bien muy bueno y
+
+[00:21:09]
+aquí vas a tener tu sección de pago tu
+
+[00:21:11]
+facturación tus certificados este y y
+
+[00:21:15]
+más cositas que te van aquí inclusive
+
+[00:21:17]
+Ellos tienen un calendario de noticias
+
+[00:21:19]
+para que tú puedas estar checando las
+
+[00:21:20]
+noticias de alto impacto de bajo impacto
+
+[00:21:22]
+eh para que tú puedas ver cuáles ellas
+
+[00:21:25]
+consideran eh restringidas Cuáles no no
+
+[00:21:28]
+consideran restringidas o cuáles hay
+
+[00:21:30]
+restricciones y este eh está bastante
+
+[00:21:33]
+bien puedes hacer tus filtros aquí y la
+
+[00:21:36]
+verdad es que es una plataforma bastante
+
+[00:21:38]
+buena que al día de hoy me está gustando
+
+[00:21:41]
+bastante Bueno chicos Quería dar un
+
+[00:21:43]
+poquito mi opinión sobre la empresa qué
+
+[00:21:45]
+pienso en general Eh mi experiencia un
+
+[00:21:48]
+poco eh creo que es una muy buena
+
+[00:21:50]
+empresa tienen unas reglas Eh normalitas
+
+[00:21:54]
+no tienen reglas raras solo el tema de
+
+[00:21:56]
+las IP son estrictos con sus reglas o
+
+[00:21:59]
+entonces tengan en cuenta eso están
+
+[00:22:01]
+pagando creo que sí pagan creo que es
+
+[00:22:04]
+una buena empresa es la empresa número
+
+[00:22:05]
+uno actualmente yo digo están haciendo
+
+[00:22:08]
+las cosas bastante bien y es una empresa
+
+[00:22:10]
+que yo sí recomendaría de hecho se
+
+[00:22:11]
+encuentra en mi top cinco de empresas de
+
+[00:22:13]
+fondeo y yo creo que es una muy buena
+
+[00:22:15]
+empresa para empezar los eh pagos son
+
+[00:22:19]
+bastante rápido eh los las cuentas o el
+
+[00:22:23]
+costo de la cuenta es bastante
+
+[00:22:24]
+competitivo y en general Yo creo que es
+
+[00:22:26]
+una muy buena empresa A donde yo creo
+
+[00:22:28]
+que podrán podemos ir y en una
+
+[00:22:32]
+resolución general de todo yo creo que
+
+[00:22:35]
+le doy un aprobación por mí verdad Pero
+
+[00:22:39]
+cabe recalcar que esto no es ninguna
+
+[00:22:41]
+recomendación de inversión y que tú
+
+[00:22:43]
+deberías de hacer tu propia
+
+[00:22:45]
+investigación y tomar tu propia decisión
+
+[00:22:47]
+porque cabe Resaltar que siempre está
+
+[00:22:51]
+eh que se puede ir la empresa o que
+
+[00:22:53]
+puede pasar cualquier cosa y Y tú tienes
+
+[00:22:56]
+que asumir el riesgo verdad espero que
+
+[00:22:58]
+la revisión de esta empresa les haya
+
+[00:23:00]
+gustado que se suscriban a este canal de
+
+[00:23:02]
+YouTube y nos vamos a estar viendo en un
+
+[00:23:04]
+próximo video adiós
+```

@@ -1,0 +1,835 @@
+---
+source_id: YT_CANAL_02_4qC1c1fdUvA
+video_id: 4qC1c1fdUvA
+channel: "Gustavom.Trader"
+published_at: 2023-04-11
+url: https://www.youtube.com/watch?v=4qC1c1fdUvA
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# Surge Trader Review l Cuenta de 1 millón de Dólares l SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=4qC1c1fdUvA)
+
+## Transcript
+
+```
+[00:00:00]
+primero antes que nada cabe mencionar
+
+[00:00:02]
+que yo no he comprado ninguna cuenta con
+
+[00:00:04]
+surge Trader no he comprado ni una
+
+[00:00:07]
+cuenta Solamente le estoy trayendo como
+
+[00:00:08]
+mis primeras impresiones o mi primer
+
+[00:00:10]
+avistamiento de la empresa abajo en la
+
+[00:00:13]
+descripción van a tener la comunidad de
+
+[00:00:15]
+Telegram y la comunidad de WhatsApp para
+
+[00:00:17]
+que se puedan unir y puedan preguntar a
+
+[00:00:19]
+los demás traders si alguien ha tenido
+
+[00:00:21]
+experiencias con esta empresa para qué
+
+[00:00:23]
+la traigo porque me parece interesante
+
+[00:00:25]
+su modelo sobre todo porque tiene una
+
+[00:00:27]
+cuenta de millón de dólares que me
+
+[00:00:29]
+parece interesante interesantísimo
+
+[00:00:31]
+revisar entonces aquí tienen obtener
+
+[00:00:35]
+financiamiento Parece ser que a primera
+
+[00:00:37]
+vista es una empresa cualquiera como si
+
+[00:00:39]
+fuera my Forest phone ftmo cualquier
+
+[00:00:41]
+compañía de fondeo primera cosita que
+
+[00:00:43]
+vamos viendo tienen unos modelos de
+
+[00:00:45]
+25.000 de 50.000 de 100.000 que son los
+
+[00:00:49]
+típicos los que todo mundo ofrece
+
+[00:00:51]
+250.000 que eso es un poquito atípico
+
+[00:00:53]
+porque normalmente ofrecen 200.000
+
+[00:00:55]
+tienen el 500.000 y la cuenta de a
+
+[00:00:59]
+milloncito de
+
+[00:01:00]
+entonces primera cosa que puedo observar
+
+[00:01:03]
+elija una cuenta que más le convenga y
+
+[00:01:05]
+comienza a ganar hasta un 75% de split
+
+[00:01:09]
+que significa que te van a pagar hasta
+
+[00:01:10]
+un 75% de ganancias Pero puede escalar
+
+[00:01:13]
+hasta 90 por ciento según lo que dicen
+
+[00:01:15]
+acá
+
+[00:01:16]
+otra cosa que quiero recalcar importante
+
+[00:01:19]
+Parece ser lo estuve leyendo y estuve
+
+[00:01:21]
+viendo también algunos otros comentarios
+
+[00:01:23]
+que es solamente una sola etapa no son
+
+[00:01:27]
+dos etapas como en las demás empresas Es
+
+[00:01:29]
+solamente una etapa O sea que tú pases
+
+[00:01:31]
+esta tapa y vas directamente a tu cuenta
+
+[00:01:33]
+Live o eso es lo que parece
+
+[00:01:36]
+profit de hasta split perdón de Hasta el
+
+[00:01:38]
+90% tienen un objetivo de un 10% pero
+
+[00:01:42]
+igual que ftmo my phone si es un ocho
+
+[00:01:45]
+entonces ahí bueno está bastante por
+
+[00:01:47]
+encima bueno tampoco por encima tienen
+
+[00:01:50]
+ellos una límite de pérdida Aquí está lo
+
+[00:01:52]
+interesante tiene una límite de pérdida
+
+[00:01:54]
+de cuatro por ciento diario a excepción
+
+[00:01:57]
+de por ejemplo Mind
+
+[00:02:00]
+un límite de pérdida de 5 por ciento
+
+[00:02:03]
+tienen un máximo de pérdida de cinco por
+
+[00:02:06]
+ciento o sea que tú no puedes perder más
+
+[00:02:08]
+de cinco por ciento de tu cuenta porque
+
+[00:02:10]
+si no te la estaría quitando tienen el
+
+[00:02:12]
+pro de que es sin límite de días O sea
+
+[00:02:15]
+que tú te puedes tirar uno dos tres
+
+[00:02:18]
+cuatro cinco meses o lo que tú quieras y
+
+[00:02:20]
+vas a tener chance de pasar mientras no
+
+[00:02:22]
+Viole las reglas Entonces ese límite de
+
+[00:02:25]
+días y tampoco tiene días mínimo Qué
+
+[00:02:27]
+quiere decir que si tú pasas la cuenta
+
+[00:02:28]
+en un día en un día te financieras no
+
+[00:02:31]
+tiene Elías máximo ni mínimo ni máximos
+
+[00:02:33]
+no sé por qué y otra cosa que me parece
+
+[00:02:36]
+interesante recalcar es el
+
+[00:02:37]
+apalancamiento de veinte a uno entonces
+
+[00:02:39]
+lo puedes subir normalmente ellos te dan
+
+[00:02:42]
+un diez a uno Ahorita vamos a ver la
+
+[00:02:43]
+cuenta de cien mil en la de un millón
+
+[00:02:44]
+para revisar un poquito vamos a ver qué
+
+[00:02:48]
+onda Aquí tienen más cositas yo Les
+
+[00:02:51]
+recomiendo que siempre que se metan a
+
+[00:02:53]
+una compañía nueva o quieran llegar a
+
+[00:02:54]
+meterse primero lean bien las reglas
+
+[00:02:57]
+todas las reglas le habla bien la letra
+
+[00:02:59]
+chiquita todo lo que que están aquí
+
+[00:03:01]
+investiguen te bien y empiecen con una
+
+[00:03:03]
+cuenta pequeñita ya después si la
+
+[00:03:05]
+empresa les gusta y ya conoce la empresa
+
+[00:03:06]
+se van a una cuenta grande eso es lo que
+
+[00:03:08]
+yo recomiendo vamos a ver la cuenta de
+
+[00:03:11]
+100 mil dólares antes de pasar a esta a
+
+[00:03:13]
+ver esta cuenta me gustaría recalcar los
+
+[00:03:15]
+precios me parece unos precios caros
+
+[00:03:18]
+están caros los precios no es tanta
+
+[00:03:20]
+competitivos my Forest sigue llevándose
+
+[00:03:22]
+de calle a esta empresa
+
+[00:03:24]
+tengamos en cuenta que tienen el el lo
+
+[00:03:28]
+de los días no lo mismo pero
+
+[00:03:31]
+también Creo que hay reintentos y no me
+
+[00:03:34]
+equivoco creo que lo intentos Pero eso
+
+[00:03:36]
+no lo tengo muy claro pero lo de los
+
+[00:03:38]
+días por eso ellos están un poquito más
+
+[00:03:41]
+elevadas las cuentas no sé cómo anden
+
+[00:03:43]
+con referente a ftmo pero me parece ser
+
+[00:03:47]
+que en cuanto los días están en cuanto
+
+[00:03:51]
+los precios están bastante bastante por
+
+[00:03:53]
+encima cuenta de 100 mil dólares tenemos
+
+[00:03:55]
+acá Aquí tenemos una cosa pues qué es
+
+[00:03:59]
+esto de los paquetes y aquí te dice la
+
+[00:04:01]
+regla si tú quieres un sin stop loss Qué
+
+[00:04:04]
+significa sin stop loss acá las reglas
+
+[00:04:06]
+comerciales Ellos dicen que tú tienes
+
+[00:04:08]
+que usar un stop loss cada operación de
+
+[00:04:10]
+tu meta tienes que ponerla con stop loss
+
+[00:04:12]
+si no quieres Si quieres saltarte esa
+
+[00:04:15]
+regla tendrías que ponerle acá en tu
+
+[00:04:17]
+paquete a la hora de que tú vas a
+
+[00:04:19]
+comprar ponerle el el sin stop los ya te
+
+[00:04:21]
+subiría por ejemplo normalmente esta
+
+[00:04:23]
+cuenta normalmente esta cuenta cuesta
+
+[00:04:25]
+700 aquí ya te subiría
+
+[00:04:29]
+si no me equivoco 140 dólares y me
+
+[00:04:33]
+equivoco
+
+[00:04:33]
+840 dólares 140 dólares luego tendrías
+
+[00:04:37]
+que poner perdón el sin stop los serían
+
+[00:04:40]
+70 dólares luego el 90% reparto de
+
+[00:04:44]
+beneficios si tú no quieres el creo que
+
+[00:04:46]
+70 hasta máximo 75 que tú quieres un
+
+[00:04:50]
+split de 90% así ya se tubería 910 que
+
+[00:04:53]
+serían 140 + 70 y si tú quieres un
+
+[00:04:56]
+apalancamiento doble se subiría hasta
+
+[00:04:58]
+bueno
+
+[00:05:00]
+hasta el máximo de 980 dólares que es un
+
+[00:05:03]
+apalancamiento de veinte uno normalmente
+
+[00:05:05]
+cómo te dan tu cuenta te dan tu cuenta
+
+[00:05:07]
+de según yo diez a uno entonces esto es
+
+[00:05:11]
+un poquito lo que tiene que te tienen
+
+[00:05:12]
+como compras adicionales ellos Entonces
+
+[00:05:15]
+si tú quieres poner tu cuenta yo creo
+
+[00:05:17]
+que lo mejor sería poner con las tres te
+
+[00:05:21]
+saldría hasta 980 dólares casi mil
+
+[00:05:23]
+dólares por una cuenta de 100.000 eso es
+
+[00:05:25]
+lo que te anda valiendo una de 200,000
+
+[00:05:28]
+creo que sí es lo que te vale una de
+
+[00:05:30]
+200.000 en My Forest phone está cara la
+
+[00:05:33]
+cuenta
+
+[00:05:35]
+y eso es lo que hay aquí ahora Lo bueno
+
+[00:05:39]
+es que no tiene día máximos y acá
+
+[00:05:41]
+tenemos la cuenta de millón que es la
+
+[00:05:43]
+interesante cuenta de millón de dólares
+
+[00:05:46]
+seis mil quinientos dólares que es
+
+[00:05:48]
+interesante acá que nadie te ofrece este
+
+[00:05:50]
+tipo de cuenta pero yo lo veo
+
+[00:05:53]
+para alguna persona que ya va bastante
+
+[00:05:56]
+sobrada que ya ha tenido muchos fondos
+
+[00:05:58]
+en My for
+
+[00:06:00]
+nft o ya sea este
+
+[00:06:05]
+fondeado ahí ya tiene por ejemplo dos
+
+[00:06:08]
+cuentas del máximo y fondos que 600.000
+
+[00:06:12]
+el máximo en FM o Entonces yo lo veo
+
+[00:06:14]
+bien para esa persona
+
+[00:06:16]
+y acá tienen si tú ya le pones el
+
+[00:06:19]
+paquete de los tres te saldrían en 9 mil
+
+[00:06:21]
+100 dólares por una cuenta de un millón
+
+[00:06:23]
+de dólares no lo sé si valga la pena
+
+[00:06:24]
+Usted dígame en los comentarios y eso es
+
+[00:06:28]
+un poquito lo que tenemos antes de pasar
+
+[00:06:29]
+a los a los reseñas que tiene tres
+
+[00:06:32]
+pilots que tiene buenas y malas Aquí
+
+[00:06:34]
+tienen un poquito las reglas de ellos
+
+[00:06:36]
+para que las puedan leer váyanse a
+
+[00:06:38]
+preguntas frecuentes y aquí pueden
+
+[00:06:40]
+ustedes estar leyendo todas las reglas
+
+[00:06:42]
+que tienen tiene una regla ellos de
+
+[00:06:44]
+lotaje también por aquí el Stop blog no
+
+[00:06:47]
+podemos poner operaciones en fin de
+
+[00:06:49]
+semana
+
+[00:06:50]
+tienen un poquito lo de los lotajes si
+
+[00:06:53]
+puedes operar noticias
+
+[00:06:55]
+tienen un poquito de este lío de los
+
+[00:06:57]
+lotajes hay que leer bien para no violar
+
+[00:07:00]
+regla por aquí tienen el soporte también
+
+[00:07:02]
+para si ustedes quieren preguntarle el
+
+[00:07:03]
+soporte le pregunten con toda facilidad
+
+[00:07:06]
+para que para que lo hagan ellos hacen
+
+[00:07:10]
+sorteos y concursos y cositas así
+
+[00:07:12]
+entonces no me parece mal a la empresa
+
+[00:07:14]
+Pero tampoco me parece muy allá en
+
+[00:07:18]
+conclusión a mí en lo personal no me
+
+[00:07:20]
+llama tantísimo la la no me llama
+
+[00:07:23]
+tantísimo la atención pero la cuenta de
+
+[00:07:25]
+millón de dólares y me llama la atención
+
+[00:07:27]
+bastante sobre todo para personas que ya
+
+[00:07:29]
+que ya se ya les van muy sobrados ya
+
+[00:07:34]
+quieren ellos por ejemplo ya tú tienes
+
+[00:07:36]
+un millón entre ftphone Pues fondearte a
+
+[00:07:40]
+tiro con otro millón y si tú mantienes
+
+[00:07:42]
+esos drowns por ejemplo operando con un
+
+[00:07:46]
+cero cinco por ciento un cero
+
+[00:07:47]
+veinticinco Pues a lo mejor llegar a
+
+[00:07:48]
+sacar a flote la cuenta
+
+[00:07:51]
+reseñas Sugar 264 reseñas un cuatro
+
+[00:07:55]
+punto dos de estrellas no está mal
+
+[00:07:58]
+han respondido a críticas negativas el
+
+[00:08:01]
+88% tienen algunas por ejemplo aquí un
+
+[00:08:04]
+vato que tuvo un lío con el la billetera
+
+[00:08:07]
+o un poquito otro que tuvo un lío con el
+
+[00:08:10]
+soporte este hay algunos otros
+
+[00:08:13]
+comentarios buenos en general son
+
+[00:08:15]
+comentarios más buenos que malos me
+
+[00:08:17]
+gustan tus reglas simples Aquí hay una
+
+[00:08:20]
+persona que
+
+[00:08:21]
+mi cuenta se cerró sin motivo dejando un
+
+[00:08:24]
+estado de confusión si respuesta hacia
+
+[00:08:26]
+mis llamadas okay alguna persona que se
+
+[00:08:28]
+le cerró sin motivo por eso importante
+
+[00:08:31]
+leer bien las reglas amigos antes de
+
+[00:08:33]
+entrar a cualquier empresa
+
+[00:08:35]
+[Música]
+
+[00:08:37]
+hay algunas muy buenas literalmente esta
+
+[00:08:40]
+compañía es increíble el servicio al
+
+[00:08:42]
+cliente está fuera de este mundo y tiene
+
+[00:08:43]
+muchas personas hablaban mucho el disco
+
+[00:08:47]
+y el servicio al cliente hay otras
+
+[00:08:48]
+personas que no sería honesto no hice un
+
+[00:08:51]
+retiro antes de arruinar la cuenta pero
+
+[00:08:52]
+no fue culpa de sudar tradings toda la
+
+[00:08:54]
+experiencia fue rápida esta persona no
+
+[00:08:55]
+llegó a retirar pero tiene una buena
+
+[00:08:57]
+experiencia de la empresa hasta estar
+
+[00:09:00]
+inscribiéndome en en iniciando como la
+
+[00:09:04]
+empresa del traductor no es muy bueno la
+
+[00:09:05]
+verdad amigos
+
+[00:09:07]
+una vez registradas Se volvieron súper
+
+[00:09:11]
+inútiles por ejemplo cuando me registré
+
+[00:09:13]
+elegí la opción de vista comercial Pero
+
+[00:09:15]
+de alguna manera esa plataforma me dejó
+
+[00:09:17]
+de estar disponible así tuvo que usar
+
+[00:09:19]
+meta una plataforma que no reconocí
+
+[00:09:21]
+cuando me comuniqué con el soporte Okay
+
+[00:09:23]
+creo que esto fue un poquito el lío que
+
+[00:09:24]
+pasó también con los servidores de
+
+[00:09:27]
+otra cosa que quería comentar antes de
+
+[00:09:30]
+irme
+
+[00:09:31]
+ya saben que el servidor de jica por los
+
+[00:09:34]
+servidores de hip hop de este broker
+
+[00:09:35]
+están medio dudosos Entonces yo se lo
+
+[00:09:38]
+dejo por ahí han tenido bastante
+
+[00:09:40]
+problemas levelab Rocket 21 y al freeze
+
+[00:09:43]
+Class y algunas empresas creo que fuimos
+
+[00:09:45]
+clase acaba de mudar de broker entonces
+
+[00:09:49]
+ahí está un poquito con egica entonces
+
+[00:09:52]
+aquí ustedes pueden leer las reseñas yo
+
+[00:09:54]
+se las traigo como avistamiento para que
+
+[00:09:56]
+ustedes la vean para que conozcan más y
+
+[00:09:58]
+obviamente para traer mejor contenido al
+
+[00:10:00]
+Canal para tenerles cositas diferentes y
+
+[00:10:03]
+siempre andar buscando opciones Qué
+
+[00:10:04]
+opciones tenemos aparte de
+
+[00:10:06]
+obviamente my forestmo para mí son las
+
+[00:10:09]
+mejores pronto se va a venir un top de A
+
+[00:10:12]
+lo mejor cuatro empresas de fondeo
+
+[00:10:14]
+las mejores cuatro empresas de fondeo
+
+[00:10:16]
+para mí Te los voy a estar trayendo
+
+[00:10:17]
+Próximamente Entonces yo creo que eso
+
+[00:10:20]
+sería todo por este review amigos Espero
+
+[00:10:21]
+que les haya gustado que les sirva bajo
+
+[00:10:23]
+la descripción está las comunidades para
+
+[00:10:25]
+que se puedan meter ahí Y empezamos a
+
+[00:10:27]
+charlar o a discutir sobre esta empresa
+
+[00:10:29]
+más detallitos y cositas que me puedan
+
+[00:10:31]
+ayudar a mí a tener mejor review si
+
+[00:10:34]
+quieren que les traiga un vídeo más
+
+[00:10:36]
+detallado si veo que hay información
+
+[00:10:37]
+disponible nueva cosas que yo no sabía
+
+[00:10:39]
+de los voy a traer con todo gusto
+
+[00:10:41]
+Entonces espero que les haya gustado
+
+[00:10:43]
+amigos y nos estaríamos viendo en el
+
+[00:10:44]
+siguiente vídeo Bye
+```

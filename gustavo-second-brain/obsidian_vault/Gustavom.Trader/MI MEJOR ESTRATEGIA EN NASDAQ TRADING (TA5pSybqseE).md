@@ -1,0 +1,1582 @@
+---
+source_id: YT_CANAL_02_TA5pSybqseE
+video_id: TA5pSybqseE
+channel: "Gustavom.Trader"
+published_at: 2022-05-07
+url: https://www.youtube.com/watch?v=TA5pSybqseE
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 12
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# MI MEJOR ESTRATEGIA EN NASDAQ #TRADING
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=TA5pSybqseE)
+
+## Transcript
+
+```
+[00:00:00]
+hola a todos este vamos a empezar con él
+
+[00:00:02]
+la estrategia del nasdaq este que ya les
+
+[00:00:05]
+había prometido a todos los muchachos de
+
+[00:00:07]
+telegram que se las iba a mandar por ahí
+
+[00:00:08]
+por ahí no se me levantaron tan temprano
+
+[00:00:12]
+para el zoom pero aquí está el tremendo
+
+[00:00:15]
+y eso con nosotros que le agradezco el
+
+[00:00:17]
+aguante que que está aquí teniendo con
+
+[00:00:20]
+nosotros y vamos a explicar un poquito
+
+[00:00:22]
+lo de la estrategia antes que nada los
+
+[00:00:24]
+todos los que tienen youtube
+
+[00:00:26]
+recordarles que tenemos un grupo de
+
+[00:00:28]
+telegram para los que se quieran unir
+
+[00:00:30]
+stalin en la styps en la descripción de
+
+[00:00:32]
+este vídeo y de los vídeos anteriores
+
+[00:00:35]
+entonces vamos a darle duro a la
+
+[00:00:37]
+estrategia del nasdaq que lo primero que
+
+[00:00:39]
+tenemos que hacer para esta estrategia
+
+[00:00:41]
+del nasdaq es muy parecida a la
+
+[00:00:44]
+estrategia de luís 30 muy muy parecida
+
+[00:00:46]
+pero no está igual y ahorita les voy a
+
+[00:00:49]
+decir por qué voy a marcar yo
+
+[00:00:52]
+voy a buscar en un dictador que que sea
+
+[00:00:55]
+del time com el ocupó de buscar el
+
+[00:00:58]
+training le ponen filme some time zone y
+
+[00:01:01]
+les va a salir y vamos a configurar
+
+[00:01:03]
+nuestra hora aquí lo vamos a poner a la
+
+[00:01:05]
+hora de nueva york que usted -4
+
+[00:01:09]
+en el indicador
+
+[00:01:12]
+creo yo que es el azul y sta la transa
+
+[00:01:15]
+turista que tengo yo aquí exactamente es
+
+[00:01:17]
+esta vamos a ponerle la el rango o la
+
+[00:01:20]
+sesión desde la 5 hasta las 8 de la
+
+[00:01:22]
+mañana de 5 a 8 de la mañana que va a
+
+[00:01:25]
+ser la zona donde nos va a interesar
+
+[00:01:27]
+siguiente aquí tengo yo ya bautizado así
+
+[00:01:30]
+por no vestir como un mes tengo bacteria
+
+[00:01:33]
+donde les voy a decir más o menos cómo
+
+[00:01:34]
+funciona vamos a ver el día 5 de mayo
+
+[00:01:39]
+para explicarles más o menos cómo se
+
+[00:01:41]
+toma siguiente
+
+[00:01:42]
+entonces marcamos esta zona y ya tenemos
+
+[00:01:46]
+el horario voy a marcar esta cosita por
+
+[00:01:49]
+aquí
+
+[00:01:51]
+nosotros nos podemos levantar a las 5 de
+
+[00:01:54]
+la mañana de nueva york depende en su
+
+[00:01:55]
+donde externo en qué hora violente en mi
+
+[00:01:58]
+casa es a las 5 que es cuando ya esté
+
+[00:02:00]
+terminado el rango se ha ejecutado el
+
+[00:02:02]
+rango que vamos a marcar
+
+[00:02:05]
+supongamos que aquí ya está
+
+[00:02:08]
+a ella son en mi caso son las 2 de la
+
+[00:02:12]
+mañana cuando inicia el rango que nos
+
+[00:02:14]
+interesa y hasta las 8 de la mañana pero
+
+[00:02:19]
+de nueva york en mi caso son las 5 de la
+
+[00:02:21]
+mañana es de donde yo me levanto yo me
+
+[00:02:23]
+levanto hasta ahora a las 5 de la mañana
+
+[00:02:25]
+y posteriormente que hago marco el rango
+
+[00:02:29]
+aquí fíjense que no es tan lineal el
+
+[00:02:32]
+rango porque si se fijan yo podría
+
+[00:02:33]
+marcar el rango solamente las velitas
+
+[00:02:35]
+pero lo que nos interesa más que nada en
+
+[00:02:38]
+esta estrategia es marcar el rato un
+
+[00:02:40]
+rango de precios donde veamos claramente
+
+[00:02:43]
+que el precio estoy haciendo algo tal
+
+[00:02:45]
+que sí que esté rebotando de un lado a
+
+[00:02:48]
+otro de un lado a otro de un lado a otro
+
+[00:02:50]
+más o menos yo marco este mínimo porque
+
+[00:02:53]
+este mínimo es importante lo podría
+
+[00:02:55]
+haber marcado también así
+
+[00:02:58]
+pero ya a través del back testing y la
+
+[00:03:00]
+experiencia van a ustedes hacerse notar
+
+[00:03:02]
+cómo sería mejor como este punto es
+
+[00:03:06]
+importante es un mínimo donde el precio
+
+[00:03:08]
+los rechazo bastante fuerte yo lo marque
+
+[00:03:11]
+de esa forma y es donde tome la entrada
+
+[00:03:13]
+como les digo ya esto lo van a ustedes
+
+[00:03:15]
+conocer con la experiencia y con el back
+
+[00:03:17]
+testing que le hagan a la estrategia ya
+
+[00:03:19]
+van a traer un poquito mejor cómo se
+
+[00:03:21]
+toma
+
+[00:03:23]
+entonces este rango solamente
+
+[00:03:26]
+simplemente está ahora de las 5 a las 8
+
+[00:03:28]
+de nueva york solamente es para darnos
+
+[00:03:31]
+una idea de encerrar al precio en un
+
+[00:03:34]
+rango lo que buscamos decir que el
+
+[00:03:35]
+precio está encerrado más o menos los
+
+[00:03:38]
+rangos me están midiendo
+
+[00:03:40]
+menos de 100 puntos del nasdaq menos de
+
+[00:03:43]
+100 puntos rangos mucho más amplios no
+
+[00:03:46]
+me interesan mucho son un poquito más
+
+[00:03:48]
+complicados cuando vemos este tipo de
+
+[00:03:50]
+rangos este generalmente me gustan más
+
+[00:03:54]
+siguiente porque inicia a las 5 de la
+
+[00:03:57]
+mañana de aquí hasta las 8 de nueva york
+
+[00:04:01]
+y yo lo que hago es esperar un
+
+[00:04:02]
+rompimiento a la alza oa la baja es lo
+
+[00:04:06]
+que espero como voy a poner mi entrada
+
+[00:04:08]
+en este caso yo tenía tenemos dos etapas
+
+[00:04:11]
+de entrada bueno tres tengo tres etapas
+
+[00:04:13]
+de entrada mi primer set up de entrada
+
+[00:04:15]
+el que más me gusta a mí es tomar un 1 a
+
+[00:04:17]
+3
+
+[00:04:18]
+pongo 30 puntos de estos blogs y 90
+
+[00:04:21]
+puntos de take profit es un 1 a 3 me
+
+[00:04:24]
+gusta mucho más porque a largo plazo
+
+[00:04:26]
+pienso que es mucho más rentable un 1 a
+
+[00:04:28]
+3
+
+[00:04:29]
+pero los que gusten y los que quieran
+
+[00:04:31]
+salir un poco más rápido van a ver que
+
+[00:04:33]
+muchas veces el precio del uno a dos y
+
+[00:04:35]
+se regresan unos del uno a tres entonces
+
+[00:04:37]
+por eso les dejes desertar de entrada
+
+[00:04:39]
+del 1 del 1 a 2 o el uno a tres el que
+
+[00:04:43]
+ustedes gusten el que en el back testing
+
+[00:04:45]
+de salida mucho mejor el que el que le
+
+[00:04:47]
+salga ha salido mucho más efectivo en mi
+
+[00:04:50]
+caso yo me gusta mucho más del 1 a 3
+
+[00:04:53]
+yo estoy tomando ok entonces
+
+[00:04:57]
+esperamos el rompimiento la alza oa la
+
+[00:04:59]
+baja muchas veces yo por ejemplo aquí
+
+[00:05:02]
+siguiente que este punto máximo se salió
+
+[00:05:04]
+del rango que yo tenía pero vemos
+
+[00:05:06]
+claramente que está metido dentro del
+
+[00:05:08]
+mismo rango que está el precio y por
+
+[00:05:10]
+esto yo tomé en cuenta que éste esté
+
+[00:05:12]
+máximo lo pongo arribita un poquito
+
+[00:05:14]
+arribita del máximo éste lo que éste lo
+
+[00:05:18]
+pongo poquito a bajito de la entrada más
+
+[00:05:20]
+o menos estaba por aquí así y tengo otro
+
+[00:05:22]
+setup de entrada también que les quería
+
+[00:05:24]
+mostrar vamos a poner otra posición
+
+[00:05:26]
+corta
+
+[00:05:28]
+qué es una entrada mucho más segura
+
+[00:05:30]
+porque en esta entrada tengo
+
+[00:05:36]
+tengo 50 puntos de stop loss pero voy a
+
+[00:05:39]
+tener mucho más recorrido muchas veces
+
+[00:05:42]
+el precio se nos va a ir vamos a se nos
+
+[00:05:44]
+va a ir este a la baja pero no se nos va
+
+[00:05:47]
+a ir todos los pips que nosotros
+
+[00:05:49]
+queremos todos los puntos entonces este
+
+[00:05:52]
+es etapa es mucho más
+
+[00:05:54]
+te protege mucho mejor porque puede que
+
+[00:05:57]
+muchas veces no te saque el precio
+
+[00:05:59]
+porque tiene 50 puntos de establos y
+
+[00:06:01]
+aquí 30 entonces muchas veces el precio
+
+[00:06:03]
+va a pegar un rechazo y va a ir tal que
+
+[00:06:06]
+así va a pegar un rechazo hacia arriba y
+
+[00:06:08]
+te va a sacar con 30 puntos
+
+[00:06:10]
+y con 50 no te va a alcanzar hasta a
+
+[00:06:13]
+sacar y lo te va a dar la razón y se va
+
+[00:06:15]
+a ir a tu favor por eso es mucho más
+
+[00:06:17]
+seguro entonces pero yo se lo dejo ahí
+
+[00:06:19]
+para si ustedes lo prefieren no le
+
+[00:06:21]
+pueden hacer lo que quieren hacer bar
+
+[00:06:22]
+testing con este setup y son 150 puntos
+
+[00:06:25]
+también pueden tomar el 1 a 2 que el 1 2
+
+[00:06:28]
+en este caso serían 50 pips de 50 puntos
+
+[00:06:31]
+de stop loss y 100 puntos de ganancia de
+
+[00:06:34]
+beneficio es el 1 a 2 más o menos que
+
+[00:06:37]
+pueden tomar también entonces ahí están
+
+[00:06:39]
+tres opciones donde ustedes pueden
+
+[00:06:41]
+hacerle backtesting y la que más le
+
+[00:06:42]
+guste fíjense vamos a avanzar el precio
+
+[00:06:45]
+y el precio avanza entra nuestra entrada
+
+[00:06:48]
+de aquí y ya lo que hago yo es ya estaba
+
+[00:06:51]
+adentro aquí para estar para este tiempo
+
+[00:06:53]
+y el precio se va sencillamente a
+
+[00:06:56]
+nuestro tope funciona de esa manera este
+
+[00:06:59]
+es un día de los más hermosos días que
+
+[00:07:02]
+hay o sea es el día más de los más
+
+[00:07:04]
+sencillos skype
+
+[00:07:05]
+te levantas miras tu rango un pum lo
+
+[00:07:08]
+marcas y te esperas a que rompe o hacia
+
+[00:07:11]
+el alza vas a la baja muchas veces no va
+
+[00:07:14]
+a ser tan lineal así va a romper y se
+
+[00:07:16]
+nos va a regresar y nos va a sacar o
+
+[00:07:18]
+muchas veces va a ser así como que fue
+
+[00:07:21]
+la madre y se va a ir hay diferentes
+
+[00:07:23]
+días y también no siempre el rango va a
+
+[00:07:25]
+estar marcado de esa manera pues claro
+
+[00:07:28]
+la estrategia no es perfecta es una
+
+[00:07:29]
+estrategia que tiene una efectividad
+
+[00:07:30]
+entre el 70 al pse entre el 50 y el 70
+
+[00:07:35]
+por ciento más o menos diría yo entonces
+
+[00:07:37]
+no es no es cien por ciento efectiva
+
+[00:07:40]
+muchos días nos va a sacar cuál va a ser
+
+[00:07:43]
+la diferencia que nosotros vamos a tener
+
+[00:07:46]
+con esto es que nosotros vamos a tener
+
+[00:07:48]
+que saber gestionar esto preparaciones
+
+[00:07:50]
+por ejemplo cuando ya la presión nos
+
+[00:07:52]
+está dando la razón que llevamos 50
+
+[00:07:54]
+puntos 60 puntos de ganancia muchas
+
+[00:07:58]
+veces es bueno proteger porque el precio
+
+[00:08:00]
+antes se devuelve y nos puede llegar a
+
+[00:08:03]
+sacar entonces si no saca aquí nos saca
+
+[00:08:06]
+con beneficio o no nos saca perdiendo
+
+[00:08:08]
+eso esa es la idea con este tipo de
+
+[00:08:11]
+estrategia y también enseñarles que los
+
+[00:08:14]
+rangos no son tan perfectos como como
+
+[00:08:17]
+pareciera aquí tenemos otro día que fue
+
+[00:08:19]
+un día muy bueno eficiente marcamos el
+
+[00:08:22]
+rango el rango en este caso lo marque
+
+[00:08:26]
+con un cuadrito se lo marque un poquito
+
+[00:08:27]
+diferente para que ustedes vean las
+
+[00:08:29]
+formas de marcarlo con esta la ayuda de
+
+[00:08:32]
+las time pxom es mucho más fácil porque
+
+[00:08:34]
+yo ya tengo la marca predefinido el
+
+[00:08:37]
+rango ya cuando ya lo puedo identificar
+
+[00:08:40]
+de manera más fácil y si ustedes me
+
+[00:08:43]
+preguntan esta franja verde que es es
+
+[00:08:46]
+otra franquicia que yo pongo a partir de
+
+[00:08:48]
+esta franja abre la bolsa de nueva york
+
+[00:08:51]
+abren todas las acciones todos los
+
+[00:08:53]
+stocks y es cuando el precio pega
+
+[00:08:55]
+fuertes generalmente es cuando el precio
+
+[00:08:58]
+hace la ruptura del rango muchas veces
+
+[00:09:00]
+lo hace antes por eso yo decidí poner el
+
+[00:09:03]
+rango antes 30 minutos antes de que abra
+
+[00:09:06]
+la bolsa de nueva york yo ya estoy
+
+[00:09:07]
+esperando el rompimiento del rango
+
+[00:09:09]
+porque muchas veces lo hace antes y ya
+
+[00:09:11]
+simplemente cuando entra la vuelta de
+
+[00:09:13]
+nueva york ya rompe con fuerza entonces
+
+[00:09:16]
+yo marcó la hora de las 9 30 de la de
+
+[00:09:19]
+ahora de nueva york hasta las 12 30 de
+
+[00:09:24]
+hora de nueva york esta franja verde que
+
+[00:09:26]
+yo tengo es mi horario de operativa y el
+
+[00:09:28]
+precio ahí se me dio y no me rompió el
+
+[00:09:31]
+rango yo ya no voy a operar después de
+
+[00:09:33]
+esa hora esta franja roja es hasta
+
+[00:09:35]
+cuando cierra la hora hasta cuando
+
+[00:09:37]
+cierra la bolsa de nueva york yo de las
+
+[00:09:39]
+9 30 en adelante ya no pero ya no busco
+
+[00:09:42]
+entrar ya simplemente dejo que el precio
+
+[00:09:43]
+se vaya por eso yo lo puse en rojo para
+
+[00:09:46]
+saber que si ya no encontré yo entradas
+
+[00:09:49]
+a esa hora ya no estoy buscando ni un
+
+[00:09:50]
+tipo de entradas a esa hora entonces por
+
+[00:09:53]
+eso es que yo lo marque así marcamos de
+
+[00:09:55]
+nuevo nuestro rango fíjense marcamos
+
+[00:09:57]
+nuestro rango de nuevo
+
+[00:10:00]
+aquí ya lo teníamos marcado en nuestro
+
+[00:10:02]
+rango teníamos un momento atrás a la
+
+[00:10:03]
+baja o en nuestra entrada a la alta y
+
+[00:10:06]
+simplemente fíjense lo que pasa viene
+
+[00:10:09]
+abre la vuelta rompe con fuerza y nos da
+
+[00:10:11]
+nuestro tp 1 a 3 es así de sencillo muy
+
+[00:10:15]
+muy fácil muy sencillo y muy entendible
+
+[00:10:17]
+para todos estos son días hermosos como
+
+[00:10:20]
+les decía días muy buenos pero hay
+
+[00:10:23]
+diferentes escenarios les voy a enseñar
+
+[00:10:25]
+otro escenario que tenemos por aquí
+
+[00:10:27]
+también
+
+[00:10:28]
+fíjense tenemos otro escenario fíjate
+
+[00:10:30]
+este es un escenario malo porque no
+
+[00:10:32]
+siempre les voy a ser sinceros no
+
+[00:10:35]
+siempre va a ser el color de rosa pues
+
+[00:10:38]
+aquí tenemos un falso rompimiento el
+
+[00:10:41]
+precio rompe a la alta pero no alcanza a
+
+[00:10:44]
+llegar y te va a para abajo
+
+[00:10:48]
+tenemos el rompimiento
+
+[00:10:50]
+rompe con fuerza pero se va al lado
+
+[00:10:53]
+contrario y este es un stop loss fue un
+
+[00:10:55]
+día de nuestro blog yo que recomiendo
+
+[00:10:58]
+hacer yo recomiendo que estén
+
+[00:11:00]
+arriesgando en 3.05 de su cuenta al 1%
+
+[00:11:04]
+de su cuenta no recomiendo que
+
+[00:11:06]
+arriesguen más porque muchos días van a
+
+[00:11:08]
+tener estos tipos de falsos rompimientos
+
+[00:11:11]
+siguiente incluso que después del precio
+
+[00:11:13]
+rompe a la baja pero no romper
+
+[00:11:15]
+totalmente y se devuelve tenemos estos
+
+[00:11:17]
+días de indecisión en el mercado cuando
+
+[00:11:19]
+tenemos estos días de indecisión no nos
+
+[00:11:22]
+suelen beneficiar a nosotros entonces
+
+[00:11:24]
+tengan cuidado con esto vamos a otro día
+
+[00:11:27]
+a ver qué sucedió fíjense tenemos este
+
+[00:11:31]
+tipo de rangos y este tipo de rangos
+
+[00:11:33]
+usted antes de que abra y digan abre a
+
+[00:11:36]
+las ocho de la mañana que es hasta
+
+[00:11:39]
+nuestro rango y a las cinco de la mañana
+
+[00:11:42]
+hora de nueva york este tipo de rangos
+
+[00:11:44]
+yo no suelo tomarlos porque porque si
+
+[00:11:47]
+ustedes lo ven con la regleta desde el
+
+[00:11:49]
+último máximo hasta el último mínimo que
+
+[00:11:51]
+hizo el rango pues el precio está
+
+[00:11:54]
+teniendo
+
+[00:11:56]
+171
+
+[00:11:59]
+de puntos de expansión no es de rango
+
+[00:12:02]
+entonces la estrategia en que se ciñó
+
+[00:12:05]
+que se basa en que el precio en que se
+
+[00:12:08]
+basa perdón en que el precio nos haga un
+
+[00:12:11]
+rango y podamos obtener una expansión o
+
+[00:12:13]
+al alza oa la baja cuando el precio ya
+
+[00:12:15]
+nos hizo una expansión para cualquiera
+
+[00:12:17]
+de los dos lados ya no nos viene
+
+[00:12:18]
+interesando mucho por eso es que tengan
+
+[00:12:21]
+cuidado yo por ejemplo este día si
+
+[00:12:23]
+hubiera visto ese tipo de entrada de
+
+[00:12:24]
+setup no haya operado fíjense cómo el
+
+[00:12:27]
+precio pegó unos muchachos después un
+
+[00:12:29]
+rechazo hacia arriba otros muchachos
+
+[00:12:30]
+abajo pero nunca nos dan nuestro tope
+
+[00:12:32]
+que nosotros esperamos es porque ese
+
+[00:12:35]
+tipo de rangos no los vamos a operar o
+
+[00:12:37]
+sea que este día yo le puse una tacita
+
+[00:12:40]
+porque son días que nosotros no operamos
+
+[00:12:43]
+hay días que nosotros no vamos a operar
+
+[00:12:45]
+vamos a buscar otro día
+
+[00:12:48]
+entonces
+
+[00:12:50]
+buscamos otro día siguiente tenemos otro
+
+[00:12:52]
+día por no decir que malo porque el
+
+[00:12:56]
+precio no rompe
+
+[00:12:59]
+ninguno de los dos lados
+
+[00:13:02]
+entonces es ese exceso que les decía no
+
+[00:13:06]
+rompe con claridad y estos días son
+
+[00:13:08]
+malos fíjense vamos a medir a través de
+
+[00:13:11]
+nuevo el rango para que ustedes más o
+
+[00:13:13]
+menos vayan afinando el ojo de díaz que
+
+[00:13:15]
+poder posiblemente no operamos tenemos
+
+[00:13:18]
+un rango de ya de más de 100 puntos
+
+[00:13:20]
+rangos de más de 100 puntos
+
+[00:13:21]
+probablemente no nos va a convenir mucho
+
+[00:13:24]
+operar los ocupamos un rango estrechito
+
+[00:13:27]
+siguiente ocupamos un rango estrechito
+
+[00:13:29]
+donde más o menos el precio esté
+
+[00:13:31]
+haciendo esto cuando esté el precio esté
+
+[00:13:34]
+haciendo eso nosotros simplemente vamos
+
+[00:13:36]
+con una línea
+
+[00:13:39]
+lo marcamos vamos con otra línea lo
+
+[00:13:43]
+marcamos y esperamos un rompimiento
+
+[00:13:47]
+abajo o al este en este caso ponemos 30
+
+[00:13:51]
+puntitas de 90 de 30 puntos de establos
+
+[00:13:55]
+y ponemos
+
+[00:13:58]
+90
+
+[00:14:00]
+90 ahí entonces eso es más o menos lo
+
+[00:14:04]
+que buscamos nosotros obviamente que
+
+[00:14:06]
+cuando vas tú a la vida real no vas a
+
+[00:14:08]
+mirarlo tan lineal o de esta manera tan
+
+[00:14:11]
+perfecta entonces ahí estábamos a otra
+
+[00:14:14]
+día para enseñarle siguiente otra vez la
+
+[00:14:17]
+nueva idea
+
+[00:14:18]
+tenemos el rango lo marcamos
+
+[00:14:21]
+rompimiento dímelo
+
+[00:14:25]
+siempre siempre las tomas en ventas nada
+
+[00:14:29]
+pero no la tomamos para donde el precio
+
+[00:14:32]
+rompa no en ventas en compras de estas
+
+[00:14:37]
+porque generalmente ahorita si se dan
+
+[00:14:39]
+cuenta estamos en abril el mercado ha
+
+[00:14:41]
+estado en una tendencia bajista o
+
+[00:14:44]
+cayendo por eso se han dado más que nada
+
+[00:14:46]
+máximos casi todas las entradas en
+
+[00:14:49]
+ventas porque el mercado estado bajista
+
+[00:14:51]
+y por eso los rangos suelen entrenar a
+
+[00:14:53]
+la baja pero esto sirve para tomarlos en
+
+[00:14:57]
+compras o en ventas este fíjense esta
+
+[00:14:59]
+entrada
+
+[00:15:00]
+igual aquí lo que hacemos siguen si yo
+
+[00:15:03]
+suelo me gusta asegurar pues porque aquí
+
+[00:15:07]
+ya nos haya sacado finalmente este
+
+[00:15:09]
+mellizo no se haya sacado entonces
+
+[00:15:11]
+cuando todos hemos tenemos un movimiento
+
+[00:15:13]
+tan importante ya yo suelo o gestionar
+
+[00:15:18]
+esa operación
+
+[00:15:21]
+puedes asegurar asegurar o tomar
+
+[00:15:23]
+ganancias si veo que el precio se me
+
+[00:15:25]
+devuelve de manera muy fuerte muy rápida
+
+[00:15:27]
+es lo que yo suelo hacer
+
+[00:15:30]
+porque vamos a ver si encontramos una
+
+[00:15:32]
+compra fíjate aquí encontramos una
+
+[00:15:33]
+compra
+
+[00:15:35]
+esto siguiente aquí tenemos dos rangos
+
+[00:15:38]
+de precio marcados más o menos fíjate el
+
+[00:15:41]
+mercado hasta aquí hasta aquí
+
+[00:15:45]
+les voy a mostrar tenemos un rango luego
+
+[00:15:48]
+sale el rango fuer forma otro rango y
+
+[00:15:51]
+aquí
+
+[00:15:52]
+más que nada con la experiencia vamos a
+
+[00:15:55]
+poder tomar este tipo de entradas porque
+
+[00:15:57]
+porque aquí en teoría el rango estaba
+
+[00:15:59]
+entre este esta parte y esta parte y el
+
+[00:16:02]
+mercado en teoría hice un falso
+
+[00:16:04]
+rompimiento de aquí y se fue a la alta
+
+[00:16:06]
+pero saben yo les digo por mi
+
+[00:16:10]
+experiencia que los rangos de más de 100
+
+[00:16:12]
+puntos no los tomamos nosotros tienes
+
+[00:16:14]
+que vamos a marcar este este rango son
+
+[00:16:16]
+166 puntos pero lo que sí me di cuenta
+
+[00:16:19]
+yo es que el mercado se metió en otro
+
+[00:16:21]
+mini rango que es este que tenemos aquí
+
+[00:16:23]
+a la abajo entonces por eso yo decidí
+
+[00:16:26]
+marcar esta operación como buena esta
+
+[00:16:28]
+operación entonces para que lo toman en
+
+[00:16:31]
+cuenta y fíjense que hay diversos días
+
+[00:16:33]
+hay diferentes escenarios no todos los
+
+[00:16:35]
+escenarios son iguales tenemos otro día
+
+[00:16:38]
+éste es este es como nuestro setup más
+
+[00:16:41]
+hermoso mucho mejor más bueno por
+
+[00:16:43]
+ejemplo un setup
+
+[00:16:46]
+es como nuestra entrada ideal o nuestra
+
+[00:16:48]
+entrada nuestra mejor entrada siguiente
+
+[00:16:51]
+marcamos del rango facilitó parte alta
+
+[00:16:53]
+parte baja ponemos nuestra cantada por
+
+[00:16:56]
+donde truene en este caso yo suelo
+
+[00:16:58]
+entrar con unos con entradas es el stop
+
+[00:17:02]
+en este caso voy stop dependiendo para
+
+[00:17:05]
+dónde vaya el precio y aquí
+
+[00:17:07]
+efectivamente hace el rompimiento no nos
+
+[00:17:10]
+saca por eso les digo muchas veces los
+
+[00:17:12]
+30 puntos de stop loss son suficientes
+
+[00:17:14]
+para
+
+[00:17:16]
+y entrar al mercado no ocupamos mucho
+
+[00:17:18]
+más no nos saca y el mercado nos da la
+
+[00:17:20]
+razón y hermosa entrada después se va ya
+
+[00:17:24]
+después que fíjense muchos me van a
+
+[00:17:26]
+decir es que podemos tomar más puntos y
+
+[00:17:28]
+que no yo suelo tomar 90 porque porque
+
+[00:17:31]
+con 90 ya tengo un 3 por ciento de mi
+
+[00:17:34]
+cuenta entonces ya con 3 por ciento en
+
+[00:17:37]
+un día es bastante suficiente o es muy
+
+[00:17:39]
+bueno para el día si ustedes después
+
+[00:17:40]
+quieren tomar 100 puntos 150 200 o
+
+[00:17:45]
+merkel o meter breakeven y dejar correr
+
+[00:17:47]
+ya es cuestión de que ustedes desde el
+
+[00:17:50]
+gusto que ustedes tengan por tomar ese
+
+[00:17:52]
+tipo de entradas yo simplemente les
+
+[00:17:53]
+enseño la manera de tomarlas en la hora
+
+[00:17:57]
+de la apertura de la bolsa de nueva
+
+[00:17:58]
+york- fíjense que en este caso hace el
+
+[00:18:01]
+rompimiento mucho antes ya para cuando
+
+[00:18:03]
+abrió la bolsa ya hace este balón rojo o
+
+[00:18:06]
+negro oa la baja este balón entonces por
+
+[00:18:08]
+eso yo soy me gusta entrar poquito antes
+
+[00:18:10]
+media hora antes de eso para que me dé
+
+[00:18:13]
+chance de entrar porque muchas veces
+
+[00:18:16]
+cuando ya la ya abrió la bolsa ya no nos
+
+[00:18:19]
+dan ya no nos da oportunidad entre al
+
+[00:18:22]
+precio se fue pues entonces tómenlo en
+
+[00:18:25]
+cuenta tenemos otra entrada siguiente
+
+[00:18:27]
+esta entrada no es tan buena de hecho no
+
+[00:18:31]
+es
+
+[00:18:32]
+en teoría se nos da el pp pero si se nos
+
+[00:18:35]
+va al pp pero es un día difícil igual
+
+[00:18:38]
+tenemos un rango este este falso
+
+[00:18:41]
+rompimiento aquí una noticia y por eso
+
+[00:18:43]
+yo no lo marque este de aquí solamente
+
+[00:18:45]
+tome estos dos estas dos partes pero
+
+[00:18:48]
+ustedes tranquilamente ya depende del
+
+[00:18:51]
+criterio de cada quien hayan podido
+
+[00:18:52]
+marcarlo así o lo hagan podido marcar
+
+[00:18:56]
+hasta abajo más o menos cualquiera de
+
+[00:18:58]
+las dos opciones es válida ya va más el
+
+[00:19:00]
+criterio y albacte sin que cada uno le
+
+[00:19:02]
+haya hecho la estrategia en este caso si
+
+[00:19:04]
+viene rompe aquí no nos saca clientes no
+
+[00:19:07]
+nos saca en ningún momento se va se va
+
+[00:19:10]
+se va se va se va la entrada tengo un
+
+[00:19:12]
+mensaje hacia hacia abajo pero no nos
+
+[00:19:14]
+saca y nos da el pp con este embarazo
+
+[00:19:16]
+que son 90 de dtp y 30 puntos de stop
+
+[00:19:22]
+loss dice dio la entrada y ya después de
+
+[00:19:24]
+ponerse sus cochinadas en el precio
+
+[00:19:27]
+bueno en ningún momento nos pasó el tp
+
+[00:19:29]
+si en este en este último perdón el stop
+
+[00:19:32]
+loss en este en este otro otro muchacho
+
+[00:19:34]
+nos hubiera sacado
+
+[00:19:36]
+entonces último día que más o menos les
+
+[00:19:40]
+quiero enseñar un stop loss fíjense
+
+[00:19:44]
+nos rompe marcamos el rango y ocurre en
+
+[00:19:48]
+este tipo de falsos rompimientos y
+
+[00:19:49]
+después el precio se va a la baja
+
+[00:19:51]
+incluso aquí vuelve a romper a hacer
+
+[00:19:52]
+falsos rompimientos yo naturalmente
+
+[00:19:54]
+suelo tomar solamente una entrada por
+
+[00:19:57]
+este tipo de falsos rompimientos
+
+[00:19:59]
+entonces no todos los días son tan
+
+[00:20:02]
+bonitos como pareciera por eso yo les
+
+[00:20:04]
+recomiendo que le hagan backtesting a la
+
+[00:20:06]
+estrategia funciona muy parecido que los
+
+[00:20:08]
+30 así funciona muy parecido que los 30
+
+[00:20:11]
+pero a diferencia de los 30 es que
+
+[00:20:13]
+nosotros no tomamos los rangos tan
+
+[00:20:16]
+lineales pues yo yo suelo
+
+[00:20:19]
+tomarme en cuenta pues más barras de
+
+[00:20:22]
+aquí pues pues en este caso que retomé
+
+[00:20:24]
+este pico y suelo ver que hay más para
+
+[00:20:26]
+acá para ver si el precio se va
+
+[00:20:30]
+se pone en un punto importante ciencia
+
+[00:20:32]
+vamos a tomar vamos a marcarle la última
+
+[00:20:34]
+entrada que tuvimos el viernes donde yo
+
+[00:20:38]
+tenía este mínimo vigente marcó este
+
+[00:20:40]
+mínimo tenemos el rango igual pero en
+
+[00:20:42]
+lugar de marcar este rango yo marcó este
+
+[00:20:44]
+mínimo porque sabía que era un punto
+
+[00:20:46]
+importante estructural por eso es que
+
+[00:20:48]
+marque el mínimo ese y dije si el precio
+
+[00:20:50]
+rompe a partir de aquí se va a ir atp
+
+[00:20:52]
+probablemente fíjense tomamos esta
+
+[00:20:55]
+entrada el precio viene se regresa aquí
+
+[00:20:57]
+por un rechazo me saca me piden por eso
+
+[00:21:00]
+no nos da el tp por poquísimo a mí me
+
+[00:21:03]
+sacan break even y éste
+
+[00:21:07]
+y me saca en break even y se va a la
+
+[00:21:09]
+entrada a la alza y después se regresa
+
+[00:21:12]
+hayamos podido tomar esta entrada y
+
+[00:21:14]
+muchas veces cuando ya me saco en break
+
+[00:21:16]
+even a mí lo que yo hago es
+
+[00:21:19]
+tomarla tomarla tomar la segunda
+
+[00:21:22]
+reentrada y aquí en la apertura tomamos
+
+[00:21:24]
+la segunda reentrada y la segunda
+
+[00:21:26]
+reentrada fue muy buena y nos dio el pp
+
+[00:21:30]
+pues bueno eso ha sido todo básicamente
+
+[00:21:33]
+sobre la estrategia igual vamos a estar
+
+[00:21:35]
+en telegram y ahí en los comentarios de
+
+[00:21:37]
+youtube respondiendo cualquier duda
+
+[00:21:39]
+gracias a todos los que estuvieron y
+
+[00:21:42]
+este y no estamos viendo en la próxima
+
+[00:21:45]
+chicos
+
+[00:21:50]
+esto muchas gracias
+
+[00:21:53]
+bye bye bye
+```

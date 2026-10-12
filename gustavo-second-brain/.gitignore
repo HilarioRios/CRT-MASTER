@@ -1,0 +1,29 @@
+.env
+credentials/
+secrets/
+tokens/
+*.token
+client_secret*.json
+oauth*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Raw evidence (re-fetchable from source, kept out of git -- can be large)
+data/raw/
+data/state/
+database/*.sqlite
+database/*.sqlite-journal
+database/*.sqlite-wal
+database/*.sqlite-shm
+logs/*.log
+
+# data/processed, data/chunks, data/metadata ARE tracked: they're
+# hand-curated/AI-enriched content (summaries, concepts, chunks), not
+# mechanically regenerable from data/raw alone -- losing them is costly.
+
+# OS
+.DS_Store

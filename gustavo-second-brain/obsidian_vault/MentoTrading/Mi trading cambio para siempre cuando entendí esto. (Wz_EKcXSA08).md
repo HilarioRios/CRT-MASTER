@@ -1,0 +1,1162 @@
+---
+source_id: YT_CANAL_01_Wz_EKcXSA08
+video_id: Wz_EKcXSA08
+channel: "MentoTrading"
+published_at: 2025-12-01
+url: https://www.youtube.com/watch?v=Wz_EKcXSA08
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 9
+tags: [youtube, MentoTrading, year/2025, status/synced]
+---
+
+# Mi trading cambio para siempre cuando entendí esto.
+
+[[MentoTrading]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=Wz_EKcXSA08)
+
+## Transcript
+
+```
+[00:00:01]
+Pues hola a todos, bienvenidos a un
+
+[00:00:02]
+nuevo video. Estáis bastante contentos
+
+[00:00:05]
+de traerles otra vez otro episodio en
+
+[00:00:08]
+este formato tipo podcast que les estoy
+
+[00:00:10]
+trayendo. Esta vez vengo a hablarles de
+
+[00:00:14]
+la paciencia en el trading, que creo que
+
+[00:00:16]
+algo es un tema que quería tocar en este
+
+[00:00:18]
+podcast, no sin antes decirles que en
+
+[00:00:21]
+los comentarios déjenme qué temas
+
+[00:00:23]
+quieren que toque en este tipo de
+
+[00:00:25]
+formato en este canal, que lo voy
+
+[00:00:27]
+subiendo cuando voy pudiendo. Entonces,
+
+[00:00:29]
+quiero ver si puedo ser un poco más
+
+[00:00:31]
+constante aquí. Entonces, déjenme en los
+
+[00:00:33]
+comentarios. Gustavo, habla de esto.
+
+[00:00:35]
+Gustavo, enséñanos esto. Es muy
+
+[00:00:38]
+importante para mí su feedback, su
+
+[00:00:40]
+opinión. Y bueno, en este formato eh
+
+[00:00:44]
+está bastante bonito porque a mí me
+
+[00:00:46]
+gusta entrar o adentrarme a los
+
+[00:00:48]
+sentimientos, emociones, a las
+
+[00:00:50]
+necesidades, a la problemática del
+
+[00:00:52]
+trader, como en general, cosas que yo
+
+[00:00:55]
+voy viviendo, he vivido este y que hago
+
+[00:00:58]
+que a todos los traders nos afectan este
+
+[00:00:59]
+tipo de cosas. Y quiero tocar en este
+
+[00:01:02]
+tema, en este podcast, el formato más
+
+[00:01:05]
+que nada de la impaciencia en el
+
+[00:01:08]
+trading. También decirles que se
+
+[00:01:10]
+suscriban a este bello y hermoso canal.
+
+[00:01:12]
+Estamos por ahí empujando también fuerte
+
+[00:01:14]
+en este canal. Entonces, suscríbanse.
+
+[00:01:17]
+Voy a traerles más contenido este tipo
+
+[00:01:19]
+de formato. Si les gusta, pues les
+
+[00:01:21]
+traeré más contenido sobre este. Y
+
+[00:01:22]
+bueno, vamos allá al temita de hoy, que
+
+[00:01:24]
+tampoco quiero enrollarme mucho y
+
+[00:01:27]
+pónganselo por ahí de fondo. Este, vamos
+
+[00:01:29]
+a estar aquí un ratito, no va a ser
+
+[00:01:31]
+tampoco tan largo, pero vamos a estar un
+
+[00:01:32]
+ratito aquí. Este y quería tocar el tema
+
+[00:01:35]
+de la impaciencia en el trading, como yo
+
+[00:01:38]
+en los últimos meses, años,
+
+[00:01:42]
+he mejorado bastante esta parte que
+
+[00:01:44]
+antes me metía por impulsividad a los
+
+[00:01:47]
+trade, a los trades, a cualquier trade y
+
+[00:01:50]
+ahora espero un buen setup de alta
+
+[00:01:52]
+calidad o un buen setup de alta
+
+[00:01:54]
+probabilidad. Y lo que he conseguido con
+
+[00:01:56]
+esto es simplemente tener más paciencia,
+
+[00:02:00]
+porque hay veces que simplemente tú te
+
+[00:02:02]
+comes el stop loss, no porque tengas mal
+
+[00:02:04]
+el vias o no porque tengas mal la
+
+[00:02:07]
+estrategia, estés ejecutando mal la
+
+[00:02:08]
+estrategia, simplemente porque te
+
+[00:02:10]
+adelantaste o porque eh no supiste
+
+[00:02:14]
+esperar correctamente la entrada, te
+
+[00:02:16]
+adelantaste y ahora lo que hago yo, lo
+
+[00:02:19]
+que estoy haciendo, que es algo que me
+
+[00:02:20]
+gusta mucho, es esperar a que cierren
+
+[00:02:22]
+las velas por completo para no comerme
+
+[00:02:25]
+una manipulación, esperar a que el trade
+
+[00:02:28]
+se dé de manera correcta, que estén
+
+[00:02:30]
+todas las eh todas las configurada
+
+[00:02:35]
+como debe de estar. Y antes de querer
+
+[00:02:37]
+tomar un trade por impulsividad, como yo
+
+[00:02:40]
+creo que muchas personas les pasa o me
+
+[00:02:42]
+pasa me pasaba a mí, deténganse 5
+
+[00:02:46]
+segundos, 10 segundos, 30 segundos a
+
+[00:02:48]
+preguntarse, realmente este trade que
+
+[00:02:51]
+estoy tomando es un trade que estoy
+
+[00:02:53]
+tomando con buena calidad o es un trade
+
+[00:02:56]
+que realmente tiene o cumple todos los
+
+[00:02:59]
+parámetros posibles para hacer un buen
+
+[00:03:02]
+trade o estoy tomando este trade por
+
+[00:03:04]
+impulsividad o Porque realmente es
+
+[00:03:07]
+siento o presiento o siento, pero no es
+
+[00:03:11]
+un trade basado en mi estadística, mi
+
+[00:03:14]
+probabilidad. Eso es lo que yo estaba
+
+[00:03:16]
+haciendo y mejoré bastante el timing de
+
+[00:03:19]
+las entradas. Me estoy metiendo de
+
+[00:03:20]
+manera más precisa al mercado y aparte
+
+[00:03:23]
+que estoy tromando trades de buena
+
+[00:03:25]
+calidad. Una vez que tú ya estás dentro
+
+[00:03:27]
+del trade, esperaste tus
+
+[00:03:29]
+configuraciones,
+
+[00:03:30]
+si la operación se está yendo en contra,
+
+[00:03:33]
+tú repite o repítete. No importa que la
+
+[00:03:36]
+operación se esté yendo en contra, yo no
+
+[00:03:38]
+controlo lo que el mercado hace. Yo lo
+
+[00:03:41]
+único que he hecho en esta operación es
+
+[00:03:44]
+ejecutar mi modelo, mi estrategia de
+
+[00:03:47]
+manera correcta. De ahí la importancia
+
+[00:03:49]
+también de conocer de manera correcta tu
+
+[00:03:52]
+estrategia, o sea, de que conozcas bien
+
+[00:03:54]
+cuáles son los setups o qué tiene que
+
+[00:03:57]
+tener el precio que tiene que decirte
+
+[00:03:59]
+para que tú tomes una buena entrada. Yo,
+
+[00:04:01]
+por ejemplo, les platico, yo no suelo
+
+[00:04:04]
+tampoco compartir tantísimo mis trades,
+
+[00:04:07]
+pero bueno, les voy a compartir el
+
+[00:04:09]
+último trade que tomé, que era un trade
+
+[00:04:11]
+bastante bien con la estrategia CRT y me
+
+[00:04:13]
+sacó en stop loss. Yo les digo, no
+
+[00:04:16]
+importa tú si si tomas muchos SL, si tú
+
+[00:04:20]
+estás con uno a tres y tienes un winrate
+
+[00:04:22]
+de 50%, eres rentable. lo único que
+
+[00:04:25]
+tendrías que trabajar es en mejorar ese
+
+[00:04:27]
+win rate. Pero si tú estás tomando
+
+[00:04:29]
+tradó,
+
+[00:04:36]
+como la estrategia también a veces eh ya
+
+[00:04:39]
+trato de lo mejor posible que no falle,
+
+[00:04:42]
+no que no sea por la estrategia, que sea
+
+[00:04:45]
+por mí, que no sea por mí, perdón, que
+
+[00:04:47]
+sea por la estrategia. Entonces, el
+
+[00:04:49]
+último trade que tomé si fue más por la
+
+[00:04:51]
+estrategia, pero yo es un trade que tomé
+
+[00:04:54]
+de buena calidad y es un trade que
+
+[00:04:55]
+estadísticamente yo puedo ir a revisar y
+
+[00:04:58]
+saber que si lo vuelvo a tomar de 10, de
+
+[00:05:00]
+ocho ocasiones se va a dar, verad, la
+
+[00:05:03]
+mayoría de las veces de 10 ocasiones se
+
+[00:05:05]
+va a dar ocho, siete, de ocho ocasiones
+
+[00:05:07]
+se va a dar seis, cinco ocasiones.
+
+[00:05:10]
+Entonces, también saber eso, saber
+
+[00:05:12]
+cuáles son tus setups de alta
+
+[00:05:14]
+probabilidad y cuáles son tus setups de
+
+[00:05:16]
+baja probabilidad, yo creo que te va a
+
+[00:05:17]
+llevar o te va a acercar mucho a la
+
+[00:05:19]
+consistencia. Y no se frustren tanto por
+
+[00:05:22]
+el perder dos y luego ganar una y luego
+
+[00:05:25]
+perder una y luego perder dos y luego
+
+[00:05:28]
+ganar una o ganar dos y perder tres o
+
+[00:05:31]
+perder cuatro. sino céntrense o estén
+
+[00:05:34]
+trabajando más en mejorar esa paciencia
+
+[00:05:38]
+a la hora de tomar el trade y a la hora
+
+[00:05:40]
+de dejar correr también el trade al
+
+[00:05:42]
+target, que tengan una buena gestión,
+
+[00:05:44]
+correcta gestión de la operación y que
+
+[00:05:47]
+yo creo que ese timing, que es lo que
+
+[00:05:49]
+quería cubrir más en este video del
+
+[00:05:51]
+trade como tal, te va a ayudar mucho el
+
+[00:05:54]
+hecho de que tú esperes o que digas,
+
+[00:05:57]
+bueno, antes de tomar el trade por
+
+[00:05:59]
+impulsividad voy a preguntarme, okay,
+
+[00:06:01]
+este es un buen setup. Ah, cumple esto,
+
+[00:06:03]
+cumple esto. Es un trade de alta
+
+[00:06:05]
+probabilidad. Okay, lo ejecuto. O decir,
+
+[00:06:08]
+yo muchas veces quiero tomar el trade
+
+[00:06:11]
+porque siento que va a caer, siento que
+
+[00:06:12]
+va a subir el precio y me y me paro, me
+
+[00:06:15]
+detengo y digo, a ver, este trade es de
+
+[00:06:17]
+buena calidad. Okay, tiene esto, tiene
+
+[00:06:19]
+esto. Bueno, es un trade tomable, pero
+
+[00:06:21]
+no es de buena calidad. Entonces, quiero
+
+[00:06:24]
+tomar trades de mejor calidad para que
+
+[00:06:27]
+con un buen trade o dos o tres trades
+
+[00:06:29]
+que tú hagas buenos a la semana tiene
+
+[00:06:31]
+suficiente para ser rentable. Yo siempre
+
+[00:06:34]
+lo he dicho, ya cuando yo me estoy
+
+[00:06:36]
+acercando a un terreno de alta
+
+[00:06:38]
+consistencia, que pienso que es donde
+
+[00:06:40]
+estoy ahorita, que todavía me falta,
+
+[00:06:42]
+pero ya me estoy acercando a ese terreno
+
+[00:06:43]
+donde ya empiezo a gestionar cuentas más
+
+[00:06:45]
+grandes, donde ya se empieza a sentir
+
+[00:06:48]
+como que voy a hacer payouts grandes,
+
+[00:06:51]
+que eso es lo que estoy buscando ahora
+
+[00:06:53]
+en este momento de mi carrera como
+
+[00:06:55]
+trader, me acerco a operar lo menos
+
+[00:06:57]
+posible y empezar a agarrar trade de
+
+[00:06:59]
+alta calidad. ¿Qué pasa? que por
+
+[00:07:01]
+estadística, por ejemplo, en esta semana
+
+[00:07:04]
+o en la semana anterior, lo que sea, me
+
+[00:07:06]
+van a salir trades malos, pero yo sigo
+
+[00:07:09]
+confiando en ejecutar los trades con
+
+[00:07:12]
+buena calidad. Me salen trad malos a
+
+[00:07:14]
+veces por estrategia también o por
+
+[00:07:16]
+detallitos que yo tengo, pero yo me sigo
+
+[00:07:18]
+centrando en ejecutar con buena calidad.
+
+[00:07:20]
+¿Qué crees que va a pasar? Que va a
+
+[00:07:22]
+venir una buena racha donde la
+
+[00:07:24]
+estrategia no falle. van a venir tres o
+
+[00:07:26]
+cuatro trades y en esos tres o cuatro
+
+[00:07:28]
+trades o cinco trades que yo tenga
+
+[00:07:30]
+positivos seguidos, van a venir muchos
+
+[00:07:32]
+fondeos, van a venir fases uno, fase
+
+[00:07:35]
+dos, van a venir este cuentas fondeadas
+
+[00:07:38]
+de payouts, múltiples payouts, cuentas
+
+[00:07:41]
+grandes pasadas. Este es el es el
+
+[00:07:45]
+resultado pues el que va a venir, pero
+
+[00:07:47]
+tú debes de ir persiguiendo cuando estás
+
+[00:07:49]
+en el en el trading o o cuando estás
+
+[00:07:52]
+ahorita en tu proceso, debes de
+
+[00:07:53]
+perseguir no pasar la fase uno, no pasar
+
+[00:07:56]
+la fase dos ni retirar. Tú debes de
+
+[00:07:59]
+perseguir, ejecutar trad,
+
+[00:08:02]
+esperar tu setup correctamente. Eso
+
+[00:08:05]
+debes de perseguir porque si todo el
+
+[00:08:07]
+rato estás persiguiendo ejecutar bien,
+
+[00:08:10]
+te va a salir mal al principio. Vas a
+
+[00:08:12]
+sentir como que vas más lento. Inclusive
+
+[00:08:15]
+yo a veces siento que voy más lento y
+
+[00:08:17]
+digo, "Ven, esta semana ejecuté dos
+
+[00:08:19]
+veces, ejecuté una vez, voy muy lento,
+
+[00:08:21]
+voy muy despacio." Parece ser como que
+
+[00:08:23]
+así, pero cuando viene una racha de tres
+
+[00:08:25]
+o de cuatro positivas seguidas producto
+
+[00:08:28]
+de lo que estás haciendo bien detrás, yo
+
+[00:08:31]
+creo que avanzas mucho más que si
+
+[00:08:33]
+tuvieras cinco trades y tres malos,
+
+[00:08:36]
+negativos y dos buenos, positivos.
+
+[00:08:38]
+Entonces, es importante que tú te estés
+
+[00:08:41]
+preguntando antes de entrar al mercado,
+
+[00:08:43]
+¿estoy ejecutando de manera correcta
+
+[00:08:46]
+este trade? ¿Está cumpliendo mis
+
+[00:08:48]
+expectativas? El timing en el que lo
+
+[00:08:50]
+estoy tomando es la manera correcta,
+
+[00:08:53]
+cumple con todas mis confirmaciones o
+
+[00:08:55]
+debo esperar a que esta vela cierre
+
+[00:08:58]
+mejor. En el caso del CRT debo esperar
+
+[00:08:59]
+que la vela cierre, la de una hora, la
+
+[00:09:01]
+de 4, la de 15 minutos, la de 30. Yo
+
+[00:09:04]
+estuve mejorando bastante mi timing con
+
+[00:09:07]
+esperar simplemente más, no dejarme
+
+[00:09:10]
+llevar y también el hecho al miedo a
+
+[00:09:12]
+perderte los trades. O sea, muchos
+
+[00:09:15]
+trades buenos, entre comillas, porque
+
+[00:09:17]
+para mí no eran excelentes, yo los dejo
+
+[00:09:20]
+ir. No me importa a mí perderme un
+
+[00:09:22]
+movimiento alcista o bajista en el
+
+[00:09:24]
+mercado. Mi frase favorita, el mercado
+
+[00:09:26]
+siempre está configurado, siempre está
+
+[00:09:28]
+preparado para darte nuevas
+
+[00:09:29]
+oportunidades. No te vas a perder nada.
+
+[00:09:32]
+Entonces, para mejorar la paciencia, si
+
+[00:09:35]
+ustedes tienen esa impaciencia de que se
+
+[00:09:37]
+adelantan al trade o que tenían bien el
+
+[00:09:40]
+vallas y luego después el precio lo saca
+
+[00:09:42]
+y se va, simplemente es esperar, esperar
+
+[00:09:45]
+más y antes de entrar al trade por
+
+[00:09:47]
+impulsividad preguntarte que esta cumple
+
+[00:09:50]
+o no cumple, cumple con todo, no cumple,
+
+[00:09:53]
+medio cumple, si cumple bien. Entonces,
+
+[00:09:56]
+esto es lo que querías aportar. Esto es
+
+[00:09:57]
+lo que les quería aportar el día de hoy
+
+[00:10:00]
+para que su trading mejore bastante. Yo
+
+[00:10:02]
+creo que he mejorado muchísimo y entre
+
+[00:10:04]
+más mejoro, mi mentalidad que está más
+
+[00:10:08]
+atrás a veces de lo que es la realidad o
+
+[00:10:11]
+de lo que realmente son las cosas, me
+
+[00:10:13]
+dice, "Vas muy despacio, Gustavo, vas
+
+[00:10:17]
+muy a vas muy tranquilo, estás tomando
+
+[00:10:21]
+menos operaciones porque nuestra mente
+
+[00:10:23]
+está configurada porque creemos nosotros
+
+[00:10:26]
+que entre más operemos, entre más
+
+[00:10:28]
+hagamos, más vamos a ganar." y en el
+
+[00:10:31]
+trading es al contrario. Entonces, mi
+
+[00:10:33]
+mente me cuando pierdo, por ejemplo, y
+
+[00:10:35]
+llevo semanas a lo mejor que no avanzo
+
+[00:10:37]
+mucho o que me pongo que me quedo break
+
+[00:10:40]
+even o que esa cuenta no la puedo pasar
+
+[00:10:42]
+o lo que sea o que no he hecho un
+
+[00:10:43]
+payout, mi mente me dice, "Vas muy
+
+[00:10:46]
+lento, vas muy despacio, ejecuta más
+
+[00:10:48]
+trades, agarra lo que sea."
+
+[00:10:51]
+Entonces, no eh parece ser así, pero
+
+[00:10:54]
+después de que viene una muy buena racha
+
+[00:10:56]
+donde por agarrar tres de alta calidad
+
+[00:10:59]
+agarro tres, cuatro positivas seguidas
+
+[00:11:01]
+con uno a tres. Imagínate tres positivas
+
+[00:11:04]
+con uno a tres con tres RS 369 9% al
+
+[00:11:07]
+mes. Eso se traduce a muchos muchos
+
+[00:11:11]
+buenos resultados. Entonces parece eso
+
+[00:11:13]
+ser así. También otra parte que quería
+
+[00:11:17]
+eh decirles que tiene que ver también
+
+[00:11:19]
+con la paciencia y es el hecho de en
+
+[00:11:22]
+esta última parte del video que quería
+
+[00:11:24]
+hacerles el día de hoy es el hecho
+
+[00:11:26]
+también de muchas de las veces eh cuando
+
+[00:11:30]
+estamos en una muy buena racha positiva
+
+[00:11:33]
+y estamos ganando también porque
+
+[00:11:35]
+estuvimos hablando de cuando estamos no
+
+[00:11:37]
+tan en pérdidas o o cuando estamos en
+
+[00:11:40]
+mala racha como nos sentimos, pero
+
+[00:11:42]
+cuando estamos en muy buena racha
+
+[00:11:44]
+también eh no sé si te ha pasado que te
+
+[00:11:47]
+sientes muy confiado, muy confiado. Y tú
+
+[00:11:51]
+estabas, por ejemplo, ahorita estabas
+
+[00:11:53]
+agarrando buenos trades de alta calidad,
+
+[00:11:55]
+estabas esperando buenas
+
+[00:11:56]
+configuraciones, pero como cuando
+
+[00:11:58]
+empiezas a ganar o pasaste una buena
+
+[00:12:00]
+racha, todo te sale bien y tal vez
+
+[00:12:03]
+agarraste estás agarrando trad,
+
+[00:12:07]
+o sea, estás agarrando un trade que para
+
+[00:12:09]
+ti es tomable pero no es de buena
+
+[00:12:11]
+calidad y lo estás agarrando y estás
+
+[00:12:13]
+ganando, empiezas a caer en una
+
+[00:12:15]
+sobreconfianza y esa sobreconfianza te
+
+[00:12:18]
+hace eh tradear cualquier cosa. agarrar
+
+[00:12:21]
+cualquier movimiento y cuando empiezas a
+
+[00:12:23]
+agarrar cualquier cosa, cualquier
+
+[00:12:24]
+movimiento que no cumple con todas tus
+
+[00:12:26]
+configuración, que no cumple de manera
+
+[00:12:28]
+excelente con todas tus confirmaciones,
+
+[00:12:31]
+pues es vas a empezar a perder y
+
+[00:12:33]
+empiezas a perder y empiezas en una
+
+[00:12:35]
+racha negativa y no sabes cómo salir de
+
+[00:12:38]
+esa racha negativa y no sabes por qué te
+
+[00:12:40]
+metiste en esa racha negativa cuando
+
+[00:12:41]
+todo te iba saliendo bien. Entonces,
+
+[00:12:44]
+cuando estén en la racha positiva,
+
+[00:12:45]
+también tengan la paciencia para esperar
+
+[00:12:49]
+un trade de buena configuración. Si ya
+
+[00:12:51]
+vienes de una semana donde ganaste dos o
+
+[00:12:53]
+tres a la semana, cuatro positivas, yo
+
+[00:12:56]
+que sé, lo que tú operes, eh, espera
+
+[00:13:00]
+otro siguiente trade de buena calidad,
+
+[00:13:02]
+sobre todo para entradía, es lo que
+
+[00:13:04]
+estamos hablando acá, pero bueno, puede
+
+[00:13:05]
+aplicar para cualquier estilo de trading
+
+[00:13:08]
+realmente y eh no te sobreconfíes, sigue
+
+[00:13:11]
+agarrando traditiva
+
+[00:13:14]
+que estás teniendo se extienda en el
+
+[00:13:16]
+tiempo y cuando tengas una racha
+
+[00:13:18]
+negativa, espera Siempre tra de buena
+
+[00:13:21]
+calidad. Espera y tómate el tiempo de
+
+[00:13:24]
+esperar. El mercado es esperar, esperar
+
+[00:13:27]
+a que se dé la entrada, esperar a que se
+
+[00:13:30]
+desarrolle, esperar a que se cumpla la
+
+[00:13:32]
+configuración, todo eso. Y no tengas
+
+[00:13:36]
+miedo a tocar stop loss. Una vez que tú
+
+[00:13:38]
+tienes una buena configuración en tu
+
+[00:13:40]
+trading, ya tienes esa buena
+
+[00:13:42]
+configuración y entraste o estás
+
+[00:13:43]
+entrando al mercado, no tengas miedo a
+
+[00:13:46]
+tocar stop loss. Tú di, "Yo estoy
+
+[00:13:48]
+haciendo mi trabajo. Mi trabajo es tomar
+
+[00:13:50]
+la entrada con la configuración
+
+[00:13:52]
+correcta. No voy a tener miedo a dejar
+
+[00:13:54]
+que el precio se desarrolle y se
+
+[00:13:56]
+exprese. Si realmente mi configuración
+
+[00:13:59]
+está mal, pues bueno, el mercado se
+
+[00:14:00]
+expresará y me dirá que está incorrecta.
+
+[00:14:02]
+Entonces, no tengas miedo. Una vez que
+
+[00:14:05]
+viene tu configuración buena, tómala.
+
+[00:14:07]
+Tómala con toda la confianza y seguridad
+
+[00:14:09]
+de que estás haciendo las cosas bien y
+
+[00:14:12]
+que si te llega a tocar stoploss no
+
+[00:14:14]
+importa porque tú hiciste las cosas como
+
+[00:14:16]
+deberías de haberlas hecho. Bueno,
+
+[00:14:18]
+chicos, me voy a ir por aquí. Espero que
+
+[00:14:21]
+este video te guste, te aporte muchísimo
+
+[00:14:23]
+valor. Si es así, suscríbete a este
+
+[00:14:24]
+bello y hermoso canal. Me puedes seguir
+
+[00:14:26]
+en todas mis redes sociales, mi
+
+[00:14:28]
+comunidad de Telegram, de WhatsApp, de
+
+[00:14:30]
+Instagram. Síganme en Instagram, por ahí
+
+[00:14:32]
+estoy compartiendo mucho contenido de
+
+[00:14:34]
+valor. Espero que te aporte mucho. Un
+
+[00:14:36]
+video un poco más cortito. Voy a estar
+
+[00:14:38]
+tratando de traer más videos a este
+
+[00:14:40]
+canal eh sobre psicología, psicotrading,
+
+[00:14:44]
+este que les pueda aportar en a lo largo
+
+[00:14:46]
+de de su trading para mejorar. Déjenme
+
+[00:14:48]
+en los comentarios qué más temas quieren
+
+[00:14:50]
+que revise o que chequee o que hable en
+
+[00:14:53]
+este bello y hermoso canal. Y bueno, me
+
+[00:14:56]
+voy a estar despidiendo por hoy. Síganme
+
+[00:14:58]
+por todas las redes sociales. Estamos
+
+[00:14:59]
+cercas de llegar a los 5,000
+
+[00:15:01]
+suscriptores en en el en el canal
+
+[00:15:03]
+principal. Vayan y suscríbanse. Supongo
+
+[00:15:06]
+que lo taguearé por este video también.
+
+[00:15:08]
+Y nos vamos a estar viendo en un video
+
+[00:15:10]
+hermoso canal. Suscríbanse también a
+
+[00:15:11]
+Mentos Raid, mi canal secundario, donde
+
+[00:15:13]
+estaré subiéndoles más contenido como
+
+[00:15:15]
+este y nos vamos a estar despidiendo,
+
+[00:15:17]
+chicos. Gracias por ahí.
+```

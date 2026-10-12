@@ -1,0 +1,646 @@
+---
+source_id: YT_CANAL_02_NxI_PxNvZTM
+video_id: NxI_PxNvZTM
+channel: "Gustavom.Trader"
+published_at: 2024-09-30
+url: https://www.youtube.com/watch?v=NxI_PxNvZTM
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 5
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# ¡Cómo GANAR tus primeros 100 DOLARES haciendo TRADING!
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=NxI_PxNvZTM)
+
+## Transcript
+
+```
+[00:00:00]
+te has preguntado alguna vez Cómo puedes
+
+[00:00:01]
+ganar tus primeros $ en el trading estás
+
+[00:00:04]
+en el lugar correcto en este video te
+
+[00:00:06]
+enseñaré Cómo puedes lograrlo aún así
+
+[00:00:09]
+seas principiante te guiaré a través de
+
+[00:00:11]
+un proceso claro y probado que te
+
+[00:00:13]
+permitirá tener resultados reales en tus
+
+[00:00:16]
+primeras operaciones Cómo es esto
+
+[00:00:18]
+posible te lo contaré veremos Cómo
+
+[00:00:20]
+elegir la plataforma adecuada Cómo
+
+[00:00:22]
+definir una estrategia sencilla y
+
+[00:00:24]
+efectiva y Cómo aplicar técnicas de
+
+[00:00:26]
+gestión de riesgo que te protegerán y te
+
+[00:00:28]
+ayudarán a maximizar tus ganancias
+
+[00:00:31]
+además compartiré contigo algunos
+
+[00:00:33]
+secretos clave que te ayudarán a evitar
+
+[00:00:35]
+errores costosos y avanzar más rápido en
+
+[00:00:38]
+tu camino hacia tus primeros $100 no te
+
+[00:00:41]
+lo pierdas y Acompáñame en este hermoso
+
+[00:00:43]
+video hacia tus primeros $100 en el
+
+[00:00:46]
+trading lo primero que quiero que sepas
+
+[00:00:48]
+es que el trading puede ser una fuente
+
+[00:00:50]
+de ingresos porque permite a las
+
+[00:00:51]
+personas comprar y vender activos
+
+[00:00:53]
+financieros para obtener ganancias al
+
+[00:00:55]
+aprovechar las fluctuaciones o la
+
+[00:00:57]
+volatilidad del mercado puede generar
+
+[00:01:00]
+beneficios en función de las habilidades
+
+[00:01:01]
+de la persona en función de que tú sepas
+
+[00:01:03]
+una estrategia o que tú tengas una
+
+[00:01:07]
+habilidad en el el mercado y seas
+
+[00:01:09]
+consistente Y rentable a lo largo del
+
+[00:01:11]
+tiempo sin embargo es importante tener
+
+[00:01:14]
+en cuenta que también necesitas tener
+
+[00:01:16]
+una adecuada gestión de riesgo una
+
+[00:01:18]
+psicología también adecuada para poder
+
+[00:01:20]
+obtener beneficios de manera consistente
+
+[00:01:23]
+antes de comenzar tu viaje sobre los
+
+[00:01:25]
+$100 lo primero que debes de hacer es
+
+[00:01:27]
+empezar a practicar una estrategia en un
+
+[00:01:30]
+una cuenta demo y después habría dos
+
+[00:01:32]
+formas de que puedes iniciar con capital
+
+[00:01:34]
+eh Ahora sí dinero real una es capital
+
+[00:01:38]
+propio en un broker que puede ser
+
+[00:01:40]
+cualquier broker que esté regulado yo
+
+[00:01:42]
+recomiendo que te vayas con un broker
+
+[00:01:44]
+que esté regulado que sea Sólido y la
+
+[00:01:48]
+otra puede ser con empresas de fondeo
+
+[00:01:51]
+donde cuentas de 5000 O 0,000 puedes
+
+[00:01:54]
+apenas invertir entre 30 a $ con ese
+
+[00:01:57]
+capital puedes pasar el Challenger y
+
+[00:02:00]
+vas a poder empezar a trabajar con ese
+
+[00:02:02]
+tipo de cuentas para poder estar
+
+[00:02:04]
+encaminado rumbo a tus primeros $100 en
+
+[00:02:06]
+cuanto a la recomendación de qué activos
+
+[00:02:08]
+financieros puedes tradear en cuanto a
+
+[00:02:10]
+forex te recomendaría el euro dólar o la
+
+[00:02:12]
+libra dólar en índices pues te
+
+[00:02:14]
+recomendaría el sp500 el nasdaq o el
+
+[00:02:16]
+us30 y en cuanto a metales también
+
+[00:02:18]
+puedes tradear lo que es el oro o la
+
+[00:02:20]
+plata esos para mí son los mejores
+
+[00:02:22]
+activos en los que tú puedes empezar a
+
+[00:02:24]
+hacer un trading efectivo ahora es
+
+[00:02:27]
+importante que tú tengas una estrategia
+
+[00:02:29]
+para poder hacer trading no vayas al
+
+[00:02:31]
+mercado sin una estrategia en mi canal
+
+[00:02:33]
+tengo una serie de videos con muchísimas
+
+[00:02:36]
+estrategias en la descripción te dejaré
+
+[00:02:38]
+una Playlist para que puedas verla y es
+
+[00:02:40]
+importante que aprendas una estrategia
+
+[00:02:42]
+que te adaptes a ella y que seas
+
+[00:02:45]
+disciplinado en cumplir esa estrategia
+
+[00:02:48]
+puede ser un trading tipo de tendencia
+
+[00:02:50]
+puedes tener una estrategia intradía
+
+[00:02:52]
+puedes tener también una estrategia de
+
+[00:02:53]
+swing o también una estrategia de
+
+[00:02:55]
+scalping Lo importante es que tengas una
+
+[00:02:57]
+buena estrategia que se adapte realmente
+
+[00:03:00]
+tus posibilidades y que realmente te
+
+[00:03:02]
+guste y te pueda llevar a la
+
+[00:03:05]
+rentabilidad a largo plazo ahora vamos
+
+[00:03:07]
+con algo muy importante que es la
+
+[00:03:09]
+gestión de riesgo si tú no sabes
+
+[00:03:10]
+gestionar el capital tanto en cuenta
+
+[00:03:13]
+real propia o en una empresa de fondeo
+
+[00:03:16]
+vas a fallar Entonces es importante que
+
+[00:03:19]
+examines el número de operaciones que
+
+[00:03:21]
+vas a estar haciendo diariamente
+
+[00:03:23]
+semanalmente y mensualmente y a través
+
+[00:03:25]
+de eso coloques un riesgo adecuado para
+
+[00:03:28]
+tu cuenta yo recomiendo que no sea más
+
+[00:03:31]
+del 2% yo en cuentas reales manejo el 1%
+
+[00:03:35]
+en pruebas de fondeo manejo el 2% por
+
+[00:03:37]
+operación ahora la psicología del
+
+[00:03:39]
+trading es muy importante para obtener
+
+[00:03:41]
+tus primeros beneficios en el trading
+
+[00:03:43]
+tienes que tener un control emocional es
+
+[00:03:46]
+importante que empieces a tener buenos
+
+[00:03:49]
+hábitos para desarrollar un control
+
+[00:03:51]
+emocional para que tampoco te rindas
+
+[00:03:53]
+para que cultives la disciplina la
+
+[00:03:55]
+paciencia y todas las cualidades que se
+
+[00:03:58]
+debe de tener una persona que quieres
+
+[00:04:00]
+ser un Trader realmente consistente
+
+[00:04:03]
+recomiendo que hagas ejercicio que te
+
+[00:04:04]
+alimentes sanamente y que te mantengas
+
+[00:04:07]
+lo más mentalmente positivo que te
+
+[00:04:10]
+mantengas lo más mentalmente saludable
+
+[00:04:13]
+despejado para que puedas tener un
+
+[00:04:15]
+trading efectivo no recomiendo que
+
+[00:04:17]
+tengas problemas deudas o cualquier otro
+
+[00:04:20]
+problema externo y que pienses que el
+
+[00:04:22]
+trading va a ser tu salvación porque vas
+
+[00:04:25]
+a fracasar en el trading Fíjate que
+
+[00:04:27]
+teniendo una estrategia totalmente
+
+[00:04:29]
+sencilla como la a las que yo enseño en
+
+[00:04:30]
+mi canal de YouTube puedes obtener tus
+
+[00:04:32]
+primeros $100 si eres consistente a
+
+[00:04:35]
+largo plazo vas a poder hacerlo fíjate
+
+[00:04:37]
+como aquí tenemos una estrategia de toma
+
+[00:04:40]
+de liquidez y es una entrada que se dio
+
+[00:04:43]
+el día de hoy en el nasdaq donde el
+
+[00:04:45]
+precio toma la liquidez de la parte alta
+
+[00:04:47]
+luego lo que hace es generar este doble
+
+[00:04:50]
+como este doble piso rompe la estructura
+
+[00:04:52]
+y hace un reteste a este punto de
+
+[00:04:54]
+interés donde tú habías podido tomar una
+
+[00:04:56]
+entrada un uno a dos protegiéndose por
+
+[00:04:59]
+encima de ese alto y empujando un 1 a
+
+[00:05:02]
+dos si tú arriesgas el 1% de tu cuenta
+
+[00:05:05]
+hubieras podido obtener el 2% de tu
+
+[00:05:07]
+cuenta esto es una en una cuenta de
+
+[00:05:09]
+$5,000 habrías obtenido $100 de
+
+[00:05:12]
+beneficio que esto puede ser para ti tu
+
+[00:05:14]
+primer retiro en el trading cierto que
+
+[00:05:17]
+deberías de haber pasado antes un
+
+[00:05:19]
+Challenger y este proceso va a ser un
+
+[00:05:21]
+proceso largo pero cierto que se puede
+
+[00:05:24]
+llegar a la consistencia con bastante
+
+[00:05:26]
+poco capital y obtener tus primeros
+
+[00:05:29]
+retiros en el trading Verdad Entonces
+
+[00:05:32]
+para llegar a ese camino donde vas a
+
+[00:05:33]
+poder obtener tus primeros $ en el
+
+[00:05:36]
+trading debes de evitar estos errores
+
+[00:05:39]
+número uno no tener un plan de negocio
+
+[00:05:42]
+número dos no tener una estrategia
+
+[00:05:45]
+número tres no tener un mentor que te
+
+[00:05:47]
+guíe número cuatro no tener hábitos o no
+
+[00:05:51]
+intentar tener hábitos que te van a
+
+[00:05:53]
+ayudar a desarrollar todas las
+
+[00:05:55]
+habilidades de conducta para poder
+
+[00:05:58]
+cumplir tu plan de trading y tu
+
+[00:06:00]
+estrategia Y por consiguiente también no
+
+[00:06:03]
+invertir en educación constante ni tener
+
+[00:06:06]
+la mentalidad de aprendizaje constante
+
+[00:06:09]
+evita estos errores para que puedas
+
+[00:06:11]
+llegar a obtener la rentabilidad en el
+
+[00:06:14]
+corto mediano y largo plazo en el
+
+[00:06:16]
+trading y así obtener tus primeros
+
+[00:06:18]
+beneficios del trading por último te
+
+[00:06:21]
+estoy recomendando que veas cursos como
+
+[00:06:22]
+los que se imparten en este canal para
+
+[00:06:24]
+que puedas aprender trading cursos
+
+[00:06:27]
+completos que te enseñan desde cero que
+
+[00:06:29]
+te quitan todos los paradigmas de tantos
+
+[00:06:31]
+conceptos y te hacen el trading simple
+
+[00:06:34]
+abajo en la descripción te dejaré la
+
+[00:06:35]
+Playlist Para que veas cada una de las
+
+[00:06:37]
+estrategias que tengo en este canal de
+
+[00:06:39]
+YouTube y para que veas el curso
+
+[00:06:41]
+completo para aprender trading desde
+
+[00:06:43]
+cero En conclusión podemos entender que
+
+[00:06:45]
+el trading es rentable si se hace bajo
+
+[00:06:48]
+Los criterios adecuados que del trading
+
+[00:06:51]
+puedes obtener beneficios si te enfocas
+
+[00:06:54]
+y trabajas de manera correcta lo primero
+
+[00:06:57]
+que debemos de hacer es entender cómo
+
+[00:06:58]
+funciona este de negocio encontrar una
+
+[00:07:01]
+buena plataforma para poder operar ya
+
+[00:07:03]
+sea con nuestro capital propio o con
+
+[00:07:06]
+empresas de fondeo luego elegir un
+
+[00:07:08]
+mercado en el que quieres estar operando
+
+[00:07:11]
+por consiguiente tener una estrategia ya
+
+[00:07:13]
+sea para scalping intradía o swing luego
+
+[00:07:16]
+tener una gestión de riesgo
+
+[00:07:17]
+correctamente adecuada para el tipo de
+
+[00:07:20]
+trading que estás haciendo trabajar
+
+[00:07:22]
+sobre una psicología del trading y un
+
+[00:07:25]
+control emocional para poder cumplir ese
+
+[00:07:27]
+plan de trabajo que vamos a tener y y
+
+[00:07:29]
+evitar los errores más comunes como
+
+[00:07:31]
+sobre apalancamiento no tener plan de
+
+[00:07:33]
+negocio no tener estrategia etcétera
+
+[00:07:35]
+etcétera entonces en conclusión Claro
+
+[00:07:38]
+que se puede vivir del trading Y claro
+
+[00:07:40]
+que puedes obtener tus primeros $
+
+[00:07:42]
+inclusive más en el trading pero debes
+
+[00:07:45]
+de enfocarte y trabajar correctamente
+
+[00:07:47]
+para poder obtener tus beneficios ve
+
+[00:07:51]
+este negocio como lo que es un negocio a
+
+[00:07:53]
+largo plazo donde si lo haces bien vas a
+
+[00:07:56]
+poder obtener tus primeras ganancias y
+
+[00:07:59]
+que sabe en el futuro puede hacer un
+
+[00:08:01]
+ingreso extra para ti Yo te invito a que
+
+[00:08:03]
+te suscribas a este canal si te ha
+
+[00:08:04]
+gustado este video compártelo con un
+
+[00:08:06]
+amigo y nos vemos pues en el siguiente
+
+[00:08:08]
+adiós
+```

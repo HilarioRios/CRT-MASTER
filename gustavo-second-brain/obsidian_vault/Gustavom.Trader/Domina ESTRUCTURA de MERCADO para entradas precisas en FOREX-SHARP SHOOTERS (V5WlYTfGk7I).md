@@ -1,0 +1,292 @@
+---
+source_id: YT_CANAL_02_V5WlYTfGk7I
+video_id: V5WlYTfGk7I
+channel: "Gustavom.Trader"
+published_at: 2022-03-28
+url: https://www.youtube.com/watch?v=V5WlYTfGk7I
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 3
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# Domina ESTRUCTURA de MERCADO para entradas precisas en FOREX-SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=V5WlYTfGk7I)
+
+## Transcript
+
+```
+[00:00:10]
+buenas noches
+
+[00:00:12]
+las dos son bienvenidos a una nueva
+
+[00:00:14]
+clase
+
+[00:00:17]
+vamos a estar hablando un poco
+
+[00:00:24]
+tú no
+
+[00:00:26]
+este gráfico que dibujo
+
+[00:00:30]
+representado que es un chico del mercado
+
+[00:00:33]
+donde la placenta
+
+[00:00:36]
+impulso
+
+[00:00:38]
+tendencia existe luego una corrección
+
+[00:00:41]
+con otra tendencia bajista y fin
+
+[00:00:48]
+pero estructura están formados por altos
+
+[00:00:52]
+cada vez más altos y bajos cada vez más
+
+[00:00:54]
+altos cuando se produce un bajo que
+
+[00:00:58]
+sobrepasa el anterior se formó un bajo
+
+[00:01:02]
+más bajo por lo que en lo entendemos
+
+[00:01:06]
+como un intento de cambio de estructura
+
+[00:01:10]
+una vez se empiezan a producir altos más
+
+[00:01:13]
+bajos y bajos más altos confirmamos que
+
+[00:01:16]
+estábamos últimamente en una tendencia
+
+[00:01:18]
+bajista en la tendencia bajista empiezan
+
+[00:01:21]
+a darse altos más bajos que los
+
+[00:01:23]
+anteriores vamos más suave con los
+
+[00:01:25]
+anteriores hasta que se produce
+
+[00:01:28]
+igualmente un alto supera este alto
+
+[00:01:32]
+anterior por lo que entendemos que el
+
+[00:01:35]
+mercado estaba intentando patrocinar un
+
+[00:01:38]
+cambio de estructura mitiga esta área de
+
+[00:01:41]
+soporte que hace un impulso un alto más
+
+[00:01:44]
+alto del proceso salto más alto como
+
+[00:01:47]
+mayormente se enseña en el trading
+
+[00:01:50]
+bale en las de estos puntos donde se
+
+[00:01:54]
+apoyan los grados más bajos nos vamos
+
+[00:01:57]
+más altos perdón son denominados
+
+[00:01:59]
+soportes deporte he aquí un soporte
+
+[00:02:03]
+kings estos estos
+
+[00:02:05]
+transportes que hizo pisos y techos y
+
+[00:02:09]
+teóricamente cuando rompe el techo o
+
+[00:02:12]
+resistencia se vuelven un piso y así
+
+[00:02:15]
+sucesivamente cuando cambia la
+
+[00:02:17]
+estructura lo que era un soporte aquí lo
+
+[00:02:19]
+toma como resistencia rompe el soporte
+
+[00:02:21]
+anterior lo usa como resistencia y
+
+[00:02:24]
+cuando se crea en cambio estructura o
+
+[00:02:27]
+rompimiento de la estructura empieza a
+
+[00:02:30]
+testear en los soportes anteriores que
+
+[00:02:33]
+quería nosotros formalmente impulsos
+
+[00:02:35]
+nuestros sectores o posts
+
+[00:02:36]
+los ejemplos gráficos y podemos ver una
+
+[00:02:42]
+max vista
+
+[00:02:44]
+[Música]
+
+[00:02:49]
+y
+
+[00:02:51]
+[Música]
+
+[00:02:54]
+aquí
+
+[00:02:56]
+[Música]
+
+[00:02:59]
+y pueden ver aquí vamos en una tendencia
+
+[00:03:02]
+alcista donde están formando a los más
+
+[00:03:05]
+altos
+
+[00:03:06]
+[Música]
+
+[00:03:08]
+como son y en su defecto también vamos a
+
+[00:03:13]
+mostrar pero aquí se produce un quiebre
+
+[00:03:16]
+de estructura y de forma un bajo más
+
+[00:03:19]
+bajo el anterior pero es off y break out
+
+[00:03:23]
+destructor quiebre de tutor ingreso y
+
+[00:03:27]
+que empiezan entonces a producirse altos
+
+[00:03:30]
+más bajos y pp finalmente
+
+[00:03:34]
+[Música]
+
+[00:03:36]
+otra tendencia
+
+[00:03:39]
+dura
+
+[00:03:43]
+aquí se produce otra nueva estructura
+
+[00:03:48]
+un tipo de estructura se llama pura
+
+[00:03:51]
+simple donde hace retroceso sumamente
+
+[00:03:54]
+corto
+
+[00:03:55]
+[Música]
+
+[00:03:58]
+i
+
+[00:04:00]
+[Música]
+
+[00:04:03]
+en nuestra zona 2 induce procesos y
+
+[00:04:05]
+realmente una pequeña selección de
+
+[00:04:07]
+canales pero aquí en nuestro importantes
+
+[00:04:10]
+que tony vella y explota cuando ahora el
+
+[00:04:14]
+día de hoy está aquí esta clase de
+
+[00:04:16]
+información que aunque es básica porque
+
+[00:04:18]
+de firma de mucha ayuda y tengo 500 es
+
+[00:04:21]
+un camino con un try pero residuo de
+
+[00:04:24]
+mucha ayuda destacan todos hechos hasta
+
+[00:04:27]
+la próxima y nos vemos en otra
+
+[00:04:30]
+[Música]
+
+[00:04:33]
+e
+
+[00:04:39]
+y
+
+[00:04:41]
+[Música]
+
+[00:04:44]
+y
+```

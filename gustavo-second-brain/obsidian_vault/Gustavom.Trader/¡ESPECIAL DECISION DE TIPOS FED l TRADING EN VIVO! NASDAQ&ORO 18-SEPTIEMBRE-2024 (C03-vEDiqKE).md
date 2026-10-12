@@ -1,0 +1,7243 @@
+---
+source_id: YT_CANAL_02_C03-vEDiqKE
+video_id: C03-vEDiqKE
+channel: "Gustavom.Trader"
+published_at: 2024-09-19
+url: https://www.youtube.com/watch?v=C03-vEDiqKE
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 65
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# ¡ESPECIAL DECISION DE TIPOS FED l TRADING EN VIVO! NASDAQ&ORO 18-SEPTIEMBRE-2024 #trading
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=C03-vEDiqKE)
+
+## Transcript
+
+```
+[00:00:14]
+[Música]
+
+[00:00:17]
+[Risas]
+
+[00:00:20]
+tu vida buena pero con quién la vas a
+
+[00:00:26]
+pasar prefiero tres que sean 10 y van a
+
+[00:00:29]
+traicionar
+
+[00:00:33]
+un punto malo es que no tengo nadie para
+
+[00:00:38]
+hablar cambiando el juego desde que
+
+[00:00:40]
+tengo
+
+[00:00:43]
+memoria si no la saco es porque estoy
+
+[00:00:46]
+fuera de mi
+
+[00:00:50]
+lugar y como estoy adelantado quieren
+
+[00:00:56]
+anular ya no tengo remedio
+
+[00:01:00]
+me estoy volando por mis cielos fumando
+
+[00:01:02]
+de esa pluma que me pone un poco ciego
+
+[00:01:05]
+escribiendo canciones y Buscando otro B
+
+[00:01:07]
+nuevo dejando todo de lado todo de lado
+
+[00:01:10]
+Toy pasado Ya no tengo tiempo para perer
+
+[00:01:12]
+con estos malos esos que hablan mucho
+
+[00:01:15]
+que son un poco anticuados hago lo que
+
+[00:01:17]
+quiero como quiero y sin regalos somos
+
+[00:01:20]
+los que estamos y no va a cambiar y
+
+[00:01:23]
+cuando me tengan que buscar a mí sé que
+
+[00:01:26]
+con ellos siempre voy a contar no nos
+
+[00:01:29]
+falta subn ni presumir y ya no le tengo
+
+[00:01:33]
+miedo a nadie más ando con muy pocos son
+
+[00:01:36]
+de buena hablar quitamos lo malo todo va
+
+[00:01:39]
+a pasar viendo dos veces por donde hay
+
+[00:01:42]
+que pisar aprendimos de las situaciones
+
+[00:01:45]
+del ayer pias que no salen si no lo
+
+[00:01:49]
+intentas Gracias a la vida porque
+
+[00:01:52]
+estamos y porque mi suerte no para
+
+[00:01:56]
+Deer si reparto tanta experiencia no vas
+
+[00:01:59]
+a aprender pasando noches como días y
+
+[00:02:02]
+via
+
+[00:02:30]
+falta en
+
+[00:02:40]
+el hola
+
+[00:02:51]
+hola hola hola probando probando
+
+[00:02:54]
+probando Bueno sí
+
+[00:03:02]
+probando probando Bueno
+
+[00:03:05]
+sí creo que estamos en vivo creo que
+
+[00:03:10]
+estamos en vivo
+
+[00:03:32]
+sí o
+
+[00:03:41]
+no estamos en vivo
+
+[00:03:45]
+La a
+
+[00:03:48]
+ver muteo
+
+[00:03:51]
+esto
+
+[00:03:58]
+doble al
+
+[00:04:37]
+Hola Hola a todos Hola a todos cómo
+
+[00:04:39]
+están Cómo están estamos en vivo ya cómo
+
+[00:04:43]
+están Cómo están todos los Leo por aquí
+
+[00:04:45]
+por el chat pueden ir dejando su like
+
+[00:04:48]
+los que estén llegando estamos ya en
+
+[00:04:51]
+directo vamos ahora a ver decisión de
+
+[00:04:54]
+tipos de interés de la Fed y vamos a ver
+
+[00:04:58]
+el mercado queé posibles oportunidades
+
+[00:05:00]
+tenemos para operar el día de hoy
+
+[00:05:03]
+Déjenme por aquí comparto
+
+[00:05:05]
+links aviso de que estoy en vivo porque
+
+[00:05:08]
+luego la gente se lo pierde entonces
+
+[00:05:10]
+pueden ir escribiéndome en el chat lo
+
+[00:05:12]
+que quieran ustedes y vamos al tope el
+
+[00:05:16]
+día de hoy no más
+
+[00:05:20]
+que
+
+[00:05:22]
+Déjenme Pongo aquí aviso en instagram
+
+[00:05:25]
+también aviso por todos lados para que
+
+[00:05:28]
+la gente sepa estamos en
+
+[00:05:30]
+directo estamos en vivo y en directo qué
+
+[00:05:34]
+se cuenta la gente Cómo ven compramos
+
+[00:05:37]
+vendemos qué hacemos
+
+[00:05:40]
+chicos estamos aquí activos estamos
+
+[00:05:43]
+activos el día de hoy creo que se
+
+[00:05:46]
+escucha bien verdad si me me dicen si la
+
+[00:05:48]
+música molesta está bien está alta está
+
+[00:05:51]
+baja también ahorita vamos a estar
+
+[00:05:53]
+viendo
+
+[00:05:54]
+eh Cómo salieron los tipos de interés
+
+[00:05:57]
+vamos a estar viendo también este
+
+[00:06:00]
+la conferencia de Jeremy poell vamos a
+
+[00:06:02]
+estar aquí un buen rato edes estén aquí
+
+[00:06:06]
+tranquilos tráiganse unas
+
+[00:06:08]
+palomitas Prepárense los que quieran
+
+[00:06:10]
+operar vamos a estar aquí con
+
+[00:06:16]
+todo
+
+[00:06:18]
+entonces déjame n más estoy aquí
+
+[00:06:21]
+avisando por
+
+[00:06:22]
+Instagram Bienvenidos a todos Saludos a
+
+[00:06:24]
+todos estoy aquí avisando por
+
+[00:06:27]
+Instagram para que la gente se una al
+
+[00:06:30]
+directo al Live del día de hoy estamos
+
+[00:06:34]
+especial del Día de la
+
+[00:06:36]
+Fed especial día de la fit vamos a ver
+
+[00:06:40]
+qué se cuce en los mercados para dónde
+
+[00:06:42]
+se van a ir Cuál va a ser el rumbo en
+
+[00:06:45]
+los próximos
+
+[00:06:47]
+días
+
+[00:06:50]
+Entonces vamos a ver qué
+
+[00:06:54]
+onda por aquí los leo en el chat ahorita
+
+[00:06:56]
+tengo ahorita les pongo el chat ahorita
+
+[00:06:58]
+pongo el chat para estarlos
+
+[00:07:01]
+leyendo pero estoy avisando
+
+[00:07:04]
+en en
+
+[00:07:09]
+instagram creo que ya está todo ya
+
+[00:07:11]
+avisamos Cómo están chicos a ver el chat
+
+[00:07:14]
+Dónde está mi chat mi
+
+[00:07:17]
+chat por aquí creo que está mi chat Hola
+
+[00:07:21]
+a Pablo cómo se está si se escucha dice
+
+[00:07:23]
+Pablo perfecto Hola Pablo cómo estás
+
+[00:07:26]
+Pablo Martín saludazos cómo estás Hola
+
+[00:07:30]
+Gustavo te sigo como hace 3 años Juan
+
+[00:07:32]
+Sebastián valderrama Ah si me acuerdo de
+
+[00:07:35]
+ti pero hace rato que no te pasabas
+
+[00:07:38]
+verad porque hace rato que no te veo por
+
+[00:07:41]
+aquí pero si por supuesto que me acuerdo
+
+[00:07:44]
+de ti qué tal G buenas tardes qué tal
+
+[00:07:48]
+Alejandro cómo estás Buenas tardes
+
+[00:07:50]
+estamos aquí quieren ver el mercado
+
+[00:07:51]
+verad quito mi mi Face ya Bueno vamos a
+
+[00:07:54]
+ver el mercado ya ya quieren yo creo que
+
+[00:07:57]
+quieren ver aquí Cómo está la velita
+
+[00:08:01]
+est aquí un poquito de chill estamos a
+
+[00:08:03]
+20 minutos del anuncio de los tipos de
+
+[00:08:05]
+interés de Jeremy Power creo que por
+
+[00:08:09]
+aquí ya se ve todo bien Déjenme pongo el
+
+[00:08:11]
+chat por aquí más o menos para yo poder
+
+[00:08:14]
+leerlos Buenas tardes a todos estamos
+
+[00:08:17]
+aquí con el gráfico del nasdaq este por
+
+[00:08:21]
+acá también todavía no pero este les voy
+
+[00:08:25]
+a poner cuando
+
+[00:08:27]
+sea cuando sea
+
+[00:08:30]
+cuando jery p esté hablando también Se
+
+[00:08:32]
+los voy a poner no más que ahorita pues
+
+[00:08:34]
+no todavía no todavía no va a estar
+
+[00:08:35]
+hablando en 20 minutos es la decisión de
+
+[00:08:38]
+tipos de interés y en otros más va a
+
+[00:08:49]
+ser se escucha bien la música creo que
+
+[00:08:51]
+se escucha un poco alta verdad lo bajo
+
+[00:08:53]
+un poco bajo un
+
+[00:08:57]
+poco abajo un pelín para que no moleste
+
+[00:09:00]
+solamente que esté como de
+
+[00:09:02]
+fondo baje un pelín
+
+[00:09:05]
+eh qué les decía Ah en 20 minutos va a
+
+[00:09:08]
+ser la decisión de tipos de interés de
+
+[00:09:09]
+Jeremy Powell eso impacta muy mucho al
+
+[00:09:11]
+mercado vamos a ver si la previsión Es
+
+[00:09:14]
+que recorten la tasa de interés 25
+
+[00:09:16]
+puntos porcentuales eh eso es positivo o
+
+[00:09:19]
+negativo para el mercado Gustavo en
+
+[00:09:21]
+teoría debe ser positivo porque entre
+
+[00:09:24]
+menos intereses haiga para los
+
+[00:09:26]
+inversionistas pues más crecimiento
+
+[00:09:28]
+económico entre comillas Debe de haber
+
+[00:09:31]
+verdad pero es lo esperado que la Fed
+
+[00:09:34]
+recorte los tipos de interés y en teoría
+
+[00:09:37]
+debería de subir los mercados Aunque
+
+[00:09:40]
+aquí pueden estar viendo el gráfico del
+
+[00:09:42]
+nasdaq el nasdaq tenemos
+
+[00:09:45]
+actualmente todo un desarrollo de
+
+[00:09:47]
+personaje con el nasdaq verad Pero yo lo
+
+[00:09:51]
+veo que
+
+[00:09:52]
+alcista este y probablemente el precio
+
+[00:09:56]
+venga a buscar esta zona de acá arriba
+
+[00:09:58]
+que son los
+
+[00:09:59]
+1635 es la zona donde yo espero que
+
+[00:10:02]
+venga a buscar el precio es esta zona de
+
+[00:10:05]
+liquidez yo lo veo alcista
+
+[00:10:08]
+pero yo entradas donde están no entro no
+
+[00:10:12]
+entro ahí porque tenemos esta liquidez
+
+[00:10:14]
+inducida que es estos bajos diarios
+
+[00:10:17]
+están muy cercas y es peligroso podrías
+
+[00:10:21]
+jugártela a entrar pero yo la verdad a
+
+[00:10:23]
+mí en lo personal no me gusta entrar ahí
+
+[00:10:26]
+qué tal César Master Cómo estamos
+
+[00:10:29]
+entonces
+
+[00:10:31]
+Eh bueno Se los voy a compartir a todos
+
+[00:10:33]
+igual estamos aquí para ganar dinero
+
+[00:10:36]
+Bueno intentar ganar dinero lo único que
+
+[00:10:38]
+yo quiero operar el día de hoy es nasdaq
+
+[00:10:41]
+Es lo único que voy a operar Aunque voy
+
+[00:10:43]
+a analizar lo demás que ustedes quieran
+
+[00:10:47]
+eh si el si recortan las tasas de
+
+[00:10:49]
+interés el dxj baja Entonces en teoría
+
+[00:10:52]
+Sí el dólar debe de bajar y subiría el
+
+[00:10:55]
+euro y la libra y todos los pares contra
+
+[00:10:57]
+el
+
+[00:10:58]
+dólar Ese es
+
+[00:11:00]
+como la teoría en la que debería ser el
+
+[00:11:04]
+precio en teoría verad pero ya en en la
+
+[00:11:06]
+en la la práctica vamos a ver qué hace
+
+[00:11:08]
+eh yo estaría les digo
+
+[00:11:12]
+eh intentando solamente comprar nasdaq
+
+[00:11:16]
+pero donde está No ahí donde está No
+
+[00:11:18]
+porque se me hace que puede venir el
+
+[00:11:22]
+precio todavía por la liquidez los tres
+
+[00:11:23]
+índices están muy
+
+[00:11:25]
+parecidos y yo espero De hecho ahorita
+
+[00:11:28]
+esperábamos que era temprano pero el
+
+[00:11:30]
+precio se ha hecho del rogar muy
+
+[00:11:31]
+probablemente está esperando a Power
+
+[00:11:33]
+para hacer todo el
+
+[00:11:35]
+movimiento este o entonces Esperamos que
+
+[00:11:38]
+el precio venga a tomar este bajo diario
+
+[00:11:40]
+luego este otro bajo diario y
+
+[00:11:43]
+posiblemente inclusive podría venir más
+
+[00:11:45]
+abajo a buscar otro bajo diario y
+
+[00:11:48]
+nosotros
+
+[00:11:51]
+este estoy intentando les digo comprar
+
+[00:11:53]
+el nasdaq pero ahí No yo lo estoy la
+
+[00:11:56]
+entrada que tengo se las comparto aquí
+
+[00:11:58]
+de hecho es es es la Ana que tengo en el
+
+[00:12:00]
+nasdaq tengo un by limit ahí abajo de
+
+[00:12:02]
+esa liquidez abajo este bajo diario ahí
+
+[00:12:05]
+tenemos un by limit y estaríamos
+
+[00:12:08]
+buscando en como Target este punto de
+
+[00:12:11]
+acá arriba que es toda esta liquidez que
+
+[00:12:14]
+tiene el precio ahí y este desde hace
+
+[00:12:16]
+mucho tiempo Bueno concretamente desde
+
+[00:12:19]
+septiembre de agosto finales de agosto
+
+[00:12:21]
+principios de septiembre Eh entonces el
+
+[00:12:25]
+precio yo creo que va a ir a buscar
+
+[00:12:26]
+Gustavo y si no baja donde tú dijiste si
+
+[00:12:28]
+se Ah to the moon y la velita verde se
+
+[00:12:31]
+va pues que le vaya bien no le decimos
+
+[00:12:33]
+Muchas gracias Que le vaya bien entonces
+
+[00:12:36]
+ya cada uno puede tomar sus decisiones
+
+[00:12:38]
+como quiera Recuerden que esto no son
+
+[00:12:40]
+decisiones de inversión como dic todo el
+
+[00:12:43]
+mundo Estos no son recomendaciones de
+
+[00:12:45]
+inversión cada uno puede hacer su
+
+[00:12:47]
+trading como quiera como se le pegue su
+
+[00:12:49]
+gana Bajo su plan de trading esto es yo
+
+[00:12:52]
+lo que quiero hacer y si no y se va Pues
+
+[00:12:55]
+que se le vaya bien Yo creo que va a
+
+[00:12:57]
+subir puede ya aquí Power decir que está
+
+[00:13:01]
+muy bien la economía y que dice que le
+
+[00:13:03]
+pum que le vaya bien pero no me gusta
+
+[00:13:06]
+les digo por eso el SP 500 está parecido
+
+[00:13:09]
+el s 500 está parecido tiene la
+
+[00:13:12]
+acumulación de este bajo el día lunes de
+
+[00:13:14]
+este otro bajo del día martes si no me
+
+[00:13:18]
+equivoco está tapando aquí y del día
+
+[00:13:20]
+martes y este otro también del día
+
+[00:13:23]
+miércoles verad la rubia G por favor qué
+
+[00:13:27]
+opinas la rubia el oro quiere ver este
+
+[00:13:31]
+Alejandro el oro el oro tenemos es esa
+
+[00:13:33]
+ese chimbolo triangulito el oro estoy
+
+[00:13:37]
+esperando que baje y luego que suba
+
+[00:13:38]
+entonces estoy esperando que el oro me
+
+[00:13:42]
+venga a esta zona de aquí abajo este y
+
+[00:13:46]
+que venga por ahí y luego ya después
+
+[00:13:48]
+pueda seguir su tendencia en h4
+
+[00:13:51]
+aproximadamente puede ser que peg un
+
+[00:13:53]
+movimiento rápido tiene un chimbolo ahí
+
+[00:13:56]
+es una estructura bajista que lleva pero
+
+[00:13:58]
+está Vamos en una tendencia alcista
+
+[00:14:00]
+ventas para mí en el oro Yo no vendería
+
+[00:14:03]
+porque estamos en contra de la tendencia
+
+[00:14:05]
+Y pues la tendencia sería tu enemiga no
+
+[00:14:09]
+pero se pueden yo les avisé estas ventas
+
+[00:14:11]
+de hecho Qué día hicimos streaming el
+
+[00:14:14]
+lunes lunes queo hicimos streaming les
+
+[00:14:17]
+avisé de que el precio iba a tener un
+
+[00:14:18]
+retroceso para seguir subiendo y este
+
+[00:14:21]
+ahí va con el retroceso no más que está
+
+[00:14:23]
+muy lento porque Obviamente todos los
+
+[00:14:25]
+mercados van a estar lentos ahorita
+
+[00:14:26]
+porque están esperando la reserva
+
+[00:14:28]
+Federal que hable pell entonces todo el
+
+[00:14:31]
+mundo va a estar esperando lo mismo que
+
+[00:14:34]
+hable Jeremy Powell ya
+
+[00:14:37]
+entonces no tengan no no se va a mover
+
+[00:14:40]
+el precio Ahorita se va a mover hasta
+
+[00:14:41]
+que l mi pable y posiblemente por ahí
+
+[00:14:45]
+este esté la entrada no Entonces yo no
+
+[00:14:48]
+estoy montado en el oro bueno no estoy
+
+[00:14:50]
+montado en ningún mercado pero si
+
+[00:14:52]
+operaría el oro lo esperaría abajo y si
+
+[00:14:55]
+quieren hacer scalping pues pueden
+
+[00:14:56]
+aventarse un scalping en ventas pero ya
+
+[00:14:59]
+ya ustedes deciden porque es contr
+
+[00:15:01]
+contratendencia entonces ahí está el oro
+
+[00:15:03]
+yo les dejo una entrada aproximadamente
+
+[00:15:05]
+por aquí va a ser Pero puede ser que sea
+
+[00:15:07]
+un poquito más abajo Un poquito más
+
+[00:15:09]
+arriba puede ser que el precio llegue
+
+[00:15:11]
+aquí pero en cuanto ya tome la liquidez
+
+[00:15:13]
+esta liquidez ya me gusta para el oro
+
+[00:15:17]
+acumulado este bajo diario que es el que
+
+[00:15:20]
+espero que tomemos y el otro bajo diario
+
+[00:15:23]
+que es esta línea azul que está aquí
+
+[00:15:25]
+aquí podemos poner esta línea azul
+
+[00:15:30]
+esta otra línea Azul Por aquí más o
+
+[00:15:32]
+menos y Este es otro bajo diario otro
+
+[00:15:36]
+bajo del día en el oro Entonces
+
+[00:15:39]
+Esperamos que el oro haga parecido a los
+
+[00:15:41]
+índices más que los índices
+
+[00:15:43]
+están un poquito más este más fuertes el
+
+[00:15:48]
+oro Sí está un poquito más con esa
+
+[00:15:50]
+tendencia intr diaria bajista verdad
+
+[00:15:53]
+pero yo espero que caiga ahí y por aquí
+
+[00:15:55]
+pueda acumular inclusive puedes
+
+[00:15:57]
+esperarte no meterte de una esperarte
+
+[00:15:59]
+que el precio acumule y cuando te dé una
+
+[00:16:01]
+confirmación pues entras para que si
+
+[00:16:03]
+quieres agarrar un punto de entrada
+
+[00:16:04]
+óptimo o si el precio se va de largo no
+
+[00:16:08]
+tu de Moon para abajo no tu de tu de G
+
+[00:16:10]
+sería no se V se hunde como el Titanic
+
+[00:16:13]
+pues simplemente esperas y ya está
+
+[00:16:17]
+podría venir todavía a visitar el precio
+
+[00:16:19]
+del Breaker este que está aquí esto fue
+
+[00:16:21]
+una resistencia bastante importante para
+
+[00:16:23]
+el oro todavía podría venir el oro a
+
+[00:16:26]
+visitar esta resistencia pero ya saben
+
+[00:16:27]
+que a mí no me gusta esa cosas de puede
+
+[00:16:29]
+subir como que puede bajar Entonces yo
+
+[00:16:32]
+le
+
+[00:16:33]
+pongo la tenemos Clara no nosotros la
+
+[00:16:35]
+tenemos Clara y no nada de andamos con
+
+[00:16:38]
+cosas verad no me gusta esas cosas
+
+[00:16:41]
+Entonces yo les pongo una flechita como
+
+[00:16:43]
+ahí la ven para arriba pero dónde está
+
+[00:16:46]
+No vamos a esperar que tenga su
+
+[00:16:48]
+retroceso y ahí compramos de ahí Gustavo
+
+[00:16:50]
+se va el chimbolo revienta y se va para
+
+[00:16:53]
+arriba tu de Moon y todo el rollo Bueno
+
+[00:16:55]
+pues que le vaya bien en lo personal
+
+[00:16:56]
+pues que le vaya bien Que que se vaya a
+
+[00:16:59]
+000 A cuánto se va a ir a a dos a 2
+
+[00:17:03]
+trillones de dólares a donde se vaya eh
+
+[00:17:07]
+la plata está parecido no más que la
+
+[00:17:08]
+plata sí viene retrocediendo más rápido
+
+[00:17:11]
+poquito más rápido pero la plata igual
+
+[00:17:13]
+la zona que tengo es este Breaker esta
+
+[00:17:16]
+zona de Breaker para la plata por aquí
+
+[00:17:18]
+va a venir la plata aproximadamente y
+
+[00:17:21]
+ahí vamos a tomar un se tomarían compras
+
+[00:17:24]
+parecido a la la el euro ya les había
+
+[00:17:27]
+dicho yo también de un roceso es ya lo
+
+[00:17:30]
+dio el retroceso por aquí teníamos no sé
+
+[00:17:32]
+que teníamos ahí del día lunes creo que
+
+[00:17:34]
+unas ventas de un chico que me preguntó
+
+[00:17:36]
+que cómo iba a salir su entrada y le di
+
+[00:17:38]
+su le di mi punto de vista Pero bueno
+
+[00:17:41]
+eso ya pasó
+
+[00:17:43]
+eh yo esperaba que a partir de aquí
+
+[00:17:46]
+tuviéramos la tuviéramos la el retroceso
+
+[00:17:49]
+a partir de aquí te lo voy a hacer cero
+
+[00:17:51]
+te voy a hacer sincero yo lo tenía el
+
+[00:17:52]
+lunes ahí pero el precio finalmente
+
+[00:17:54]
+terminó dándolo Aquí el problema del
+
+[00:17:57]
+euro
+
+[00:17:59]
+es
+
+[00:18:02]
+que está acumulando demasiado
+
+[00:18:06]
+Igual yo todavía lo podría ver caer de
+
+[00:18:09]
+pronto a que descansar aquí no sería
+
+[00:18:11]
+descabellado que
+
+[00:18:18]
+[Música]
+
+[00:18:27]
+descansábamos gusta para tradear al
+
+[00:18:30]
+menos en este en este informe de pell
+
+[00:18:33]
+creo que está mejor en los pares como
+
+[00:18:34]
+los índices o el oro está mucho mejor
+
+[00:18:37]
+que el euro Entonces el euro yo me
+
+[00:18:40]
+quedaría quieto No compraría
+
+[00:18:43]
+aquí me esperaría que cayera un un
+
+[00:18:46]
+poquito más de pronto si rellena ese fbg
+
+[00:18:49]
+y viene al
+
+[00:18:50]
+Breaker me gusta un poco más en una hora
+
+[00:18:54]
+ya se ve bien porque en una hora lo
+
+[00:18:56]
+bueno que tiene es que ya ha sacado toda
+
+[00:18:58]
+la liquidez
+
+[00:18:59]
+puces aquí tenemos un modelo de compras
+
+[00:19:01]
+a corto plazo en el el euro porque ya ha
+
+[00:19:05]
+sacado toda la liquidez el over Time
+
+[00:19:07]
+frame fíjense que ya ha barrido toda la
+
+[00:19:09]
+liquidez y ahora se fue con una
+
+[00:19:11]
+estructura Pero estas compras eran
+
+[00:19:13]
+temprano estas compras eran en la
+
+[00:19:15]
+apertura de Nueva York hoy hoy en la
+
+[00:19:18]
+apertura de Nueva York eran estas
+
+[00:19:19]
+compras o a las 88:40 hace ratillo
+
+[00:19:22]
+Entonces si no vas montado pues no está
+
+[00:19:27]
+tan bueno el euro si no vas montado
+
+[00:19:29]
+desde ya después de que eliminó esta
+
+[00:19:31]
+liquidez tiene liquidez inducida acá
+
+[00:19:33]
+arriba que es este doble techo donde
+
+[00:19:35]
+podríamos ir a sacar ese doble techo
+
+[00:19:38]
+Entonces si no vas montado pues no Y si
+
+[00:19:41]
+quieres montarte esperaría un retroceso
+
+[00:19:43]
+más profundo en el euro que sería más o
+
+[00:19:45]
+menos igual parecido este ciclo de acá
+
+[00:19:48]
+abajo pero por tendencia es alcista yo
+
+[00:19:52]
+ventas olvídense de las ventas en el
+
+[00:19:54]
+euro
+
+[00:19:56]
+Ah olvídense de las ventas yo espero que
+
+[00:19:58]
+haga una Smart Money trap ahí de de ese
+
+[00:20:01]
+de ese precio de ese alto y luego ya lo
+
+[00:20:05]
+saque por por estructura el euro es
+
+[00:20:09]
+alcista desde que el precio venía
+
+[00:20:10]
+cayendo yo les decía que íbamos a hacer
+
+[00:20:12]
+una inducción en este punto de acá
+
+[00:20:13]
+arriba para seguir subiendo vino el
+
+[00:20:16]
+precio a la velita que nos gusta a todos
+
+[00:20:18]
+nosotros los que somos de la comunidad
+
+[00:20:21]
+ch shooters Ah vino ahí a la velita que
+
+[00:20:25]
+nos gusta diaria Y a partir de ahí esos
+
+[00:20:27]
+alcistas para arriba En probabilidad es
+
+[00:20:30]
+para arriba Ya en entrar la entrada era
+
+[00:20:34]
+en Nueva York en querer volver a entrar
+
+[00:20:36]
+más abajo eso es el resumen del euro y
+
+[00:20:40]
+la libra pues la libra estaba fácil la
+
+[00:20:42]
+libra ya les había dicho yo Ahí está en
+
+[00:20:44]
+pantalla Ese fue el análisis que les
+
+[00:20:47]
+dejé el día lunes el precio subió
+
+[00:20:50]
+perfectamente a partir de aquí Qué onda
+
+[00:20:51]
+Gustavo Bueno A partir de aquí se pone
+
+[00:20:53]
+peligrosa porque ha tomado liquidez aquí
+
+[00:20:56]
+para volver a comprar espera amos de
+
+[00:20:59]
+Nuevo que complete el precio su
+
+[00:21:01]
+retroceso y después de eso pues ya se
+
+[00:21:04]
+vuelve a configurar a la alza eso lo que
+
+[00:21:06]
+esperaría en la libra el bitcoin está to
+
+[00:21:10]
+de Moon ya les había comentado yo de
+
+[00:21:12]
+este posible retroceso no más que pues
+
+[00:21:14]
+no sabíamos hasta dónde iba a llegar y
+
+[00:21:16]
+el bitcoin está to Moon para arriba el
+
+[00:21:20]
+bitcoin para arriba en 4 horas en todas
+
+[00:21:24]
+las temporalidades el bitcoin va a ir a
+
+[00:21:25]
+buscar Probablemente esta zona de aquí
+
+[00:21:28]
+zona que busque El ptc y ya está creo
+
+[00:21:32]
+que ya está to ya estaría vamos a ver un
+
+[00:21:35]
+poquito el dólar para que ustedes vean
+
+[00:21:37]
+el dólar estábamos midiendo en 4 horas
+
+[00:21:40]
+un rebote alcista el precio se quedó ahí
+
+[00:21:43]
+lo veíamos desde el día lunes yo les
+
+[00:21:46]
+decía que eso era un rebote alcista el
+
+[00:21:49]
+precio hizo aquí Ahí está de hecho en
+
+[00:21:51]
+pantalla no lo he eliminado ni lo he
+
+[00:21:53]
+modificado y fue para arriba Bueno aquí
+
+[00:21:56]
+nos hizo una toma de liquidez porque
+
+[00:21:57]
+como en los mercados se mueven por
+
+[00:21:59]
+liquidez toma de liquidez y Finalmente
+
+[00:22:02]
+nos da la dirección que esperábamos lo
+
+[00:22:04]
+que pasa es que ya eh Como la estructura
+
+[00:22:08]
+sigue siendo bajista Pues el precio ha
+
+[00:22:10]
+llegado a una zona de Premium Y a partir
+
+[00:22:12]
+de esa zona de Premium no ha podido
+
+[00:22:14]
+superar ahí nada ha capturado toda esta
+
+[00:22:17]
+liquidez que era este doble alto y a
+
+[00:22:19]
+partir de aquí yo esperaría que el
+
+[00:22:20]
+precio cayera cayera no subiera Pero
+
+[00:22:24]
+bueno los pares de forex no están tan
+
+[00:22:26]
+atractivos chicos no están tan
+
+[00:22:28]
+atractivos está más atractivos los
+
+[00:22:31]
+índices y el oro el oro así lo tengo
+
+[00:22:33]
+este
+
+[00:22:35]
+Miguel Cómo estás Miguel el oro ya lo
+
+[00:22:38]
+comentamos lo tenemos
+
+[00:22:40]
+ahí en tendencia alcista bajista es
+
+[00:22:44]
+donde está y para comprar esperamos el
+
+[00:22:46]
+retroceso si llega al Breaker está más
+
+[00:22:49]
+chido todavía entonces por eso aquí la
+
+[00:22:51]
+importancia de no entrar luego luego
+
+[00:22:53]
+esperar Aunque pues te la te la Te la
+
+[00:22:56]
+puedes jugar a un limit porque como va
+
+[00:22:59]
+posiblemente lo haga muy agresivo pero
+
+[00:23:02]
+la zona óptima óptima es el Breaker pero
+
+[00:23:04]
+yo me gusta aquí aquí donde está ahí es
+
+[00:23:07]
+donde está es una zona de demanda para
+
+[00:23:10]
+mí entonces
+
+[00:23:11]
+[Música]
+
+[00:23:13]
+eh Ya está ese es el mi escenario para
+
+[00:23:16]
+el oro y el nasdaq bueno no he hablado
+
+[00:23:21]
+del us3 el Us 30 a los que les guste el
+
+[00:23:23]
+Us 30 estamos esperando que el Us 30
+
+[00:23:25]
+elimine esta liquidez que está aquí sido
+
+[00:23:28]
+un poco donde está en ese punto que
+
+[00:23:31]
+elimine esta liquidez que está aquí y
+
+[00:23:33]
+ahí está la flecha para rar Lu 30 pero
+
+[00:23:37]
+el lu 30 hay que esperar un poco más
+
+[00:23:40]
+esperar que caiga si se va a partir de
+
+[00:23:42]
+ahí Gustavo se nos escapa pu que le vaya
+
+[00:23:44]
+bien no el que quiera comprar ahí que
+
+[00:23:46]
+compre yo no a mí no me invite yo no Yo
+
+[00:23:50]
+espero que el precio saque la liquidez y
+
+[00:23:52]
+si no la saca pues que le vaya bien ya
+
+[00:23:55]
+será otro día que lo agarremos el
+
+[00:23:57]
+mercado siempre da nuevas oportunidades
+
+[00:23:59]
+nunca te quedas viendo porque el mercado
+
+[00:24:02]
+siempre da nuevas oportunidades va a
+
+[00:24:04]
+haber más noticias va a haber más días
+
+[00:24:06]
+hay más días en el calendario Entonces
+
+[00:24:09]
+se va que le vaya bien el 30 ven ello
+
+[00:24:11]
+haciendo una tendencia muy bonita muy
+
+[00:24:14]
+hermosa la tendencia que ha venido
+
+[00:24:15]
+haciendo es un par que ha venido
+
+[00:24:18]
+haciendo para las personas que operan
+
+[00:24:20]
+intradiario y swing incluso scalping ha
+
+[00:24:23]
+venido haciendo una tendencia muy buena
+
+[00:24:26]
+muy buena entonces este está
+
+[00:24:29]
+está fácil está fácil este el sp500
+
+[00:24:34]
+esperamos lo mismo el sp500 tiene varios
+
+[00:24:36]
+bajos iguales acumulados aquí tiene uno
+
+[00:24:39]
+aquí tiene otro aquí tiene otro Este es
+
+[00:24:41]
+el que acaba de inducir ahora y
+
+[00:24:44]
+Esperamos que el precio tome esa
+
+[00:24:45]
+liquidez y venga la velita que le nos
+
+[00:24:48]
+gusta en nuestra comunidad de char
+
+[00:24:50]
+Shooter esa velita ya ustedes la conocen
+
+[00:24:52]
+Y a partir de ahí yo le metería un long
+
+[00:24:55]
+short No no le voy a meter short short a
+
+[00:24:58]
+los índices los índices son para arriba
+
+[00:25:01]
+no para abajo pero dónde está No está
+
+[00:25:04]
+atractivo para mí para comprar Entonces
+
+[00:25:07]
+yo esperaría que el precio baje de nuevo
+
+[00:25:11]
+Gustavo si aquí el precio le pone una
+
+[00:25:13]
+velita y sube 500 bueno que le vaya bien
+
+[00:25:16]
+Que le vaya bien yo me quedo fuera no
+
+[00:25:18]
+pasa nada si no entras No pierdes no
+
+[00:25:20]
+ganas No pasa nada o quedamos viendo
+
+[00:25:23]
+fuera felicitamos al que haya ganado le
+
+[00:25:26]
+damos ánimos al que haya perdido y está
+
+[00:25:28]
+no Verdad Entonces eh perfecto no la
+
+[00:25:32]
+tenemos Clara o no la tenemos Clara
+
+[00:25:34]
+vamos a ver en 60 minutos quedan 4
+
+[00:25:36]
+minutos para el
+
+[00:25:38]
+eh Para lo que es la decisión de tipos
+
+[00:25:41]
+de interés chicos Entonces estamos
+
+[00:25:43]
+expectantes de que pueda suceder que
+
+[00:25:45]
+pueda pasar vamos a dejar el gráfico del
+
+[00:25:47]
+nasda aquí en pantalla o quieren ver dos
+
+[00:25:50]
+diferentes quieren ver dos
+
+[00:25:54]
+diferentes quieren que deje uno solo
+
+[00:25:57]
+dejamos el puro que es el King es el rey
+
+[00:26:00]
+lo dejamos aquí o quieren ver dos
+
+[00:26:02]
+diferentes el oro Yo creo que se pone
+
+[00:26:04]
+bueno en cuando habla pel también pero
+
+[00:26:08]
+podemos dejar el puro nasdaq Aquí vamos
+
+[00:26:11]
+cambiando Aquí vamos rotando el orora
+
+[00:26:13]
+está haciendo ya lo que les venía
+
+[00:26:15]
+avisando
+
+[00:26:16]
+eh y vamos expectantes entonces el que
+
+[00:26:18]
+me interesa es el nasdaq porque yo tengo
+
+[00:26:21]
+aquí si tengo una entrada puesta
+
+[00:26:23]
+exactamente en este punto de
+
+[00:26:25]
+entrada yo tengo una entrada puesta en
+
+[00:26:27]
+mi cuenta personal ya en los demás pares
+
+[00:26:31]
+no los más pares son para análisis y
+
+[00:26:33]
+bueno no es recomendación de inversión
+
+[00:26:34]
+ni señales cada quien toma sus
+
+[00:26:36]
+decisiones en el mercado si pierde es
+
+[00:26:39]
+por su culpa no por la mía y si yo
+
+[00:26:42]
+pierdo es por mi culpa no por la culpa
+
+[00:26:44]
+de nadie verad somos traders ya maduros
+
+[00:26:47]
+consistentes Y bueno ya está
+
+[00:26:49]
+eh 3 minutos para que Jeremy poell bueno
+
+[00:26:53]
+Jeremy Powell bueno toda la reserva
+
+[00:26:55]
+Federal tome su decisión de los tipos de
+
+[00:26:57]
+interés
+
+[00:26:59]
+por aquí bueno Esto es para el para ver
+
+[00:27:04]
+ahorita para ver ahorita el streaming de
+
+[00:27:09]
+cuando
+
+[00:27:12]
+cuando hable Este canijo mi poel
+
+[00:27:17]
+pero me perdió por aquí el
+
+[00:27:24]
+Telegram perdieron mis vent
+
+[00:27:29]
+no sé qué pasó se me perdieron las
+
+[00:27:31]
+ventanas ch Pero bueno seguimos en vivo
+
+[00:27:33]
+Ah que es lo es lo bueno me perdieron
+
+[00:27:36]
+por ahí las el directo de YouTube y no
+
+[00:27:40]
+sé qué pasó Bueno siempre pasan cosas
+
+[00:27:43]
+vamos a t gramas porque quiero ver cómo
+
+[00:27:46]
+salió Tic Tac Tic Tac Quiero ver cómo
+
+[00:27:50]
+sale esto segimos en vivo y en
+
+[00:27:54]
+directo Qué onda Qué pasa Qué pasa
+
+[00:27:58]
+estamos ya a 2 minutos a ver muy
+
+[00:28:01]
+probablemente va a ser lo esperado
+
+[00:28:03]
+recortamos la tasa de interés 25 puntos
+
+[00:28:05]
+porcentuales pero lo que queremos ver es
+
+[00:28:07]
+cómo reacciona Este mercado el oro por
+
+[00:28:10]
+ahí el oro ya está cayendo el sp500 se
+
+[00:28:12]
+mantiene igual el us3 también igual los
+
+[00:28:15]
+pares de forex ahí medios renos el
+
+[00:28:19]
+bitcoin igual todo sigue como lo
+
+[00:28:21]
+esperamos entonces dejemos aquí el nasda
+
+[00:28:24]
+voy a dejar este gráfico porque este es
+
+[00:28:25]
+donde tengo yo la entrada puesta para
+
+[00:28:28]
+ver qué sucede gracias a las 16 personas
+
+[00:28:31]
+que estamos en línea Gracias a todos
+
+[00:28:33]
+Espero que dejen su me gusta chicos
+
+[00:28:34]
+dejen su like tenemos siete me gustas no
+
+[00:28:37]
+más y 16 personas no puede ser posible
+
+[00:28:41]
+eso el este streaming y está información
+
+[00:28:44]
+y todo lo que estás aprendiendo acá es
+
+[00:28:47]
+totalmente gratuito el único pago que yo
+
+[00:28:49]
+tengo es tu me gusta y tu suscripción si
+
+[00:28:52]
+no estás suscrito y que actives la
+
+[00:28:54]
+campanita es lo único que te pido el día
+
+[00:28:57]
+de hoy o Entonces si no das tu like no
+
+[00:29:00]
+vas a ser rentable probablemente pierdas
+
+[00:29:02]
+ese stop bl probablemente te vaya mal es
+
+[00:29:06]
+mentira pero dejen su like chicos dejen
+
+[00:29:09]
+su like porque así YouTube me recomienda
+
+[00:29:12]
+así YouTube pone la recomendación ahí
+
+[00:29:15]
+para que llegue más gente nueva para que
+
+[00:29:16]
+crezcamos como comunidad y todo sea
+
+[00:29:19]
+mucho mejor verdad Entonces dejen su
+
+[00:29:21]
+like no sean tacaños Es bien fácil n más
+
+[00:29:23]
+es picarle al botoncito de me gusta y ya
+
+[00:29:26]
+está no bueno me echaz para abajo me
+
+[00:29:28]
+echaz para arriba decisión de tipos de
+
+[00:29:30]
+interés me echaz para arriba me e chazo
+
+[00:29:32]
+para abajo Qué pasa Qué sucede el nasdaq
+
+[00:29:34]
+to the moon la velita roja para verde
+
+[00:29:37]
+con todo para arriba lo que esperábamos
+
+[00:29:39]
+Qué hace Qué
+
+[00:29:41]
+sucede quiero ver acá Este estén
+
+[00:29:44]
+tranquilos siempre chicos siempre
+
+[00:29:46]
+tranquilos ustedes pase lo que pase en
+
+[00:29:48]
+el mercado estén operando ahí estense
+
+[00:29:51]
+tranquilos Recuerden que tod todavía
+
+[00:29:53]
+aparte de la decisión de tipos de
+
+[00:29:55]
+interés viene eh la la conferencia de
+
+[00:29:58]
+Jeremy Powell la Fed decide recortar
+
+[00:30:02]
+0.50
+
+[00:30:03]
+bárbaro Eso sí es noticia chicos porque
+
+[00:30:07]
+se esperaba un 0.25 al mercado le gusta
+
+[00:30:10]
+mucho y al mercado le encanta le encanta
+
+[00:30:14]
+lo que ya hablábamos el mercado se va a
+
+[00:30:16]
+ir por esa liquidez esto se va a volar
+
+[00:30:19]
+esto se va a volar el Rally navideño
+
+[00:30:22]
+empezó oficialmente chicos los que
+
+[00:30:25]
+estaban en shorts olvídense de su short
+
+[00:30:28]
+porque olvídese de su short olvídese de
+
+[00:30:32]
+su short bueno el sp500 se fue el W 30
+
+[00:30:36]
+el oro bueno el oro se fue para
+
+[00:30:38]
+arriba y
+
+[00:30:41]
+0.50 eso sí es noticia chicos porque se
+
+[00:30:44]
+se esperaba un recorte de
+
+[00:30:46]
+0.25 en los mercados financieros y este
+
+[00:30:50]
+0.50 es muy bueno para todos los
+
+[00:30:53]
+mercados el euro debe estar to de Moon
+
+[00:30:55]
+ya lo decíamos nosotros Sí ahí está la
+
+[00:30:57]
+flecha era la probabilidad era más
+
+[00:30:59]
+altista que bajista la libra olvid se
+
+[00:31:03]
+rompió con todo el bitcoin también y
+
+[00:31:06]
+bueno tu de Moon vamos a ver ahora qué
+
+[00:31:08]
+dice Jeremy Powell en la conferencia
+
+[00:31:11]
+entonces ahí
+
+[00:31:13]
+está ahorita vamos a poner también la
+
+[00:31:15]
+conferencia eh vamos a poner ahorita
+
+[00:31:18]
+cuando hable habla ahorita Jeremy Powell
+
+[00:31:20]
+habla en 30 minutos más habla el Jim el
+
+[00:31:24]
+jimon el Power Ranger como yo le digo
+
+[00:31:28]
+Power Ranger habla y en 30 minutos verad
+
+[00:31:31]
+y ya él va a decir este la economía está
+
+[00:31:33]
+muy fuerte la inflación está controlada
+
+[00:31:36]
+la burbuja del dólar es mentira y
+
+[00:31:38]
+nosotros nos vamos to the moon el nasdaq
+
+[00:31:40]
+to the moon Entonces cómo ven chicos
+
+[00:31:43]
+quién estaba en shorts yo les dije
+
+[00:31:45]
+shorts no ventas no ventas no olvídese
+
+[00:31:49]
+compras Sí pero yo la quería bajo yo que
+
+[00:31:53]
+quería agarrar la mejor que
+
+[00:31:55]
+compra esos bajos diarios estaban muy
+
+[00:31:58]
+ricos y sabrosos Pero bueno eh el que
+
+[00:32:01]
+haya ganado ahí perfecto los que no
+
+[00:32:03]
+entraron también mucha gente que no
+
+[00:32:05]
+opera noticias también está bien Yo sí
+
+[00:32:07]
+opero en lo personal noticias tengo una
+
+[00:32:08]
+cuenta de ft mod swing para operar
+
+[00:32:10]
+noticias me gusta operar noticias no les
+
+[00:32:13]
+tengo miedo a las noticias pero se
+
+[00:32:15]
+respeta que cada quien no pueda operar
+
+[00:32:17]
+noticias o no quiera cada clien Tiene un
+
+[00:32:19]
+plan de trading Bajo su plan de trading
+
+[00:32:21]
+verdad el sp500 nuevo alto histórico si
+
+[00:32:25]
+no me equivoco nuevo alto histórico a
+
+[00:32:28]
+repuntado ahí ha pegado un mechaz ahí
+
+[00:32:30]
+arriba el 30 también nuevo alto
+
+[00:32:33]
+histórico pero el nasda que es el que sí
+
+[00:32:36]
+lo tenemos un poquito más abajo ha
+
+[00:32:38]
+tomado liquidez
+
+[00:32:39]
+ahí muy muy está tímido tomó la liquidez
+
+[00:32:43]
+pero de manera muy tímida ahí es como
+
+[00:32:45]
+que te toco no como que como que la
+
+[00:32:47]
+caricio ahí como que Ay la tomo pero no
+
+[00:32:49]
+la tomo eh Qué onda con este nivel
+
+[00:32:51]
+verdad el nivel de los
+
+[00:32:54]
+16628 precio de cfds es un nivel muy
+
+[00:32:57]
+fuerte ver es fuerte la resistencia
+
+[00:33:00]
+chicos es fuerte la resistencia no
+
+[00:33:03]
+quiere el precio pasar ahí estamos como
+
+[00:33:05]
+que que que pero pero Pásala pues pero
+
+[00:33:09]
+revienta la resistencia no no quiere
+
+[00:33:12]
+bueno va a esperar a Jenny mi powerwell
+
+[00:33:14]
+probablemente va a esperar a jery poell
+
+[00:33:17]
+el mercado pero s esto es una gran
+
+[00:33:21]
+noticia la Fed decide recortar 0.50 la
+
+[00:33:24]
+tasa de interés Entonces es una noticia
+
+[00:33:28]
+bomba porque se esperaba un 0.25 Ah ver
+
+[00:33:30]
+que algunos bancos decían que el 0.50
+
+[00:33:33]
+bueno los bancos ya son mañosos ya
+
+[00:33:35]
+tienen la información desde antes este
+
+[00:33:37]
+nosotros somos los sorprendidos somos
+
+[00:33:39]
+los sorprendidos porque ellos ya desde
+
+[00:33:42]
+antes saben no có ustedes van a querer
+
+[00:33:44]
+que que les dicen a todos la información
+
+[00:33:46]
+Igual tú crees que a todo el mundo todo
+
+[00:33:49]
+el mundo se está enterando ahorita no
+
+[00:33:51]
+chicos no no no eso no no eso se entera
+
+[00:33:54]
+toda la cuadra menos nosotros Este pero
+
+[00:33:57]
+bueno eh bastante bien por los mercados
+
+[00:34:00]
+Yo sigo con mi orden puesta un by limit
+
+[00:34:02]
+ahí donde está y si se va Pues que se
+
+[00:34:04]
+vaya verad todavía tiene chance de
+
+[00:34:06]
+volver el mercado Sí pero sería un poco
+
+[00:34:08]
+malo que regresar ahí pero todavía
+
+[00:34:10]
+podemos regresar Ahí vamos a ver en 4
+
+[00:34:13]
+horas en 4 horas el mercado está pegando
+
+[00:34:15]
+ahí un mechaz El precio ya está
+
+[00:34:16]
+confirmando que probablemente se va to
+
+[00:34:18]
+the moon en esta acumulación y bueno si
+
+[00:34:21]
+se va que le vaya bien en algún momento
+
+[00:34:23]
+volveremos a agarrar otra posición el
+
+[00:34:25]
+cp500 también pega un mechaz el oro pegó
+
+[00:34:28]
+para arriba Ya les decía yo en el oro
+
+[00:34:30]
+que el oro es en tendencia alcista el
+
+[00:34:33]
+oro en tendencia alcista lo que pasa es
+
+[00:34:35]
+que comprar desde ahí para mí no era lo
+
+[00:34:37]
+apropiado yo quería comprar más abajo Ya
+
+[00:34:40]
+siempre Gustavo quiere ser el quiere
+
+[00:34:42]
+comprar barato verad entonces yo quería
+
+[00:34:44]
+comprar barato pero el oro en tendencia
+
+[00:34:46]
+es alcista no no no hay que estar muy
+
+[00:34:50]
+muy este cuerdo muy inteligente ser muy
+
+[00:34:52]
+inteligente para saber que esto es para
+
+[00:34:54]
+arriba Ya para arriba no crean que
+
+[00:34:57]
+porque subió mucho mucha gente cree que
+
+[00:34:58]
+porque subió mucho No va a subir más
+
+[00:35:00]
+para arriba no hay nada no hay techo no
+
+[00:35:03]
+hay resistencia para arriba para arriba
+
+[00:35:05]
+puede seguir subiendo el mercado lo que
+
+[00:35:07]
+se le pegue su gana entonces usted No
+
+[00:35:08]
+piense que porque subió mucho un mercado
+
+[00:35:10]
+va a dejar de subir eso es totalmente un
+
+[00:35:13]
+error siempre hay que seguir las
+
+[00:35:15]
+tendencias de preferencia Y bueno
+
+[00:35:18]
+ya este vamos a ver qué hace el oro a
+
+[00:35:21]
+ver si de pronto saca estos saltos y
+
+[00:35:22]
+luego reacciona o a ver qué onda Yo sigo
+
+[00:35:26]
+dejando todo cómo está
+
+[00:35:28]
+el30 pegó también un mechaz por ahí tomó
+
+[00:35:31]
+esa liquidez de ese alto este la f
+
+[00:35:34]
+recorta el dot plots al 4.4 para finales
+
+[00:35:37]
+de 2024 y al 3.4 para finales del 2025
+
+[00:35:40]
+por encima de las expectativas
+
+[00:35:42]
+implícitas del mercado en lo que
+
+[00:35:44]
+respecta a los futuros de la Pet fans
+
+[00:35:48]
+entonces bastante buena la información
+
+[00:35:50]
+que pusieron han recortado la tasita de
+
+[00:35:52]
+interés entonces probablemente la velita
+
+[00:35:55]
+sea fuerte chicos los que estaban en
+
+[00:35:57]
+short han sido aniquilados verad un
+
+[00:36:00]
+minuto de silencio por ellos este f en
+
+[00:36:03]
+el chat por los que estaban en short
+
+[00:36:05]
+Pobrecitos bueno no pasa nada chicos si
+
+[00:36:08]
+perdieron stop loss es parte de ser
+
+[00:36:10]
+trading o de hacer trading o de ser
+
+[00:36:13]
+Trader verad los stops están para
+
+[00:36:15]
+perderse y ya está 18 personitas que
+
+[00:36:17]
+estamos en el directo y no veo 18 likes
+
+[00:36:20]
+la gente no quiere dar likes está en una
+
+[00:36:23]
+resistencia el directo de likes está en
+
+[00:36:26]
+una resistencia de lik la gente se niega
+
+[00:36:29]
+a dejar su me gusta en este bello y
+
+[00:36:31]
+hermoso directo verdad Bueno no pasa
+
+[00:36:34]
+nada este probablemente este sea muy
+
+[00:36:38]
+complicado dejar su me gusta verad
+
+[00:36:39]
+Entonces vamos a estamos esperando a que
+
+[00:36:42]
+Jeremy pow hable pero eh probablemente
+
+[00:36:46]
+Ahorita en 20 minutitos más mientras
+
+[00:36:47]
+vamos a estar nosotros viendo lo que nos
+
+[00:36:49]
+gusta verad la velita eh nos gusta ver
+
+[00:36:52]
+la velita ahí que se mueve para arriba y
+
+[00:36:54]
+para abajo entonces eh nos encanta verad
+
+[00:36:57]
+aunque yo no estoy participando en esta
+
+[00:36:59]
+vez mucha ve gente también está viendo
+
+[00:37:01]
+solamente Pero bueno está bien Aquí me
+
+[00:37:03]
+dejó en visto me clavó el visto como
+
+[00:37:07]
+este como probablemente a mucha gente le
+
+[00:37:09]
+claven el visto o le hayan clavado el
+
+[00:37:12]
+visto me clavó el visto aquí Pero bueno
+
+[00:37:14]
+no pasa nada este ya está vamos a ver
+
+[00:37:17]
+qué dice ahora Jeremy Powell porque a
+
+[00:37:19]
+ver si es positivo negativo puede ser
+
+[00:37:22]
+que venga con unas palabras de que no
+
+[00:37:24]
+creo sinceramente va a ser positivo muy
+
+[00:37:27]
+probablemente Pero puede ser que venga
+
+[00:37:29]
+con unas palabras de que
+
+[00:37:31]
+diga la tasa de interés pero la
+
+[00:37:33]
+inflación no se ha mantenido como
+
+[00:37:35]
+esperábamos y cosas así verad es muy
+
+[00:37:38]
+raro que Jerry me powel sea como tan feo
+
+[00:37:41]
+con con lo que está pasando pero
+
+[00:37:45]
+este está difícil gad ahí el mercado
+
+[00:37:48]
+está regresando se quedó ahí un poquito
+
+[00:37:50]
+paradito dejó esta liquidez Aquí
+
+[00:37:52]
+inducida vamos a ver qué onda para el
+
+[00:37:55]
+nasdaq a ver si sube baja a ver qué onda
+
+[00:37:58]
+eh sigue por ahí posicionado les pongo
+
+[00:38:01]
+aquí el sp500 el W 30 le 30 Si peg un
+
+[00:38:06]
+mechaz fuerte va eh aquí yace ya ya aquí
+
+[00:38:11]
+est es la bendición sin ceniza bendición
+
+[00:38:14]
+sin ceniza ya la gente se los que
+
+[00:38:16]
+entraron en largo se están arrepintiendo
+
+[00:38:18]
+ya es normal en momentos de volatilidad
+
+[00:38:21]
+chicos normal el oro Sí ese el oro va
+
+[00:38:24]
+por todas es normal la plata Uy la plata
+
+[00:38:28]
+bueno la plata Ah se quedó
+
+[00:38:30]
+el rompimos rompimos para abajo Bueno
+
+[00:38:33]
+ahí estaba la flecha en el en el dólar
+
+[00:38:37]
+era normal el dólar que rompiera eso
+
+[00:38:39]
+mucha liquidez ahí acumulada en el
+
+[00:38:42]
+índice del dólar entonces probablemente
+
+[00:38:45]
+el dólar Pues el nivel que quenga buscar
+
+[00:38:47]
+o que finalmente busque es este nivel de
+
+[00:38:49]
+los
+
+[00:38:50]
+9958 toda esta acumulación del dólar es
+
+[00:38:53]
+para seguir cayendo y ya el dólar
+
+[00:38:55]
+probablemente venga a buscar puntos más
+
+[00:38:57]
+abajo verdad y la tendencia del eurod
+
+[00:38:59]
+dólar Pues se ve reflejada no ya desde
+
+[00:39:01]
+hace un tiempo la tendencia del eurod
+
+[00:39:03]
+dólar se ve reflejada aquí desde que
+
+[00:39:05]
+veníamos acumulando tremendamente ya les
+
+[00:39:08]
+decía yo que los targets iban a ser
+
+[00:39:09]
+primero este High luego este otro High
+
+[00:39:11]
+va a ser y luego ya eh después de sacar
+
+[00:39:15]
+este High probablemente el precio venga
+
+[00:39:16]
+más arriba no 1.15 probablemente en el
+
+[00:39:20]
+eurod dólar en hablando en zonas
+
+[00:39:22]
+intradía pues les decía yo que eh cada
+
+[00:39:26]
+que el precio caiga C que el precio
+
+[00:39:27]
+caiga es para comprar no para vender es
+
+[00:39:31]
+son compras algo muy positivo que tenía
+
+[00:39:33]
+el eurodólares que había sacado toda la
+
+[00:39:35]
+liquidez no había dejado liquidez viva
+
+[00:39:37]
+como los índices Entonces es bastante
+
+[00:39:39]
+positivo yo quería comprar en el Breaker
+
+[00:39:41]
+pero el mercado no hace lo que Gustavo
+
+[00:39:43]
+quiere hace lo que él quiere hacer verad
+
+[00:39:46]
+eh también estaba bastante en el
+
+[00:39:48]
+intradía el el eurod dólar como les
+
+[00:39:50]
+decía fíjense la formación de liquidez
+
+[00:39:52]
+de este doble alto la toma de liquidez
+
+[00:39:54]
+acá no más que las compras a mi punto de
+
+[00:39:56]
+vista eran desde la mañana desde
+
+[00:39:59]
+temprano para el euro dólar y si no te
+
+[00:40:00]
+montaste desde temprano pues se te fue
+
+[00:40:02]
+el tren era la opinión personal esta Por
+
+[00:40:06]
+supuesto que era un Smart Money trap ese
+
+[00:40:08]
+punto de ahí de interés la gente lo
+
+[00:40:10]
+estaba mirando como Mira rompió
+
+[00:40:12]
+estructuras toma tu ruptura de
+
+[00:40:14]
+estructura chicos eso es una Smart mony
+
+[00:40:16]
+trap de libro El precio probablemente va
+
+[00:40:18]
+a seguir su tendencia y venga a visitar
+
+[00:40:20]
+este nivel de los
+
+[00:40:22]
+1.10 155 es un nivel bastante importante
+
+[00:40:25]
+donde si puede reaccionar el precio y
+
+[00:40:27]
+aquí está cerca del decisional aquí
+
+[00:40:29]
+puede reaccionar de nuevo en ventas
+
+[00:40:31]
+entonces que no se les haga extraño que
+
+[00:40:34]
+pueda pegarles un susto a los que estén
+
+[00:40:36]
+comprando Pero yo lo veo to the moon
+
+[00:40:39]
+verad alcista desde hace ya algún tiempo
+
+[00:40:42]
+lo traíamos nosotros comprando comprando
+
+[00:40:43]
+comprando el euro dólar y por supuesto
+
+[00:40:46]
+que la libra dólar también más de lo
+
+[00:40:48]
+mismo no eh Por ahí ya está saliendo un
+
+[00:40:51]
+poquito más de información de las tasas
+
+[00:40:53]
+de interés a los que les guste les
+
+[00:40:55]
+interese más estudiar eh fundamentales
+
+[00:40:59]
+está viendo bastante información eh la
+
+[00:41:03]
+libra igual para arriba Ya lo veíamos
+
+[00:41:05]
+nosotros que cada que el precio cayera
+
+[00:41:07]
+era para arriba aquí probablemente meta
+
+[00:41:09]
+otra por aquí va a meter otra así y va a
+
+[00:41:12]
+ser de nuevo para arriba Eh y ya está el
+
+[00:41:16]
+bitcoin pegó mechaz el bitcoin se quedó
+
+[00:41:18]
+como que eh a los criptomonedas a los
+
+[00:41:21]
+que operan criptomonedas se les se les
+
+[00:41:23]
+les quedaron aquí mal no les quedaron a
+
+[00:41:26]
+de verad les quedaron a de ver verad les
+
+[00:41:29]
+quedaron a de ver bastante porque el
+
+[00:41:31]
+precio no pudo ni siquiera superar los
+
+[00:41:33]
+$1,000 el bitcoin anda medio depresivo
+
+[00:41:37]
+Ah está depresivo está triste no quiere
+
+[00:41:40]
+no quiere romper los
+
+[00:41:42]
+$1,000 dice que ese es un nivel
+
+[00:41:44]
+psicológico muy importante y le está
+
+[00:41:47]
+costando mucho al bitcoin vamos a ver si
+
+[00:41:49]
+ahora Jeremy Powell dice que las
+
+[00:41:51]
+criptomonedas son el futuro del mundo y
+
+[00:41:54]
+esto rompe con fuerza Porque queremos
+
+[00:41:57]
+quemos ver aquí que se vea verdad señor
+
+[00:42:00]
+institucional rompa esa resistencia pero
+
+[00:42:03]
+que se vea verad porque queremos ganar
+
+[00:42:05]
+dinero bien No pero aquí se quedó
+
+[00:42:08]
+depresivo el bitcoin se quedó medio
+
+[00:42:10]
+depresivo Bueno ya está eh No hay nada
+
+[00:42:14]
+más interesante chicos el nasdaq también
+
+[00:42:16]
+se quedó qué pasó se deprimió también el
+
+[00:42:19]
+nasdaq iba bastante bien Y luego qué
+
+[00:42:22]
+dijimos te deprimió es un nivel que
+
+[00:42:25]
+fíjense chicos ha tocado una dos 3 4 5 y
+
+[00:42:29]
+con este sería el sexto toque pero el
+
+[00:42:31]
+precio no logra pasar de ahí parece que
+
+[00:42:34]
+ahí está un muro está el muro de Berlín
+
+[00:42:37]
+ahí puesto porque el precio no quiere se
+
+[00:42:40]
+niega a pasar como nosotros nos negamos
+
+[00:42:42]
+a pasar los 13 likes en este directo la
+
+[00:42:46]
+gente también se niega a dar like chicos
+
+[00:42:49]
+va a hablar Jeremy powel en 15 minutos
+
+[00:42:51]
+estamos aquí un poco haciendo este show
+
+[00:42:54]
+la verdad estamos haciendo un poco de
+
+[00:42:56]
+show porque este queremos que el
+
+[00:42:58]
+streaming sea ameno para todos ustedes
+
+[00:43:00]
+Que la pasen bien que si Perdieron su
+
+[00:43:02]
+stop pues sea otro día más en la oficina
+
+[00:43:06]
+y que no pase nada más de eso no se
+
+[00:43:09]
+pongan tristes es parte de la vida y
+
+[00:43:11]
+nosotros seguimos esperando nuestra
+
+[00:43:13]
+entrada ese mechaz nos da Esperanza nos
+
+[00:43:15]
+da esperanza de que el precio pueda
+
+[00:43:17]
+venir a buscar la liquidez diaria
+
+[00:43:19]
+después de por supuesto vamos a
+
+[00:43:22]
+dibujarlo por aquí haber tomado este
+
+[00:43:25]
+alto diario y el semanal también
+
+[00:43:27]
+Entonces vamos a ponerlo como eh diario
+
+[00:43:30]
+tomado Y también vamos a ponerlo como
+
+[00:43:33]
+semanal tomado ya tomado entre comillas
+
+[00:43:36]
+porque no ha venido tan tan O sea no ha
+
+[00:43:39]
+sido una toma de liquidez fuerte pero sí
+
+[00:43:41]
+ya ha tocado el precio ese nivel
+
+[00:43:43]
+Entonces ha acariciado ese nivel
+
+[00:43:46]
+Entonces nos da esperanza de que
+
+[00:43:47]
+probablemente podamos venir aquí a tomar
+
+[00:43:50]
+la liquidez de pronto y nos entre la
+
+[00:43:52]
+orden que tenemos en el nasdaq que es
+
+[00:43:54]
+esta orden de aquí yo quiero que
+
+[00:43:57]
+lleguemos ahí pero bueno lo vamos a
+
+[00:43:59]
+mantener donde estamos no movemos nada
+
+[00:44:01]
+aparte que ya tengo yo todo ahí by límit
+
+[00:44:03]
+ahorita Sería para mí difícil meterme a
+
+[00:44:06]
+todas mis cuentas y poner una orden
+
+[00:44:08]
+entonces eh Como lo ven chicos los Leo
+
+[00:44:12]
+por aquí en los comentarios este andan
+
+[00:44:14]
+un poquito tímidos díganme qué Qué pasó
+
+[00:44:16]
+Quién compró Quién vendió vendieron oro
+
+[00:44:19]
+compraron este los sacol to bl están
+
+[00:44:21]
+operando no están operando están en su
+
+[00:44:23]
+prueba de fondeo están en su cuenta real
+
+[00:44:26]
+díganme Qué onda por aquí los estoy
+
+[00:44:28]
+leyendo en el chat mientras vemos más
+
+[00:44:30]
+información de las tasas de interés la
+
+[00:44:33]
+la reserva Federal recorta las tasas de
+
+[00:44:36]
+en 50 puntos a 4.75 os5 Okay una
+
+[00:44:41]
+votación de 11 a un votaron 11 a un
+
+[00:44:44]
+quién fue Quién sería el que dijo No no
+
+[00:44:46]
+no mucho recorte quién sabe quién sería
+
+[00:44:49]
+las trazas para finalizar 204 en 4.4
+
+[00:44:53]
+anteriormente en 5.1 Okay declaración la
+
+[00:44:56]
+inflación ha segido Okay esto es una
+
+[00:44:58]
+declaración de lo que ha dicho la
+
+[00:44:59]
+reserva Federal la inflación ha seguido
+
+[00:45:01]
+avanzando hacia el objetivo del 2% Pero
+
+[00:45:03]
+sigue siendo algo elevada eh ganó Ah
+
+[00:45:06]
+okay Por esto por eso probablemente se
+
+[00:45:09]
+por eso probablemente se puso depresivo
+
+[00:45:11]
+los índices porque que dijeron Ay la
+
+[00:45:13]
+inflación sigue siendo elevada eh la fon
+
+[00:45:16]
+ganó mayor confianza en que la inflación
+
+[00:45:19]
+avanza de manera sostenible hacia el 2%
+
+[00:45:21]
+evalúa los riesgos para el empleo y los
+
+[00:45:23]
+objetivos de inflación están
+
+[00:45:25]
+aproximadamente equilibrados o sea como
+
+[00:45:27]
+que está está bien pero no está tan bien
+
+[00:45:30]
+verad está como que está bien pero no
+
+[00:45:33]
+está bien o sea algo Yo sigo pensando
+
+[00:45:36]
+que ahí nos están ocultando cosas
+
+[00:45:38]
+evaluará cuidadosamente los datos
+
+[00:45:40]
+entrantes de la evolución de las pridas
+
+[00:45:42]
+y el equilibrio de riesgos a considerar
+
+[00:45:43]
+ajustes de tarifas adicionales
+
+[00:45:45]
+obviamente yo creo que un recorte ya en
+
+[00:45:48]
+los próximos meses de más puntos va a
+
+[00:45:50]
+ser muy complicado pero
+
+[00:45:53]
+este qué te digo la actividad económica
+
+[00:45:56]
+bande a un ritmo sólido la creación de
+
+[00:45:58]
+empleo es lenta la tasa de desempleo
+
+[00:46:00]
+aumenta Pero sigue siendo baja la tasa
+
+[00:46:02]
+de desempleo está aumentando pero no
+
+[00:46:05]
+tanto el empleo está saliendo con unos
+
+[00:46:07]
+datos últimamente mediocres mediocres es
+
+[00:46:11]
+que no son los números que espera la
+
+[00:46:13]
+reserva federal y por eso estaba un
+
+[00:46:14]
+poquito aguantando ahí pero no puede
+
+[00:46:16]
+aguantar tanto el recorte de tipos
+
+[00:46:18]
+porque si no eh se viene una
+
+[00:46:21]
+recesión posiblemente se viene una
+
+[00:46:24]
+recesión y ya está Hola Necesito una
+
+[00:46:25]
+operación ganadora mi cuenta está en
+
+[00:46:27]
+menos TR Uy hermano aquí tenemos esta
+
+[00:46:30]
+pero no nos tocó Nos tocó la entrada
+
+[00:46:33]
+tenemos nosotros esta en el nasdaq pero
+
+[00:46:36]
+el precio no entró no ha entrado nos
+
+[00:46:38]
+dejó en visto nos clavó el visto ahorita
+
+[00:46:41]
+se puso un poquito depresivo para abajo
+
+[00:46:44]
+pero no no lo suficiente como para venir
+
+[00:46:47]
+a tocar nuestra entrada y bueno ya está
+
+[00:46:49]
+es la única entrada que tenemos y en el
+
+[00:46:52]
+euro estábamos en Long en el Libra long
+
+[00:46:57]
+el bitcoin también y ya está no
+
+[00:47:00]
+entonces tómatelo con calma chico
+
+[00:47:03]
+tómatelo con calma No no te presiones no
+
+[00:47:05]
+te presiones tómatelo con bastante calma
+
+[00:47:07]
+eh el mercado iba a estar y ahora que en
+
+[00:47:10]
+las pruebas de fondeo no hay tiempo pues
+
+[00:47:12]
+te necesitarías estar tranquilo porque
+
+[00:47:15]
+no hay presión de nada vendrán más
+
+[00:47:17]
+oportunidades vendrán más semanas y ahí
+
+[00:47:20]
+te puedes recuperar las rachas negativas
+
+[00:47:22]
+chicos Recuerden que son totalmente
+
+[00:47:23]
+normales yo por ejemplo en mi cuenta
+
+[00:47:25]
+Live Se los comparto estoy un poquito
+
+[00:47:27]
+negativo llevo ahí algunos meses
+
+[00:47:29]
+luchando ahí con que subo bajo y a veces
+
+[00:47:32]
+uno pasa por esos momentos verad no
+
+[00:47:33]
+siempre es ganar pero es totalmente
+
+[00:47:35]
+afrontarlo con consistencia y con
+
+[00:47:37]
+madurez y lo mejor posible que se pueda
+
+[00:47:40]
+no necesito ayudar a la campaña de qué
+
+[00:47:45]
+cala y por eso quieren subir el mercado
+
+[00:47:48]
+eh la campaña de cala Oh sí
+
+[00:47:52]
+Probablemente sí
+
+[00:47:53]
+eh siempre igual igual por lo general
+
+[00:47:56]
+César cuando son
+
+[00:47:58]
+este cuando son este eh votaciones en
+
+[00:48:03]
+Estados Unidos suele ser un mercado
+
+[00:48:05]
+alcista Por lo general es raro que no De
+
+[00:48:08]
+hecho se vi estaba mirando pasé la otra
+
+[00:48:11]
+vez un
+
+[00:48:12]
+este pasé un análisis del Rally navideño
+
+[00:48:16]
+el otra vez pasé un análisis del Rally
+
+[00:48:18]
+navideño lo pasé no sé si lo leíste por
+
+[00:48:20]
+ahí por el grupo de club del nasdaq Y
+
+[00:48:23]
+ahí te va la comparativa de cómo se
+
+[00:48:26]
+comporta al menos los índices Durante
+
+[00:48:28]
+los últimos años cuando es este eh
+
+[00:48:30]
+diciembre y concretamente también cuando
+
+[00:48:32]
+es este lo que son elecciones pues es un
+
+[00:48:36]
+mercado que va a subir por eso yo ya no
+
+[00:48:38]
+estaba buscando ventas buscamos ventas
+
+[00:48:40]
+desde por aquí porque estamos previos a
+
+[00:48:43]
+septiembre pero una vez que el mercado
+
+[00:48:45]
+llega a este punto de interés bastante
+
+[00:48:47]
+importante ya una vez nosotros nos
+
+[00:48:49]
+olvidamos de lo que son las ventas y ya
+
+[00:48:53]
+vemos un mercado con Rally alcista
+
+[00:48:55]
+estábamos buscando compras ya desde por
+
+[00:48:57]
+aquí pero el mercado no ha llegado a
+
+[00:49:00]
+nuestro punto óptimo lo único pero
+
+[00:49:01]
+Seguiremos buscando compras si esto sube
+
+[00:49:03]
+con todo en algún momento va a volver a
+
+[00:49:05]
+retroceder Y buscaremos de nuevo compras
+
+[00:49:07]
+verdad Entonces es es así porque
+
+[00:49:10]
+probablemente tengamos un Rally alcista
+
+[00:49:12]
+desde hoy día hasta
+
+[00:49:15]
+eh Diciembre enero va a poder como
+
+[00:49:20]
+Diciembre enero como en febrero febrero
+
+[00:49:23]
+marzo puede ser que corrija de nuevo se
+
+[00:49:25]
+viene otra noticia No sí se viene la
+
+[00:49:27]
+conferencia de Jeremy Powell ahorita la
+
+[00:49:29]
+vamos a poner para todos ustedes vamos a
+
+[00:49:32]
+poner para que estemos Aquí viendo al eh
+
+[00:49:34]
+Jeremy Powell que dice que es lo
+
+[00:49:37]
+importante que diga y ya en 30 en 10
+
+[00:49:40]
+minutos se viene la la la la conferencia
+
+[00:49:43]
+y una vez ya que esté la conferencia
+
+[00:49:45]
+pues va a hablar un rato y vamos a ver
+
+[00:49:47]
+cómo reaccionan los mercados y se
+
+[00:49:49]
+terminaría el show por el día de hoy ya
+
+[00:49:52]
+esto es cada mes cada mes Cada cuánto Sí
+
+[00:49:56]
+cada mes se hace este tipo de cosas No
+
+[00:49:57]
+más que los anteriores meses fueron más
+
+[00:49:59]
+aburridos
+
+[00:50:00]
+porque pues no se tocaron las tasas de
+
+[00:50:03]
+interés y pues es un poquito más
+
+[00:50:04]
+aburrido el mercado no hace tanto cuando
+
+[00:50:06]
+no se tocan las tases de interés pero
+
+[00:50:08]
+hoy sí hoy día Yo creo que se va ir t de
+
+[00:50:11]
+Moon esto esto tiene pinta de volar pero
+
+[00:50:13]
+enorme esto tiene pinta de volar enorme
+
+[00:50:16]
+Y probablemente mañana olvídense también
+
+[00:50:18]
+de las compras porque el mercado va a
+
+[00:50:20]
+subir con fuerza debe de ir el precio
+
+[00:50:23]
+probablemente de una se va a ir por
+
+[00:50:24]
+estos niveles de acá arriba ah después
+
+[00:50:27]
+de esos niveles donde yo creo que puede
+
+[00:50:28]
+volver a hacer una inducción es en el
+
+[00:50:30]
+decisional Ahí es donde puede hacer una
+
+[00:50:32]
+inducción en el extremo pero ya veremos
+
+[00:50:34]
+ya veremos dijo un ciego cuando ya el
+
+[00:50:36]
+mercado esté ahí arriba veremos cómo se
+
+[00:50:38]
+comporta yo de momento iré comprando
+
+[00:50:40]
+cada que el mercado retroceda si el
+
+[00:50:43]
+mercado se va fuerte con todo pues
+
+[00:50:44]
+estaríamos buscando una operación de
+
+[00:50:46]
+este estilo no estaríamos buscando algo
+
+[00:50:48]
+así y compramos por aquí o para arriba
+
+[00:50:51]
+at través de nuevo estaríamos buscando
+
+[00:50:53]
+una operación de ese estilo
+
+[00:50:57]
+y se va se va y ya nos deja como en
+
+[00:50:59]
+visto Si regresa Pues a nuestra
+
+[00:51:01]
+operación pues estaríamos entrando y
+
+[00:51:03]
+pidiéndole adiosito que salga bien Crees
+
+[00:51:06]
+que con estas noticias vaya para arriba
+
+[00:51:08]
+Sí ya te lo había dicho desde que
+
+[00:51:11]
+iniciamos el streaming desde que
+
+[00:51:13]
+iniciamos desde antes de hecho desde el
+
+[00:51:15]
+lunes le estaba diciendo Yo de compras
+
+[00:51:18]
+ya
+
+[00:51:20]
+este igual pues estamos en máximos
+
+[00:51:22]
+históricos vamos a ver qué sucede el oro
+
+[00:51:25]
+el oro oro no le baja el oro sí está a
+
+[00:51:28]
+por todas ver está a por todas mucha
+
+[00:51:32]
+gente que estaba en ventas aquí en el
+
+[00:51:33]
+oro fue tremendamente líquida Es que la
+
+[00:51:37]
+tendencia no puede ser tu enemiga Porque
+
+[00:51:39]
+si la tendencia es tu enemiga tienes un
+
+[00:51:41]
+grave problema amigo Eh entonces cuidado
+
+[00:51:43]
+a la gente que le gusta tomar TR contra
+
+[00:51:45]
+tendencia sálganse rapidito metan break
+
+[00:51:48]
+evens o hagan algo porque fíjense
+
+[00:51:50]
+históricamente ir ir contra tendencia es
+
+[00:51:54]
+un poquito y lo he aprendido un poquito
+
+[00:51:56]
+a la mala y ahora este
+
+[00:51:58]
+2024/25 que vamos a empezar a hacer
+
+[00:52:01]
+trading o bueno a seguir haciendo
+
+[00:52:02]
+trading estamos tratando de mejorar ese
+
+[00:52:05]
+aspecto un poco verdad sí se pueden
+
+[00:52:07]
+tomar tres contratendencia Yo no digo
+
+[00:52:09]
+que no pero tienes que tener mucho
+
+[00:52:12]
+cuidado y saber qué tipo de Trade y una
+
+[00:52:14]
+vez que el mercado ves que no cayó que
+
+[00:52:16]
+se puso aquí es que el oro debió de
+
+[00:52:18]
+haber caído aquí verad por aquí no lo
+
+[00:52:20]
+hizo ya ten cuidado no ten cuidado
+
+[00:52:23]
+porque fíjate que la cuña la cuña
+
+[00:52:25]
+alcista era
+
+[00:52:27]
+la cuña alcista era fuerte entonces
+
+[00:52:30]
+tenga cuidado Entonces qué qué qué pasa
+
+[00:52:33]
+chicos sigue saliendo información no
+
+[00:52:35]
+sigue saliendo información por aquí
+
+[00:52:37]
+vamos a ir poniendo el
+
+[00:52:40]
+directo el directo a ver vamos a ver si
+
+[00:52:43]
+creo que ya está vamos a ver
+
+[00:52:45]
+configurando
+
+[00:52:47]
+eh discurso de pell en
+
+[00:52:55]
+español buen Aquí ya está un
+
+[00:53:00]
+poquito no está hablando Jeremy Powell
+
+[00:53:03]
+en cuanto empiece a trate de hablar
+
+[00:53:04]
+jerem lo empiece a hablar lo voy a poner
+
+[00:53:07]
+por acá Igual vamos a dejar aquí el
+
+[00:53:09]
+mercado vamos a dejar este aquí el
+
+[00:53:12]
+mercado el nasdaq me interesa más porque
+
+[00:53:14]
+el nasdaq tenemos una entrada entonces
+
+[00:53:16]
+queremos ver el nasdaq a ver si elp 500
+
+[00:53:19]
+se atreve a bajar el oro Pues ahí está
+
+[00:53:22]
+to the moon la plata también el el
+
+[00:53:26]
+también está de Moon la libra también se
+
+[00:53:29]
+veía peor los pares de forex y fueron
+
+[00:53:31]
+los que mejor salieron chicos ver que
+
+[00:53:33]
+vean la expectativa puede ser una y el
+
+[00:53:35]
+final de la operación puede ser otra los
+
+[00:53:38]
+pares de forex se verían más más lentos
+
+[00:53:40]
+y fíjense que dieron mucho más una
+
+[00:53:42]
+entrada mucho mejores que la libra pero
+
+[00:53:45]
+el euro el euro estaba bien pero
+
+[00:53:48]
+temprano el euro pero yo no pero Euro yo
+
+[00:53:50]
+pero solamente pero solamente me encargo
+
+[00:53:53]
+aquí de ha un analista para todos
+
+[00:53:55]
+ustedes Entonces
+
+[00:53:58]
+este pues no no no no no todavía no
+
+[00:54:01]
+llega pell no llega pell vamos a esperar
+
+[00:54:03]
+a ver que llegue p para que se ponga más
+
+[00:54:05]
+bueno Esto atención ante la Fed bajar
+
+[00:54:08]
+los tipos de interés Estos tipos están
+
+[00:54:10]
+aquí analizando o Igualmente ahorita se
+
+[00:54:13]
+los pondré quitaré también la música
+
+[00:54:15]
+Supongo y Les pondré la conferencia de
+
+[00:54:18]
+Jeremy Powell para que la veamos todos
+
+[00:54:20]
+en directo y estemos aquí un ratito eh
+
+[00:54:23]
+analizando cuéntenme chicos Cómo van eh
+
+[00:54:26]
+compras largo ventas cómo le salieron
+
+[00:54:29]
+hoy están operando no están operando eh
+
+[00:54:32]
+les está yendo bien les está yendo mal
+
+[00:54:34]
+Qué onda cómo cómo están el día de hoy
+
+[00:54:36]
+el streaming se escucha bien a ver voy a
+
+[00:54:38]
+probar el
+
+[00:54:42]
+audio creo que todo va bien todo va
+
+[00:54:45]
+Perfecto entonces excelente el nz que
+
+[00:54:48]
+aquí que se quiso poner medio depresivo
+
+[00:54:49]
+vamos a ver la velita que les guste a
+
+[00:54:51]
+ustedes les gusta la velita hombre
+
+[00:54:54]
+regresó ahí fuerte
+
+[00:54:57]
+eso fuerte al principio aquí pegó un
+
+[00:54:59]
+medio mechaz de estos dos bajos iguales
+
+[00:55:02]
+y después de pegar ese mechaz vino para
+
+[00:55:04]
+arriba asmar toda la liquidez High frame
+
+[00:55:07]
+y ahora de nuevo regreso esto debería
+
+[00:55:10]
+seguir subiendo debería seguir subiendo
+
+[00:55:13]
+yo creo que va a seguir subiendo se me
+
+[00:55:16]
+hace raro que el institucional no le
+
+[00:55:17]
+haya gustado tomar la liquidez abajo
+
+[00:55:19]
+pero bueno ya la institucional a veces
+
+[00:55:22]
+es y de hecho reaccionó el precio de
+
+[00:55:25]
+este punto de aquí no no Aquí la gente
+
+[00:55:27]
+que opera por Smart Money tradicional se
+
+[00:55:30]
+la gozó se la gozó porque ahí es una
+
+[00:55:33]
+ruptura estructura es el punto de
+
+[00:55:35]
+interés y más que yo estaba esperando
+
+[00:55:37]
+más la liquidez que que eso Pero bueno
+
+[00:55:41]
+vamos a ver todavía todavía vamos a ver
+
+[00:55:43]
+qué dice Jeremy Powell estamos a 4
+
+[00:55:45]
+minutos Ahora sí chicos de que hable
+
+[00:55:47]
+Jeremy Powell a ver qué dice este hombre
+
+[00:55:50]
+el Power Ranger a ver qué dice de los
+
+[00:55:52]
+mercados estábamos expectantes a ver qué
+
+[00:55:54]
+dicen de la conferencia el sp500 no ha
+
+[00:55:58]
+podido regresar tanto el3 se mantiene un
+
+[00:56:01]
+poquito
+
+[00:56:03]
+lento el euro ya está un poquito con la
+
+[00:56:07]
+resistencia esta del extremo este
+
+[00:56:09]
+decisional perdón el decisional este es
+
+[00:56:12]
+una zona de oferta una zona de oferta
+
+[00:56:16]
+toda esa zona de ahí batallando ahí un
+
+[00:56:18]
+poco vamos a ver si consigue reventar
+
+[00:56:21]
+esa zona o realmente va a poder este
+
+[00:56:23]
+caer a partir de ahí gustaría ver la
+
+[00:56:26]
+tenos toda esa área de ahí de la libra
+
+[00:56:30]
+esa área histórica s est la zona
+
+[00:56:33]
+histórica para la libra vamos a ver si
+
+[00:56:35]
+revienta ese nivel histórico la libra no
+
+[00:56:37]
+había podido llegar al
+
+[00:56:39]
+1.33 33 aproximadamente desde marzo del
+
+[00:56:45]
+2022 es un nivel importante mensual
+
+[00:56:48]
+Entonces vamos a ver si la libra
+
+[00:56:50]
+consigue llegar ahí el bitcoin está que
+
+[00:56:53]
+no quiere superar los 60 000 sigue
+
+[00:56:58]
+resistiéndose ahí ha picoteado los 61000
+
+[00:57:02]
+pero no no no no quiere no quiere el
+
+[00:57:04]
+bitcoin está un poquito un poquito
+
+[00:57:06]
+renuente vamos a ver si ahora que hable
+
+[00:57:08]
+Jeremy Powell quiere ir ahí esto para
+
+[00:57:11]
+raro para raro para raro bueno ya está
+
+[00:57:15]
+yo creo que no hay nada más interesante
+
+[00:57:18]
+ahí este nos quedaríamos con el nasdaq
+
+[00:57:21]
+de nuevo y vamos a ver qué sucede esto
+
+[00:57:23]
+chicos los Leo por acá n nad nadie
+
+[00:57:26]
+Comenta más estamos esperando Jeremy po
+
+[00:57:28]
+2 minutos creo que ahora sí yo creo que
+
+[00:57:31]
+ya les puedo poner la conferencia porque
+
+[00:57:33]
+quedan 2s minutos vamos a quitar el
+
+[00:57:35]
+audio de
+
+[00:57:36]
+la y vamos a poner
+
+[00:57:39]
+la vamos a irla
+
+[00:57:45]
+viendo están analizando p
+
+[00:57:49]
+aquí lo que es lo mismo
+
+[00:57:53]
+Power el discurso en teoría
+
+[00:57:57]
+por la calidad se mira fea no sé si la
+
+[00:57:59]
+calidad de ellos la tengan tan
+
+[00:58:04]
+baja y
+
+[00:58:06]
+pero la
+
+[00:58:22]
+tengo que quiero quiero poner como doble
+
+[00:58:26]
+no ha funcionado así
+
+[00:58:28]
+convar s Así que se ve perfecto les
+
+[00:58:31]
+gusta o no les gusta like o no
+
+[00:58:34]
+like les gusta no les
+
+[00:58:37]
+gusta quieren que mutea a los
+
+[00:58:39]
+comentaristas o quieren que los ponga
+
+[00:58:41]
+más más
+
+[00:58:43]
+altos A ver déjame aquí escucho Cómo
+
+[00:58:49]
+se los en el 37 por lo más
+
+[00:58:59]
+Ah el oron el nasda te ve un poquito
+
+[00:59:03]
+tengo que quitar
+
+[00:59:12]
+así lo puedo poner un poquito más
+
+[00:59:15]
+lanto un
+
+[00:59:19]
+pel unas bajadas pequeñas al final Pues
+
+[00:59:22]
+y luego una cierta reacer no tiene tanto
+
+[00:59:25]
+tanta preocupación pero yo creo muestra
+
+[00:59:28]
+Es que la actividad económica pasa a ser
+
+[00:59:30]
+la prioridad número un ahora mismo y la
+
+[00:59:33]
+escucha
+
+[00:59:34]
+bien Pedro a un año
+
+[00:59:37]
+vista 325 350 y lo que simplemente
+
+[00:59:42]
+meterse 325 350 Ahí va y lo que ha hecho
+
+[00:59:46]
+la vol per y lo que está haciendo que no
+
+[00:59:50]
+tiene nada que ver con recesión o no
+
+[00:59:52]
+Están volviendo a una política
+
+[00:59:55]
+restrictiva acercarse una política
+
+[00:59:57]
+neutral el resto son si si las datos
+
+[01:00:01]
+vienen mal pues evidente hará mal y si
+
+[01:00:03]
+vienen y vi un pelín n más para que mi
+
+[01:00:06]
+voz se escuche más
+
+[01:00:10]
+fuerte brevemente que está a punto de
+
+[01:00:12]
+aparecer pw a un año vista hacia dónde
+
+[01:00:15]
+bueno aparece pell muy rápido Hacia
+
+[01:00:18]
+dónde Hacia dónde pues tenemos Claro que
+
+[01:00:21]
+a final de año pues 1% es decir de 025
+
+[01:00:26]
+más y de cara al año que viene entre 075
+
+[01:00:30]
+más 050 entonces ahí también
+
+[01:00:36]
+37550 más o menos los tipos a un año
+
+[01:00:39]
+vista es muy difícil hacer Muchísimas
+
+[01:00:41]
+gracias Sandra que está hablando pa
+
+[01:00:42]
+Sandra
+
+[01:00:45]
+Mariano Buena tarde buena noche buen
+
+[01:00:47]
+negocio a los
+
+[01:00:48]
+cuat son las 8:30 tenemos a ya vamos a
+
+[01:00:52]
+escucharle
+
+[01:01:01]
+se escucha mal el audio de
+
+[01:01:12]
+ellos mute porque escucha mal el audio
+
+[01:01:15]
+de estos vatos lo
+
+[01:01:22]
+arreglan quiero que lo traduzcan
+
+[01:01:47]
+traducen a
+
+[01:01:52]
+traducir que no inglés chicos
+
+[01:02:08]
+todo sigue igual el dólar se sigue
+
+[01:02:10]
+enterrando el
+
+[01:02:15]
+euro ahí está el
+
+[01:02:22]
+bitcoin un crecimiento del
+
+[01:02:26]
+má sólida con una proción del 2% Durante
+
+[01:02:29]
+los próximos
+
+[01:02:31]
+años en el mercado laboral las
+
+[01:02:33]
+condiciones siguen
+
+[01:02:35]
+mejorando las ganancias están sobre unas
+
+[01:02:38]
+160.000 empleos de media al mes a un
+
+[01:02:42]
+ritmo sólido en relación Durante este
+
+[01:02:44]
+año la tasa de desempleo se mantiene
+
+[01:02:48]
+baja en un
+
+[01:02:52]
+4,1 la creación de empleo se mantiene
+
+[01:02:56]
+bastante elevada y se ha reducido la
+
+[01:02:59]
+brecha no Dani entre la oferta y la no
+
+[01:03:01]
+entró no se ganó no entró no llegó al
+
+[01:03:06]
+nivel que yo esperaba el mercado laboral
+
+[01:03:08]
+no es una fuente de presión en cuanto la
+
+[01:03:12]
+ese nombre ese nombre dan
+
+[01:03:16]
+Boy Bueno me callo que está
+
+[01:03:19]
+hablando se ha reducido notablemente
+
+[01:03:22]
+Durante los últimos años pero está por
+
+[01:03:23]
+encima de Nuestro objetivo del 2%
+
+[01:03:26]
+basándonos en el pce y otros
+
+[01:03:30]
+datos el aumento del pce está por encima
+
+[01:03:34]
+del 2% a finales de agosto excluyendo
+
+[01:03:38]
+las categorías de
+
+[01:03:44]
+alimentación la inflación a largo plazo
+
+[01:03:47]
+se mantiene bien anclada según las
+
+[01:03:50]
+encuestas a los hogares a los negocios y
+
+[01:03:53]
+algunas medidas de los mercados fin
+
+[01:03:58]
+la proyección del pce a medio plazo es
+
+[01:04:00]
+un
+
+[01:04:02]
+2 6% en este año un poco más reducida
+
+[01:04:07]
+que lo que se esperaba en
+
+[01:04:12]
+junio nuestras políticas monetarias
+
+[01:04:15]
+están guiadas por nuestro mandato Dual
+
+[01:04:18]
+para poder promover unos precios
+
+[01:04:20]
+estables y un empleo
+
+[01:04:22]
+máximo durante estos útimos años se ha
+
+[01:04:26]
+mantenido por encima del 2% y las
+
+[01:04:28]
+condiciones del mercado laboral han sido
+
+[01:04:31]
+bastante
+
+[01:04:34]
+restrictivas somos conscientes que una
+
+[01:04:36]
+alta
+
+[01:04:38]
+inflación ocasiona problemas ya que
+
+[01:04:41]
+quita poder adquisitivo especialmente
+
+[01:04:43]
+aquellas familias y personas que tienen
+
+[01:04:46]
+problemas para poder lograr los bienes
+
+[01:04:49]
+más Prados como puede ser el hogar la
+
+[01:04:51]
+electricidad y la alimentación
+
+[01:04:57]
+tenemos que mantenernos en Nuestro
+
+[01:04:59]
+objetivo de reducir el
+
+[01:05:01]
+2% pero nuestros
+
+[01:05:03]
+esfuerzos están dando sus frutos estamos
+
+[01:05:06]
+más cerca de Nuestro objetivo Y tenemos
+
+[01:05:08]
+una confianza para poder reducir la
+
+[01:05:11]
+inflación a Nuestro objetivo del
+
+[01:05:14]
+200 con la reducción de la inflación y
+
+[01:05:17]
+un enfriamiento del
+
+[01:05:19]
+mercado y de la tensión el mercado
+
+[01:05:21]
+laboral Uy uy uy se regresó el
+
+[01:05:24]
+mercado
+
+[01:05:26]
+queremos y estamos obteniendo un mayor
+
+[01:05:29]
+equilibrio pero también somos
+
+[01:05:31]
+conscientes del riesgo de
+
+[01:05:33]
+ambos nuestro
+
+[01:05:37]
+mandato en en la reunión de hoy hemos
+
+[01:05:41]
+hemos decidido reducir el rango objetivo
+
+[01:05:44]
+del tipo de interés de los fondos
+
+[01:05:45]
+federales y esta
+
+[01:05:47]
+reequilibra nos ayudará a poder mantener
+
+[01:05:50]
+la fortaleza de nuestra Economía del
+
+[01:05:52]
+mercado laboral y continuaremos
+
+[01:05:54]
+trabajando para
+
+[01:06:00]
+reducir no estamos en ningún
+
+[01:06:04]
+camino ya preestablecido sino que iremos
+
+[01:06:07]
+tomando las decisiones reunión tras
+
+[01:06:10]
+reunión sabemos que tomar unas
+
+[01:06:12]
+decisiones
+
+[01:06:13]
+demasiado pronto Podría tener una
+
+[01:06:16]
+percusión una repercusión
+
+[01:06:20]
+negativa pero siempre vamos a tener en
+
+[01:06:22]
+consideración los ajustes que sean
+
+[01:06:24]
+necesarios tenendo en cuenta la
+
+[01:06:26]
+información que
+
+[01:06:29]
+recibamos los
+
+[01:06:33]
+riesgos en nuestra
+
+[01:06:37]
+reuniónes han escrito su evaluación
+
+[01:06:40]
+explicando cuál puede ser el futuro
+
+[01:06:47]
+escenario y la mayoría
+
+[01:06:50]
+es el rango objetivo tipo interés en los
+
+[01:06:53]
+fondos federales ser 4% a finales de
+
+[01:06:57]
+este año estas
+
+[01:07:01]
+proyecciones se
+
+[01:07:04]
+mantienen alineadas con lo que teníamos
+
+[01:07:07]
+pensado pero estas proyecciones no son
+
+[01:07:10]
+nuestro plan sino que como les
+
+[01:07:12]
+mencionaba según recibamos la
+
+[01:07:14]
+información iremos Ajustando los datos
+
+[01:07:16]
+para poder alcanzar una estabilidad de
+
+[01:07:18]
+los
+
+[01:07:19]
+precios si el mercado se mantiene Sólido
+
+[01:07:23]
+y la inflación se mantiene
+
+[01:07:27]
+Seguiremos como
+
+[01:07:29]
+previsto pero siempre estamos preparados
+
+[01:07:31]
+para
+
+[01:07:32]
+responderas políticas siempre
+
+[01:07:35]
+están listas para poder conseguir
+
+[01:07:38]
+nuestras objetivos del mandato
+
+[01:07:45]
+Dual siempre queremos un empleo máximo y
+
+[01:07:48]
+una estabilización de los precios
+
+[01:07:50]
+reduciendo la inflación a Nuestro
+
+[01:07:53]
+objetivo del 2%
+
+[01:07:56]
+y mantener nuestras expectativas bien
+
+[01:07:58]
+ancladas nuestro éxito de tener estos
+
+[01:08:01]
+objetivos son importantes para todo el
+
+[01:08:03]
+mundo sabemos que nuestras acciones
+
+[01:08:05]
+afectan a comunidades familias y
+
+[01:08:07]
+empresas de todo el país todo lo que
+
+[01:08:09]
+hacemos está al servicio de nuestra
+
+[01:08:10]
+misión pública en la reserva Federal
+
+[01:08:13]
+haremos todo lo posible para alcanzar
+
+[01:08:15]
+nuestros objetivos de Máximo empleo y
+
+[01:08:17]
+estabilidad de precios gracias espero
+
+[01:08:20]
+sus preguntas se acabó ahora vienen las
+
+[01:08:23]
+preguntas Gracias presidente por eh
+
+[01:08:26]
+darnos la oportunidad de hablar Fue
+
+[01:08:28]
+bastante compasivo con el mercado po en
+
+[01:08:31]
+julio hablabas de la información de la
+
+[01:08:35]
+inflación que no era de todo como se
+
+[01:08:38]
+esperaba Entonces cómo respondería ahora
+
+[01:08:42]
+las preocupaciones de que la Fed ahora
+
+[01:08:45]
+está a lo mejor más del mercado laboral
+
+[01:08:47]
+que de la
+
+[01:08:49]
+inflación En qué nos deberíamos basar
+
+[01:08:51]
+para tomar este tipo de decisiones
+
+[01:08:56]
+bueno no creo que el nasdaq ya venga ahí
+
+[01:08:59]
+abajo desde la última reunión si lo hace
+
+[01:09:02]
+lo va a hacer otro día hemos tenido
+
+[01:09:04]
+muchísima información hemos tenido la
+
+[01:09:07]
+información la inflación hemos tenido
+
+[01:09:10]
+También las revisiones de el mercado
+
+[01:09:16]
+laboral también hemos
+
+[01:09:20]
+tenido la información de que quizá
+
+[01:09:26]
+la información que teníamos del mercado
+
+[01:09:28]
+laboral era del
+
+[01:09:30]
+todo Tampoco
+
+[01:09:33]
+subi
+
+[01:09:35]
+hemoso
+
+[01:09:38]
+mjor puede ser
+
+[01:09:42]
+quea con ello tomamos las
+
+[01:09:49]
+decisiones era la pregunta
+
+[01:09:55]
+qué nos teníamos que basar para los
+
+[01:09:56]
+próximos meses para tomar las
+
+[01:09:59]
+decisiones Vale pues un buen lugar para
+
+[01:10:03]
+empezar sería los datos del pce pero
+
+[01:10:06]
+como les decía vamos a tomar las
+
+[01:10:08]
+decisiones reunión TR reunión evaluando
+
+[01:10:11]
+los riesgos tomando toda la información
+
+[01:10:13]
+que tengamos Y si vemos todo
+
+[01:10:19]
+esto verán que es un proceso de
+
+[01:10:21]
+recalibrar nuestra política
+
+[01:10:25]
+De hecho hace un año cuando la inflación
+
+[01:10:27]
+era elevada y el mercado laboral estaba
+
+[01:10:31]
+más tenso pues tomamos unas decisiones
+
+[01:10:33]
+que ahora estamos recalibrando pero no
+
+[01:10:35]
+hay nada que indique que tengamos que
+
+[01:10:38]
+hacerlo de forma rápida es un aquí hacer
+
+[01:10:43]
+un
+
+[01:10:44]
+nuevo rompa estructura interna
+
+[01:10:48]
+aquí lo que vamos a hacer va depender de
+
+[01:10:51]
+cómo evolucion la economía podemos
+
+[01:10:53]
+acelerar nuestros procesos
+
+[01:11:00]
+este
+
+[01:11:03]
+canal y lo que he dicho simplemente es
+
+[01:11:07]
+una reflexión de lo que está pensando el
+
+[01:11:09]
+comité Federal
+
+[01:11:14]
+del simplemente son
+
+[01:11:19]
+previsiones vale desde la prensa
+
+[01:11:21]
+asociada
+
+[01:11:26]
+según los
+
+[01:11:28]
+análisis se decía que el rango objetivo
+
+[01:11:30]
+del tipo de interés de los
+
+[01:11:36]
+[Música]
+
+[01:11:42]
+fondos el mercado laboral va a cambiar
+
+[01:11:45]
+có está la
+
+[01:11:47]
+situación Bueno creo queada
+
+[01:11:56]
+y lo estima y hay una gran variación hay
+
+[01:11:59]
+un gran
+
+[01:12:02]
+Rango entonces nuestros enfoques siempre
+
+[01:12:05]
+son bastante
+
+[01:12:07]
+empíricos
+
+[01:12:09]
+pero realmente no hay ninguna certeza de
+
+[01:12:12]
+cómo va a
+
+[01:12:14]
+funcionar escribimos y pensamos lo que
+
+[01:12:17]
+es como un caso práctico y echamos un
+
+[01:12:20]
+vistazo a cómo reacciona la economía
+
+[01:12:25]
+esto nos va a guiar en cada reunión con
+
+[01:12:29]
+nuestras estándares y nuestras
+
+[01:12:33]
+políticas por ejemplo en junio del
+
+[01:12:37]
+2023 desempleo del 3% y una inflación
+
+[01:12:40]
+del 2
+
+[01:12:42]
+3% hoy la inflación se ha reducido a
+
+[01:12:47]
+casi un poco por encima del 2% sabemos
+
+[01:12:50]
+que ahora es el momento de recalibrar
+
+[01:12:52]
+nuestras políticas con respecto a
+
+[01:12:58]
+seado progreso de la inflación y del
+
+[01:13:01]
+mercado laboral
+
+[01:13:03]
+M1 Entonces está equilibrio y estos
+
+[01:13:06]
+riesgos están más equilibr
+
+[01:13:12]
+ahora y tomaremos las
+
+[01:13:16]
+decisiones tan rápido
+
+[01:13:21]
+tan según el caso
+
+[01:13:26]
+e el bitcoin
+
+[01:13:29]
+pobrecito noere 61000 son del
+
+[01:13:35]
+demonio el
+
+[01:13:41]
+[&nbsp;__&nbsp;] era est habéis tomado una
+
+[01:13:45]
+decisión en común o ha sido bastante
+
+[01:13:53]
+acalorada bueno la verdad es que ha
+
+[01:13:56]
+sido
+
+[01:13:58]
+un un debate bastante
+
+[01:14:03]
+vivo creo que ha habido un gran respaldo
+
+[01:14:05]
+para la decisión y todo el comité ha
+
+[01:14:07]
+votado Lu 30
+
+[01:14:09]
+Pobrecito y los 19
+
+[01:14:15]
+[Música]
+
+[01:14:16]
+participantes escrito que había
+
+[01:14:18]
+reducciones es un gran cambio desde
+
+[01:14:20]
+junio de
+
+[01:14:25]
+dicho 17 de los
+
+[01:14:27]
+19 preveía más reducciones y más
+
+[01:14:32]
+recortes Así que como les decía hay
+
+[01:14:36]
+varias opiniones y hay diferentes
+
+[01:14:40]
+rangos el Us 30 ya perdió lo que había
+
+[01:14:43]
+subido tod lo que había subido se lo se
+
+[01:14:46]
+lo
+
+[01:14:51]
+fumó vamos a tomar las decisiones
+
+[01:14:53]
+reunión tras reunión tio de
+
+[01:14:57]
+prisa hemos hecho un buen comienzo Y
+
+[01:15:01]
+esto es sin ninguna duda un signo de
+
+[01:15:04]
+confianza porque la inflación se está
+
+[01:15:06]
+acercando al
+
+[01:15:09]
+2% esto implica que podemos hacer un
+
+[01:15:11]
+buen el oro ya va por el mismo camino
+
+[01:15:15]
+perder todo lo que hab contento por
+
+[01:15:19]
+ello sabíamos dónde comenzar pero
+
+[01:15:22]
+tenemos que ir reunión tras reunión
+
+[01:15:24]
+cuidadosamente
+
+[01:15:26]
+reot el
+
+[01:15:27]
+dó rebotó el dólar dónde en el
+
+[01:15:32]
+extremo desde el New York Times
+
+[01:15:34]
+rebotando en el extremo
+
+[01:15:38]
+LoL tú y tus
+
+[01:15:41]
+compañeros la reunión de
+
+[01:15:46]
+hoyon para los que ir contra la
+
+[01:15:49]
+corriente en la inflación y también una
+
+[01:15:53]
+mejora una estabilización en el mercado
+
+[01:15:55]
+laboral Entonces cómo contemplan esto
+
+[01:15:58]
+Cómo o por qué se ha creado esta
+
+[01:16:00]
+estabilización y cuáles son los
+
+[01:16:02]
+riesgos el mercado laboral ahora mismo
+
+[01:16:05]
+está en una condición bastante sólida y
+
+[01:16:07]
+nuestras políticas están focalizadas en
+
+[01:16:10]
+mantenerlo
+
+[01:16:12]
+así está creciendo en un paso sólido el
+
+[01:16:17]
+mercado laboral se mantiene robusto y lo
+
+[01:16:19]
+queremos mantener así al mismo tiempo
+
+[01:16:20]
+que reduir no me pó un poquito de sueño
+
+[01:16:23]
+chicos me bajó la energía ya
+
+[01:16:26]
+como arrar
+
+[01:16:32]
+el
+
+[01:16:36]
+desot de
+
+[01:16:38]
+nuevo puso Rango pero igual la
+
+[01:16:47]
+dirección yo quiero que venga Mi entrada
+
+[01:16:53]
+es pero
+
+[01:16:56]
+se van a esperar más reducciones de
+
+[01:17:00]
+tipos creen que lo han aplicado de forma
+
+[01:17:05]
+tardía Vale
+
+[01:17:08]
+pues creo que no que lo hemos hecho de
+
+[01:17:11]
+forma adecuada en el momento 43 encima
+
+[01:17:17]
+el 44 y creo que hay una diferencia
+
+[01:17:20]
+entre el rango objetivo tipo interés de
+
+[01:17:22]
+los fondos federales de ahora yn casi
+
+[01:17:25]
+está ganando pero muy poco
+
+[01:17:27]
+y Bueno creo que al final el nas el nas
+
+[01:17:32]
+como les mencionaba en julio del 2023
+
+[01:17:36]
+que era un momento de una inflación
+
+[01:17:37]
+elevada y de unas condiciones
+
+[01:17:40]
+laborales complicadas ahí sí que nos
+
+[01:17:45]
+manteníamos Y sesamos si teníamos que
+
+[01:17:49]
+cambiar el rango objetivo y ahora
+
+[01:17:52]
+podemos ver los resultados de nuestra
+
+[01:17:54]
+paciencia y entonces Esto es lo que nos
+
+[01:17:59]
+permite hacer estos movimientos o tener
+
+[01:18:02]
+la confianza de hacer estos cambios a
+
+[01:18:04]
+día de
+
+[01:18:06]
+hoy por supuesto Tenemos que pasar
+
+[01:18:09]
+pensar siempre en el caso práctico hay
+
+[01:18:12]
+que echar un
+
+[01:18:15]
+vistazo y recalibrar las
+
+[01:18:19]
+políticas a unos niveles más
+
+[01:18:22]
+neutrales y estamos haciendo esto a un
+
+[01:18:26]
+ritmo que creemos que es adecuado
+
+[01:18:28]
+teniendo en cuenta la
+
+[01:18:31]
+economía lo ajustaremos de forma más
+
+[01:18:33]
+rápida o de forma más lenta si es
+
+[01:18:51]
+necesario sería ahora el enfoque
+
+[01:18:55]
+y de las
+
+[01:18:58]
+políticas de la reserva Federal Bueno
+
+[01:19:01]
+pues la reserva siguen siendo ahora
+
+[01:19:03]
+bastante
+
+[01:19:06]
+abundantes y lo que creo que nos dice
+
+[01:19:09]
+esto es
+
+[01:19:12]
+que no vamos a paralizar el ran sino que
+
+[01:19:17]
+sabemos que pueden ocurrir estas dos
+
+[01:19:20]
+cosas de forma
+
+[01:19:22]
+coetánea y podemos reducir mismo tiempo
+
+[01:19:25]
+los
+
+[01:19:32]
+tipos en relación al aumento al
+
+[01:19:35]
+desempleo Esta es su perspectiva de la
+
+[01:19:38]
+función de una normalización del mercado
+
+[01:19:40]
+laboral entre la oferta la demanda o es
+
+[01:19:43]
+que hay algo enant a las
+
+[01:19:47]
+métricas diferente en cuanto a la
+
+[01:19:49]
+demanda del mercado
+
+[01:19:53]
+laboral es decir No deberíamos esperar
+
+[01:19:56]
+una deterioración en las condiciones del
+
+[01:19:58]
+mercado
+
+[01:20:00]
+laboral que todavía se mantienen
+
+[01:20:03]
+bastante
+
+[01:20:08]
+restrictivas sí las
+
+[01:20:11]
+políticas se mantienen así pero estamos
+
+[01:20:14]
+muy cercas
+
+[01:20:16]
+de un empleo máximo lo que nos
+
+[01:20:23]
+está
+
+[01:20:26]
+mando es
+
+[01:20:29]
+intentar crear los máximos números de
+
+[01:20:33]
+empleo para poder volver a un mercado
+
+[01:20:36]
+laboral como el 2019 en niveles
+
+[01:20:38]
+prepandemia
+
+[01:20:44]
+evidentemente estamos observando el
+
+[01:20:46]
+mercado laboral de
+
+[01:20:48]
+forma muy cuidadosa pero vamos a
+
+[01:20:53]
+recalibrar políticas que sean
+
+[01:20:56]
+necesarias teniendo en cuenta la
+
+[01:20:59]
+información que recibamos Día tras
+
+[01:21:02]
+día y todos los indicadores que tenemos
+
+[01:21:05]
+Es que la economía está creciendo a un
+
+[01:21:08]
+paso Sólido y esto ayudará al mercado
+
+[01:21:11]
+laboral a la larga pero de nuevo Hay que
+
+[01:21:18]
+observar y en relación a las posibles
+
+[01:21:21]
+desfios que estamos empezando a
+
+[01:21:22]
+contemplar esto afectaría una posible
+
+[01:21:27]
+recesión nuestro plan ha sido comenzar a
+
+[01:21:31]
+recalibrar las políticas y no nos
+
+[01:21:33]
+estamos escuchando ni viendo ninguna
+
+[01:21:36]
+especie de despidos pasivos Así que no
+
+[01:21:39]
+estamos esperando nada como
+
+[01:21:42]
+tal y creemos que el momento de dar
+
+[01:21:46]
+respaldo al mercado laboral es cuando
+
+[01:21:48]
+está también fuerte y no cuando
+
+[01:21:50]
+empezamos a ver despidos
+
+[01:21:54]
+hemos empezado ahora el ciclo de
+
+[01:21:56]
+terminar las
+
+[01:21:58]
+restricciones Pero por supuesto vamos a
+
+[01:22:01]
+tener en cuenta toda la información que
+
+[01:22:03]
+tengamos sobre la mesa y tomar las
+
+[01:22:05]
+decisiones reunión tras
+
+[01:22:07]
+reunión desde bloomber
+
+[01:22:13]
+TV qué significaría para vosotros y para
+
+[01:22:16]
+el comité una deterioración del mercado
+
+[01:22:19]
+laboral en el próximo año tenemos una
+
+[01:22:23]
+reducción 200 puntos básicos
+
+[01:22:28]
+Entonces nos trasladarían a unas
+
+[01:22:31]
+políticas monetarias un
+
+[01:22:35]
+poco más relajadas o van a esperar a ver
+
+[01:22:40]
+una información más exacta Bueno vamos
+
+[01:22:44]
+simplemente a esperar toda la
+
+[01:22:46]
+información Si vemos que el mercado
+
+[01:22:48]
+laboral de
+
+[01:22:50]
+repente está muy lento pues vamos a
+
+[01:22:53]
+aplicar las
+
+[01:22:56]
+Y si tenemos más confianza al respecto
+
+[01:22:58]
+pues actuaremos como tal pero al mismo
+
+[01:23:02]
+tiempo también tenemos que tener en
+
+[01:23:03]
+cuenta que queremos una inflación al
+
+[01:23:08]
+2% y la política sigue manteniéndose
+
+[01:23:16]
+restrictiva si se va a haber más
+
+[01:23:20]
+desempleo y se va a haber una mejora en
+
+[01:23:23]
+las polí
+
+[01:23:27]
+qué van a hacer al
+
+[01:23:29]
+respecto bueno no creo que tengamos que
+
+[01:23:32]
+ver un cambio en el mercado laboral para
+
+[01:23:33]
+poder tener el objetivo en de la
+
+[01:23:36]
+inflación al 2% y que podemos tener todo
+
+[01:23:39]
+esto en cuenta y simplemente dar Un paso
+
+[01:23:42]
+atrás y pensar qué estamos intentando
+
+[01:23:45]
+hacer restablecer la estabilidad de los
+
+[01:23:49]
+precios reducir el desempleo que a veces
+
+[01:23:53]
+va de la mano de esta inflación eso es
+
+[01:23:55]
+lo que estamos intentando hacer tomar la
+
+[01:23:58]
+acción y reforzar nuestro compromiso de
+
+[01:24:02]
+lograr este
+
+[01:24:06]
+objetivo desde Washington
+
+[01:24:12]
+post mencionas que no crees que están
+
+[01:24:15]
+por
+
+[01:24:16]
+detrás en cuanto a las políticas
+
+[01:24:18]
+necesarias del mercado laboral
+
+[01:24:24]
+mencionar algunas de las cosas que
+
+[01:24:26]
+señalar ahora del
+
+[01:24:30]
+desempleo bueno
+
+[01:24:32]
+el un 42 creo que diría que es lo más
+
+[01:24:38]
+importante si echamos un
+
+[01:24:41]
+vistazo Durante los últimos años es una
+
+[01:24:45]
+tasa de desempleo muy
+
+[01:24:47]
+saludable es un buen mercado laboral
+
+[01:24:55]
+también porque aparte está en buenos
+
+[01:25:00]
+niveles y los salarios están
+
+[01:25:04]
+todavía un poquito por
+
+[01:25:10]
+encima Para poder estar de forma
+
+[01:25:12]
+consistente con la inflación del 2% pero
+
+[01:25:15]
+están más o menos a unos niveles
+
+[01:25:17]
+sostenibles y las
+
+[01:25:21]
+vacantes están también en unos niveles
+
+[01:25:23]
+bastante
+
+[01:25:27]
+robustos de dos a uno a dos vacantes de
+
+[01:25:32]
+por persona desempleada lo cual creo que
+
+[01:25:36]
+son unos datos bastante
+
+[01:25:40]
+buenos hay un gran número de indicadores
+
+[01:25:45]
+de desempleo Y qué dicen en general que
+
+[01:25:49]
+el mercado laboral se se mantiene
+
+[01:25:51]
+bastante robusto
+
+[01:25:56]
+y cuando los riesgos de la inflación se
+
+[01:26:00]
+han paliado los riesgos consecuentes en
+
+[01:26:05]
+el desempleo
+
+[01:26:08]
+también se reducen y por lo tanto
+
+[01:26:10]
+estamos en una muy buena posición para
+
+[01:26:13]
+poder gestionar Y lograr nuestros
+
+[01:26:19]
+objetivos entre ahora y noviembre qué va
+
+[01:26:22]
+a ocurrir
+
+[01:26:24]
+a la próxima
+
+[01:26:27]
+reunión Bueno pues de nuevo observaremos
+
+[01:26:30]
+la información que tengamos informaremos
+
+[01:26:33]
+en cuanto a la información de los del
+
+[01:26:40]
+empleo también la información de la
+
+[01:26:43]
+inflación
+
+[01:26:44]
+siempre es cuestión de poder analizar la
+
+[01:26:48]
+información que recibamos y la
+
+[01:26:51]
+implicación que esta información nos
+
+[01:26:53]
+diga a ponerla en balance Cuáles son los
+
+[01:26:57]
+riesgos Cuáles son las consecuencias qué
+
+[01:26:59]
+políticas debemos aplicar al respecto y
+
+[01:27:02]
+Cómo podemos potenciar y estar un poco
+
+[01:27:06]
+más cerca de nuestros objetivos y así es
+
+[01:27:08]
+como es y es lo que estamos
+
+[01:27:10]
+haciendo desde
+
+[01:27:15]
+acos hemos estado creando unos
+
+[01:27:18]
+100000
+
+[01:27:20]
+empleos mensuales crees que ser
+
+[01:27:24]
+alarmante o cree que es algo por lo que
+
+[01:27:27]
+está
+
+[01:27:31]
+satisfecho también se estima que las
+
+[01:27:33]
+vacantes se están reduciendo
+
+[01:27:36]
+más de lo esperado ent cree que puede
+
+[01:27:41]
+haber un riesgo en el mercado laboral de
+
+[01:27:43]
+aquí al
+
+[01:27:46]
+futuro bueno
+
+[01:27:48]
+depende también del flujo de personas si
+
+[01:27:51]
+de repente lle
+
+[01:27:54]
+número de personas la oferta y la
+
+[01:27:56]
+demanda va a cambiar la volatibilidad de
+
+[01:27:58]
+la gente que llega a nuestro país puede
+
+[01:28:01]
+cambiar esto y sabemos que ha habido un
+
+[01:28:03]
+flujo transfronterizo que nos puede
+
+[01:28:06]
+afectar y esto también puede aumentar la
+
+[01:28:10]
+tasa de desempleo y es algo que tenemos
+
+[01:28:13]
+que observar y estar atentos y que
+
+[01:28:17]
+afecta a la a la
+
+[01:28:22]
+demanda y y también en el comité no
+
+[01:28:26]
+todos pero muchos de
+
+[01:28:30]
+Nosotros sabemos
+
+[01:28:33]
+que la oferta podemos llegar alcanzar su
+
+[01:28:39]
+máximo pero también esto implica que
+
+[01:28:41]
+luego puede venir una curva donde luego
+
+[01:28:44]
+tengamos un
+
+[01:28:49]
+desempleo Entonces esta declive
+
+[01:28:54]
+la reducción de las vacantes puede
+
+[01:28:57]
+también traducirse en
+
+[01:29:00]
+una un mayor
+
+[01:29:03]
+desempleo Pero por supuesto lo hemos
+
+[01:29:05]
+tenido en
+
+[01:29:07]
+cuenta para saber que puede afectar en
+
+[01:29:10]
+una tasa menor de
+
+[01:29:13]
+empleo desde Fox business sabemos que
+
+[01:29:16]
+hay algunas
+
+[01:29:17]
+especulaciones de que los tipos de
+
+[01:29:20]
+interés del fondo Federal podría estar
+
+[01:29:22]
+en un 3%
+
+[01:29:33]
+entonces cre que esto
+
+[01:29:34]
+es algo que se va a mantener
+
+[01:29:41]
+así Bueno
+
+[01:29:43]
+creo que de forma intuitiva no vamos a
+
+[01:29:47]
+volver a una era en la
+
+[01:29:50]
+que vamos a tener bonos de largo plazo
+
+[01:29:54]
+con tipos
+
+[01:29:58]
+negativos sino que por el momento lo que
+
+[01:30:01]
+parece o al menos así lo siento yo es
+
+[01:30:05]
+que no estamos no vamos a volver a esa
+
+[01:30:06]
+era Pero
+
+[01:30:09]
+simplemente al final lo descubriremos yo
+
+[01:30:12]
+personalmente
+
+[01:30:14]
+creo que el tipo neutral es bastante más
+
+[01:30:18]
+elevado de lo que era aquel
+
+[01:30:21]
+entonces es algo que
+
+[01:30:24]
+No lo sé pero es algo que
+
+[01:30:28]
+así y cómo respondería a que lauc de los
+
+[01:30:31]
+tipo de interés apliquen ahora con las
+
+[01:30:33]
+elecciones a la vuelta de la esquina
+
+[01:30:35]
+Bueno al final es mi cuarto mandato aquí
+
+[01:30:38]
+con la reserva
+
+[01:30:43]
+Federal siempre preguntan cu es la
+
+[01:30:47]
+cosa
+
+[01:30:49]
+ha para la gente a la que servimos y
+
+[01:30:51]
+siempr respondo que sipre el comité
+
+[01:30:55]
+analiza lo que debemos
+
+[01:30:58]
+hacer lo que es o lo que creemos que es
+
+[01:31:04]
+mejor puso
+
+[01:31:06]
+buena nuestro trabajo es lo que
+
+[01:31:13]
+hacemos estud los estes de for
+
+[01:31:19]
+signa Y eso que se pase largo chicos
+
+[01:31:24]
+V a
+
+[01:31:25]
+suceder muy profesionalmente en futuros
+
+[01:31:28]
+le estaba mostrando que no tomó la
+
+[01:31:31]
+liquidez y no sé cómo decirles lo
+
+[01:31:33]
+contrario la liquidez está sigue viva
+
+[01:31:35]
+desde la CBS mi primera pregunta sería
+
+[01:31:38]
+de forma simple Cuál es el mensaje que
+
+[01:31:41]
+les intenta trasladar a los consumidores
+
+[01:31:43]
+estadounidenses a los estadounidenses
+
+[01:31:46]
+con
+
+[01:31:48]
+estos esta gran reducción de los tipos
+
+[01:31:51]
+bueno simplemente les diría
+
+[01:31:54]
+de Estados
+
+[01:31:58]
+Unidos mañoso institucional
+
+[01:32:05]
+Mao gusta el dinero Ar y
+
+[01:32:09]
+abo maner la fortaleza que vemos en la
+
+[01:32:13]
+economía estadounidense
+
+[01:32:16]
+yando los tipos Ay el
+
+[01:32:22]
+oro o han sido más restrictivos para
+
+[01:32:25]
+poder lograr estos
+
+[01:32:27]
+objetivos el que no salió pobre
+
+[01:32:31]
+escuchando hablar sobre la reducción de
+
+[01:32:33]
+la
+
+[01:32:36]
+inflación está declarando la reserva
+
+[01:32:39]
+Federal una victoria en cuanto a la
+
+[01:32:42]
+inflación y a los objetivos que ya
+
+[01:32:44]
+tenemos no no lo estamos haciendo lo
+
+[01:32:47]
+que decimos es que el objetivo de
+
+[01:32:51]
+reducir la inflación
+
+[01:32:53]
+es mantenerla en el 2% están liando
+
+[01:32:56]
+Power con las
+
+[01:32:59]
+preguntas y
+
+[01:33:02]
+creo alrededor del 2% durante un periodo
+
+[01:33:05]
+de tiempo pero no estamos diciendo
+
+[01:33:08]
+Misión
+
+[01:33:09]
+cumplida pero no obstante nos sentimos
+
+[01:33:13]
+alentados por el progreso que hemos
+
+[01:33:15]
+logrado hasta ahora
+
+[01:33:23]
+gustaría saber como el comité está
+
+[01:33:27]
+reflexionando en cuanto a la inflación
+
+[01:33:29]
+en el sector de la vivienda de forma
+
+[01:33:31]
+persistente que se podría volver al
+
+[01:33:34]
+2% con la inflación el sector de la
+
+[01:33:38]
+vivienda tal como está
+
+[01:33:42]
+ahora la inflación el sector de la
+
+[01:33:44]
+vivienda es algo que nos pesa
+
+[01:33:48]
+sabemos que las rentas del mercado
+
+[01:33:51]
+está en unos nieles bastante
+
+[01:33:56]
+bajos
+
+[01:33:58]
+pero no se están reduciendo los
+
+[01:34:01]
+alquileres
+
+[01:34:03]
+500 por perder Y estos cambios son más
+
+[01:34:08]
+lo que esperamos empieza a poner rojos y
+
+[01:34:10]
+ahora creo que entendemos que nos va a
+
+[01:34:12]
+costar más de lo que pensamos pero la
+
+[01:34:14]
+dirección es 017 el nasdaq 03 el
+
+[01:34:22]
+nasda cuón de tiempo han sido dos
+
+[01:34:29]
+ciclos perdió oficialmente todo lo que
+
+[01:34:31]
+había anual de
+
+[01:34:33]
+estos
+
+[01:34:35]
+alquileres Entonces aunque nos cueste
+
+[01:34:37]
+más de lo esperado el resultado no
+
+[01:34:46]
+penen hemos visto que se ha comportado
+
+[01:34:50]
+bastante bien
+
+[01:34:53]
+B Le vas a quar la cuenta varios y al
+
+[01:34:57]
+final creo que la inflación de la
+
+[01:34:59]
+vivienda se logrará como
+
+[01:35:04]
+queramos algunos mencionan que si
+
+[01:35:06]
+Hubieran hecho otros ajustes
+
+[01:35:08]
+Podrían haber avivado más el sector de
+
+[01:35:11]
+la
+
+[01:35:14]
+vivienda Bueno cómo reaccionaría al
+
+[01:35:17]
+respecto el mercado inmobiliario es
+
+[01:35:21]
+parcialmente
+
+[01:35:23]
+congelado
+
+[01:35:25]
+porque con las alquileres tan elevados
+
+[01:35:29]
+la gente liquidez es la liquidez la
+
+[01:35:32]
+liquidez es la liquidez manda la
+
+[01:35:35]
+liquidez y vaya usted por su dinero
+
+[01:35:40]
+institucional vaya
+
+[01:35:41]
+usted aquí Lo estamos esperando con la
+
+[01:35:44]
+cara
+
+[01:35:45]
+destapada más gente predispuesta a
+
+[01:35:50]
+comprar y uno de los problemas
+
+[01:35:52]
+principales que hemos tenido ahora estoy
+
+[01:35:54]
+dudando Master en que se va a ir para
+
+[01:35:55]
+abajo con
+
+[01:35:57]
+todo Qué dice usted
+
+[01:36:00]
+Master a Master todavía aquí o una
+
+[01:36:04]
+parcela para que puedan comprar y
+
+[01:36:06]
+construir su primera
+
+[01:36:08]
+casa estoy dudando Alo que realmente
+
+[01:36:12]
+desde la reserva Federal podamos
+
+[01:36:15]
+gestionar pero sí que sabemos que cuando
+
+[01:36:18]
+reduzcamos lación el mercado
+
+[01:36:20]
+inmobiliario mejorará y el este
+
+[01:36:24]
+ciclo se normalizará y
+
+[01:36:28]
+est todos los que quieren adquirir
+
+[01:36:31]
+entrar en
+
+[01:36:35]
+Long
+
+[01:36:40]
+político al mercado laboral las
+
+[01:36:42]
+políticas monetarias que operan
+
+[01:36:46]
+con7 l plazo Me gustaría saber cómo van
+
+[01:36:50]
+a mantener estas tasas de desempleo
+
+[01:36:53]
+están
+
+[01:36:55]
+aumentando Cómo precio de
+
+[01:36:59]
+capital.com ahora mismo se encuentra
+
+[01:37:03]
+19288 y también me
+
+[01:37:07]
+gustaría saber si los 50 puntos básicos
+
+[01:37:11]
+de hoy están en
+
+[01:37:13]
+relación con lo que mencionábamos en
+
+[01:37:22]
+julio to los
+
+[01:37:25]
+analistas piensan que la economía está
+
+[01:37:27]
+creciendo Y que es robusta y que también
+
+[01:37:30]
+va a ser así en el 2025 entonces la
+
+[01:37:33]
+economía de Estados Unidos está
+
+[01:37:35]
+prácticamente muy bien Y así te lo decir
+
+[01:37:39]
+toda la gente que
+
+[01:37:41]
+está involucrada en el sector de
+
+[01:37:43]
+finanzas o en el mercado
+
+[01:37:47]
+financiero
+
+[01:37:49]
+y creo queos bsicos
+
+[01:37:53]
+un reflejo de nuestro compromiso y
+
+[01:37:55]
+cuando mencionabas Julio creo que si te
+
+[01:37:58]
+refieres es que a lo que si teníamos el
+
+[01:38:01]
+informe de
+
+[01:38:02]
+jales primero tienen que hacer su agoste
+
+[01:38:06]
+y luego los retail la reunión Quiz no
+
+[01:38:09]
+veramos tomado el mismo tipo de
+
+[01:38:10]
+decisiones Pero no es
+
+[01:38:13]
+así o no responde la pregunta que nos
+
+[01:38:16]
+preguntamos nosotros
+
+[01:38:19]
+en en julio damos un disto a los
+
+[01:38:22]
+informes de PC el desempleo de julio de
+
+[01:38:25]
+de del desempleo de junio y todas las
+
+[01:38:29]
+preguntas que nos hacemos Es Cuáles son
+
+[01:38:33]
+las políticas y los estándares que
+
+[01:38:35]
+tenemos que aplicar teniendo en cuenta
+
+[01:38:37]
+estos datos la línea de tendencia es
+
+[01:38:40]
+fuerte chicos es fuer est de
+
+[01:38:42]
+acuerdo que teníamos que hacer un paso
+
+[01:38:45]
+adelante pero la cuestión era cuándo y
+
+[01:38:49]
+cómo de rápido Y esta es la decisión que
+
+[01:38:51]
+hemos tomado el dí de hoy exactamente
+
+[01:38:55]
+exactamente esperemos que eso
+
+[01:38:57]
+pase pero no quiere el canijo Ah parece
+
+[01:39:02]
+que hay un muro
+
+[01:39:03]
+ahí está comprando ahí el sensei cu
+
+[01:39:07]
+teníamos que esperar
+
+[01:39:09]
+que aquellos que quieren algunas
+
+[01:39:13]
+hipotecas o préstamos tienen que esperar
+
+[01:39:16]
+a que se
+
+[01:39:17]
+reduzcan bueno es pregunta muy
+
+[01:39:20]
+complicada de responder creemos que
+
+[01:39:22]
+nuestra
+
+[01:39:24]
+quién está comprando ahí chic comprar
+
+[01:39:27]
+ahí
+
+[01:39:34]
+osesa neutra restrictiva Esto va a
+
+[01:39:37]
+costar
+
+[01:39:41]
+poco las previsiones que hemos visto
+
+[01:39:45]
+hoy y por lo tanto la economía se ir
+
+[01:39:49]
+calmando pero según
+
+[01:39:55]
+lo que vaya pasando iremos actuando no
+
+[01:39:57]
+podemos hablar de lo que va a ocurrir
+
+[01:39:59]
+exactamente en un año porque hay muchas
+
+[01:40:02]
+var entramos les pongo el meter chicos
+
+[01:40:04]
+si entramos aquí se los pongo en
+
+[01:40:13]
+vivo La de viend por
+
+[01:40:18]
+lasos
+
+[01:40:22]
+otes estallido en cuanto a la inflación
+
+[01:40:24]
+vamos chico y muchas veces para poder
+
+[01:40:28]
+reaccionar a esto hay que poner
+
+[01:40:32]
+políticas y evidentemente no son
+
+[01:40:34]
+políticas soneras para la gente pero al
+
+[01:40:37]
+final lo que estamos intentando hacer el
+
+[01:40:39]
+precio restar una inflación y una
+
+[01:40:43]
+estabilidad de los precios y luego
+
+[01:40:44]
+llevarse y luego venir a tocar este por
+
+[01:40:47]
+aquí en este log d estoy la gente en el
+
+[01:40:49]
+día a día no está pensando donde está tu
+
+[01:40:51]
+estop bl está mi entrada
+
+[01:40:54]
+pero nosotros lo que
+
+[01:40:57]
+queremos
+
+[01:41:02]
+esto se
+
+[01:41:12]
+beneficie gestionando la
+
+[01:41:15]
+inflación por supuesto voy dec
+
+[01:41:23]
+esos estas poas puedar
+
+[01:41:32]
+difíciles la inflación seguramente va a
+
+[01:41:34]
+subir con ese recorte de
+
+[01:41:37]
+tipos seguramente va a pod explicarnos
+
+[01:41:41]
+mucho 0.50 mi
+
+[01:41:46]
+parecer creo que el sigiente la infla se
+
+[01:41:49]
+bota arriba
+
+[01:41:53]
+de la
+
+[01:41:55]
+fe y los enfoques como Williams y el
+
+[01:41:59]
+gobernador W Pero bueno ese recorte no
+
+[01:42:02]
+se va a ver hasta que Quiz Uno dos meses
+
+[01:42:06]
+a lo mejor en el siguiente no hasta el
+
+[01:42:07]
+tercero Tenían un enfoque diferente esta
+
+[01:42:10]
+pregunta se está quedando como
+
+[01:42:12]
+mencionado muchas cosas pero Podrían
+
+[01:42:14]
+haber reducido a
+
+[01:42:17]
+50 puntos básicos el euro después de
+
+[01:42:21]
+que el PC
+
+[01:42:25]
+saliese o cuando tenía la información
+
+[01:42:27]
+del
+
+[01:42:28]
+ipc podía hablar un poquito al respecto
+
+[01:42:31]
+sí que ha sido una pregunta un poco con
+
+[01:42:34]
+muchos detalles pero podía decir un poco
+
+[01:42:36]
+su opinión al
+
+[01:42:37]
+respecto Bueno al final lo que hacemos
+
+[01:42:40]
+Es tomar las
+
+[01:42:42]
+decisiones es lo que hemos hecho o en
+
+[01:42:45]
+mañana en Nueva York la entrada con el
+
+[01:42:48]
+economist la vamos a dejar ahí porque
+
+[01:42:51]
+puede ser que mañana en Nueva York
+
+[01:42:53]
+mercado laboral y mencionado también que
+
+[01:42:55]
+la creación de empleo ha sido un poco h4
+
+[01:42:59]
+está topito d nos gustar menos en la
+
+[01:43:01]
+información que
+
+[01:43:05]
+teníamos cree que esta
+
+[01:43:09]
+situación desencadenar una reducción de
+
+[01:43:12]
+los 50 puntos básicos de
+
+[01:43:20]
+nuevo bueno ajustaremos
+
+[01:43:26]
+lo que sea necesario
+
+[01:43:29]
+en teniendo en cuenta la información que
+
+[01:43:32]
+recibamos del
+
+[01:43:38]
+desempleo Y si cierra ahí el día dejar
+
+[01:43:42]
+otro l diario ahí
+
+[01:43:46]
+imagínate Y entonces veremos
+
+[01:43:54]
+o no y si estamos cerca de nuestros dos
+
+[01:43:56]
+objetivos de nuestro mandato
+
+[01:43:59]
+Dual es lo único que puedo decir al
+
+[01:44:02]
+respecto Gracias
+
+[01:44:04]
+serp desde la
+
+[01:44:08]
+CNN chicos un like para que llegamos a
+
+[01:44:11]
+los 20 un like un like no más podía
+
+[01:44:14]
+hablar en general un like para llegar a
+
+[01:44:16]
+los 20 quién no ha dado su like de su
+
+[01:44:17]
+like por favor Like Like Like el
+
+[01:44:21]
+presidente en cuestión que
+
+[01:44:23]
+de Estados Unidos debería sugerir o
+
+[01:44:27]
+tener algún tipo de decisión al respecto
+
+[01:44:30]
+de la reserva Federal sé que he
+
+[01:44:32]
+mencionado muchas veces que es muy
+
+[01:44:34]
+importante que la reserva Federal sea
+
+[01:44:36]
+independiente pero podría explicar un
+
+[01:44:39]
+poco por sí por
+
+[01:44:42]
+supuesto las democracias en el mundo
+
+[01:44:45]
+estoo lamos su indeendencia como los
+
+[01:44:50]
+bancos y la razón es porque hay que
+
+[01:44:53]
+El Banco Central o la reserva Federal de
+
+[01:44:57]
+mandato directo para poder
+
+[01:45:00]
+evitar que hagan políticas que sean
+
+[01:45:05]
+favorables a la persona que est al cargo
+
+[01:45:08]
+En ese
+
+[01:45:09]
+momento y los países que tienen bancos
+
+[01:45:13]
+centrales independientes tienen unas
+
+[01:45:15]
+tasas de inflación más
+
+[01:45:18]
+reducidas y lo que hacemos Es trabajar
+
+[01:45:21]
+para los estadounidenses
+
+[01:45:25]
+estamos ning ningo que estamos
+
+[01:45:31]
+haciendo
+
+[01:45:33]
+[Música]
+
+[01:45:35]
+podes muchas cosas
+
+[01:45:56]
+y las
+
+[01:45:57]
+revisiones de
+
+[01:46:00]
+Michel el oro se hundió en la miseria en
+
+[01:46:03]
+relación ahc los ojo con el largo del
+
+[01:46:07]
+Oro eh ojo con el largo y el oro a las
+
+[01:46:12]
+políticas las agencias que
+
+[01:46:15]
+tod el primero diario espera antes de
+
+[01:46:20]
+continuar déjame Que responda respecto
+
+[01:46:23]
+ahí esta el
+
+[01:46:25]
+chimbolo chimbolo manipulado para arriba
+
+[01:46:27]
+y para
+
+[01:46:28]
+abajo sí esos cambios se negociaron
+
+[01:46:33]
+entre agencias con mi respaldo y con
+
+[01:46:36]
+puedo esperar confirmaciones en la zona
+
+[01:46:38]
+o entrarle de una éxito vamos a vol o
+
+[01:46:42]
+esperar lo que cada quien haga lo que
+
+[01:46:45]
+quiera unos
+
+[01:46:48]
+cambios y el loro podías esperarte a
+
+[01:46:52]
+Londres y luego vamos a implementar
+
+[01:46:54]
+algunos cambios y esto está respaldado
+
+[01:46:57]
+por m no es
+
+[01:46:59]
+una
+
+[01:47:07]
+simplementes Y laa es que vamos a
+
+[01:47:09]
+trabajar con codo de forma
+
+[01:47:12]
+separada no s cuá ocurrirá ni pero que
+
+[01:47:16]
+vamos a seguir ha adante como un grupo
+
+[01:47:19]
+El
+
+[01:47:20]
+chimbolo chimbolo
+
+[01:47:24]
+tras 60
+
+[01:47:26]
+días vamos a lo mejor tener algunas
+
+[01:47:29]
+conclusiones en la primera parte o el
+
+[01:47:32]
+primer semestre del año que
+
+[01:47:39]
+viene qué tiene que
+
+[01:47:41]
+decir la reserva Federal respecto a las
+
+[01:47:45]
+fusiones Bueno pero creo que eso le
+
+[01:47:47]
+tenía que responder el vicepresidente no
+
+[01:47:49]
+tengo la respuesta a día de hoy
+
+[01:47:53]
+desde yaho
+
+[01:47:55]
+finance previamente se ha menado que la
+
+[01:47:58]
+decisi Ho la recalibración pronto puede
+
+[01:48:02]
+ser que la agarres un poquito más barato
+
+[01:48:08]
+mucha que ahora mismo se encuentra
+
+[01:48:10]
+bastante equilibrado teniendo en cuenta
+
+[01:48:13]
+lo que han dicho hoy se preocupa más por
+
+[01:48:15]
+el mercado
+
+[01:48:17]
+laboral
+
+[01:48:19]
+elion habich
+
+[01:48:23]
+si no están debidamente equilibrados No
+
+[01:48:27]
+sí que creo que están debid pero el
+
+[01:48:29]
+mercado como que no se la creó ech
+
+[01:48:31]
+porquea como lo está empujando para
+
+[01:48:33]
+abajo Durante los últimos años mercado
+
+[01:48:36]
+no se la cre teníamos un mercado
+
+[01:48:40]
+laboral elevada hubiera reventado la
+
+[01:48:43]
+resistencia cuando uno se desequilibra
+
+[01:48:46]
+más nos concentramos
+
+[01:48:48]
+específicamente
+
+[01:48:50]
+comoos hac
+
+[01:48:52]
+meses
+
+[01:48:55]
+atrás est mucho más elevada y ahora lo
+
+[01:48:58]
+que hemos logrado
+
+[01:49:03]
+es miso tiempo
+
+[01:49:06]
+la sabemos es tenemos que cambiar
+
+[01:49:09]
+nuestras políticas para recalibrar
+
+[01:49:30]
+Cómo es un algoritmo
+
+[01:49:32]
+chicos No creo que vaya a haber ahora
+
+[01:49:35]
+una recisión un
+
+[01:49:39]
+algoritmo
+
+[01:49:43]
+00o ahora mismo que nos
+
+[01:49:45]
+indique
+
+[01:49:47]
+un una posible recesión o que el riesgo
+
+[01:49:50]
+sea elevado
+
+[01:49:52]
+V ent nuestra
+
+[01:49:54]
+entr a un paso bastante
+
+[01:49:59]
+sólido bueno paciencia as la verdad es
+
+[01:50:03]
+que no lo contemplo no creo que haya una
+
+[01:50:04]
+recesión se alargó la conferencia Ah ya
+
+[01:50:07]
+dije se alargó demasiado normalmente no
+
+[01:50:10]
+responde tantas preguntas ya listo
+
+[01:50:13]
+chicos se
+
+[01:50:14]
+[Música]
+
+[01:50:19]
+acabó cerros esto p ahora tenemos la
+
+[01:50:24]
+fiesta para
+
+[01:50:26]
+nosotros escucho bien a ver probando
+
+[01:50:29]
+probando me escucho
+
+[01:50:32]
+bien creo que sí ya me escucho bien no
+
+[01:50:35]
+sé si me escucho alto o
+
+[01:50:38]
+bajo creo que ahí estoy
+
+[01:50:42]
+bien
+
+[01:50:44]
+Ah la cámara está un poco grande Bueno
+
+[01:50:49]
+déjame
+
+[01:50:57]
+eh esta pantalla se me hace extraño algo
+
+[01:51:02]
+le falta
+
+[01:51:04]
+aquí será que me quedé Ah que ya ya bien
+
+[01:51:10]
+estaba como en pantalla
+
+[01:51:16]
+completa a la cámara
+
+[01:51:26]
+pu vamos a seguir analizando un ratito y
+
+[01:51:28]
+nos vamos
+
+[01:51:29]
+chicos 5 minutitos más Ay este nazda que
+
+[01:51:33]
+no quiere llegar a nuestra zona Bueno lo
+
+[01:51:37]
+dejaremos yo creo muy seguramente Asia
+
+[01:51:41]
+o Nueva York de
+
+[01:51:47]
+mañana hacia Nueva York de mañana
+
+[01:51:50]
+probablemente venga el el nasdaq vamos
+
+[01:51:53]
+esto lo vamos a poner un poquito más
+
+[01:51:55]
+grande regresar todao a la
+
+[01:51:59]
+normalidad el precio no logró tomar la
+
+[01:52:01]
+liquidez a allá arriba Entonces todavía
+
+[01:52:06]
+tenemos la chance de comprar abajo para
+
+[01:52:08]
+ir por esa
+
+[01:52:10]
+liquidez pero
+
+[01:52:13]
+probablemente sea mañana o y mañana a lo
+
+[01:52:18]
+mejor quieren dejar otro bajo del día
+
+[01:52:20]
+ahí cercas y y ya mañana
+
+[01:52:24]
+tomarlo
+
+[01:52:25]
+ya ahí está como que que que como que le
+
+[01:52:29]
+cuesta ahí como que quiere como que
+
+[01:52:32]
+no Pero bueno vamos a ver qué onda Este
+
+[01:52:37]
+cómo quedamos entonces nasdaq lo tenemos
+
+[01:52:40]
+ahí tenemos una entrada en largo ahí
+
+[01:52:42]
+Dónde está la seguimos manteniendo Dónde
+
+[01:52:45]
+está si se va pues que le vaya bien
+
+[01:52:47]
+vamos a ver mañana qué onda el sp500
+
+[01:52:51]
+también
+
+[01:52:53]
+tenemos un largo por aquí chicos que lo
+
+[01:52:56]
+había puesto después de expulsar esa
+
+[01:52:59]
+liquidez Este es un 1 a do el del nasda
+
+[01:53:02]
+que es como 1 y medio 1.60 y
+
+[01:53:05]
+cacho
+
+[01:53:07]
+el3 también un largo no más que este no
+
+[01:53:10]
+tengo punto de entrada óptimo porque le
+
+[01:53:12]
+falta tiempo A mi parecer y el oro el
+
+[01:53:15]
+oro estamos dentro ya el oro
+
+[01:53:19]
+prácticamente ha tomado el bajo que les
+
+[01:53:21]
+decía
+
+[01:53:28]
+sí ha tomado los dos bajos diarios En el
+
+[01:53:31]
+oro ya los hemos tomado entonces en el
+
+[01:53:33]
+oro estamos ya prácticamente dentro si
+
+[01:53:37]
+lo pueden agarrar un poquito más abajo
+
+[01:53:38]
+puede ser Hay posibilidad de que el oro
+
+[01:53:41]
+venga y caiga más
+
+[01:53:43]
+Sí pero la tendencia sigue siendo
+
+[01:53:46]
+alcista el chimbolo este ya lo puedo
+
+[01:53:49]
+quitar el espectáculo ahorita de la
+
+[01:53:52]
+de la conferencia pero ya también ya lo
+
+[01:53:56]
+puedo quitar nos quedaría más o menos
+
+[01:53:58]
+Tal que así por sobre esta zona es donde
+
+[01:54:01]
+yo esperaría que comprar loro ya llegó
+
+[01:54:05]
+ahí para mí
+
+[01:54:07]
+bueno discutible que venga y acumule por
+
+[01:54:11]
+ahí y largo en el oro eh podría venir al
+
+[01:54:15]
+Breaker aún sí pero no creo que caiga
+
+[01:54:18]
+hasta
+
+[01:54:19]
+allá sí por por ahí va a ser zona por la
+
+[01:54:23]
+zona de largo de Long en el oro por ahí
+
+[01:54:27]
+va a ser la la la zona de largo del Oro
+
+[01:54:31]
+ya les venía yo avisando desde antes
+
+[01:54:33]
+fíjense como fuimos pacientes y
+
+[01:54:34]
+esperamos parecía que se iba tu de sí
+
+[01:54:38]
+parecía así parece este y el Us 30 les
+
+[01:54:43]
+digo que esperemos que liquide todo esto
+
+[01:54:45]
+zona de
+
+[01:54:46]
+liques todas las dos zonas de liques y
+
+[01:54:49]
+ahí podríamos entrar sobre sobre los
+
+[01:54:53]
+41361 aproximadamente va a ser que va a
+
+[01:54:57]
+estar el el oro el oro el 30 el oro el
+
+[01:55:03]
+30 por ahí este viniendo el sm 500
+
+[01:55:06]
+también el nasdaq pues ya les compartí
+
+[01:55:08]
+ha dejado la cruz invertida Mira la cruz
+
+[01:55:12]
+del [&nbsp;__&nbsp;] La cruz de Satanás invertida
+
+[01:55:15]
+ahí este esperamos el nas también que
+
+[01:55:19]
+liquide todos los bajos diarios de abajo
+
+[01:55:20]
+y entramos cercas de la de la yema y el
+
+[01:55:25]
+euro bueno el euro ya tuvieron su fiesta
+
+[01:55:28]
+los compradores y los vendedores ya que
+
+[01:55:32]
+espera Igual yo creo que va a descansar
+
+[01:55:34]
+el euro por ahí se va a quedar va a
+
+[01:55:36]
+descansar y igual la tendencia sigue
+
+[01:55:38]
+siendo
+
+[01:55:39]
+al Aunque aquí lo hizo con una sola
+
+[01:55:42]
+Mecha con una sola vela de 4 horas pero
+
+[01:55:45]
+es lo mismo
+
+[01:55:47]
+No que el mercado hace un retroceso
+
+[01:55:50]
+nuevo alto va a ser para seguir
+
+[01:55:51]
+comprando
+
+[01:55:52]
+entonces va a ser lo mismo ahí y la
+
+[01:55:55]
+libra pues la libra también la libra
+
+[01:55:58]
+solamente que s se llevó todo la
+
+[01:56:00]
+liquidez no pudo con el alto histórico
+
+[01:56:02]
+pero es lo mismo No esto era la
+
+[01:56:04]
+predicción de antes de que subiera ya la
+
+[01:56:07]
+quitamos y va a ser la misma proyección
+
+[01:56:10]
+ahí en la
+
+[01:56:12]
+libra no más esperar a que descanse que
+
+[01:56:15]
+acumule y volvemos a comprar y ya está
+
+[01:56:19]
+el bitcoin les quedó de ver bueno el
+
+[01:56:21]
+bitcoin tampoco les impacta tanto estas
+
+[01:56:23]
+noticias esto le impacta más a forex y a
+
+[01:56:25]
+los
+
+[01:56:26]
+índices Pero bueno Ahí está el bitcoin
+
+[01:56:29]
+la dirección probablemente vengamos a
+
+[01:56:31]
+visitar esta resistencia de los 64,000
+
+[01:56:33]
+pero la resistencia de los
+
+[01:56:36]
+61,500 barra 61000 es una resistencia
+
+[01:56:39]
+bastante fuerte para el btc fíjense que
+
+[01:56:42]
+por aquí está y ya saben que la
+
+[01:56:44]
+resistencia es fuerte verad y cuando es
+
+[01:56:46]
+fuerte pues es fuerte ya ustedes saben
+
+[01:56:49]
+entonces hay que tener ahí
+
+[01:56:52]
+hay que tenerlo ahí en consideración
+
+[01:56:55]
+para el V es una zona de oferta y pues
+
+[01:56:59]
+nada que nada le quita que vaya a
+
+[01:57:02]
+reaccionar reventando esa zona de oferta
+
+[01:57:04]
+nos vamos a la siguiente y yo espero que
+
+[01:57:06]
+el btc pueda venir ahora sí a romper
+
+[01:57:09]
+esta estructura de acá arriba en un
+
+[01:57:10]
+futuro porque ya ha hecho un fallo
+
+[01:57:12]
+estructural aquí esto que está aquí ya
+
+[01:57:15]
+mis alud no lo conocen fallo
+
+[01:57:18]
+destr entonces yo espero que vengamos
+
+[01:57:21]
+por el objetivo de los 70,000 pero pues
+
+[01:57:23]
+el btc va a su ritmo no va su va a su
+
+[01:57:27]
+pasito y ya está chicos qué más decirles
+
+[01:57:31]
+el nasdaq no sigue ahí este ahora volvió
+
+[01:57:35]
+a reaccionar en el bajo del día de
+
+[01:57:38]
+anterior muy raro que en el nasda
+
+[01:57:40]
+sucedan esas cosas pero lo estamos
+
+[01:57:43]
+viviendo este muy probablemente A lo
+
+[01:57:46]
+mejor hay muchas órdenes aquí abajo como
+
+[01:57:49]
+mucha gente está como yo puede ser y
+
+[01:57:52]
+algoritmo se está adaptando a eso puede
+
+[01:57:55]
+ser que mucha gente esté viendo la
+
+[01:57:56]
+liquidez que yo veo y mucha gente esté
+
+[01:57:59]
+haiga muchas órdenes de ahí de compra
+
+[01:58:01]
+por la liquidez y el algoritmo se esté
+
+[01:58:04]
+adaptando o realmente esté induciendo
+
+[01:58:06]
+bastante yo dejaré mi entrada cone la
+
+[01:58:09]
+tengo no modificar nada si el precio
+
+[01:58:11]
+quiere volver a subir Que suba a mí no
+
+[01:58:13]
+me importa se quiere ir mañana a los
+
+[01:58:16]
+25,000 que se vaya los 25000 puntos que
+
+[01:58:19]
+se vaya No pasa nada yo seguiré dejando
+
+[01:58:23]
+mi entrada donde está ya está puede ser
+
+[01:58:25]
+que veamos ahora nacia este como regrese
+
+[01:58:28]
+y reaccion al canijo a la vela es que
+
+[01:58:31]
+esa vela mágica de 5
+
+[01:58:33]
+minutos esta
+
+[01:58:35]
+ahí como reaccion Exacto Ah Bueno chicos
+
+[01:58:40]
+yo creo que los voy a dejar por hoy
+
+[01:58:42]
+Gracias por haber estado en este directo
+
+[01:58:44]
+dos horas de directo Casi casi exactas
+
+[01:58:48]
+este quedamos ahí con noticias
+
+[01:58:51]
+macroeconómicas
+
+[01:58:53]
+los tipos de interés de la Fed análisis
+
+[01:58:55]
+completo del mercado entradas ahí
+
+[01:58:58]
+tenemos una entrada ahí posible en el
+
+[01:59:00]
+nasdaq y una entrada posible en el oro
+
+[01:59:03]
+bueno en el oro llegó a nuestra
+
+[01:59:07]
+previsión el oro cumplió pero este ya
+
+[01:59:11]
+está bueno chicos los voy a dejar por
+
+[01:59:13]
+hoy Gracias por haber estado aquí y nos
+
+[01:59:14]
+vamos a ver en un próximo directo
+
+[01:59:16]
+gracias a todos por pasarse únanse a
+
+[01:59:19]
+Telegram los que no están unidos
+
+[01:59:22]
+Instagram también que estoy poniendo
+
+[01:59:23]
+mucho contenido de valor métanse a
+
+[01:59:25]
+Telegram Ahí estamos activos todos los
+
+[01:59:27]
+días poniendo cositas clases ya les
+
+[01:59:30]
+avaré de una nueva clase que tengo
+
+[01:59:32]
+planeada también para toda la comunidad
+
+[01:59:33]
+que posiblemente va a ser por zoom
+
+[01:59:36]
+entonces para que se unan todos ahí nos
+
+[01:59:40]
+vamos a estar viendo chicos y gracias
+
+[01:59:41]
+por haber estado aquí hasta la próxima
+
+[01:59:44]
+adiós
+```

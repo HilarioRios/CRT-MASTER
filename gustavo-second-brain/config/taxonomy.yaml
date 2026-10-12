@@ -1,0 +1,32 @@
+# Visibility classification -- see FASE 26 (privacidad) of the master spec.
+# Every source must be tagged with exactly one of these.
+visibility_levels:
+  - PUBLIC             # YouTube videos, public marketing content
+  - PRIVATE_INTERNAL    # classes, mentorships, business docs
+  - SENSITIVE_INTERNAL  # sales calls, onboarding, lead/client PII -- never public, never duplicated unnecessarily
+
+# Drive destination top-level sections (see FASE 2 of the master spec)
+drive_sections:
+  - "00_ADMIN"
+  - "01_YOUTUBE"
+  - "02_RECURSOS"
+  - "03_CLASES_Y_MENTORIAS"
+  - "04_TESTIMONIOS"
+  - "05_CONTENIDO_MARKETING"
+  - "06_CONOCIMIENTO_NEGOCIO"
+  - "07_LLAMADAS"
+  - "08_AVATAR_Y_CLIENTE"
+  - "90_SEARCH_INDEX"
+  - "99_SYSTEM_LOGS"
+
+# Seed topic tags -- grows as content is processed; not exhaustive.
+seed_topics:
+  - bias_diario
+  - crt
+  - liquidez
+  - daily_range
+  - asia_session
+  - gestion_de_riesgo
+  - sobreoperar
+  - timeframe
+  - estrategia_vs_metodo

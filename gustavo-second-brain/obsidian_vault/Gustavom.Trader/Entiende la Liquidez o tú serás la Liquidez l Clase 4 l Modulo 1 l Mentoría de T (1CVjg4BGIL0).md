@@ -1,0 +1,694 @@
+---
+source_id: YT_CANAL_02_1CVjg4BGIL0
+video_id: 1CVjg4BGIL0
+channel: "Gustavom.Trader"
+published_at: 2024-08-05
+url: https://www.youtube.com/watch?v=1CVjg4BGIL0
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 5
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Entiende la Liquidez o tú serás la Liquidez l Clase 4 l Modulo 1 l Mentoría de Trading Gratis
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=1CVjg4BGIL0)
+
+## Transcript
+
+```
+[00:00:00]
+pues Hola a todos y bienvenidos a un
+
+[00:00:01]
+capítulo más de nuestra mentoría
+
+[00:00:03]
+gratuita 2024 seguimos en el módulo uno
+
+[00:00:07]
+nuestra clase del día de hoy que vamos a
+
+[00:00:08]
+ver va a ser nuestra clase número cuatro
+
+[00:00:11]
+de liquidez Espero que estén dándole
+
+[00:00:14]
+bastante apoyo a estos videos
+
+[00:00:16]
+compártanlo con sus amigos y suscríbanse
+
+[00:00:18]
+para más contenido como este amigos
+
+[00:00:21]
+vamos allá con nuestra clase de liquidez
+
+[00:00:24]
+que el día de hoy nos concierne entonces
+
+[00:00:26]
+aquí tenemos la teoría básica de
+
+[00:00:28]
+liquidez que es los pones más básicos de
+
+[00:00:31]
+formación de liquidez cómo los podemos
+
+[00:00:33]
+identificarlos Pues la liquidez
+
+[00:00:35]
+básicamente es la acumulación de órdenes
+
+[00:00:38]
+en diferentes puntos de la estructura
+
+[00:00:40]
+externa e interna verdad Entonces cómo
+
+[00:00:43]
+lo podemos identificar varios toques a
+
+[00:00:46]
+una misma zona una manera de identificar
+
+[00:00:48]
+la liquidez es ver varios toques en una
+
+[00:00:51]
+misma zona verdad un doble piso un doble
+
+[00:00:54]
+techo soportes o
+
+[00:00:56]
+resistencias altos y mínimos en lower
+
+[00:01:00]
+Time frame o también puede ser en high
+
+[00:01:02]
+time frame y zonas ya mitigadas o ya
+
+[00:01:05]
+tocadas básicamente cuando el precio
+
+[00:01:07]
+toca muchas veces una misma zona
+
+[00:01:09]
+podríamos designarlo como liquidez
+
+[00:01:12]
+verdad Entonces Esta es nuestra teoría
+
+[00:01:15]
+muy básica de liquidez vamos con la
+
+[00:01:18]
+aplicación entender Dónde está la
+
+[00:01:20]
+liquidez nos ayudará a saber dónde el
+
+[00:01:22]
+precio va a tener probabilidad de ir
+
+[00:01:24]
+verdad dónde va cuando el precio diseña
+
+[00:01:27]
+al algún recorrido deja deja la liquidez
+
+[00:01:30]
+ahí pendiente nos da un punto una huella
+
+[00:01:34]
+donde probablemente el mercado podría ir
+
+[00:01:36]
+verdad Entonces entender En qué zonas
+
+[00:01:39]
+son de mayor probabilidad a romperse
+
+[00:01:42]
+para eso nos va a ayudar la liquidez
+
+[00:01:43]
+para entender Qué zonas pueden llegar a
+
+[00:01:46]
+ser mayor probablemente que se rompan o
+
+[00:01:49]
+que el precio vaya a tomar esa liquidez
+
+[00:01:51]
+y número tres para saber el punto de
+
+[00:01:53]
+interés más probable mediante la
+
+[00:01:55]
+liquidez entonces vemos liquidez antes
+
+[00:01:57]
+vemos un punto de interés vemos que
+
+[00:02:00]
+probablemente el precio vaya a sacar ese
+
+[00:02:02]
+esa toma de liquidez y después que vaya
+
+[00:02:04]
+probablemente a mitigar el punto de
+
+[00:02:06]
+interés ahora vamos con la toma de
+
+[00:02:08]
+liquidez una vez que el precio pasa por
+
+[00:02:10]
+una zona donde active órdenes lo
+
+[00:02:11]
+conoceremos como una toma de liquidez o
+
+[00:02:13]
+una mitigación de liquidez O sea que una
+
+[00:02:16]
+vez tome el precio pase sobre un doble
+
+[00:02:19]
+suelo un doble piso una figura técnica
+
+[00:02:22]
+una figura chartista un canal una línea
+
+[00:02:24]
+de tendencia cualquiera formación de
+
+[00:02:26]
+liquidez lo vamos a conocer como una
+
+[00:02:29]
+toma de de liquidez o una mitigación de
+
+[00:02:32]
+esa misma liquidez verdad Entonces
+
+[00:02:35]
+tenemos lo que es la liquidez avanzada
+
+[00:02:37]
+el precio forma toques en más do más de
+
+[00:02:40]
+dos veces en una misma zona Entonces
+
+[00:02:42]
+esto lo llamamos nosotros como un Pull
+
+[00:02:45]
+de liquidez verdad un Pull de liquidez
+
+[00:02:47]
+es cuando ya el precio toma más de dos
+
+[00:02:49]
+veces o toca más de dos veces y liquidez
+
+[00:02:53]
+normal o común que nosotros podemos
+
+[00:02:55]
+identificar es que solamente el precio
+
+[00:02:57]
+toca una sola vez entonces triple piso
+
+[00:03:00]
+líneas de tendencia canales figuras
+
+[00:03:02]
+chartistas etcétera etcétera como aquí
+
+[00:03:03]
+podemos ver un triple piso una línea de
+
+[00:03:06]
+tendencia un triangulito todo ese tipo
+
+[00:03:09]
+de cosas le llamamos nosotros liquidez
+
+[00:03:11]
+avanzadas Pull de liquidez o ya una
+
+[00:03:13]
+formación de liquidez más más probable
+
+[00:03:16]
+que el precio vaya Entonces tenemos yao
+
+[00:03:18]
+por último lo que es la liquidez
+
+[00:03:20]
+inducida el precio reacciona a una zona
+
+[00:03:22]
+de interés pero no genera rompimientos
+
+[00:03:23]
+en la estructura incentivar a las
+
+[00:03:26]
+compras o ventas a corto plazo y después
+
+[00:03:28]
+revertir Generalmente después toma la
+
+[00:03:30]
+liquidez externa o interna
+
+[00:03:33]
+verdad Entonces a veces el precio Lo que
+
+[00:03:36]
+hace también es una reacción una zona de
+
+[00:03:38]
+liquidez y luego va a ir a buscar un
+
+[00:03:40]
+descuento y tomarlo Entonces qué tenemos
+
+[00:03:42]
+que el precio por ejemplo tenemos una
+
+[00:03:43]
+dirección alcista verad el precio Lo que
+
+[00:03:46]
+hace es tiene este High que está aquí en
+
+[00:03:47]
+este punto en este High verdad entonces
+
+[00:03:50]
+lo que hace el precio es retroceder
+
+[00:03:54]
+luego cuando regresa a este mismo punto
+
+[00:03:56]
+El precio ya sabe que va a ir alcista
+
+[00:03:58]
+pero lo que hace es formar un retroceso
+
+[00:04:00]
+para inducir el punto ese y luego
+
+[00:04:02]
+finalmente ir hacia arriba En este caso
+
+[00:04:04]
+Igualmente tiene este punto pa pa va va
+
+[00:04:08]
+va de nuevo hacia arriba en este en este
+
+[00:04:10]
+tramo de este fractal y luego que hace
+
+[00:04:12]
+esta inducción y finalmente lo saca y a
+
+[00:04:14]
+veces inclusive podría revertir de nuevo
+
+[00:04:17]
+aquí viene el precio tiene un doble piso
+
+[00:04:19]
+verdad tiene un doble piso va hacia
+
+[00:04:22]
+arriba Eh reacciona en el doble piso
+
+[00:04:24]
+Pero simplemente es una reacción para
+
+[00:04:26]
+después tomarlo básicamente de esa forma
+
+[00:04:28]
+sería que estaríamos clasificando
+
+[00:04:31]
+nuestra liquidez inducida básicamente
+
+[00:04:33]
+son puntos donde si ya tú tienes una
+
+[00:04:35]
+tendencia por ejemplo alcista y sabes
+
+[00:04:37]
+que son puntos ahí donde el precio puede
+
+[00:04:39]
+reaccionar el precio va a hacer
+
+[00:04:40]
+reacciones para después tomarlo
+
+[00:04:42]
+básicamente es ese y Bueno chicos lo que
+
+[00:04:45]
+nos encontramos acá es haciendo un
+
+[00:04:47]
+repaso de la liquidez para que ustedes
+
+[00:04:48]
+puedan identificarlo aquí estoy en mi
+
+[00:04:50]
+queridísimo gráfico el nasdaq otra vez y
+
+[00:04:53]
+vamos a identificar nosotros nuestra
+
+[00:04:55]
+liquidez para que ustedes básicamente
+
+[00:04:57]
+aprendan un poquito más a a a ser más
+
+[00:05:00]
+efectivos identificándolas por ejemplo
+
+[00:05:01]
+aquí tenemos un triple techo o doble
+
+[00:05:04]
+techo podríamos decir aquí tenemos un
+
+[00:05:07]
+doble suelo este aquí también tenemos un
+
+[00:05:10]
+pequeño
+
+[00:05:12]
+doble doble suelo aquí tenemos una
+
+[00:05:15]
+inducción de liquidez desde dónde desde
+
+[00:05:17]
+este punto fíjense que aquí el precio
+
+[00:05:20]
+tiene este decisional lo que hace el
+
+[00:05:22]
+precio es que tenía este este punto alto
+
+[00:05:24]
+este punto bajo tenía este decisional y
+
+[00:05:27]
+fíjense como esto lo que hace es inducir
+
+[00:05:29]
+a las ventas para después ir a sacar
+
+[00:05:32]
+este punto de aquí este punto de aquí
+
+[00:05:34]
+esto se le conoce como una inducción de
+
+[00:05:36]
+liquidez a este tramo que está aquí esto
+
+[00:05:39]
+es una inducción de liquidez Por qué
+
+[00:05:41]
+Porque el precio sabemos que ya se va a
+
+[00:05:42]
+ir alcista bueno en teoría por la
+
+[00:05:44]
+estructura esta que llevamos alcista Eh
+
+[00:05:47]
+entonces lo que hace estos puntos ser
+
+[00:05:49]
+inducidos para después ir irlos a tomar
+
+[00:05:52]
+vamos a seguir viendo repasando un
+
+[00:05:54]
+poquito la liquidez aquí tenemos una
+
+[00:05:55]
+línea de tendencia aquí
+
+[00:05:58]
+tenemos una toma de aquí tenemos una
+
+[00:06:02]
+toma de liquidez una continuación
+
+[00:06:04]
+eh aquí hace un pequeño inducement
+
+[00:06:07]
+también fíjense que esta estructura
+
+[00:06:08]
+pequeña hace un inducement aquí teníamos
+
+[00:06:11]
+este High luego el precio Lo que hace es
+
+[00:06:13]
+inducir este bloque de aquí lo induce un
+
+[00:06:16]
+pelín aquí a las compras lo saca y
+
+[00:06:18]
+después de que lo saca ya se desploma
+
+[00:06:20]
+verdad Entonces vamos a seguir
+
+[00:06:21]
+catalogando revisando nuestra liquidez
+
+[00:06:24]
+para que ustedes vayan eh haciéndose a
+
+[00:06:27]
+la idea de cómo funciona y vayan ustedes
+
+[00:06:30]
+entrenando el ojito para que puedan ver
+
+[00:06:32]
+la liquidez más fácil aquí tenemos otra
+
+[00:06:34]
+línea de tendencia el nz que genera
+
+[00:06:36]
+muchas líneas de tendencia aquí tenemos
+
+[00:06:38]
+otra toma de liquidez este y
+
+[00:06:41]
+generalmente el nasdaq sí le gusta mucho
+
+[00:06:44]
+hacer esas formaciones de liquidez este
+
+[00:06:47]
+por ejemplo aquí teníamos también un
+
+[00:06:49]
+doble un doble techito un doble techito
+
+[00:06:52]
+aquí tenemos otro doble techito verad
+
+[00:06:55]
+Entonces fíjense cómo se va formando un
+
+[00:06:57]
+doble picito verad pues dejamos un doble
+
+[00:07:00]
+picito aquí dos bajos iguales este y
+
+[00:07:03]
+constantemente se va a ir formando la
+
+[00:07:05]
+liquidez de esa manera acá chicos lo que
+
+[00:07:07]
+tenemos fíjense son dos cosas Una es
+
+[00:07:09]
+esta línea de tendencia de liquidez la
+
+[00:07:11]
+otra es teníamos este punto alto y
+
+[00:07:13]
+fíjense como el precio hizo una
+
+[00:07:15]
+inducción de liquidez ahí desde ese
+
+[00:07:17]
+punto indujo a las ventas y después
+
+[00:07:19]
+posteriormente va y lo saca entonces una
+
+[00:07:22]
+inducción de liquidez con una línea de
+
+[00:07:23]
+tendencia por acá también tenemos otra
+
+[00:07:26]
+línea de tendencia fíjense de nuevo otra
+
+[00:07:28]
+inducción de liquidez teníamos como
+
+[00:07:30]
+target de ese punto alto el precio
+
+[00:07:32]
+induce por aquí incluso manipula un poco
+
+[00:07:34]
+y se va Vamos a localizar liquidez
+
+[00:07:37]
+interna fíjense aquí tenemos este doble
+
+[00:07:39]
+techo aquí tenemos este doble piso bueno
+
+[00:07:42]
+triple piso aquí qu hace el precio
+
+[00:07:44]
+manipula este High saca la liquidez
+
+[00:07:47]
+interna y después se va para abajo
+
+[00:07:48]
+verdad Viene y toma toda la liquidez de
+
+[00:07:50]
+acá abajo entonces aquí teníamos también
+
+[00:07:52]
+una pequeña línea de tendencia tenemos
+
+[00:07:54]
+este punto que este punto no es inducido
+
+[00:07:58]
+este tenemos la generación de este este
+
+[00:08:02]
+punto aquí de liquidez también como
+
+[00:08:05]
+doble alto doble Bajo fíjense como tiene
+
+[00:08:08]
+liquidez arriba liquidez abajo el precio
+
+[00:08:10]
+lo toma por aquí lo toma por acá y así
+
+[00:08:13]
+constantemente se va formando la
+
+[00:08:15]
+liquidez en el gráfico simplemente es
+
+[00:08:17]
+irla viendo ir viendo las zonas como que
+
+[00:08:20]
+son soportes y resistencias y ir viendo
+
+[00:08:22]
+como el precio la va ir mitigando en el
+
+[00:08:26]
+futuro Bueno chicos Yo espero que les
+
+[00:08:28]
+haya gustado bastante Síganme en
+
+[00:08:30]
+instagram Gustavo m. Trader les resuelvo
+
+[00:08:33]
+todas sus preguntas en instagram les
+
+[00:08:35]
+resuelvo todas sus preguntas también
+
+[00:08:36]
+aquí en los comentarios y si deseas una
+
+[00:08:39]
+mentoría personalizada también abajo en
+
+[00:08:41]
+la descripción te dejo el link para que
+
+[00:08:43]
+me puedas escribir si quieres ayuda en
+
+[00:08:45]
+tu proceso como Trader gracias por haber
+
+[00:08:47]
+estado en este video y nos vemos hasta
+
+[00:08:49]
+el siguiente
+```

@@ -1,0 +1,857 @@
+[00:00:00]
+Buenas, ¿qué tal, señores? Estamos en un
+
+[00:00:01]
+nuevo video y en este video te vengo a
+
+[00:00:03]
+traer un video de cómo puedes operar
+
+[00:00:05]
+entre 60 a 90 minutos al día y ser
+
+[00:00:08]
+consistentemente con el trading, empezar
+
+[00:00:10]
+a generar ingresos con el trading de
+
+[00:00:12]
+manera tranquila. En este video no te
+
+[00:00:14]
+vengo a enseñar exactamente toda la
+
+[00:00:16]
+estrategia porque eso ya tienes un
+
+[00:00:17]
+montón de videos, pero obviamente yo lo
+
+[00:00:19]
+estoy consiguiendo hacer con la
+
+[00:00:20]
+estrategia CRT. y vamos a la pantalla,
+
+[00:00:22]
+vamos al granoor y directamente en este
+
+[00:00:23]
+video nos vamos a andar, no nos vamos a
+
+[00:00:25]
+andar con rodeos y voy a mostrarte cómo
+
+[00:00:28]
+funciona un poco esto. En este caso,
+
+[00:00:30]
+obviamente, ¿qué más de enseñarte con el
+
+[00:00:33]
+ejemplo? Esta es una de las operaciones
+
+[00:00:34]
+que estuvimos tomando el día de hoy con
+
+[00:00:36]
+la estrategia CRT. Estuvimos haciéndole
+
+[00:00:38]
+más o menos en este movimiento eh más de
+
+[00:00:42]
+en este yo le estuve haciendo más de
+
+[00:00:43]
+$800 en este movimiento. En varias
+
+[00:00:45]
+cuentas estuve entrando y te voy a
+
+[00:00:48]
+mostrar pues con el ejemplo y no
+
+[00:00:50]
+solamente yo, varios de mis alumnos
+
+[00:00:52]
+también estuvieron haciéndolo y cómo tú
+
+[00:00:54]
+puedes estar operando eh poco tiempo al
+
+[00:00:56]
+día. Eh, muchas personas creen o piensan
+
+[00:00:58]
+que para ser trader necesitas estar
+
+[00:01:01]
+analizando la gráfica todo el día, todo
+
+[00:01:03]
+el tiempo y muchísimas horas. Hay muchas
+
+[00:01:06]
+personas que hacen 8 horas al día, 4
+
+[00:01:08]
+horas al día, no se necesita mucho
+
+[00:01:10]
+tiempo para poder hacer trading. Es la
+
+[00:01:12]
+lección o es el lema o lo que quiero
+
+[00:01:14]
+traer en este video, lo que quiero
+
+[00:01:15]
+enseñar o aportte. Y vamos directamente
+
+[00:01:18]
+a la gráfica para que veas cómo tomé
+
+[00:01:19]
+esta operación, para que veas un poquito
+
+[00:01:21]
+la la lógica de esta estrategia y cómo
+
+[00:01:24]
+tú puedes implementarla para que puedas
+
+[00:01:25]
+estar obteniendo resultados. Y quédate
+
+[00:01:28]
+en este video porque si aún así tú no
+
+[00:01:31]
+después de ver este video no sientes que
+
+[00:01:33]
+lo vayas a lograr o no puedes lograrlo,
+
+[00:01:35]
+no puedes conseguirlo, te voy a dar
+
+[00:01:37]
+alternativas para que lo puedas
+
+[00:01:38]
+conseguir sí o sí. Bueno, como puedes
+
+[00:01:40]
+saber, yo soy especialista en este caso
+
+[00:01:42]
+en los índices americanos, el Nasdaq 100
+
+[00:01:45]
+y el S&amp;P 500. Llevo más de 7 años
+
+[00:01:47]
+operando los mercados financieros, en
+
+[00:01:48]
+este caso de índices y ahora con la
+
+[00:01:50]
+estrategia CRT estamos masterizando eh
+
+[00:01:53]
+pues esta estrategia. Este es el
+
+[00:01:55]
+movimiento que fuimos a agarrar nosotros
+
+[00:01:57]
+el día de hoy, que te voy a explicar. Y
+
+[00:01:59]
+también hay un movimiento maravilloso
+
+[00:02:01]
+que también estuvimos viendo en este
+
+[00:02:02]
+caso en el SP500. Te voy a dar un paso a
+
+[00:02:05]
+paso muy rápido y detallado, muy muy
+
+[00:02:08]
+fácil con la estrategia CRT, pero si
+
+[00:02:10]
+quieres conocer más sobre la estrategia
+
+[00:02:12]
+CRT, al final de este video te voy a
+
+[00:02:13]
+dejar un video ya más detallado para que
+
+[00:02:15]
+veas cómo funciona la estrategia y para
+
+[00:02:17]
+que sigas profundizando, porque
+
+[00:02:19]
+obviamente con un solo video no vas a
+
+[00:02:21]
+poder tener toda la información que yo
+
+[00:02:22]
+quisiera, ¿no? Ahora, muy fácilmente yo
+
+[00:02:25]
+te digo, opero índices, en este caso
+
+[00:02:27]
+índices americanos, Nasdaq 100, SP500 o
+
+[00:02:30]
+Dow Jones, en mi caso, yo Nasdaq 100 y
+
+[00:02:32]
+SP500. Ahora, muchas personas tienen la
+
+[00:02:35]
+creencia de que deberías de operar
+
+[00:02:37]
+solamente mucho tiempo para obtener
+
+[00:02:39]
+resultados y en este video te lo vengo a
+
+[00:02:41]
+demostrar que no. Y también otra gran
+
+[00:02:42]
+creencia limitante que existe es que tú
+
+[00:02:44]
+debes de operar a fuerzas en una sola
+
+[00:02:47]
+sesión o a fuerzas en un solo horario. Y
+
+[00:02:49]
+no es así. Nuestros alumnos pueden, en
+
+[00:02:51]
+mi caso, yo les estoy enseñando a que
+
+[00:02:53]
+puedan operar Asia, Nueva York o
+
+[00:02:55]
+Londres, pero para este ejemplo en
+
+[00:02:57]
+concreto te voy a mostrar con Nueva
+
+[00:02:58]
+York, que es lo más típico y lo que la
+
+[00:03:00]
+mayoría opera. Eh, en este caso,
+
+[00:03:03]
+simplemente la estrategia es muy fácil.
+
+[00:03:05]
+Mira qué tan sencillo lo voy a resumir.
+
+[00:03:07]
+Lo primero que tienes que hacer es
+
+[00:03:08]
+encontrar dirección. Es lo primero que
+
+[00:03:10]
+debes de encontrar, dirección. En este
+
+[00:03:12]
+caso, en el SP500, yo lo hago siempre en
+
+[00:03:15]
+temporalidades altas. Ya sabes cómo los
+
+[00:03:17]
+que han visto mis videos ya saben un
+
+[00:03:18]
+poco cómo lo solemos hacer y en
+
+[00:03:20]
+temporalidades altas lo que estaba
+
+[00:03:22]
+viendo el día de hoy es encontrar
+
+[00:03:23]
+dirección en este caso con la
+
+[00:03:24]
+metodología CRT y estaba viendo este
+
+[00:03:27]
+rango que es un fallo, un failor swing,
+
+[00:03:29]
+un fallo. El precio no no tomó liquidez,
+
+[00:03:32]
+pero nosotros veíamos que ya
+
+[00:03:33]
+probablemente eso no iba a suceder y que
+
+[00:03:35]
+el target iba a estar aquí y acá. Est
+
+[00:03:38]
+eran los dos targets. Encontrar
+
+[00:03:39]
+dirección en alta temporalidad. Ese
+
+[00:03:42]
+sería el primer paso, acuérdate.
+
+[00:03:44]
+Encontrar la dirección del precio hacia
+
+[00:03:45]
+dónde podría ir mediante los rangos de
+
+[00:03:47]
+CRT. No vamos a utilizar otra cosa, es
+
+[00:03:49]
+una estrategia muy fácil, objetiva y
+
+[00:03:51]
+obviamente es una operación que yo
+
+[00:03:52]
+estuve viendo el día de hoy y no
+
+[00:03:54]
+solamente se la estuve mandando
+
+[00:03:55]
+totalmente en vivo también a los
+
+[00:03:56]
+alumnos, o sea, que aparte de hacerlo en
+
+[00:03:58]
+en vivo, eh lo solemos hacer en back
+
+[00:04:01]
+testing y lo solemos hacer también este
+
+[00:04:03]
+tipo de ejemplos. O sea, me gusta
+
+[00:04:04]
+mostrar operaciones reales que yo estoy
+
+[00:04:06]
+haciendo para que tú puedas verlo.
+
+[00:04:08]
+Obviamente, primero lo que tienes que
+
+[00:04:10]
+hacer es empezar a practicar esto en un
+
+[00:04:12]
+gráfico ya hecho en el pasado. No puedes
+
+[00:04:14]
+empezar a saber una estrategia si no lo
+
+[00:04:16]
+ves primero en el pasado. Entonces,
+
+[00:04:17]
+vemos dirección, vemos que el rango es
+
+[00:04:19]
+exactamente este. Esta es la dirección
+
+[00:04:21]
+en diario. Puedo usar una temporalidad
+
+[00:04:23]
+intermedia, como en mi caso va a ser 12
+
+[00:04:25]
+horas para ver más contexto. Mira que en
+
+[00:04:28]
+12 horas yo tenía este bello y hermoso
+
+[00:04:30]
+rango de aquí. Bello y hermoso rango. Y
+
+[00:04:33]
+el objetivo es este punto que está acá.
+
+[00:04:36]
+Hermoso rango que el objetivo es ese. Y
+
+[00:04:38]
+fíjate cómo lo ahora en mi punto de
+
+[00:04:40]
+entrada el precio me atacó este mínimo,
+
+[00:04:43]
+este low. Míralo por ahí porque va a ser
+
+[00:04:45]
+muy importante y muy determinante en
+
+[00:04:47]
+este caso para la operación del día de
+
+[00:04:49]
+hoy. Este bajo es muy importante que tú
+
+[00:04:51]
+lo estés mirando. Temporalidad alta para
+
+[00:04:54]
+dirección, temporalidad intermedia para
+
+[00:04:56]
+confirmar la dirección y después me voy
+
+[00:04:58]
+a bajar a una temporalidad ya más en el
+
+[00:05:01]
+corto plazo para ver la posible
+
+[00:05:03]
+dirección. En este caso, yo estuve
+
+[00:05:04]
+viendo mi temporalidad de 3 horas y en
+
+[00:05:08]
+mi temporalidad de 3 horas yo tenía que
+
+[00:05:09]
+el precio había formado un nuevo rango
+
+[00:05:12]
+aquí. Y fíjate lo que te decía, el
+
+[00:05:14]
+precio ya había completado esto, ya
+
+[00:05:16]
+había sacado la liquidez o estos bajos.
+
+[00:05:18]
+Ahora, para mi siguiente paso que voy a
+
+[00:05:21]
+estar utilizando mi temporalidad de una
+
+[00:05:23]
+hora para mi entrada. Y aquí va muy
+
+[00:05:25]
+importante, yo voy a estar tradeando en
+
+[00:05:26]
+este caso las 9 de la mañana, 9 de la
+
+[00:05:29]
+mañana solamente voy a estar trabajando
+
+[00:05:31]
+en este caso los índices, ya sea el S&amp;P
+
+[00:05:34]
+500 o el Nasdaq. 9 de la mañana. Primero
+
+[00:05:38]
+ver el contexto en alta temporalidad,
+
+[00:05:39]
+temporalidad intermedia. 9 de la mañana
+
+[00:05:41]
+voy a estar trabajando en 4 horas o 3
+
+[00:05:43]
+horas y mi entrada exactamente en una
+
+[00:05:46]
+hora que es la entrada que nosotros
+
+[00:05:47]
+tomamos el día de hoy. ¿Qué veo? El
+
+[00:05:49]
+precio me saca liquidez. Una vez que me
+
+[00:05:51]
+saca liquidez, no solamente entro por
+
+[00:05:53]
+una toma de liquidez. ¿Qué me hace el
+
+[00:05:54]
+precio? Me genera un rango. Mira cómo
+
+[00:05:57]
+generó un rango que yo le llamo el
+
+[00:05:58]
+tridente. Ya van a ver ustedes ver qué
+
+[00:06:00]
+es el tridente. El tridente es el patrón
+
+[00:06:02]
+típico de CRT de tres velas. En este
+
+[00:06:04]
+caso, en un horario clave, fíjate, 7 de
+
+[00:06:06]
+la mañana, 8 de la mañana ocurre la toma
+
+[00:06:08]
+de liquidez y a las 9 de la mañana
+
+[00:06:10]
+ocurre la expansión, en este caso, hacia
+
+[00:06:12]
+arriba, que es cuando el mercado eh eh
+
+[00:06:15]
+cuando entramos. Acá se puede entrar de
+
+[00:06:17]
+muchas formas, pero uno de los modelos
+
+[00:06:19]
+que a mí me gusta, que recientemente te
+
+[00:06:20]
+lo estuve enseñando, es el modelo de
+
+[00:06:22]
+ruptura. Cuando el precio rompe por
+
+[00:06:24]
+aquí, tú puedes estar entrando acá. Ya
+
+[00:06:27]
+puedes bajar una temporalidad de 5
+
+[00:06:29]
+minutos, de 15 o lo que sea para poder
+
+[00:06:31]
+estar entrando en la mera ruptura. O es
+
+[00:06:35]
+simple, puedes entrar en la mera ruptura
+
+[00:06:36]
+y ya está. Ahora, dentro de esto, yo
+
+[00:06:40]
+estuve entrando exactamente de esa
+
+[00:06:43]
+manera. De hecho, ahorita te lo voy a
+
+[00:06:44]
+mostrar, pero yo entré en el caso en el
+
+[00:06:47]
+Nasdaq 100. Yo no entré en el SP500,
+
+[00:06:49]
+pero el SP500, mira que se dio bastante
+
+[00:06:51]
+bonito. Ahora, mi target, mi target es
+
+[00:06:54]
+exactamente este es el primer target que
+
+[00:06:56]
+teníamos en alta temporalidad que te
+
+[00:06:57]
+había dicho y el segundo target era este
+
+[00:07:00]
+que está acá. Pero nosotros vamos a ir
+
+[00:07:01]
+al primer target, que es el más facilito
+
+[00:07:03]
+que está ahí, y ponemos un stop loss. Lo
+
+[00:07:05]
+ideal que pongamos un stop loss por
+
+[00:07:07]
+debajo. ¿Por debajo de qué? Por debajo
+
+[00:07:09]
+de estos lows. Pero si el stop loss te
+
+[00:07:10]
+queda muy grande, puedes usar un 50% del
+
+[00:07:13]
+stop loss o un 60% y ahí pones tu stop
+
+[00:07:16]
+loss para que una operación te quede uno
+
+[00:07:17]
+a dos, una a tres, depende lo que tú
+
+[00:07:20]
+estés buscando. En futuro se puede
+
+[00:07:22]
+utilizar hasta un 1 y medio, uno a uno,
+
+[00:07:24]
+que es bastante rentable en futuros. Y
+
+[00:07:26]
+fíjate como nosotros estamos viendo
+
+[00:07:29]
+justo que el precio abre aquí a las 9 de
+
+[00:07:31]
+la mañana más o menos. Estamos dentro a
+
+[00:07:33]
+las 9:20 y fíjate cuánto tarda nuestra
+
+[00:07:36]
+operación. A las 10 de la mañana estamos
+
+[00:07:38]
+fuera. En menos de 30 minutos tú ya
+
+[00:07:41]
+tienes el día totalmente hecho. Pero te
+
+[00:07:44]
+lo voy a mostrar con la operación que
+
+[00:07:45]
+estuve poniendo el día de hoy. Bueno,
+
+[00:07:46]
+como les decía, chicos, acá estamos en
+
+[00:07:48]
+este caso en mi Telegram, Telegram de
+
+[00:07:49]
+alumnos, Telegram VIP de todos los
+
+[00:07:51]
+alumnos de mentoría un a uno y ven como
+
+[00:07:53]
+puse la entrada justo aquí. Aquí está mi
+
+[00:07:55]
+compra y aquí está mi TP. Yo decidí en
+
+[00:07:57]
+esta cuenta salir más antes. ¿Por qué?
+
+[00:08:00]
+Porque salí más rápido o más antes. Yo
+
+[00:08:02]
+salí, no salí hasta el máximo, salí
+
+[00:08:03]
+hasta acá porque ya tenía eh en Asia ya
+
+[00:08:06]
+había hecho yo gran profit, ya gran
+
+[00:08:08]
+parte del profit, entonces ya no
+
+[00:08:10]
+necesitaba más profit en esta cuenta y
+
+[00:08:12]
+por eso estuve saliendo ahí. Pero miren
+
+[00:08:14]
+cómo se dio a la perfección en este caso
+
+[00:08:16]
+la entrada y como nosotros estuvimos
+
+[00:08:19]
+aprovechándonos de ella. es bastante eh
+
+[00:08:21]
+sencillo y fácil y también es una
+
+[00:08:23]
+estrategia que tú puedes estar
+
+[00:08:24]
+repitiendo todos los días. Entonces,
+
+[00:08:27]
+para finalizar este video, te voy a
+
+[00:08:29]
+traer el resumen. Bueno, el resumen
+
+[00:08:31]
+sería, chicos, encontrar dirección en
+
+[00:08:33]
+alta temporalidad, nuestra temporalidad
+
+[00:08:35]
+diaria y encontrar una temporalidad
+
+[00:08:37]
+intermedia para ver algunos rangos que
+
+[00:08:39]
+estén alineados y entrar a las 9 de la
+
+[00:08:41]
+mañana en 3 horas, una hora y pueden
+
+[00:08:44]
+ustedes usar un 5, un 15 minutos para la
+
+[00:08:46]
+confirmación. Utilizamos uno de los
+
+[00:08:48]
+modelos que he enseñado gratis en este
+
+[00:08:49]
+en este canal y de esa manera tú todos
+
+[00:08:52]
+los días podrías estar entrando al
+
+[00:08:54]
+mercado sin necesidad de estar todos los
+
+[00:08:56]
+días operando tantísimo tiempo. Esto son
+
+[00:08:59]
+operaciones totalmente rápidas, son
+
+[00:09:00]
+operaciones que no te van a durar tanto
+
+[00:09:02]
+tiempo, pero aún así, si tú eres una
+
+[00:09:05]
+persona que piensas que no puedes
+
+[00:09:07]
+conseguirlo, solo, eres una persona que
+
+[00:09:08]
+estás batallando, que no has logrado
+
+[00:09:10]
+resultados y deseas, obviamente tener
+
+[00:09:12]
+ayuda personalizada o que yo
+
+[00:09:14]
+personalmente te enseñe esto que te
+
+[00:09:15]
+estoy enseñando por acá, puedes
+
+[00:09:17]
+escribirme abajo en la descripción o en
+
+[00:09:19]
+el comentario fijado de este video para
+
+[00:09:21]
+me puedes escribir solamente para las
+
+[00:09:23]
+personas que quieran y yo personalmente
+
+[00:09:24]
+te estaré respondiendo y te estaré
+
+[00:09:26]
+ayudando para las personas que quieran
+
+[00:09:28]
+llevar tu trading al siguiente nivel o
+
+[00:09:29]
+que quieran que yo de la mano eh esté
+
+[00:09:32]
+ayudándote a poder conseguir resultados,
+
+[00:09:34]
+en este caso en el trading y a estar
+
+[00:09:36]
+operando todos los días consistentemente
+
+[00:09:39]
+en los mercados financieros. Y si te
+
+[00:09:41]
+interesa saber todo sobre la estrategia
+
+[00:09:43]
+CRT más a profundidad, te voy a dejar
+
+[00:09:45]
+este video para que vayas y lo veas. Te
+
+[00:09:48]
+espero en este

@@ -1,0 +1,857 @@
+[
+  {
+    "start_sec": 0.0,
+    "end_sec": 1.64,
+    "text": "Bueno chicos Sean bienvenidos a un nuevo"
+  },
+  {
+    "start_sec": 1.64,
+    "end_sec": 4.24,
+    "text": "video esta vez módulo número tres clase"
+  },
+  {
+    "start_sec": 4.24,
+    "end_sec": 6.08,
+    "text": "número dos vamos a estudiar lo que son"
+  },
+  {
+    "start_sec": 6.08,
+    "end_sec": 8.84,
+    "text": "las temporalidades vamos a simplificar"
+  },
+  {
+    "start_sec": 8.84,
+    "end_sec": 10.88,
+    "text": "lo máximo posible las temporalidades"
+  },
+  {
+    "start_sec": 10.88,
+    "end_sec": 12.88,
+    "text": "esto con la finalidad de que podamos"
+  },
+  {
+    "start_sec": 12.88,
+    "end_sec": 16.2,
+    "text": "entender aún más lo que el precio hace"
+  },
+  {
+    "start_sec": 16.2,
+    "end_sec": 18.76,
+    "text": "Entonces vamos de lleno a nuestra clase"
+  },
+  {
+    "start_sec": 18.76,
+    "end_sec": 21.72,
+    "text": "eh del día de hoy simplificación de"
+  },
+  {
+    "start_sec": 21.72,
+    "end_sec": 23.84,
+    "text": "temporalidades la importancia de las"
+  },
+  {
+    "start_sec": 23.84,
+    "end_sec": 25.92,
+    "text": "temporalidades muchas personas por eso"
+  },
+  {
+    "start_sec": 25.92,
+    "end_sec": 28.4,
+    "text": "se se confunden por eso no saben lo que"
+  },
+  {
+    "start_sec": 28.4,
+    "end_sec": 30.92,
+    "text": "el precio hace porque realmente no están"
+  },
+  {
+    "start_sec": 30.92,
+    "end_sec": 32.8,
+    "text": "entendiendo bien las temporalidades"
+  },
+  {
+    "start_sec": 32.8,
+    "end_sec": 34.48,
+    "text": "Entonces vamos con la teoría los marcos"
+  },
+  {
+    "start_sec": 34.48,
+    "end_sec": 36.16,
+    "text": "de tiempo temporales Time frame"
+  },
+  {
+    "start_sec": 36.16,
+    "end_sec": 38.76,
+    "text": "intradiario intradía operaciones que se"
+  },
+  {
+    "start_sec": 38.76,
+    "end_sec": 40.96,
+    "text": "abren y se cierran el mismo día incluyen"
+  },
+  {
+    "start_sec": 40.96,
+    "end_sec": 43.84,
+    "text": "scalping minutos y Day trading horas"
+  },
+  {
+    "start_sec": 43.84,
+    "end_sec": 46.68,
+    "text": "entonces bien importante entender qué es"
+  },
+  {
+    "start_sec": 46.68,
+    "end_sec": 48.88,
+    "text": "lo que quiero tradear yo Qué es en lo"
+  },
+  {
+    "start_sec": 48.88,
+    "end_sec": 51.28,
+    "text": "que me quiero centrar desde ahí voy a ir"
+  },
+  {
+    "start_sec": 51.28,
+    "end_sec": 53.76,
+    "text": "al marco temporal adecuado a poder"
+  },
+  {
+    "start_sec": 53.76,
+    "end_sec": 56.2,
+    "text": "operar corto plazo operaciones que duran"
+  },
+  {
+    "start_sec": 56.2,
+    "end_sec": 58.6,
+    "text": "desde un par de días hasta semanas"
+  },
+  {
+    "start_sec": 58.6,
+    "end_sec": 60.64,
+    "text": "medano plazo operaciones que se"
+  },
+  {
+    "start_sec": 60.64,
+    "end_sec": 62.96,
+    "text": "mantienen abiertas durante semanas o"
+  },
+  {
+    "start_sec": 62.96,
+    "end_sec": 65.8,
+    "text": "meses un largo plazo operaciones que se"
+  },
+  {
+    "start_sec": 65.8,
+    "end_sec": 68.52,
+    "text": "mantienen abiertas durante meses o años"
+  },
+  {
+    "start_sec": 68.52,
+    "end_sec": 70.88,
+    "text": "típicas de inversión a largo plazo ahora"
+  },
+  {
+    "start_sec": 70.88,
+    "end_sec": 72.8,
+    "text": "la simplificación que yo voy a utilizar"
+  },
+  {
+    "start_sec": 72.8,
+    "end_sec": 74.6,
+    "text": "para poder entender cada una de estas"
+  },
+  {
+    "start_sec": 74.6,
+    "end_sec": 77.64,
+    "text": "temporalidades va a ser la siguiente"
+  },
+  {
+    "start_sec": 77.64,
+    "end_sec": 79.44,
+    "text": "tengo un intradiario que va a ser"
+  },
+  {
+    "start_sec": 79.44,
+    "end_sec": 82.24,
+    "text": "intradía voy a centrarme en h1 para la"
+  },
+  {
+    "start_sec": 82.24,
+    "end_sec": 84.44,
+    "text": "tendencia en m15 para un patrón de"
+  },
+  {
+    "start_sec": 84.44,
+    "end_sec": 87.48,
+    "text": "entrada y en un m5 para un refine no"
+  },
+  {
+    "start_sec": 87.48,
+    "end_sec": 88.96,
+    "text": "quiere decir que exactamente tú lo"
+  },
+  {
+    "start_sec": 88.96,
+    "end_sec": 91.12,
+    "text": "tengas que hacer así pero lo que"
+  },
+  {
+    "start_sec": 91.12,
+    "end_sec": 93.2,
+    "text": "tratamos es de simplificar lo más"
+  },
+  {
+    "start_sec": 93.2,
+    "end_sec": 95.16,
+    "text": "posible nuestro trading y no estarnos"
+  },
+  {
+    "start_sec": 95.16,
+    "end_sec": 98.32,
+    "text": "revolviendo con tantas cosas entonces"
+  },
+  {
+    "start_sec": 98.32,
+    "end_sec": 102.96,
+    "text": "scalping m15 tendencia m5 patrón y M1"
+  },
+  {
+    "start_sec": 102.96,
+    "end_sec": 105.24,
+    "text": "nuestro refine de nuestra entrada un"
+  },
+  {
+    "start_sec": 105.24,
+    "end_sec": 107.04,
+    "text": "corto plazo operaciones que duran un par"
+  },
+  {
+    "start_sec": 107.04,
+    "end_sec": 109.44,
+    "text": "de días hastas semanas tendencia puede"
+  },
+  {
+    "start_sec": 109.44,
+    "end_sec": 111.92,
+    "text": "ser lo que yo hago tendencia en diario 4"
+  },
+  {
+    "start_sec": 111.92,
+    "end_sec": 115.84,
+    "text": "horas patrón en h4 h2 refinen h1 Y m30"
+  },
+  {
+    "start_sec": 115.84,
+    "end_sec": 118.16,
+    "text": "eso es básicamente lo que yo hago"
+  },
+  {
+    "start_sec": 118.16,
+    "end_sec": 120.4,
+    "text": "operaciones que duran entre dos TR cu"
+  },
+  {
+    "start_sec": 120.4,
+    "end_sec": 122.96,
+    "text": "días mediano plazo ya son operaciones ya"
+  },
+  {
+    "start_sec": 122.96,
+    "end_sec": 125.32,
+    "text": "más de swing que son tendencia en"
+  },
+  {
+    "start_sec": 125.32,
+    "end_sec": 128.08,
+    "text": "semanal patrón en diario y refinen 4"
+  },
+  {
+    "start_sec": 128.08,
+    "end_sec": 130.48,
+    "text": "horas un largo plazo tenemos operaciones"
+  },
+  {
+    "start_sec": 130.48,
+    "end_sec": 132.24,
+    "text": "que se mantienen abiertas durante meses"
+  },
+  {
+    "start_sec": 132.24,
+    "end_sec": 134.32,
+    "text": "o años la tendencia vamos a"
+  },
+  {
+    "start_sec": 134.32,
+    "end_sec": 137.36,
+    "text": "identificarla principalmente en mensual"
+  },
+  {
+    "start_sec": 137.36,
+    "end_sec": 139.44,
+    "text": "refine O Nuestro patrón de entrada va"
+  },
+  {
+    "start_sec": 139.44,
+    "end_sec": 142.04,
+    "text": "ser en semanal y nuestro refine en"
+  },
+  {
+    "start_sec": 142.04,
+    "end_sec": 144.04,
+    "text": "diario esto es un poquito la"
+  },
+  {
+    "start_sec": 144.04,
+    "end_sec": 145.64,
+    "text": "simplificación de las temporalidades y"
+  },
+  {
+    "start_sec": 145.64,
+    "end_sec": 147.24,
+    "text": "ahora vamos a pasar un poquito más con"
+  },
+  {
+    "start_sec": 147.24,
+    "end_sec": 150.24,
+    "text": "la teoría multit temporalidad Cómo a"
+  },
+  {
+    "start_sec": 150.24,
+    "end_sec": 152.88,
+    "text": "utilizar la multit temporalidad o qué es"
+  },
+  {
+    "start_sec": 152.88,
+    "end_sec": 154.72,
+    "text": "para poder entender nuestras"
+  },
+  {
+    "start_sec": 154.72,
+    "end_sec": 156.92,
+    "text": "temporalidades un poquito mejor el"
+  },
+  {
+    "start_sec": 156.92,
+    "end_sec": 159.6,
+    "text": "análisis multitemporal o multiple Time"
+  },
+  {
+    "start_sec": 159.6,
+    "end_sec": 161.72,
+    "text": "frame análisis consiste en analizar un"
+  },
+  {
+    "start_sec": 161.72,
+    "end_sec": 163.84,
+    "text": "activo en diferentes Marcos temporales"
+  },
+  {
+    "start_sec": 163.84,
+    "end_sec": 165.96,
+    "text": "para obtener una visión más completa por"
+  },
+  {
+    "start_sec": 165.96,
+    "end_sec": 167.44,
+    "text": "ejemplo un Trader puede analizar una"
+  },
+  {
+    "start_sec": 167.44,
+    "end_sec": 169.52,
+    "text": "acción en gráficos diarios para la"
+  },
+  {
+    "start_sec": 169.52,
+    "end_sec": 171.68,
+    "text": "tendencia principal en gráficos horarios"
+  },
+  {
+    "start_sec": 171.68,
+    "end_sec": 173.28,
+    "text": "para puntos de entrada y en gráficos de"
+  },
+  {
+    "start_sec": 173.28,
+    "end_sec": 175.32,
+    "text": "15 minutos para el momento exacto de la"
+  },
+  {
+    "start_sec": 175.32,
+    "end_sec": 177.12,
+    "text": "operación básicamente eso es lo que"
+  },
+  {
+    "start_sec": 177.12,
+    "end_sec": 179.0,
+    "text": "vamos a estar haciendo a la hora de"
+  },
+  {
+    "start_sec": 179.0,
+    "end_sec": 181.04,
+    "text": "nosotros tener nuestra operativa para"
+  },
+  {
+    "start_sec": 181.04,
+    "end_sec": 183.52,
+    "text": "tener una mejor probabilidad de tener"
+  },
+  {
+    "start_sec": 183.52,
+    "end_sec": 184.88,
+    "text": "una mejor probabilidad de unas"
+  },
+  {
+    "start_sec": 184.88,
+    "end_sec": 187.28,
+    "text": "operaciones ganadoras simplificación"
+  },
+  {
+    "start_sec": 187.28,
+    "end_sec": 189.36,
+    "text": "tendencia temporalidad donde vas a"
+  },
+  {
+    "start_sec": 189.36,
+    "end_sec": 191.64,
+    "text": "buscar tus fractales a trabajar y es"
+  },
+  {
+    "start_sec": 191.64,
+    "end_sec": 193.96,
+    "text": "donde termina el ciclo actual a que a"
+  },
+  {
+    "start_sec": 193.96,
+    "end_sec": 196.36,
+    "text": "qué puntos de giro estamos Y dónde está"
+  },
+  {
+    "start_sec": 196.36,
+    "end_sec": 198.4,
+    "text": "el precio y De dónde viene nuestro"
+  },
+  {
+    "start_sec": 198.4,
+    "end_sec": 200.72,
+    "text": "patrón va a ser es la temporalidad donde"
+  },
+  {
+    "start_sec": 200.72,
+    "end_sec": 203.0,
+    "text": "buscaremos un fractal inmediato y donde"
+  },
+  {
+    "start_sec": 203.0,
+    "end_sec": 204.68,
+    "text": "vas a te vas a poder aprovechar del"
+  },
+  {
+    "start_sec": 204.68,
+    "end_sec": 206.08,
+    "text": "siguiente movimiento en este caso"
+  },
+  {
+    "start_sec": 206.08,
+    "end_sec": 210.0,
+    "text": "nuestro motivo número dos han visto eso"
+  },
+  {
+    "start_sec": 210.0,
+    "end_sec": 211.76,
+    "text": "Les recomiendo que vean cada una de las"
+  },
+  {
+    "start_sec": 211.76,
+    "end_sec": 213.68,
+    "text": "clases que hemos tenido No se pierdan"
+  },
+  {
+    "start_sec": 213.68,
+    "end_sec": 215.56,
+    "text": "ninguna de las clases es importante para"
+  },
+  {
+    "start_sec": 215.56,
+    "end_sec": 219.92,
+    "text": "poder obtener un análisis o una mentoría"
+  },
+  {
+    "start_sec": 219.92,
+    "end_sec": 222.0,
+    "text": "bien completa tienen que ver cada uno de"
+  },
+  {
+    "start_sec": 222.0,
+    "end_sec": 223.96,
+    "text": "los videos nuestro refin es la"
+  },
+  {
+    "start_sec": 223.96,
+    "end_sec": 225.4,
+    "text": "temporalidad donde vas a tratar de"
+  },
+  {
+    "start_sec": 225.4,
+    "end_sec": 229.0,
+    "text": "buscar el mejor punto de entrada Bueno"
+  },
+  {
+    "start_sec": 229.0,
+    "end_sec": 230.52,
+    "text": "aquí tenemos ejemplo de multit"
+  },
+  {
+    "start_sec": 230.52,
+    "end_sec": 233.2,
+    "text": "temporalidad básicamente podríamos poner"
+  },
+  {
+    "start_sec": 233.2,
+    "end_sec": 234.92,
+    "text": "cualquier temporalidad alta que ustedes"
+  },
+  {
+    "start_sec": 234.92,
+    "end_sec": 237.08,
+    "text": "quieran va a ser nuestra tendencia"
+  },
+  {
+    "start_sec": 237.08,
+    "end_sec": 239.76,
+    "text": "impulso retroceso impulso retroceso"
+  },
+  {
+    "start_sec": 239.76,
+    "end_sec": 241.92,
+    "text": "tendencia clásica Este es el último"
+  },
+  {
+    "start_sec": 241.92,
+    "end_sec": 243.96,
+    "text": "fractal que yo decido trabajar Gustavo"
+  },
+  {
+    "start_sec": 243.96,
+    "end_sec": 246.44,
+    "text": "el precio espera un retroceso y me monto"
+  },
+  {
+    "start_sec": 246.44,
+    "end_sec": 248.52,
+    "text": "a la alza dónde va a estar mi patrón de"
+  },
+  {
+    "start_sec": 248.52,
+    "end_sec": 249.64,
+    "text": "entrada pues va a ser en una"
+  },
+  {
+    "start_sec": 249.64,
+    "end_sec": 253.0,
+    "text": "temporalidad menor por ejemplo h1 los"
+  },
+  {
+    "start_sec": 253.0,
+    "end_sec": 256.56,
+    "text": "los intr diarios m15 para nuestro patrón"
+  },
+  {
+    "start_sec": 256.56,
+    "end_sec": 258.8,
+    "text": "de entrada y ya refine vamos a buscarlo"
+  },
+  {
+    "start_sec": 258.8,
+    "end_sec": 262.16,
+    "text": "en m5 o en M1 puede ser donde vamos a"
+  },
+  {
+    "start_sec": 262.16,
+    "end_sec": 264.68,
+    "text": "encontrar el cambio estructural primario"
+  },
+  {
+    "start_sec": 264.68,
+    "end_sec": 267.44,
+    "text": "que nos den nuestra entrada simplemente"
+  },
+  {
+    "start_sec": 267.44,
+    "end_sec": 269.96,
+    "text": "es así como funciona tres temporalidad"
+  },
+  {
+    "start_sec": 269.96,
+    "end_sec": 271.84,
+    "text": "nos centramos y podemos simplificar"
+  },
+  {
+    "start_sec": 271.84,
+    "end_sec": 274.36,
+    "text": "mucho más nuestro trading ya por último"
+  },
+  {
+    "start_sec": 274.36,
+    "end_sec": 276.92,
+    "text": "la teoría básica o la gestión del riesgo"
+  },
+  {
+    "start_sec": 276.92,
+    "end_sec": 279.84,
+    "text": "en lo que es la multitemporal En qué nos"
+  },
+  {
+    "start_sec": 279.84,
+    "end_sec": 281.32,
+    "text": "afecta la gestión de riesgo y la"
+  },
+  {
+    "start_sec": 281.32,
+    "end_sec": 282.92,
+    "text": "psicología un poquito para estar"
+  },
+  {
+    "start_sec": 282.92,
+    "end_sec": 285.0,
+    "text": "reforzando todos estos puntos la"
+  },
+  {
+    "start_sec": 285.0,
+    "end_sec": 286.48,
+    "text": "temporalidad afecta la gestión del"
+  },
+  {
+    "start_sec": 286.48,
+    "end_sec": 288.64,
+    "text": "riesgo en marcos de temporales más"
+  },
+  {
+    "start_sec": 288.64,
+    "end_sec": 290.32,
+    "text": "cortos se tiende a usar stop bloss más"
+  },
+  {
+    "start_sec": 290.32,
+    "end_sec": 292.2,
+    "text": "ajustados mientras que en Marcos"
+  },
+  {
+    "start_sec": 292.2,
+    "end_sec": 294.08,
+    "text": "temporales más largos los stop pueden"
+  },
+  {
+    "start_sec": 294.08,
+    "end_sec": 295.72,
+    "text": "ser más amplios debido a una mayor"
+  },
+  {
+    "start_sec": 295.72,
+    "end_sec": 297.68,
+    "text": "volatil psicología del trading en el"
+  },
+  {
+    "start_sec": 297.68,
+    "end_sec": 299.04,
+    "text": "marco temporal también afecta la"
+  },
+  {
+    "start_sec": 299.04,
+    "end_sec": 301.44,
+    "text": "psicología de el Trader operar en Marcos"
+  },
+  {
+    "start_sec": 301.44,
+    "end_sec": 303.08,
+    "text": "muy cortos puede ser estresante y"
+  },
+  {
+    "start_sec": 303.08,
+    "end_sec": 305.44,
+    "text": "demandar muchísima atención mientras que"
+  },
+  {
+    "start_sec": 305.44,
+    "end_sec": 307.2,
+    "text": "operar en marcos de tiempo más largos"
+  },
+  {
+    "start_sec": 307.2,
+    "end_sec": 308.96,
+    "text": "puede requerir más paciencia y"
+  },
+  {
+    "start_sec": 308.96,
+    "end_sec": 310.8,
+    "text": "tolerancia a las fluctuaciones del"
+  },
+  {
+    "start_sec": 310.8,
+    "end_sec": 313.04,
+    "text": "mercado Esto es para ver pros y contras"
+  },
+  {
+    "start_sec": 313.04,
+    "end_sec": 315.12,
+    "text": "de operar en temporalidades altas y"
+  },
+  {
+    "start_sec": 315.12,
+    "end_sec": 317.16,
+    "text": "temporalidades menores para ver cuáles"
+  },
+  {
+    "start_sec": 317.16,
+    "end_sec": 319.16,
+    "text": "son las fortalezas y las debilidades de"
+  },
+  {
+    "start_sec": 319.16,
+    "end_sec": 321.48,
+    "text": "tu operativa tienes que conocerlas para"
+  },
+  {
+    "start_sec": 321.48,
+    "end_sec": 324.88,
+    "text": "que tú puedas tener mejor probabilidad"
+  },
+  {
+    "start_sec": 324.88,
+    "end_sec": 326.72,
+    "text": "en tus operaciones para puedes tener"
+  },
+  {
+    "start_sec": 326.72,
+    "end_sec": 328.48,
+    "text": "tranquilidad a la hora de operar"
+  },
+  {
+    "start_sec": 328.48,
+    "end_sec": 330.48,
+    "text": "comprender y utilizar adecuadamente los"
+  },
+  {
+    "start_sec": 330.48,
+    "end_sec": 332.88,
+    "text": "diferentes Marcos temporales es esencial"
+  },
+  {
+    "start_sec": 332.88,
+    "end_sec": 334.32,
+    "text": "para desarrollar una estrategia de"
+  },
+  {
+    "start_sec": 334.32,
+    "end_sec": 336.36,
+    "text": "trading efectiva y adaptada a las"
+  },
+  {
+    "start_sec": 336.36,
+    "end_sec": 338.76,
+    "text": "preferencias personales y objetivos"
+  },
+  {
+    "start_sec": 338.76,
+    "end_sec": 340.76,
+    "text": "financieros de cada uno de los traders"
+  },
+  {
+    "start_sec": 340.76,
+    "end_sec": 342.4,
+    "text": "bien importante esto chicos de la"
+  },
+  {
+    "start_sec": 342.4,
+    "end_sec": 344.72,
+    "text": "temporalidad no lo pasen por alto no lo"
+  },
+  {
+    "start_sec": 344.72,
+    "end_sec": 346.96,
+    "text": "dejen por alto es importante comprender"
+  },
+  {
+    "start_sec": 346.96,
+    "end_sec": 349.4,
+    "text": "esto véanse la clase las veces que sean"
+  },
+  {
+    "start_sec": 349.4,
+    "end_sec": 352.28,
+    "text": "necesarias y entiendan muy bien cada una"
+  },
+  {
+    "start_sec": 352.28,
+    "end_sec": 354.96,
+    "text": "de las temporalidades estén enfocados en"
+  },
+  {
+    "start_sec": 354.96,
+    "end_sec": 357.12,
+    "text": "el estilo en la temporalidad que ustedes"
+  },
+  {
+    "start_sec": 357.12,
+    "end_sec": 359.24,
+    "text": "van a estar tradeando para que no haya"
+  },
+  {
+    "start_sec": 359.24,
+    "end_sec": 361.68,
+    "text": "problemas más en un futuro y empiecen a"
+  },
+  {
+    "start_sec": 361.68,
+    "end_sec": 363.56,
+    "text": "formar un buen plan de negocio yo espero"
+  },
+  {
+    "start_sec": 363.56,
+    "end_sec": 365.24,
+    "text": "que les haya gustado este video si"
+  },
+  {
+    "start_sec": 365.24,
+    "end_sec": 366.96,
+    "text": "tienes alguna duda o pregunta te leo en"
+  },
+  {
+    "start_sec": 366.96,
+    "end_sec": 368.8,
+    "text": "los comentarios si deseas una mentoría"
+  },
+  {
+    "start_sec": 368.8,
+    "end_sec": 370.88,
+    "text": "personalizada conmigo puedes escribirme"
+  },
+  {
+    "start_sec": 370.88,
+    "end_sec": 374.0,
+    "text": "al WhatsApp o al Instagram Gustavo m."
+  },
+  {
+    "start_sec": 374.0,
+    "end_sec": 376.28,
+    "text": "Trader los links los links están en la"
+  },
+  {
+    "start_sec": 376.28,
+    "end_sec": 378.72,
+    "text": "descripción y suscríbete a este bello y"
+  },
+  {
+    "start_sec": 378.72,
+    "end_sec": 380.72,
+    "text": "hermoso canal comparte estos videos con"
+  },
+  {
+    "start_sec": 380.72,
+    "end_sec": 382.64,
+    "text": "un amigo y nos estamos viendo en un"
+  },
+  {
+    "start_sec": 382.64,
+    "end_sec": 386.2,
+    "text": "próximo video adiós"
+  }
+]

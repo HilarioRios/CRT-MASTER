@@ -1,0 +1,22 @@
+{
+  "channels": [
+    {
+      "key": "canal_01",
+      "name": "Mento Trading Club",
+      "handle": "@MentoTradingClub",
+      "channel_page": "https://www.youtube.com/@MentoTradingClub/featured",
+      "url": "https://www.youtube.com/@MentoTradingClub/videos",
+      "channel_id": null,
+      "uploads_playlist_id": null
+    },
+    {
+      "key": "canal_02",
+      "name": "Gustavom Trader",
+      "handle": "@Gustavom.Trader",
+      "channel_page": "https://www.youtube.com/@Gustavom.Trader",
+      "url": "https://www.youtube.com/@Gustavom.Trader/videos",
+      "channel_id": null,
+      "uploads_playlist_id": null
+    }
+  ]
+}

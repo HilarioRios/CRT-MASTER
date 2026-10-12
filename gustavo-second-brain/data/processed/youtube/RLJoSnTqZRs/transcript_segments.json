@@ -1,0 +1,2432 @@
+[
+  {
+    "start_sec": 0.04,
+    "end_sec": 1.84,
+    "text": "Hola, ¿qué pasa a todos amigos de"
+  },
+  {
+    "start_sec": 1.84,
+    "end_sec": 4.64,
+    "text": "YouTube? Bienvenidos"
+  },
+  {
+    "start_sec": 4.64,
+    "end_sec": 7.68,
+    "text": "a todos a un nuevo video, esta vez a una"
+  },
+  {
+    "start_sec": 7.68,
+    "end_sec": 10.08,
+    "text": "master class donde vamos a ver los"
+  },
+  {
+    "start_sec": 10.08,
+    "end_sec": 13.16,
+    "text": "modelos de CRT, donde esta clase va a"
+  },
+  {
+    "start_sec": 13.16,
+    "end_sec": 16.0,
+    "text": "cambiar parte de tu trading para"
+  },
+  {
+    "start_sec": 16.0,
+    "end_sec": 18.64,
+    "text": "siempre. No serás el mismo después de"
+  },
+  {
+    "start_sec": 18.64,
+    "end_sec": 20.96,
+    "text": "esta clase donde vamos a ver los"
+  },
+  {
+    "start_sec": 20.96,
+    "end_sec": 23.68,
+    "text": "principales modelos de CRT, no solamente"
+  },
+  {
+    "start_sec": 23.68,
+    "end_sec": 25.48,
+    "text": "los clásicos que todo el mundo conoce,"
+  },
+  {
+    "start_sec": 25.48,
+    "end_sec": 28.08,
+    "text": "que es el de tres velas, sino un poquito"
+  },
+  {
+    "start_sec": 28.08,
+    "end_sec": 29.88,
+    "text": "más. Vamos a adentrarnos más en los"
+  },
+  {
+    "start_sec": 29.88,
+    "end_sec": 32.56,
+    "text": "modelos de CRT. Decirte que he trabajado"
+  },
+  {
+    "start_sec": 32.56,
+    "end_sec": 34.96,
+    "text": "durante varias horas en esta guía"
+  },
+  {
+    "start_sec": 34.96,
+    "end_sec": 36.92,
+    "text": "gratuita. Esta guía la vas a tener"
+  },
+  {
+    "start_sec": 36.92,
+    "end_sec": 39.48,
+    "text": "gratis. Solo lo único que debes de hacer"
+  },
+  {
+    "start_sec": 39.48,
+    "end_sec": 42.12,
+    "text": "es ir a mi Instagram, que se va a"
+  },
+  {
+    "start_sec": 42.12,
+    "end_sec": 43.56,
+    "text": "encontrar abajo en la descripción, el"
+  },
+  {
+    "start_sec": 43.56,
+    "end_sec": 46.48,
+    "text": "comentario fijado, y por mensaje"
+  },
+  {
+    "start_sec": 46.48,
+    "end_sec": 48.8,
+    "text": "seguirme, por supuesto, suscribirte a"
+  },
+  {
+    "start_sec": 48.8,
+    "end_sec": 50.56,
+    "text": "este canal, pegarle un buen me gusta al"
+  },
+  {
+    "start_sec": 50.56,
+    "end_sec": 54.12,
+    "text": "video y ir a mi Instagram, mandarme un"
+  },
+  {
+    "start_sec": 54.12,
+    "end_sec": 56.2,
+    "text": "mensajito y decirme, Gustavo, quiero la"
+  },
+  {
+    "start_sec": 56.2,
+    "end_sec": 58.88,
+    "text": "guía gratuita de los modelos de CRP."
+  },
+  {
+    "start_sec": 58.88,
+    "end_sec": 60.92,
+    "text": "Entonces, me mandas un mensaje, me"
+  },
+  {
+    "start_sec": 60.92,
+    "end_sec": 63.56,
+    "text": "sigues, me mandas un mensaje y yo te voy"
+  },
+  {
+    "start_sec": 63.56,
+    "end_sec": 66.48,
+    "text": "a dar esta guía gratis que preparé para"
+  },
+  {
+    "start_sec": 66.48,
+    "end_sec": 68.6,
+    "text": "todos ustedes, donde van a poder"
+  },
+  {
+    "start_sec": 68.6,
+    "end_sec": 71.16,
+    "text": "estudiar los modelos de CRT y hacerles"
+  },
+  {
+    "start_sec": 71.16,
+    "end_sec": 73.36,
+    "text": "back testing. Los invito entonces a que"
+  },
+  {
+    "start_sec": 73.36,
+    "end_sec": 75.44,
+    "text": "me sigan por Instagram, me pidan la guía"
+  },
+  {
+    "start_sec": 75.44,
+    "end_sec": 77.8,
+    "text": "los que estén interesados y se suscriban"
+  },
+  {
+    "start_sec": 77.8,
+    "end_sec": 79.64,
+    "text": "a este bello y hermoso canal que estamos"
+  },
+  {
+    "start_sec": 79.64,
+    "end_sec": 83.56,
+    "text": "subiendo contenido muy bonito sobre CRT."
+  },
+  {
+    "start_sec": 83.56,
+    "end_sec": 87.16,
+    "text": "Dicho esto, vamos allá con eh lo que es"
+  },
+  {
+    "start_sec": 87.16,
+    "end_sec": 89.24,
+    "text": "la teoría de lo que son los modelos de"
+  },
+  {
+    "start_sec": 89.24,
+    "end_sec": 91.96,
+    "text": "CRT. Vamos a allá la presentación que"
+  },
+  {
+    "start_sec": 91.96,
+    "end_sec": 94.08,
+    "text": "les preparé el día de hoy, una clase muy"
+  },
+  {
+    "start_sec": 94.08,
+    "end_sec": 96.16,
+    "text": "bonita. En esta clase vamos a"
+  },
+  {
+    "start_sec": 96.16,
+    "end_sec": 99.04,
+    "text": "introducirnos o nos vamos a introducir"
+  },
+  {
+    "start_sec": 99.04,
+    "end_sec": 101.36,
+    "text": "en una guía completa del CRT, donde"
+  },
+  {
+    "start_sec": 101.36,
+    "end_sec": 105.24,
+    "text": "vamos eh aclarar una idea fundamental."
+  },
+  {
+    "start_sec": 105.24,
+    "end_sec": 107.32,
+    "text": "El CRT no siempre se forma con las"
+  },
+  {
+    "start_sec": 107.32,
+    "end_sec": 110.32,
+    "text": "mismas tres velas. Existen diferentes"
+  },
+  {
+    "start_sec": 110.32,
+    "end_sec": 113.24,
+    "text": "modelos y variaciones en el precio,"
+  },
+  {
+    "start_sec": 113.24,
+    "end_sec": 114.84,
+    "text": "dónde pueden construir, dependiendo el"
+  },
+  {
+    "start_sec": 114.84,
+    "end_sec": 116.8,
+    "text": "contexto y la estructura del mercado, la"
+  },
+  {
+    "start_sec": 116.8,
+    "end_sec": 119.12,
+    "text": "intención institucional. Básicamente"
+  },
+  {
+    "start_sec": 119.12,
+    "end_sec": 121.16,
+    "text": "nosotros vamos a tener diferentes tipos"
+  },
+  {
+    "start_sec": 121.16,
+    "end_sec": 122.84,
+    "text": "de CRT que los que vamos a estudiar"
+  },
+  {
+    "start_sec": 122.84,
+    "end_sec": 125.04,
+    "text": "aquí. El propósito de esta lección es"
+  },
+  {
+    "start_sec": 125.04,
+    "end_sec": 126.76,
+    "text": "que los estudiantes aprendan a"
+  },
+  {
+    "start_sec": 126.76,
+    "end_sec": 128.96,
+    "text": "identificar las distintas formaciones"
+  },
+  {
+    "start_sec": 128.96,
+    "end_sec": 131.72,
+    "text": "del CRT, entender cómo se comporta el"
+  },
+  {
+    "start_sec": 131.72,
+    "end_sec": 134.16,
+    "text": "precio en cada una y reconocer cuando un"
+  },
+  {
+    "start_sec": 134.16,
+    "end_sec": 136.12,
+    "text": "modelo es válido o cuando simplemente"
+  },
+  {
+    "start_sec": 136.12,
+    "end_sec": 138.48,
+    "text": "está imitando la estructura. En esta"
+  },
+  {
+    "start_sec": 138.48,
+    "end_sec": 140.92,
+    "text": "clase vas a abrir la puerta un estudio"
+  },
+  {
+    "start_sec": 140.92,
+    "end_sec": 142.72,
+    "text": "más profundo sobre los modelos y"
+  },
+  {
+    "start_sec": 142.72,
+    "end_sec": 144.76,
+    "text": "patrones de precio y la lógica"
+  },
+  {
+    "start_sec": 144.76,
+    "end_sec": 147.68,
+    "text": "institucional preparado para mis alumnos"
+  },
+  {
+    "start_sec": 147.68,
+    "end_sec": 149.24,
+    "text": "para detectar con mayor precisión"
+  },
+  {
+    "start_sec": 149.24,
+    "end_sec": 151.48,
+    "text": "oportunidades en busca de entradas con"
+  },
+  {
+    "start_sec": 151.48,
+    "end_sec": 154.68,
+    "text": "la estrategia CRT. Esto es un poco la"
+  },
+  {
+    "start_sec": 154.68,
+    "end_sec": 156.8,
+    "text": "introducción y ahorita vamos a ir a los"
+  },
+  {
+    "start_sec": 156.8,
+    "end_sec": 159.44,
+    "text": "tipos de CRT. Entonces vamos a empezar"
+  },
+  {
+    "start_sec": 159.44,
+    "end_sec": 161.4,
+    "text": "por acá. Bueno, por acá ya les preparé"
+  },
+  {
+    "start_sec": 161.4,
+    "end_sec": 162.92,
+    "text": "también mi plumón para estarles"
+  },
+  {
+    "start_sec": 162.92,
+    "end_sec": 164.8,
+    "text": "coloreando. Vamos a ver los tipos de"
+  },
+  {
+    "start_sec": 164.8,
+    "end_sec": 166.84,
+    "text": "CRT. Vamos a trabajar cuatro. El"
+  },
+  {
+    "start_sec": 166.84,
+    "end_sec": 168.56,
+    "text": "primero, el primer modelo que vamos a"
+  },
+  {
+    "start_sec": 168.56,
+    "end_sec": 171.16,
+    "text": "trabajar va a ser el típico, ¿cuál es el"
+  },
+  {
+    "start_sec": 171.16,
+    "end_sec": 174.24,
+    "text": "patrón clásico de tres velas? Segundo"
+  },
+  {
+    "start_sec": 174.24,
+    "end_sec": 176.72,
+    "text": "modelo, CRT de dos velas. Y tercer"
+  },
+  {
+    "start_sec": 176.72,
+    "end_sec": 179.52,
+    "text": "modelo, CRT de vela interior. Eh, modelo"
+  },
+  {
+    "start_sec": 179.52,
+    "end_sec": 182.8,
+    "text": "4 de CRT de múltiples velas. CRT de"
+  },
+  {
+    "start_sec": 182.8,
+    "end_sec": 184.4,
+    "text": "múltiples velas. Entonces, aquí tenemos"
+  },
+  {
+    "start_sec": 184.4,
+    "end_sec": 188.28,
+    "text": "los cuatro CRTs o los cuatro modelos de"
+  },
+  {
+    "start_sec": 188.28,
+    "end_sec": 193.48,
+    "text": "CRT. Vamos entonces a ir con el modelo"
+  },
+  {
+    "start_sec": 193.48,
+    "end_sec": 195.56,
+    "text": "número uno. Recuerda que este video está"
+  },
+  {
+    "start_sec": 195.56,
+    "end_sec": 197.6,
+    "text": "patrocinado por Funden Next, una de las"
+  },
+  {
+    "start_sec": 197.6,
+    "end_sec": 200.32,
+    "text": "empresas más top en el mundo del fondeo,"
+  },
+  {
+    "start_sec": 200.32,
+    "end_sec": 202.64,
+    "text": "donde puedes adquirir tu prueba desde 3"
+  },
+  {
+    "start_sec": 202.64,
+    "end_sec": 203.96,
+    "text": "$ 32.99"
+  },
+  {
+    "start_sec": 203.96,
+    "end_sec": 206.84,
+    "text": "9 s super barato, una de las empresas"
+  },
+  {
+    "start_sec": 206.84,
+    "end_sec": 209.52,
+    "text": "más top y vas a tener mi link en la"
+  },
+  {
+    "start_sec": 209.52,
+    "end_sec": 211.12,
+    "text": "descripción y el comentario fijado"
+  },
+  {
+    "start_sec": 211.12,
+    "end_sec": 213.92,
+    "text": "seguramente para que puedas registrarte"
+  },
+  {
+    "start_sec": 213.92,
+    "end_sec": 216.24,
+    "text": "en esta empresa y me apoyes, apoyes mi"
+  },
+  {
+    "start_sec": 216.24,
+    "end_sec": 218.16,
+    "text": "contenido si te gusta mucho, puedas"
+  },
+  {
+    "start_sec": 218.16,
+    "end_sec": 219.84,
+    "text": "registrarte aquí y puedas comprar"
+  },
+  {
+    "start_sec": 219.84,
+    "end_sec": 222.52,
+    "text": "también tu cuentita de fondeo. También"
+  },
+  {
+    "start_sec": 222.52,
+    "end_sec": 225.2,
+    "text": "decirte que vas a poder acceder también"
+  },
+  {
+    "start_sec": 225.2,
+    "end_sec": 227.4,
+    "text": "a los sorteos que estaré haciendo sobre"
+  },
+  {
+    "start_sec": 227.4,
+    "end_sec": 229.68,
+    "text": "cuentas de fondeo en esta empresa."
+  },
+  {
+    "start_sec": 229.68,
+    "end_sec": 231.0,
+    "text": "Entonces, gracias a Funden Next por"
+  },
+  {
+    "start_sec": 231.0,
+    "end_sec": 232.52,
+    "text": "patrocinar este video, una de las"
+  },
+  {
+    "start_sec": 232.52,
+    "end_sec": 235.36,
+    "text": "empresas más top en el mundo del fondeo,"
+  },
+  {
+    "start_sec": 235.36,
+    "end_sec": 239.48,
+    "text": "con pagos en menos de 24 horas y si no"
+  },
+  {
+    "start_sec": 239.48,
+    "end_sec": 241.64,
+    "text": "te dan un bono o te aseguran que te van"
+  },
+  {
+    "start_sec": 241.64,
+    "end_sec": 244.16,
+    "text": "a pagar en menos de 24 horas. Eh, a mí"
+  },
+  {
+    "start_sec": 244.16,
+    "end_sec": 245.92,
+    "text": "me encanta muchísimo la empresa y"
+  },
+  {
+    "start_sec": 245.92,
+    "end_sec": 248.2,
+    "text": "gracias a Funden Next por patrocinar"
+  },
+  {
+    "start_sec": 248.2,
+    "end_sec": 251.2,
+    "text": "este maravilloso video. Aquí les puse"
+  },
+  {
+    "start_sec": 251.2,
+    "end_sec": 252.96,
+    "text": "también los pasos para que ustedes lo"
+  },
+  {
+    "start_sec": 252.96,
+    "end_sec": 255.12,
+    "text": "tengan bien claro y les voy a estar"
+  },
+  {
+    "start_sec": 255.12,
+    "end_sec": 257.76,
+    "text": "poniendo ejemplos alcistas y bajistas."
+  },
+  {
+    "start_sec": 257.76,
+    "end_sec": 259.52,
+    "text": "Antes de empezar a explicar el primer"
+  },
+  {
+    "start_sec": 259.52,
+    "end_sec": 261.8,
+    "text": "modelo, decirles también que en esta"
+  },
+  {
+    "start_sec": 261.8,
+    "end_sec": 263.84,
+    "text": "clase solamente vamos a ver lo que es la"
+  },
+  {
+    "start_sec": 263.84,
+    "end_sec": 266.64,
+    "text": "teoría, vamos a ver los modelos, pero si"
+  },
+  {
+    "start_sec": 266.64,
+    "end_sec": 269.6,
+    "text": "quier en una siguiente clase donde me"
+  },
+  {
+    "start_sec": 269.6,
+    "end_sec": 272.24,
+    "text": "ponga a hacer back testing, donde me"
+  },
+  {
+    "start_sec": 272.24,
+    "end_sec": 274.44,
+    "text": "meta más a fondo sobre estos modelos,"
+  },
+  {
+    "start_sec": 274.44,
+    "end_sec": 277.12,
+    "text": "déjenme en los comentarios. Gustavo, haz"
+  },
+  {
+    "start_sec": 277.12,
+    "end_sec": 280.08,
+    "text": "el back testing de los modelos o tráenos"
+  },
+  {
+    "start_sec": 280.08,
+    "end_sec": 282.08,
+    "text": "ejemplos en un gráfico real de los"
+  },
+  {
+    "start_sec": 282.08,
+    "end_sec": 284.8,
+    "text": "modelos. Déjenme los comentarios, dejen"
+  },
+  {
+    "start_sec": 284.8,
+    "end_sec": 287.28,
+    "text": "su comentario ahí y yo estaré viendo si"
+  },
+  {
+    "start_sec": 287.28,
+    "end_sec": 288.8,
+    "text": "hay muchos comentarios, les estaré"
+  },
+  {
+    "start_sec": 288.8,
+    "end_sec": 291.4,
+    "text": "trayendo back testing, más cositas, más"
+  },
+  {
+    "start_sec": 291.4,
+    "end_sec": 293.92,
+    "text": "videos sobre esto. Básicamente, primer"
+  },
+  {
+    "start_sec": 293.92,
+    "end_sec": 296.56,
+    "text": "modelo, patrón clásico de tres velas."
+  },
+  {
+    "start_sec": 296.56,
+    "end_sec": 299.08,
+    "text": "Vela uno, crea liquidez en ambos"
+  },
+  {
+    "start_sec": 299.08,
+    "end_sec": 302.48,
+    "text": "extremos, alto y bajo. La vela toma o"
+  },
+  {
+    "start_sec": 302.48,
+    "end_sec": 305.64,
+    "text": "purga la liquidez de uno de los lados."
+  },
+  {
+    "start_sec": 305.64,
+    "end_sec": 307.76,
+    "text": "Número tres, vela tres. El precio se"
+  },
+  {
+    "start_sec": 307.76,
+    "end_sec": 309.8,
+    "text": "expande hacia la liquidez opuesta y"
+  },
+  {
+    "start_sec": 309.8,
+    "end_sec": 312.44,
+    "text": "completa el modelo. Si no entendiste muy"
+  },
+  {
+    "start_sec": 312.44,
+    "end_sec": 314.2,
+    "text": "bien los pasos, pues cuando veas la"
+  },
+  {
+    "start_sec": 314.2,
+    "end_sec": 316.12,
+    "text": "imagen vas a tenerlo un poquito más"
+  },
+  {
+    "start_sec": 316.12,
+    "end_sec": 318.84,
+    "text": "claro. Aquí tenemos, por ejemplo, el"
+  },
+  {
+    "start_sec": 318.84,
+    "end_sec": 321.96,
+    "text": "primer ejemplo de nuestros modelos."
+  },
+  {
+    "start_sec": 321.96,
+    "end_sec": 327.64,
+    "text": "Vamos a tener eh este primer modelo high"
+  },
+  {
+    "start_sec": 327.64,
+    "end_sec": 330.36,
+    "text": "y low. Aquí el precio lo que hace es"
+  },
+  {
+    "start_sec": 330.36,
+    "end_sec": 334.48,
+    "text": "tomar en este caso la liquidez de abajo,"
+  },
+  {
+    "start_sec": 334.48,
+    "end_sec": 337.36,
+    "text": "cierra la vela por dentro de y después"
+  },
+  {
+    "start_sec": 337.36,
+    "end_sec": 341.92,
+    "text": "de eso ya lo que hace es el precio"
+  },
+  {
+    "start_sec": 341.92,
+    "end_sec": 344.56,
+    "text": "eh expandir en la siguiente vela. Este"
+  },
+  {
+    "start_sec": 344.56,
+    "end_sec": 346.4,
+    "text": "es el patrón clásico de tres velas."
+  },
+  {
+    "start_sec": 346.4,
+    "end_sec": 347.92,
+    "text": "Primera vela, segunda vela, tercera"
+  },
+  {
+    "start_sec": 347.92,
+    "end_sec": 349.92,
+    "text": "vela. Esto lo vas a ver en high time"
+  },
+  {
+    "start_sec": 349.92,
+    "end_sec": 351.8,
+    "text": "frame o temporalidad alta. Y en"
+  },
+  {
+    "start_sec": 351.8,
+    "end_sec": 353.52,
+    "text": "temporalidad baja, ven como el precio"
+  },
+  {
+    "start_sec": 353.52,
+    "end_sec": 357.36,
+    "text": "viene hacia abajo, hace el CRT, rompe la"
+  },
+  {
+    "start_sec": 357.36,
+    "end_sec": 358.8,
+    "text": "estructura."
+  },
+  {
+    "start_sec": 358.8,
+    "end_sec": 360.6,
+    "text": "Aquí testea de nuevo esta zona. Aquí"
+  },
+  {
+    "start_sec": 360.6,
+    "end_sec": 363.0,
+    "text": "mucha gente podría entrar en en una"
+  },
+  {
+    "start_sec": 363.0,
+    "end_sec": 366.12,
+    "text": "temporalidad más baja cuando el precio"
+  },
+  {
+    "start_sec": 366.12,
+    "end_sec": 367.92,
+    "text": "hace este order block. O aquí si se"
+  },
+  {
+    "start_sec": 367.92,
+    "end_sec": 369.64,
+    "text": "fijan también una temporalidad más baja."
+  },
+  {
+    "start_sec": 369.64,
+    "end_sec": 371.6,
+    "text": "En este ejemplo, tenemos también aquí un"
+  },
+  {
+    "start_sec": 371.6,
+    "end_sec": 374.36,
+    "text": "ranguito formado. Podemos entrar en esta"
+  },
+  {
+    "start_sec": 374.36,
+    "end_sec": 376.16,
+    "text": "parte, podemos entrar en esta parte"
+  },
+  {
+    "start_sec": 376.16,
+    "end_sec": 378.64,
+    "text": "también. Después el precio retestea aquí"
+  },
+  {
+    "start_sec": 378.64,
+    "end_sec": 381.88,
+    "text": "al 50% y tiene un nuevo Turtel Sop que"
+  },
+  {
+    "start_sec": 381.88,
+    "end_sec": 384.12,
+    "text": "aquí podríamos estar entrando. Esta"
+  },
+  {
+    "start_sec": 384.12,
+    "end_sec": 386.92,
+    "text": "sería para continuación. Esto sería para"
+  },
+  {
+    "start_sec": 386.92,
+    "end_sec": 388.92,
+    "text": "continuación y la expansión hacia"
+  },
+  {
+    "start_sec": 388.92,
+    "end_sec": 392.0,
+    "text": "arriba. Este es el modelo clásico de"
+  },
+  {
+    "start_sec": 392.0,
+    "end_sec": 394.04,
+    "text": "tres velas que todo el mundo conoce,"
+  },
+  {
+    "start_sec": 394.04,
+    "end_sec": 395.88,
+    "text": "pero fíjense qué bonita la imagen. Aquí"
+  },
+  {
+    "start_sec": 395.88,
+    "end_sec": 398.16,
+    "text": "está high time frame y lower time frame."
+  },
+  {
+    "start_sec": 398.16,
+    "end_sec": 401.16,
+    "text": "Esto sería para eh lo que son las"
+  },
+  {
+    "start_sec": 401.16,
+    "end_sec": 403.52,
+    "text": "compras, la formación de las compras."
+  },
+  {
+    "start_sec": 403.52,
+    "end_sec": 405.36,
+    "text": "Igualmente es importante que tú agarres"
+  },
+  {
+    "start_sec": 405.36,
+    "end_sec": 407.64,
+    "text": "tu guía, por eso es importante que vayas"
+  },
+  {
+    "start_sec": 407.64,
+    "end_sec": 409.48,
+    "text": "a Instagram, me sigas y me pidas la"
+  },
+  {
+    "start_sec": 409.48,
+    "end_sec": 411.92,
+    "text": "guía, para que tú agarres tu guía, la"
+  },
+  {
+    "start_sec": 411.92,
+    "end_sec": 414.08,
+    "text": "abras y empieces a estudiar este modelo,"
+  },
+  {
+    "start_sec": 414.08,
+    "end_sec": 416.36,
+    "text": "por ejemplo, y vayas a hacerle back"
+  },
+  {
+    "start_sec": 416.36,
+    "end_sec": 419.6,
+    "text": "testing en tu gráfica. Luego vamos a ir"
+  },
+  {
+    "start_sec": 419.6,
+    "end_sec": 421.8,
+    "text": "con el segundo ejemplo que va a ser"
+  },
+  {
+    "start_sec": 421.8,
+    "end_sec": 424.6,
+    "text": "bajista, modelo de tres velas. Vamos a"
+  },
+  {
+    "start_sec": 424.6,
+    "end_sec": 426.44,
+    "text": "tener una variante aquí que en este"
+  },
+  {
+    "start_sec": 426.44,
+    "end_sec": 429.36,
+    "text": "ejemplo lo pongo, que esta vela, fíjense"
+  },
+  {
+    "start_sec": 429.36,
+    "end_sec": 432.36,
+    "text": "como aquí el precio cierra por esta vela"
+  },
+  {
+    "start_sec": 432.36,
+    "end_sec": 434.44,
+    "text": "no cierra dentro de la vela anterior. A"
+  },
+  {
+    "start_sec": 434.44,
+    "end_sec": 437.56,
+    "text": "mí me gusta que esta vela cierre por"
+  },
+  {
+    "start_sec": 437.56,
+    "end_sec": 440.96,
+    "text": "dentro, o sea, cierre bajista. Así"
+  },
+  {
+    "start_sec": 440.96,
+    "end_sec": 443.84,
+    "text": "sería más o menos bajista o berish o"
+  },
+  {
+    "start_sec": 443.84,
+    "end_sec": 446.68,
+    "text": "negrita sería cierre bajista porque me"
+  },
+  {
+    "start_sec": 446.68,
+    "end_sec": 449.64,
+    "text": "da más probabilidad de que el precio"
+  },
+  {
+    "start_sec": 449.64,
+    "end_sec": 452.4,
+    "text": "venga a ser este"
+  },
+  {
+    "start_sec": 452.4,
+    "end_sec": 453.92,
+    "text": "o que sea mejor, o sea, más"
+  },
+  {
+    "start_sec": 453.92,
+    "end_sec": 455.32,
+    "text": "probabilidad, simplemente me da más"
+  },
+  {
+    "start_sec": 455.32,
+    "end_sec": 458.2,
+    "text": "confianza, más probabilidad, más win"
+  },
+  {
+    "start_sec": 458.2,
+    "end_sec": 460.48,
+    "text": "ray, como ustedes quieran llamarlo, pero"
+  },
+  {
+    "start_sec": 460.48,
+    "end_sec": 462.72,
+    "text": "igualmente el modelo funcionaría igual."
+  },
+  {
+    "start_sec": 462.72,
+    "end_sec": 464.68,
+    "text": "Fíjense como el precio aquí hace el"
+  },
+  {
+    "start_sec": 464.68,
+    "end_sec": 466.88,
+    "text": "tenemos el low y el high. Aquí hace la"
+  },
+  {
+    "start_sec": 466.88,
+    "end_sec": 469.2,
+    "text": "toma de liquidez o el CRT en este caso."
+  },
+  {
+    "start_sec": 469.2,
+    "end_sec": 471.48,
+    "text": "Y fíjense como también en una lower"
+  },
+  {
+    "start_sec": 471.48,
+    "end_sec": 473.08,
+    "text": "temporalidad, una temporalidad más baja,"
+  },
+  {
+    "start_sec": 473.08,
+    "end_sec": 475.64,
+    "text": "me forma un nuevo CRT también. Entonces"
+  },
+  {
+    "start_sec": 475.64,
+    "end_sec": 477.12,
+    "text": "es la confluencia de la temporalidad"
+  },
+  {
+    "start_sec": 477.12,
+    "end_sec": 479.28,
+    "text": "alta con la temporalidad baja. Me forma"
+  },
+  {
+    "start_sec": 479.28,
+    "end_sec": 481.88,
+    "text": "entonces este CRT aquí. Una vez que me"
+  },
+  {
+    "start_sec": 481.88,
+    "end_sec": 484.24,
+    "text": "forma este CRT, este rango más el Turtel"
+  },
+  {
+    "start_sec": 484.24,
+    "end_sec": 487.2,
+    "text": "Sopríamos haber entrado en esta parte o"
+  },
+  {
+    "start_sec": 487.2,
+    "end_sec": 489.92,
+    "text": "su entrada de continuación acá. Una vez"
+  },
+  {
+    "start_sec": 489.92,
+    "end_sec": 492.64,
+    "text": "que el precio de nuevo volvió a crear"
+  },
+  {
+    "start_sec": 492.64,
+    "end_sec": 495.96,
+    "text": "otro nuevo Turtle Sop y creé otro nuevo"
+  },
+  {
+    "start_sec": 495.96,
+    "end_sec": 498.0,
+    "text": "rango, aquí podemos estar entrando"
+  },
+  {
+    "start_sec": 498.0,
+    "end_sec": 500.4,
+    "text": "también a la baja. Este sería el primer"
+  },
+  {
+    "start_sec": 500.4,
+    "end_sec": 502.96,
+    "text": "modelo de continuación. Comenta los"
+  },
+  {
+    "start_sec": 502.96,
+    "end_sec": 505.84,
+    "text": "comentarios o pone en los comentarios"
+  },
+  {
+    "start_sec": 505.84,
+    "end_sec": 508.88,
+    "text": "qué te parece aquí, si lo has aprendido"
+  },
+  {
+    "start_sec": 508.88,
+    "end_sec": 512.08,
+    "text": "bien, tienes algunas dudas. Igualmente,"
+  },
+  {
+    "start_sec": 512.08,
+    "end_sec": 514.04,
+    "text": "si hay muchos comentarios, les digo,"
+  },
+  {
+    "start_sec": 514.04,
+    "end_sec": 516.6,
+    "text": "traeré video exclusivo donde haremos"
+  },
+  {
+    "start_sec": 516.6,
+    "end_sec": 518.88,
+    "text": "back testing y donde veremos múltiples"
+  },
+  {
+    "start_sec": 518.88,
+    "end_sec": 521.76,
+    "text": "ejemplos en diferentes pares. Puedes"
+  },
+  {
+    "start_sec": 521.76,
+    "end_sec": 523.68,
+    "text": "comentar también qué par es el que"
+  },
+  {
+    "start_sec": 523.68,
+    "end_sec": 525.92,
+    "text": "quieres que hagamos el back testing."
+  },
+  {
+    "start_sec": 525.92,
+    "end_sec": 528.4,
+    "text": "Aquí simplemente estoy introduciendo a"
+  },
+  {
+    "start_sec": 528.4,
+    "end_sec": 531.44,
+    "text": "estos modelos. Vamos con el modelo"
+  },
+  {
+    "start_sec": 531.44,
+    "end_sec": 535.84,
+    "text": "número dos, CRT de dos velas. Vamos con"
+  },
+  {
+    "start_sec": 535.84,
+    "end_sec": 539.0,
+    "text": "los pasos. Vela uno crea la liquidez,"
+  },
+  {
+    "start_sec": 539.0,
+    "end_sec": 542.16,
+    "text": "igual que en el modelo clásico. Vela dos"
+  },
+  {
+    "start_sec": 542.16,
+    "end_sec": 544.12,
+    "text": "purga la liquidez o saca la liquidez de"
+  },
+  {
+    "start_sec": 544.12,
+    "end_sec": 546.32,
+    "text": "la primera vela y el precio se expande"
+  },
+  {
+    "start_sec": 546.32,
+    "end_sec": 548.2,
+    "text": "de inmediato hacia la liquidez opuesta"
+  },
+  {
+    "start_sec": 548.2,
+    "end_sec": 550.76,
+    "text": "sin formar un máximo mínimo adicional."
+  },
+  {
+    "start_sec": 550.76,
+    "end_sec": 552.48,
+    "text": "Esto también pasa muchísimo en el"
+  },
+  {
+    "start_sec": 552.48,
+    "end_sec": 554.4,
+    "text": "precio. Entonces, si te preguntabas por"
+  },
+  {
+    "start_sec": 554.4,
+    "end_sec": 556.68,
+    "text": "qué a veces pasa eso, pues ya estamos"
+  },
+  {
+    "start_sec": 556.68,
+    "end_sec": 559.04,
+    "text": "viendo que es otro modelo SRT. Es un"
+  },
+  {
+    "start_sec": 559.04,
+    "end_sec": 561.04,
+    "text": "modelo un poco más agresivo y"
+  },
+  {
+    "start_sec": 561.04,
+    "end_sec": 563.2,
+    "text": "normalmente suele suceder en aperturas"
+  },
+  {
+    "start_sec": 563.2,
+    "end_sec": 565.88,
+    "text": "del mercado o en noticias. Por eso,"
+  },
+  {
+    "start_sec": 565.88,
+    "end_sec": 568.0,
+    "text": "muchas de las veces nosotros vamos a"
+  },
+  {
+    "start_sec": 568.0,
+    "end_sec": 569.92,
+    "text": "querer entrar o tener este modelo cuando"
+  },
+  {
+    "start_sec": 569.92,
+    "end_sec": 572.44,
+    "text": "el mercado abre. ¿Por qué? Porque cuando"
+  },
+  {
+    "start_sec": 572.44,
+    "end_sec": 574.36,
+    "text": "el mercado abre muchas de las veces hace"
+  },
+  {
+    "start_sec": 574.36,
+    "end_sec": 575.8,
+    "text": "este modelo, entonces nosotros ya"
+  },
+  {
+    "start_sec": 575.8,
+    "end_sec": 578.4,
+    "text": "sabremos que podemos entrar con este"
+  },
+  {
+    "start_sec": 578.4,
+    "end_sec": 580.88,
+    "text": "modelo de CRT. Entonces, vamos allá con"
+  },
+  {
+    "start_sec": 580.88,
+    "end_sec": 583.76,
+    "text": "el ejemplo. En este caso, alcista, ¿qué"
+  },
+  {
+    "start_sec": 583.76,
+    "end_sec": 585.48,
+    "text": "hace el precio? Pues el precio"
+  },
+  {
+    "start_sec": 585.48,
+    "end_sec": 587.48,
+    "text": "simplemente en la primera vela, en una"
+  },
+  {
+    "start_sec": 587.48,
+    "end_sec": 591.08,
+    "text": "simple vela, toma la liquidez del low y"
+  },
+  {
+    "start_sec": 591.08,
+    "end_sec": 593.32,
+    "text": "después tiene el high, toma la liquidez"
+  },
+  {
+    "start_sec": 593.32,
+    "end_sec": 596.04,
+    "text": "de low y el precio en esa misma vela"
+  },
+  {
+    "start_sec": 596.04,
+    "end_sec": 598.44,
+    "text": "expande. Mira cómo viene la vela aquí."
+  },
+  {
+    "start_sec": 598.44,
+    "end_sec": 600.4,
+    "text": "Abre la siguiente nueva vela, toma la"
+  },
+  {
+    "start_sec": 600.4,
+    "end_sec": 602.32,
+    "text": "liquidez, hace el turtle stop, me crea"
+  },
+  {
+    "start_sec": 602.32,
+    "end_sec": 604.92,
+    "text": "un pequeño ranguito que me confirma y se"
+  },
+  {
+    "start_sec": 604.92,
+    "end_sec": 607.0,
+    "text": "va de una hacia arriba. Esto, ¿por qué"
+  },
+  {
+    "start_sec": 607.0,
+    "end_sec": 609.44,
+    "text": "sucede? Por noticias, por alta"
+  },
+  {
+    "start_sec": 609.44,
+    "end_sec": 611.16,
+    "text": "volatilidad."
+  },
+  {
+    "start_sec": 611.16,
+    "end_sec": 613.48,
+    "text": "Me gusta que una vez que esta vela ya"
+  },
+  {
+    "start_sec": 613.48,
+    "end_sec": 616.52,
+    "text": "cerró, yo les recomendaría que ya no"
+  },
+  {
+    "start_sec": 616.52,
+    "end_sec": 618.84,
+    "text": "estén intentando atrapar el movimiento"
+  },
+  {
+    "start_sec": 618.84,
+    "end_sec": 621.04,
+    "text": "alcista porque ya el movimiento ya ha"
+  },
+  {
+    "start_sec": 621.04,
+    "end_sec": 623.16,
+    "text": "sido completado aquí. Al menos que"
+  },
+  {
+    "start_sec": 623.16,
+    "end_sec": 624.92,
+    "text": "tengan alguna confirmación de algún"
+  },
+  {
+    "start_sec": 624.92,
+    "end_sec": 627.8,
+    "text": "rango de alta temporalidad, pero ya aquí"
+  },
+  {
+    "start_sec": 627.8,
+    "end_sec": 630.52,
+    "text": "esperarías un retroceso porque el precio"
+  },
+  {
+    "start_sec": 630.52,
+    "end_sec": 633.88,
+    "text": "ya ha reiniciado el rango en esa sola en"
+  },
+  {
+    "start_sec": 633.88,
+    "end_sec": 636.4,
+    "text": "esa vela, por así decirlo. Vamos a ver"
+  },
+  {
+    "start_sec": 636.4,
+    "end_sec": 638.68,
+    "text": "el ejemplo también bajista. En este"
+  },
+  {
+    "start_sec": 638.68,
+    "end_sec": 641.76,
+    "text": "caso, ejemplo bajista. CRT dos velas. El"
+  },
+  {
+    "start_sec": 641.76,
+    "end_sec": 645.36,
+    "text": "precio toma el high y después viene por"
+  },
+  {
+    "start_sec": 645.36,
+    "end_sec": 648.24,
+    "text": "el low, o sea, lo hace en dos velas. La"
+  },
+  {
+    "start_sec": 648.24,
+    "end_sec": 650.12,
+    "text": "la siguiente vela toma el rango de las"
+  },
+  {
+    "start_sec": 650.12,
+    "end_sec": 651.84,
+    "text": "dos velas. Esto también puede pasar"
+  },
+  {
+    "start_sec": 651.84,
+    "end_sec": 654.12,
+    "text": "mucho en tendencias alcistas. Precio va"
+  },
+  {
+    "start_sec": 654.12,
+    "end_sec": 656.2,
+    "text": "subiendo, subiendo, subiendo, crea aquí"
+  },
+  {
+    "start_sec": 656.2,
+    "end_sec": 659.04,
+    "text": "un CRT, por ejemplo, y lo que hace el"
+  },
+  {
+    "start_sec": 659.04,
+    "end_sec": 661.2,
+    "text": "precio aquí es sacar la liquidez y en"
+  },
+  {
+    "start_sec": 661.2,
+    "end_sec": 663.2,
+    "text": "esta vez la reinicia y luego después el"
+  },
+  {
+    "start_sec": 663.2,
+    "end_sec": 665.8,
+    "text": "precio continúa su camino alcista. Esto"
+  },
+  {
+    "start_sec": 665.8,
+    "end_sec": 667.64,
+    "text": "pasa también muchísimo en las tendencias"
+  },
+  {
+    "start_sec": 667.64,
+    "end_sec": 670.72,
+    "text": "alcistas o aceleradas también que vayan"
+  },
+  {
+    "start_sec": 670.72,
+    "end_sec": 672.4,
+    "text": "teniendo el precio. El precio, ¿qué"
+  },
+  {
+    "start_sec": 672.4,
+    "end_sec": 674.92,
+    "text": "hace? Toma la liquidez del máximo y"
+  },
+  {
+    "start_sec": 674.92,
+    "end_sec": 677.28,
+    "text": "después el precio me crea mi ranguito,"
+  },
+  {
+    "start_sec": 677.28,
+    "end_sec": 679.16,
+    "text": "que me confirma ahí que probablemente va"
+  },
+  {
+    "start_sec": 679.16,
+    "end_sec": 682.32,
+    "text": "a caer o va a ser el CRT. Aquí viene"
+  },
+  {
+    "start_sec": 682.32,
+    "end_sec": 684.32,
+    "text": "para abajo y aquí tenemos también otra"
+  },
+  {
+    "start_sec": 684.32,
+    "end_sec": 686.68,
+    "text": "reentrada donde crea este nuevo ranguito"
+  },
+  {
+    "start_sec": 686.68,
+    "end_sec": 688.76,
+    "text": "para abajo, ¿no? Entonces, reentrada por"
+  },
+  {
+    "start_sec": 688.76,
+    "end_sec": 690.68,
+    "text": "ahí. Inclusive podríamos tener otra"
+  },
+  {
+    "start_sec": 690.68,
+    "end_sec": 692.72,
+    "text": "reentrada por aquí también. Bueno, ya"
+  },
+  {
+    "start_sec": 692.72,
+    "end_sec": 694.84,
+    "text": "no, porque aquí ya tomó la, perdón, aquí"
+  },
+  {
+    "start_sec": 694.84,
+    "end_sec": 696.92,
+    "text": "ya no porque ya tomó la liquidez. Sería"
+  },
+  {
+    "start_sec": 696.92,
+    "end_sec": 699.0,
+    "text": "aquí y aquí. Ya cerró el rango, ya"
+  },
+  {
+    "start_sec": 699.0,
+    "end_sec": 702.0,
+    "text": "confirmó. Este sería mi modelo de dos"
+  },
+  {
+    "start_sec": 702.0,
+    "end_sec": 704.0,
+    "text": "velas. ¿Qué les parece? ¿Les está"
+  },
+  {
+    "start_sec": 704.0,
+    "end_sec": 706.04,
+    "text": "gustando? Yo creo que va a estar muy"
+  },
+  {
+    "start_sec": 706.04,
+    "end_sec": 707.52,
+    "text": "interesante cuando hagamos el back"
+  },
+  {
+    "start_sec": 707.52,
+    "end_sec": 710.4,
+    "text": "testing ir intificando y aparte ya"
+  },
+  {
+    "start_sec": 710.4,
+    "end_sec": 712.44,
+    "text": "estamos no sabemos simplemente un CRT,"
+  },
+  {
+    "start_sec": 712.44,
+    "end_sec": 714.68,
+    "text": "ahora sabemos varios modelos y podemos"
+  },
+  {
+    "start_sec": 714.68,
+    "end_sec": 716.56,
+    "text": "ir profundizando en esta metodología que"
+  },
+  {
+    "start_sec": 716.56,
+    "end_sec": 719.12,
+    "text": "es bastante maravillosa. Parece que"
+  },
+  {
+    "start_sec": 719.12,
+    "end_sec": 721.76,
+    "text": "solamente son rangos y que solamente es"
+  },
+  {
+    "start_sec": 721.76,
+    "end_sec": 725.0,
+    "text": "el turtle top, pero tiene mucho que"
+  },
+  {
+    "start_sec": 725.0,
+    "end_sec": 727.2,
+    "text": "estudiarse esta metodología. Yo creo que"
+  },
+  {
+    "start_sec": 727.2,
+    "end_sec": 729.96,
+    "text": "es una metodología que puedes estudiar"
+  },
+  {
+    "start_sec": 729.96,
+    "end_sec": 732.96,
+    "text": "bastante profundamente sobre ella. Vamos"
+  },
+  {
+    "start_sec": 732.96,
+    "end_sec": 736.52,
+    "text": "con el modelo número tres, CRT de vela"
+  },
+  {
+    "start_sec": 736.52,
+    "end_sec": 739.28,
+    "text": "interior o intrabar le llamo yo también."
+  },
+  {
+    "start_sec": 739.28,
+    "end_sec": 741.6,
+    "text": "Y vamos con los pasos. Es uno de los"
+  },
+  {
+    "start_sec": 741.6,
+    "end_sec": 743.4,
+    "text": "modelos más singulares y a mayor"
+  },
+  {
+    "start_sec": 743.4,
+    "end_sec": 746.04,
+    "text": "probabilidad dentro del CRT. Ojo, este"
+  },
+  {
+    "start_sec": 746.04,
+    "end_sec": 748.68,
+    "text": "modelo tiene una alta probabilidad. A mí"
+  },
+  {
+    "start_sec": 748.68,
+    "end_sec": 750.96,
+    "text": "me gusta muchísimo, pero hay que saber"
+  },
+  {
+    "start_sec": 750.96,
+    "end_sec": 753.16,
+    "text": "agarrar los trades con este modelo. Tras"
+  },
+  {
+    "start_sec": 753.16,
+    "end_sec": 755.24,
+    "text": "la primera vela que marca un rango, las"
+  },
+  {
+    "start_sec": 755.24,
+    "end_sec": 757.52,
+    "text": "siguientes se forman dentro del rango."
+  },
+  {
+    "start_sec": 757.52,
+    "end_sec": 759.84,
+    "text": "Primera vela creando una barra interior."
+  },
+  {
+    "start_sec": 759.84,
+    "end_sec": 761.28,
+    "text": "Si no le entienden, ahorita veremos la"
+  },
+  {
+    "start_sec": 761.28,
+    "end_sec": 763.36,
+    "text": "imagen y les quedará más claro. Cuando"
+  },
+  {
+    "start_sec": 763.36,
+    "end_sec": 767.2,
+    "text": "el precio purga el máximo o mínimo del"
+  },
+  {
+    "start_sec": 767.2,
+    "end_sec": 769.76,
+    "text": "de ese rango, la expansión hacia la"
+  },
+  {
+    "start_sec": 769.76,
+    "end_sec": 771.48,
+    "text": "liquidez opuesta es de alta"
+  },
+  {
+    "start_sec": 771.48,
+    "end_sec": 774.12,
+    "text": "probabilidad. Vamos a ver el ejemplo en"
+  },
+  {
+    "start_sec": 774.12,
+    "end_sec": 778.32,
+    "text": "este caso alcista de este modelo de CRT."
+  },
+  {
+    "start_sec": 778.32,
+    "end_sec": 779.96,
+    "text": "Miren la peculiaridad que tiene este"
+  },
+  {
+    "start_sec": 779.96,
+    "end_sec": 782.08,
+    "text": "modelo. Pasa mucho también cuando el"
+  },
+  {
+    "start_sec": 782.08,
+    "end_sec": 787.56,
+    "text": "precio hace esto, hace aquí y hace esto,"
+  },
+  {
+    "start_sec": 787.56,
+    "end_sec": 790.6,
+    "text": "esto, esto. Y luego después hay una vela"
+  },
+  {
+    "start_sec": 790.6,
+    "end_sec": 792.04,
+    "text": "que toma la liquidez y el precio"
+  },
+  {
+    "start_sec": 792.04,
+    "end_sec": 794.36,
+    "text": "continúa alcista. Miren como por ejemplo"
+  },
+  {
+    "start_sec": 794.36,
+    "end_sec": 796.8,
+    "text": "acá marcamos el rango, que este es mi"
+  },
+  {
+    "start_sec": 796.8,
+    "end_sec": 799.52,
+    "text": "doll, miren como el precio cierra, hace"
+  },
+  {
+    "start_sec": 799.52,
+    "end_sec": 801.72,
+    "text": "como un fallo o falla en tomar la"
+  },
+  {
+    "start_sec": 801.72,
+    "end_sec": 803.8,
+    "text": "liquidez y cierra la primera vela"
+  },
+  {
+    "start_sec": 803.8,
+    "end_sec": 805.28,
+    "text": "dentro."
+  },
+  {
+    "start_sec": 805.28,
+    "end_sec": 807.44,
+    "text": "Luego la siguiente vela cierra dentro y"
+  },
+  {
+    "start_sec": 807.44,
+    "end_sec": 810.0,
+    "text": "fíjense como esta vela toma liquidez."
+  },
+  {
+    "start_sec": 810.0,
+    "end_sec": 811.96,
+    "text": "Esto es a lo que se refiere la teoría,"
+  },
+  {
+    "start_sec": 811.96,
+    "end_sec": 813.68,
+    "text": "que va a tener una alta probabilidad de"
+  },
+  {
+    "start_sec": 813.68,
+    "end_sec": 816.36,
+    "text": "que el precio vaya a expandir."
+  },
+  {
+    "start_sec": 816.36,
+    "end_sec": 818.6,
+    "text": "Obviamente también si la vela ya cierra"
+  },
+  {
+    "start_sec": 818.6,
+    "end_sec": 821.32,
+    "text": "dentro otra vez, pues más todavía, pero"
+  },
+  {
+    "start_sec": 821.32,
+    "end_sec": 823.04,
+    "text": "desde aquí se puede agarrar, desde aquí"
+  },
+  {
+    "start_sec": 823.04,
+    "end_sec": 824.92,
+    "text": "o desde aquí. Miren, podemos entrar"
+  },
+  {
+    "start_sec": 824.92,
+    "end_sec": 827.36,
+    "text": "desde aquí. En este caso, cuando veamos"
+  },
+  {
+    "start_sec": 827.36,
+    "end_sec": 831.04,
+    "text": "el nuevo rango confirmado aquí, se puede"
+  },
+  {
+    "start_sec": 831.04,
+    "end_sec": 833.0,
+    "text": "entrar desde ahí o se pueden entrar"
+  },
+  {
+    "start_sec": 833.0,
+    "end_sec": 835.6,
+    "text": "cuando el precio está tomando múltiples"
+  },
+  {
+    "start_sec": 835.6,
+    "end_sec": 837.76,
+    "text": "tomas de liquidez o múltiples tortels."
+  },
+  {
+    "start_sec": 837.76,
+    "end_sec": 841.04,
+    "text": "Aquí inclusive se podría reentrar aquí o"
+  },
+  {
+    "start_sec": 841.04,
+    "end_sec": 843.2,
+    "text": "aquí. Esta sería la última entrada."
+  },
+  {
+    "start_sec": 843.2,
+    "end_sec": 845.4,
+    "text": "Este, peculiaridad de este tipo de"
+  },
+  {
+    "start_sec": 845.4,
+    "end_sec": 847.68,
+    "text": "movimiento sucede también muchas de las"
+  },
+  {
+    "start_sec": 847.68,
+    "end_sec": 851.76,
+    "text": "veces cuando hay este noticias o cuando"
+  },
+  {
+    "start_sec": 851.76,
+    "end_sec": 854.36,
+    "text": "fue Asia y luego ya abre Londres o abre"
+  },
+  {
+    "start_sec": 854.36,
+    "end_sec": 856.56,
+    "text": "Nueva York. Esto es para cazar los"
+  },
+  {
+    "start_sec": 856.56,
+    "end_sec": 858.92,
+    "text": "stoploss de pues ya sabemos de la"
+  },
+  {
+    "start_sec": 858.92,
+    "end_sec": 861.72,
+    "text": "liquidez del mercado, ¿no? Vamos con las"
+  },
+  {
+    "start_sec": 861.72,
+    "end_sec": 864.96,
+    "text": "ventas. Mira como aquí tenemos dos velas"
+  },
+  {
+    "start_sec": 864.96,
+    "end_sec": 867.16,
+    "text": "simplemente, pero puede ser con tres"
+  },
+  {
+    "start_sec": 867.16,
+    "end_sec": 869.68,
+    "text": "también. Mira como en esta barra de aquí"
+  },
+  {
+    "start_sec": 869.68,
+    "end_sec": 871.48,
+    "text": "el precio, en este caso sería el ejemplo"
+  },
+  {
+    "start_sec": 871.48,
+    "end_sec": 873.88,
+    "text": "bajista, verish. Como el precio lo que"
+  },
+  {
+    "start_sec": 873.88,
+    "end_sec": 878.28,
+    "text": "hace es acá cerrar dentro, pero no toma"
+  },
+  {
+    "start_sec": 878.28,
+    "end_sec": 880.2,
+    "text": "la liquidez. Aquí puede aparecer también"
+  },
+  {
+    "start_sec": 880.2,
+    "end_sec": 882.12,
+    "text": "otra nueva velita y puede ser que sea la"
+  },
+  {
+    "start_sec": 882.12,
+    "end_sec": 884.36,
+    "text": "siguiente también. Y luego después de"
+  },
+  {
+    "start_sec": 884.36,
+    "end_sec": 886.48,
+    "text": "que el precio toma esa liquidez, el"
+  },
+  {
+    "start_sec": 886.48,
+    "end_sec": 888.4,
+    "text": "precio expande hacia abajo. Vamos a ver"
+  },
+  {
+    "start_sec": 888.4,
+    "end_sec": 890.8,
+    "text": "el ejemplo. El ejemplo nos muestra que"
+  },
+  {
+    "start_sec": 890.8,
+    "end_sec": 892.88,
+    "text": "la vela, fíjate que no toma, no toma"
+  },
+  {
+    "start_sec": 892.88,
+    "end_sec": 895.64,
+    "text": "liquidez aquí nada de liquidez. Luego el"
+  },
+  {
+    "start_sec": 895.64,
+    "end_sec": 898.08,
+    "text": "precio tiene su retroceso, toma la"
+  },
+  {
+    "start_sec": 898.08,
+    "end_sec": 900.32,
+    "text": "liquidez. Este también sucede que mucho"
+  },
+  {
+    "start_sec": 900.32,
+    "end_sec": 902.68,
+    "text": "haces el el precio este patrón, toma la"
+  },
+  {
+    "start_sec": 902.68,
+    "end_sec": 905.24,
+    "text": "liquidez y ahí cae. Tenemos la primera"
+  },
+  {
+    "start_sec": 905.24,
+    "end_sec": 906.96,
+    "text": "entrada aquí y luego tendremos la"
+  },
+  {
+    "start_sec": 906.96,
+    "end_sec": 909.24,
+    "text": "segunda entrada en continuación aquí."
+  },
+  {
+    "start_sec": 909.24,
+    "end_sec": 912.36,
+    "text": "Esta este modelo sí que no a veces no da"
+  },
+  {
+    "start_sec": 912.36,
+    "end_sec": 915.4,
+    "text": "mucha eh reentrada, sobre todo si son"
+  },
+  {
+    "start_sec": 915.4,
+    "end_sec": 918.32,
+    "text": "solamente dos velas o hasta la tercera."
+  },
+  {
+    "start_sec": 918.32,
+    "end_sec": 920.4,
+    "text": "Si son más velas da más reentrada hasta"
+  },
+  {
+    "start_sec": 920.4,
+    "end_sec": 921.88,
+    "text": "que la volatilidad esté un poco más"
+  },
+  {
+    "start_sec": 921.88,
+    "end_sec": 924.8,
+    "text": "baja. Este sería nuestro tercer modelo"
+  },
+  {
+    "start_sec": 924.8,
+    "end_sec": 929.08,
+    "text": "de CRT y muy bonito, muy espectacular."
+  },
+  {
+    "start_sec": 929.08,
+    "end_sec": 930.72,
+    "text": "Vamos con el último modelo que les"
+  },
+  {
+    "start_sec": 930.72,
+    "end_sec": 933.48,
+    "text": "quería traer para esta clase. Similar al"
+  },
+  {
+    "start_sec": 933.48,
+    "end_sec": 936.32,
+    "text": "CRT clásico, pero la expansión final no"
+  },
+  {
+    "start_sec": 936.32,
+    "end_sec": 938.32,
+    "text": "ocurre en una sola vela, requiere varias"
+  },
+  {
+    "start_sec": 938.32,
+    "end_sec": 940.36,
+    "text": "velas para llegar al objetivo. Este"
+  },
+  {
+    "start_sec": 940.36,
+    "end_sec": 943.2,
+    "text": "sería el modelo 4 CRT de múltiples"
+  },
+  {
+    "start_sec": 943.2,
+    "end_sec": 946.2,
+    "text": "velas. Traspurgar, paso número dos,"
+  },
+  {
+    "start_sec": 946.2,
+    "end_sec": 947.88,
+    "text": "traspurgar la liquidez de la segunda"
+  },
+  {
+    "start_sec": 947.88,
+    "end_sec": 949.44,
+    "text": "vela, el precio avanza de forma más"
+  },
+  {
+    "start_sec": 949.44,
+    "end_sec": 951.72,
+    "text": "lenta y distribuida usando múltiples"
+  },
+  {
+    "start_sec": 951.72,
+    "end_sec": 953.32,
+    "text": "velas para alcanzar el doll o el"
+  },
+  {
+    "start_sec": 953.32,
+    "end_sec": 956.0,
+    "text": "objetivo. Suele aparecer tres, suele"
+  },
+  {
+    "start_sec": 956.0,
+    "end_sec": 957.6,
+    "text": "aparecer contra la tendencia, sesiones"
+  },
+  {
+    "start_sec": 957.6,
+    "end_sec": 959.12,
+    "text": "tarde o en contextos de baja"
+  },
+  {
+    "start_sec": 959.12,
+    "end_sec": 961.56,
+    "text": "probabilidad, pero aún así ofrece buenas"
+  },
+  {
+    "start_sec": 961.56,
+    "end_sec": 962.76,
+    "text": "entradas o buenas entradas de"
+  },
+  {
+    "start_sec": 962.76,
+    "end_sec": 964.88,
+    "text": "probabilidad. Y vamos a ver el último"
+  },
+  {
+    "start_sec": 964.88,
+    "end_sec": 966.52,
+    "text": "modelito que les quería traer el día de"
+  },
+  {
+    "start_sec": 966.52,
+    "end_sec": 968.88,
+    "text": "hoy y con mis dos ejemplos alcista y"
+  },
+  {
+    "start_sec": 968.88,
+    "end_sec": 972.12,
+    "text": "bajista. En este caso, ¿qué tenemos? El"
+  },
+  {
+    "start_sec": 972.12,
+    "end_sec": 975.72,
+    "text": "precio toma aquí, toma acá. Y fíjate"
+  },
+  {
+    "start_sec": 975.72,
+    "end_sec": 978.92,
+    "text": "como eh va a ser con múltiples velas. O"
+  },
+  {
+    "start_sec": 978.92,
+    "end_sec": 980.76,
+    "text": "sea, ya te confirmo el rango aquí. La"
+  },
+  {
+    "start_sec": 980.76,
+    "end_sec": 983.0,
+    "text": "vela cierra dentro, pero no se va a ir"
+  },
+  {
+    "start_sec": 983.0,
+    "end_sec": 984.88,
+    "text": "de una. Fíjate como el precio"
+  },
+  {
+    "start_sec": 984.88,
+    "end_sec": 987.48,
+    "text": "normalmente estos rangos pueden hacer"
+  },
+  {
+    "start_sec": 987.48,
+    "end_sec": 989.52,
+    "text": "esto, ¿no? También lo puedo dibujar por"
+  },
+  {
+    "start_sec": 989.52,
+    "end_sec": 991.12,
+    "text": "aquí."
+  },
+  {
+    "start_sec": 991.12,
+    "end_sec": 993.24,
+    "text": "Tiene este es el rango, el doll, por así"
+  },
+  {
+    "start_sec": 993.24,
+    "end_sec": 995.36,
+    "text": "decirlo. El precio lo que hace es tomar"
+  },
+  {
+    "start_sec": 995.36,
+    "end_sec": 997.56,
+    "text": "la liquidez y luego a veces el precio"
+  },
+  {
+    "start_sec": 997.56,
+    "end_sec": 1001.28,
+    "text": "reinicia. Esto hace así y luego después"
+  },
+  {
+    "start_sec": 1001.28,
+    "end_sec": 1003.8,
+    "text": "el precio vuelve a tomar la liquidez de"
+  },
+  {
+    "start_sec": 1003.8,
+    "end_sec": 1007.36,
+    "text": "la vela anterior y gira de nuevo hasta"
+  },
+  {
+    "start_sec": 1007.36,
+    "end_sec": 1009.48,
+    "text": "alcanzar el objetivo. Este se llama un"
+  },
+  {
+    "start_sec": 1009.48,
+    "end_sec": 1012.68,
+    "text": "CRT de múltiples velas. Mira como aquí"
+  },
+  {
+    "start_sec": 1012.68,
+    "end_sec": 1014.88,
+    "text": "la vela siguiente toma el extremo de la"
+  },
+  {
+    "start_sec": 1014.88,
+    "end_sec": 1017.68,
+    "text": "vela anterior, cae formando una nueva R"
+  },
+  {
+    "start_sec": 1017.68,
+    "end_sec": 1019.52,
+    "text": "bajista donde muchos dicen, \"Eh,"
+  },
+  {
+    "start_sec": 1019.52,
+    "end_sec": 1021.2,
+    "text": "Gustavo, para arriba o para abajo.\" Pero"
+  },
+  {
+    "start_sec": 1021.2,
+    "end_sec": 1023.08,
+    "text": "si tú ya tienes tu dol principal que es"
+  },
+  {
+    "start_sec": 1023.08,
+    "end_sec": 1025.44,
+    "text": "alcista, vas a esperar que suceda esto,"
+  },
+  {
+    "start_sec": 1025.44,
+    "end_sec": 1027.6,
+    "text": "que el precio te tome de nuevo el mínimo"
+  },
+  {
+    "start_sec": 1027.6,
+    "end_sec": 1030.0,
+    "text": "y va vaya para arriba. Inclusive aquí en"
+  },
+  {
+    "start_sec": 1030.0,
+    "end_sec": 1031.48,
+    "text": "la siguiente vela el precio hace otro"
+  },
+  {
+    "start_sec": 1031.48,
+    "end_sec": 1033.96,
+    "text": "nuevo retroceso. Este modelo, la"
+  },
+  {
+    "start_sec": 1033.96,
+    "end_sec": 1035.6,
+    "text": "peculiaridad que tiene es que tiene"
+  },
+  {
+    "start_sec": 1035.6,
+    "end_sec": 1037.88,
+    "text": "muchas ese proceso tiene muchas"
+  },
+  {
+    "start_sec": 1037.88,
+    "end_sec": 1039.88,
+    "text": "entradas. Primera entrada que podríamos"
+  },
+  {
+    "start_sec": 1039.88,
+    "end_sec": 1041.92,
+    "text": "poner aquí cuando se crea un nuevo"
+  },
+  {
+    "start_sec": 1041.92,
+    "end_sec": 1043.92,
+    "text": "rango. Luego después segunda entrada en"
+  },
+  {
+    "start_sec": 1043.92,
+    "end_sec": 1045.96,
+    "text": "continuación acá cuando el precio"
+  },
+  {
+    "start_sec": 1045.96,
+    "end_sec": 1048.6,
+    "text": "reinicia por así decirlo, esta vela. Los"
+  },
+  {
+    "start_sec": 1048.6,
+    "end_sec": 1050.48,
+    "text": "pues la siguiente entrada que se da es"
+  },
+  {
+    "start_sec": 1050.48,
+    "end_sec": 1052.48,
+    "text": "en este retroceso cuando el precio crea"
+  },
+  {
+    "start_sec": 1052.48,
+    "end_sec": 1054.92,
+    "text": "la nueva vela esta y finalmente termina"
+  },
+  {
+    "start_sec": 1054.92,
+    "end_sec": 1057.76,
+    "text": "acá. Fíjate que da una, dos, tres o"
+  },
+  {
+    "start_sec": 1057.76,
+    "end_sec": 1059.56,
+    "text": "puede dar inclusive hasta cuatro o cinco"
+  },
+  {
+    "start_sec": 1059.56,
+    "end_sec": 1061.68,
+    "text": "oportunidades, depende cuántas velas hay"
+  },
+  {
+    "start_sec": 1061.68,
+    "end_sec": 1064.2,
+    "text": "dentro de ese rango. Vamos a ver por"
+  },
+  {
+    "start_sec": 1064.2,
+    "end_sec": 1066.72,
+    "text": "último el modelo bajista o el modelo"
+  },
+  {
+    "start_sec": 1066.72,
+    "end_sec": 1069.76,
+    "text": "berish de múltiples velas. Sería en este"
+  },
+  {
+    "start_sec": 1069.76,
+    "end_sec": 1072.6,
+    "text": "caso el rango. Fíjense que aquí también"
+  },
+  {
+    "start_sec": 1072.6,
+    "end_sec": 1074.32,
+    "text": "pasa que aquí me gusta que la vela"
+  },
+  {
+    "start_sec": 1074.32,
+    "end_sec": 1076.84,
+    "text": "cierre bajista, me gusta que cierre"
+  },
+  {
+    "start_sec": 1076.84,
+    "end_sec": 1078.8,
+    "text": "dentro de Pero igualmente pues ahí en"
+  },
+  {
+    "start_sec": 1078.8,
+    "end_sec": 1081.4,
+    "text": "ese caso se da así, pero igualmente esta"
+  },
+  {
+    "start_sec": 1081.4,
+    "end_sec": 1083.24,
+    "text": "vela ya te confirma. A veces pasa esto,"
+  },
+  {
+    "start_sec": 1083.24,
+    "end_sec": 1085.28,
+    "text": "esta vela ya de cerra dentro de bajista"
+  },
+  {
+    "start_sec": 1085.28,
+    "end_sec": 1087.44,
+    "text": "y te confirma y luego después ya el"
+  },
+  {
+    "start_sec": 1087.44,
+    "end_sec": 1089.4,
+    "text": "mercado expande en tres velas, ¿no?"
+  },
+  {
+    "start_sec": 1089.4,
+    "end_sec": 1091.44,
+    "text": "Veamos cómo lo hace. El precio viene,"
+  },
+  {
+    "start_sec": 1091.44,
+    "end_sec": 1093.8,
+    "text": "crea el máximo o saca la liquidez del"
+  },
+  {
+    "start_sec": 1093.8,
+    "end_sec": 1095.8,
+    "text": "máximo. Aquí podríamos tener la primera"
+  },
+  {
+    "start_sec": 1095.8,
+    "end_sec": 1098.2,
+    "text": "entrada más agresiva. Después podemos"
+  },
+  {
+    "start_sec": 1098.2,
+    "end_sec": 1100.44,
+    "text": "tener la entrada en el retroceso, en el"
+  },
+  {
+    "start_sec": 1100.44,
+    "end_sec": 1103.32,
+    "text": "IFBG, en el bloque de órdenes, en un"
+  },
+  {
+    "start_sec": 1103.32,
+    "end_sec": 1106.08,
+    "text": "retroceso al 50%, etcétera. Inclusive"
+  },
+  {
+    "start_sec": 1106.08,
+    "end_sec": 1108.36,
+    "text": "aquí tenemos otra de continuación y la"
+  },
+  {
+    "start_sec": 1108.36,
+    "end_sec": 1110.4,
+    "text": "última de continuación yo la vería ahí"
+  },
+  {
+    "start_sec": 1110.4,
+    "end_sec": 1112.04,
+    "text": "cuando el precio cree un nuevo Turtle"
+  },
+  {
+    "start_sec": 1112.04,
+    "end_sec": 1115.2,
+    "text": "Shop. Este sería nuestro CRT de"
+  },
+  {
+    "start_sec": 1115.2,
+    "end_sec": 1118.2,
+    "text": "múltiples velas. Bueno, chicos, estos"
+  },
+  {
+    "start_sec": 1118.2,
+    "end_sec": 1120.0,
+    "text": "son los modelos que quería introducirles"
+  },
+  {
+    "start_sec": 1120.0,
+    "end_sec": 1123.2,
+    "text": "a este en este bello y hermoso canal."
+  },
+  {
+    "start_sec": 1123.2,
+    "end_sec": 1126.0,
+    "text": "Que cuéntenme qué les parece, háganle"
+  },
+  {
+    "start_sec": 1126.0,
+    "end_sec": 1129.92,
+    "text": "back testing y comenten si les gustaría"
+  },
+  {
+    "start_sec": 1129.92,
+    "end_sec": 1134.0,
+    "text": "que hiciera también un back testing o"
+  },
+  {
+    "start_sec": 1134.0,
+    "end_sec": 1136.32,
+    "text": "fuera al mercado a traerles múltiples"
+  },
+  {
+    "start_sec": 1136.32,
+    "end_sec": 1138.96,
+    "text": "ejemplos con estos modelos. Y si hay"
+  },
+  {
+    "start_sec": 1138.96,
+    "end_sec": 1140.92,
+    "text": "mucho apoyo, muchos comentarios, yo lo"
+  },
+  {
+    "start_sec": 1140.92,
+    "end_sec": 1143.6,
+    "text": "haré con todo gusto. Por este video ha"
+  },
+  {
+    "start_sec": 1143.6,
+    "end_sec": 1146.12,
+    "text": "sido todo. Decirte que la guía, otra vez"
+  },
+  {
+    "start_sec": 1146.12,
+    "end_sec": 1148.12,
+    "text": "decirte que la guía, pues la vas a"
+  },
+  {
+    "start_sec": 1148.12,
+    "end_sec": 1150.92,
+    "text": "encontrar en mi Instagram si me sigues y"
+  },
+  {
+    "start_sec": 1150.92,
+    "end_sec": 1152.84,
+    "text": "me mandas un mensaje y me dices,"
+  },
+  {
+    "start_sec": 1152.84,
+    "end_sec": 1155.24,
+    "text": "\"Gustavo, dame la guía gratuita de"
+  },
+  {
+    "start_sec": 1155.24,
+    "end_sec": 1157.24,
+    "text": "modelos de CRT.\" Esta guía la hice"
+  },
+  {
+    "start_sec": 1157.24,
+    "end_sec": 1159.52,
+    "text": "especialmente para ustedes, gratis y"
+  },
+  {
+    "start_sec": 1159.52,
+    "end_sec": 1161.44,
+    "text": "ustedes la pueden obtener para que"
+  },
+  {
+    "start_sec": 1161.44,
+    "end_sec": 1163.56,
+    "text": "puedan hacer su back testing y sigamos"
+  },
+  {
+    "start_sec": 1163.56,
+    "end_sec": 1165.88,
+    "text": "aprendiendo juntos la estrategia CRT."
+  },
+  {
+    "start_sec": 1165.88,
+    "end_sec": 1168.12,
+    "text": "Gracias por haber estado aquí. y nos"
+  },
+  {
+    "start_sec": 1168.12,
+    "end_sec": 1170.24,
+    "text": "estamos viendo en un siguiente video."
+  },
+  {
+    "start_sec": 1170.24,
+    "end_sec": 1173.2,
+    "text": "Hasta la próxima."
+  }
+]

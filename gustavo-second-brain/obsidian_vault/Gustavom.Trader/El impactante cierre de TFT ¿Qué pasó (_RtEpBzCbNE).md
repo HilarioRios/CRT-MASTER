@@ -1,0 +1,565 @@
+---
+source_id: YT_CANAL_02__RtEpBzCbNE
+video_id: _RtEpBzCbNE
+channel: "Gustavom.Trader"
+published_at: 2024-04-04
+url: https://www.youtube.com/watch?v=_RtEpBzCbNE
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 4
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# El impactante cierre de TFT ¿Qué pasó?
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=_RtEpBzCbNE)
+
+## Transcript
+
+```
+[00:00:00]
+el día de hoy en este víde vamos a traer
+
+[00:00:02]
+el caso de The funder Trader muchos de
+
+[00:00:06]
+ustedes me han dejado comentarios sobre
+
+[00:00:08]
+que funder Trader ha estado baneando
+
+[00:00:10]
+algunos de los usuarios ha estado
+
+[00:00:12]
+denegando retiros hay una ola de
+
+[00:00:15]
+comentarios con muchas quejas este que
+
+[00:00:17]
+ven aquí es Android nfx fondeado
+
+[00:00:20]
+actualmente con 6.7 millones de dólares
+
+[00:00:24]
+Posiblemente sea uno de los traders más
+
+[00:00:27]
+exitosos en cuanto a pruebas de fondeo
+
+[00:00:29]
+se dice entonces para que podamos
+
+[00:00:31]
+entender bien el contexto Les recomiendo
+
+[00:00:33]
+que no se separen de este video y lo
+
+[00:00:36]
+vean hasta el final todo este caso pero
+
+[00:00:39]
+todavía estoy tratando de brindarles el
+
+[00:00:40]
+beneficio de la duda es solo porque he
+
+[00:00:42]
+tenido un gran historial con ellos así
+
+[00:00:43]
+que lo que pasó es que recientemente ha
+
+[00:00:45]
+habido muchas prohibiciones muchas
+
+[00:00:46]
+personas han sido baneadas y niegan sus
+
+[00:00:48]
+pagos solo por el correo electrónico
+
+[00:00:49]
+básico todos recibieron el mismo correo
+
+[00:00:51]
+electrónico que yo correo electrónico
+
+[00:00:53]
+También creo que fue hace dos semanas
+
+[00:00:54]
+que recibí ese correo electrónico donde
+
+[00:00:56]
+me informaron que debido a mi riesgo Ah
+
+[00:00:57]
+no no debido al riesgo simplemente
+
+[00:01:00]
+conoces la estrategia básica prohibida
+
+[00:01:01]
+sea lo que sea no podemos permitir que
+
+[00:01:03]
+operes voy a violar su cuenta negaré su
+
+[00:01:05]
+pago y así es ese correo electrónico fue
+
+[00:01:07]
+recibido por varias personas
+
+[00:01:09]
+personalmente recibí como 30 mensajes de
+
+[00:01:11]
+personas que recibieron el mismo correo
+
+[00:01:12]
+electrónico y también de algunos nombres
+
+[00:01:14]
+más importantes de la industria sobre
+
+[00:01:15]
+los que todavía guardan silencio Está
+
+[00:01:17]
+bien lo entiendo así que recibí ese
+
+[00:01:19]
+correo electrónico tenía un pago
+
+[00:01:20]
+pendiente durante aproximadamente 7 días
+
+[00:01:22]
+No fue un pago grande fue como 9000
+
+[00:01:25]
+pesos obtuve más ganancias en la cuenta
+
+[00:01:26]
+por lo que la cuenta tenía alrededor de
+
+[00:01:28]
+20.000 Gan y solo recibí ese correo
+
+[00:01:31]
+electrónico prohibiéndose sin razón
+
+[00:01:32]
+ahora con tft el comerciante divertido
+
+[00:01:34]
+si saben tuve dos entrevistas con ellos
+
+[00:01:36]
+así que hice dos entrevistas que
+
+[00:01:38]
+generaron muchas vistas lo que
+
+[00:01:39]
+obviamente les consiguió clientes y creo
+
+[00:01:41]
+que también me pagaron fueron más de
+
+[00:01:43]
+150,000 pesos sin gastar demasiado en
+
+[00:01:45]
+desafíos Así que tuve la primera cuenta
+
+[00:01:47]
+de financiamiento que obtuve se
+
+[00:01:48]
+financiaron 600,000 creo que en 5 meses
+
+[00:01:50]
+Entré en el programa kins Todo eso
+
+[00:01:51]
+aumentó lo que sea luego perdí y volví a
+
+[00:01:53]
+recibir financiación creo que era
+
+[00:01:55]
+diciembre sí diciembre y los 600.000 que
+
+[00:01:58]
+tenía ahora básicamente fueron
+
+[00:01:59]
+financiados durante más de 70 días o 80
+
+[00:02:01]
+días algo así así que me pagaron varias
+
+[00:02:03]
+veces he negociado y nunca tuve un
+
+[00:02:04]
+historial cualquier problema Y luego
+
+[00:02:06]
+dicen que mi estrategia está prohibida o
+
+[00:02:07]
+que estilo de entrenamiento así que me
+
+[00:02:09]
+prohibieron intenté ponerme en contacto
+
+[00:02:10]
+con ellos obviamente equipo de soporte
+
+[00:02:12]
+no te ayuda es la misma respuesta
+
+[00:02:13]
+genérica intenté enviarme un mensaje de
+
+[00:02:15]
+texto a suo Angelo él en discord en
+
+[00:02:17]
+instagram intentó usar mis conexiones
+
+[00:02:18]
+para contactarlo porque obviamente no es
+
+[00:02:20]
+la ve correcta y en primer lugar la
+
+[00:02:22]
+forma en que manejó las cosas y la forma
+
+[00:02:23]
+en que maneja este tipo de casos es muy
+
+[00:02:25]
+poco profesional me dijo dos hace
+
+[00:02:27]
+semanas que está muy ocupado y puede
+
+[00:02:28]
+volver a contactarme en al menos cco
+
+[00:02:30]
+días Ese fue el único mensaje que recibí
+
+[00:02:31]
+y desde entonces han pasado dos semanas
+
+[00:02:33]
+sin responder más y en instagram sí me
+
+[00:02:35]
+respondió dos veces y dijo básicamente
+
+[00:02:37]
+me prohibieron por razones de kig c e
+
+[00:02:39]
+estaba en la lista de bloqueados y luego
+
+[00:02:40]
+cambié mi correo electrónico o hice un
+
+[00:02:42]
+nuevo correo electrónico para evitar eso
+
+[00:02:44]
+lo cual es una gran gu baj gu bajo
+
+[00:02:46]
+porque creo que eso sucedió cuando los
+
+[00:02:47]
+prohibieron del trato y presentaron tse
+
+[00:02:49]
+tenías que tener el mismo correo
+
+[00:02:50]
+electrónico en la cuenta tft que en la
+
+[00:02:51]
+cuenta wise para poder recibir el pago
+
+[00:02:53]
+Así que tuve que cambiar mi cuenta tft
+
+[00:02:55]
+la cuenta de correo electrónico wise lo
+
+[00:02:57]
+que resultó en que el equipo de soporte
+
+[00:02:58]
+violara K griegas en mí correo
+
+[00:03:00]
+electrónico anterior Así que puedo
+
+[00:03:01]
+hacerlo en el nuevo básicamente tener K
+
+[00:03:03]
+gria se ha completado allí y poder pagar
+
+[00:03:05]
+al mismo correo electrónico inteligente
+
+[00:03:07]
+Así que eso fue lo que sucedió hace tres
+
+[00:03:08]
+o cuatro meses creo que tres meses no ni
+
+[00:03:10]
+siquiera lo recuerdo y tal vez Esa fue
+
+[00:03:11]
+la razón del kig S Que obviamente sería
+
+[00:03:14]
+muy tonto pero luego envié un mensaje al
+
+[00:03:15]
+soporte del equipo de riesgos con lo que
+
+[00:03:16]
+Angelo u su seo me dijo y lo negaron
+
+[00:03:18]
+dijeron que no se debe a k y C se debe a
+
+[00:03:20]
+mi riesgo parámetros y lo que sea ni
+
+[00:03:22]
+siquiera usé un riesgo tan alto por lo
+
+[00:03:24]
+que no había razón para ser baneado
+
+[00:03:25]
+dijeron que me iban a pagar 9,000 pes el
+
+[00:03:28]
+último pago que hice Así que han sido
+
+[00:03:29]
+como dos días desde entonces obviamente
+
+[00:03:32]
+aún no han pagado pero esa fue toda la
+
+[00:03:33]
+situación no me pasó solo a mí me pasó
+
+[00:03:36]
+creo a cientos de comerciantes
+
+[00:03:37]
+financiados lo cual es muy lo sé muy
+
+[00:03:39]
+extraño de ver en una empresa importante
+
+[00:03:41]
+no sé qué está pasando con suerte
+
+[00:03:43]
+volverán a mí y a los demás para reparar
+
+[00:03:44]
+sus bueno Pues básicamente chicos eh eso
+
+[00:03:47]
+es lo que sucedió con Def funder Trader
+
+[00:03:49]
+Espero que el español lo hayan entendido
+
+[00:03:51]
+un poquito bien el traductor está
+
+[00:03:54]
+loquillo eh denegaron bastantes retiros
+
+[00:03:58]
+mandaron un correo a varias personas
+
+[00:04:00]
+abajo en los comentarios Déjame tu
+
+[00:04:02]
+feedback No sé si algún amigo a ti te
+
+[00:04:05]
+sucedió les denegaron pagos les mandaron
+
+[00:04:07]
+un correo les dijeron que estaba tenías
+
+[00:04:10]
+estabas usando mucho riesgo que estabas
+
+[00:04:12]
+muy arriesgado algo por el estilo y
+
+[00:04:15]
+básicamente estar denegando bastantes
+
+[00:04:17]
+retiros Es una lástima porque yo puse
+
+[00:04:19]
+esta empresa en mi top cinco empresas de
+
+[00:04:22]
+fondeo mejores para este 2024 y este
+
+[00:04:26]
+cada vez la confianza en las empresas de
+
+[00:04:28]
+fondeo se dilu mucho más al menos en las
+
+[00:04:31]
+empresas de fondeo de forex o Entonces
+
+[00:04:33]
+es una lástima que este tipo de cosas
+
+[00:04:35]
+pasen pero yo por el momento me
+
+[00:04:38]
+mantendría un poquito al margen con Def
+
+[00:04:39]
+funder Trader a ver qué pasa Qué sucede
+
+[00:04:42]
+no le han respondido por ejemplo a
+
+[00:04:43]
+Andrew no le he respondido a mucha gente
+
+[00:04:46]
+yo creo que eh simplemente se quedan sin
+
+[00:04:49]
+liquidez hay mucha gente exigiendo
+
+[00:04:50]
+retiros grandes eh algo mu muy bueno que
+
+[00:04:54]
+me gusta por ejemplo de funden pips es
+
+[00:04:56]
+que tienen cuentas pequeñas no más de
+
+[00:04:58]
+100k lo que permite Es que la gente no
+
+[00:05:01]
+haga retiros tan grandes y permite
+
+[00:05:03]
+cubrir esos pagos de las personas que sí
+
+[00:05:06]
+están retirando y de funder Trader por
+
+[00:05:08]
+ejemplo tenía cuentas de 400k 300k y
+
+[00:05:12]
+mucha gente haciendo retiros grandes
+
+[00:05:14]
+llega un momento en que te quedas sin
+
+[00:05:16]
+sin liquidez y no puedes pagar o
+
+[00:05:19]
+simplemente A lo mejor es otra cosa pero
+
+[00:05:21]
+de momento es al estamos manteniéndonos
+
+[00:05:24]
+un poquito al margen con Def funder
+
+[00:05:26]
+Trader déjame en los comentarios tú qué
+
+[00:05:28]
+piensas qué es lo que crees que está
+
+[00:05:31]
+sucediendo qué es lo que quieres hacer
+
+[00:05:33]
+en un futuro esto es un poquito con Def
+
+[00:05:36]
+funder Trader Es una lástima porque al
+
+[00:05:38]
+antes de inclusive que yo apareciera my
+
+[00:05:40]
+Forest fone que desapareciera my Forest
+
+[00:05:43]
+fone yo la consideraba como mi top TR yo
+
+[00:05:45]
+creo empresas de fondeo tengo un amigo
+
+[00:05:47]
+cercano que le estaban pagando Andrew le
+
+[00:05:50]
+pagaron más de 00,000 en retiros estaban
+
+[00:05:54]
+pagando bien estaban procesando bien los
+
+[00:05:56]
+pagos eh yo creo que estaban haciendo
+
+[00:05:58]
+las cosas bien pero ahora no sé qué pasó
+
+[00:06:00]
+con este correo electrónico medio raro
+
+[00:06:03]
+HM es un poquito incierto déjame en los
+
+[00:06:06]
+comentarios qué opinas y bueno nos vamos
+
+[00:06:07]
+a estar viendo en un siguiente video
+```

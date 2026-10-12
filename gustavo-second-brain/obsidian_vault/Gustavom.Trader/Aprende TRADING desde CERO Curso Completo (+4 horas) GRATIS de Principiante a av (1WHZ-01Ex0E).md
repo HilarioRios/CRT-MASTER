@@ -1,0 +1,20581 @@
+---
+source_id: YT_CANAL_02_1WHZ-01Ex0E
+video_id: 1WHZ-01Ex0E
+channel: "Gustavom.Trader"
+published_at: 2024-11-30
+url: https://www.youtube.com/watch?v=1WHZ-01Ex0E
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 149
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Aprende TRADING desde CERO | Curso Completo (+4 horas) GRATIS de Principiante a avanzado.
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=1WHZ-01Ex0E)
+
+## Transcript
+
+```
+[00:00:00]
+quítate el exceso de información Y
+
+[00:00:01]
+aprende trading de una vez por todas
+
+[00:00:04]
+Bienvenido a mi curso gratuito donde
+
+[00:00:06]
+recopil todos los conceptos necesarios
+
+[00:00:09]
+para que puedas aprender trading desde
+
+[00:00:11]
+cero también en la descripción te dejaré
+
+[00:00:13]
+el material de estudio completamente
+
+[00:00:15]
+gratis para que puedas aprender
+
+[00:00:18]
+bienvenido a este viaje la finalidad de
+
+[00:00:21]
+esta mentoría gratuita para todos
+
+[00:00:23]
+ustedes es simplificar tu trading que tú
+
+[00:00:28]
+puedas entender o o poder trabajar en tu
+
+[00:00:31]
+trading de una manera que pueda
+
+[00:00:33]
+simplificar toda la bola de conceptos
+
+[00:00:35]
+que hay por todos lados regados verad al
+
+[00:00:38]
+último que tanto concepto que tú traes
+
+[00:00:40]
+no sabes qué utilizar o qué usar
+
+[00:00:41]
+Entonces Precisamente en eso es lo que
+
+[00:00:43]
+me estoy enfocando en esta mentoría 2024
+
+[00:00:45]
+verad en forma de video ya adicional eso
+
+[00:00:50]
+el que ocupe alguna mentoría uno a uno
+
+[00:00:52]
+ya un plan de trabajo personalizado un
+
+[00:00:55]
+seguimiento contigo que te lleve de la
+
+[00:00:58]
+manita que te te ayude pues ya puedes
+
+[00:01:01]
+adquirir una mentoría de pago pero la
+
+[00:01:03]
+finalidad de eso de la mentoría gratuita
+
+[00:01:06]
+es simplificar el trading hacerlo
+
+[00:01:08]
+sencillo y yo voy a explicar muchos
+
+[00:01:10]
+conceptos que a lo mejor ya te lo sabes
+
+[00:01:12]
+pero te voy a ayudar a simplificar el
+
+[00:01:15]
+trading y a que tu trading sea mucho más
+
+[00:01:17]
+sencillo que todo lo que probablemente
+
+[00:01:19]
+puedes estar viendo en todos lados Este
+
+[00:01:22]
+es el índice de las van a ser cinco
+
+[00:01:24]
+clases eh Por módulo van a ser seis
+
+[00:01:27]
+módulos les puse nombre a los módulos el
+
+[00:01:30]
+primero es estructura y personalidad del
+
+[00:01:32]
+precio el segundo es identificación de
+
+[00:01:34]
+zonas de interés el tercero son formas
+
+[00:01:36]
+de trabajo por rangos de liquidez el
+
+[00:01:39]
+cuatro Es una construcción de una
+
+[00:01:40]
+estrategia para que tú puedas construir
+
+[00:01:42]
+una estrategia tuya propia eh tuya no
+
+[00:01:46]
+copiada de nadie o una estrategia que te
+
+[00:01:48]
+guste por ahí del canal de YouTube mío o
+
+[00:01:50]
+de otra persona la puedas amoldar a tu
+
+[00:01:54]
+forma el módulo 5 es validar esa
+
+[00:01:56]
+estrategia y el módulo se es un plan de
+
+[00:01:59]
+acción un plan de trabajo final esa va a
+
+[00:02:02]
+ser la mentoría 2024 quieren ver los
+
+[00:02:05]
+temas Pues los temas los tengo por acá
+
+[00:02:08]
+el primer módulo eh personalidad del
+
+[00:02:11]
+precio y estructura estructura y
+
+[00:02:13]
+personalidad del precio un mercado
+
+[00:02:15]
+fractal vamos a hablar de la fractalidad
+
+[00:02:16]
+del precio que es la clase número uno
+
+[00:02:18]
+que vamos a ver el día de hoy vamos a
+
+[00:02:20]
+ver la clase número dos rompimientos de
+
+[00:02:24]
+estructura vamos a hablar de la
+
+[00:02:25]
+estructura interna y externa vamos a
+
+[00:02:28]
+hablar de la liquidez y la es inducida
+
+[00:02:30]
+vamos a hablar del bas la dirección del
+
+[00:02:33]
+mercado con estructura de Mercado luego
+
+[00:02:36]
+la clase número dos vamos a hablar de
+
+[00:02:38]
+oferta y demanda básica puntos de
+
+[00:02:40]
+interés bloques este Point de alta
+
+[00:02:44]
+calidad y luego les voy a enseñar a
+
+[00:02:46]
+marcar puntos de interés o zonas verad
+
+[00:02:49]
+en la módulo número tres vamos a hacer
+
+[00:02:51]
+formas de trabajo por rangos de liquidez
+
+[00:02:53]
+que esto es a lo mejor relativamente
+
+[00:02:57]
+nuevo para muchos de ustedes pero lo voy
+
+[00:02:59]
+a enseñar tipos de mapeo de rangos vamos
+
+[00:03:02]
+a simplificar las temporalidades vamos a
+
+[00:03:05]
+H ver cómo se hace un mapeo para un o un
+
+[00:03:09]
+un modelo de trabajo o un mapa de
+
+[00:03:12]
+trabajo para hacer scalping para hacer
+
+[00:03:14]
+intradía y para hacer swing en la cuatro
+
+[00:03:16]
+vamos a construir una estrategia qué
+
+[00:03:18]
+parámetros debería tener mi estrategia
+
+[00:03:20]
+vamos a ver los motivos de entrada y el
+
+[00:03:22]
+tiempo dónde colocar el Stop loss dónde
+
+[00:03:24]
+colocar del Take profit Y cómo gestionar
+
+[00:03:26]
+el riesgo y mi entrada Esos son los los
+
+[00:03:30]
+los cuatro módulos y me faltan dos
+
+[00:03:33]
+últimos módulos verad
+
+[00:03:34]
+eh vamos a validar mi estrategia formma
+
+[00:03:37]
+de hacer Back testing testeo en en en
+
+[00:03:40]
+demo y en mercados en vivo
+
+[00:03:43]
+eh vamos a hablar de tu enfoque de tu
+
+[00:03:46]
+estrategia en pruebas de fondeo esta
+
+[00:03:48]
+clase es enfocada a pruebas de fondeo
+
+[00:03:49]
+vamos a ver el psico trading según mi
+
+[00:03:51]
+estrategia y vamos a ver cómo enfocarte
+
+[00:03:54]
+en una sola estrategia Por último
+
+[00:03:57]
+terminaríamos con definición de tus
+
+[00:03:59]
+reglas
+
+[00:04:00]
+testeo y retroalimentación de un plan de
+
+[00:04:03]
+trabajo y vamos a refinar los resultados
+
+[00:04:06]
+el cuatro vamos a hablar de hábitos y el
+
+[00:04:08]
+último vamos a terminar hablando de
+
+[00:04:10]
+control de emocional teoría básica de la
+
+[00:04:12]
+fractalidad la teoría de la fractalidad
+
+[00:04:14]
+nos dice hace referencia a un
+
+[00:04:15]
+comportamiento repetitivo en los
+
+[00:04:17]
+mercados en todas las temporalidades Qué
+
+[00:04:20]
+quiere decir que el mercado se mueve de
+
+[00:04:22]
+manera similar ojo similar o parecida de
+
+[00:04:27]
+manera cíclica durante el tiempo ya que
+
+[00:04:30]
+lo mismo que hace en temporalidades de 4
+
+[00:04:33]
+horas lo hace en temporalidades de una
+
+[00:04:36]
+hora lo puede llegar hac temporalidades
+
+[00:04:38]
+de un minuto ojo puedes repetir la misma
+
+[00:04:41]
+fractalidad pero no quiere decir que sea
+
+[00:04:44]
+Exactamente igual pero sí se mueve de
+
+[00:04:46]
+una manera muy similar o muy igual o muy
+
+[00:04:51]
+parecida Verdad Entonces para nosotros
+
+[00:04:54]
+entender eso nosotros usamos lo que son
+
+[00:04:56]
+los fractales los fractales son una
+
+[00:04:59]
+parte del mercado que nosotros agarramos
+
+[00:05:01]
+o agarramos una parte del mercado Y a
+
+[00:05:04]
+partir de ahí lo clasificamos en
+
+[00:05:05]
+fractales para entender esto vamos a
+
+[00:05:08]
+entender que tenemos primero un origen
+
+[00:05:12]
+el origen es des donde salió el precio
+
+[00:05:14]
+des donde está saliendo donde tú lo
+
+[00:05:16]
+estás mirando verad desde ahí salió el
+
+[00:05:19]
+precio este primero sería el impulso
+
+[00:05:23]
+verad puede ser un impulso hacia arriba
+
+[00:05:26]
+un impulso hacia abajo dependiendo la
+
+[00:05:27]
+tendencia que llevemos verdad Entonces
+
+[00:05:30]
+cómo identificamos nuestros fractales
+
+[00:05:32]
+origen del impulso verad ahí empieza mi
+
+[00:05:35]
+impulso luego después final del impulso
+
+[00:05:38]
+ver origen y final verad eso sería un
+
+[00:05:42]
+primer fractal eso sería un fractal
+
+[00:05:44]
+luego nuestro fractal está compuesto de
+
+[00:05:47]
+El retroceso y el retroceso lo podemos
+
+[00:05:50]
+identificar con el origen del
+
+[00:05:53]
+retroceso origen del retroceso y final
+
+[00:05:56]
+del retroceso ese sería un fractal
+
+[00:05:58]
+completo eh comprendido de impulso y
+
+[00:06:04]
+retroceso esos son los lo básico para
+
+[00:06:07]
+poder entender la estructura de Mercado
+
+[00:06:09]
+ahorita vamos a ir al gráfico y vamos a
+
+[00:06:13]
+identificarlos para que ustedes lo
+
+[00:06:14]
+entiendan bien bien claramente Gustavo
+
+[00:06:17]
+En qué temporalidad no te centres
+
+[00:06:19]
+ahorita en las temporalidades céntrate
+
+[00:06:21]
+en la temporalidad que tú lo veas un
+
+[00:06:24]
+origen del impulso un final del impulso
+
+[00:06:27]
+un origen del del del del del retroceso
+
+[00:06:32]
+y un final del retroceso Luego de eso
+
+[00:06:35]
+vamos a tener lo que yo llamo puntos de
+
+[00:06:38]
+giro estos puntos de giro Qué es Gustavo
+
+[00:06:41]
+pues es donde el precio cambia para
+
+[00:06:43]
+hacer el retroceso o para hacer un nuevo
+
+[00:06:46]
+impulso ejemplo aquí en esta punta que
+
+[00:06:48]
+estamos aquí hasta arriba en el justo en
+
+[00:06:51]
+el final del impulso va va a existir un
+
+[00:06:53]
+origen del retroceso y va va a existir
+
+[00:06:56]
+un punto de giro
+
+[00:06:59]
+verdad Igualmente en el en el origen del
+
+[00:07:03]
+impulso va a existir un punto de giro en
+
+[00:07:05]
+el final del retroceso va a existir un
+
+[00:07:07]
+punto de giro son como los vértices
+
+[00:07:09]
+verdad si tú por ejemplo pones un
+
+[00:07:11]
+triángulo pues sabemos que el Triángulo
+
+[00:07:13]
+tiene tres puntos verdad Y son los
+
+[00:07:16]
+vértices del triángulo Pues haz de
+
+[00:07:18]
+cuenta que es lo mismo en el precio
+
+[00:07:19]
+verdad Pero por fractales por fractales
+
+[00:07:23]
+o muchos le dicen piernas también pierna
+
+[00:07:26]
+pierna una pierna del mercado a través
+
+[00:07:29]
+de eso se van formando lo que son las
+
+[00:07:31]
+tendencias
+
+[00:07:32]
+entonces creo que comprendimos todo bien
+
+[00:07:35]
+ver para eso tenemos fractales mayores y
+
+[00:07:38]
+menores los fractales los mayores son
+
+[00:07:40]
+los que están en temporalidades grandes
+
+[00:07:43]
+diario h4 o también depende de tu
+
+[00:07:46]
+temporalidad En qué depende tu
+
+[00:07:48]
+temporalidad Por ejemplo si tú estás
+
+[00:07:50]
+viendo M1 tu fractal mayor va a estar
+
+[00:07:53]
+una temporalidad mayor puede ser m15 por
+
+[00:07:56]
+ejemplo o tú puedes estar viendo h1 y tu
+
+[00:07:59]
+fractal mayor va a estar en diario o h4
+
+[00:08:04]
+verdad Entonces es bien importante
+
+[00:08:06]
+entender la temporalidad de una sola vez
+
+[00:08:09]
+Verdad Entonces para eso clasificamos
+
+[00:08:12]
+los fractales como mayores y menores el
+
+[00:08:15]
+fractal menor va a ser la lectura de la
+
+[00:08:17]
+temporalidad menor ejemplo en h4 tengo
+
+[00:08:20]
+un fractal x pero en h1 N m15 tengo
+
+[00:08:24]
+otros fractales más pequeños eso lo
+
+[00:08:26]
+vamos a ver también ahorita en la
+
+[00:08:28]
+práctica
+
+[00:08:30]
+vamos a hablar ahora de los puntos de
+
+[00:08:32]
+giro para identificar los giros de un
+
+[00:08:35]
+fractal es necesario analizar los
+
+[00:08:37]
+fractales menores y entender cómo es que
+
+[00:08:39]
+la acción de precio se genera O sea que
+
+[00:08:42]
+justo en un en un en un impulso y en un
+
+[00:08:46]
+retroceso justo en un punto de giro yo
+
+[00:08:49]
+voy a tener fractalidad
+
+[00:08:51]
+menores esas fractalidad menores me van
+
+[00:08:54]
+a ayudar a mí o me van a servir para
+
+[00:08:56]
+identificar si probablemente est un
+
+[00:08:58]
+punto de giro para hacer un nuevo
+
+[00:09:00]
+impulso o retroceso en un fractal mayor
+
+[00:09:03]
+verdad yo creo que se está entendiendo
+
+[00:09:06]
+bastante bien verdad Entonces importante
+
+[00:09:09]
+analizar para obtener con mayor
+
+[00:09:11]
+precisión puntos de giro que es
+
+[00:09:13]
+importante la alineación de nuestras
+
+[00:09:16]
+temporalidades estructura y liquidez de
+
+[00:09:18]
+las temporalidades verdad la alineación
+
+[00:09:21]
+de las temporalidades es Yo tengo un
+
+[00:09:23]
+precio subiendo aquí creando un fractal
+
+[00:09:25]
+alcista y luego tengo un precio que
+
+[00:09:28]
+probablemente pueda proceder Entonces
+
+[00:09:30]
+cuando empiezo a ver que mis
+
+[00:09:31]
+temporalidades menores empiezan a
+
+[00:09:33]
+alinear a las mayores es cuando yo puedo
+
+[00:09:36]
+entender que probablemente venga un
+
+[00:09:38]
+retroceso si estamos en una temporalidad
+
+[00:09:40]
+alta verad o en una tendencia alcista
+
+[00:09:43]
+simplemente eso muy sencillo de entender
+
+[00:09:46]
+pero vamos a ir un poquito a entender
+
+[00:09:49]
+Más todavía las temporalidades verdad
+
+[00:09:51]
+las temporalidades más todavía para que
+
+[00:09:54]
+entendamos al 100% Cómo es que el precio
+
+[00:09:56]
+Lo va haciendo la temporalidad es algo
+
+[00:09:59]
+muy importante que ustedes tienen que
+
+[00:10:01]
+entender muy bien Es importante saber
+
+[00:10:03]
+que las temporalidades mayores tendrán
+
+[00:10:05]
+un peso más importante en cuanto a
+
+[00:10:07]
+dirección yo las clasifico de esta
+
+[00:10:09]
+manera para simplificar mejor
+
+[00:10:12]
+m y s1 es mensual y semanal mensual y
+
+[00:10:16]
+semanal luego tenemos diario y 4 horas
+
+[00:10:20]
+luego tenemos h1 y m15 y luego tenemos
+
+[00:10:24]
+m5 y M1 Qué hago yo normalmente para
+
+[00:10:27]
+esto si yo tra trabajando con diario
+
+[00:10:30]
+pues estoy viendo la fractalidad de
+
+[00:10:32]
+diario verad un impulso y un retroceso
+
+[00:10:36]
+Entonces cómo puedo saber yo si esto
+
+[00:10:39]
+aquí va a ser un punto de giro y va a
+
+[00:10:41]
+ser una nueva temporalidad pues empiezo
+
+[00:10:43]
+a ver la construcción de los fractales
+
+[00:10:45]
+menores que pueden ser de h4 o de h1 a
+
+[00:10:48]
+través de la posible construcción de los
+
+[00:10:50]
+fractales de h1 y de h4 yo puedo
+
+[00:10:54]
+entender que posiblemente tengamos un
+
+[00:10:56]
+nuevo impulso en mi temporalidad viaria
+
+[00:10:59]
+básicamente eso es muy sencillo de
+
+[00:11:02]
+entender y lo que nosotros usamos es una
+
+[00:11:06]
+multitemporal didad no solamente
+
+[00:11:08]
+analizar una temporalidad Pero según el
+
+[00:11:11]
+enfoque del trading que ustedes quieran
+
+[00:11:13]
+hacer es la temporalidad que van a
+
+[00:11:14]
+utilizar verdad eso lo voy a enseñar más
+
+[00:11:18]
+adelante por último tenemos los ciclos
+
+[00:11:21]
+de precio Qué son el ciclo de Qué es un
+
+[00:11:24]
+ciclo de precio un ciclo de precio es en
+
+[00:11:27]
+el conjunto de de dos o más fractales o
+
+[00:11:33]
+más de dos fractales Qué quiere decir
+
+[00:11:35]
+que cuando el precio hace un impulso un
+
+[00:11:38]
+retroceso tiene un fractal verdad Ahí
+
+[00:11:40]
+tenemos un fractal de este punto de
+
+[00:11:42]
+origen a este punto final punto de
+
+[00:11:44]
+origen del impulso del retroceso punto
+
+[00:11:47]
+final del retroceso el precio hace un
+
+[00:11:49]
+nuevo impulso tenemos probablemente un
+
+[00:11:51]
+nuevo fractal formándose confirma y ahí
+
+[00:11:54]
+tenemos un segundo fractal aquí tenemos
+
+[00:11:56]
+dos fractales supongamos que el pre hace
+
+[00:11:58]
+un nuevo impulso
+
+[00:11:59]
+un nuevo retroceso aquí tendríamos ya
+
+[00:12:02]
+tres fractales un dos y tres Ver todos
+
+[00:12:06]
+est tres fractales me van a formar un
+
+[00:12:09]
+ciclo en esa temporalidad supongamos que
+
+[00:12:13]
+este es un ciclo de h4 comprendido de
+
+[00:12:16]
+varios fractales verdad varios impulsos
+
+[00:12:19]
+y retrocesos que hacen un fractal Que
+
+[00:12:21]
+varios fractales cumplen un ciclo del
+
+[00:12:23]
+precio este ciclo Si tú te vas a la
+
+[00:12:26]
+temporalidad mayor que es diario lo vas
+
+[00:12:28]
+a ver como un solo
+
+[00:12:30]
+impulso entonces todo este ciclo de h4
+
+[00:12:33]
+fue para formar un qué un fractal de
+
+[00:12:38]
+diario me explico o no me explico yo
+
+[00:12:40]
+creo que me explico bastante bien verdad
+
+[00:12:43]
+Y así sucesivamente con todas las
+
+[00:12:45]
+temporalidades si por ejemplo ves varios
+
+[00:12:47]
+ciclos en diario por ejemplo ves dos
+
+[00:12:50]
+fractales en diario con varios con
+
+[00:12:52]
+varios fractales en 4 horas va a ser un
+
+[00:12:54]
+solo impulso en
+
+[00:12:56]
+semanal y un solo impulso en mensual y
+
+[00:12:59]
+así sucesivamente por por todas las
+
+[00:13:02]
+temporalidades que haiga que haiga vidas
+
+[00:13:04]
+y por haber Okay ahora para entender
+
+[00:13:08]
+mejor esto vamos a pasar al gráfico y
+
+[00:13:10]
+vamos a estudiar lo que hemos visto para
+
+[00:13:14]
+empezar con el origen del impulso en
+
+[00:13:17]
+este caso va a ser un impulso bajista
+
+[00:13:20]
+porque tenemos una estructura bajista
+
+[00:13:22]
+formada verad luego tenemos el final del
+
+[00:13:25]
+impulso verad Ahora yo les pregunto a
+
+[00:13:28]
+ver Ayúdenme por ahí márquenme cuál
+
+[00:13:31]
+ahorita es fácil porque ya lo están
+
+[00:13:33]
+viendo Cuál
+
+[00:13:35]
+es el origen del
+
+[00:13:40]
+retroceso este es fractal ojo fractal
+
+[00:13:45]
+alguien este es fractal del punto a al
+
+[00:13:47]
+punto B este es fractal origen del
+
+[00:13:50]
+impulso final del retroceso Okay muy
+
+[00:13:53]
+bien muy bien ese es el origen del
+
+[00:13:58]
+retroceso verdad origen del retroceso
+
+[00:14:01]
+Cómo me puedo dar cuenta Gustavo que
+
+[00:14:03]
+este es el origen del retroceso Bueno
+
+[00:14:05]
+una porque ya lo estoy viendo pero la
+
+[00:14:07]
+otra es por mi fractalidad
+
+[00:14:09]
+menor pero ahorita vamos a ir al gráfico
+
+[00:14:12]
+menor en su caso puede ser h1 m15 una
+
+[00:14:15]
+temporalidad menor
+
+[00:14:18]
+verdad Ahora dígame usted dígame dígame
+
+[00:14:22]
+ustedes Cuál
+
+[00:14:24]
+es el final del retroceso
+
+[00:14:30]
+a ver los demás también pueden
+
+[00:14:32]
+participar si quieren Ahí está final del
+
+[00:14:35]
+retroceso o sea sencillo de entender o
+
+[00:14:37]
+no sencillo de entender fácil verdad
+
+[00:14:40]
+entonces aquí lo marcamos principio
+
+[00:14:44]
+final principio final este sería un
+
+[00:14:47]
+fractal completo Este es mi fractal
+
+[00:14:50]
+completo verad o Entonces qué puedo yo
+
+[00:14:53]
+intuir Por ejemplo si veo un fractal ahí
+
+[00:14:56]
+puedo intuir que en mis puntos de giro
+
+[00:15:00]
+aquí en mis puntos de giro aquí en mis
+
+[00:15:03]
+puntos de giro puedo obtener dirección
+
+[00:15:06]
+del mercado dirección del precio
+
+[00:15:09]
+verdad ahora cómo clasifico esto por eso
+
+[00:15:12]
+es importante como les digo las
+
+[00:15:13]
+temporalidades ya tengo yo ese impulso
+
+[00:15:15]
+lo vamos ahí bajamos a la temporalidad
+
+[00:15:17]
+de h1 para entender mis puntos de giro
+
+[00:15:20]
+que es lo que ahora lo nuevo que vamos a
+
+[00:15:24]
+trabajar
+
+[00:15:26]
+fíjense que ya tenemos este
+
+[00:15:29]
+ahora en el siguiente vamos a tener
+
+[00:15:32]
+Igualmente fractales menores ahorita los
+
+[00:15:35]
+vamos a identificar algún listillo que
+
+[00:15:37]
+ya sea listillo ya ya sabe cuál por
+
+[00:15:40]
+ejemplo es mi fractal menor pero fíjense
+
+[00:15:42]
+que vamos a poner aquí rojo para mis
+
+[00:15:46]
+fractales menores
+
+[00:15:48]
+verad aquí tenemos un
+
+[00:15:50]
+impulso y luego Aquí queé tenemos un
+
+[00:15:54]
+giro este que está aquí
+
+[00:15:57]
+es el principio de
+
+[00:16:01]
+qué del el origen de un nuevo impulso en
+
+[00:16:07]
+este caso Perdón este es el origen de un
+
+[00:16:09]
+nuevo impulso y este es el origen de un
+
+[00:16:11]
+nuevo
+
+[00:16:13]
+retroceso entonces aquí tenemos otro
+
+[00:16:16]
+fractal completo lo ubican o no lo
+
+[00:16:18]
+ubican
+
+[00:16:20]
+aquí
+
+[00:16:22]
+tenemos
+
+[00:16:24]
+a
+
+[00:16:26]
+b
+
+[00:16:27]
+c así como los niños chiquitos de la de
+
+[00:16:30]
+que cuando cuando estaban aprendiendo el
+
+[00:16:32]
+abecedario
+
+[00:16:33]
+a b
+
+[00:16:36]
+c este este este Qué es es un
+
+[00:16:41]
+fractal menor Por qué Porque Cuál es mi
+
+[00:16:45]
+fractal mayor Gustavo Mi fractal mayor
+
+[00:16:47]
+es este que está acá Este es mi fractal
+
+[00:16:50]
+mayor o Entonces mi fractal mayor está
+
+[00:16:53]
+comprendido De qué está comprendido de
+
+[00:16:57]
+un
+
+[00:16:59]
+fractal
+
+[00:17:01]
+menor hay fractales más grandes y más
+
+[00:17:04]
+pequeños y hay unos que tienen más tipos
+
+[00:17:07]
+de fractales menores pero este tiene un
+
+[00:17:10]
+fractal menor Entonces ya entendemos la
+
+[00:17:13]
+estructura menor verad o mi fractalidad
+
+[00:17:15]
+menor ahora este hace un nuevo retroceso
+
+[00:17:19]
+y este que también es el final del es el
+
+[00:17:22]
+final o del retroceso del fractal menor
+
+[00:17:26]
+también es el final del retroceso del
+
+[00:17:28]
+tal mayor verdad y ahora aquí tenemos mi
+
+[00:17:33]
+primer punto de
+
+[00:17:36]
+giro ahora el precio va a construir
+
+[00:17:38]
+fractales ahora la dirección contraria
+
+[00:17:41]
+porque posiblemente Mi fractalidad mayor
+
+[00:17:44]
+me está diciendo que venga un retroceso
+
+[00:17:47]
+o entonces en mi fractalidad menor lo
+
+[00:17:49]
+que voy a ver es fractales alcistas pero
+
+[00:17:53]
+fractales alcistas de mi
+
+[00:17:56]
+retroceso son fractales alcistas de mi
+
+[00:18:00]
+retroceso solamente aquí es donde muchos
+
+[00:18:03]
+se confunden porque ven el mercado
+
+[00:18:05]
+subiendo y creen que se va a ir to the
+
+[00:18:09]
+moon pero aquí tú tienes un punto
+
+[00:18:11]
+fractal esto hay que validarlo
+
+[00:18:13]
+todavía Okay Vamos haciendo Fall up
+
+[00:18:16]
+ahora de la fractalidad menor del
+
+[00:18:19]
+retroceso punto a al punto B aquí
+
+[00:18:23]
+tenemos claramente un nuevo alto aquí
+
+[00:18:26]
+tenemos claramente un nuevo bajo verdad
+
+[00:18:29]
+entonces aquí tenemos mi primer fractal
+
+[00:18:33]
+menor ahora qué
+
+[00:18:36]
+tenemos mi primer
+
+[00:18:38]
+impulso de mi siguiente fractal luego
+
+[00:18:42]
+tenemos el descanso también se le puede
+
+[00:18:44]
+decir descanso al retroceso Hay muchas
+
+[00:18:47]
+formas de
+
+[00:18:49]
+decirle retroceso luego tenemos un nuevo
+
+[00:18:52]
+impulso y aquí tenemos un
+
+[00:18:54]
+nuevo
+
+[00:18:57]
+impulso verdad hasta ahí yo creo que
+
+[00:19:00]
+todos vamos bien Ahora hablábamos de mi
+
+[00:19:04]
+fractalidad que yo tenía impulso
+
+[00:19:07]
+retroceso Esa es mi fatalidad mayor
+
+[00:19:10]
+fíjense como ahora para detectar que
+
+[00:19:13]
+probablemente Este es un nuevo punto de
+
+[00:19:16]
+giro después Vamos a ponernos a pelear
+
+[00:19:19]
+de dónde exactamente hasta dónde puede
+
+[00:19:23]
+pero ahorita solamente enfócate en
+
+[00:19:25]
+entender la estructura como tal solo
+
+[00:19:28]
+estura de Mercado estamos tú yo y la
+
+[00:19:32]
+estructura de Mercado no te ahorita no
+
+[00:19:35]
+estamos hablando de liquidez ni de
+
+[00:19:36]
+bloques de orden ni de De nada solamente
+
+[00:19:39]
+estamos tú yo y la estructura de Mercado
+
+[00:19:43]
+Okay yo te digo si
+
+[00:19:46]
+esto si este
+
+[00:19:48]
+hace aquí Me faltó marcar este que está
+
+[00:19:51]
+acá el nuevo este bajo Perdón perdón
+
+[00:19:54]
+perdón Me faltó marcar este bajo también
+
+[00:19:56]
+si este que está aquí quiere seguir
+
+[00:20:00]
+alcista qué tiene que
+
+[00:20:04]
+hacer marcar un nuevo mínimo y irse para
+
+[00:20:08]
+arriba
+
+[00:20:10]
+verdad si el mercado quiere seguir
+
+[00:20:12]
+subiendo tiene que retroceder y seguir y
+
+[00:20:14]
+seguir subiendo pero fíjate lo
+
+[00:20:17]
+interesante que pasa
+
+[00:20:20]
+aquí Fíjate lo interesante que pasa aquí
+
+[00:20:23]
+que el mercado de hecho lo vamos a
+
+[00:20:25]
+marcar con otro colorcito para que no se
+
+[00:20:27]
+me confunda
+
+[00:20:30]
+vamos a marcarlo con azul Fíjate lo que
+
+[00:20:34]
+interesante que pasa aquí Qué hace el
+
+[00:20:36]
+precio abajo hace un nuevo
+
+[00:20:40]
+bajo Entonces ahora yo tengo un nuevo
+
+[00:20:43]
+fractal aquí tengo un nuevo fractal ahí
+
+[00:20:48]
+ver lo miras o no lo miras si se
+
+[00:20:50]
+entiende verad ese es un nuevo fractal
+
+[00:20:52]
+ahora voy a volver a tener un nuevo
+
+[00:20:54]
+punto de giro y voy a tener un nuevo
+
+[00:20:57]
+punto de retroceso eso ahora yo me
+
+[00:21:00]
+centro específicamente en este fractal
+
+[00:21:03]
+que está
+
+[00:21:04]
+aquí y Fíjate lo que sucede el precio
+
+[00:21:08]
+Qué hace la estructura viene hacia
+
+[00:21:11]
+arriba hace un nuevo impulso hacia abajo
+
+[00:21:14]
+hace un nuo impulso hacia arriba este
+
+[00:21:17]
+patrón por qué lo hace así Gustavo raro
+
+[00:21:19]
+ahorita no voy a poner a explicar eso
+
+[00:21:21]
+pero simplemente centrate en el
+
+[00:21:23]
+movimiento final que hace el precio hace
+
+[00:21:25]
+un nuevo fractal Lu después que hace nuo
+
+[00:21:28]
+tal Fíjate que hace un nuevo bajo Y
+
+[00:21:31]
+fíjate que ahora la estructura esta que
+
+[00:21:35]
+este este fractal ahora tenemos el
+
+[00:21:39]
+comienzo de una nueva fractalidad
+
+[00:21:43]
+mayor con sus
+
+[00:21:46]
+fractales menores Dónde está mi aquí
+
+[00:21:51]
+impulso retroceso impulso retroceso en
+
+[00:21:56]
+este caso impulso a la baja retroceso a
+
+[00:21:58]
+la Alfa impulso a la baja retroceso a la
+
+[00:22:00]
+alza impulso a la baja retroceso a la
+
+[00:22:02]
+alza verdad excelente ahora Ahí vamos a
+
+[00:22:06]
+echarle un vistazo a mi temporalidad
+
+[00:22:09]
+mayor qué está sucediendo ahí ver
+
+[00:22:12]
+fíjense muy bien cómo mapeamos ahora
+
+[00:22:14]
+toda nuestra estructura de Mercado
+
+[00:22:19]
+verad
+
+[00:22:21]
+fractal aquí punto
+
+[00:22:25]
+de origen perd origen del
+
+[00:22:29]
+roceso nuevo fractal hasta acá y fíjense
+
+[00:22:33]
+cómo va teniendo sus fractales menores
+
+[00:22:35]
+Esto es lo básico para comprender la
+
+[00:22:38]
+estructura de
+
+[00:22:39]
+Mercado y hasta aquí tendríamos ya bien
+
+[00:22:44]
+comprendida la estructura de Mercado y
+
+[00:22:46]
+las temporalidades Y cómo detectamos
+
+[00:22:49]
+esos
+
+[00:22:50]
+eh puntos de ahí
+
+[00:22:53]
+ahora esto que está aquí podríamos decir
+
+[00:22:56]
+que son fractales
+
+[00:22:59]
+todos estos que están aquí verad son
+
+[00:23:01]
+fractales menores verad ya ya lo estamos
+
+[00:23:03]
+viendo a esto a ver pregunta de examen
+
+[00:23:06]
+le voy a dar una paleta le voy a dar un
+
+[00:23:08]
+dulce al que al que al que lo
+
+[00:23:12]
+diga Bueno le voy a dar una prueba de
+
+[00:23:14]
+fond al que lo
+
+[00:23:15]
+diga todos estos fractales que
+
+[00:23:19]
+forman Cómo se le llama eso que forman a
+
+[00:23:23]
+ver vamos a ver el chat
+
+[00:23:26]
+sentencia pero
+
+[00:23:29]
+Ok estuvo cerca son Impuls estructura de
+
+[00:23:33]
+Mercado es estructura ciclo Ahí está
+
+[00:23:37]
+wily wily todo esto es un ciclo de qué
+
+[00:23:41]
+de
+
+[00:23:42]
+h4 Por qué Porque es un conjunto de
+
+[00:23:45]
+fractales menores es un ciclo de h4 y es
+
+[00:23:50]
+un impulso a la baja estructura
+
+[00:23:53]
+retroceso
+
+[00:23:57]
+ciclo gustó la encuesta todos se querían
+
+[00:23:59]
+ganar la prueba de
+
+[00:24:03]
+fondo Entonces todos estos que edes ven
+
+[00:24:06]
+son fractales menores que que comprenden
+
+[00:24:09]
+un ciclo de h4 es un solo impulso en
+
+[00:24:12]
+forma de en este caso ya ya no
+
+[00:24:14]
+comprendió el retroceso porque es un
+
+[00:24:16]
+impulso a la baja de h4 Y así
+
+[00:24:18]
+sucesivamente Gustavo bájate más de
+
+[00:24:20]
+temporalidad porque a mí me encanta el
+
+[00:24:22]
+m15 y el M1 y y no Okay está bien chico
+
+[00:24:26]
+vamos te voy a dar una extra
+
+[00:24:28]
+marcando los puntos antes ya se ve más
+
+[00:24:30]
+clara Ah verdad yo ya yo fíjense que con
+
+[00:24:34]
+el paso del tiempo yo ya no necesito
+
+[00:24:37]
+hacer esto cuando yo empecé lo hacía
+
+[00:24:39]
+todos los días lo hacía la práctica hace
+
+[00:24:41]
+el maestro Pero tú en mi gráfico ya no
+
+[00:24:43]
+vas a ver esto por qué ya no lo vas a
+
+[00:24:46]
+ver en mi gráfico porque yo ya no lo
+
+[00:24:47]
+necesito Yo llego y con el puro ojo y no
+
+[00:24:50]
+es que porque me crea el gran Sayayin o
+
+[00:24:53]
+o el super Trader no porque ya no
+
+[00:24:55]
+necesito yo estar marcando nada yo ya
+
+[00:24:57]
+llego y lo veo con el
+
+[00:24:59]
+ojito con el tiempo ustedes con la
+
+[00:25:02]
+práctica conforme pero cuando tienen el
+
+[00:25:04]
+enfoque la forma de verla como es Clara
+
+[00:25:07]
+como es una forma de verla Cómo te digo
+
+[00:25:10]
+una forma de verla objetiva una forma de
+
+[00:25:13]
+ver
+
+[00:25:14]
+objetivo después vamos a hablar de los
+
+[00:25:16]
+tamaños de las manipulaciones y demás
+
+[00:25:18]
+cosas pero ahorita no estamos en eso
+
+[00:25:20]
+vamos a irnos para que se le sea más
+
+[00:25:22]
+fácil porque a lo mejor muchos se
+
+[00:25:23]
+confunden vamos a irnos a 5 minutos para
+
+[00:25:25]
+que sean más claros vamos a empezar
+
+[00:25:28]
+vamos a empezar des desde aquí desde
+
+[00:25:30]
+este origen Este es el origen del
+
+[00:25:32]
+fractal verad Este es el origen de mi
+
+[00:25:34]
+fractal
+
+[00:25:37]
+Igualmente Dónde está Dónde está a ver
+
+[00:25:41]
+origen y final Okay primer fractal de 5
+
+[00:25:45]
+minutos a ver quién quién dijo yo
+
+[00:25:48]
+Okay a ver los demás no no los demás no
+
+[00:25:51]
+participan no vinieron los demás a ver
+
+[00:25:54]
+segundo fractal otro que no sea Willy
+
+[00:25:57]
+que no sea Willy ya a ver a ver otro se
+
+[00:26:00]
+ve medio feo con el con el con este se
+
+[00:26:03]
+ve más chido con el con el
+
+[00:26:05]
+resaltador Ahí está Alexis
+
+[00:26:09]
+excelente yo me alegro de que sí
+
+[00:26:11]
+entendieron quiere decir que están
+
+[00:26:13]
+Aprendiendo la academia con Gustavo
+
+[00:26:15]
+están aprendiendo
+
+[00:26:16]
+eh pero aquí negro Okay tenemos ese bajo
+
+[00:26:23]
+alto
+
+[00:26:24]
+impulso
+
+[00:26:27]
+retroceso nuevo impulso nuevo retroceso
+
+[00:26:30]
+a ver
+
+[00:26:32]
+síganle seguimos okay excelente nuevo
+
+[00:26:36]
+bajo y luego cuál es el el origen el
+
+[00:26:40]
+origen del Okay perfecto y luego el
+
+[00:26:44]
+nuevo bajo a ver si ese lo agarran
+
+[00:26:46]
+Sandra Dice que hast allá no bueno
+
+[00:26:48]
+Sandra está bien está bien es igual pero
+
+[00:26:52]
+antes tiene uno interno ahí De hecho
+
+[00:26:54]
+tiene uno Ándale Alexis Mira Alexis está
+
+[00:26:57]
+Alexis está a por todas y luego el
+
+[00:27:00]
+siguiente aquí podríamos discutir de de
+
+[00:27:03]
+de que sea de que sea este o este o este
+
+[00:27:08]
+pero realmente el más claro es es porque
+
+[00:27:10]
+este es una fral eso es una fractalidad
+
+[00:27:12]
+menor Bueno después se lo voy a enseñar
+
+[00:27:13]
+pero ahorita vamos a simplificar este es
+
+[00:27:15]
+el nuevo alto nuevo bajo nuevo alto
+
+[00:27:18]
+verad fíjense Qué bonito va quedando
+
+[00:27:20]
+verad Y ustedes ya aquí tienen ahí les
+
+[00:27:23]
+va Vámonos h1 de nuevo todos estos
+
+[00:27:26]
+fractales que vimos aquí cómo se llaman
+
+[00:27:29]
+o qué es todos esos fractales otro ciclo
+
+[00:27:32]
+de 15 otro ciclo en este caso lo estamos
+
+[00:27:35]
+viendo de h1 Pero puede ser también de
+
+[00:27:36]
+15 es válido Pero esto sería otro ciclo
+
+[00:27:39]
+de
+
+[00:27:40]
+h1 fíjense que todo esto es un ciclo de
+
+[00:27:44]
+5 minutos es un ciclo de h1 esto es muy
+
+[00:27:47]
+importante entenderlo porque a la hora
+
+[00:27:49]
+que tú quieres tradear sabes lo que
+
+[00:27:52]
+estás buscando estás tradeando un ciclo
+
+[00:27:55]
+de h1 tus entradas están en m5
+
+[00:27:59]
+sencillito h1 m5 y se acabó Pero tú no
+
+[00:28:03]
+vas a querer agarrar todo esto por qué
+
+[00:28:06]
+Porque tú estás trabajando un ciclo
+
+[00:28:08]
+solamente Depende de lo que quieras
+
+[00:28:10]
+buscar verdad y con las temporalidades
+
+[00:28:13]
+mayores es lo mismo
+
+[00:28:15]
+yaad fíjense
+
+[00:28:18]
+cómo vamos a irnos a cinco cinco fíjense
+
+[00:28:22]
+que aquí tenemos un nuevo nuevo nuevo
+
+[00:28:25]
+nuevo impulso y retroceso fíjense que es
+
+[00:28:28]
+esto nos va a dar nuevos fractales pero
+
+[00:28:30]
+estamos viviendo un retroceso de h1
+
+[00:28:33]
+entonces mis ciclos o mis fractales
+
+[00:28:36]
+menores de h1 mis ciclos todo el
+
+[00:28:38]
+conjunto de fractales o mis fractales
+
+[00:28:42]
+menores se van a poner
+
+[00:28:44]
+Cómo para arriba en forma de
+
+[00:28:49]
+retroceso después vamos a discutir dónde
+
+[00:28:52]
+va a girar el
+
+[00:28:54]
+mercado Mediante los puntos de interés
+
+[00:28:57]
+pero ahorita solamente vamos a mapear lo
+
+[00:28:59]
+va a dejar con las ganas de más
+
+[00:29:02]
+verad ahora
+
+[00:29:04]
+eh vamos a ponerlo Ya me acabé todos los
+
+[00:29:08]
+colores de cuál sería mi primer origen y
+
+[00:29:12]
+final del fractal y retroceso estamos
+
+[00:29:14]
+trabajando esta pierna le pueden llamar
+
+[00:29:17]
+piernas también a los fractales o este
+
+[00:29:19]
+fractal ese fractal es el que estamos
+
+[00:29:21]
+trabajando cense en este fractal lo que
+
+[00:29:23]
+está acá ya no importa
+
+[00:29:25]
+Perfecto perfecto y impulso retroceso
+
+[00:29:30]
+impulso
+
+[00:29:31]
+retroceso y finalmente el último impulso
+
+[00:29:34]
+y retroceso esto tiene Cuántos fractales
+
+[00:29:37]
+tiene un dos tres fractales esto sería
+
+[00:29:41]
+qué un
+
+[00:29:43]
+ciclo de h1 O sí de h1 en forma
+
+[00:29:49]
+de retroceso de
+
+[00:29:53]
+h1 Y fíjense que ahora aquí obtenemos
+
+[00:29:56]
+Vámonos rapidito orir tenemos bajo alto
+
+[00:29:59]
+bajo alto bajo alto bajo aquí ya se
+
+[00:30:03]
+acelera el precio este está discutible
+
+[00:30:06]
+pero lo podemos tomar porque llegó ahí a
+
+[00:30:08]
+un buen punto eh donde está mi color e
+
+[00:30:12]
+bajo alto bajo y finalmente hace uno
+
+[00:30:16]
+bajo y sucesivamente así hasta abajo
+
+[00:30:19]
+hasta abajo impulso
+
+[00:30:21]
+retroceso esto este puede ser pero este
+
+[00:30:24]
+de una temporalidad menor realmente el
+
+[00:30:27]
+impulso es hasta acá arriba ese es un
+
+[00:30:29]
+buen
+
+[00:30:30]
+retroceso Esta es una sola vela está más
+
+[00:30:34]
+clara esta luego tienes un nuevo bajo
+
+[00:30:37]
+bueno aquí tienes Este es un Complex
+
+[00:30:39]
+pullback que lo voy a explicar también
+
+[00:30:40]
+aquí en esta mentoría pero finalmente el
+
+[00:30:44]
+El Bueno Estos son se podría considerar
+
+[00:30:48]
+estos fractales pero realmente el
+
+[00:30:49]
+fractal completo es este pero ese tipo
+
+[00:30:51]
+de fractales lo voy a explicar después
+
+[00:30:53]
+no ahorita no los quiero confundir okaya
+
+[00:30:56]
+Mira ah aa es todo Es todo bajo nuevo
+
+[00:31:02]
+alto Bueno aquí te
+
+[00:31:04]
+Eh sí nuevo alto
+
+[00:31:07]
+aquí bajo
+
+[00:31:09]
+testeo bajo alto bajo alto Miren qué
+
+[00:31:14]
+bonito Miren qué bonito va quedando Mira
+
+[00:31:17]
+hasta se ve chido
+
+[00:31:19]
+aham aquí
+
+[00:31:22]
+tenemos pam pam pam pam
+
+[00:31:26]
+pam entendió o no se entendió verad que
+
+[00:31:30]
+está fácil o no está
+
+[00:31:31]
+fácil Cuando tú entiendes el mercado de
+
+[00:31:35]
+la manera sencilla se hace el trading
+
+[00:31:38]
+sencillo básica de los rompimientos de
+
+[00:31:40]
+la estructura Para qué nos sirven los
+
+[00:31:42]
+rompimientos de la estructura para
+
+[00:31:44]
+detectar cambios en el precio para
+
+[00:31:46]
+detectar tomas de liquidez y para
+
+[00:31:48]
+detectar tomas de dónde están los stop
+
+[00:31:51]
+loss de las personas o de todo el mundo
+
+[00:31:53]
+no qu es se trata de un impulso
+
+[00:31:58]
+retroceso que rompen los orígenes y
+
+[00:31:59]
+finales de los fractales la clase
+
+[00:32:01]
+anterior yo les había dicho que los
+
+[00:32:03]
+fractales tienen un vértice tienen este
+
+[00:32:05]
+vértice de aquí tienen este vértice de
+
+[00:32:07]
+acá y este vértice de acá que es el
+
+[00:32:10]
+principio del impulso el final del
+
+[00:32:11]
+impulso el principio del retroceso el
+
+[00:32:13]
+final del retroceso ver y ya al
+
+[00:32:15]
+principio de un nuevo impulso Entonces
+
+[00:32:17]
+los rompimientos van a estar en esos
+
+[00:32:19]
+vértices que eh en Smart Money le llaman
+
+[00:32:23]
+los extremos verad yo le llamo
+
+[00:32:25]
+simplemente un alto y un bajo verad
+
+[00:32:27]
+puede ser de cualquier fractal
+
+[00:32:29]
+rompimiento va a ser el rompimiento del
+
+[00:32:33]
+impulso puede ser principalmente el que
+
+[00:32:35]
+va a romper va a ser el impulso después
+
+[00:32:38]
+de cada rompimiento la teoría nos va a
+
+[00:32:40]
+decir que es que el precio puede llegar
+
+[00:32:43]
+a girar o a cambiar no quiere decir que
+
+[00:32:46]
+lo vaya a hacer pero tiene una gran
+
+[00:32:48]
+probabilidad de cambiar o de girar
+
+[00:32:50]
+Entonces cómo identificamos este tipo de
+
+[00:32:52]
+rompimientos identificar el origen o el
+
+[00:32:55]
+final de un fractal en este caso
+
+[00:32:56]
+podríamos identificar aquí el origen el
+
+[00:32:59]
+final o aquí el origen y el final luego
+
+[00:33:02]
+esperar una ruptura de estos esperar una
+
+[00:33:05]
+ruptura de cualquier punto del origen
+
+[00:33:07]
+del del movimiento verad lo puedes
+
+[00:33:09]
+llamar como se te pegue tu gana
+
+[00:33:11]
+rompimiento de estructura voz Mich
+
+[00:33:14]
+struct Chief este chock Cómo se le
+
+[00:33:18]
+llaman ruptura este hay muchas formma le
+
+[00:33:22]
+puedes llamar como tú quieras no pasa
+
+[00:33:23]
+nada con eso así es como identificarás
+
+[00:33:26]
+nuevos fractales y ts nuevos ciclos Qué
+
+[00:33:28]
+pasa que cuando el precio suele romper
+
+[00:33:31]
+esas estructuras en este caso rompe aquí
+
+[00:33:34]
+es cuando tú posiblemente
+
+[00:33:36]
+identificas el principio de un nuevo
+
+[00:33:39]
+impulso identificas tu anterior fractal
+
+[00:33:43]
+impulso retroceso identificas ya tu
+
+[00:33:45]
+anterior fractal por ejemplo aquí te lo
+
+[00:33:47]
+voy a poner con este color rojo
+
+[00:33:50]
+identificas que automáticamente cuando
+
+[00:33:52]
+rompe el precio este puede ser un
+
+[00:33:54]
+fractal ya cerrado consolidado una vez
+
+[00:33:58]
+que el precio no ha roto ninguna de las
+
+[00:34:00]
+partes de arriba en este caso por
+
+[00:34:02]
+ejemplo impulso retroceso el precio no
+
+[00:34:04]
+ha roto aquí ni ha roto aquí el precio
+
+[00:34:06]
+se mantiene en Rango lo que quieras que
+
+[00:34:07]
+haga no es un nuevo fractal validado
+
+[00:34:11]
+cuando el precio viene y te rompe ya tú
+
+[00:34:15]
+dices okay okay okay okay Estamos frente
+
+[00:34:19]
+a un fractal ya validado o cerrado este
+
+[00:34:23]
+ya es un fractal validado o cerrado y
+
+[00:34:25]
+este posiblemente sea el origen de un
+
+[00:34:28]
+nuevo fractal y después de la ruptura
+
+[00:34:31]
+probablemente eh venga el retroceso o el
+
+[00:34:36]
+principio de un retroceso una vez que
+
+[00:34:39]
+miras que acá peso gira entonces tú
+
+[00:34:41]
+dices okay Aquí tengo la formación de un
+
+[00:34:44]
+nuevo
+
+[00:34:45]
+fractal probablemente aquí el comienzo
+
+[00:34:48]
+del del retroceso ves que vuelve a girar
+
+[00:34:51]
+y así sucesivamente de esta manera es
+
+[00:34:53]
+que se puede interpretar mucho más fácil
+
+[00:34:55]
+los fractales y los rompimientos para
+
+[00:34:57]
+eso no sirve ahora vamos a identificar
+
+[00:35:01]
+rangos Generalmente suelen ser
+
+[00:35:03]
+acumulaciones que romperán estructuras
+
+[00:35:05]
+menores pero ningún fractal mayor verad
+
+[00:35:08]
+sirven para continuar una tendencia o
+
+[00:35:10]
+revertirla en sesiones asiáticas o
+
+[00:35:13]
+momentos de baja volatilidad Ahora yo
+
+[00:35:15]
+les voy a poner para que ustedes
+
+[00:35:16]
+identifiquen ese tipo de fractalidad que
+
+[00:35:19]
+es también común en el precio por
+
+[00:35:22]
+ejemplo tú tienes un impulso Aquí tienes
+
+[00:35:24]
+un retroceso Y luego el precio Lo que
+
+[00:35:26]
+hace es low High y el precio hace esto
+
+[00:35:30]
+aquí aquí y mucha gente lo que dice
+
+[00:35:32]
+Bueno ya se acabó el retroceso y luego
+
+[00:35:35]
+hace esto el precio regresa o entonces
+
+[00:35:38]
+lo que tienes aquí es es estructura
+
+[00:35:41]
+interna solamente Pero el fractal sigue
+
+[00:35:44]
+siendo ese luego el precio arranca as de
+
+[00:35:46]
+nuevo para arriba y ahí es que forma un
+
+[00:35:48]
+nuevo fractal pero para eso nos sirven
+
+[00:35:51]
+identificar esos rangos para saber
+
+[00:35:54]
+cuando el precio está acumulando órdenes
+
+[00:35:56]
+en gran Pro probabilidad hacia nuestra
+
+[00:35:59]
+dirección impulso retroceso puede ser
+
+[00:36:02]
+que haga esto aquí aquí aquí aquí y
+
+[00:36:05]
+después termine yéndose entonces la
+
+[00:36:08]
+gente se confunde normalmente con estos
+
+[00:36:11]
+impulsos de ahí Eso Generalmente lo que
+
+[00:36:13]
+yo lo llamo son
+
+[00:36:18]
+retrocesos complejos o Complex
+
+[00:36:22]
+pb que la finalidad de esos es conseguir
+
+[00:36:26]
+acumular las instituciones a través de
+
+[00:36:29]
+esos
+
+[00:36:30]
+movimientos tipos de retroceso existen
+
+[00:36:33]
+muchos tipos de retroceso pero los vamos
+
+[00:36:35]
+a quedarnos con la los dos más clásicos
+
+[00:36:39]
+usaremos con más medida estos dos verdad
+
+[00:36:41]
+va a ser suelen ser las formas en las
+
+[00:36:44]
+que ocurre una corrección en una
+
+[00:36:46]
+tendencia verdad o en un fractal un
+
+[00:36:48]
+retroceso complejo y un retroceso
+
+[00:36:50]
+sencillo Generalmente es de esta forma
+
+[00:36:53]
+luego tenemos los sencillos comprender
+
+[00:36:55]
+una corrección en el precio sol mente
+
+[00:36:57]
+verdad y los
+
+[00:37:00]
+complejos Perdón los puedes identificar
+
+[00:37:02]
+por un solo impulso en forma correctiva
+
+[00:37:05]
+y luego el precio sigue su tendencia o
+
+[00:37:07]
+sea básicamente el precio hace tal que
+
+[00:37:11]
+así
+
+[00:37:12]
+no viene impulsa retrocede y sigue su
+
+[00:37:17]
+tendencia eso es un retroceso sencillo
+
+[00:37:19]
+verdad rompe su estructura aquí y ya
+
+[00:37:22]
+está pero el precio no va a ser siempre
+
+[00:37:25]
+eso ya los chicos de mentori les digo si
+
+[00:37:28]
+esto fuera tan fácil yo no estuviera
+
+[00:37:30]
+dándote clases aquí a todos les digo lo
+
+[00:37:34]
+mismo Dónde dónde yo estaría
+
+[00:37:39]
+chicos Dubai en Dubai en un yate con
+
+[00:37:43]
+unas morritas decimos aquí en
+
+[00:37:47]
+México estuviera ahí con un reloj de oro
+
+[00:37:50]
+y un un yate el trading no es tan
+
+[00:37:53]
+sencillo pero cuando el precio
+
+[00:37:55]
+Generalmente hace una bien marcadita los
+
+[00:37:58]
+retrocesos son muy
+
+[00:38:00]
+sencillos pero Generalmente lo que va a
+
+[00:38:03]
+hacer es retrocesos más complejos y se
+
+[00:38:06]
+estos retrocesos sencillos se presentan
+
+[00:38:10]
+bueno los puedes identificar por un solo
+
+[00:38:11]
+impulso una una sola onda correctiva y
+
+[00:38:14]
+se presentan más frecuencias más
+
+[00:38:16]
+frecuentes cuando la tendencia está
+
+[00:38:18]
+acelerada o el precio no tiene ninguna
+
+[00:38:20]
+resistencia importante o sea cuando el
+
+[00:38:22]
+precio está viendo una fuerte fuerte en
+
+[00:38:26]
+este caso demanda porque está subiendo
+
+[00:38:28]
+vas a ver que el precio no retrocede
+
+[00:38:30]
+llega aquí llega aquí llega aquí llega
+
+[00:38:33]
+aquí y cuando el precio tiene más
+
+[00:38:36]
+resistencia está acumulando Viene de una
+
+[00:38:38]
+zona va a ser Va a ser retrocesos
+
+[00:38:40]
+complejos Aquí están los ejemplos de un
+
+[00:38:42]
+retroceso sencillo yo creo que todo el
+
+[00:38:44]
+mundo los los visualiza muy fácil son su
+
+[00:38:47]
+nombre lo dice aquí ya puedes
+
+[00:38:49]
+identificar el fractal por ejemplo
+
+[00:38:52]
+tienes aquí el impulso tienes el
+
+[00:38:55]
+retroceso y tienes un nuevo impulso este
+
+[00:38:57]
+por ejemplo es tu fractal Acuérdense que
+
+[00:38:59]
+los fractales van comprendidos de tres
+
+[00:39:01]
+puntos
+
+[00:39:03]
+origen final en este caso origen del
+
+[00:39:06]
+impulso final del impulso origen del del
+
+[00:39:10]
+retroceso y final del retroceso estos
+
+[00:39:12]
+que están aquí Son puntos de giro que lo
+
+[00:39:15]
+vimos en la clase
+
+[00:39:17]
+anterior
+
+[00:39:19]
+Okay tipos de retroceso complejos
+
+[00:39:22]
+seguidos de varios impulsos los
+
+[00:39:24]
+identificas por tener varios movimientos
+
+[00:39:27]
+correctivos o sea sol no solamente va a
+
+[00:39:30]
+tener un movimiento de ese estilo sino
+
+[00:39:32]
+que va a tener varios correctivos
+
+[00:39:34]
+ejemplos
+
+[00:39:35]
+estos tú por ejemplo vas a poner un
+
+[00:39:39]
+ejemplo aquí tienes esta tendencia
+
+[00:39:42]
+alcista esta tendencia alcista aquí
+
+[00:39:44]
+viene el precio tiene este fractal y
+
+[00:39:47]
+ahora el precio Lo que va a ser no va a
+
+[00:39:49]
+ser un simple retroceso sino que va a
+
+[00:39:51]
+ser un retroceso impulso retroceso
+
+[00:39:55]
+impulso y un retroceso hay veces también
+
+[00:39:58]
+que hace que aquí se me pasó poner pero
+
+[00:40:00]
+hay veces que hace también un movimiento
+
+[00:40:02]
+de este estilo falla hace así y se va
+
+[00:40:04]
+este también es un complejo esto le
+
+[00:40:06]
+llamo una onda correctiva tipo
+
+[00:40:11]
+A B y C en el final de la onda c es
+
+[00:40:15]
+donde el precio tiende a
+
+[00:40:18]
+subir muchas veces por ejemplo ustedes
+
+[00:40:20]
+si se van a su gráfico del nasda o de
+
+[00:40:22]
+algún otro par van a ver que el precio
+
+[00:40:24]
+va de esa forma para qué hacen para
+
+[00:40:26]
+acumular ord órdenes Dónde están las
+
+[00:40:28]
+órdenes de la gente de las instituciones
+
+[00:40:31]
+en los lows y en los highs los lows y
+
+[00:40:33]
+los highs a veces también se lleva
+
+[00:40:35]
+algunos lows de aquí por ejemplo es para
+
+[00:40:38]
+eso estos que están aquí son un poquito
+
+[00:40:40]
+más complejos y es cuando el precio hace
+
+[00:40:42]
+una onda correctiva Mucho más
+
+[00:40:44]
+fuerte acá por ejemplo tengo uno mucho
+
+[00:40:46]
+más complejo que esto ya podría ser un
+
+[00:40:48]
+ciclo de correctivo pero finalmente el
+
+[00:40:52]
+precio puede seguir su tendencia alcista
+
+[00:40:54]
+y hacer un ciclo correctivo de esta
+
+[00:40:55]
+forma hay veces que por por ejemplo el
+
+[00:40:57]
+nasda lo hace en temporalidades cortas y
+
+[00:41:00]
+en temporalidades mayores tú vas a ver
+
+[00:41:02]
+solamente un impulso de esta forma así y
+
+[00:41:04]
+para arriba y acá tenemos por ejemplo
+
+[00:41:07]
+los alcistas impulso retroceso impulso
+
+[00:41:09]
+retroceso está comprendido por ejemplo
+
+[00:41:11]
+de tres impulsos y dos retrocesos tres
+
+[00:41:14]
+impulsos y dos retrocesos acuérdense que
+
+[00:41:15]
+así los pueden ustedes medir Este está
+
+[00:41:18]
+comprendido de tres impulsos y dos
+
+[00:41:20]
+retrocesos
+
+[00:41:21]
+Igualmente a la baja Okay espero que
+
+[00:41:25]
+haya acedado todo clarito verad entonces
+
+[00:41:28]
+con esto terminaríamos es una clase
+
+[00:41:30]
+bastante breve
+
+[00:41:31]
+eh si tienen preguntas lo pueden hacer
+
+[00:41:34]
+pueden seguirme ahí en instagram para
+
+[00:41:36]
+los de YouTube
+
+[00:41:37]
+eh Y te estaré leyendo los comentarios
+
+[00:41:40]
+de Youtube
+
+[00:41:43]
+de es es una onda
+
+[00:41:46]
+correctiva básica es un Complex pullback
+
+[00:41:49]
+ya porque si se fijan no retrocede así
+
+[00:41:53]
+como normal pero ya pero es es no es tan
+
+[00:41:57]
+compleja como las anteriores aquí
+
+[00:41:59]
+tenemos a b c lo ven ahí de hecho estuve
+
+[00:42:04]
+tomando compras creo que esto lo trad yo
+
+[00:42:06]
+a la Alfa no recuerdo
+
+[00:42:08]
+pero esta de acá la ven lo ven ahí o no
+
+[00:42:14]
+lo ven ahí si si ustedes se van aquí a
+
+[00:42:17]
+sus a sus esta teoría viene de heliot un
+
+[00:42:21]
+poco Smart mony como tú quieras llamarlo
+
+[00:42:23]
+la verdad es que me da igual de dónde
+
+[00:42:25]
+venga pero si ustedes se van aquí a
+
+[00:42:27]
+estos van a poder identificar fácilmente
+
+[00:42:30]
+esta por ejemplo vamos a identificar
+
+[00:42:34]
+esta
+
+[00:42:36]
+eh las las tenía en h4 creo
+
+[00:42:40]
+eh
+
+[00:42:43]
+Okay h4 dónde las
+
+[00:42:47]
+puse Sí aquí están en en sus patrones
+
+[00:42:51]
+estos de
+
+[00:42:53]
+Elliot está este Esta es la más sencilla
+
+[00:42:56]
+a b c ahí está A B C este aquí es el
+
+[00:43:02]
+cero que empieza y aquí es el final en
+
+[00:43:04]
+el c creo que esta si mi memoria no me
+
+[00:43:07]
+falla cuando estudié heliot hace mucho
+
+[00:43:10]
+tiempo esta es este debe ser la que
+
+[00:43:13]
+llega hasta el h o hasta por allá no
+
+[00:43:17]
+es Dónde está es creo que esta creo que
+
+[00:43:23]
+es
+
+[00:43:24]
+esta no es
+
+[00:43:28]
+esta No no
+
+[00:43:29]
+es es Es la es una de las más
+
+[00:43:35]
+complejas digo al final del caso cuando
+
+[00:43:38]
+yo lo aplico en el gráfico me da igual
+
+[00:43:39]
+cuál sea no pero ahorita por por el para
+
+[00:43:42]
+que ustedes vean más o menos como el
+
+[00:43:44]
+origen de dónde viene no
+
+[00:43:47]
+que simplemente son
+
+[00:43:50]
+este son este
+
+[00:43:52]
+correcciones es esta Así es es esta Este
+
+[00:43:56]
+es un w x y x Z de ahí viene es un reto
+
+[00:44:02]
+yo a la hora de yo simplifico mucho el
+
+[00:44:04]
+training y van a ver que yo utilizo
+
+[00:44:06]
+muchos conceptos de smarton de heliot
+
+[00:44:09]
+chartistas de todos pero como simplifico
+
+[00:44:12]
+mucho el trading t ni te das cuenta que
+
+[00:44:14]
+es des de ahí porque lo simplifico
+
+[00:44:17]
+muchísimo Tú crees que a la hora de yo
+
+[00:44:19]
+tradear ando viendo si está bien la W la
+
+[00:44:22]
+x y la y y que si está bien la z me vale
+
+[00:44:26]
+madre no importa aquí mí lo que me
+
+[00:44:28]
+interesa es que ya conozco la acción de
+
+[00:44:30]
+precio y no me importa no me la aprendí
+
+[00:44:33]
+jamás me lo aprendí porque que sea la y
+
+[00:44:36]
+la Z el cero yo se los estoy enseñando
+
+[00:44:39]
+para que vean un poco como el origen
+
+[00:44:42]
+este Bueno este ya la tendencia bajista
+
+[00:44:45]
+me gustaría agarrarlo en una en una
+
+[00:44:47]
+alcista fíjense que este también es como
+
+[00:44:49]
+una tipo W pero s Sí este ya este sí es
+
+[00:44:53]
+un cambio verdad Pero igualmente es una
+
+[00:44:56]
+onda correctiva
+
+[00:44:58]
+estamos hablando solamente de ondas
+
+[00:44:59]
+correctivas en dentro de la tendencia
+
+[00:45:02]
+este este por ejemplo es una sencilla
+
+[00:45:05]
+verad vean que es una es una sencilla
+
+[00:45:07]
+viene el precio corrige aquí y ya
+
+[00:45:09]
+está aunque esta podr los los los los
+
+[00:45:14]
+helio podrían decir que es un ABC pero
+
+[00:45:17]
+que falla en hacer una estructura
+
+[00:45:19]
+bajista también es válido Cómo gustado
+
+[00:45:22]
+Pues un ABC de esta forma no en lugar de
+
+[00:45:25]
+ser un ABC inclinado hacia abajo es una
+
+[00:45:27]
+ve así fallando ya la diferencia es que
+
+[00:45:31]
+normalmente este llega a fallar pero en
+
+[00:45:34]
+esta No falla pero es la misma es una
+
+[00:45:36]
+onda correctiva ahí es lo
+
+[00:45:38]
+mismo lo mismo pero no es
+
+[00:45:41]
+igual eh donde aquí tenemos por ejemplo
+
+[00:45:45]
+una normal y corriente normal y
+
+[00:45:48]
+corriente aquí impulso este este es el
+
+[00:45:51]
+retroceso y es un nuevo impulso
+
+[00:45:54]
+tranquilito normal ahora aquí tenemos un
+
+[00:45:57]
+una mucho más compleja dentro de esta
+
+[00:45:58]
+tendencia Esta es como la que les puse
+
+[00:46:00]
+en la dispositiva que esta es un poquito
+
+[00:46:02]
+super profunda que tiene podríamos
+
+[00:46:06]
+considerar este fractal este fractal
+
+[00:46:08]
+fíjense comoo corrige esto también es
+
+[00:46:10]
+una onda correctiva es un Complex pulv
+
+[00:46:13]
+pero este ya es mucho más complejo
+
+[00:46:15]
+porque esta este tipo de ondas
+
+[00:46:17]
+correctivas dentro de esa tendencia
+
+[00:46:19]
+forman tendencias en el corto plazo
+
+[00:46:22]
+todas todas las ondas van a formar eh
+
+[00:46:25]
+tendencias en el corto plazo Pero estas
+
+[00:46:27]
+más esta forman tendencias mucho más
+
+[00:46:29]
+prolongadas y en todos los sitios va a
+
+[00:46:31]
+ver fíjense aquí tienen otra ustedes se
+
+[00:46:34]
+van y hacen su tarea ahí van a ver otro
+
+[00:46:37]
+Ahí está esto es estructura de Mercado
+
+[00:46:40]
+apura Bueno yo espero que se haya
+
+[00:46:42]
+atendido con estos ejemplos lo primero
+
+[00:46:45]
+que vamos a tocar el día de hoy va a ser
+
+[00:46:46]
+la estructura externa Qué es lo
+
+[00:46:49]
+denominamos así al fractal mayor según
+
+[00:46:52]
+sea el eh ejemplo designo Mi fractal
+
+[00:46:55]
+mayor en h4 es es será mi estructura
+
+[00:46:58]
+externa o sea van a ser los bajos y los
+
+[00:47:01]
+altos de nuestra fractalidad externa en
+
+[00:47:03]
+este caso línea punteada que aquí tengo
+
+[00:47:06]
+vamos a estar poniendo que Esto va a ser
+
+[00:47:08]
+mi fractalidad externa o mi liquidez o
+
+[00:47:11]
+mi estructura externa como ustedes lo
+
+[00:47:13]
+quieran Llamar la verdad es que lo
+
+[00:47:15]
+importante es que lo puedan llegar a
+
+[00:47:16]
+comprender de manera muy sencilla
+
+[00:47:18]
+Entonces lo denominamos así el fractal
+
+[00:47:21]
+mayor el fractal mayor va a ser nuestra
+
+[00:47:23]
+liquidez o nuestra estructura externa
+
+[00:47:26]
+verdad lo digo también liquidez porque
+
+[00:47:28]
+en los bajos y en los altos ya saben que
+
+[00:47:30]
+se va a encontrar órdenes de liquidez
+
+[00:47:33]
+verad órdenes ahí que van a hacer
+
+[00:47:35]
+liquidez pero también lo denominamos
+
+[00:47:37]
+como el higher High o el higher low en
+
+[00:47:40]
+este caso Yo quiero simplificarlo
+
+[00:47:42]
+bastante y decir que solamente es el
+
+[00:47:44]
+alto y el bajo verdad siempre de la
+
+[00:47:46]
+fractalidad mayor que llevemos verdad
+
+[00:47:49]
+por ejemplo puede ser h4 y nuestra
+
+[00:47:51]
+fractalidad menor h1 lo que es la
+
+[00:47:53]
+estructura interna lo vamos a denominar
+
+[00:47:56]
+como los fractales menores que se
+
+[00:47:58]
+encuentran dentro de la estructura mayor
+
+[00:48:00]
+o el fractal mayor verdad Entonces eso
+
+[00:48:02]
+va a ser mi fractalidad eh o mi
+
+[00:48:04]
+estructura interna verdad Entonces eh
+
+[00:48:08]
+vamos a ver que liquidez interna contra
+
+[00:48:10]
+liquidez externa con el propósito de
+
+[00:48:12]
+generar liquidez la estructura irá
+
+[00:48:15]
+creando altos y bajos internos y
+
+[00:48:18]
+externos que eventualmente serán tomados
+
+[00:48:20]
+verdad Entonces el algoritmo
+
+[00:48:22]
+interbancario lo que generalmente va
+
+[00:48:24]
+haciendo amigos es ir mando bajos y
+
+[00:48:27]
+altos ir generando bajos y altos los
+
+[00:48:30]
+crea los diseña y luego los toma verdad
+
+[00:48:33]
+Ahorita vamos a ver bastantes ejemplos
+
+[00:48:35]
+para que ustedes les quede bien claro
+
+[00:48:36]
+todos estos conceptos no los bajos y los
+
+[00:48:39]
+altos diarios y semanales serán los
+
+[00:48:41]
+puntos de liquidez externa más
+
+[00:48:42]
+relevantes verdad esto hablando ya para
+
+[00:48:44]
+dirección o un vallas de dirección los
+
+[00:48:46]
+fractales menores de la lower Time frame
+
+[00:48:49]
+o la estructura menor serán los puntos
+
+[00:48:52]
+de liquidez interna más relevantes
+
+[00:48:55]
+verdad entonces entender básicamente eso
+
+[00:48:58]
+liquidez externa fractales mayores
+
+[00:49:01]
+liquidez interna fractales
+
+[00:49:04]
+menores mapeo de liquidez externa contra
+
+[00:49:06]
+liquidez interna entonces aquí por
+
+[00:49:09]
+ejemplo podemos tener en esta línea eh
+
+[00:49:11]
+punteada de abajo y en esta línea
+
+[00:49:13]
+punteada de arriba Vamos a estar
+
+[00:49:14]
+Generalmente teniendo nuestra eh
+
+[00:49:17]
+liquidez externa verdad van a ser todos
+
+[00:49:20]
+esos puntos externos de nuestro fractal
+
+[00:49:22]
+que estamos manejando en este caso puede
+
+[00:49:23]
+ser cualquier temporalidad alta y
+
+[00:49:25]
+nuestra temporalidad menor vamos a ir
+
+[00:49:27]
+viendo los impulsos y retrocesos y vamos
+
+[00:49:29]
+a ir viendo como el precio va tomando
+
+[00:49:31]
+los altos y los bajos externos Perdón
+
+[00:49:34]
+internos todos los bajos y los altos
+
+[00:49:37]
+internos y Bueno chicos aquí estamos con
+
+[00:49:39]
+un ejemplo en este caso gráfico del
+
+[00:49:41]
+nasdaq y les voy a poner un ejemplo de
+
+[00:49:43]
+liquidez interna y liquidez externa
+
+[00:49:45]
+verdad Entonces tenemos el High y y los
+
+[00:49:49]
+lows verad esto podría ser mi fractal
+
+[00:49:53]
+eh externo o fractal mayor el la
+
+[00:49:56]
+temporalidad h4 por ejemplo Aquí tengo
+
+[00:49:58]
+alto bajo alto bajo verdad entonces todo
+
+[00:50:03]
+ese fractal mayor que ustedes lo pueden
+
+[00:50:05]
+ver de esta manera va a tener su
+
+[00:50:08]
+estructura interna que ya puede ser en
+
+[00:50:11]
+nuestro gráfico menor en este caso
+
+[00:50:13]
+ejemplo de h1 o ejemplo de m15 etcétera
+
+[00:50:19]
+etcétera En este caso lo vamos a poner
+
+[00:50:21]
+en nuestro gráfico de 15 minutos para
+
+[00:50:23]
+que ustedes vean cómo lo vean un poquito
+
+[00:50:25]
+más claro verdad
+
+[00:50:27]
+Bueno al final lo puse en nuestro
+
+[00:50:28]
+gráfico de 30 minutos fíjense que es la
+
+[00:50:31]
+misma estructura que veíamos en h4 y
+
+[00:50:34]
+ahora les voy a estar solamente
+
+[00:50:36]
+designando por ejemplo este fractal que
+
+[00:50:38]
+este fractal es bastante sencillito y
+
+[00:50:41]
+fíjense cómo vamos a estar nosotros
+
+[00:50:43]
+mapeando la liquidez eh interna o la
+
+[00:50:47]
+estructura interna verdad Para que
+
+[00:50:49]
+ustedes les quede muy muy muy muy claro
+
+[00:50:52]
+Cuál es cuál y cuál es cuál vamos a
+
+[00:50:54]
+poner de color azul para que ustedes
+
+[00:50:55]
+vean Y tenemos un un High un low un
+
+[00:50:59]
+nuevo impulso un nuevo low un nuevo
+
+[00:51:02]
+impulso un nuevo low aquí Bueno aquí
+
+[00:51:04]
+tenemos un retroceso complejo un nuevo
+
+[00:51:07]
+High nuevo low nuevo High nuevo low
+
+[00:51:10]
+etcétera etcétera inclusive puede ser
+
+[00:51:12]
+este también y fíjense como todo esto lo
+
+[00:51:15]
+vamos a denominar nosotros como
+
+[00:51:17]
+estructura interna verdad que el precio
+
+[00:51:20]
+si se fijan constantemente dentro de
+
+[00:51:23]
+toda esta estructura fíjense que en
+
+[00:51:25]
+ciertos puntos ent del mercado va a ir
+
+[00:51:27]
+tomándolos por ejemplo aquí fíjense como
+
+[00:51:29]
+el mercado va a ir tomando esta liquidez
+
+[00:51:31]
+interna de del de la mismo para
+
+[00:51:34]
+continuar su eh paso hacia la liquidez
+
+[00:51:37]
+externa que en este caso sería este
+
+[00:51:40]
+punto de aquí verdad Entonces es
+
+[00:51:42]
+bastante sencillito simplemente esto es
+
+[00:51:45]
+liquidez estructura interna y liquidez
+
+[00:51:47]
+interna y eh lo que está por fuera del
+
+[00:51:50]
+fractal mayor pues va a ser la liquidez
+
+[00:51:52]
+externa no Entonces esta sería la manera
+
+[00:51:54]
+en que yo estoy siempre con considerando
+
+[00:51:57]
+la estructura por ejemplo aquí ya
+
+[00:51:58]
+tenemos el bajo más importante y aquí se
+
+[00:52:01]
+nos forma por ejemplo otro fractal menor
+
+[00:52:03]
+que tiene este impulso este como pequeño
+
+[00:52:06]
+Rango que tiene finalmente este
+
+[00:52:08]
+retroceso que tiene este nuevo impulso
+
+[00:52:10]
+este retroceso impulso retroceso verad Y
+
+[00:52:13]
+tenemos estos bajos hasta que finalmente
+
+[00:52:15]
+este esta estructura externa logra
+
+[00:52:18]
+tomarse verdad Entonces eso podríamos
+
+[00:52:21]
+catalogarlo Como por ejemplo estos
+
+[00:52:23]
+puntos externos y todos estos fractales
+
+[00:52:26]
+menores van a ser nuestros puntos
+
+[00:52:27]
+internos la verdad es que es muy
+
+[00:52:29]
+sencillito de de ver fíjense por ejemplo
+
+[00:52:32]
+Aquí vamos a marcar puede ser estructura
+
+[00:52:36]
+eh externa estructura externa aquí pa pa
+
+[00:52:41]
+tenemos tres puntos con estructura
+
+[00:52:43]
+externa se ve bastante bien verdad muy
+
+[00:52:46]
+facilito este tipo de de fractales y
+
+[00:52:49]
+después vamos a ir
+
+[00:52:51]
+marcando nuestra estructura interna por
+
+[00:52:54]
+ejemplo aquí tenemos este bajo luego
+
+[00:52:56]
+tenemos este pequeño retroceso con este
+
+[00:52:58]
+bajo Con este retroceso y aquí llegamos
+
+[00:53:01]
+hasta el nuevo punto donde tenemos otro
+
+[00:53:02]
+impulso retroceso otro nuevo impulso
+
+[00:53:05]
+hasta acá otro retroceso y finalmente
+
+[00:53:07]
+este impulso que tiene un nuevo
+
+[00:53:09]
+retroceso impulso retroceso impulso eh
+
+[00:53:12]
+retroceso impulso retroceso impulso
+
+[00:53:15]
+retroceso impulso y así entonces fíjense
+
+[00:53:18]
+que esto de aquí es nuestra liquidez
+
+[00:53:22]
+externa y todo esto de aquí va a ser
+
+[00:53:24]
+nuestra liquidez interna estructura
+
+[00:53:27]
+interna también se le llama acuérdense
+
+[00:53:28]
+que la estructura va siendo creada para
+
+[00:53:31]
+convertirse finalmente en liquidez aquí
+
+[00:53:33]
+tenemos la teoría básica de liquidez Qué
+
+[00:53:35]
+es los patrones más básicos de formación
+
+[00:53:38]
+de liquidez cómo los podemos
+
+[00:53:40]
+identificarlos Pues la liquidez
+
+[00:53:42]
+básicamente es la acumulación de órdenes
+
+[00:53:45]
+en diferentes puntos de la estructura
+
+[00:53:47]
+externa e interna verdad Entonces cómo
+
+[00:53:50]
+lo podemos identificar varios toques a
+
+[00:53:53]
+una misma zona una manera de identificar
+
+[00:53:55]
+la liquidez es ver varios toques en una
+
+[00:53:58]
+misma zona verdad un doble piso un doble
+
+[00:54:01]
+techo soportes o
+
+[00:54:03]
+resistencias altos y mínimos en lower
+
+[00:54:07]
+Time frame o también puede ser en high
+
+[00:54:09]
+time frame y zonas ya mitigadas o ya
+
+[00:54:12]
+tocadas básicamente cuando el precio
+
+[00:54:14]
+toca muchas veces una misma zona
+
+[00:54:16]
+podríamos designarlo como liquidez
+
+[00:54:19]
+verdad Entonces Esta es nuestra teoría
+
+[00:54:22]
+muy básica de liquidez vamos con la
+
+[00:54:24]
+aplicación entender Dónde está la
+
+[00:54:26]
+liquidez nos ayudará a saber dónde el
+
+[00:54:29]
+precio va a tener probabilidad de ir
+
+[00:54:31]
+verdad dónde va cuando el precio diseña
+
+[00:54:34]
+al algún recorrido deja la liquidez ahí
+
+[00:54:37]
+pendiente nos da un punto una huella
+
+[00:54:41]
+donde probablemente el mercado podría ir
+
+[00:54:43]
+verdad Entonces entender En qué zonas
+
+[00:54:46]
+son de mayor probabilidad a romperse
+
+[00:54:49]
+para eso nos va a ayudar la liquidez
+
+[00:54:50]
+para entender Qué zonas pueden llegar a
+
+[00:54:53]
+ser mayor probablemente que se rompan o
+
+[00:54:55]
+que el precio vaya a tomar esa liquidez
+
+[00:54:57]
+y número tres para saber el punto de
+
+[00:55:00]
+interés más probable mediante la
+
+[00:55:02]
+liquidez entonces vemos liquidez antes
+
+[00:55:04]
+vemos un punto de interés vemos que
+
+[00:55:06]
+probablemente el precio vaya a sacar ese
+
+[00:55:08]
+esa toma de liquidez y después que vaya
+
+[00:55:10]
+probablemente a mitigar el punto de
+
+[00:55:13]
+interés ahora vamos con la toma de
+
+[00:55:15]
+liquidez una vez que el precio pasa por
+
+[00:55:16]
+una zona donde active órdenes lo
+
+[00:55:18]
+conoceremos como una toma de liquidez o
+
+[00:55:20]
+una mitigación de liquidez O sea que una
+
+[00:55:23]
+vez tome el precio pase sobre un doble
+
+[00:55:26]
+doble suelo un doble piso una figura
+
+[00:55:28]
+técnica una figura chartista un canal
+
+[00:55:31]
+una línea de tendencia cualquiera
+
+[00:55:33]
+formación de liquidez lo vamos a conocer
+
+[00:55:35]
+como una toma de de liquidez o una
+
+[00:55:38]
+mitigación de esa misma liquidez verdad
+
+[00:55:41]
+Entonces tenemos lo que es la liquidez
+
+[00:55:43]
+avanzada el precio forma toques en más
+
+[00:55:46]
+do más de dos veces en una misma zona
+
+[00:55:48]
+Entonces esto lo llamamos nosotros como
+
+[00:55:50]
+un Pull de liquidez verdad un Pull de
+
+[00:55:54]
+liquidez es cuando ya el precio toma más
+
+[00:55:56]
+de dos veces o toca más de dos veces y
+
+[00:55:59]
+liquidez normal o común que nosotros
+
+[00:56:01]
+podemos identificar es que solamente el
+
+[00:56:03]
+precio toca una sola vez Entonces triple
+
+[00:56:06]
+piso líneas de tendencia canales figuras
+
+[00:56:09]
+chartistas etcétera etcétera como aquí
+
+[00:56:10]
+podemos ver un triple piso una línea de
+
+[00:56:13]
+tendencia un triangulito todo ese tipo
+
+[00:56:16]
+de cosas le llamamos nosotros liquidez
+
+[00:56:17]
+avanzadas Pull de liquidez o ya una
+
+[00:56:20]
+formación de liquidez más más probable
+
+[00:56:22]
+que el precio vaya Entonces tenemos yo
+
+[00:56:25]
+por último lo que es la liquidez
+
+[00:56:26]
+inducida el precio reacciona a una zona
+
+[00:56:28]
+de interés pero no genera rompimientos
+
+[00:56:30]
+en la estructura incentivar a las
+
+[00:56:33]
+compras o ventas a corto plazo y después
+
+[00:56:34]
+revertir Generalmente después toma la
+
+[00:56:36]
+liquidez externa o interna
+
+[00:56:40]
+verdad Entonces a veces el precio Lo que
+
+[00:56:43]
+hace también es una reacción en una zona
+
+[00:56:44]
+de liquidez y luego va a ir a buscar un
+
+[00:56:46]
+descuento y tomarlo Entonces qué tenemos
+
+[00:56:49]
+que el precio por ejemplo tenemos una
+
+[00:56:50]
+dirección alcista verad el precio Lo que
+
+[00:56:52]
+hace es tiene este High que está aquí en
+
+[00:56:54]
+este punto en este High verdad entonces
+
+[00:56:57]
+lo que hace el precio es retroceder
+
+[00:57:00]
+luego cuando regresa a este mismo punto
+
+[00:57:03]
+El precio ya sabe que va a ir alcista
+
+[00:57:05]
+pero lo que hace es formar un retroceso
+
+[00:57:07]
+para inducir el punto es y luego
+
+[00:57:08]
+finalmente ir hacia arriba En este caso
+
+[00:57:11]
+Igualmente tiene este punto pa pa va va
+
+[00:57:15]
+va de nuevo hacia arriba en este en este
+
+[00:57:17]
+tramo de este fractal y luego que hace
+
+[00:57:19]
+esta inducción y finalmente lo saca y a
+
+[00:57:21]
+veces inclusive podría revertir de nuevo
+
+[00:57:24]
+aquí viene el precio tiene un doble piso
+
+[00:57:26]
+verdad tiene un doble piso va hacia
+
+[00:57:28]
+arriba Eh reacciona en el doble piso
+
+[00:57:31]
+Pero simplemente es una reacción para
+
+[00:57:32]
+después tomarlo básicamente de esa forma
+
+[00:57:35]
+sería que estaríamos clasificando
+
+[00:57:37]
+nuestra liquidez inducida básicamente
+
+[00:57:39]
+son puntos donde si ya tú tienes una
+
+[00:57:41]
+tendencia por ejemplo alcista y sabes
+
+[00:57:44]
+que son puntos ahí donde el precio puede
+
+[00:57:46]
+reaccionar el precio va a hacer
+
+[00:57:47]
+reacciones para después tomarlo
+
+[00:57:49]
+básicamente es ese y Bueno chicos lo que
+
+[00:57:52]
+nos encontramos acá es haciendo un
+
+[00:57:54]
+repaso de la liquidez para que ustedes
+
+[00:57:55]
+puedan identificarlo aquí estoy en mi
+
+[00:57:57]
+queridísimo gráfico el nasdaq otra vez y
+
+[00:58:00]
+vamos a identificar nosotros nuestra
+
+[00:58:02]
+liquidez para que ustedes básicamente
+
+[00:58:04]
+aprendan un poquito más a ser más
+
+[00:58:06]
+efectivos identificándolas por ejemplo
+
+[00:58:08]
+aquí tenemos un triple techo o doble
+
+[00:58:11]
+techo podíamos decir aquí tenemos un
+
+[00:58:13]
+doble suelo este aquí también tenemos un
+
+[00:58:17]
+pequeño
+
+[00:58:18]
+doble doble suelo aquí tenemos una
+
+[00:58:21]
+inducción de liquidez desde dónde desde
+
+[00:58:24]
+este punto fíjense que aquí el precio
+
+[00:58:26]
+tiene este decisional lo que hace el
+
+[00:58:29]
+precio es que tenía este este punto alto
+
+[00:58:31]
+este punto bajo tenía este decisional y
+
+[00:58:34]
+fíjense como esto lo que hace es inducir
+
+[00:58:36]
+a las ventas para después ir a sacar
+
+[00:58:39]
+este punto de aquí este punto de aquí
+
+[00:58:41]
+esto se le conoce como una inducción de
+
+[00:58:43]
+liquidez a este tramo que está aquí esto
+
+[00:58:45]
+es una inducción de liquidez Por qué
+
+[00:58:47]
+Porque el precio sabemos que ya se va a
+
+[00:58:49]
+ir alcista bueno en teoría por la
+
+[00:58:51]
+estructura esta que llevamos alcista Eh
+
+[00:58:54]
+entonces lo que hace estos puntos ser
+
+[00:58:56]
+inducidos para después ir irlos a tomar
+
+[00:58:59]
+vamos a seguir viendo repasando un
+
+[00:59:01]
+poquito la liquidez aquí tenemos una
+
+[00:59:02]
+línea de tendencia aquí
+
+[00:59:05]
+tenemos una toma de aquí tenemos una
+
+[00:59:08]
+toma de liquidez una continuación
+
+[00:59:11]
+eh aquí hace un pequeño inducement
+
+[00:59:14]
+también fíjense que esta estructura
+
+[00:59:15]
+pequeña hace un inducement aquí teníamos
+
+[00:59:17]
+este High luego el precio Lo que hace es
+
+[00:59:20]
+inducir este bloque de aquí lo induce un
+
+[00:59:22]
+pelín aquí a las compras lo saca y
+
+[00:59:25]
+después de que lo sac ya se desploma
+
+[00:59:26]
+verdad Entonces vamos a seguir
+
+[00:59:28]
+catalogando revisando nuestra liquidez
+
+[00:59:31]
+para que ustedes vayan eh haciéndose a
+
+[00:59:33]
+la idea de cómo funciona y vayan ustedes
+
+[00:59:36]
+entrenando el ojito para que puedan ver
+
+[00:59:39]
+la liquidez más fácil aquí tenemos otra
+
+[00:59:41]
+línea de tendencia el lazda que genera
+
+[00:59:43]
+muchas líneas de tendencia aquí tenemos
+
+[00:59:45]
+otra toma de liquidez este y
+
+[00:59:48]
+generalmente el nasdaq sí le gusta mucho
+
+[00:59:51]
+hacer esas formaciones de liquidez este
+
+[00:59:54]
+por ejemplo aquí teníamos también un
+
+[00:59:56]
+doble un doble techito un doble techito
+
+[00:59:59]
+aquí tenemos otro doble techito verdad
+
+[01:00:02]
+Entonces fíjense cómo se va formando un
+
+[01:00:04]
+doble picito verad pues dejamos un doble
+
+[01:00:06]
+picito aquí dos bajos iguales este y
+
+[01:00:10]
+constantemente se va a ir formando la
+
+[01:00:12]
+liquidez de esa manera acá chicos lo que
+
+[01:00:14]
+tenemos fíjense son dos cosas Una es
+
+[01:00:16]
+esta línea de tendencia de liquidez la
+
+[01:00:18]
+otra es teníamos este punto alto y
+
+[01:00:20]
+fíjense como el precio hizo una
+
+[01:00:22]
+inducción de liquidez ahí desde ese
+
+[01:00:24]
+punto indujo a las ventas y después
+
+[01:00:26]
+posteriormente va y lo saca entonces una
+
+[01:00:28]
+inducción de liquidez con una línea de
+
+[01:00:30]
+tendencia por acá también tenemos otra
+
+[01:00:33]
+línea de tendencia fíjense de nuevo otra
+
+[01:00:35]
+inducción de liquidez teníamos como
+
+[01:00:37]
+target de ese punto alto el precio
+
+[01:00:39]
+induce por aquí incluso manipula un poco
+
+[01:00:41]
+y se va Vamos a localizar liquidez
+
+[01:00:44]
+interna fíjense aquí tenemos este doble
+
+[01:00:46]
+techo aquí tenemos este doble piso bueno
+
+[01:00:49]
+triple piso aquí Qué hace el precio
+
+[01:00:51]
+manipula este High saca la liquidez
+
+[01:00:53]
+interna y después se va para abajo
+
+[01:00:55]
+verdad viene y toma toda la liquidez de
+
+[01:00:57]
+acá abajo entonces aquí teníamos también
+
+[01:00:59]
+una pequeña línea de tendencia tenemos
+
+[01:01:01]
+este punto que este punto no es inducido
+
+[01:01:05]
+este tenemos la generación de este este
+
+[01:01:09]
+punto aquí de liquidez también como
+
+[01:01:12]
+doble alto doble bajo fíjense comoo
+
+[01:01:14]
+tiene liquidez arriba liquidez abajo el
+
+[01:01:16]
+precio lo toma por aquí lo toma por acá
+
+[01:01:20]
+y así constantemente se va formando la
+
+[01:01:22]
+liquidez en el gráfico simplemente es
+
+[01:01:24]
+irla viendo ir viendo las zonas como que
+
+[01:01:27]
+son soportes y resistencias y de ir
+
+[01:01:29]
+viendo como el precio la va ir mitigando
+
+[01:01:32]
+en el futuro lo primero es que tenemos
+
+[01:01:34]
+que ver la lectura de estructura para
+
+[01:01:36]
+identificar tendencias y dirección
+
+[01:01:38]
+entonces mediante liquidez y estructura
+
+[01:01:41]
+vamos a identificar las tendencias y la
+
+[01:01:43]
+dirección Qué es hacer referencia a la
+
+[01:01:46]
+correcta lectura de la estructura de
+
+[01:01:48]
+mercado para facilitar una posible
+
+[01:01:50]
+dirección en el corto o en el mediano
+
+[01:01:52]
+plazo también en el en el largo plazo
+
+[01:01:54]
+verdad entonces Aquí tengo una serie de
+
+[01:01:56]
+pasos bastante sencillos el paso número
+
+[01:01:59]
+uno es identificar la liquidez la
+
+[01:02:01]
+liquidez es lo más importante para poder
+
+[01:02:03]
+identificar la dirección del día
+
+[01:02:05]
+fractales mayores fractales menores este
+
+[01:02:08]
+liquidez interna liquidez externa cada
+
+[01:02:11]
+uno de las episodios que Estuvimos
+
+[01:02:13]
+viendo de los conceptos que Estuvimos
+
+[01:02:14]
+viendo en los episodios anteriores son
+
+[01:02:16]
+muy importantes por eso que tienen que
+
+[01:02:18]
+ver todos los videos para no para
+
+[01:02:21]
+centrarse bien y entender cada uno de
+
+[01:02:24]
+las cosas que les estoy diciendo y
+
+[01:02:25]
+identificar la fractalidad mayor
+
+[01:02:27]
+identificar la fractalidad menor
+
+[01:02:29]
+clasificar la tendencia Qué significa
+
+[01:02:32]
+clasificar la tendencia pues entender
+
+[01:02:34]
+que estamos en una dirección alcista o
+
+[01:02:36]
+entender que estamos en una dirección
+
+[01:02:38]
+bajista verdad luego lo que tenemos que
+
+[01:02:40]
+es analizar mediante el mapeo de la
+
+[01:02:43]
+estructura vamos a mapear nuestra
+
+[01:02:45]
+estructura y vamos a determinar si somos
+
+[01:02:46]
+alistas o bajistas y en qué puntos
+
+[01:02:48]
+podemos estar intentando ver o tener
+
+[01:02:51]
+probabilidad de mayor dirección de de
+
+[01:02:53]
+una dirección de una probabilidad de una
+
+[01:02:55]
+dirección alcista una probabilidad de
+
+[01:02:57]
+una dirección bajista verdad luego
+
+[01:02:59]
+tenemos lo que es la tendencia y los
+
+[01:03:00]
+ciclos un ciclo es la formación de
+
+[01:03:02]
+varios fractales alcistas Unidos puede
+
+[01:03:05]
+ser alcistas o bajistas Pero bueno vamos
+
+[01:03:07]
+a ver un par de ejemplos Próximamente
+
+[01:03:10]
+para que ustedes vean Cómo Nosotros
+
+[01:03:12]
+identificamos todo un ciclo de Mercado Y
+
+[01:03:14]
+a partir de ahí tomamos la dirección de
+
+[01:03:16]
+la la decisión de la dirección del día o
+
+[01:03:19]
+de la dirección en el corto mediano
+
+[01:03:20]
+plazo en high time frame de esos
+
+[01:03:22]
+fractales Unidos se formarán un ciclo en
+
+[01:03:24]
+una fractalidad
+
+[01:03:26]
+a través de esos diferentes ciclos se
+
+[01:03:28]
+forman las tendencias verdad entonces
+
+[01:03:31]
+facilito luego que tenemos finalmente
+
+[01:03:34]
+identificaremos la estructura la
+
+[01:03:36]
+liquidez los fractales mayores y los
+
+[01:03:38]
+fractales menores y sabremos identificar
+
+[01:03:41]
+tendencias vayamos a la práctica Ahorita
+
+[01:03:43]
+les voy a poner un par de prácticas
+
+[01:03:45]
+básicamente aquí determinamos una
+
+[01:03:46]
+estructura alcista fractalidad mayor en
+
+[01:03:50]
+en en línea gruesa negra fractalidad
+
+[01:03:52]
+mayor alcista y nuestra fractalidad
+
+[01:03:55]
+menor siempre alineándose a la
+
+[01:03:57]
+fractalidad mayor vayamos a la práctica
+
+[01:03:59]
+para que ustedes entiendan Cómo funciona
+
+[01:04:01]
+esto en la práctica en un gráfico real
+
+[01:04:04]
+estamos aquí en un gráfico del euro
+
+[01:04:06]
+dólar y lo que vamos a hacer es empezar
+
+[01:04:07]
+a mapear nuestra estructura mayor que en
+
+[01:04:09]
+este caso determinamos que es h4 y vamos
+
+[01:04:12]
+a ver cómo en el intradiario también
+
+[01:04:15]
+podemos tener dirección para que ustedes
+
+[01:04:17]
+me entiendan básicamente aquí Llevamos
+
+[01:04:19]
+una tendencia bajista fíjense que
+
+[01:04:22]
+tenemos un alto verdad Luego aquí
+
+[01:04:25]
+tenemos tenos un nuevo bajo tenemos un
+
+[01:04:28]
+rompimiento aquí de la estructura
+
+[01:04:29]
+fíjense cómo vamos a empezar a mapear
+
+[01:04:31]
+esa estructura y a través de ahí vamos a
+
+[01:04:33]
+poder determinar dirección va luego que
+
+[01:04:36]
+hacemos nuevo alto nuevo bajo nuevo alto
+
+[01:04:39]
+un pequeño bajo con un pequeño alto que
+
+[01:04:42]
+finalmente hace un nuevo bajo un nuevo
+
+[01:04:44]
+alto y finalmente tenemos el dip o la
+
+[01:04:47]
+parte más baja a partir de aquí que qué
+
+[01:04:49]
+tenemos chicos rompimiento de estructura
+
+[01:04:53]
+inducción aquí en ese pequeño punto
+
+[01:04:56]
+luego después que tenemos chicos punto
+
+[01:04:58]
+alto punto bajo punto alto punto bajo
+
+[01:05:02]
+inducción punto bajo punto alto verdad
+
+[01:05:06]
+es bien importante que ustedes empiecen
+
+[01:05:07]
+a identificar este tipo de movimientos
+
+[01:05:10]
+verad inducción Ahí vamos a borrar este
+
+[01:05:12]
+equipo para que quede más chévere
+
+[01:05:13]
+cuadrito inducción de liquidez ahí y
+
+[01:05:15]
+fíjense como esta es nuestra estructura
+
+[01:05:18]
+mayor facilito verdad tendencia bajista
+
+[01:05:21]
+reversión de la tendencia bajista ahora
+
+[01:05:24]
+vamos a ir a nuestra temporalidad menor
+
+[01:05:26]
+que va a ser otra temporalidad bueno en
+
+[01:05:28]
+este caso tenemos nuestra temporalidad
+
+[01:05:30]
+menor en la temporalidad de h1 fíjense
+
+[01:05:33]
+como teníamos este rompimiento de
+
+[01:05:34]
+estructura que nos deja este bajo verdad
+
+[01:05:37]
+después Seguiremos mapeando para obtener
+
+[01:05:39]
+dirección fíjense que si yo ya por
+
+[01:05:41]
+ejemplo Aquí tengo una tendencia bajista
+
+[01:05:45]
+ya tengo un cambio estructural por
+
+[01:05:47]
+ejemplo aquí ya tenemos un cambio
+
+[01:05:49]
+estructural aquí y ya tengo este este
+
+[01:05:53]
+fractal designado bajista entonces
+
+[01:05:55]
+Entonces ya lo que tengo que buscar es
+
+[01:05:57]
+un retroceso para intentar vender y
+
+[01:05:59]
+nuestra principal dirección va a ser
+
+[01:06:01]
+bajista hasta aquí ahora seguimos
+
+[01:06:04]
+mapeando para ver encontrar nuevas
+
+[01:06:06]
+direcciones aquí tenemos un punto alto
+
+[01:06:08]
+aquí tenemos un punto nuevo bajo aquí
+
+[01:06:11]
+qué tenemos chicos el preseo tenía dos
+
+[01:06:13]
+bajos iguales tenía este punto fíjense
+
+[01:06:15]
+esto Qué es una inducción de liquidez
+
+[01:06:17]
+Por qué es una inducción de liquidez
+
+[01:06:19]
+porque el precio está reaccionando una
+
+[01:06:20]
+zona de liquidez y después el precio
+
+[01:06:22]
+decide romperla entonces aquí tenemos
+
+[01:06:25]
+por ejemplo dirección bajista por qué
+
+[01:06:27]
+dirección bajista ya tenemos confirmada
+
+[01:06:28]
+toda nuestra dirección bajista obtenemos
+
+[01:06:31]
+una inducción aquí en este punto donde
+
+[01:06:33]
+tiene dos bajos iguales aparte retrocede
+
+[01:06:36]
+Y a partir de aquí vuelve a romper de
+
+[01:06:38]
+nuevo la estructura interna Ahora que
+
+[01:06:41]
+nos deja el precio un punto bajo que por
+
+[01:06:44]
+ejemplo aquí el día miércoles eh 6 de
+
+[01:06:48]
+septiembre que tenemos un pequeño
+
+[01:06:50]
+retroceso a la alza un con pequeño
+
+[01:06:52]
+Complex pullback ese pequeño complex
+
+[01:06:55]
+pullback para qué nos va a servir chicos
+
+[01:06:57]
+para seguir vendiendo por qué Para
+
+[01:06:58]
+seguir vendiendo porque ya tenemos una
+
+[01:07:00]
+dirección previa bajista Y eso es lo que
+
+[01:07:03]
+nos vamos a estar rigiendo impulso
+
+[01:07:05]
+retroceso impulso retroceso fíjense que
+
+[01:07:07]
+aquí a pesar de que estamos bajistas el
+
+[01:07:10]
+precio sube porque qu sube porque ya
+
+[01:07:12]
+había tenido varios rompimientos ahí
+
+[01:07:14]
+Entonces qué hace el precio y rompe
+
+[01:07:17]
+vuelve de nuevo a esta zona ques
+
+[01:07:20]
+inducida rompe de nuevo a la alza mitiga
+
+[01:07:22]
+mitiga pero la dirección mayor sigue
+
+[01:07:25]
+siendo bajista entonces aquí qué vamos a
+
+[01:07:27]
+esperar o vamos a eh esperar aquí que el
+
+[01:07:30]
+precio retroceda para seguirlo vendiendo
+
+[01:07:32]
+verdad fíjense que aquí ya quebra la
+
+[01:07:35]
+estructura menor vuelve a ser un nuevo
+
+[01:07:38]
+bajo ya por ejemplo aquí fíjense mis
+
+[01:07:40]
+fractales que tenemos impulso retroceso
+
+[01:07:42]
+Tengo este fractal qué voy a esperar por
+
+[01:07:44]
+ejemplo voy a esperar medir este fractal
+
+[01:07:46]
+a partir de que tengamos un retroceso ya
+
+[01:07:49]
+tengo de nuevo una idea de ventas aquí
+
+[01:07:51]
+abajo verdad Entonces de nuevo el precio
+
+[01:07:53]
+vuelve y rompe en todos los retrocesos
+
+[01:07:56]
+seguimos vendiendo en todo cada uno de
+
+[01:07:59]
+los retrocesos seguimos vendiendo punto
+
+[01:08:00]
+bajo punto alto punto alto punto bajo
+
+[01:08:04]
+punto alto punto bajo y después fíjense
+
+[01:08:07]
+que a partir de aquí el precio ya hace
+
+[01:08:09]
+un retroceso más profundo O sea que el
+
+[01:08:12]
+precio va a estar cayendo en tendencia
+
+[01:08:14]
+va a estar cayendo aquí en tendencia va
+
+[01:08:15]
+a estar cayendo en tendencia pero tarde
+
+[01:08:17]
+o temprano dependiendo lo que tengamos
+
+[01:08:18]
+acá y el tiempo que lleve va a volver a
+
+[01:08:21]
+dar un retroceso más profundo Pero
+
+[01:08:23]
+simplemente va a seguir hacer para
+
+[01:08:25]
+seguir continuando esa dirección Pero
+
+[01:08:27]
+fíjense lo tremendo que pasa aquí
+
+[01:08:29]
+después en este cambio de dirección que
+
+[01:08:31]
+el precio hace un nuevo alto hace un
+
+[01:08:33]
+nuevo bajo nuevo alto perfecto seguimos
+
+[01:08:35]
+bajistas me hace otro rompimiento aquí
+
+[01:08:39]
+de la estructura y fíjense que tenemos
+
+[01:08:41]
+por aquí qué me hace un nuevo alto un
+
+[01:08:43]
+nuevo bajo el precio qué me hace ruptura
+
+[01:08:46]
+pequeña de la estructura pero ahora la
+
+[01:08:49]
+alza chicos ahora de nuevo me rompe la
+
+[01:08:51]
+alza me induce este punto que se lleva
+
+[01:08:54]
+un poquito de liquidez aquí interna y
+
+[01:08:58]
+rápidamente vuelve de nuevo otra vez
+
+[01:09:00]
+hacia arriba ya no pudiendo superar o
+
+[01:09:03]
+hacer un nuevo bajo para finalmente
+
+[01:09:05]
+romperme este alto que está aquí ya
+
+[01:09:07]
+ahora por ejemplo Ya tengo todo el todo
+
+[01:09:10]
+mi ciclo de fractales es este todo este
+
+[01:09:12]
+es mi ciclo de fractales que tenemos por
+
+[01:09:14]
+ahí ya tenemos todo ese ciclo de
+
+[01:09:16]
+fractales ahí alcistas que han roto la
+
+[01:09:19]
+estructura Entonces qué voy a hacer en
+
+[01:09:20]
+el próximo retroceso Ahora me voy a
+
+[01:09:22]
+montar a la alza Por qué me voy a montar
+
+[01:09:24]
+a la alza ahora porque ya mi estructura
+
+[01:09:26]
+está cambiando mi estructura mayor está
+
+[01:09:28]
+cambiando mi estructura menor igual
+
+[01:09:31]
+sigue en función de eso o en dado caso
+
+[01:09:34]
+puedo esperar que mi estructura menor
+
+[01:09:36]
+vuelva a hacer ese cambio o sea tengo mi
+
+[01:09:39]
+estructura mayor a la alza quebrando
+
+[01:09:42]
+estructuras voy a esperar que el precio
+
+[01:09:44]
+retroceda y voy a esperar que mi
+
+[01:09:45]
+estructura menor vuelva para arriba en
+
+[01:09:48]
+este caso teníamos este punto alto este
+
+[01:09:50]
+punto bajo y aquí se ven el cambio de la
+
+[01:09:53]
+estructura menor ahí está el cambio de
+
+[01:09:55]
+la estructura menor hace un cambio la
+
+[01:09:57]
+estructura menor y después genera este
+
+[01:10:00]
+nuevo alto retroceso alto retroceso y
+
+[01:10:02]
+cada retroceso lo voy a estar tomando
+
+[01:10:05]
+para comprar hasta dónde hasta este
+
+[01:10:07]
+punto que era el target de la estructura
+
+[01:10:09]
+mayor el precio de nuevo viene limpia
+
+[01:10:11]
+ese High retrocede y voy a estar
+
+[01:10:14]
+esperando que en el próximo retroceso de
+
+[01:10:16]
+qué en el próximo retroceso de qué de
+
+[01:10:19]
+este último ciclo El precio que me
+
+[01:10:22]
+vuelva a quebrar las estructuras Menores
+
+[01:10:24]
+en este caso me vuelve a quebrar las
+
+[01:10:26]
+estructuras menores por aquí o vamos a
+
+[01:10:28]
+decirlo que por aquí también y en los
+
+[01:10:30]
+próximos retrocesos voy a estar
+
+[01:10:32]
+intentando comprarlo fíjense que aquí
+
+[01:10:34]
+hace un pequeño engaño Por qué Porque es
+
+[01:10:36]
+liquidez el precio siempre va a
+
+[01:10:38]
+necesitar tomar liquidez pero no más
+
+[01:10:40]
+hace la toma de liquidez rechaza y se va
+
+[01:10:42]
+para arriba aparte porque aquí tenemos
+
+[01:10:43]
+una línea de tendencia entonces Esas
+
+[01:10:45]
+líneas de tendencia van a servir casi
+
+[01:10:47]
+siempre para para ese punto ya sabemos
+
+[01:10:49]
+que tenemos una toma de liquidez sabemos
+
+[01:10:51]
+que traemos una dirección eh alcista
+
+[01:10:53]
+fíjese cóm el precio va a inducir de
+
+[01:10:55]
+este punto Entonces ya ahí tenemos por
+
+[01:10:57]
+ejemplo compras acá el precio vuelve de
+
+[01:11:00]
+nuevo retrocede un poquito vuelve de
+
+[01:11:02]
+nuevo a esta zona también y sigue con su
+
+[01:11:05]
+estructura ahora alcista vamos a comprar
+
+[01:11:08]
+en cada retroceso fíjense que ya estamos
+
+[01:11:10]
+manejando estos fractales de acá fractal
+
+[01:11:12]
+de acá fractal de acá retroceso fractal
+
+[01:11:15]
+de acá y de nuevo al alza aquí ya lo que
+
+[01:11:17]
+hace el precio es viene de nuevo ahora
+
+[01:11:20]
+tenemos toda nuestra fractalidad mayor
+
+[01:11:23]
+aquí todas estas fractalidad mayor en
+
+[01:11:26]
+cada retroceso que venga el precio de
+
+[01:11:28]
+nuevo a retroceder de todo este fractal
+
+[01:11:31]
+vamos a volverlo a comprar entonces acá
+
+[01:11:33]
+tenemos de nuevo aquí otro punto que
+
+[01:11:37]
+cambia la estructura y fíjense que Aquí
+
+[01:11:38]
+está nuestra estructura menor estructura
+
+[01:11:40]
+menor estructura menor estructura menor
+
+[01:11:42]
+estructura menor punto que rompe
+
+[01:11:44]
+retroceso compras para arriba esto Qué
+
+[01:11:47]
+es inducción porque nosotros ya tenemos
+
+[01:11:49]
+nuestra dirección altista entonces esa
+
+[01:11:51]
+inducción es punto también para compra
+
+[01:11:54]
+pulso ret eso el precio finalmente lo
+
+[01:11:56]
+rompe Y de nuevo y así sucesivamente
+
+[01:11:59]
+chicos Es que la estructura se va a ir
+
+[01:12:02]
+alineando vamos a empezar con lo que es
+
+[01:12:04]
+la teoría de oferta y demanda Qué es la
+
+[01:12:06]
+oferta y la demanda la oferta y la
+
+[01:12:08]
+demanda determinan los precios de los
+
+[01:12:11]
+activos financieros es el equilibrio
+
+[01:12:14]
+entre la oferta y la demanda establece
+
+[01:12:16]
+el precio de un activo o sea el
+
+[01:12:17]
+equilibrio entre oferta y demanda va a
+
+[01:12:19]
+establecer el precio de de un activo
+
+[01:12:22]
+básicamente la fórmula sería la
+
+[01:12:24]
+siguiente si las demandas supera la
+
+[01:12:26]
+oferta el precio suele subir si la
+
+[01:12:29]
+oferta supera la demanda el precio
+
+[01:12:31]
+tiende a bajar así de sencillo entonces
+
+[01:12:34]
+la oferta y la demanda siempre va a ser
+
+[01:12:36]
+la la la que va a regir principalmente
+
+[01:12:40]
+si los activos van a subir o van a bajar
+
+[01:12:42]
+Entonces nos sirven a nosotros para
+
+[01:12:44]
+interpretar diversas zonas en el precio
+
+[01:12:47]
+donde nosotros podamos a llegar a tener
+
+[01:12:49]
+un movimiento reversión una un
+
+[01:12:52]
+movimiento de continuación para eso es
+
+[01:12:54]
+que nos sirv la oferta y la demanda
+
+[01:12:55]
+Recuerden que este módulo número dos
+
+[01:12:57]
+estamos en buscar o en en ver mejor los
+
+[01:13:02]
+puntos de interés dónde nosotros podemos
+
+[01:13:04]
+estar intentando comprar y vender Qué
+
+[01:13:06]
+zonas o qué zonas de precio van a estar
+
+[01:13:08]
+mejores y la oferta y la demanda
+
+[01:13:10]
+precisamente nos va a ayudar a
+
+[01:13:11]
+interpretar con mayor precisión dónde el
+
+[01:13:14]
+precio puede eh caer o puede subir No ya
+
+[01:13:18]
+o Entonces tenemos Cómo identificar la
+
+[01:13:20]
+oferta y la demanda oferta igual a
+
+[01:13:23]
+vendedores demanda igual a compradores
+
+[01:13:26]
+luego es el equilibrio en el el
+
+[01:13:28]
+equilibrio el punto en el que la oferta
+
+[01:13:30]
+y la demanda se igualan Entonces ese es
+
+[01:13:32]
+el equilibrio y ese es el precio que
+
+[01:13:34]
+tiene el el mercado y volatilidad cuando
+
+[01:13:37]
+existe una cantidad más habitual de
+
+[01:13:38]
+demanda o de oferta entonces esa es la
+
+[01:13:41]
+teoría básica de oferta y demanda ahora
+
+[01:13:43]
+vamos a trabajarlo para poder
+
+[01:13:44]
+identificarlo mucho más fácil en nuestro
+
+[01:13:46]
+gráfico no patrones básicos de oferta y
+
+[01:13:48]
+demanda Aquí les puse tres patrones muy
+
+[01:13:50]
+básicos para que ustedes los entiendan
+
+[01:13:53]
+el primer patrón que tendríamos es una
+
+[01:13:55]
+acumulación es como un Rango acumulativo
+
+[01:13:57]
+luego tendríamos que el precio rompe esa
+
+[01:13:59]
+zona de ese Rango y después el precio
+
+[01:14:02]
+retornaría a esa área y esa área sería
+
+[01:14:05]
+una zona de oferta también igual lo
+
+[01:14:08]
+mismo para demanda puede ser un Rango
+
+[01:14:09]
+rompe la alza regresa ese mismo Rango y
+
+[01:14:12]
+de ahí para arriba es lo mismo No más
+
+[01:14:14]
+que pues aquí les puse los ejemplos
+
+[01:14:16]
+solamente para ventas pero es lo mismo
+
+[01:14:19]
+para compras y ventas igual de nuevo Qué
+
+[01:14:22]
+tenemos en el patrón número dos patrón
+
+[01:14:24]
+básico de oferta y demanda tenemos un
+
+[01:14:26]
+mismo Rango de diverso punto diverso
+
+[01:14:29]
+punto luego que tenemos la ruptura de
+
+[01:14:31]
+ese Rango el precio testea verdad y para
+
+[01:14:35]
+abajo la diferencia de este con el
+
+[01:14:37]
+primero Cuál es la diferencia Gustavo
+
+[01:14:39]
+pues la diferencia es que el precio hace
+
+[01:14:42]
+una previa manipulación de estos altos
+
+[01:14:45]
+manipula esos altos y después Ahora sí
+
+[01:14:47]
+rompe esta estructura y tendría un
+
+[01:14:50]
+retorno nuevo a esta zona y esta zona
+
+[01:14:52]
+sería catalogada como oferta como
+
+[01:14:54]
+demanda también lo veríamos como algo a
+
+[01:14:56]
+tal que así toma de liquidez para los
+
+[01:14:59]
+para los compradores el precio rompe de
+
+[01:15:00]
+nuevo a la alza retornaría y ahí se iría
+
+[01:15:03]
+de nuevo para arriba eso es una zona de
+
+[01:15:06]
+en este caso oferta o puede ser de
+
+[01:15:09]
+demanda tendremos dos tipos Entonces
+
+[01:15:11]
+ahora vamos con nuestro tercer tipo y
+
+[01:15:13]
+nuestro tercer tipo es bueno tercero y
+
+[01:15:16]
+cuarto pero se parecen es un patrón en v
+
+[01:15:19]
+una como V Qué significa una V más o
+
+[01:15:22]
+menos de esta forma una V el precio
+
+[01:15:25]
+rompa de nuevo veríamos que en esta v
+
+[01:15:28]
+reaccione y para abajo o en este caso
+
+[01:15:32]
+sería lo que yo llamo un stop H que
+
+[01:15:34]
+sería una tendencia alcista que viene
+
+[01:15:36]
+aquí para abajo hace un nuevo alto y cae
+
+[01:15:39]
+también olvidé decirlo que está este
+
+[01:15:42]
+tipo de zona que más o menos hace así
+
+[01:15:45]
+verdad cae y de nuevo esta área sería
+
+[01:15:48]
+una zona de oferta en este caso también
+
+[01:15:51]
+me faltó ese patrón pero para que
+
+[01:15:53]
+ustedes lo tengan bien entendido sería
+
+[01:15:55]
+primero nuestra zona como de tipo V
+
+[01:15:57]
+luego sería una zona como en tipo zigzag
+
+[01:16:00]
+que toma liquidez y cae Y por último
+
+[01:16:02]
+tendríamos esta zona más o menos de esta
+
+[01:16:04]
+de de esta forma más o menos como si
+
+[01:16:07]
+fuera una m hacia abajo como una m
+
+[01:16:09]
+comida hacia abajo Ya y Estos son
+
+[01:16:12]
+nuestros tres patrones más básicos que
+
+[01:16:14]
+nos van a servir a todos nosotros para
+
+[01:16:16]
+identificar más fácil la oferta y la
+
+[01:16:18]
+demanda ahora tenemos lo que yo llamo el
+
+[01:16:20]
+primer motivo y el segundo motivo que
+
+[01:16:22]
+este nos sirve para identificar los
+
+[01:16:23]
+puntos que es probable que el precio
+
+[01:16:25]
+gire o que tenga alguna reacción de la
+
+[01:16:27]
+cual nos podamos beneficiar con algún
+
+[01:16:29]
+tipo de movimiento importante estas
+
+[01:16:32]
+zonas no quiere decir que vayan a
+
+[01:16:33]
+funcionar siempre pero con pero vamos a
+
+[01:16:36]
+tener mayor probabilidad ahí en esas
+
+[01:16:38]
+áreas ocuparemos dos motivos Qué son los
+
+[01:16:41]
+motivos chicos pues muy fácil el primer
+
+[01:16:43]
+motivo es la zona de oferta o demanda
+
+[01:16:45]
+del fractal mayor nuestra fractalidad
+
+[01:16:47]
+mayor el segundo motivo va a ser la
+
+[01:16:49]
+estructura alineada de los fractales
+
+[01:16:51]
+menores identificar su zona de oferta y
+
+[01:16:53]
+demanda Qué significa eso que vamos a
+
+[01:16:55]
+esperar por ejemplo el precio viene aquí
+
+[01:16:58]
+viene acá tú dices yo tengo esta zona
+
+[01:17:01]
+Gustavo para comprar verdad me siguen
+
+[01:17:03]
+tengo esta zona para comprar este podría
+
+[01:17:06]
+ser por ejemplo mi primer motivo
+
+[01:17:08]
+estructura alcista luego Aquí les voy a
+
+[01:17:11]
+marcar los puntos fractales que en este
+
+[01:17:12]
+caso podría ser este High este low ahora
+
+[01:17:16]
+ya identificas que probablemente el
+
+[01:17:17]
+precio puede venir en un retroceso verad
+
+[01:17:20]
+este sería tu primer motivo este fractal
+
+[01:17:22]
+que puede venir aquí ahora nuestro
+
+[01:17:24]
+segundo motivo es esta estructura que
+
+[01:17:27]
+por ejemplo la verde puede ser h4 y la
+
+[01:17:31]
+azul puede ser m15 tu segundo motivo va
+
+[01:17:35]
+a ser que las estructuras se empiecen a
+
+[01:17:37]
+alinear a la alza y que tú puedas
+
+[01:17:39]
+identificar esos fractales y cuando se
+
+[01:17:42]
+dé ese tipo de movimiento es cuando tú
+
+[01:17:45]
+ya vas a identificar tu segundo motivo
+
+[01:17:48]
+teniendo los dos motivos es cuando se
+
+[01:17:50]
+producen la validez de una zona de
+
+[01:17:52]
+oferta o de demanda y Igualmente acá
+
+[01:17:55]
+tengo un esquema la siguiente
+
+[01:17:57]
+dispositiva que es los dos criterios que
+
+[01:17:59]
+necesito yo para operar con oferta y
+
+[01:18:01]
+demanda y fíjense muy bien acá tengo
+
+[01:18:04]
+Entonces qué tengo chicos tengo mi
+
+[01:18:06]
+primer motivo fíjense este fractal aquí
+
+[01:18:09]
+tengo este impulso este retroceso luego
+
+[01:18:12]
+el precio hace un retroceso
+
+[01:18:14]
+complejo tengo Ya mi zona entonces Pero
+
+[01:18:17]
+ahí no está validada mi zona que ocupo
+
+[01:18:19]
+el segundo motivo Ya tengo el primer
+
+[01:18:21]
+motivo que sería este fractal ese mi
+
+[01:18:24]
+fractal mi tendencia alcista y ahora
+
+[01:18:27]
+ocupo mi segundo motivo mi segundo
+
+[01:18:28]
+motivo va a ser un fractal aquí bajista
+
+[01:18:32]
+pero luego el precio falla vayan hacer
+
+[01:18:35]
+un nuevo mínimo y luego hace un nuevo
+
+[01:18:37]
+alto entonces aquí ya se alinea mi
+
+[01:18:39]
+estructura menor esta por ejemplo podría
+
+[01:18:42]
+ser h4 la mayor y esta podría ser m15 y
+
+[01:18:46]
+se alínea mi estructura menor con mi
+
+[01:18:48]
+estructura mayor y ya tengo los dos
+
+[01:18:50]
+motivos juntos para intentar comprar
+
+[01:18:53]
+esto para validar una zona de oferta o
+
+[01:18:55]
+de demanda Bueno chicos por aquí estamos
+
+[01:18:58]
+en nuestro gráfico del queridísimo
+
+[01:18:59]
+nasdaq y les voy a explicar lo mismo
+
+[01:19:01]
+vamos a localizar primero la zona de
+
+[01:19:03]
+oferta y también vamos a localizar
+
+[01:19:05]
+algunas zonas de demanda fíjense la zona
+
+[01:19:07]
+de oferta qué tenemos Fiebre de la
+
+[01:19:10]
+estructura toma de liquidez de esa
+
+[01:19:12]
+estructura aquí y rompe entonces esa va
+
+[01:19:15]
+a ser nuestra zona de oferta para que
+
+[01:19:18]
+ustedes la la wiken Este es un tipo de
+
+[01:19:20]
+zona que les había dicho de oferta
+
+[01:19:22]
+también puede ser Rango y ruptura y para
+
+[01:19:25]
+abajo puede ser Rango no más y para
+
+[01:19:27]
+abajo entonces ahí tenemos clasificada
+
+[01:19:30]
+nuestra zona de oferta verad entonces la
+
+[01:19:33]
+marcamos toda la zona es una zona de
+
+[01:19:35]
+oferta acuérdense que la zona de oferta
+
+[01:19:37]
+y demanda no solamente es un bloque sino
+
+[01:19:39]
+que es todo una zona ahora qué vamos a
+
+[01:19:42]
+ver vamos a ver mi mis motivos tenemos
+
+[01:19:45]
+nuestro primer motivo que sería este
+
+[01:19:48]
+fractal este fractal a la baja Ya tengo
+
+[01:19:51]
+quiebre de estructura por ejemplo aquí
+
+[01:19:54]
+ya tengo mi quiebre de estructura
+
+[01:19:56]
+después de mi quiebre de estructura qué
+
+[01:19:58]
+tengo tengo mi zona de en este caso
+
+[01:20:01]
+oferta validada como validada para poder
+
+[01:20:04]
+vender y después ya voy a obtener mi
+
+[01:20:07]
+segundo motivo Este es mi primer motivo
+
+[01:20:11]
+acuérdense motivo uno motivo uno va a
+
+[01:20:15]
+ser toda esta análisis que tuvimos zona
+
+[01:20:17]
+de oferta quiebre de estructura
+
+[01:20:19]
+fractales ubicados y en 15 minutos
+
+[01:20:22]
+chicos voy a buscar mi segundo motivo
+
+[01:20:24]
+fácil sencillo y para para todos
+
+[01:20:27]
+entonces Aquí voy a poner un low Vamos a
+
+[01:20:31]
+ponerle otro color para que ustedes lo
+
+[01:20:32]
+identifiquen fácil un High un nuevo low
+
+[01:20:35]
+un nuevo High el precio cerca de nuestra
+
+[01:20:38]
+zona pero no ha llegado un nuevo low un
+
+[01:20:40]
+nuevo High un nuevo High un nuevo low
+
+[01:20:43]
+aparte como nuestro segundo motivo nos
+
+[01:20:46]
+podemos ayudar también de la liquidez
+
+[01:20:47]
+acuérdense que la la liquidez siempre
+
+[01:20:49]
+son conceptos que nos podemos ayudar de
+
+[01:20:51]
+ellos fíjense que aquí tenía una línea
+
+[01:20:53]
+de tendencia también el precio y ahora
+
+[01:20:55]
+que tenemos nuestro en nuestro segundo
+
+[01:20:57]
+motivo tenemos quiebre de estructura y
+
+[01:21:00]
+ahora tenemos este último mínimo este
+
+[01:21:03]
+último mínimo que nosotros podríamos
+
+[01:21:06]
+localizar fácilmente nuestra zona
+
+[01:21:08]
+Igualmente de oferta o de demanda que en
+
+[01:21:10]
+este caso es un pequeño Rango que va a
+
+[01:21:13]
+ser toda esta zona de aquí Toda esta
+
+[01:21:16]
+zona de aquí que es es un pequeño Rango
+
+[01:21:17]
+ahí y esa es nuestra zona de oferta o de
+
+[01:21:20]
+demanda aparte tenemos liquidez interna
+
+[01:21:23]
+y ese va a ser nuestro seg sego motivo
+
+[01:21:25]
+Ya veíamos nosotros ahí el quiebre de
+
+[01:21:27]
+estructura el reteste Este era el último
+
+[01:21:30]
+fractal que veníamos trabajando reteste
+
+[01:21:33]
+y ahí tendríamos nuestro segundo motivo
+
+[01:21:35]
+incluso aquí tenemos otro quiebre de
+
+[01:21:36]
+estructura un reteste Y así
+
+[01:21:38]
+sucesivamente otro quiebre reteste y así
+
+[01:21:41]
+sucesivamente y así de sencillo chicos
+
+[01:21:43]
+podríamos estar localizando nuestras
+
+[01:21:45]
+zonas de oferta y demanda Y este muy muy
+
+[01:21:49]
+fácil ahora lo que quiero es hacer es
+
+[01:21:52]
+ubicar algunas zonas de oferta y demanda
+
+[01:21:53]
+pero que ustedes me tiendan mejor Bueno
+
+[01:21:55]
+chicos aquí tenemos otra zona de demanda
+
+[01:21:57]
+en este caso que va a ser esta fíjense
+
+[01:22:00]
+muy bien Esta es toda nuestra zona de
+
+[01:22:02]
+demanda y fíjense muy bien cómo funciona
+
+[01:22:04]
+chicos para que ustedes empiecen a
+
+[01:22:06]
+localizarlas más fácil aquí tenemos la
+
+[01:22:09]
+toma de liquidez después de la toma de
+
+[01:22:11]
+liquidez tenemos una ruptura y esta
+
+[01:22:13]
+sería nuestra zona de demanda fíjense
+
+[01:22:17]
+que es una zona bastante buena porque es
+
+[01:22:19]
+una zona que el precio ha tomado
+
+[01:22:21]
+liquidez y después ha roto esas
+
+[01:22:24]
+estructuras duras a la alza internas y
+
+[01:22:25]
+luego las externas también ent es una
+
+[01:22:27]
+zona bastante buena de en este caso
+
+[01:22:31]
+demanda fíjense chicos que aquí tenemos
+
+[01:22:34]
+una zona de oferta en este caso fíjense
+
+[01:22:36]
+que va a ser toda esta zona aquí tenemos
+
+[01:22:38]
+la zona que les había dicho un pequeño
+
+[01:22:40]
+Rango fíjense como ranga el precio rompe
+
+[01:22:43]
+la baja aquí en este caso sí testea Y
+
+[01:22:45]
+esta sería nuestra zona de oferta
+
+[01:22:47]
+fíjense que es una zona tipo Rango y
+
+[01:22:50]
+esta simplemente rompe la baja no
+
+[01:22:52]
+manipula fíjense chicos que acá tenemos
+
+[01:22:54]
+otra zona en este caso de oferta también
+
+[01:22:57]
+el precio hace un pequeño rompimiento
+
+[01:23:00]
+hace un pequeña acumulación como tipo
+
+[01:23:02]
+Rango rompe la estructura aquí a la baja
+
+[01:23:06]
+y después se va con todo hacia abajo y
+
+[01:23:09]
+esta sería una zona de oferta tendemos
+
+[01:23:12]
+la teoría de los bloques de órdenes Qué
+
+[01:23:14]
+es pues es una vela en específico donde
+
+[01:23:17]
+la teoría nos dice que tenemos órdenes
+
+[01:23:19]
+pendientes que se pueden hacer una
+
+[01:23:21]
+reversión en el precio cómo vamos a
+
+[01:23:23]
+identificar es order block Generalmente
+
+[01:23:26]
+es dónde están ubicados todo depende
+
+[01:23:28]
+también de dónde están ubicados nuestros
+
+[01:23:31]
+order blocks Qué tipo de Vela es por los
+
+[01:23:35]
+imbalances dentro de una zona de oferta
+
+[01:23:37]
+y demanda la clase anterior les había
+
+[01:23:39]
+puesto unas zonas de oferta y demanda
+
+[01:23:41]
+Pero dentro de esas zonas de oferta y
+
+[01:23:44]
+demanda o sea ahora sí que nosotros
+
+[01:23:45]
+identificamos la zona de oferta y de
+
+[01:23:47]
+demanda y dentro de esas zonas de oferta
+
+[01:23:49]
+y de demanda es que vamos a tener esos
+
+[01:23:52]
+bloques de órdenes entonces la teoría
+
+[01:23:54]
+nos dice dice que la vela contraria
+
+[01:23:56]
+antes del movimiento fuerte es el order
+
+[01:23:58]
+block pero nosotros Simplemente no nos
+
+[01:24:01]
+vamos a guiar por la vela contraria ni
+
+[01:24:02]
+por el color simplemente esa vela que
+
+[01:24:05]
+esté dentro de nuestra zona de oferta y
+
+[01:24:08]
+demanda y que tenga imbalance es lo que
+
+[01:24:10]
+principalmente vamos a estar chequeando
+
+[01:24:12]
+entonces para ello vamos a ir a nuestra
+
+[01:24:14]
+siguiente dispositiva para decirles por
+
+[01:24:16]
+aquí Qué es lo importante a la hora de
+
+[01:24:19]
+un imbalance más un order block Entonces
+
+[01:24:21]
+tenemos el imbalance concepto de
+
+[01:24:23]
+imbalance es bast sencillo es una
+
+[01:24:25]
+ineficiencia en el precio en este caso
+
+[01:24:27]
+llevamos la vela vamos a poner la vela
+
+[01:24:29]
+uno llevamos la vela dos y llevamos la
+
+[01:24:32]
+vela número tres entonces la vela uno
+
+[01:24:36]
+ojo la vela uno con la vela número tres
+
+[01:24:39]
+no chocan entre sí Qué quiere decir que
+
+[01:24:41]
+la Mecha por en este caso el bajo del de
+
+[01:24:44]
+la vela 3 y el alto de la vela 1 no
+
+[01:24:49]
+chocan entre sí generando un hueco en el
+
+[01:24:52]
+precio generamos un hueco en el precio y
+
+[01:24:54]
+a esta zona le llamamos nosotros
+
+[01:24:56]
+ineficiencia o imbalance fbg como
+
+[01:24:58]
+ustedes le quieran llamar yo le llamo
+
+[01:25:00]
+simplemente un imbalance entonces
+
+[01:25:03]
+Precisamente en nuestras zonas de oferta
+
+[01:25:04]
+y de demanda es que vamos a estar
+
+[01:25:06]
+chequeando estos bloques de órdenes que
+
+[01:25:09]
+tienen estos imbalances Y a partir de
+
+[01:25:11]
+ahí Tendremos una zona probable de
+
+[01:25:13]
+mitigar tenemos toda nuestra zona de
+
+[01:25:15]
+oferta y demanda que puede ser a lo
+
+[01:25:17]
+mejor toda esta zona una zona diaria
+
+[01:25:19]
+vamos a decir y en h4 encontramos
+
+[01:25:22]
+nuestro en h4
+
+[01:25:25]
+encontramos nuestro bloque de órdenes
+
+[01:25:27]
+con imbalance entonces ahí vamos a tener
+
+[01:25:29]
+una probabilidad de una mejor zona
+
+[01:25:31]
+Simplemente nos va servir para tener una
+
+[01:25:33]
+mejor precisión los bloques claves con
+
+[01:25:37]
+brecha de valor y bien ubicados serán
+
+[01:25:39]
+los que eramos mayor importancia
+
+[01:25:41]
+simplemente eso Entonces ahora yo puse
+
+[01:25:43]
+unos pasos bien sencillitos para
+
+[01:25:45]
+nosotros poder utilizar nuestros bloques
+
+[01:25:47]
+de órdenes y es paso número uno Ubicar
+
+[01:25:51]
+la zona de oferta o de demanda ubicar el
+
+[01:25:54]
+bloque relevante en high time frame o
+
+[01:25:56]
+sea ubicar Cuál es la zona relevante en
+
+[01:25:59]
+temporalidad alta por ejemplo si
+
+[01:26:01]
+nosotros queremos ver un bloque de m15
+
+[01:26:03]
+vamos a ubicar nuestra zona en h1 a
+
+[01:26:06]
+partir de ahí que ya ubicamos esa zona
+
+[01:26:09]
+marcar el order block que tiene
+
+[01:26:11]
+imbalance y esperar nuestro segundo
+
+[01:26:13]
+motivo nuestro segundo motivo va a ser
+
+[01:26:15]
+lo vimos en la clase anterior si no lo
+
+[01:26:17]
+has visto te recomiendo que veas todas
+
+[01:26:19]
+las clases están abajo en la descripción
+
+[01:26:21]
+una Playlist para que tú veas toditas
+
+[01:26:23]
+las clases y también te suscribas a este
+
+[01:26:25]
+bello y hermoso canal Entonces es
+
+[01:26:27]
+importante que el bloque cumpla los
+
+[01:26:29]
+siguientes criterios ojo aquí van cuatro
+
+[01:26:32]
+criterios para poder cumplir de manera
+
+[01:26:35]
+más fácil y y con mayor efectividad un
+
+[01:26:38]
+bloque de órdenes que esté en una zona
+
+[01:26:40]
+de oferta y demanda preferiblemente high
+
+[01:26:42]
+time frame que tenga un imbalance o sea
+
+[01:26:44]
+el causante de alguna ruptura de
+
+[01:26:46]
+estructura o toma de liquidez O sea que
+
+[01:26:49]
+a partir de ese bloque haig una ruptura
+
+[01:26:52]
+o una toma de liquidez y el precio rompa
+
+[01:26:54]
+para esas estructuras creando una
+
+[01:26:56]
+reversión en el precio que cumpla el
+
+[01:26:58]
+motivo dos obviamente ojo no importa su
+
+[01:27:01]
+color sino el movimiento que crea a
+
+[01:27:03]
+partir de su formación entonces Esto va
+
+[01:27:06]
+a ser nuestras principales eh cosas que
+
+[01:27:09]
+nos vamos a estar ficando para que se
+
+[01:27:11]
+cumpla nuestro order block dos ejemplos
+
+[01:27:14]
+uno bajista y uno alcista quise poner
+
+[01:27:16]
+aquí dos gráficos para que ustedes
+
+[01:27:17]
+entiendan mejor en este caso por ejemplo
+
+[01:27:19]
+aquí tenemos el imbalance si se fijan la
+
+[01:27:21]
+vela
+
+[01:27:23]
+un dos y en este caso la tercera ver si
+
+[01:27:27]
+se fijan no chocan entre sí no no llegan
+
+[01:27:31]
+a tocar entre sí y generan este
+
+[01:27:33]
+huequecito aquí que que en este caso Yo
+
+[01:27:36]
+tengo un indicador para imbalances que
+
+[01:27:37]
+ustedes lo pueden tener en trading View
+
+[01:27:39]
+Ahorita les voy a Se los voy a enseñar
+
+[01:27:41]
+en el trading View para que ustedes lo
+
+[01:27:42]
+tengan que va a ser este este te va a
+
+[01:27:45]
+marcar exactamente los imbalances o sea
+
+[01:27:47]
+correctamente los imbalances y fíjense
+
+[01:27:49]
+que a partir de aquí nosotros ya tenemos
+
+[01:27:52]
+nuestro imbalance Y a partir de aquí ya
+
+[01:27:55]
+tenemos un bloque de órdenes que esta
+
+[01:27:58]
+zona sería sin mitigar y esta sería
+
+[01:28:00]
+nuestra zona probable aparte Gustavo
+
+[01:28:03]
+dirás Cuál es la zona de demanda pues la
+
+[01:28:05]
+zona de demanda puede ser toda esta zona
+
+[01:28:08]
+Pero dentro de toda esta zona nosotros
+
+[01:28:09]
+ya tenemos nuestro order block O Nuestro
+
+[01:28:12]
+bloque de órdenes con mayor probabilidad
+
+[01:28:15]
+en este caso también podríamos tener
+
+[01:28:16]
+fíjense que aquí hay una zona como un
+
+[01:28:18]
+pequeño Rango que les había yo enseñado
+
+[01:28:20]
+en la clase anterior a marcar nuestras
+
+[01:28:22]
+zonas de oferta y demanda en este caso
+
+[01:28:23]
+zona de oferta pero fíjense que
+
+[01:28:25]
+exactamente aquí tenemos el imbalance
+
+[01:28:28]
+que se forma o que deja ahí el precio y
+
+[01:28:30]
+aquí tenemos nuestro bloque de órdenes y
+
+[01:28:32]
+mitigar el precio llega Exactamente lo
+
+[01:28:35]
+toca y a partir de ahí cae entonces esa
+
+[01:28:37]
+es una manera muy sencilla de ver
+
+[01:28:39]
+nuestra zonas de oferta y de demanda
+
+[01:28:41]
+para para para validar nuestro segundo
+
+[01:28:44]
+motivo y estar chequeando nuestras zonas
+
+[01:28:47]
+de bloques de órdenes vamos con algunos
+
+[01:28:49]
+ejemplos en el precio aparte del
+
+[01:28:51]
+indicador de imbalances que les quiero
+
+[01:28:53]
+dejar bueno chicos aquí estamos gráfico
+
+[01:28:55]
+del nasdaq Y esta es para enseñarles la
+
+[01:28:57]
+zona o las zonas de oferta y de demanda
+
+[01:29:00]
+Y también enseñarles específicamente lo
+
+[01:29:02]
+que venimos el día de hoy que es el
+
+[01:29:04]
+order block fíjense que estamos aquí en
+
+[01:29:07]
+este indicador que en este caso yo eh lo
+
+[01:29:09]
+tengo con color azul los los imbalances
+
+[01:29:13]
+que ya han sido mitigados y con color
+
+[01:29:15]
+amarillo los imbalances que no han sido
+
+[01:29:16]
+mitigados el indicador lo pueden
+
+[01:29:18]
+encontrar en cualquier trading View
+
+[01:29:20]
+inbalance fre and dynamic hay muchísimos
+
+[01:29:22]
+que te pueden enseñar los imbalances
+
+[01:29:25]
+también lo puedes poner como fvg
+
+[01:29:27]
+Recuerden que el imbalance es una brecha
+
+[01:29:29]
+en el precio o sea una zona entre tres
+
+[01:29:32]
+velas que no ha sido tocada en este caso
+
+[01:29:33]
+por ejemplo podemos repasar aquí había
+
+[01:29:35]
+una dos y tres y se había formado este
+
+[01:29:38]
+imbalance entre estas tres velas esta
+
+[01:29:41]
+esta y esta una vez que ya el precio la
+
+[01:29:43]
+rellena con esta pues ya rellenó ese
+
+[01:29:45]
+hueco verad en este caso teníamos uno
+
+[01:29:47]
+esta velita dos y esta velita tres y se
+
+[01:29:50]
+había formado este imbalance verdad
+
+[01:29:52]
+Entonces eh creo que bastante claro se
+
+[01:29:56]
+entiende verdad Ahora vamos a explicar
+
+[01:29:58]
+que primero tenemos nuestra toda nuestra
+
+[01:30:01]
+cena toda nuestra zona de demanda toda
+
+[01:30:05]
+esta es nuestra zona de demanda ahí
+
+[01:30:08]
+perdón de oferta toda esta es nuestra
+
+[01:30:09]
+zona de oferta y después ya tendríamos
+
+[01:30:12]
+el order block fíjense como acá tenemos
+
+[01:30:14]
+el order block que en este caso tiene
+
+[01:30:18]
+imbalance bueno tenía porque ya El
+
+[01:30:20]
+precio ya lo ha mitigado pero fíjense
+
+[01:30:22]
+como precisamente el precio llega muy
+
+[01:30:23]
+bien a esa zona inbalance aquí teníamos
+
+[01:30:26]
+nuestro order block teníamos esta zona
+
+[01:30:28]
+que era la zona de que había tomado
+
+[01:30:31]
+liquidez y Lu había rota esas
+
+[01:30:32]
+estructuras era nuestra zona
+
+[01:30:34]
+efectivamente
+
+[01:30:36]
+de oferta y aquí teníamos nuestro bloque
+
+[01:30:39]
+de órdenes ahora voy a buscar ejemplos
+
+[01:30:41]
+para compras fíjense que acá abajo mismo
+
+[01:30:44]
+tenemos una zona de en este caso o
+
+[01:30:48]
+demanda zona de demanda chicos toda esta
+
+[01:30:51]
+es nuestra zona de demanda Y a partir de
+
+[01:30:54]
+ahí qué observamos observamos el
+
+[01:30:55]
+imbalance Y luego observamos el bloque
+
+[01:30:58]
+de órdenes que tiene el imbalance en
+
+[01:31:01]
+este caso estamos gráfico de 4 horas
+
+[01:31:04]
+esta zona de demanda Perdón es una zona
+
+[01:31:07]
+como una tipo V que yo les había dicho
+
+[01:31:10]
+que rompe las estructuras Entonces esto
+
+[01:31:12]
+sería un segundo ejemplo como pueden ver
+
+[01:31:14]
+chicos aquí tenemos otro bloque de
+
+[01:31:16]
+órdenes en este caso Este es otro bloque
+
+[01:31:18]
+de órdenes hermoso y tendríamos también
+
+[01:31:21]
+una zona dv más o menos dv que sería
+
+[01:31:24]
+toda esta zona de en este caso oferta y
+
+[01:31:27]
+ahí tendríamos nuestro bloque de órdenes
+
+[01:31:29]
+este no tiene imbalance Pero igualmente
+
+[01:31:31]
+funciona bastante bien porque eh tenía
+
+[01:31:35]
+este máximo de liquidez este máximo de
+
+[01:31:38]
+liquidez también acuérdense que tienen
+
+[01:31:41]
+que ver lo lo que provoca en el precio
+
+[01:31:43]
+qué es lo que hace lo que provoca
+
+[01:31:46]
+mayormente en el precio y cuáles zonas
+
+[01:31:48]
+tiene también de liquidez el precio para
+
+[01:31:50]
+poder tomar fíjense chicos que acá
+
+[01:31:53]
+tenemos nuestro bloque de órdenes de
+
+[01:31:56]
+nuevo en este caso una zona de demanda
+
+[01:31:59]
+verdad una zona de demanda y tiene toda
+
+[01:32:02]
+esta zona en h1 se va a ver como una
+
+[01:32:05]
+pequeña manipulación acá y luego un
+
+[01:32:08]
+movimiento a la alza que este sería
+
+[01:32:10]
+nuestra zona de demanda Y en en 4 horas
+
+[01:32:14]
+pues simplemente vemos un bloque de
+
+[01:32:15]
+órdenes con imbalance y acá vemos
+
+[01:32:18]
+nuestro bloque de órdenes o nuestra zona
+
+[01:32:20]
+de bloque de órdenes igual de este lado
+
+[01:32:23]
+chicos acá qué tenemos tenemos toda
+
+[01:32:25]
+nuestra zona en este caso demanda y
+
+[01:32:29]
+fíjense que también igualmente acá que
+
+[01:32:31]
+tenemos el order block que tenía
+
+[01:32:33]
+inbalance que es exactamente donde viene
+
+[01:32:36]
+el precio acá de nuevo chicos qué
+
+[01:32:38]
+tenemos una zona de oferta tipo V tipo V
+
+[01:32:42]
+esa zona de oferta y luego que tenemos
+
+[01:32:44]
+dentro de toda mi zona de oferta como
+
+[01:32:48]
+tipo V tenemos nuestro order block con
+
+[01:32:51]
+imbalance fíjense que aquí es e era un
+
+[01:32:54]
+un imbalance también muy muy bastante
+
+[01:32:56]
+grande y fíjense que aquí tenía el
+
+[01:32:58]
+imbalance aparte aquí teníamos liquidez
+
+[01:33:00]
+previa este es liquidez previa o liquid
+
+[01:33:02]
+inducida y aquí a partir de ahí se
+
+[01:33:05]
+genera nuestro pe y movimiento bajista
+
+[01:33:08]
+Acá fíjense que tenemos chicos una zona
+
+[01:33:10]
+de oferta que es un tomador de liquidez
+
+[01:33:13]
+que nos rompe las estructuras o Entonces
+
+[01:33:16]
+teníamos toda nuestra zona de oferta
+
+[01:33:20]
+creada ahí pero nosotros teníamos
+
+[01:33:23]
+nuestro bloque de órdenes en este caso
+
+[01:33:25]
+vase aquí imbalance también tiene un
+
+[01:33:28]
+máximo ahí que que estaba pendiente por
+
+[01:33:31]
+tomarse y ahí exactamente tiene nuestro
+
+[01:33:34]
+pequeño bloquecito de órdenes hermoso
+
+[01:33:37]
+Entonces tenemos la primero que nada la
+
+[01:33:39]
+definición de Premium y de descuento
+
+[01:33:41]
+Entonces el Premium o el concepto
+
+[01:33:43]
+Premium se refiere a un nivel de precio
+
+[01:33:45]
+donde se espera que los vendedores
+
+[01:33:47]
+institucionales Smart Money entren al
+
+[01:33:49]
+mercado es un área donde el precio se
+
+[01:33:51]
+considera sobrevalorado y por lo tant es
+
+[01:33:54]
+probable que los grandes actores del
+
+[01:33:55]
+mercado empiecen a vender siempre a la
+
+[01:33:57]
+hora de yo tradear voy a tradear bajo
+
+[01:34:00]
+este razonamiento Quiero vender en zonas
+
+[01:34:02]
+Premium que son zonas de vendedores
+
+[01:34:04]
+donde el precio está sobrevendido y
+
+[01:34:06]
+quiero comprar en zonas de descuento
+
+[01:34:08]
+entonces eh los traders pueden utilizar
+
+[01:34:10]
+estos niveles para buscar oportunidades
+
+[01:34:13]
+de venta o para tomar beneficios en
+
+[01:34:15]
+posiciones largas ahora tenemos la eh
+
+[01:34:18]
+teoría de descuento Entonces el
+
+[01:34:20]
+descuento se refiere a un nivel de
+
+[01:34:22]
+precio donde se espera que los
+
+[01:34:23]
+compradores institucionales entren al
+
+[01:34:26]
+mercado es una área donde el precio se
+
+[01:34:28]
+considera infravalorado y por lo tanto
+
+[01:34:30]
+es probable que los grandes actores del
+
+[01:34:32]
+mercado empiecen a comprar eh los
+
+[01:34:34]
+traders pueden utilizar estos niveles
+
+[01:34:36]
+para buscar oportunidades de compra para
+
+[01:34:38]
+tomar beneficios en posiciones cortas
+
+[01:34:40]
+verad Entonces esto es nuestra
+
+[01:34:43]
+definición muy básica de lo que es
+
+[01:34:45]
+Premium y descuento ahora vamos con el
+
+[01:34:49]
+entendimiento es como les decía vender
+
+[01:34:52]
+caro y comprar barato entonces en
+
+[01:34:54]
+cualquier fractal nosotros ya vimos
+
+[01:34:56]
+nuestra clase de fractales y si no la
+
+[01:34:58]
+han visto tienen que verla nuestros
+
+[01:35:00]
+fractales nosotros vamos a tener vamos a
+
+[01:35:03]
+dividirlo en tres zonas vamos a dividir
+
+[01:35:05]
+en el principio en el final y en medio
+
+[01:35:08]
+en medio va a ser la zona del 50% de ese
+
+[01:35:11]
+fractal básicamente por encima del 50%
+
+[01:35:15]
+nosotros vamos a estar viendo zonas de
+
+[01:35:17]
+venta por debajo del 50% vamos a estar
+
+[01:35:20]
+viendo zonas de descuento Por qué
+
+[01:35:22]
+razonamos de esta manera porque no
+
+[01:35:25]
+quiere decir que siempre sea así pero
+
+[01:35:27]
+mayormente las zonas por debajo del 50
+
+[01:35:30]
+donde vamos a tener mayor probabilidad
+
+[01:35:32]
+de compras y las zonas por encima de 50
+
+[01:35:34]
+es donde vamos a tener mayor
+
+[01:35:36]
+probabilidad de ventas Entonces medimos
+
+[01:35:38]
+el fractal a trabajar al 50% del fractal
+
+[01:35:43]
+va a ser nuestra zona de equilibrio que
+
+[01:35:45]
+a partir de que el precio toca ese 50%
+
+[01:35:48]
+nosotros ya estamos habilitados para
+
+[01:35:50]
+comprar por encima del 50% es una zona
+
+[01:35:52]
+de ventas y por debajo del 50% es una
+
+[01:35:55]
+zona de compras básicamente es esto es
+
+[01:35:58]
+como que hacemos una cajita Y a partir
+
+[01:36:00]
+de ahí nosotros podemos estar analizando
+
+[01:36:04]
+les voy a dar un fibonacci Premium en si
+
+[01:36:07]
+se quedan al final de la clase donde ese
+
+[01:36:09]
+fibonacci yo lo tengo configurado para
+
+[01:36:11]
+que ustedes vean de mayor manera o de
+
+[01:36:13]
+mejor manera nuestra zona de Premium y
+
+[01:36:15]
+descuento ahora qué tenemos Cuál es la
+
+[01:36:18]
+lógica la lógica Es que para poder
+
+[01:36:20]
+asegurarnos de tener mucho mejores
+
+[01:36:21]
+entradas de alta calidad ojo no quiere
+
+[01:36:24]
+decir que sean todas las entradas así
+
+[01:36:26]
+pero las entradas de mejor calidad o de
+
+[01:36:29]
+alta calidad vamos a usar siempre la
+
+[01:36:32]
+lógica de Premium y descuento entonces
+
+[01:36:35]
+pros y contras tener mejores trades de
+
+[01:36:37]
+buen de buena calidad y con un buen
+
+[01:36:40]
+ajuste de tu stop loss eh contras en
+
+[01:36:43]
+tendencias aceleradas o cuando el precio
+
+[01:36:45]
+no da buenos retrocesos porque no
+
+[01:36:47]
+siempre va a ir al 50% no siempre va a
+
+[01:36:50]
+caer a a esa zona porque hay veces que
+
+[01:36:52]
+el precio se acelera entonces en esos
+
+[01:36:54]
+retrocesos nosotros no vamos a poder
+
+[01:36:56]
+entrar verdad O puede que pierdas
+
+[01:36:58]
+algunas entradas porque pues no puedes
+
+[01:37:00]
+entrar porque el precio no ha
+
+[01:37:01]
+retrocedido lo suficiente Okay ahora
+
+[01:37:05]
+aplicación práctica de esto cómo lo
+
+[01:37:07]
+vamos a aplicar los conceptos Premium y
+
+[01:37:09]
+descuento se aplican principalmente en
+
+[01:37:12]
+en análisis de zonas de interés así como
+
+[01:37:15]
+la identificación de niveles de precio
+
+[01:37:16]
+clave basados en la estructura del
+
+[01:37:18]
+mercado y la acción de precio
+
+[01:37:20]
+básicamente vamos a medir fractales
+
+[01:37:23]
+vamos a a medir la estructura de Mercado
+
+[01:37:24]
+y vamos a estar buscando esas zonas de
+
+[01:37:26]
+Premium y de descuento zonas de
+
+[01:37:28]
+equilibrio y desequilibrio el mercado se
+
+[01:37:30]
+mueve entre zonas de equilibrio y
+
+[01:37:31]
+desequilibrio entonces eh donde el
+
+[01:37:34]
+precio se negocia dentro de un Rango y
+
+[01:37:36]
+desequilibrio donde hay movimientos
+
+[01:37:37]
+fuertes en la dirección los niveles
+
+[01:37:39]
+Premium y descuento ayudan a identificar
+
+[01:37:41]
+estas zonas entonces a partir de un
+
+[01:37:44]
+nivel Premium o de descuento vamos a
+
+[01:37:46]
+poder identificar una zona de oferta y
+
+[01:37:48]
+de demanda y después vamos a poder
+
+[01:37:50]
+identificar un order block que lo vimos
+
+[01:37:53]
+en en la clase anterior fibonacci el
+
+[01:37:55]
+fibonacci también nos va a ayudar eh a a
+
+[01:37:58]
+a identificar de mayor mayormente o
+
+[01:38:01]
+mejor nuestras zonas de Premium y
+
+[01:38:03]
+descuento entonces una herramienta como
+
+[01:38:05]
+utilizada es el retroceso fibonacci los
+
+[01:38:07]
+niveles entre el 62 o el 61.8 y el 79 es
+
+[01:38:11]
+un movimiento alcista o bajista suelen
+
+[01:38:13]
+considerarse como áreas de descuento
+
+[01:38:15]
+para compras o Premium para ventas estos
+
+[01:38:17]
+niveles entre el 61.8 y 80 o 79 por son
+
+[01:38:22]
+los niveles con mayor probabilidad ojo
+
+[01:38:25]
+no quiere decir que el precio tenga que
+
+[01:38:26]
+llegar ahí sino que estos niveles van a
+
+[01:38:28]
+ser mejores para poder tomar un Trade de
+
+[01:38:31]
+alta probabilidad lo que llamamos un
+
+[01:38:33]
+Optimus Trade entry o un ot un t entre
+
+[01:38:37]
+entre el 62 y el 79 por eso lo voy a
+
+[01:38:40]
+llamar yo un ot un Optimus Trade entry o
+
+[01:38:44]
+una entrada óptima para todos nosotros
+
+[01:38:46]
+verdad Entonces el número tres para
+
+[01:38:50]
+nuestra aplicación práctica de nuestros
+
+[01:38:54]
+de nuestro premio y descuento son los
+
+[01:38:56]
+order blocks también utilizamos el
+
+[01:38:58]
+concepto de los order block que son
+
+[01:38:59]
+áreas donde las instituciones han dejado
+
+[01:39:02]
+Rastros de sus órdenes los niveles
+
+[01:39:04]
+Premium y descuento se encuentran
+
+[01:39:06]
+frecuentemente en o cercas de estos
+
+[01:39:09]
+bloques de órdenes verdad Entonces ahora
+
+[01:39:12]
+que tenemos tenemos definición eh
+
+[01:39:17]
+Perdón ahora lo que vamos a estudiar por
+
+[01:39:19]
+último es nuestro fibonacci con nuestro
+
+[01:39:21]
+fibonacci vamos a poder analizar mejor
+
+[01:39:23]
+nuestras zonas de Premium y descuento se
+
+[01:39:25]
+usa principalmente para medir los
+
+[01:39:27]
+retrocesos de los fractales y encontrar
+
+[01:39:29]
+con mejor facilidad las zonas de Premium
+
+[01:39:31]
+y de descuento entonces acá tenemos de
+
+[01:39:33]
+nuevo otro ejemplo agarramos nuestro
+
+[01:39:35]
+fractal aquí tiramos un fibonacci
+
+[01:39:38]
+siempre de izquierda a derecha tiramos
+
+[01:39:41]
+un fibonacci siempre de izquierda a
+
+[01:39:43]
+derecha chicos acuérdense un fibonacci
+
+[01:39:47]
+de izquierda a derecha de izquierda a
+
+[01:39:50]
+derecha y después de que ya marcamos ese
+
+[01:39:52]
+fractal ya tiramos el fibonacci nosotros
+
+[01:39:54]
+vamos a estar midiendo nuestra zona
+
+[01:39:56]
+50% para arriba para vender abajo el 50%
+
+[01:40:01]
+para comprar fíjense cómo funciona
+
+[01:40:03]
+bastante bien el precio de hecho viene
+
+[01:40:05]
+al 88.6 Y a partir de ahí cae No se
+
+[01:40:08]
+preocupen porque yo les estaré pasando
+
+[01:40:10]
+ahorita este fibonacci y les estaré
+
+[01:40:13]
+pasando también otro fibonacci para que
+
+[01:40:14]
+ustedes entiendan de mejor manera ahora
+
+[01:40:17]
+tenemos para compras tenemos eh céntrate
+
+[01:40:20]
+Por acá tenemos este fractal de este
+
+[01:40:22]
+punto a este punto alcista luego que
+
+[01:40:24]
+tenemos que el precio cae al 70 por por
+
+[01:40:26]
+debajo del 50% son estas zonas
+
+[01:40:29]
+habilitadas para comprar Ahora sí vamos
+
+[01:40:31]
+a ir al gráfico y en el gráfico les voy
+
+[01:40:34]
+a mostrar este fibonacci les voy a
+
+[01:40:35]
+mostrar algunos ejemplos de Premium y de
+
+[01:40:38]
+descuento Bueno chicos pues aquí estamos
+
+[01:40:40]
+en nuestro gráfico del nasac primero que
+
+[01:40:42]
+nada mostrarles el fibonacci en este
+
+[01:40:44]
+caso Bueno vamos a marcar primero el
+
+[01:40:45]
+fractal Este es un fractal alcista Ah
+
+[01:40:48]
+ahí tenemos este fractal alcista y luego
+
+[01:40:50]
+vamos a marcarles el fibona Aquí tengo
+
+[01:40:52]
+este TR de fibonacci voy a Primero
+
+[01:40:55]
+enseñarles este que tengo para descuento
+
+[01:40:58]
+Este es el que yo suelo tomar o usar es
+
+[01:41:00]
+bastante bonito simple y les paso por
+
+[01:41:03]
+aquí la configuración para que ustedes
+
+[01:41:04]
+lo tengan simplemente son como un en
+
+[01:41:07]
+marcar o poner el el precio o los
+
+[01:41:10]
+fractales en un cuadro eh Por debajo son
+
+[01:41:14]
+por debajo son compras de hecho está
+
+[01:41:15]
+está al revés chicos está al revés una
+
+[01:41:17]
+disculpa debería de ser así las ventas
+
+[01:41:20]
+son lo rojo y las compras son azul en
+
+[01:41:24]
+este caso vamos a ponerlo bien Vamos a
+
+[01:41:26]
+ponerlo bien ahí Zona Roja ventas y zona
+
+[01:41:31]
+az zona verde compras fíjense que aquí
+
+[01:41:34]
+está la configuración para que ustedes
+
+[01:41:35]
+lo puedan ver fíjense como el precio
+
+[01:41:37]
+llega exactamente a nuestra zona de
+
+[01:41:39]
+Premium en este caso Perdón llega llega
+
+[01:41:42]
+aquí a nuestra zona de descuento todo lo
+
+[01:41:45]
+debajo de aquí son
+
+[01:41:47]
+compras
+
+[01:41:49]
+compras compra compras y fíjense que por
+
+[01:41:53]
+encima son ventas inclusive aquí ya se
+
+[01:41:55]
+dan unas ventas Y esa sería la
+
+[01:41:57]
+interpretación En un fractal así de
+
+[01:41:59]
+sencillito y para toda la familia este
+
+[01:42:01]
+es nuestro fibonacci pero si nosotros
+
+[01:42:03]
+queremos ver la zona con mayor precisión
+
+[01:42:06]
+con mayor precisión tengo este otro
+
+[01:42:08]
+fibonacci que lo marco Igualmente de
+
+[01:42:10]
+esta De esta zona a esta zona en este
+
+[01:42:13]
+caso lo marco De esta zona a esta zona Y
+
+[01:42:16]
+tenemos este este lo que yo Marco es 50
+
+[01:42:21]
+61 70 80 88 y 95 y fíjense que
+
+[01:42:25]
+exactamente el precio llega al
+
+[01:42:28]
+61.8 61.8 es el que estoy vigilando yo
+
+[01:42:32]
+estos son los niveles eh Premium los
+
+[01:42:34]
+niveles óptimos óptimos es entre el 70 y
+
+[01:42:38]
+el 88 por y el nivel favorito de ote es
+
+[01:42:42]
+el nivel del 80% vamos con otro ejemplo
+
+[01:42:45]
+Bueno chicos Pues aquí tenemos este
+
+[01:42:47]
+fractal tenemos un mínimo tenemos un
+
+[01:42:49]
+máximo y fíjense cómo vamos a moder con
+
+[01:42:51]
+nuestro fibonacci de manera muy simple
+
+[01:42:53]
+vamos a llegar vamos a marcar nuestro
+
+[01:42:54]
+fibonacci acuérdense de izquierda a
+
+[01:42:57]
+derecha y ahí marcamos nuestro fibonacci
+
+[01:42:59]
+exactamente fíjense el precio llega al
+
+[01:43:01]
+79 zona de ot aparte aquí ya lo
+
+[01:43:06]
+confluían teriores aprendidos que en
+
+[01:43:08]
+este caso son zona
+
+[01:43:10]
+de demanda aparte lo confluir con
+
+[01:43:14]
+nuestros imbalances fíjense que aquí
+
+[01:43:16]
+teníamos un pequeño imbalance y ahí
+
+[01:43:18]
+tenemos nuestra zona de alta precisión
+
+[01:43:21]
+fíjense Cómo conflu todos chicos con
+
+[01:43:22]
+este esto con este ejemplo quiero
+
+[01:43:24]
+terminar nuestro fractal aquí luego
+
+[01:43:27]
+después de nuestro fractal nuestra zona
+
+[01:43:30]
+en este caso nuestra zona de demanda
+
+[01:43:33]
+nuestra zona de demanda luego nuestro
+
+[01:43:35]
+fibonacci trazado de izquierda a derecha
+
+[01:43:37]
+y finalmente marcamos nuestro order
+
+[01:43:41]
+block nuestro order block Y fíjense cómo
+
+[01:43:43]
+nos queda exactamente el entendimiento
+
+[01:43:46]
+de identificar una zona de alta
+
+[01:43:48]
+probabilidad para tomar nuestras
+
+[01:43:51]
+entradas y esto precisamente va a ser en
+
+[01:43:53]
+todos los gráficos porque el mercado es
+
+[01:43:55]
+totalmente fractal vamos a empezar con
+
+[01:43:57]
+la definición algunos puntos a
+
+[01:43:59]
+considerar para tener un buen punto de
+
+[01:44:02]
+interés donde tener un Trade de alta
+
+[01:44:04]
+calidad de mayor preferencia ir con eh
+
+[01:44:09]
+la tendencia o a favor de la estructura
+
+[01:44:11]
+de high time frame siempre para tener un
+
+[01:44:14]
+buen punto de interés o que se ha
+
+[01:44:15]
+respetado la estructura de high time
+
+[01:44:17]
+frame nos va a decir que ese punto de
+
+[01:44:19]
+interés es mejor o peor verad eh se
+
+[01:44:23]
+pueden tomar tres contratendencia pero
+
+[01:44:25]
+los puntos de interés de mayor
+
+[01:44:27]
+probabilidad siempre van a ser los que
+
+[01:44:29]
+están a favor de esa estructura mayor
+
+[01:44:31]
+estar en Premium o descuento estar en
+
+[01:44:34]
+una zona de compras o de ventas de alta
+
+[01:44:37]
+probabilidad significa estar en Premium
+
+[01:44:39]
+o en descuento que es un concepto que ya
+
+[01:44:41]
+debe de haber explicado no
+
+[01:44:43]
+eh tener liquidez inducida ese También
+
+[01:44:46]
+buen puede ser un buen punto un bloque
+
+[01:44:49]
+de alta probabilidad un buen bloque de
+
+[01:44:51]
+alta probabilidad zonas de decisión a lo
+
+[01:44:54]
+extremo tomadores de liquidez o
+
+[01:44:57]
+rompedores de estructuras y por último
+
+[01:45:00]
+confirmarlo con el segundo motivo verad
+
+[01:45:02]
+entonces aquí vamos a ver ejemplos Por
+
+[01:45:05]
+qué funcionan cumplen con Los criterios
+
+[01:45:07]
+básicos para hacer un buen punto de
+
+[01:45:09]
+interés de alta probabilidad zonas de
+
+[01:45:11]
+oferta y demanda Premio no descuento
+
+[01:45:13]
+Bloque con imbalance bloque bloques que
+
+[01:45:16]
+causan rupturas de estructura Entonces
+
+[01:45:19]
+qué tenemos por acá chicos eh el precio
+
+[01:45:22]
+tenía una zona si se fican una zona de
+
+[01:45:25]
+oferta en este caso aquí en este punto
+
+[01:45:27]
+luego qué tenemos tenemos imbalances
+
+[01:45:30]
+hacer rellenados todos estos imbalances
+
+[01:45:33]
+que teníamos para aquí en el precio
+
+[01:45:34]
+luego aparte si se fijan aquí yo les
+
+[01:45:36]
+tengo marcado Premium y descuento
+
+[01:45:38]
+estábamos en una zona Premium
+
+[01:45:40]
+probablemente en niveles muy muy
+
+[01:45:42]
+importantes como un nivel ot que pueden
+
+[01:45:45]
+ser del pun 79 pun 80% aproximadamente
+
+[01:45:48]
+de fibo luego aparte qué tenemos tenemos
+
+[01:45:51]
+ya eh poder cumplir con un buen bloque
+
+[01:45:54]
+de órdenes que probablemente en eh 4
+
+[01:45:58]
+horas en diario era un buen bloque toda
+
+[01:46:00]
+esta zona eh aparte había roto estas
+
+[01:46:04]
+estructuras que teníamos por la parte
+
+[01:46:05]
+baja Entonces si se fijan entre más
+
+[01:46:08]
+entre más este criterios cumpla más
+
+[01:46:10]
+probabilidades va a tener ese punto de
+
+[01:46:12]
+interés de funcionar entonces así de
+
+[01:46:14]
+sencillo verdad Entonces Aparte ya nos
+
+[01:46:17]
+vamos a nuestro segundo motivo y ya
+
+[01:46:18]
+cuando vemos quiebres de estructura
+
+[01:46:20]
+vemos que el precio se empieza a girar a
+
+[01:46:22]
+la baja es cuando ya tenemos la
+
+[01:46:23]
+validación de una mejor probabilidad de
+
+[01:46:26]
+esa zona de interés verdad Ahora qué
+
+[01:46:28]
+tenemos también por esta parte un un
+
+[01:46:30]
+ciclo alcista verdad en este caso qué
+
+[01:46:32]
+tenemos que el precio viene me rompe
+
+[01:46:34]
+esas estructuras luego después tenemos
+
+[01:46:37]
+un buen Bloque con imbalance tenemos
+
+[01:46:39]
+todo una zona que está en una zona de
+
+[01:46:41]
+compras en este caso Y a partir de ahí
+
+[01:46:44]
+este bloque con imbalance zona de compra
+
+[01:46:47]
+zona de de de descuento causante de
+
+[01:46:49]
+rupturas de estructuras imbalances
+
+[01:46:51]
+rellenados y ahí Tenemos una gran
+
+[01:46:54]
+probabilidad así de sencillo chicos no
+
+[01:46:56]
+se quebren mucho la cabeza con esto
+
+[01:46:58]
+simplemente entre más criterios de estos
+
+[01:47:01]
+cumpla el precio más probabilidad hay de
+
+[01:47:04]
+que tengamos un bloque de órdenes un
+
+[01:47:07]
+punto de interés que nos vaya respetar
+
+[01:47:09]
+esas zonas Bueno pues por eso también
+
+[01:47:11]
+tenemos decisión al extremo van a ser
+
+[01:47:13]
+zonas que causaron rupturas de
+
+[01:47:15]
+estructura y el mayor volumen
+
+[01:47:17]
+suficientes para romper los fractales
+
+[01:47:19]
+nuestro decisional es siempre el primer
+
+[01:47:21]
+encargado de romper con eh una zona o
+
+[01:47:23]
+hacer una inducción y sacar un nivel
+
+[01:47:25]
+importante lo encuentras principalmente
+
+[01:47:27]
+en las zonas del 70 o al 88 por y el
+
+[01:47:30]
+extremo es el que originó el fractal y
+
+[01:47:32]
+rompió estructuras menores lo vas a
+
+[01:47:34]
+encontrar en la zona entre 88.6 al 100%
+
+[01:47:37]
+esto para cubrir lo que es decisional y
+
+[01:47:39]
+extremo cuando el precio viene aquí
+
+[01:47:41]
+hacia abajo viene aquí hacia arriba
+
+[01:47:42]
+viene acá me rompe estas estructuras
+
+[01:47:45]
+siempre voy a tener un decisional en
+
+[01:47:47]
+esta zona de aquí que se va a encontrar
+
+[01:47:49]
+Entre el 70 al 88 por y siempre voy a
+
+[01:47:52]
+tener un punto extremo que va a ser el
+
+[01:47:54]
+primero que decidió romper esas
+
+[01:47:55]
+estructuras y este decisional el primero
+
+[01:47:58]
+que decidió romper las estructuras
+
+[01:47:59]
+menores Y a partir de ahí tendría esta
+
+[01:48:02]
+zona validada de compras y esta segunda
+
+[01:48:04]
+zona de compras No validada hoja ojo
+
+[01:48:06]
+perdón porque la tenemos que validar con
+
+[01:48:09]
+nuestro segundo motivo cuando el precio
+
+[01:48:11]
+rompa esas estructuras al alza de nuevo
+
+[01:48:13]
+ahí es donde podemos decir que está
+
+[01:48:14]
+validado este punto de interés Pues
+
+[01:48:16]
+bueno aquí tengo algún ejemplo bastante
+
+[01:48:18]
+bastante sencillo para que ustedes me
+
+[01:48:20]
+entiendan con lo que son puntos de
+
+[01:48:21]
+interés y podamos tener todavía más
+
+[01:48:23]
+claridad sobre esto teníamos un punto de
+
+[01:48:26]
+origen aquí a partir de aquí abajo luego
+
+[01:48:28]
+tenemos un rompimiento de la de la
+
+[01:48:31]
+estructura luego tenemos un nuevo máximo
+
+[01:48:35]
+después giramos a la baja y si se fijan
+
+[01:48:37]
+Este es el decisional porque este
+
+[01:48:39]
+decidió romper esta estructura que
+
+[01:48:41]
+estaba acá y esta otra estructura que
+
+[01:48:44]
+estaba acá pero mi extremo va a ser este
+
+[01:48:46]
+porque a partir de este se originó el
+
+[01:48:48]
+primer movimiento o el origen de todo
+
+[01:48:51]
+este fractal que llevamos de este punto
+
+[01:48:53]
+a este punto entonces Este es mi fractal
+
+[01:48:56]
+mayor Y a partir de este decisional
+
+[01:48:58]
+rompimos esta estructura y rompimos la
+
+[01:49:00]
+segunda estructura facilito chicos
+
+[01:49:03]
+concéntrense en ver cuáles son los los
+
+[01:49:06]
+últimos causantes de la ruptura de
+
+[01:49:08]
+estructura eh Por ejemplo interna en
+
+[01:49:11]
+este caso interna interna interna y que
+
+[01:49:14]
+generan un gran desplazamiento en el
+
+[01:49:16]
+precio un gran movimiento y el extremo
+
+[01:49:19]
+va a ser el que originó nuestro punto
+
+[01:49:21]
+fractal verdad
+
+[01:49:23]
+así de sencillo luego que tenemos en
+
+[01:49:25]
+nuestro otro ciclo bajista tenemos Este
+
+[01:49:28]
+primer extremo luego el precio qu hace
+
+[01:49:31]
+aquí venir a hacer un pequeño Rango que
+
+[01:49:34]
+muchas veces lo hace el precio y este
+
+[01:49:35]
+decisional si se fijan es el encargado
+
+[01:49:38]
+de romperme esas estructuras Ahora
+
+[01:49:40]
+cuando ya tenemos todo este punto
+
+[01:49:41]
+fractal de aquí hasta acá pues tengo
+
+[01:49:43]
+decisional aquí y tengo el extremo por
+
+[01:49:46]
+la parte alta Bueno chicos aquí estamos
+
+[01:49:48]
+con un ejemplo pequeño ejemplo para que
+
+[01:49:50]
+ustedes me entiendan aquí tenemos el
+
+[01:49:52]
+origen de este fractal tenemos el final
+
+[01:49:54]
+de todo este ciclo fractal y vamos a ver
+
+[01:49:57]
+lo que es decisión al extremo Bueno aquí
+
+[01:49:59]
+tengo este fractal de este punto a este
+
+[01:50:01]
+punto tengo también la zona de Premium y
+
+[01:50:03]
+descuento si se fijan rompe aquí las
+
+[01:50:06]
+estructuras algo importante A ver es
+
+[01:50:08]
+cuál es mi extremo realmente mi extremo
+
+[01:50:12]
+va a ser toda esta zona es la encargada
+
+[01:50:14]
+de originar ese punto fractal a partir
+
+[01:50:17]
+de ahí se origina todo ese movimiento y
+
+[01:50:19]
+el decisional cuál va a ser Gustavo
+
+[01:50:21]
+sencillo algo básico básico es el último
+
+[01:50:25]
+encargado de romper las estructuras a la
+
+[01:50:28]
+alza en este caso fíjense que aquí
+
+[01:50:31]
+rompimos esta estructura y después acá
+
+[01:50:34]
+rompimos esta otra estructura Entonces
+
+[01:50:36]
+mi decisional va a ser toda esta zona si
+
+[01:50:39]
+se fijan cuando el precio retrocede de
+
+[01:50:41]
+nuevo lo que hace es venir a este
+
+[01:50:43]
+decisional no llega al extremo viene el
+
+[01:50:45]
+decisional Y a partir de ahí se va
+
+[01:50:47]
+entonces bien importante chicos
+
+[01:50:49]
+solamente observar eso con solo observar
+
+[01:50:52]
+eso tú vas vas a poder tener una muy
+
+[01:50:53]
+buena zona de interés ya aparte si refin
+
+[01:50:56]
+y ves el bloque que tiene imbalance te
+
+[01:50:59]
+agrega más confluencias pues vas a ser
+
+[01:51:01]
+mejor todavía no Bueno si se fijan acá
+
+[01:51:03]
+confluyendo un poco teníamos un order
+
+[01:51:06]
+block con imbalance en esta zona
+
+[01:51:07]
+teníamos una buena zona también de
+
+[01:51:09]
+demanda que estaba en una zona de
+
+[01:51:12]
+descuento entonces son confluencias que
+
+[01:51:14]
+le puedes ir dando tu punto de interés
+
+[01:51:15]
+más ap parte aquí en este otro punto
+
+[01:51:18]
+cumples el segundo motivo bueno si aquí
+
+[01:51:20]
+cumples el segundo motivo en este caso
+
+[01:51:22]
+grfico de 15 minutos qué tenemos tenemos
+
+[01:51:25]
+un rompimiento de estructura un reteste
+
+[01:51:27]
+y el precio se va aparte de eso puedes
+
+[01:51:30]
+eh estar haciendo eso y con eso vas a
+
+[01:51:33]
+tener
+
+[01:51:33]
+eh mejores puntos de interés de alta
+
+[01:51:36]
+probabilidad vas a aprender finalidad
+
+[01:51:38]
+determinar las zonas donde tenemos mejor
+
+[01:51:40]
+probabilidad de que el precio forme
+
+[01:51:42]
+nuevos fractales que haremos un paso a
+
+[01:51:44]
+paso de la estructura interna y externa
+
+[01:51:47]
+identificaremos nuestra fractalidad
+
+[01:51:48]
+identificaremos diferentes puntos de
+
+[01:51:51]
+liquidez y encontraremos nuestras
+
+[01:51:52]
+mejores zonas de interés mediante la
+
+[01:51:55]
+lógica de Premium y descuento Entonces
+
+[01:51:57]
+en este mapeo de zonas lo que vamos a
+
+[01:51:59]
+hacer es ver estructura liquidez y
+
+[01:52:03]
+encontrar Dónde tenemos una zona de
+
+[01:52:06]
+interés más probable de que el precio a
+
+[01:52:09]
+partir de ahí venga y llegue mapeo de
+
+[01:52:12]
+estructura y punto de interés es
+
+[01:52:13]
+importante tener un sistema para estar
+
+[01:52:15]
+constante estudio de las zonas y de la
+
+[01:52:17]
+estructura o sea que es importante tener
+
+[01:52:21]
+una forma de hacerlo para poder estar
+
+[01:52:25]
+frecuentemente encontrando nuestras
+
+[01:52:27]
+zonas de interés y de estructura de
+
+[01:52:29]
+mercado para ello lo que haremos siempre
+
+[01:52:31]
+Back testing de la estructura inmediata
+
+[01:52:33]
+que está teniendo el precio y lo que
+
+[01:52:35]
+estaremos es recopilando la información
+
+[01:52:37]
+llenándola con documentos activos que
+
+[01:52:39]
+podamos estudiar en el futuro esto para
+
+[01:52:41]
+nuestro mapeo de estructura siempre les
+
+[01:52:43]
+eh voy a recomendar que estén en las en
+
+[01:52:46]
+la acción de precio inmediata estudiando
+
+[01:52:48]
+la estructura que lleva el precio
+
+[01:52:50]
+registrándolo porque el precio reacciona
+
+[01:52:52]
+ahí porque no reacciona etcétera
+
+[01:52:53]
+etcétera es importante comprender que
+
+[01:52:56]
+que el tiempo afecta el precio y que
+
+[01:52:58]
+debemos estar en constante actualización
+
+[01:52:59]
+de las zonas de la
+
+[01:53:01]
+estructura Entonces ahora que tenemos
+
+[01:53:04]
+precio y tiempo el tiempo afecta el
+
+[01:53:06]
+precio como les decía estas afirmacion
+
+[01:53:08]
+nos lleva a pensar que tan importante es
+
+[01:53:10]
+el tiempo por eso repasaremos la
+
+[01:53:12]
+jerarquía de las temporalidades
+
+[01:53:14]
+eh tenemos temporalidades nuestras
+
+[01:53:17]
+temporalidades mayores nos darán mayor
+
+[01:53:19]
+dirección Pero serán más lentas y
+
+[01:53:23]
+espaciosas grandes entender que las
+
+[01:53:25]
+temporalidades menores pueden llegar a
+
+[01:53:27]
+ser más erráticas un poquito más
+
+[01:53:29]
+ruidosas eh Por el sentimiento inmediato
+
+[01:53:32]
+del precio Las mayores definen una mayor
+
+[01:53:35]
+dirección pero con las menores podemos
+
+[01:53:37]
+tener una dirección a corto plazo verdad
+
+[01:53:40]
+Entonces simplemente entendiendo esto
+
+[01:53:42]
+amigos vamos a estudiar ahora sí un
+
+[01:53:44]
+mapeo de las de estructura liquidez todo
+
+[01:53:48]
+lo que hemos visto en estos módulos en
+
+[01:53:50]
+estos primeros dos módulos podría a
+
+[01:53:52]
+determinarse mejor dirección mejor punto
+
+[01:53:55]
+de interés el mejor bloque Gustavo Qué
+
+[01:53:57]
+te tomas en cuenta a la hora de analizar
+
+[01:53:59]
+pues vamos a verlo ya en este gráfico
+
+[01:54:02]
+del eurod dólar esta acción de precio
+
+[01:54:04]
+que ha pasado recientemente en los
+
+[01:54:06]
+últimos meses de 2024 vamos a estudiar
+
+[01:54:09]
+precisamente la estructura de Mercado la
+
+[01:54:12]
+liquidez y vamos a estudiar eh todo el
+
+[01:54:15]
+mapeo de todo lo que les estaba
+
+[01:54:18]
+mencionando primero vamos a partir de
+
+[01:54:20]
+dónde va a ser nuestro origen para poder
+
+[01:54:22]
+este mapear Eh mi primer origen va a ser
+
+[01:54:25]
+de este punto a partir del punto que tú
+
+[01:54:28]
+quieras analizar y mi segundo punto va a
+
+[01:54:30]
+ser este punto ojo esto no es para
+
+[01:54:33]
+trabajar exactamente chicos eh a la hora
+
+[01:54:36]
+de que yo trabajo no mapeo de esta forma
+
+[01:54:39]
+yo posteriormente les voy a estar
+
+[01:54:40]
+enseñando Cómo la hora de ya querer
+
+[01:54:43]
+tomar operaciones para esta siguiente
+
+[01:54:44]
+semana tomar operaciones para este
+
+[01:54:46]
+siguiente día voy a estar trabajando
+
+[01:54:49]
+pero esto simplemente es el mapeo para
+
+[01:54:52]
+entender el contexto Macro y micro de lo
+
+[01:54:56]
+que lleva el mercado entender cómo
+
+[01:54:58]
+pudimos haber obtenido las mejores zonas
+
+[01:55:00]
+de compra y de venta simplemente eso ya
+
+[01:55:03]
+estamos en un gráfico de 4 horas vamos a
+
+[01:55:05]
+empezar a partir de ahí ya encontramos
+
+[01:55:07]
+ese fractal ahora encontramos este punto
+
+[01:55:10]
+relevante que tenemos por aquí tenemos
+
+[01:55:12]
+algunos un quiebre estructural aquí
+
+[01:55:14]
+importante Tenemos también este mínimo
+
+[01:55:18]
+que está aquí y ya podemos tener nuestro
+
+[01:55:21]
+si se fijan nuestro Rango de mapeo vamos
+
+[01:55:24]
+a estudiar que el precio hizo un
+
+[01:55:27]
+rompimiento de estructura y se llevó
+
+[01:55:29]
+todo este punto fractal a partir de ahí
+
+[01:55:31]
+nosotros vamos a estar viendo eh nuestro
+
+[01:55:34]
+Premium y descuento Premium y descuento
+
+[01:55:36]
+a partir de aquí Bueno aquí tenemos
+
+[01:55:38]
+nuestra zona de Premium y descuento este
+
+[01:55:41]
+exactamente y vamos a estudiar por
+
+[01:55:43]
+ejemplo esta estructura interna para ver
+
+[01:55:45]
+las mejores opciones de compra fíjense
+
+[01:55:48]
+muy bien cómo vamos a ir mapeando la
+
+[01:55:50]
+estructura de la liquidez Síganme por
+
+[01:55:51]
+acá tenemos este punto rompedor de esa
+
+[01:55:55]
+estructura podríamos tener que aquí
+
+[01:55:56]
+tenemos un High un low un nuevo High o
+
+[01:56:00]
+no High High y luego qué tenemos por acá
+
+[01:56:03]
+abajo tenemos el precio regresando
+
+[01:56:05]
+nuestra zona decisional en este caso o
+
+[01:56:08]
+extrema y regresa podemos ayudarnos
+
+[01:56:12]
+siempre de un fibonacci chicos si
+
+[01:56:13]
+ustedes pueden ayudarse siempre de un
+
+[01:56:15]
+fibonacci pues está mucho mejor eh
+
+[01:56:17]
+fíjense que el precio viene una zona de
+
+[01:56:19]
+88.6 donde está el extremo donde les
+
+[01:56:21]
+había dicho que el extremo eh Y a partir
+
+[01:56:24]
+de ahí se va también teníamos este no
+
+[01:56:27]
+tenemos ningún bloque importante con
+
+[01:56:29]
+imbalance pero a partir de ahí se va el
+
+[01:56:31]
+precio acá tenemos el precio
+
+[01:56:33]
+reaccionando en una zona donde ya
+
+[01:56:35]
+sabíamos que había roto la estructura el
+
+[01:56:37]
+precio y sabíamos que esa primera zona
+
+[01:56:40]
+ya probablemente no funcionaría para
+
+[01:56:42]
+compras el precio hace una inducción de
+
+[01:56:44]
+liquidez y se va de nuevo a la alza nos
+
+[01:56:47]
+rompe de nuevo esta estructura ya
+
+[01:56:50]
+después que tenemos rota esa ura por ahí
+
+[01:56:53]
+ahora tenemos un nuevo impulso a la alza
+
+[01:56:56]
+llevándose todos estos llevándose todos
+
+[01:56:59]
+estos máximos llegando esta zona ya
+
+[01:57:01]
+chicos y ahora tenemos un nuevo impulso
+
+[01:57:04]
+ahí al alza luego fíjense que el precio
+
+[01:57:07]
+está acumulando bajos importantes dos
+
+[01:57:09]
+bajos iguales que aquí viene y lo saca
+
+[01:57:11]
+acumula constantemente liquidez interna
+
+[01:57:15]
+acuérdense todo esto va acumulando
+
+[01:57:17]
+liquidez interna para que después el
+
+[01:57:19]
+precio ocupe un retroceso más fuerte fte
+
+[01:57:22]
+en el mercado entonces qué hace el
+
+[01:57:24]
+precio un retroceso más fuerte y viene
+
+[01:57:27]
+hacia esta zona de interés verdad esta
+
+[01:57:30]
+zona de interés que es la zona
+
+[01:57:32]
+decisional cómo nos damos cuenta que es
+
+[01:57:34]
+la zona decisional como les había dicho
+
+[01:57:36]
+rompe una estructura rompe otra
+
+[01:57:37]
+estructura y se va con toda la alza esta
+
+[01:57:40]
+primera zona es la zona que decide
+
+[01:57:42]
+romper toda esta estructura y ahora nos
+
+[01:57:45]
+queda este punto mínimo de este fractal
+
+[01:57:48]
+yo espero que me estén siguiendo
+
+[01:57:49]
+bastante bien chicos aquí tenemos esta
+
+[01:57:52]
+ruptura de estructura se las voy a
+
+[01:57:53]
+marcar también por acá para que les
+
+[01:57:54]
+quede bien claro este caso ruptura de
+
+[01:57:57]
+estructura interna ruptura de estructura
+
+[01:58:00]
+externa de estos fractalidad que
+
+[01:58:02]
+llevamos precio viene a ha ser un nuevo
+
+[01:58:04]
+alto deja esta liquidez la lleva la
+
+[01:58:07]
+liquidez y viene al decisional yo creo
+
+[01:58:09]
+que está bastante fácil por ahora yo
+
+[01:58:13]
+creo que le estamos entendiendo bastante
+
+[01:58:15]
+bien ahí tenemos la zona decisional para
+
+[01:58:18]
+que ustedes la vean y luego que hace el
+
+[01:58:20]
+precio bueno ya había marcado nuevo low
+
+[01:58:22]
+hace una pequeña inducción de liquidez
+
+[01:58:24]
+vuelve y rebalancear este bloque y se va
+
+[01:58:26]
+de nuevo al alza haciendo un nuevo alto
+
+[01:58:28]
+lo hace un nuevo mínimo o un retroceso
+
+[01:58:31]
+complejo fíjense aquí todo lo que les he
+
+[01:58:33]
+enseñado Complex pullback todo lo que
+
+[01:58:36]
+les he venido enseñando aquí estamos
+
+[01:58:38]
+podemos irla aplicando Complex pullback
+
+[01:58:40]
+a la baja regresa el precio se acelera y
+
+[01:58:43]
+hace un nuevo higher High un nuevo alto
+
+[01:58:46]
+después de hacer un nuevo alto el precio
+
+[01:58:49]
+Lo que me hace es un nuevo complex
+
+[01:58:51]
+pullback pulso retroceso impulso
+
+[01:58:54]
+retroceso es un Complex pullback un
+
+[01:58:56]
+poquito más complejo pero finalmente es
+
+[01:58:58]
+un Complex pullback desde nuestra zona
+
+[01:59:01]
+decisional zona decisional de nuevo
+
+[01:59:04]
+chicos la causante de haber roto estas
+
+[01:59:06]
+últimas estructuras a la alza verdad
+
+[01:59:10]
+aquí tenemos ruptura estructura a la
+
+[01:59:12]
+alza también si ya de este fractal
+
+[01:59:14]
+nosotros aplicamos nuestra teoría de
+
+[01:59:15]
+oferta y perdón de descuento Premium y
+
+[01:59:19]
+descuento aquí ponemos Premium y
+
+[01:59:20]
+descuento aquí aplicamos nuestra teoría
+
+[01:59:23]
+de Premium y descuento y tenemos que el
+
+[01:59:24]
+precio llegó a una zona de descuento
+
+[01:59:27]
+perfectamente después exactamente
+
+[01:59:29]
+después lo que haces es una manipulación
+
+[01:59:31]
+de liquidez una toma de liquidez toma de
+
+[01:59:35]
+liquidez y ya ahora sí viene y me mitiga
+
+[01:59:37]
+exactamente el bloque de órdenes
+
+[01:59:39]
+acuérdense la clase de bloque de órdenes
+
+[01:59:41]
+me mitiga exactamente ese bloque de
+
+[01:59:43]
+órdenes me hace un nuevo impulso al alza
+
+[01:59:46]
+me toma la liquidez Y a partir de aquí
+
+[01:59:49]
+ya tenemos mapeado toda nuestra
+
+[01:59:51]
+estructura fíjense dice cómo fuimos
+
+[01:59:52]
+mapeando toda nuestra estructura hasta
+
+[01:59:54]
+sacar este alto importante después de
+
+[01:59:57]
+sacar ese alto importante que tenemos
+
+[01:59:59]
+chicos en el precio tenemos un nuevo
+
+[02:00:01]
+mínimo luego que tenemos después de un
+
+[02:00:03]
+nuevo mínimo tenemos un fallo de la
+
+[02:00:05]
+estructura el precio no logra hacer un
+
+[02:00:07]
+nuevo máximo el precio rompe la
+
+[02:00:09]
+estructura hacia abajo me rompe este
+
+[02:00:12]
+punto importante hacia abajo me rompe
+
+[02:00:15]
+este otro punto ahora tengo mi último
+
+[02:00:19]
+fractal validado ojo los que se
+
+[02:00:22]
+perdieron aquí tenemos mínimo nuevo
+
+[02:00:24]
+máximo retroceso fallo de la estructura
+
+[02:00:28]
+un nuevo mínimo y ahora Estamos
+
+[02:00:30]
+trabajando este punto fractal que de
+
+[02:00:31]
+nuevo podemos aplicar nuestra teoría de
+
+[02:00:34]
+Premium y descuento fíjense el el precio
+
+[02:00:38]
+viene a una zona de Premium en este caso
+
+[02:00:40]
+teoría de bloques de órdenes viene
+
+[02:00:42]
+exactamente un Breaker y nos hace un
+
+[02:00:45]
+nuevo mínimo después Qué sucede chicos
+
+[02:00:48]
+Por qué vuelve a subir Gustavo bueno
+
+[02:00:51]
+porque si se fijan todo esto es la
+
+[02:00:52]
+fractalidad que llevamos pero interna
+
+[02:00:55]
+pero a su vez tenemos todo este ciclo
+
+[02:00:58]
+todo este ciclo que este ciclo la
+
+[02:01:01]
+peculiaridad que tiene es que ya había
+
+[02:01:03]
+roto estas estructuras aquí a la alza
+
+[02:01:05]
+todo este ciclo verdad venimos manejando
+
+[02:01:08]
+todo ese ciclo ya había roto las
+
+[02:01:10]
+estructuras a la alza tenemos todo este
+
+[02:01:12]
+ciclo también a la baja tenemos un ciclo
+
+[02:01:15]
+puede ser alcista y ahora el precio va a
+
+[02:01:17]
+venir de nuevo a nuestra zona decisional
+
+[02:01:20]
+pero decisional de qué decisional de
+
+[02:01:23]
+todo el ciclo todo el ciclo Entonces
+
+[02:01:27]
+cuál es la zona más relevante decisional
+
+[02:01:29]
+esta efectivamente había sido igual si
+
+[02:01:32]
+ustedes se les dificulta pequeño tip que
+
+[02:01:34]
+pueden ir un gráfico más alto en este
+
+[02:01:36]
+gráfico diario en el gráfico diario ya
+
+[02:01:38]
+se va a encontrar un poquito más claro
+
+[02:01:40]
+los bloques de órdenes que quieren
+
+[02:01:43]
+ustedes trabajar y a partir de ahí que
+
+[02:01:45]
+el precio viene obtiene un nuevo
+
+[02:01:48]
+retroceso nuevo mínimo precio obtiene un
+
+[02:01:51]
+alto falla eh induce falla un poco bueno
+
+[02:01:55]
+tomo un poco de liquidez y fíjense que
+
+[02:01:58]
+me rompe las estructuras de hecho este
+
+[02:02:03]
+análisis que están viendo aquí o esta
+
+[02:02:05]
+estructura de Mercado yo lo estuve
+
+[02:02:07]
+interpretando en vivo todo este
+
+[02:02:09]
+movimiento en vivo en mi canal de
+
+[02:02:11]
+YouTube este canal de YouTube estuve
+
+[02:02:14]
+pasándolos en vivo también por Telegram
+
+[02:02:16]
+este movimiento último que tuvimos en el
+
+[02:02:18]
+euro dólar recientemente Entonces cuál
+
+[02:02:21]
+es la finalidad de esto es la usamos
+
+[02:02:24]
+para enfocarnos en la acción de precio y
+
+[02:02:26]
+fractales que queremos a trabajar ahora
+
+[02:02:28]
+sí a la hora de que yo quiero trabajar
+
+[02:02:30]
+yo ya conozco el contexto de lo que
+
+[02:02:33]
+venía siendo el precio y ahora quiero
+
+[02:02:35]
+centrarme En cuál va a ser la mayor
+
+[02:02:38]
+probabilidad en los próximos días en las
+
+[02:02:40]
+próximas horas las próximas semanas
+
+[02:02:43]
+quiero ahora centrarme en esa acción de
+
+[02:02:46]
+precio para esto es que voy a usar mi
+
+[02:02:48]
+mapeo de rangos lo identificar bajos y
+
+[02:02:51]
+altos que el precio puede tomar en un
+
+[02:02:53]
+futuro como identificarlos swing mapeo
+
+[02:02:56]
+para swing bajos y altos semanales y
+
+[02:02:58]
+mensuales principalmente mapeo para
+
+[02:03:01]
+intradía bajos y altos de sesiones y
+
+[02:03:04]
+diarios y para scalping bajos y altos de
+
+[02:03:06]
+sesiones lo mismo Aplica para los puntos
+
+[02:03:09]
+de interés Entonces por acá chicos tengo
+
+[02:03:13]
+también otro concepto que quería tocar
+
+[02:03:14]
+en esta clase y Ahorita les voy a hacer
+
+[02:03:18]
+ejemplos al final de la clase le voy a
+
+[02:03:21]
+hacer ejemplos de nuestro mapeo de
+
+[02:03:24]
+rangos Pero antes es importante entender
+
+[02:03:26]
+la manipulación stoph toma liquidez de
+
+[02:03:29]
+abajos y altos aproximadamente entre un
+
+[02:03:31]
+10 y un 30% después de un alto o un bajo
+
+[02:03:35]
+hay diferentes patrones de manipulación
+
+[02:03:37]
+Pero estos son los que más
+
+[02:03:38]
+frecuentemente yo utilizo que sería este
+
+[02:03:41]
+High este low el precio liqu este High
+
+[02:03:44]
+solamente me llega Entre 10 a 30% del
+
+[02:03:47]
+máximo este o sube más del 30% de este
+
+[02:03:51]
+máximo
+
+[02:03:52]
+y después cae igual tendríamos este low
+
+[02:03:55]
+este High el precio manipula al bajo
+
+[02:03:58]
+solamente me sube me baja perdón a
+
+[02:04:00]
+partir del 10 o el 30% luego tengo lo
+
+[02:04:03]
+que son patrones más un poquito más
+
+[02:04:06]
+avanzados como podría hacer este High
+
+[02:04:08]
+este low el prcio manipula rompe
+
+[02:04:10]
+estructura r testea y se va parecido a
+
+[02:04:13]
+un hombro cabeza hombro es un patrón de
+
+[02:04:15]
+manipulación institucional lo que
+
+[02:04:17]
+tenemos el precio me rompe aquí abajo
+
+[02:04:20]
+luego me rompe la ura arriba me reteste
+
+[02:04:23]
+y se va y luego que tenemos el último
+
+[02:04:25]
+punto parecido un triángulo de liquidez
+
+[02:04:28]
+el precio me rompe la estructura hacia
+
+[02:04:30]
+arriba me toma la liquidez viene hacia
+
+[02:04:32]
+abajo parece que el precio va a respetar
+
+[02:04:34]
+esta zona no la respeta induce y se va
+
+[02:04:37]
+para abajo por último tenemos este otro
+
+[02:04:40]
+patrón de manipulación que es el precio
+
+[02:04:42]
+se impulsa hacia arriba rompe hacia
+
+[02:04:44]
+abajo tomando esa liquidez falla en
+
+[02:04:46]
+hacer un nuevo alto falla abajo de nuevo
+
+[02:04:48]
+y se va para arriba al alza estos son
+
+[02:04:51]
+los drones más básicos de manipulación o
+
+[02:04:54]
+de stop h o de toma de liquidez para que
+
+[02:04:56]
+ustedes se los aprendan y puedan
+
+[02:04:58]
+identificar más fácil lo que son las
+
+[02:05:00]
+manipulaciones luego por último tenemos
+
+[02:05:02]
+el concepto de Rango por sesiones la
+
+[02:05:04]
+teoría nos indica que los bajos y los
+
+[02:05:06]
+altos de las sesiones serán puntos de
+
+[02:05:07]
+liquidez donde el precio será propenso a
+
+[02:05:10]
+manipular por eso es importante
+
+[02:05:12]
+estudiarlos y tomarlos en cuenta sobre
+
+[02:05:14]
+todo para operativas intradía o scalping
+
+[02:05:17]
+muy fácil Siempre vamos a estar
+
+[02:05:19]
+vigilando sobre todo los intradía o los
+
+[02:05:21]
+scalper bajos y altos de Asia en este
+
+[02:05:24]
+caso el low asiático el High asiático
+
+[02:05:26]
+luego que tenemos tenemos el bajo que es
+
+[02:05:30]
+tomado por Londres el bajo de Asia es
+
+[02:05:32]
+tomado por Londres lo después de que eh
+
+[02:05:34]
+Londres toma ese bajo deja este punto de
+
+[02:05:37]
+aquí el precio que hace el precio venir
+
+[02:05:39]
+hacia arriba a tomar el alto de Londres
+
+[02:05:42]
+inclusive puede volver a tomar el alto
+
+[02:05:44]
+de Asia y a partir de ahí se revierte y
+
+[02:05:46]
+tomar de nuevo el bajo que había dejado
+
+[02:05:48]
+Londres de esta manera funcionaría más o
+
+[02:05:51]
+menos no va a ser siempre igual pero
+
+[02:05:54]
+siempre tomen en cuenta los bajos y los
+
+[02:05:56]
+altos asiáticos de Londres y de Nueva
+
+[02:05:58]
+York sobre todo personas que tradean
+
+[02:06:00]
+scalper o que tradean más intradía no la
+
+[02:06:03]
+importancia de las temporalidades muchas
+
+[02:06:05]
+personas por eso se confunden por eso no
+
+[02:06:08]
+saben lo que el precio hace porque
+
+[02:06:10]
+realmente no están entendiendo bien las
+
+[02:06:12]
+temporalidades Entonces vamos con la
+
+[02:06:14]
+teoría los marcos de tiempo temporales
+
+[02:06:16]
+Time frame intradiario intradía
+
+[02:06:18]
+operaciones que se abren y se cierran el
+
+[02:06:20]
+mismo día incluyen scalping minutos y
+
+[02:06:22]
+Day trading horas entonces bien
+
+[02:06:25]
+importante entender qué es lo que quiero
+
+[02:06:28]
+tradear yo Qué es en lo que me quiero
+
+[02:06:30]
+centrar desde ahí voy a ir al marco
+
+[02:06:32]
+temporal adecuado a poder operar corto
+
+[02:06:35]
+plazo operaciones que duran desde un par
+
+[02:06:37]
+de días hasta semanas medano plazo
+
+[02:06:40]
+operaciones que se mantienen abiertas
+
+[02:06:42]
+durante semanas o meses un largo plazo
+
+[02:06:45]
+operaciones que se mantienen abiertas
+
+[02:06:47]
+durante meses o años típicas de
+
+[02:06:49]
+inversión a largo plazo ahora la
+
+[02:06:51]
+simplificación que yo voy a utilizar
+
+[02:06:53]
+para poder entender cada una de estas
+
+[02:06:55]
+temporalidades va a ser la siguiente
+
+[02:06:58]
+tengo un intradiario que va a ser
+
+[02:07:00]
+intradía voy a centrarme en h1 para la
+
+[02:07:03]
+tendencia en m15 para un patrón de
+
+[02:07:05]
+entrada y en un m5 para un refine no
+
+[02:07:08]
+quiere decir que exactamente tú lo
+
+[02:07:09]
+tengas que hacer así pero lo que
+
+[02:07:11]
+tratamos es de simplificar lo más
+
+[02:07:13]
+posible nuestro trading y no estarnos
+
+[02:07:15]
+revolviendo con tantas cosas entonces
+
+[02:07:19]
+scalping m15 tendencia m5 patrón y M1
+
+[02:07:23]
+nuestro refine de nuestra entrada un
+
+[02:07:26]
+corto plazo operaciones que duran un par
+
+[02:07:27]
+de días hasta semanas tendencia puede
+
+[02:07:30]
+ser lo que yo hago tendencia en diario 4
+
+[02:07:32]
+horas patrón en h4 h2 refin en h1 Y m30
+
+[02:07:36]
+eso es básicamente lo que yo hago
+
+[02:07:38]
+operaciones que duran entre 2 3 4 días
+
+[02:07:42]
+mediano plazo ya son operaciones ya más
+
+[02:07:43]
+de swing que son tendencia en en semanal
+
+[02:07:46]
+patrón en diario y refine en 4 horas un
+
+[02:07:49]
+largo plazo tenemos operaciones que se
+
+[02:07:51]
+mantienen abiertas durante meses o años
+
+[02:07:54]
+la tendencia vamos a identificarla
+
+[02:07:55]
+principalmente en mensual eh refine O
+
+[02:07:59]
+Nuestro patrón de entrada va a ser en
+
+[02:08:00]
+ese en semanal y nuestro refine en
+
+[02:08:02]
+diario ver esto es un poquito la
+
+[02:08:04]
+simplificación de las temporalidades y
+
+[02:08:06]
+ahora vamos a pasar un poquito más con
+
+[02:08:08]
+la teoría multitemporal Dad vamos a
+
+[02:08:11]
+utilizar la multit temporalidad o qué es
+
+[02:08:13]
+para poder entender nuestra
+
+[02:08:15]
+temporalidades un poquito mejor el
+
+[02:08:17]
+análisis multitemporal o multiple Time
+
+[02:08:20]
+frame análisis consiste en analizar un
+
+[02:08:22]
+activo en diferentes Marcos temporales
+
+[02:08:24]
+para obtener una visión más completa por
+
+[02:08:26]
+ejemplo un Trader puede analizar una
+
+[02:08:28]
+acción en gráficos diarios para la
+
+[02:08:30]
+tendencia principal en gráficos horarios
+
+[02:08:32]
+para puntos de entrada y en gráficos de
+
+[02:08:34]
+15 minutos para el momento exacto de la
+
+[02:08:36]
+operación básicamente eso es lo que
+
+[02:08:37]
+vamos a estar haciendo a la hora de
+
+[02:08:39]
+nosotros tener nuestra operativa para
+
+[02:08:41]
+tener una mejor probabilidad de tener
+
+[02:08:44]
+una mejor probabilidad de unas
+
+[02:08:45]
+operaciones ganadoras simplificación
+
+[02:08:48]
+tendencia temporalidad donde vas a
+
+[02:08:50]
+buscar tus fractales a a trabajar y es
+
+[02:08:52]
+donde termina el ciclo actual a A qué
+
+[02:08:55]
+puntos de giro estamos Y dónde está el
+
+[02:08:57]
+precio y De dónde viene nuestro patrón
+
+[02:08:59]
+va a ser es la temporalidad donde
+
+[02:09:01]
+buscaremos un fractal inmediato y donde
+
+[02:09:03]
+vas a te vas a poder aprovechar del
+
+[02:09:05]
+siguiente movimiento en este caso
+
+[02:09:06]
+nuestro motivo número dos han visto eso
+
+[02:09:11]
+recomiendo que vean cada una de las
+
+[02:09:12]
+clases que hemos tenido No se pierdan
+
+[02:09:14]
+ninguna de las clases es importante para
+
+[02:09:16]
+poder obtener un análisis o una mentoría
+
+[02:09:20]
+bien tienen que ver cada uno de los
+
+[02:09:22]
+videos nuestro refine es la temporalidad
+
+[02:09:25]
+donde vas a tratar de buscar el mejor
+
+[02:09:27]
+punto de entrada Bueno aquí tenemos
+
+[02:09:30]
+ejemplo de multit temporalidad
+
+[02:09:32]
+básicamente podríamos poner cualquier
+
+[02:09:34]
+temporalidad alta que ustedes quieran va
+
+[02:09:36]
+a ser nuestra tendencia impulso
+
+[02:09:38]
+retroceso impulso retroceso una
+
+[02:09:40]
+tendencia clásica Ese es el último
+
+[02:09:42]
+fractal que yo decido trabajar Gustavo
+
+[02:09:44]
+el precio espero un retroceso y me monto
+
+[02:09:47]
+a la alza dónde va a estar mi patrón de
+
+[02:09:49]
+entrada pues va a ser en una
+
+[02:09:50]
+temporalidad me menor por ejemplo h1 los
+
+[02:09:53]
+los intr diarios m15 para nuestro patrón
+
+[02:09:57]
+de entrada y ya refine vamos a buscarlo
+
+[02:09:59]
+en m5 o en M1 puede ser donde vamos a
+
+[02:10:02]
+encontrar el cambio estructural primario
+
+[02:10:05]
+que nos dé nuestra entrada simplemente
+
+[02:10:08]
+es así como funciona tres temporalidades
+
+[02:10:10]
+nos centramos y podemos simplificar
+
+[02:10:12]
+mucho más nuestro trading ya por último
+
+[02:10:15]
+la teoría básica o la gestión del riesgo
+
+[02:10:17]
+en lo que es la multitemporal En qué nos
+
+[02:10:20]
+afecta la gestión de riesgo y la
+
+[02:10:22]
+psicología un poquito para estar
+
+[02:10:23]
+reforzando todos estos puntos la
+
+[02:10:25]
+temporalidad afecta la gestión del
+
+[02:10:27]
+riesgo en marcos de temporales más
+
+[02:10:29]
+cortos se tiende a usar stop bloss más
+
+[02:10:31]
+ajustados mientras que en Marcos
+
+[02:10:33]
+temporales más largos los stop pueden
+
+[02:10:34]
+ser más amplios debido a una mayor
+
+[02:10:36]
+volatil psicología del trading en el
+
+[02:10:38]
+marco temporal también afecta la
+
+[02:10:39]
+psicología del Trader operar en Marcos
+
+[02:10:42]
+muy cortos puede ser estresante y
+
+[02:10:43]
+demandar muchísima atención mientras que
+
+[02:10:46]
+operar en marcos de tiempo más largos
+
+[02:10:48]
+puede requerir más paciencia y
+
+[02:10:49]
+tolerancia a las fluct ion del mercado
+
+[02:10:52]
+Esto es para ver pros y contras de
+
+[02:10:54]
+operar en temporalidades altas y
+
+[02:10:55]
+temporalidades menores para ver cuáles
+
+[02:10:57]
+son las fortalezas y las debilidades de
+
+[02:11:00]
+tu operativa tienes que conocerlas para
+
+[02:11:02]
+que tú puedas tener mejor probabilidad
+
+[02:11:05]
+en tus operaciones para puedas tener
+
+[02:11:07]
+tranquilidad a la hora de operar
+
+[02:11:09]
+comprender y utilizar adecuadamente los
+
+[02:11:11]
+diferentes Marcos temporales es esencial
+
+[02:11:13]
+para desarrollar una estrategia de
+
+[02:11:15]
+trading efectiva y adaptada a las
+
+[02:11:17]
+preferencias personales y objetivos
+
+[02:11:19]
+financieros de cada uno de los TR bien
+
+[02:11:21]
+importante esto chicos de la
+
+[02:11:23]
+temporalidad no lo pasen por alto no lo
+
+[02:11:25]
+dejen por alto es importante comprender
+
+[02:11:27]
+esto véanse la clase las veces que sean
+
+[02:11:30]
+necesarias y entiendan muy bien cada una
+
+[02:11:33]
+de las temporalidades estén enfocados en
+
+[02:11:35]
+el estilo en la temporalidad que ustedes
+
+[02:11:37]
+van a estar tradeando para que no haya
+
+[02:11:40]
+problemas en un futuro y empiecen a
+
+[02:11:42]
+formar un buen plan el objetivo es crear
+
+[02:11:44]
+un mapa para poder trabajar en
+
+[02:11:45]
+operaciones tipo scalping de corto plazo
+
+[02:11:48]
+aprender a identificar fractales o zonas
+
+[02:11:51]
+de de interés y formas de trabajo
+
+[02:11:52]
+nuestros pasos van a ser m15 tendencia
+
+[02:11:55]
+m5 patrón patrón y M1 refine básicamente
+
+[02:12:01]
+es así de sencillo vamos a identificar
+
+[02:12:03]
+tendencia vamos a identificar un patrón
+
+[02:12:06]
+de entrada y nuestro refine y ya está
+
+[02:12:09]
+van a ser operaciones de scalping
+
+[02:12:11]
+operaciones que duran muy poco tiempo
+
+[02:12:14]
+Entonces vamos allá tendencia gráficos
+
+[02:12:17]
+de m15 buscar la dirección inmediata los
+
+[02:12:19]
+fractales Y a partir de ahí revisar ya
+
+[02:12:21]
+altos y bajos de sesiones en este sí es
+
+[02:12:23]
+importante revisar bajos y altos de
+
+[02:12:25]
+sesiones además de su estructura
+
+[02:12:27]
+principal el patrón en m5 vamos a buscar
+
+[02:12:30]
+el fractal a trabajar y la zona de
+
+[02:12:31]
+entrada a favor de la dirección
+
+[02:12:33]
+encontrada previamente también medir el
+
+[02:12:35]
+tamaño de la zona en M1 vamos a buscar
+
+[02:12:38]
+un patrón de estructural de cambio y
+
+[02:12:41]
+entrar básicamente es así de sencillo
+
+[02:12:45]
+luego pasos de estrategia de scalping
+
+[02:12:47]
+Pues aquí tenemos los pasos paso número
+
+[02:12:50]
+uno no tendencia nuestra tendencia en
+
+[02:12:53]
+m15 es alcis luego después un retroceso
+
+[02:12:56]
+en m5 llegando a ese punto de interés de
+
+[02:12:59]
+la tendencia de 15 minutos el punto de
+
+[02:13:02]
+interés lo vamos a identificar en 15
+
+[02:13:03]
+minutos y en nuestro último fractal de
+
+[02:13:06]
+m5 vamos a buscar nuestra entrada o
+
+[02:13:08]
+nuestro primer
+
+[02:13:09]
+eh motivo nuestro segundo motivo perdón
+
+[02:13:12]
+de nuestro primer motivo y en eh la
+
+[02:13:15]
+temporalidad menor de M1 en este caso
+
+[02:13:17]
+vamos a buscar un refine para tener un
+
+[02:13:19]
+stop block más pequeño todavía poder
+
+[02:13:21]
+tener una mejor entrada por último
+
+[02:13:24]
+tenemos recomendaciones mejores horarios
+
+[02:13:26]
+para scalping suele ser aperturas de
+
+[02:13:28]
+Nueva York y Londres operar en futuros
+
+[02:13:30]
+es mejor porque no tenemos deslizamiento
+
+[02:13:32]
+ni Express eso son recomendaciones para
+
+[02:13:34]
+los scalpers para hacer scalping es
+
+[02:13:37]
+importante estar atento porque el precio
+
+[02:13:38]
+suele moverse rápido y tienen que estar
+
+[02:13:41]
+muy muy pegados ahí a la pantalla porque
+
+[02:13:43]
+al hacer scalping Pues el precio se va
+
+[02:13:45]
+rápido mueve muy rápido las entradas de
+
+[02:13:48]
+los scarp 3 4 minutos C minutos 10
+
+[02:13:51]
+minutos como máximo eh un scalper que
+
+[02:13:54]
+dura mucho son 20 minutos en conclusión
+
+[02:13:57]
+esperar su entrada ejecutar rápido sus
+
+[02:13:59]
+targets de acuerdo a su fatalidad y sea
+
+[02:14:02]
+preciso para ser scalper sí tenemos que
+
+[02:14:04]
+tener un punto de entrada más preciso y
+
+[02:14:07]
+Ahorita les voy a enseñar cómo vamos a
+
+[02:14:08]
+estar trabajando Bueno chicos empezamos
+
+[02:14:10]
+con nuestro mapeo en este caso de 15
+
+[02:14:13]
+minutos vamos a estudiar 15 minutos para
+
+[02:14:16]
+ver qué operaciones pudimos haber
+
+[02:14:18]
+obtenido y para hacerles ejemplos de lo
+
+[02:14:21]
+que son tipos de mapeos por scalping
+
+[02:14:23]
+verdad o cómo vamos a estar trabajando
+
+[02:14:26]
+en un mapa para scalping Entonces vamos
+
+[02:14:28]
+a simular que nosotros pudimos haber
+
+[02:14:29]
+tomado una entrada el jueves 27 de junio
+
+[02:14:34]
+del 2024 esta entrada se dio en Londres
+
+[02:14:38]
+sesión de Londres también vamos a ubicar
+
+[02:14:41]
+eh nuestros puntos altos de lo que es la
+
+[02:14:45]
+sesión asiática aquí tenemos el punto
+
+[02:14:47]
+alto de la sesión asiática y podemos
+
+[02:14:50]
+identificar también altos y bajos del
+
+[02:14:52]
+día aunque no es tan relevante pero
+
+[02:14:54]
+simplemente nos vamos a quedar con el
+
+[02:14:55]
+rango asiático este fue nuestro último
+
+[02:14:58]
+Rango asiático y ya ustedes lo pueden ir
+
+[02:15:02]
+comprobando hay muchísimos indicadores
+
+[02:15:04]
+que te dicen esto entonces cualquier
+
+[02:15:06]
+indicador te puede valer que te muestre
+
+[02:15:08]
+las sesiones operativas el más frecuente
+
+[02:15:11]
+o el que más bueno se me hace es el
+
+[02:15:14]
+asian session Range este lo puedes poner
+
+[02:15:17]
+aquí
+
+[02:15:18]
+as session Range y es el que más yo
+
+[02:15:21]
+podría utilizar para eso no vamos a
+
+[02:15:23]
+utilizar eso para que no se me confundan
+
+[02:15:25]
+Pero simplemente ubiquen los altos y los
+
+[02:15:28]
+bajos bajos asiáticos de Londres o de
+
+[02:15:30]
+Nueva York en este caso vamos a usar
+
+[02:15:32]
+pura estructura de mercado para que
+
+[02:15:33]
+ustedes tengan más claridad entonces
+
+[02:15:35]
+Este es mi último punto bajo estamos en
+
+[02:15:38]
+15 minutos mapeando estamos a punto de
+
+[02:15:41]
+tener un contexto donde podíamos tener
+
+[02:15:43]
+mejor entrada peor entrada siempre
+
+[02:15:45]
+teniendo cu en cuenta nuestras zonas
+
+[02:15:47]
+impulso retroceso yaad tenemos acá un
+
+[02:15:51]
+nuevo máximo Este es el nuevo último
+
+[02:15:52]
+nuevo mínimo relevante Este es un
+
+[02:15:54]
+quiebre de estructura Este es mi
+
+[02:15:56]
+decisional y este es mi último punto
+
+[02:15:58]
+entonces a partir de ahí tenemos
+
+[02:16:00]
+decisional y extremo de nuestra
+
+[02:16:02]
+estructura entonces este sería el ciclo
+
+[02:16:05]
+o fractalidad que vamos a trabajar
+
+[02:16:08]
+después vamos a validar nuestro punto de
+
+[02:16:11]
+interés nuestra liquidez fíjense que
+
+[02:16:13]
+teníamos liquidez acá dos bajos iguales
+
+[02:16:15]
+el decisional tenía dos bajos iguales eh
+
+[02:16:18]
+Y a partir de ahí tienen ustedes que
+
+[02:16:21]
+tener exactamente bien refinado el punto
+
+[02:16:23]
+de interés mucha gente enseña no que
+
+[02:16:25]
+tienes que refinar el blo el punto
+
+[02:16:27]
+Exacto la verdad que no Simplemente
+
+[02:16:30]
+entendiendo que este era mi último
+
+[02:16:31]
+bloque relevante de de ahí a partir de
+
+[02:16:35]
+ahí ya podemos obtener nosotros una
+
+[02:16:37]
+mayor Claridad en el precio ahora lo que
+
+[02:16:40]
+vamos a pasar es a ir a m5 para ver un
+
+[02:16:43]
+patrón de entrada y luego vamos a ir a
+
+[02:16:45]
+M1 para obtener todavía mejor
+
+[02:16:48]
+probabilidad
+
+[02:16:55]
+Bueno chicos ahora Estamos en m5 en m5
+
+[02:16:58]
+ustedes ya lo pueden ir a ver más claro
+
+[02:17:00]
+fíjense que teníamos un punto de interés
+
+[02:17:02]
+que tenía dos bajos iguales que es
+
+[02:17:05]
+cierto que era el decisional Pero tenía
+
+[02:17:07]
+dos bajos iguales era liquidez Y a
+
+[02:17:09]
+partir de ahí ya pueden ustedes tener
+
+[02:17:11]
+toda esta zona de interés debajito de la
+
+[02:17:14]
+liquidez y fíjense justo debajo de la
+
+[02:17:15]
+liquidez se da nuestra entrada ahora qué
+
+[02:17:19]
+procede Gustavo cómo vamos a llegar a
+
+[02:17:21]
+tomar nuestra entrada pues muy fácil
+
+[02:17:23]
+vamos a buscar el cambio estructural en
+
+[02:17:26]
+este caso nos podemos bajar M1 inclusive
+
+[02:17:28]
+te podrías quedar en m5 pero vamos a
+
+[02:17:31]
+hacer el ejemplo con M1 para que todavía
+
+[02:17:33]
+tengas una mayor entrada te voy a decir
+
+[02:17:36]
+dónde podrías haber gatillado Y dónde
+
+[02:17:38]
+vas a tener las mejores probabilidades
+
+[02:17:39]
+Bueno chicos finalmente me quedé en 3
+
+[02:17:41]
+minutos y aquí en este gráfico de 3
+
+[02:17:44]
+minutos les digo desde m5 se puede puede
+
+[02:17:46]
+ser m5 M1 m3 m2 donde tú te sientas más
+
+[02:17:49]
+cómodo realmente Esto no es tan
+
+[02:17:51]
+importante pero eh vamos a estudiar
+
+[02:17:54]
+nuestra acción de precio fíjense que el
+
+[02:17:55]
+precio llega ya no puede hacer uno
+
+[02:17:57]
+mínimo aquí lo primero que tienes que
+
+[02:17:59]
+notar llega al punto inter y te detiene
+
+[02:18:02]
+mucha gente me dice Cómo sé que el punto
+
+[02:18:04]
+inter va a ser respetado Okay llega el
+
+[02:18:07]
+precio y se detiene fácil como eso lo
+
+[02:18:10]
+después ves cambios de estructura y me
+
+[02:18:14]
+dices Gustavo aquí podíamos haber
+
+[02:18:16]
+entrado Sí esta es la primera entrada
+
+[02:18:19]
+por riesgo en este caso yo la dejaría
+
+[02:18:22]
+impulso retroceso impulso y aquí tengo
+
+[02:18:25]
+una entrada por riesgo aquí podrías
+
+[02:18:27]
+haber entrado por riesgo esta es tu
+
+[02:18:29]
+primera entrada de riesgo pero ojo esto
+
+[02:18:33]
+que está aquí es lo que yo llamo entrar
+
+[02:18:36]
+cuando apenas el movimiento se está
+
+[02:18:38]
+originando cuando está empezando a
+
+[02:18:40]
+originarse el movimiento Pero si tú
+
+[02:18:43]
+quieres entrar un poquito mejor tienes
+
+[02:18:46]
+que esperar la corrección de los ciclos
+
+[02:18:49]
+pequeños Cuáles son los ciclos pequeños
+
+[02:18:52]
+siempre en un movimiento van a ver sus
+
+[02:18:54]
+ciclos pequeños entras en esos ciclos
+
+[02:18:56]
+pequeños tú eso se va a significar que
+
+[02:18:59]
+vas a entrar una entrada por más riesgo
+
+[02:19:01]
+estás entrando en estos retrocesos tan
+
+[02:19:04]
+pequeñitos del precio estos pueden ser
+
+[02:19:07]
+los primeros que van a ser los
+
+[02:19:10]
+primeritos que van a A qué a empezar a
+
+[02:19:15]
+cambiar en el precio pero tú puedes
+
+[02:19:17]
+esperar todo este ciclo la reción de ese
+
+[02:19:21]
+ciclo un fallo de estructura una toma de
+
+[02:19:24]
+liquidez puede ser aquí toma de liquidez
+
+[02:19:26]
+en este caso falla la estructura y en
+
+[02:19:29]
+ese segundo corrección de ese ciclo es
+
+[02:19:31]
+que puedes tener otras oportunidades de
+
+[02:19:35]
+entrada son formas diferentes entrar o
+
+[02:19:38]
+si te quieras esperar a toda la
+
+[02:19:42]
+formación de la siguiente ruptura de ese
+
+[02:19:44]
+ciclo puedes también hacerlo aquí está
+
+[02:19:46]
+la siguiente ruptura entonces primer
+
+[02:19:49]
+motivo de entrada de riesgo en estos
+
+[02:19:51]
+primeros pequeños ciclos chiquititos o
+
+[02:19:54]
+la corrección del siguiente ciclo dónde
+
+[02:19:56]
+entre Gustavo en la corrección del
+
+[02:19:57]
+siguiente ciclo aquí ruptura de
+
+[02:19:59]
+estructura el precio no logra hacer un
+
+[02:20:02]
+nuevo mínimo se va a la alza puedes
+
+[02:20:03]
+entrar la ruptura de la estructura o en
+
+[02:20:05]
+el siguiente testeo en este siguiente
+
+[02:20:08]
+testeo ahí te podrías haber montado a la
+
+[02:20:10]
+alza así de sencillo o podrías haber
+
+[02:20:13]
+esperado que el precio te diera una
+
+[02:20:15]
+mayor seguridad rompiendo esa estructura
+
+[02:20:18]
+y en el siguiente retroceso te montas
+
+[02:20:20]
+Este ejemplo vamos a tener este low este
+
+[02:20:23]
+nuevo higher High y el siguiente
+
+[02:20:25]
+retroceso te puedes llegar a montar aquí
+
+[02:20:28]
+por ejemplo vas a poderte ver el precio
+
+[02:20:31]
+retrocede y aquí en este siguiente
+
+[02:20:33]
+retroceso te puedes llegar a montar
+
+[02:20:35]
+exactamente como Gustavo Pues fíjate que
+
+[02:20:38]
+aquí lo que tienes que hacer es medir
+
+[02:20:39]
+este ciclo pequeñito llevamos este ciclo
+
+[02:20:42]
+impulso retroceso Y a partir de ahí
+
+[02:20:44]
+fíjense que aplicamos de nuevo nuestra
+
+[02:20:46]
+teoría de Premium y descuento de este
+
+[02:20:49]
+fractal pequeñito en cuanto el precio se
+
+[02:20:51]
+meta a una zona de descuento ya tú te
+
+[02:20:53]
+puedes montar a la alza inclusive aquí
+
+[02:20:55]
+de nuevo rompe de nuevo la estructura y
+
+[02:20:57]
+te da otra motivo de entrada o otra
+
+[02:21:00]
+entrada por acá por si se te pasó o lo
+
+[02:21:02]
+que sea y nuestro Target Por ejemplo yo
+
+[02:21:05]
+haya entrado ahí en el 50% de esa
+
+[02:21:07]
+posición hubiera puesto el Stop loss por
+
+[02:21:10]
+debajo de este nuevo mínimo o de este
+
+[02:21:12]
+mínimo que no tiene que haberse roto o
+
+[02:21:14]
+que en teoría no tenía que haberse roto
+
+[02:21:16]
+esto es una posición en scarper chicos y
+
+[02:21:20]
+podríamos haber salido Primero aquí pero
+
+[02:21:23]
+es un ratio bastante pequeño o yo de
+
+[02:21:26]
+preferencia Hubiera salido en el alto
+
+[02:21:28]
+asiático en este higher High es una
+
+[02:21:30]
+posición un 1 a 2.89 bastante bonita
+
+[02:21:34]
+hermosa una posición de scalpy rápido o
+
+[02:21:38]
+también podrías haber esperado que el
+
+[02:21:40]
+precio eh te diera un 1 a dos o un uno a
+
+[02:21:46]
+uno o si querías haber aguantado hasta
+
+[02:21:48]
+el un a tres pues un poquito ya más
+
+[02:21:50]
+lejos pero yo recomiendo ratios pequeños
+
+[02:21:54]
+no ocupas demasiado un uno a dos un uno
+
+[02:21:56]
+a tres o hasta esta liquidez del Rango
+
+[02:21:59]
+asiático está bastante bien primero para
+
+[02:22:01]
+mapeo intradía tenemos como objetivo
+
+[02:22:03]
+crear un mapa para poder trabajar en
+
+[02:22:05]
+operaciones intradiarias de corto a
+
+[02:22:07]
+mediano plazo a identificar nuestros
+
+[02:22:09]
+fractales zonas estructura puntos de
+
+[02:22:12]
+interés liquidez y formas de trabajo
+
+[02:22:14]
+nuestros pasos van a ser muy muy muy
+
+[02:22:17]
+pero muy sencillos en h1 lo vamos a usar
+
+[02:22:20]
+para la la tendencia esto simplificando
+
+[02:22:22]
+acuérdense que ustedes de esto es
+
+[02:22:25]
+simplificar no quiere decir que tenga
+
+[02:22:27]
+que ser exactamente así pero yo lo
+
+[02:22:28]
+simplifico para que puedan tener un
+
+[02:22:30]
+trading más sencillo en m15 nuestro
+
+[02:22:32]
+patrón de entrada y en m5 Puedes refinar
+
+[02:22:36]
+puedes refinar también un poco más pero
+
+[02:22:37]
+con m5 está bastante luego vamos a
+
+[02:22:40]
+identificar lo que es tendencia gráficos
+
+[02:22:43]
+de h1 Busca la dirección inmediata los
+
+[02:22:45]
+fractales y aparte de revisar y altos y
+
+[02:22:47]
+bajos semanales y diarios gráfic de h1
+
+[02:22:51]
+vamos a buscar la dirección inmediata de
+
+[02:22:52]
+los fractales Y a partir de ahí revisar
+
+[02:22:54]
+altos y bajos de las sesiones y además
+
+[02:22:56]
+los bajos y altos diarios van a ser
+
+[02:22:58]
+importantes en m15 vas a buscar tu
+
+[02:23:00]
+patrón de entrada vas a buscar el
+
+[02:23:02]
+fractal a trabajar la zona de entrada a
+
+[02:23:04]
+favor de la dirección encontrada
+
+[02:23:05]
+previamente y también medir el tamaño de
+
+[02:23:07]
+la zona m5 vas a buscar el patrón de
+
+[02:23:09]
+cambio estructural y vas a a entrar aquí
+
+[02:23:12]
+tengo el ejemplo igual como el ejemplo
+
+[02:23:14]
+de
+
+[02:23:15]
+eh scarpin tendencia en h1 tenemos un
+
+[02:23:18]
+fractal alcista aquí diamos eso ficamos
+
+[02:23:21]
+un retroceso identificamos qué
+
+[02:23:24]
+identificamos este punto de acá como
+
+[02:23:27]
+nuestro patrón de entrada refiramos en
+
+[02:23:28]
+m5 y buscamos nuestra entrada es pasos
+
+[02:23:32]
+muy sencillitos que ustedes ahorita van
+
+[02:23:34]
+a ver pero antes tenemos recomendaciones
+
+[02:23:36]
+finales para la gente que quiera hacer
+
+[02:23:37]
+intradía mejores horarios van a ser
+
+[02:23:39]
+Nueva York y Londres aperturas y cierres
+
+[02:23:42]
+Rango asiático manipulación después del
+
+[02:23:44]
+Open de Londres también es bastante
+
+[02:23:46]
+bueno estar atento a los horarios de
+
+[02:23:48]
+apertura y cierre y además a las
+
+[02:23:49]
+noticias que coinciden bien con estos
+
+[02:23:50]
+horarios atento a las manipulaciones
+
+[02:23:52]
+intradiarias conclusión esperar su
+
+[02:23:55]
+entrada ejecutar rápido sus targets de
+
+[02:23:57]
+acuerdo a su fractalidad y sea preciso
+
+[02:24:00]
+Bueno chicos en este caso vamos a
+
+[02:24:01]
+empezar con nuestra temporalidad de h1
+
+[02:24:04]
+en donde vamos a identificar la
+
+[02:24:05]
+estructura la tendencia vamos a
+
+[02:24:07]
+identificar también un poco el contexto
+
+[02:24:09]
+y les voy a decir cóm Ustedes Podrían
+
+[02:24:11]
+haber tenido una operación intr diaria
+
+[02:24:13]
+verdad en este caso gráfico del eurod
+
+[02:24:15]
+dólar y vamos a ver una operación de
+
+[02:24:18]
+hecho que es un análisis que yo más de
+
+[02:24:20]
+en vivo ya antes de que sucediera
+
+[02:24:23]
+Entonces vamos a trabajar en este caso
+
+[02:24:25]
+este fractal supongamos que nosotros
+
+[02:24:27]
+tuvimos una entrada el día martes en el
+
+[02:24:30]
+horario de Londres más o menos después
+
+[02:24:32]
+de la apertura de Londres el día martes
+
+[02:24:35]
+tuvimos ese horario ahí identificamos
+
+[02:24:38]
+nuestra estructura fíjense que ahí
+
+[02:24:40]
+tenemos un cambio Ya estructural de este
+
+[02:24:42]
+punto importante no más necesitamos ese
+
+[02:24:44]
+contexto Este es el último fractal
+
+[02:24:46]
+relevante en este caso este también es
+
+[02:24:49]
+un bajo un alto último retroceso
+
+[02:24:51]
+relevante Y ese es el fractal que vamos
+
+[02:24:53]
+a estar trabajando a partir de ahí
+
+[02:24:55]
+también podemos identificar altos y
+
+[02:24:57]
+bajos diarios también fíjense que este
+
+[02:25:00]
+punto de acá es un alto diario
+
+[02:25:02]
+identificamos también el bajo diario en
+
+[02:25:04]
+este caso para para mapear un poquito
+
+[02:25:06]
+mejor lo diario en este caso aquí yo
+
+[02:25:09]
+siempre lo marco así de esta forma de
+
+[02:25:11]
+uno puede ser de uno bajo diario eh
+
+[02:25:15]
+Aunque a mí me gusta que esté un poquito
+
+[02:25:16]
+más tenue para que no sea tan tan
+
+[02:25:21]
+molesto aquí por ejemplo identificamos
+
+[02:25:24]
+el High diario que este era nuestro
+
+[02:25:26]
+último High también ahí y vamos a
+
+[02:25:29]
+nuestra temporalidad que estamos en h1
+
+[02:25:31]
+en h1 ya identificamos Oh Gustavo ahí
+
+[02:25:33]
+tienes un alto diario tienes un bajo
+
+[02:25:35]
+diario también podías ser identificado
+
+[02:25:37]
+los bajos y altos de Londres Aunque de
+
+[02:25:40]
+Londres de de Asia Aunque aquí tampoco
+
+[02:25:42]
+es tan importante hacerlo verdad Pero
+
+[02:25:45]
+siempre ayuda a tener mejores
+
+[02:25:46]
+confluencias a partir de ahí Gustavo
+
+[02:25:49]
+vamos a estar identificando bueno la
+
+[02:25:50]
+toma de liquidez de este bajo diario era
+
+[02:25:52]
+bastante importante el bloque el order
+
+[02:25:55]
+block o la zona decisional exactamente
+
+[02:25:57]
+vamos a estar identificándolas qué
+
+[02:25:59]
+hacemos también entonces poner nuestro
+
+[02:26:01]
+fibonacci que nos ayude a ver una zona
+
+[02:26:04]
+de Premium o de descuento Bueno chicos a
+
+[02:26:06]
+partir de ahí tenemos nuestra zona de
+
+[02:26:08]
+descuento de Premium ya puesta ahí
+
+[02:26:10]
+fíjense de todo este fractal Esto es lo
+
+[02:26:12]
+que vamos a trabajar fíjense que nos
+
+[02:26:14]
+Cómo no cómo nos sirve esto para
+
+[02:26:16]
+podernos centrar enfocarnos lo que
+
+[02:26:18]
+quiero estar trabajando ya ya me olvido
+
+[02:26:20]
+de todo lo que pasó acá sí puedo tener
+
+[02:26:23]
+un contexto de lo que pasó últimamente
+
+[02:26:25]
+pero me olvido y me centro en lo que
+
+[02:26:27]
+quiero trabajar Estoy en temporalidad h1
+
+[02:26:30]
+identificando todo el contexto del
+
+[02:26:31]
+precio fíjense que aquí cuando cierra el
+
+[02:26:34]
+día lunes cierra con este bajo y luego
+
+[02:26:36]
+en la sesión asiática deja este último
+
+[02:26:39]
+alto y aparte de que cierra Este es el
+
+[02:26:41]
+alto en la sesión asiática perdón el
+
+[02:26:43]
+bajo en la sesión asiática retrocede un
+
+[02:26:46]
+poco ya estábamos en una zona de compras
+
+[02:26:47]
+de Gustavo pero no ten teníamos todavía
+
+[02:26:51]
+la toma de liquidez de este último
+
+[02:26:53]
+mínimo verdad Entonces a partir de ahí
+
+[02:26:55]
+nosotros vamos a identificar un cambio
+
+[02:26:57]
+estructural en toda esta área de aquí
+
+[02:27:00]
+pero ya la zona decisional Ya la voy a
+
+[02:27:03]
+estar refinando porque yo tengo todo
+
+[02:27:05]
+como to zona como zona importante toda
+
+[02:27:09]
+esta área de aquí como zona importante
+
+[02:27:10]
+yo tenía verad pero ya me voy a estar
+
+[02:27:13]
+pasándome temporalidad 15 minutos para
+
+[02:27:15]
+tener un poquito más del contexto un
+
+[02:27:17]
+poquito más de refine en la estructura y
+
+[02:27:19]
+Buscar mi segundo motivo fíjense que
+
+[02:27:21]
+algo importante que podemos notar y que
+
+[02:27:24]
+tú puedes decir es esto que está aquí
+
+[02:27:27]
+pulso retroceso fallo de la estructura y
+
+[02:27:30]
+nuevo alto Okay Gustavo cambia la
+
+[02:27:32]
+estructura ahí o no cambia cambia verdad
+
+[02:27:35]
+Pero por el contexto en ese caso que
+
+[02:27:38]
+llevábamos de que el precio dejó este
+
+[02:27:40]
+bajo aquí lo que sea si tú te montaste
+
+[02:27:43]
+en el como les digo en el origen del
+
+[02:27:46]
+movimiento como tal no tienes todavía la
+
+[02:27:49]
+corrección del del de todo el ciclo
+
+[02:27:51]
+verdad como yo les decía el origen del
+
+[02:27:53]
+movimiento como tal va a ser estas
+
+[02:27:55]
+estructuras pequeñas verdad Esto va a
+
+[02:27:57]
+ser el origen esto es el origen del
+
+[02:27:59]
+movimiento como tal es más de riesgo
+
+[02:28:02]
+muchas veces el precio no se va a ir de
+
+[02:28:04]
+ahí pero mejor confirmado es cuando tú
+
+[02:28:07]
+ya tienes un impulso y el precio ya
+
+[02:28:10]
+tiene la corrección aquí no te hizo un
+
+[02:28:11]
+nuevo mínimo o te tomó un poco de
+
+[02:28:13]
+liquidez y se regresó ahí tienes un
+
+[02:28:15]
+mejor precio de entrada verad en este
+
+[02:28:18]
+caso el precio regresa a el bajo diario
+
+[02:28:22]
+y ahí es donde realmente se va entonces
+
+[02:28:25]
+bien importante entender el contexto del
+
+[02:28:27]
+mercado para que ustedes puedan tener
+
+[02:28:28]
+entradas mejores entonces eh el precio
+
+[02:28:32]
+llega a un punto de interés aparte si se
+
+[02:28:34]
+fijan y mapeamos esta estructura 15
+
+[02:28:36]
+minutos aquí me rompe la alza tenemos el
+
+[02:28:38]
+retroceso aquí me rompe de nuevo la alza
+
+[02:28:40]
+tenemos el retroceso aquí fíjense que
+
+[02:28:43]
+este había sido el último punto
+
+[02:28:45]
+importante que me rompe en este caso
+
+[02:28:48]
+estas estructuras acá entonces aquí ya
+
+[02:28:50]
+tenemos un poquito más refinado toda
+
+[02:28:52]
+esta área que teníamos una área grande
+
+[02:28:55]
+la tenemos un poquito refinada porque
+
+[02:28:56]
+acuérdense que esa es la zona Pero
+
+[02:28:59]
+igualmente este punto también está en la
+
+[02:29:00]
+zona Pero si tú tenías un stop loss no
+
+[02:29:03]
+tan gran no tan pequeño y te protegías
+
+[02:29:05]
+por debajo igual te hubiera podido
+
+[02:29:07]
+funcionar en dado caso yo les doy
+
+[02:29:10]
+ejemplos para que vean dónde pueden
+
+[02:29:11]
+tomar entradas y para que vean que eh
+
+[02:29:14]
+dónde ustedes deciden entrar a partir de
+
+[02:29:17]
+crear su estrategia en este caso fíjense
+
+[02:29:20]
+que ya ahí llevamos este low copiando la
+
+[02:29:23]
+estructura de 15 minutos low High
+
+[02:29:26]
+tenemos este nuevo low el precio si se
+
+[02:29:28]
+fijan toma un poco de liquidez por aquí
+
+[02:29:31]
+y me rompe las estructuras internas de
+
+[02:29:33]
+nuevo Esto es lo mismo que les decía por
+
+[02:29:35]
+acá esto es entrar en el origen del
+
+[02:29:38]
+fractal entrar en el origen del fractal
+
+[02:29:41]
+pero no hay una corrección de ningún
+
+[02:29:43]
+ciclo simplemente estás entrando en el
+
+[02:29:44]
+cambio de estructura de precio inmediato
+
+[02:29:47]
+ya pero qué sucede acá sucede un cambio
+
+[02:29:51]
+de estructura Ahora sí en 15 minutos
+
+[02:29:53]
+relevante a partir de ahí yo tengo mi
+
+[02:29:56]
+zona de trabajo Cuál es mi zona de
+
+[02:29:58]
+trabajo va a ser todo mi fractal
+
+[02:30:01]
+entonces aplico de nuevo la misma teoría
+
+[02:30:03]
+de descuento y de Premium en este caso
+
+[02:30:05]
+aquí de izquierda a derecha y fíjense
+
+[02:30:07]
+que el precio se mete en una nueva zona
+
+[02:30:09]
+de
+
+[02:30:11]
+descuento a partir de ahí que se mete en
+
+[02:30:13]
+una zona de descuento en ese retroceso
+
+[02:30:15]
+me mitiga este bloque que este bloque es
+
+[02:30:17]
+el decisional es el último encargado de
+
+[02:30:20]
+romper esas estructuras internas ruptura
+
+[02:30:23]
+interna también de este lado ruptura
+
+[02:30:25]
+externa también de este lado de acá de
+
+[02:30:27]
+esta parte y a partir de ahí simplemente
+
+[02:30:30]
+al 50% yo ya tengo una entrada pero me
+
+[02:30:32]
+voy a bajar m5 para refinar un poquito
+
+[02:30:35]
+más para que vean más claro el contexto
+
+[02:30:37]
+fíjense chicos Cómo llevamos el contexto
+
+[02:30:39]
+del precio verad Cómo estamos aquí
+
+[02:30:41]
+refinando el contexto del precio fíjense
+
+[02:30:43]
+que el precio Lo que hace es retroceder
+
+[02:30:46]
+tomar liquidez de esto mínimo que era un
+
+[02:30:48]
+mínimo del día también es el contexto
+
+[02:30:50]
+romper estructuras acá forma todo este
+
+[02:30:53]
+fractal aquí decíamos que habíamos
+
+[02:30:55]
+podido tener entradas en estas pequeñas
+
+[02:30:57]
+ruras de estructura con más un poquito
+
+[02:30:59]
+más de riesgo desde el origen del primer
+
+[02:31:01]
+fractal pero luego en este retroceso es
+
+[02:31:05]
+donde podíamos habernos montado algo
+
+[02:31:07]
+peculiar de esto es que bueno Gustavo yo
+
+[02:31:10]
+a veces Necesito un poco más ahí no sé
+
+[02:31:12]
+si PR va a llegar hasta por acá abajo al
+
+[02:31:14]
+extremo va a seguir cayendo bueno te
+
+[02:31:16]
+puedes dar cuenta aquí ya en tu
+
+[02:31:18]
+temporalidad m5 donde está refinando low
+
+[02:31:21]
+High nuevo higher High nuevo low fallan
+
+[02:31:25]
+hacer estructura lo que hace ruptura de
+
+[02:31:28]
+estructura y te puedes montar en la
+
+[02:31:30]
+ruptura de estructura o esperar un nuevo
+
+[02:31:33]
+retroceso Hay veces que el precio no
+
+[02:31:35]
+retrocede tanto esto es lo malo de
+
+[02:31:37]
+esperar tantísima confirmación que a
+
+[02:31:39]
+veces te deja el precio viendo Entonces
+
+[02:31:41]
+tienes que tener un balance con tu
+
+[02:31:43]
+estrategia si vas a esperar tantas
+
+[02:31:45]
+confirmaciones o vas a entrar un poquito
+
+[02:31:47]
+más agresivo en mi caso me gusta entrar
+
+[02:31:48]
+un poquito más agresivo
+
+[02:31:50]
+con stop loss grandes vamos a poner el
+
+[02:31:52]
+ejemplo de Gustavo que en una operación
+
+[02:31:55]
+intradía él le gusta entrar un poquito
+
+[02:31:57]
+más agresivo Simplemente ya cuando el
+
+[02:31:58]
+precio entró al 50% y se protege por
+
+[02:32:01]
+debajo de ese mínimo son aproximadamente
+
+[02:32:03]
+19 pips que están bastante bien para el
+
+[02:32:05]
+euro dólar y una entrada intr diara
+
+[02:32:08]
+Gustavo ahora dónde salgo Pues bueno
+
+[02:32:10]
+facilito la última liquidez o el último
+
+[02:32:12]
+punto de liquidez importante es ahí una
+
+[02:32:15]
+operación intr diaria que más o menos
+
+[02:32:17]
+aquí lo podemos medir desde la entrada
+
+[02:32:20]
+hasta el final de la entrada duró más o
+
+[02:32:22]
+menos 22 horas un día es una operación
+
+[02:32:26]
+intr diaria que duró un poco o te huías
+
+[02:32:29]
+podido quedar en este último higher High
+
+[02:32:32]
+pero era demasiado poco para mí o en
+
+[02:32:34]
+este último alto también relevante o
+
+[02:32:37]
+simplemente tú dices Gustavo Yo quiero
+
+[02:32:38]
+un uno y medio o un uno a dos y se acabó
+
+[02:32:41]
+las operaciones intradiarias lo que
+
+[02:32:43]
+tienen también Es que a veces se pueden
+
+[02:32:45]
+dejar correr un poquito más por ejemplo
+
+[02:32:47]
+tú ya te vas a tu contexto de h1 en tu
+
+[02:32:50]
+contexto de h1 Tú sabes que toda esta
+
+[02:32:52]
+operación tiene potencial de llegar un
+
+[02:32:55]
+poquito más arriba en este caso aquí
+
+[02:32:59]
+tiene el potencial de llegar un poquito
+
+[02:33:01]
+más arriba la puedes dejar correr hasta
+
+[02:33:02]
+acá hasta este último punto o hasta acá
+
+[02:33:05]
+pero esas posiciones
+
+[02:33:10]
+intradialisis día no quiero estar
+
+[02:33:12]
+esperando tanto entonces simplemente me
+
+[02:33:14]
+voy con un uno a dos un uno a uno el
+
+[02:33:17]
+último punto de liquidez importante el
+
+[02:33:19]
+último Ja importante y se acabó verdad
+
+[02:33:22]
+entonces también puedo refinar un
+
+[02:33:24]
+poquito más en temporalidades menores de
+
+[02:33:26]
+M1 m5 fíjense que también puedo refinar
+
+[02:33:29]
+un poquito más eh Por ejemplo si
+
+[02:33:31]
+nosotros refin ahí ese punto de interés
+
+[02:33:34]
+vamos a quitar eso refin a lo mejor en
+
+[02:33:36]
+nuestra temporalidad menor y ya por
+
+[02:33:39]
+ejemplo tenía impulso retroceso Este era
+
+[02:33:42]
+el último mínimo válido ya no me tendría
+
+[02:33:44]
+que supuestamente el precio romper ahí
+
+[02:33:46]
+pero ocupamos de esperar que el precio
+
+[02:33:48]
+retroceda un poco más verdad Pero igual
+
+[02:33:50]
+y tendríamos nuestra entrada y un
+
+[02:33:52]
+poquito más de refine aquí ya tú vas a
+
+[02:33:54]
+decidir qué quieres hacer Si quieres
+
+[02:33:56]
+refinar un poco más a lo mejor
+
+[02:33:58]
+equivocarte un poco más o quieres entrar
+
+[02:34:00]
+un poquito más agresivo y tener stop bl
+
+[02:34:02]
+un poquito más grandes inclusive hay el
+
+[02:34:03]
+nuevo higher High un 1 a c al último
+
+[02:34:07]
+alto que rompió el precio o a este alto
+
+[02:34:09]
+inmediato o te juegas un uno a dos ya
+
+[02:34:11]
+depende de lo que tú quieras puedes
+
+[02:34:13]
+crear un mapa para poder trabajar en
+
+[02:34:14]
+operaciones a largo plazo aprender
+
+[02:34:16]
+identificar fractales zonas de interés y
+
+[02:34:18]
+formas de trabajo para swing Pues en
+
+[02:34:20]
+swing existe lo que es swing corto un
+
+[02:34:22]
+día una semana que es lo que yo hago
+
+[02:34:24]
+swing eh Un día 3 días 4 días 5 días
+
+[02:34:28]
+operaciones en ese tipo de eh contexto
+
+[02:34:32]
+es lo que yo suelo hacer y los van a ser
+
+[02:34:34]
+los ejemplos que les voy a poner diario
+
+[02:34:37]
+y h4 tendencia h4 y h2 patrón h1 y m30
+
+[02:34:41]
+refine puede ser también 15 minutos
+
+[02:34:43]
+Aunque a mí no me gusta refinar tanto
+
+[02:34:45]
+pero ustedes lo pueden hacer si quieren
+
+[02:34:47]
+t medu más de una semana en tendencia en
+
+[02:34:51]
+en semanal patrón en diario y refin en
+
+[02:34:54]
+h4 y swing muy muy muy pero muy largo es
+
+[02:34:58]
+tendencia mensual patrón en s1 y refine
+
+[02:35:02]
+en lo que es nuestra temporalidad diaria
+
+[02:35:05]
+pero yo les voy a explicar el día de hoy
+
+[02:35:07]
+ejemplos con sin corto que es lo que yo
+
+[02:35:09]
+hago y donde más puedo llegar a dar
+
+[02:35:12]
+aportarles valor gráficos de diario y de
+
+[02:35:15]
+h4 buscar la dirección inmediata
+
+[02:35:17]
+fractales a partir de ahí revisar altos
+
+[02:35:19]
+y bajos sesiones diarios y semanales
+
+[02:35:22]
+patrón de h4 h2 car fractal a trabajar y
+
+[02:35:25]
+son a favor de nuestra entrada o de
+
+[02:35:27]
+dirección encontrada previamente también
+
+[02:35:29]
+medir el tamaño de la zona en h1 Buscar
+
+[02:35:32]
+nuestro patrón de cambio estructural y
+
+[02:35:34]
+entrar verdad estos son los pasos
+
+[02:35:36]
+bastante sencillos para poder nosotros
+
+[02:35:38]
+hacer swing Lu tenemos pasos de la
+
+[02:35:40]
+estrategia de swing corto
+
+[02:35:42]
+eh igual de nuevo identificamos nuestro
+
+[02:35:45]
+fractal en en tendencia igual de nuevo
+
+[02:35:48]
+tenemos la tendencia en diario en h4
+
+[02:35:50]
+nuestro último fractal que queremos
+
+[02:35:51]
+trabajar eh ver si vamos a poder comprar
+
+[02:35:54]
+o vender aplicamos nuestra teoría de
+
+[02:35:56]
+Premium y descuento identificamos en h4
+
+[02:35:59]
+y en h2 el último punto fractal
+
+[02:36:02]
+importante y nuestro cambio en h1 y en
+
+[02:36:04]
+m30 la verdad es que es muy sencillo lo
+
+[02:36:06]
+mismo que le estaba explicando para lo
+
+[02:36:08]
+que es eh intrad Y scalping y lo mismo
+
+[02:36:12]
+que hacemos en swing recomendaciones
+
+[02:36:14]
+finales para eh swing mejores horarios
+
+[02:36:17]
+Nueva York y Londres aperturas y cierres
+
+[02:36:19]
+no hay horario específico para swing
+
+[02:36:21]
+puedes encontrar entradas cuando tú las
+
+[02:36:23]
+tengas es lo bonito de swing y
+
+[02:36:26]
+simplemente estar esperando la
+
+[02:36:27]
+temporalidad grande pero siempre pues
+
+[02:36:30]
+nuestras eh sesiones de Londres y de
+
+[02:36:32]
+Nueva York van a ser donde vamos a tener
+
+[02:36:34]
+mejores probabilidades de entrada
+
+[02:36:35]
+centrarse en la dirección Macro en swing
+
+[02:36:38]
+te tienes que centrar en dirección no es
+
+[02:36:39]
+eh No es una reacción en el precio estás
+
+[02:36:43]
+buscando reacciones en el precio estás
+
+[02:36:45]
+buscando movimientos más extendidos
+
+[02:36:47]
+estás buscando dirección eh conclusión
+
+[02:36:50]
+esperar su entrada tienes que ser muy
+
+[02:36:52]
+paciente para esperar entradas muy
+
+[02:36:54]
+pacientes para dejar correr también la
+
+[02:36:56]
+entrada saber esperar su Target aguantar
+
+[02:36:59]
+su l su stop loss y tu Take profit y
+
+[02:37:02]
+mucha paciencia para swing en lo que
+
+[02:37:04]
+necesitas pero vas a estar muy tranquilo
+
+[02:37:06]
+porque vas a poder no estar pegado ahí
+
+[02:37:09]
+tanto a la pantalla no estar ahí
+
+[02:37:11]
+tantísimo tiempo mirando una entrada
+
+[02:37:14]
+entonces tiene sus pros y sus contras
+
+[02:37:16]
+entender siempre las debilidades y
+
+[02:37:18]
+fortalezas de nuestra estrategia Vamos
+
+[02:37:21]
+allá con los ejemplos de swin cord Bueno
+
+[02:37:23]
+chicos este caso Les voy a poner algunos
+
+[02:37:25]
+ejemplos en el nasdaq esta vez de unas
+
+[02:37:27]
+operaciones que yo tomé para pasar ftm
+
+[02:37:30]
+challenge de
+
+[02:37:31]
+00,000 esta semana para que ustedes vean
+
+[02:37:34]
+Cómo identifiqué cómo hice para tomar
+
+[02:37:36]
+esas operaciones que tomé en vivo chicos
+
+[02:37:38]
+tomé operaciones en vivo tuvimos buena
+
+[02:37:40]
+ganancia y pasamos ft challenge de
+
+[02:37:43]
+0000,000 a partir de ahí empiezo desde
+
+[02:37:45]
+mi gráfico semanal me gusta comenzar
+
+[02:37:47]
+desde mi gráfico semanal entendiendo el
+
+[02:37:49]
+contexto de que este precio está to the
+
+[02:37:51]
+moon alcista simplemente está alcista No
+
+[02:37:54]
+necesito tener tanto contexto
+
+[02:37:56]
+simplemente está alcista y voy
+
+[02:37:58]
+identificar nuestros zonas de interés en
+
+[02:38:02]
+este caso eh la semana que yo Trade
+
+[02:38:05]
+mapaba este High importante que lo vamos
+
+[02:38:07]
+a marcar por ahí yo los me suele gustar
+
+[02:38:10]
+ponerlo siempre con líneas de este
+
+[02:38:12]
+estilo Pero ustedes lo pueden marcar
+
+[02:38:13]
+como ustedes se les pegue su gana A mí
+
+[02:38:16]
+me encanta así porque así es como me
+
+[02:38:18]
+gusta irlo viendo entonces aquí tenemos
+
+[02:38:20]
+este liquidez High y low de eh nuestra
+
+[02:38:24]
+gráfico semanal también vamos a ir
+
+[02:38:27]
+marcando estos de aquí para que ustedes
+
+[02:38:30]
+vayan teniendo un poquito más de
+
+[02:38:32]
+experiencia con estos bajos y altos
+
+[02:38:35]
+canales vayan viendo cómo funcionan Cómo
+
+[02:38:37]
+van entre sí tomándose la liquidez y
+
+[02:38:40]
+etcétera etcétera entonces Bueno chicos
+
+[02:38:43]
+a partir de ahí me bajo a mi gráfico
+
+[02:38:44]
+diario mi gráfico diario voy a igual
+
+[02:38:47]
+estar marcando bajos y altos relevantes
+
+[02:38:49]
+y estar viendo cómo funcionan en este
+
+[02:38:52]
+caso ya los que son semanales pues no es
+
+[02:38:54]
+importante tenerlos en cuenta en este
+
+[02:38:56]
+caso Este es el semanal y acá tenemos el
+
+[02:39:00]
+el low semanal que era este Entonces ya
+
+[02:39:02]
+no es importante tener en cuenta tanto
+
+[02:39:04]
+porque ya tenemos los gráficos semanales
+
+[02:39:06]
+que son un poquito más relevantes de los
+
+[02:39:08]
+diarios pero ya este a partir de ahí lo
+
+[02:39:12]
+que voy a hacer yo
+
+[02:39:13]
+es marcarles este lo diario lo diario
+
+[02:39:18]
+est el low diario y este vamos a dejar
+
+[02:39:22]
+también este último low diario esto no
+
+[02:39:25]
+más para tener contexto ya ahora sí
+
+[02:39:27]
+nuestro temporalidad mayor verdad los
+
+[02:39:29]
+aquí qué estoy haciendo simplemente
+
+[02:39:31]
+mapeando highs y lows diarios y
+
+[02:39:34]
+semanales temporalidad que me voy a ir
+
+[02:39:36]
+para hacer este Z corto va a ser 4 horas
+
+[02:39:38]
+Entonces ahora sí el contexto de 4 horas
+
+[02:39:41]
+es el va a ser el principal que vo a
+
+[02:39:43]
+estar tomando para mi tendencia o para
+
+[02:39:46]
+mis operaciones en estos gráficos
+
+[02:39:49]
+de 4 horas para mis operaciones Ahora sí
+
+[02:39:52]
+el contexto que voy a estar tomando
+
+[02:39:53]
+principalmente va a ser en 4 horas para
+
+[02:39:56]
+mis operaciones un poquito de swing voy
+
+[02:39:58]
+a estar tomando en cuenta este High voy
+
+[02:40:00]
+a estar tomando en cuenta este low voy a
+
+[02:40:02]
+estar tomando en cuenta todo este
+
+[02:40:03]
+fractal el precio que hace un nuevo
+
+[02:40:06]
+impulso al alz no logra hacer un nuevo
+
+[02:40:08]
+alto me deja todo este último fractal
+
+[02:40:12]
+aquí low High low High no High y ya
+
+[02:40:16]
+tenemos decifrada la estructura a partir
+
+[02:40:18]
+de ahí que tenemos un bajo diario
+
+[02:40:20]
+importante ya y ya a partir de aquí
+
+[02:40:23]
+tenemos este otro bajo importante y ya
+
+[02:40:25]
+para gatillar mi entrada ya me voy a h1
+
+[02:40:28]
+para gatillar la entrada ahora ya sé que
+
+[02:40:31]
+el contexto está altista que hemos
+
+[02:40:33]
+tomado nuevo bajo que hemos que tomado
+
+[02:40:35]
+el bajo semanal también Y a partir de
+
+[02:40:37]
+ahí yo digo que mi dirección Sigue
+
+[02:40:39]
+estando alcista pero en h1 voy a ver un
+
+[02:40:42]
+poquito mejor el contexto y voy a ver
+
+[02:40:44]
+exactamente les voy a enseñar Cuándo
+
+[02:40:46]
+gatilla mi entrada de swing porque la
+
+[02:40:48]
+dejamos correr está ahí y todo Bueno ya
+
+[02:40:50]
+estoy en h1 y en h1 si se fijan se ve un
+
+[02:40:53]
+poquito mejor es está un poquito más
+
+[02:40:55]
+desglosado yo me encontraba exactamente
+
+[02:40:58]
+queriendo tomar después de que el precio
+
+[02:41:00]
+eh tomó todo este impulso a la alza todo
+
+[02:41:03]
+este movimiento a la alza encontraba por
+
+[02:41:05]
+aquí más o menos el día domingo esta
+
+[02:41:08]
+semana del del primero de julio la
+
+[02:41:10]
+primera semana de Julio me encontraba
+
+[02:41:12]
+por aquí queriendo tomar una entrada a
+
+[02:41:14]
+la alza o a la baja verdad el precio me
+
+[02:41:16]
+hace ruptura estructura a la alza bueno
+
+[02:41:19]
+el precio hizo un nuevo alto que no pudo
+
+[02:41:21]
+romper este nuevo High Ok perfecto el
+
+[02:41:23]
+precio Lo que hace es venir de nuevo
+
+[02:41:25]
+hacia abajo deja ese mínimo diario abre
+
+[02:41:27]
+la sesión de Asia rompe ese mínimo Okay
+
+[02:41:30]
+perfecto qué tienes que hacer precio
+
+[02:41:32]
+tienes que venir a hacer un nuevo mínimo
+
+[02:41:34]
+ya tienes que irte hacia abajo verad ya
+
+[02:41:36]
+está Gustavo ya está aquí con estructura
+
+[02:41:38]
+a la baja Ya me rompió la estructura Sí
+
+[02:41:40]
+ya te rompió la estructura ya está para
+
+[02:41:43]
+abajo Okay perfecto Qué hace el precio
+
+[02:41:46]
+pega un mechaz aquí es lo donde muchos
+
+[02:41:49]
+se confunden y dice Gustavo Cómo sé que
+
+[02:41:50]
+es un cambio de estructura Cómo sé que
+
+[02:41:53]
+realmente el precio eh cambió estructura
+
+[02:41:57]
+y me hizo un rompimiento de estructura a
+
+[02:41:59]
+la baja Cómo sé eso y que realmente el
+
+[02:42:02]
+precio no me hizo un falso quiebre pues
+
+[02:42:04]
+muy fácil Fíjate que aquí toma la
+
+[02:42:06]
+liquidez del bajo diario toma la
+
+[02:42:08]
+liquidez de este mínimo a partir de ahí
+
+[02:42:10]
+pega un mechaz hacia arriba y algo
+
+[02:42:12]
+importante empieza a romper estructuras
+
+[02:42:14]
+internas a la alza a partir de ahí yo
+
+[02:42:17]
+identifico toda esta zona como mi último
+
+[02:42:19]
+fractal inmediato donde voy a estar
+
+[02:42:21]
+refinando en h1 ya un fractal alineado
+
+[02:42:24]
+al Alfa me olvido de esto ya por qué me
+
+[02:42:26]
+olvido de eso Gustavo porque ya tenemos
+
+[02:42:30]
+estructuras alineadas aún así para mayor
+
+[02:42:34]
+confirmación yo lo que hice en vivo es
+
+[02:42:37]
+tomar la ruptura de esa estructura en
+
+[02:42:39]
+cuanto vi que el precio tomó la ruptura
+
+[02:42:41]
+de esa estructura pegó un pequeño mechaz
+
+[02:42:43]
+para abajo me monté a la alza para tener
+
+[02:42:47]
+mejor confirmación todavía pero ya a
+
+[02:42:49]
+partir de aquí de este retroceso que el
+
+[02:42:51]
+precio falló aquí ya teníamos un
+
+[02:42:53]
+contexto alcista a partir de aquí yo
+
+[02:42:56]
+puse mi posición larga aún así que yo me
+
+[02:42:58]
+preferí estar un poquito más confirmado
+
+[02:43:01]
+me protegía de este mínimo importante y
+
+[02:43:04]
+me tomé una entrada a este nuevo High
+
+[02:43:07]
+más o menos yo tomé por aquí un poquito
+
+[02:43:09]
+más arriba de ese nuevo High y tomé una
+
+[02:43:11]
+posición en swing Gustavo quise haber
+
+[02:43:14]
+refinado un poco más y este y quiero
+
+[02:43:17]
+tener un ratio más grande de un un a se
+
+[02:43:19]
+un un a c Cómo hago pues tienes que
+
+[02:43:21]
+refinar un poquito más o haber entrado
+
+[02:43:24]
+en el punto de entrada un poquito más
+
+[02:43:25]
+riesgoso haberte protegido a lo mejor
+
+[02:43:28]
+por aquí por de abajo y haber tenido una
+
+[02:43:30]
+entrada a este nuevo High o este nuevo
+
+[02:43:32]
+High Fíjate que aquí ya tenemos un
+
+[02:43:34]
+poquito de una entrada un poquito más al
+
+[02:43:36]
+alza o inclusive podrías haber dejado
+
+[02:43:37]
+correr un poquito más ya se pueden hacer
+
+[02:43:40]
+muchísimas cosas se pueden refinar 15
+
+[02:43:43]
+minutos también y en el punto entrada de
+
+[02:43:45]
+h1 entras pero yo no necesito
+
+[02:43:48]
+complicarme tanto para tomar entradas
+
+[02:43:50]
+porque no quiero estar ahí en ese
+
+[02:43:51]
+gráfico tanto tiempo cazando el punto
+
+[02:43:54]
+exacto de entrada entonces por eso es
+
+[02:43:56]
+que lo hago de esta manera pero fíjense
+
+[02:43:58]
+que esta posición que tomamos en ftmo eh
+
+[02:44:01]
+nos llevó a pasar el challenge de ftmo
+
+[02:44:04]
+por aquí fue un cubriéndolos aquí y
+
+[02:44:07]
+estea simple entrada en swing es la que
+
+[02:44:10]
+nos llevó a tomar eh a ganar ese fmo
+
+[02:44:13]
+challenge criterios principales que
+
+[02:44:15]
+tomaremos en cuenta a la hora de tener
+
+[02:44:17]
+una estrategia
+
+[02:44:19]
+motivo de entrada principal el motivo de
+
+[02:44:22]
+entrada Qué es Gustavo el motivo de
+
+[02:44:24]
+entrada va a ser lo que nos lleva a
+
+[02:44:26]
+nosotros a ejecutar una entrada Cuál es
+
+[02:44:29]
+qué tiene que hacer el precio qué tiene
+
+[02:44:31]
+que hacer el precio para poder tomar una
+
+[02:44:33]
+entrada el rci tiene que estar
+
+[02:44:36]
+sobrevendido en 70 y luego romper
+
+[02:44:39]
+estructura y luego este eso es el motivo
+
+[02:44:42]
+de entrada es es un ejemplo no más verad
+
+[02:44:44]
+eh Cuáles son los criterios que tú vas a
+
+[02:44:48]
+tomar para poder tener una entrada algo
+
+[02:44:51]
+muy importante con lo que es la lógica
+
+[02:44:53]
+de la estrategia es que una estrategia
+
+[02:44:55]
+tiene que ser siempre lo mayor objetivo
+
+[02:44:58]
+que se pueda si tú no tienes objetividad
+
+[02:45:01]
+en tu estrategia vas a fallar
+
+[02:45:03]
+objetividad es no dejar nada suelto O
+
+[02:45:07]
+sea no dejar nada puede ser o no puede
+
+[02:45:09]
+ser es un uno a dos o es un uno a tres
+
+[02:45:12]
+no puedes decir algunas veces uno a dos
+
+[02:45:14]
+o algunas veces es uno a tres bueno es
+
+[02:45:17]
+uno a dos cuando hace esto uno a tres
+
+[02:45:19]
+cuando hace esto pero es objetivo no
+
+[02:45:22]
+está ahí al aire no más luego después es
+
+[02:45:25]
+dónde colocar tu stop loss siempre
+
+[02:45:27]
+cuando al menos yo siempre enseño a usar
+
+[02:45:29]
+stop loss yo no tengo estrategia eh para
+
+[02:45:32]
+no usar stop loss si hay alguien que le
+
+[02:45:34]
+gusta no usar stop loss pues puede
+
+[02:45:35]
+hacerlo Pero al menos yo siempre eh
+
+[02:45:37]
+tradeo con stop loss dónde colocar el
+
+[02:45:40]
+Stop loss dónde colocas el Take profit
+
+[02:45:43]
+cuándo poner o no break even vas a poner
+
+[02:45:46]
+o no vas a poner break even a tus
+
+[02:45:47]
+operaciones vas a hacer la gestión de un
+
+[02:45:50]
+Trade Cómo vas a gestionar ese Trade es
+
+[02:45:53]
+bien importante cuándo entrar y cuándo
+
+[02:45:56]
+no entrar es bien importante también que
+
+[02:45:57]
+sea objetivo cuándo no debes de estar
+
+[02:46:00]
+dentro del mercado y Cuando debes de
+
+[02:46:01]
+estar dentro luego tenemos El séptimo
+
+[02:46:04]
+paso que es lo que yo llamo frecuencia
+
+[02:46:06]
+de golpeo Qué significa esto frecuencia
+
+[02:46:08]
+de golpeo Cuántos trades vas a estar
+
+[02:46:11]
+haciendo al día la semana en la sesión
+
+[02:46:14]
+es Cuántas veces vas a estar bateando tú
+
+[02:46:17]
+la pelota Cuántos tiros tienes Cuántas
+
+[02:46:20]
+oportunidades eso lo tienes que decidir
+
+[02:46:22]
+tú antes de una semana de trading antes
+
+[02:46:25]
+de un día de trading todos este tipo de
+
+[02:46:27]
+reglas tú las tienes que tener ya
+
+[02:46:29]
+predichas
+
+[02:46:30]
+preestablecidas antes de entrar un Trade
+
+[02:46:33]
+no puedo andar inventándome nada a la
+
+[02:46:35]
+hora de que ya entré en el Trade no
+
+[02:46:38]
+puedo inventarme el Stop loss el Take
+
+[02:46:40]
+profit eso es un error s super grave eh
+
+[02:46:43]
+luego por último tenemos Horizonte
+
+[02:46:45]
+temporal Qué tipo de operativa quiero
+
+[02:46:47]
+hacer qué en el mercado quiero hacer yo
+
+[02:46:50]
+les siempre les digo a mis alumnos
+
+[02:46:52]
+enfóquense en una sola cosa no puedes
+
+[02:46:55]
+estar para allá para allá para acá para
+
+[02:46:56]
+allá agarro hago swing un día hago
+
+[02:46:59]
+intradía otro día hago scalping otro día
+
+[02:47:01]
+no puedes estar haciendo eso si hay
+
+[02:47:04]
+traders que lo hace ni se puede llegar a
+
+[02:47:06]
+hacer pero cuando tú estás comenzando lo
+
+[02:47:08]
+mejor es enfocarte en una sola forma de
+
+[02:47:11]
+hacer trading scalping swing intradía la
+
+[02:47:14]
+mayoría de los traders profesionales que
+
+[02:47:15]
+ustedes vayan a ver van a estar
+
+[02:47:17]
+enfocados en un solo modelo de trading
+
+[02:47:20]
+luego después tenemos rasgos principales
+
+[02:47:22]
+de una estrategia al desarrollar una
+
+[02:47:24]
+estrategia de trading es crucial
+
+[02:47:25]
+considerar varios parámetros que pueden
+
+[02:47:27]
+influir en su eficacia y rentabilidad lo
+
+[02:47:31]
+primer punto que considero importante es
+
+[02:47:33]
+tipo de estrategia o tipo de trading que
+
+[02:47:35]
+quiero hacer intradía operaciones
+
+[02:47:36]
+abiertas y cerradas dentro del mismo día
+
+[02:47:39]
+corto plazo operaciones mantenidas por
+
+[02:47:41]
+días a semanas mediano plazo operaciones
+
+[02:47:44]
+mantenidas por semanas a meses un largo
+
+[02:47:46]
+plazo operaciones mantenidas por meses a
+
+[02:47:49]
+años Okay este es el tipo de trading o
+
+[02:47:53]
+una idea del tipo de trading que tú
+
+[02:47:54]
+quisieras hacer tienes que identificarte
+
+[02:47:56]
+con el modelo de trading que tú quieres
+
+[02:47:58]
+hacer yo actualmente Les comparto hago
+
+[02:48:00]
+swing swing trading operaciones
+
+[02:48:02]
+mantenidas por días a semanas un corto
+
+[02:48:06]
+plazo tampoco hago un swing trading tan
+
+[02:48:08]
+largo como hay alguna gente que hace un
+
+[02:48:10]
+swing muy larguísimo Yo no yo soy como
+
+[02:48:12]
+que mis operaciones suelen durar entre
+
+[02:48:14]
+un a 3 días 4 días 5 días como máximo
+
+[02:48:18]
+verdad Por qué Porque me identifiqué con
+
+[02:48:20]
+ese modelo de trading verdad hay
+
+[02:48:22]
+personas que se van a identificar con un
+
+[02:48:24]
+modelo de trading más corto menos corto
+
+[02:48:26]
+cada una de estas modalidades tienen sus
+
+[02:48:28]
+pros y sus contras y es importante que
+
+[02:48:30]
+las estudies y que veas Cuáles
+
+[02:48:32]
+fortalezas y debilidades tienen hacer
+
+[02:48:35]
+cada tipo de operativa la otra es
+
+[02:48:37]
+selección de El activo qué vas a estar
+
+[02:48:40]
+tradeando yo siempre Les recomiendo a
+
+[02:48:42]
+las personas que se enfoquen en un solo
+
+[02:48:44]
+activo aunque no tiene que ser así he
+
+[02:48:46]
+visto gente rentable que tradea muchos
+
+[02:48:48]
+activos y le va bien pero yo siempre les
+
+[02:48:50]
+digo Quédate con algo eh recomendable
+
+[02:48:53]
+que te quedes con algo para que a partir
+
+[02:48:55]
+de ahí te puedas especializar puedes
+
+[02:48:57]
+seleccionar acciones empresas
+
+[02:48:59]
+específicas forex pares de Divisas
+
+[02:49:01]
+futuros contratos sobre commodites
+
+[02:49:03]
+índices que es lo que yo hago
+
+[02:49:04]
+actualmente Por ejemplo yo hago nasdaq
+
+[02:49:06]
+eh que es un índice criptomonedas como
+
+[02:49:09]
+bitcoin ethereum eh acá están los
+
+[02:49:11]
+índices sp500 nasda w3 ya hay muchísimos
+
+[02:49:15]
+activos el que más te guste el que más
+
+[02:49:17]
+se adapte a tu personalidad el que veas
+
+[02:49:20]
+que te va mejor en ese enfócate en el
+
+[02:49:22]
+que tu estrategia también sea mejor tres
+
+[02:49:25]
+tenemos el tipo de análisis Conocer bien
+
+[02:49:27]
+mi metodología y no mezclarla con otras
+
+[02:49:31]
+es bien importante Conocer bien la
+
+[02:49:32]
+metodología y no estar mezclándola con
+
+[02:49:34]
+otras metodologías enfocarse en una sola
+
+[02:49:37]
+estrategia enfocarse en un solo método
+
+[02:49:40]
+luego tenemos cuatro el análisis
+
+[02:49:42]
+fundamental que aunque Considero que no
+
+[02:49:44]
+es necesario para poder ser rentable en
+
+[02:49:47]
+el trading siempre que tú estudi
+
+[02:49:49]
+análisis fundamental te va a ayudar te
+
+[02:49:51]
+va a sumar en lugar de restarte ya no es
+
+[02:49:54]
+necesario para ser rentable pero siempre
+
+[02:49:56]
+suma más o ayuda más que restar que te
+
+[02:49:59]
+vaya a restar datos financieros ingresos
+
+[02:50:01]
+de beneficios ratios financieros
+
+[02:50:03]
+estadística eventos económicos noticias
+
+[02:50:06]
+sentimiento del mercado es importante
+
+[02:50:08]
+que tú tengas una noción por lo menos de
+
+[02:50:10]
+lo que de lo que puede hacer el los
+
+[02:50:13]
+fundamentales yo actualmente fíjense que
+
+[02:50:15]
+no tengo tanto conocimiento en
+
+[02:50:17]
+fundamentales pero sí me me interesa
+
+[02:50:20]
+este ir aprendiendo un poco más y estoy
+
+[02:50:22]
+día con día estudiando más análisis
+
+[02:50:25]
+fundamental porque creo que está
+
+[02:50:27]
+ayudando bastante a mi trading Aunque yo
+
+[02:50:30]
+Considero que no necesitas un análisis
+
+[02:50:32]
+fundamental para poder este operar 100%
+
+[02:50:35]
+Pero sí te va a ayudar más gestión de
+
+[02:50:37]
+riesgos tamaño de tu posición proporción
+
+[02:50:40]
+del capital invertido en cada operación
+
+[02:50:42]
+el Stop loss nivel de precio en el que
+
+[02:50:44]
+se cierra una operación para limitar
+
+[02:50:45]
+pérdidas Take profit nivel de beneficio
+
+[02:50:47]
+en el que se cierra una operación para
+
+[02:50:48]
+asegurar ganancias y la relación riesgo
+
+[02:50:51]
+beneficio evaluar si es posible ganancia
+
+[02:50:54]
+justifica el riesgo asumido si la
+
+[02:50:56]
+ganancia justifica el riesgo asumido es
+
+[02:50:57]
+bien importante que tú vayas midiendo tu
+
+[02:51:00]
+estrategia con un stop los más grande un
+
+[02:51:02]
+stop los más pequeño un Take profit más
+
+[02:51:05]
+grande un Take profit más pequeño si vas
+
+[02:51:07]
+a arriesgar más si vas a arriesgar menos
+
+[02:51:10]
+es bien importante que estés testeando
+
+[02:51:12]
+todo eso en tu estrategia y tienes que
+
+[02:51:14]
+tirarte muchas horas probando probando
+
+[02:51:17]
+diferentes parámetros que te vayan bien
+
+[02:51:19]
+que te vayan mejor vas a poder estar
+
+[02:51:22]
+tradeando después te voy a enseñar cómo
+
+[02:51:24]
+haces el proceso de analizar cada uno de
+
+[02:51:26]
+estos datos En las siguientes clases y
+
+[02:51:28]
+al analizar todos esos datos vas a poder
+
+[02:51:30]
+estar testeando todos estos parámetros
+
+[02:51:32]
+que te estoy diciendo por acá luego ya
+
+[02:51:34]
+tenemos lo que es la psicología del
+
+[02:51:36]
+trading o del Trader es bien importante
+
+[02:51:38]
+también la psicología del Trader
+
+[02:51:40]
+disciplina en seguir estrictamente las
+
+[02:51:42]
+reglas de trading un control correcto un
+
+[02:51:44]
+control emocional de un Trader
+
+[02:51:46]
+profesional no andar con miedo a la hora
+
+[02:51:48]
+que tú entras a una operación no andar
+
+[02:51:50]
+ahí nervioso Entonces es importante que
+
+[02:51:52]
+te estudies En dónde tienes miedo En
+
+[02:51:54]
+dónde tienes exceso de confianza cada
+
+[02:51:56]
+una de las emociones que tienes mantener
+
+[02:51:58]
+la calma bajo presión evitando
+
+[02:52:00]
+decisiones impulsivas paciencia y
+
+[02:52:02]
+persistencia no esperar resultados
+
+[02:52:04]
+inmediatos y aprender de los errores
+
+[02:52:06]
+luego tenemos estrategias específicas
+
+[02:52:09]
+Bueno aquí enumero un poquito más
+
+[02:52:11]
+específico lo que es cada una que es el
+
+[02:52:13]
+scalping muchas operaciones pequeñas
+
+[02:52:14]
+buscando aprovechar movimientos
+
+[02:52:16]
+minúsculos Aunque aquí hago un
+
+[02:52:18]
+paréntesis porque el scalping no es
+
+[02:52:20]
+sinónimo de Buscar muchas operaciones
+
+[02:52:23]
+puedes tú hacer un Trade al día o dos
+
+[02:52:24]
+trades al día eh en forma de scalping y
+
+[02:52:27]
+también te puede ir bastante bien acá lo
+
+[02:52:29]
+que tienes que hacer es probar probar
+
+[02:52:31]
+esto es probar y probar hasta que veas
+
+[02:52:33]
+lo que mejor te viene a ti t trading
+
+[02:52:36]
+capturar movimientos de precio
+
+[02:52:37]
+intermedios a un periodo de varios días
+
+[02:52:38]
+a semanas trading de tendencia seguir la
+
+[02:52:41]
+dirección general eh de Mercado en un
+
+[02:52:43]
+periodo prolongado esto también tienes
+
+[02:52:45]
+que estudiarlo tu estrategia es mejor en
+
+[02:52:47]
+tendencias es mejor con contratendencias
+
+[02:52:49]
+es mejor en rangos es peor tienes que
+
+[02:52:51]
+estudiar cada uno de este tipo de
+
+[02:52:53]
+parámetros contratendencia como les
+
+[02:52:55]
+decía operar contratendencia principal
+
+[02:52:57]
+buscando reversiones y ya tenemos Por
+
+[02:52:59]
+último el ocho evaluación y mejora
+
+[02:53:02]
+continua registro de operaciones
+
+[02:53:03]
+documentar todas las operaciones por
+
+[02:53:05]
+análisis posterior el Back testing
+
+[02:53:07]
+probar la estrategia en datos históricos
+
+[02:53:09]
+evaluar su rendimiento y luego ya
+
+[02:53:11]
+después por último tendríamos ajustes y
+
+[02:53:13]
+optimización modificar parámetros en
+
+[02:53:14]
+función de los resultados de un Back
+
+[02:53:17]
+testing y la experiencia tuya que vamos
+
+[02:53:19]
+a hablar en las siguientes clases que es
+
+[02:53:21]
+bien importante que no te las pierdas
+
+[02:53:23]
+sobre la evaluación de una estrategia
+
+[02:53:25]
+Cómo vas a ir tú midiendo cada uno de
+
+[02:53:27]
+estos resultados qué usaremos para
+
+[02:53:28]
+determinar una entrada de venta o de
+
+[02:53:30]
+compra es decir qué parámetros tomaremos
+
+[02:53:32]
+en cuenta para ejecutar un Trade en base
+
+[02:53:34]
+a un análisis objetivo algunos puntos
+
+[02:53:37]
+que se debe tener ese motivo de entrada
+
+[02:53:40]
+Okay Qué debe de tener nuestro motivo de
+
+[02:53:42]
+entrada lo que vamos a primero ver es
+
+[02:53:44]
+objetividad objetividad a la hora de
+
+[02:53:47]
+entrar 100 siempre es bien importante la
+
+[02:53:49]
+objetividad muchas personas tienen ahí a
+
+[02:53:52]
+la ahí se va es subjetivo su forma de
+
+[02:53:55]
+entrada es bien importante tener
+
+[02:53:56]
+objetividad que sea claro y preciso que
+
+[02:53:59]
+te diga exactamente Por qué dónde Cómo
+
+[02:54:02]
+eh que sepas cuándo debes de ejecutar
+
+[02:54:05]
+cuándo debe de estar tu entrada que
+
+[02:54:08]
+sepas cómo ejecutar tu entrada es bien
+
+[02:54:10]
+importante también el Cómo cómo vas a
+
+[02:54:12]
+ejecutar con más lotes con menos lotes
+
+[02:54:15]
+una posición dividida con una posición
+
+[02:54:17]
+este que vas agregando posiciones
+
+[02:54:19]
+conforme se va dando a favor si se te va
+
+[02:54:22]
+en contra puedes agregar otra también eh
+
+[02:54:25]
+qué realmente esté basado en tu
+
+[02:54:28]
+estrategia esa modo de ejecución esté
+
+[02:54:30]
+basado realmente en una estrategia
+
+[02:54:31]
+sólida que tú ya desarrollaste y que
+
+[02:54:34]
+debes estar cumpliendo con tus reglas de
+
+[02:54:36]
+entrada luego es rasgos principales qué
+
+[02:54:39]
+rutina voy a seguir para analizar todos
+
+[02:54:41]
+los días y llegar a la conclusión de
+
+[02:54:43]
+ejecutar una entrada o sea Estos son
+
+[02:54:45]
+como preguntas que tú te deberías de
+
+[02:54:47]
+hacer para que tú a través de estas
+
+[02:54:49]
+preguntas te empieces a formular un
+
+[02:54:52]
+motivo de entrada una estrategia como
+
+[02:54:54]
+tal verdad qué reglas voy a agregar para
+
+[02:54:57]
+ser objetivo con mis entradas Cuáles son
+
+[02:54:59]
+los puntos que debería de poner para yo
+
+[02:55:02]
+tener una objetividad en mis entradas
+
+[02:55:04]
+Cómo sabré cuándo no ejecutar mi entrada
+
+[02:55:07]
+o sea cómo sabré Cuándo me tengo que
+
+[02:55:08]
+quedar quieto cuándo okay Estoy viendo
+
+[02:55:11]
+esto en el mercado mis reglas me dicen
+
+[02:55:13]
+esto pero mis reglas me dicen que me
+
+[02:55:15]
+quede quieto porque estoy leyendo mis
+
+[02:55:17]
+reglas y me lo están diciendo de manera
+
+[02:55:19]
+objetiva Con qué frecuencia haré
+
+[02:55:21]
+ejecuciones de entrada Cuántas entradas
+
+[02:55:23]
+vas a hacer a la semana mucha gente se
+
+[02:55:26]
+quema en este punto en en lo que yo
+
+[02:55:28]
+llamo la frecuencia de Trade hacen
+
+[02:55:31]
+muchas entradas más de las que verían o
+
+[02:55:33]
+por miedo no Ejecutan más entradas de
+
+[02:55:35]
+las que ya tenían previsto y ahí es
+
+[02:55:37]
+donde se van Ahí es donde se queman
+
+[02:55:39]
+pierden les da miedo etcétera etcétera
+
+[02:55:42]
+Cuántas al día Cuántas al mes Cuántas la
+
+[02:55:44]
+semana Cuántas entradas voy a ejecutar
+
+[02:55:46]
+Qué síntomas podré detectar para saber
+
+[02:55:50]
+que estoy ejecutando bajo mi motivo de
+
+[02:55:52]
+entrada o sea Cuáles son los parámetros
+
+[02:55:54]
+que me está diciendo que no estoy
+
+[02:55:56]
+ejecutando mi estrategia en verdad seré
+
+[02:55:59]
+flexible o mecánico con mi criterio de
+
+[02:56:01]
+entrada quiere decir que voy a tener un
+
+[02:56:03]
+poquito de criterio propio o voy a ser
+
+[02:56:05]
+estrictamente mecánico entraré a las 7
+
+[02:56:08]
+de la mañana cuando se forme el
+
+[02:56:10]
+rompimiento de estructura y luego el
+
+[02:56:11]
+precio rebalance el imbalance y ahí voy
+
+[02:56:13]
+a entrar o voy a ser un poquito más
+
+[02:56:15]
+flexible y voy a decir Bueno si se dan
+
+[02:56:17]
+estos parámetros puedo entrar si no pues
+
+[02:56:20]
+también puedo decidir entrar eso es lo
+
+[02:56:22]
+que tú tienes que decidir antes cuando
+
+[02:56:25]
+tú estás formulando todas tus reglas de
+
+[02:56:27]
+trading vas a ser agresivo o vas a usar
+
+[02:56:29]
+confirmaciones muchas personas piensan
+
+[02:56:31]
+que solamente se puede operar con
+
+[02:56:33]
+confirmaciones O solamente se puede
+
+[02:56:35]
+operar con ordenes limited no realmente
+
+[02:56:37]
+tú puedes operar como se te dé la gana
+
+[02:56:39]
+qué tienes que tú tener en cuenta para
+
+[02:56:42]
+operar de una forma u otra mi comodidad
+
+[02:56:45]
+mi tiempo mi estrategia le viene bien
+
+[02:56:48]
+mejor o peor una cosa u otra sigo la
+
+[02:56:51]
+tendencia o No necesariamente qué vas a
+
+[02:56:53]
+estar operando luego Aquí tenemos más
+
+[02:56:55]
+herramientas que me dicen cuándo
+
+[02:56:57]
+ejecutar pasos objetivos analizo la
+
+[02:56:59]
+estructura y dirección del ciclo mayor
+
+[02:57:01]
+yo decido qué fractal trabajar luego
+
+[02:57:04]
+valido ese fractal aquí ya tenemos como
+
+[02:57:06]
+el ejemplo de todo lo que les he venido
+
+[02:57:08]
+enseñando con esta metodología El
+
+[02:57:10]
+ejemplo de los pasos objetivos que vamos
+
+[02:57:12]
+a tener nosotros al ejecutar una entrada
+
+[02:57:15]
+la liquidez es importante puedo
+
+[02:57:17]
+confirmar mi idea dudando de algún
+
+[02:57:18]
+indicador decido qué zona trabajar
+
+[02:57:21]
+Espero la expresión del precio en mi
+
+[02:57:22]
+zona de trabajo decido si entrar de
+
+[02:57:25]
+manera agresiva o con una confirmación
+
+[02:57:27]
+ejecuto con una gestión de riesgo
+
+[02:57:30]
+controlada vamos a lo siguiente mi
+
+[02:57:32]
+salida y mi stop y la gestión del Trade
+
+[02:57:34]
+verad estos puntos los estaré cubriendo
+
+[02:57:36]
+la próxima clase pero por último les voy
+
+[02:57:38]
+a tener una simplificación para que
+
+[02:57:40]
+ustedes tengan eh una idea de cómo
+
+[02:57:42]
+podrían hacerlo Yo por ejemplo en la
+
+[02:57:44]
+metodología que les estoy enseñando en
+
+[02:57:46]
+esta mentoría 1 a un que si no han visto
+
+[02:57:48]
+cada uno de los videos recomiendo que
+
+[02:57:49]
+vean todos abajo en la descripción está
+
+[02:57:51]
+el link de toda la la Playlist para que
+
+[02:57:54]
+se vean todos los videos eh Qué es el
+
+[02:57:56]
+contexto del mercado luego después del
+
+[02:57:59]
+contexto ver cómo el mercado está
+
+[02:58:01]
+haciendo una estructura alcista bajista
+
+[02:58:03]
+Qué está haciendo Dónde está parado De
+
+[02:58:04]
+dónde viene saliendo etcétera etcétera
+
+[02:58:07]
+vamos a ver los rasgos ciclos eh
+
+[02:58:10]
+fractales y la liquidez y luego vamos a
+
+[02:58:12]
+ver mi motivo uno que ya lo expliqué en
+
+[02:58:14]
+clases anteriores motivo dos lo expliqué
+
+[02:58:17]
+en clases anteriores vamos a hacer la
+
+[02:58:18]
+ejecución y vamos a poder trar de manera
+
+[02:58:21]
+agresiva o confirmar un poquito más a
+
+[02:58:23]
+fondo con el tema stop loss Entonces el
+
+[02:58:25]
+Stop loss en el trading es una orden de
+
+[02:58:27]
+un inversor que un inversor o Trader eh
+
+[02:58:30]
+coloca en su broker para vender un
+
+[02:58:32]
+activo una vez que alcanza un precio
+
+[02:58:34]
+determinado es esta herramienta se
+
+[02:58:36]
+utiliza para limitar las pérdidas en una
+
+[02:58:39]
+posición si el precio del activo cae a
+
+[02:58:41]
+este nivel predeterminado la orden de
+
+[02:58:43]
+stop loss se activa automáticamente
+
+[02:58:45]
+vendiendo el activo a ese precio lo más
+
+[02:58:48]
+cercano posible Ah hay veces que hay
+
+[02:58:50]
+deslizamiento y no te lo vende
+
+[02:58:51]
+exactamente a ese precio Pero la idea es
+
+[02:58:53]
+que te lo venda al precio que tú le
+
+[02:58:55]
+dijiste para qué no sirve el Stop loss
+
+[02:58:57]
+principalmente yo siempre le digo a la
+
+[02:58:59]
+gente el Stop loss no debe ser ni tan
+
+[02:59:01]
+grande ni tan pequeño debe de ser un
+
+[02:59:04]
+stop bl suficiente para decirte a ti que
+
+[02:59:08]
+te has equivocado en tu estrategia que
+
+[02:59:10]
+tu estrategia falló o que tu análisis
+
+[02:59:12]
+falló Que lo que tú creías o lo que por
+
+[02:59:14]
+lo que tú estabas ejecutando ha fallado
+
+[02:59:18]
+fracasado o Entonces el Stop loss te va
+
+[02:59:20]
+a ayudar a que como tú estás cerrado
+
+[02:59:22]
+estás equivocado no sigas perdiendo más
+
+[02:59:25]
+dinero del que habías determinado perder
+
+[02:59:27]
+Por eso siempre que entras una posición
+
+[02:59:29]
+a una entrada en el trading una posición
+
+[02:59:32]
+siempre es bien importante que tú ya
+
+[02:59:34]
+tengas
+
+[02:59:35]
+predeterminado cuánto voy a perder es
+
+[02:59:38]
+bien importante que lo tengas en la
+
+[02:59:39]
+mente que ya lo tengas en un plan de
+
+[02:59:41]
+trading escrito para que puedas poner tu
+
+[02:59:43]
+stop loss se puede operar sin stop loss
+
+[02:59:45]
+si hay estrategias que se pueden operar
+
+[02:59:47]
+sin Stop stop loss pero yo al menos
+
+[02:59:49]
+Gustavo no enseño a no usar stop loss
+
+[02:59:52]
+siempre me gusta usar stop loss porque
+
+[02:59:54]
+te va a ayudar a tener una gestión de
+
+[02:59:56]
+riesgo correcta y aparte estar muy
+
+[02:59:58]
+tranquilo tranquilo de que tú estás
+
+[03:00:01]
+perdiendo o estás arriesgando o vas a
+
+[03:00:04]
+perder lo que tú decidiste que querías
+
+[03:00:06]
+perder el objetivo principal de los stop
+
+[03:00:08]
+loss es gestionar el riesgo y proteger
+
+[03:00:11]
+el capital del inversor Establecer un
+
+[03:00:14]
+nivel de pérdida aceptable los
+
+[03:00:15]
+inversores pueden evitar pérdidas más
+
+[03:00:17]
+grandes en mercados más volátiles o
+
+[03:00:19]
+movimientos inesperados en los precios
+
+[03:00:21]
+verdad básicamente esto es el Stop loss
+
+[03:00:23]
+y Para qué funciona es importante
+
+[03:00:26]
+entender la raíz del stop loss y
+
+[03:00:28]
+entender Para qué sirve para qué está
+
+[03:00:30]
+hecho para poder darle la relevancia o
+
+[03:00:32]
+para poder darle el lugar que realmente
+
+[03:00:36]
+necesita o que ocupa o que tiene el Stop
+
+[03:00:39]
+loss en nuestro training ahora cómo V a
+
+[03:00:42]
+definir el Stop loss dónde lo vamos a
+
+[03:00:44]
+colocar el Stop los debe ser del tamaño
+
+[03:00:46]
+suficiente para darme cuenta que mi
+
+[03:00:48]
+estrategia no ha funcionado verad Ese es
+
+[03:00:50]
+el punto más importante para mí debo de
+
+[03:00:52]
+estar tranquilo con el tamaño que puse
+
+[03:00:55]
+por eso debe considerar mi psicología
+
+[03:00:57]
+también hay unas personas que son más
+
+[03:01:00]
+susceptibles al riesgo o pueden absorber
+
+[03:01:04]
+más riesgo y otras personas que no Por
+
+[03:01:06]
+ejemplo yo me considero un Trader
+
+[03:01:07]
+bastante agresivo y yo puedo arriesgar
+
+[03:01:10]
+eh mucho pero porque yo puedo
+
+[03:01:12]
+permitírmelo porque tengo una estrategia
+
+[03:01:14]
+que en verdad me puede permitir
+
+[03:01:16]
+arriesgar más el riesgo es un tema
+
+[03:01:18]
+bastante importante pero que tiene que
+
+[03:01:20]
+ver también con el Stop loss Okay
+
+[03:01:22]
+siempre nos han vendido la idea de usar
+
+[03:01:24]
+stop loss pequeñitos pero no es así
+
+[03:01:26]
+entre más stop loss tenga bajará mi rr
+
+[03:01:29]
+entre el Stop loss esté más grande mi rr
+
+[03:01:32]
+va a bajar Pero mi Win rate puede llegar
+
+[03:01:35]
+a ser mayor Entonces lo importante es
+
+[03:01:38]
+tener un equilibrio entre los dos entre
+
+[03:01:40]
+el rr y el tamaño del stop loss es bien
+
+[03:01:43]
+importante mantener un buen equilibrio
+
+[03:01:45]
+entre estos dos debo de definir si
+
+[03:01:48]
+colocaré un sl Dinámico estándar o es
+
+[03:01:51]
+decir que pueda ser movido de acuerdo al
+
+[03:01:52]
+análisis de entrada o que sea siempre
+
+[03:01:55]
+igual por ejemplo a mí me gusta siempre
+
+[03:01:56]
+el Stop loss igual pero ya tú puedes
+
+[03:01:59]
+decidir eh si vas a colocar un stop loss
+
+[03:02:02]
+más grande más pequeño si lo vas a poder
+
+[03:02:04]
+recorrer no lo vas a poder recorrer si
+
+[03:02:07]
+va a ser Dinámico Qué significa Dinámico
+
+[03:02:09]
+que vas a poder ir subiéndolo conforme
+
+[03:02:11]
+el precio avanza todo este tipo de cosas
+
+[03:02:14]
+es bien importante que tú las tengas muy
+
+[03:02:16]
+en cuenta verdad entonces regular
+
+[03:02:18]
+también el Stop lop siempre en
+
+[03:02:19]
+porcentaje a mí me gusta siempre el
+
+[03:02:21]
+porcentaje de tu cuenta y recuerda que
+
+[03:02:23]
+esto depende mucho de la frecuencia de
+
+[03:02:25]
+trad que estás dispuesto a hacer
+
+[03:02:26]
+entonces depende de Cuántos trad vas a
+
+[03:02:29]
+hacer al día la semana para poder
+
+[03:02:32]
+definir el riesgo y también poder
+
+[03:02:34]
+definir al tamaño del stop loss debes de
+
+[03:02:36]
+estar tranquilo cuando el precio vaya a
+
+[03:02:38]
+tu stop porque sabes que está controlado
+
+[03:02:40]
+el riesgo y que tu FL te ayuda a saber
+
+[03:02:42]
+si tu análisis falló verad entonces
+
+[03:02:45]
+tranquilitos con el Stop loss no tengan
+
+[03:02:46]
+miedo pónganlo para eso está para que
+
+[03:02:49]
+nos proteja de pérdidas a futuro pasos
+
+[03:02:52]
+objetivos determinar el tamaño de la
+
+[03:02:54]
+zona a trabajar determinar si vas a
+
+[03:02:57]
+refinar o no esto puede aumentar o
+
+[03:02:59]
+permitir por un stop bloss más grande o
+
+[03:03:01]
+pequeño personas que no refinan entradas
+
+[03:03:04]
+pues eh que no buscan un punto de
+
+[03:03:06]
+entrada más exacto pueden permitirse
+
+[03:03:08]
+tener un stop loss más grande pero
+
+[03:03:10]
+personas que sí están buscando un tamaño
+
+[03:03:12]
+de stop bloss más pequeño que quieren un
+
+[03:03:14]
+rr más grande pues tienen que refinar un
+
+[03:03:16]
+poco más o Buscar ese punto de entrada
+
+[03:03:18]
+Exacto verdad de terminar según mi
+
+[03:03:20]
+estrategia qué puntos estratégicos vas a
+
+[03:03:22]
+poner el sl también ver si pones un sl
+
+[03:03:25]
+igual siempre debes de trabajar el
+
+[03:03:27]
+tamaño de tus zonas igual o parecido
+
+[03:03:29]
+verdad si vas a usar confirmaciones
+
+[03:03:31]
+tienes que medir el tamaño de stop l de
+
+[03:03:33]
+tu zonas de confirmación y dónde vas a
+
+[03:03:35]
+buscar el refine ya una vez visto el
+
+[03:03:38]
+tamaño de tu stop loss de acuerdo a la
+
+[03:03:41]
+zona debe de ser un stop loss lógico
+
+[03:03:44]
+verad con un rr que quieres ejecutar o
+
+[03:03:47]
+obvio tendrás que combinarlo con los
+
+[03:03:49]
+objetivos verdad por último qué tenemos
+
+[03:03:52]
+chicos la simplificación a un modo de
+
+[03:03:54]
+ejemplo de cómo deberíamos de poder
+
+[03:03:56]
+colocar el Stop loss por ejemplo trabajo
+
+[03:03:59]
+mi fractal mayor de h4 ve ese fractal
+
+[03:04:01]
+mayor de h4 mide 150 puntos voy a
+
+[03:04:05]
+refinar a mi1 O sea me bajo una
+
+[03:04:07]
+temporalidad menor mido la zona en h4 y
+
+[03:04:09]
+decido la confirmación en m5 que me m15
+
+[03:04:12]
+Perdón que me abarca 50 puntos o si no
+
+[03:04:15]
+trabajo con confirmación las zonas de h4
+
+[03:04:17]
+me miden 150 puntos una zona de h4
+
+[03:04:20]
+suficientemente grande te mide 150
+
+[03:04:22]
+puntos entonces uso un stop loss
+
+[03:04:24]
+parecido Casi siempre o puedo refinar en
+
+[03:04:26]
+h1 que me abarcan 70 puntos Hay muchas
+
+[03:04:29]
+formas de esto pero esto es lo básico y
+
+[03:04:31]
+lo mejor pues yo creo que esto es lo más
+
+[03:04:33]
+básico del stop loss eh el Stop loss
+
+[03:04:36]
+Considero que es un tema bastante
+
+[03:04:38]
+importante pero que yo creo que se haya
+
+[03:04:41]
+entendido bastante bien verdad el Take
+
+[03:04:43]
+profit o la salida verdad Entonces el
+
+[03:04:46]
+Take profit es una o tomar ganancias es
+
+[03:04:48]
+una orden de un Trader que que el Trader
+
+[03:04:50]
+coloca para vender un activo cuando
+
+[03:04:52]
+alcance un precio determinado esta
+
+[03:04:54]
+herramienta se utiliza para asegurar las
+
+[03:04:56]
+ganancias una vez que el mercado alcanza
+
+[03:04:58]
+un nivel favorable entonces la orden
+
+[03:05:01]
+Take profit cierra automáticamente la
+
+[03:05:04]
+posición Una vez que se alcanza el
+
+[03:05:05]
+precio objetivo predeterminado del
+
+[03:05:07]
+Trader para capitalizar las ganancias el
+
+[03:05:10]
+el Take profit hay muchas maneras de
+
+[03:05:12]
+hacerlo pero yo lo hago actualmente fijo
+
+[03:05:15]
+Qué significa que es fijo que eh está
+
+[03:05:19]
+siempre en un nivel basado en qué basado
+
+[03:05:22]
+en un Back testing no basado en un High
+
+[03:05:26]
+en un low etcétera etcétera Pero aquí te
+
+[03:05:29]
+voy a decir o te voy a definir unas
+
+[03:05:32]
+ideas para que tú puedas poder definir
+
+[03:05:34]
+tu Take profit lo primero es entender el
+
+[03:05:36]
+máximo potencial de tu Trade entender
+
+[03:05:39]
+hasta dónde va a llegar tu Trade como
+
+[03:05:41]
+máximo verdad Y dónde podrías estar
+
+[03:05:44]
+poniendo esa orden de de toma de
+
+[03:05:46]
+ganancia los segundo es entender En qué
+
+[03:05:49]
+parte del mercado vamos a tomar ganancia
+
+[03:05:51]
+entender Qué es la parte de Mercado que
+
+[03:05:53]
+Tú manejas mejor luego vas a definir tus
+
+[03:05:56]
+targets que sean unos targets totalmente
+
+[03:05:59]
+objetivos unos targets que tú digas el
+
+[03:06:02]
+precio siempre me da el uno a dos el
+
+[03:06:04]
+precio siempre me da el uno a tres
+
+[03:06:05]
+entonces Aquí voy a definir mis targets
+
+[03:06:07]
+de manera objetiva luego lo que vamos a
+
+[03:06:09]
+hacer es sistematizar esta forma de
+
+[03:06:12]
+tomar ganancias Ya lo vamos a hacer una
+
+[03:06:14]
+regla fija a partir de hacerlo una regla
+
+[03:06:16]
+fija ya vamos a poder tener siempre una
+
+[03:06:19]
+idea de dónde vamos a tomar beneficios
+
+[03:06:22]
+antes de entrar un Trade es bien
+
+[03:06:24]
+importante que antes de entrar un Trade
+
+[03:06:26]
+tú sepas dónde vas a estar tomando
+
+[03:06:27]
+beneficios si no somos capaces de dejar
+
+[03:06:30]
+correr si no eres capaz o te cuesta
+
+[03:06:32]
+dejar correr un Trade al uno a tres al
+
+[03:06:35]
+uno a cuatro al uno a cco vamos a
+
+[03:06:36]
+colocar lo que son descargas de presión
+
+[03:06:39]
+las descargas de presión Qué son los
+
+[03:06:41]
+parciales si tú eres una persona que te
+
+[03:06:43]
+cuesta quieres tu tu Trade siempre te
+
+[03:06:45]
+llega al uno a cco pero te cuesta por
+
+[03:06:47]
+cuestiones psicológicas por lo que tú
+
+[03:06:49]
+quieras entonces vas a colocar parcial
+
+[03:06:51]
+en el uno a dos en el uno a uno en el
+
+[03:06:53]
+uno a tres también esta estos parciales
+
+[03:06:56]
+en un futuro te van a ayudar a ti a ver
+
+[03:06:58]
+bueno el precio siempre llega al uno a
+
+[03:07:00]
+tres pero es un parcial o Entonces ya a
+
+[03:07:03]
+lo mejor tu ratio y riesgo beneficio en
+
+[03:07:05]
+lugar de ser uno a cco que era
+
+[03:07:06]
+inicialmente Ahora va a ser uno a tres
+
+[03:07:08]
+en el parcial pero ya no vas a tomar
+
+[03:07:10]
+parciales esto también te va a ayudar
+
+[03:07:12]
+para poder medir dónde podrías tú salir
+
+[03:07:14]
+con mayor objetividad luego lo que vas a
+
+[03:07:16]
+tener en cuenta que para que sea una una
+
+[03:07:19]
+operación ganadora depende del Target El
+
+[03:07:21]
+sl y la gestión del Trade verad medir
+
+[03:07:24]
+hasta cuándo somos capaces de dejar
+
+[03:07:26]
+correr una operación muchas personas no
+
+[03:07:28]
+son capaces de dejar correr una
+
+[03:07:29]
+operación por cuestiones psicológicas o
+
+[03:07:31]
+entonces eh entender eso no si quieres
+
+[03:07:34]
+estar ganando más frecuentemente quieres
+
+[03:07:36]
+estar dejando correr un Trade eh yo
+
+[03:07:38]
+personalmente antes tenía eh un rr de
+
+[03:07:41]
+uno a seis tomaban uno a seis siempre
+
+[03:07:43]
+tomaban unos parciales y se me quedaban
+
+[03:07:44]
+uno cuatro y después bajé a un 1 a 1.6 y
+
+[03:07:49]
+estoy teniendo unos resultados enormes
+
+[03:07:51]
+Entonces no tengas paradigmas con lo que
+
+[03:07:53]
+son eh los los targets verdad siempre
+
+[03:07:56]
+tiene que ser un Target que tú digas
+
+[03:07:58]
+Bueno mi estrategia aquí me lo da soy
+
+[03:08:00]
+capaz de dejar psicológicamente correr
+
+[03:08:02]
+el Trade hasta ese nivel Y a partir de
+
+[03:08:04]
+ahí ya puedes tú tomar ganancias de
+
+[03:08:06]
+forma profesional es importante que
+
+[03:08:08]
+estés probando con diferentes ratios
+
+[03:08:10]
+riesgo beneficio con el 1 do con el 1 TR
+
+[03:08:12]
+para ver dónde te sientes más cómodo eh
+
+[03:08:14]
+B estes en tu estrategia eh Hasta cuánto
+
+[03:08:17]
+te da ganancias hasta el 1 a 1 1 2 1 a 3
+
+[03:08:20]
+1 cu 1 C eh Y también que tengas en
+
+[03:08:23]
+cuenta el tamaño del stop loss tal vez
+
+[03:08:24]
+prefiero sacrificar stop bl tenerlo un
+
+[03:08:27]
+poquito más grande pero estoy más seguro
+
+[03:08:29]
+más más tranquilo en la operación porque
+
+[03:08:31]
+mi stop bl está más grande no me va a
+
+[03:08:32]
+sacar tan fácil pero tengo un rr más
+
+[03:08:35]
+pequeño o Quiero un rr más pequeño y un
+
+[03:08:38]
+stop bloss más eh eh Perdón un rr más
+
+[03:08:41]
+grande y un stbl más pequeño por último
+
+[03:08:43]
+teníamos la teoría de Max potential
+
+[03:08:45]
+Trade es hasta hasta dónde yo quiero
+
+[03:08:48]
+tomar beneficios dónde estoy dispuesto a
+
+[03:08:50]
+tomar en verdad mis beneficios por
+
+[03:08:52]
+ejemplo aquí tenemos el caso número a
+
+[03:08:54]
+que es una entrada Aquí en esta zona en
+
+[03:08:56]
+donde dice entry aquí tenemos una
+
+[03:08:58]
+entrada en esta zona y el precio lo
+
+[03:09:00]
+dejas correr hasta acá verdad Pero
+
+[03:09:02]
+dentro de eso tú te comes todos los
+
+[03:09:04]
+retrocesos que hay en el precio hasta
+
+[03:09:06]
+llegar el precio hasta acá pero cómo
+
+[03:09:08]
+determinas esto Pues con tu Back testing
+
+[03:09:10]
+determinas que tú vas a poder salir ahí
+
+[03:09:12]
+a partir de aquí pues tú ya puedes fijar
+
+[03:09:13]
+niveles de parciales si quieres tenemos
+
+[03:09:16]
+el caso B Que fíjate que eh lo es la
+
+[03:09:19]
+misma entrada pero en lugar de de de
+
+[03:09:21]
+tomar beneficios hasta arriba pues lo
+
+[03:09:23]
+toma eh antes antes el caso se es lo
+
+[03:09:26]
+mismo pero fíjate que el caso c
+
+[03:09:28]
+solamente toma una reacción en el precio
+
+[03:09:30]
+no toma todo el movimiento o la mitad
+
+[03:09:32]
+del movimiento Entonces ya a partir de
+
+[03:09:34]
+ahí tú podrías ir Ajustando y viendo eh
+
+[03:09:37]
+Cuál podría ser la mayor o forma más
+
+[03:09:40]
+fácil de poner tu Take profit primero
+
+[03:09:43]
+que es la gestión de riesgo entender
+
+[03:09:45]
+perfectamente que es la gestión de
+
+[03:09:46]
+riesgo y vamos a ver es la distribución
+
+[03:09:49]
+correcta del capital según los números
+
+[03:09:51]
+de Trade que hacemos al día semana o mes
+
+[03:09:53]
+entonces la distribución correcta de mi
+
+[03:09:56]
+capital según la frecuencia que entro en
+
+[03:09:59]
+el mercado Cuántos trades hago al día la
+
+[03:10:01]
+semana al mes eh etcétera etcétera es
+
+[03:10:04]
+arriesgar un porcentaje adecuado por
+
+[03:10:06]
+Trade para no perderlo en una sola idea
+
+[03:10:09]
+de comercio verad básicamente no
+
+[03:10:12]
+arriesgar todo en una sola idea verdad
+
+[03:10:14]
+es no apalancarse demasiado en una sola
+
+[03:10:17]
+idea de comercio y tener el riesgo de
+
+[03:10:20]
+perderlo todo es esencial para saber
+
+[03:10:22]
+cómo gestionar pasar una cuenta de
+
+[03:10:25]
+fondeo cómo trabajar con capital privado
+
+[03:10:28]
+capital propio Recuerden que eh la
+
+[03:10:31]
+gestión de riesgo en en en empresas de
+
+[03:10:34]
+fondeo en pruebas de fondeo no es la
+
+[03:10:36]
+misma en un challenge o una cuenta real
+
+[03:10:39]
+en un broker o en un capital privado es
+
+[03:10:42]
+diferente entonces es importante Conocer
+
+[03:10:44]
+bien a fondo la gestión de riesgo
+
+[03:10:46]
+también depende mucho del número de
+
+[03:10:48]
+frecuencia de tus TR hechos verdad yo
+
+[03:10:50]
+por ejemplo para pruebas de fondeo suelo
+
+[03:10:52]
+usar un 2% agresivo y conservador 1%
+
+[03:10:55]
+para cuentas like ya depende de qué
+
+[03:10:57]
+depende de Cuántos trad haces a la
+
+[03:10:59]
+semana Yo siempre digo esto por qué
+
+[03:11:02]
+depende tanto Gustavo porque Qué haces
+
+[03:11:03]
+ano incapié en eso porque si tú haces
+
+[03:11:06]
+muchísimos trades y usas un riesgo que
+
+[03:11:08]
+no es adecuado vas a poder quemar tu
+
+[03:11:10]
+cuenta en cambio haces muchísimos trads
+
+[03:11:13]
+pierdes muchísimo pero usas una gestión
+
+[03:11:15]
+de riesgo adecuado no va vas a perder tu
+
+[03:11:18]
+cuenta tú puedes estar operando de
+
+[03:11:19]
+manera agresiva y haciendo pocos trades
+
+[03:11:22]
+y no vas a perder tu cuenta por por
+
+[03:11:25]
+porque arriesgaste un 2% no la vas a
+
+[03:11:27]
+perder porque tú haces muy pocos trades
+
+[03:11:29]
+Entonces es importante que tú tengas muy
+
+[03:11:32]
+en cuenta eso de la gestión de riesgo
+
+[03:11:33]
+verdad Aquí vamos a ver unos puntos a
+
+[03:11:36]
+tomar en cuenta a considerar a la hora
+
+[03:11:38]
+de tener o gestionar una entrada
+
+[03:11:40]
+hablando Ya de la gestión de la
+
+[03:11:42]
+operación ya cuando ya entré ya puse mi
+
+[03:11:45]
+stop loss ya puse mi Take profit cómo
+
+[03:11:47]
+voy a estar durante el Trade es bien
+
+[03:11:50]
+importante que tú sepas Qué hacer
+
+[03:11:51]
+durante el Trade esto lo tenemos que
+
+[03:11:54]
+definir también en reglas claras Qué
+
+[03:11:56]
+hago yo durante el Trade vas a poner
+
+[03:11:59]
+breakeven por ejemplo Cuándo vas a poner
+
+[03:12:01]
+lo vas a poner el break even mucha gente
+
+[03:12:04]
+no sabe Pero puede ser dañino en
+
+[03:12:05]
+diferentes estrategias poner break even
+
+[03:12:08]
+no siempre es lo mejor muchas personas
+
+[03:12:09]
+piensan que poner break even Ah Es lo
+
+[03:12:12]
+mejor porque ya sí ya no pierdo pero
+
+[03:12:14]
+muchas veces te limita de más ganancias
+
+[03:12:16]
+yo por ejemplo no pongo braking en mi
+
+[03:12:18]
+estrategia Pero puede ser que en tu
+
+[03:12:19]
+estrategia te ayuda en otras estrategias
+
+[03:12:21]
+no entonces según la estrategia puede
+
+[03:12:24]
+ser beneficioso perjudicial vas a poner
+
+[03:12:26]
+descargas de presión que son los
+
+[03:12:27]
+parciales que ya les había hablado sobre
+
+[03:12:29]
+esto estos disminuyen tu rr pero te
+
+[03:12:31]
+aseguran estar tomando beneficios más
+
+[03:12:33]
+constantes estar más tranquilo tomar una
+
+[03:12:36]
+parte de una operación eh si tomarás
+
+[03:12:39]
+beneficios cuánto tomarás vas a tomar un
+
+[03:12:41]
+50% al beneficio al 1 a TR al 1 a cu eh
+
+[03:12:45]
+tres de 35
+
+[03:12:47]
+un tercio un 80% etcétera etcétera
+
+[03:12:50]
+entonces todo eso lo tienes que definir
+
+[03:12:53]
+para cuando estés en el Trade durante el
+
+[03:12:55]
+Trade ya el precio está corriendo ahí se
+
+[03:12:57]
+te está yendo a favor Se te está yendo
+
+[03:12:58]
+en contra no me no te me pongas a
+
+[03:13:01]
+inventar nada Tú ya tienes tus reglas
+
+[03:13:04]
+definidas correctamente antes ya sabes
+
+[03:13:07]
+dónde vas a tomar parciales ya sabes
+
+[03:13:08]
+dónde vas a salir vas a poner break even
+
+[03:13:11]
+vas a mover el Stop loss a stop profit
+
+[03:13:13]
+etcétera etcétera Vas a agregar más
+
+[03:13:15]
+posiciones todo eso ya lo tienes que
+
+[03:13:17]
+tener definido claramente aguantará
+
+[03:13:19]
+hasta tu Target hasta el final sin
+
+[03:13:21]
+derecho a hacer nada tienes beneficios
+
+[03:13:23]
+Como por ejemplo no tener la necesidad
+
+[03:13:25]
+de estar al pendiente de la operación eh
+
+[03:13:28]
+También la gestión del Trade tiene sus
+
+[03:13:30]
+pros y sus contras Por ejemplo yo entro
+
+[03:13:33]
+pongo stop Lost te profit y dejo que la
+
+[03:13:35]
+operación curra tiene sus beneficios
+
+[03:13:37]
+porque no ocupo estar al pendiente del
+
+[03:13:38]
+Trade pero por ejemplo tú quieres ir
+
+[03:13:40]
+recorriendo el Stop l poco a poco
+
+[03:13:42]
+conforme avanza tu operación tiene
+
+[03:13:44]
+también sus sus eh cosas perjudiciales
+
+[03:13:47]
+Como por ejemplo estar más al pendiente
+
+[03:13:49]
+de la operación eh Tienes que ir viendo
+
+[03:13:51]
+Estos factores que todos estos detalles
+
+[03:13:53]
+te van a afectar psicológicamente Sí o
+
+[03:13:56]
+sí en tu trading es importante que
+
+[03:13:58]
+tengas tus reglas definidas antes de
+
+[03:14:00]
+estar en un Trade cuando ya estés dentro
+
+[03:14:02]
+no vas a no te vas a comportar de esa
+
+[03:14:04]
+manera verad Ya tienes tus reglas
+
+[03:14:05]
+definidas reglas adicionales como
+
+[03:14:08]
+detalles del precio zonas dónde se irá a
+
+[03:14:10]
+salir es importante ser objetivos con
+
+[03:14:12]
+estas reglas y tratar de mecanizar lasas
+
+[03:14:14]
+para optar por una rutina que nos ayuda
+
+[03:14:16]
+a hacer más consistente por último
+
+[03:14:18]
+tenemos un ejemplo de mi gestión de
+
+[03:14:20]
+Trade siempre entro en la misma for de
+
+[03:14:23]
+la misma forma pongo mi mismo tamaño de
+
+[03:14:25]
+stop loss y mantengo el mismo ratio
+
+[03:14:27]
+riesgo beneficio Hay personas que dicen
+
+[03:14:29]
+bueno Gustavo yo uso un un a dos uno a
+
+[03:14:31]
+tres pero en base a qué en base a como
+
+[03:14:34]
+lo vea cómo que como lo veas chico
+
+[03:14:38]
+tienes que tener objetivamente Por qué
+
+[03:14:40]
+estás metiendo un uno a dos Y por qué
+
+[03:14:42]
+estás metiendo un uno a tres bueno
+
+[03:14:43]
+Gustavo Yo siempre tengo un uno a dos
+
+[03:14:45]
+por qué Porque mi bac roja que el uno a
+
+[03:14:48]
+dos siempre es el más frecuente que se
+
+[03:14:49]
+me da Ah Es diferente estás de manera
+
+[03:14:52]
+objetiva teniendo tu Target tengo un
+
+[03:14:54]
+Target fijo ya definido en mi Back
+
+[03:14:56]
+testing no pongo B nunca y dejo correr
+
+[03:14:58]
+los beneficios hasta mi Target mucha
+
+[03:15:00]
+gente dice No yo siempre pongo bak even
+
+[03:15:02]
+break even cuando ya va el uno a uno por
+
+[03:15:03]
+qué Oh pues porque me siento más
+
+[03:15:05]
+tranquilo Okay está bien Es válido pero
+
+[03:15:07]
+si puede ser que estadísticamente te no
+
+[03:15:10]
+te beneficie puede ser que estés dejando
+
+[03:15:12]
+de ganar cuando de tu estrategia podría
+
+[03:15:14]
+ser más ganadora es más perdedora porque
+
+[03:15:16]
+estás cortando las ganancias porque el
+
+[03:15:18]
+precio lo pones en breakeven pago el
+
+[03:15:21]
+precio que se mueva mientras y si se eh
+
+[03:15:24]
+si no puse Break y se me va en contra me
+
+[03:15:26]
+salgo Igualmente Eh hay diferentes
+
+[03:15:29]
+factores tú puedes gestionar como
+
+[03:15:31]
+quieras solo lo importante es que tomes
+
+[03:15:33]
+en cuenta las debilidades y fortalezas
+
+[03:15:35]
+tanto de tu estrategia como de tu las
+
+[03:15:37]
+tuyas y de tu gestión de Trade verdad es
+
+[03:15:40]
+bien importante que tú siempre estés
+
+[03:15:42]
+midiendo este tipo de cosas verad y
+
+[03:15:44]
+estos tipo de parámetros Yo espero que
+
+[03:15:46]
+esta guía te Sirva y te ayude a definir
+
+[03:15:49]
+cada una de tus reglas primero vamos a
+
+[03:15:50]
+definir Qué es el Back testing Entonces
+
+[03:15:53]
+el Back testing en trading es el proceso
+
+[03:15:55]
+de evaluar una estrategia de trading
+
+[03:15:57]
+utilizando datos históricos verad
+
+[03:15:59]
+utilizando el gráfico pasado vamos a
+
+[03:16:01]
+evaluar una estrategia de trading para
+
+[03:16:04]
+determinar Cómo habría funcionado en el
+
+[03:16:06]
+pasado Cómo Cuáles son los resultados
+
+[03:16:08]
+que habríamos podido tener nosotros
+
+[03:16:11]
+mediante este Back testing verdad este
+
+[03:16:13]
+método permite a los traders probar la
+
+[03:16:15]
+viabilidad de una estrategia antes de
+
+[03:16:18]
+aplicarla en un mercado totalmente real
+
+[03:16:21]
+verdad Entonces el Back testing implica
+
+[03:16:23]
+los siguientes pasos primero Definir la
+
+[03:16:26]
+estrategia bien importante tener una
+
+[03:16:28]
+estrategia si no no le puedes hacer Back
+
+[03:16:30]
+testing verdad Entonces tienes que tener
+
+[03:16:32]
+una serie de pasos de reglas y
+
+[03:16:34]
+parámetros de tu estrategia que quieres
+
+[03:16:35]
+evaluar lo segundo que vamos a hacer es
+
+[03:16:39]
+recopilar datos históricos obtener datos
+
+[03:16:41]
+de precios volúmenes históricos del
+
+[03:16:43]
+mercado en el que se planea operar
+
+[03:16:46]
+horarios Dónde temporalidades donde los
+
+[03:16:49]
+voy a analizar En qué pares lo voy a
+
+[03:16:50]
+analizar bien importante tener ya bien
+
+[03:16:52]
+en claro qué datos históricos quieres
+
+[03:16:55]
+recopilar luego ya por último tercero
+
+[03:16:57]
+tenemos la simulación que sería aplicar
+
+[03:16:59]
+la estrategia a los datos históricos
+
+[03:17:01]
+ejecutando operaciones como Si
+
+[03:17:03]
+estuvieran realizando en tiempo real
+
+[03:17:05]
+verad ya una vez eh la retrospectiva de
+
+[03:17:08]
+las velas Pero hay otro tipo de Back
+
+[03:17:10]
+testing también que yo le quiero enseñar
+
+[03:17:12]
+el día de hoy que no solamente es así
+
+[03:17:14]
+que me parece también bastante
+
+[03:17:15]
+importante entonces
+
+[03:17:17]
+el número cuatro es evaluar los
+
+[03:17:20]
+resultados analizar los resultados
+
+[03:17:21]
+obtenidos de la simulación incluyendo
+
+[03:17:23]
+métricas de rendimiento como la ganancia
+
+[03:17:25]
+pérdida neta el ratio riesgo beneficio
+
+[03:17:28]
+la tasa de aciertos El dropdown entre
+
+[03:17:29]
+otros o sea analizar Cómo hubiera podido
+
+[03:17:32]
+salir con un ratio de una dos con un
+
+[03:17:34]
+ratio de una un un ratio de una a tres
+
+[03:17:36]
+un ratio de una cuatro analizar qué
+
+[03:17:38]
+gestión de riesgos mejor con cuánto draw
+
+[03:17:41]
+down tiene tu estrategia analizar
+
+[03:17:43]
+Cuántas veces falla tu estrategia
+
+[03:17:45]
+seguidas cuál es la racha máxima de
+
+[03:17:48]
+seguidas de pérdida de tu estrategia
+
+[03:17:50]
+todos estos tipo de datos y detalles lo
+
+[03:17:52]
+tenemos que evaluar y tener resultados
+
+[03:17:54]
+de ellos verdad el cinco ya vamos a
+
+[03:17:57]
+tener ajustes y optimización ajustar la
+
+[03:17:59]
+estrategia según los resultados del Back
+
+[03:18:01]
+testing para mejorar su rendimiento
+
+[03:18:03]
+Entonces el objetivo de esto del Back
+
+[03:18:05]
+testing va a ser identificar si una
+
+[03:18:07]
+estrategia tiene un potencial de ser
+
+[03:18:08]
+rentable y evaluar su comportamiento eh
+
+[03:18:11]
+bien importante entender bien Qué es el
+
+[03:18:14]
+Back testing para qué se necesita y
+
+[03:18:16]
+saber qué se tiene que hacer muchas
+
+[03:18:18]
+personas quieren así usar una estrategia
+
+[03:18:21]
+la primera y y luego luego en cuanto ve
+
+[03:18:23]
+una estrategia en YouTube utilizarla y
+
+[03:18:25]
+ya meterse con esa estrategia y empezar
+
+[03:18:27]
+a operar y hacer una prueba de fondeo y
+
+[03:18:29]
+se alocan y van así superrápido y es
+
+[03:18:32]
+calmate tranquilízate evalúa tu
+
+[03:18:35]
+estrategia bien escribe qué métricas
+
+[03:18:37]
+tiene Cuánto gana cuánto pierde dónde es
+
+[03:18:40]
+mejor dónde peor es mejor en un Mercado
+
+[03:18:43]
+tendencial o es mejor en un mercado de
+
+[03:18:45]
+Rango es mejor en un mercado
+
+[03:18:47]
+este cíclico depende de eso Entonces al
+
+[03:18:52]
+tú tener todo este tipo de datos lo que
+
+[03:18:54]
+consigues es ganar confianza en tu
+
+[03:18:56]
+estrategia porque sabes que funciona y
+
+[03:18:58]
+tener todos los datos de el
+
+[03:19:00]
+comportamiento para cuando tu estrategia
+
+[03:19:02]
+se esté comportando de una manera es
+
+[03:19:05]
+saber que se está comportando de una
+
+[03:19:07]
+manera normal porque tú ya tienes los
+
+[03:19:09]
+datos muchas personas fallan y se ponen
+
+[03:19:11]
+mal con sentimientos pero realmente no
+
+[03:19:14]
+es que fallaste tú a lo mejor falló y tu
+
+[03:19:17]
+estrategia Pero simplemente como tú no
+
+[03:19:18]
+tienes los datos históricos de eso pues
+
+[03:19:21]
+entonces no no no sabes no sabes
+
+[03:19:24]
+realmente y te pones triste porque tú
+
+[03:19:26]
+crees que fallaste o perdiste pero
+
+[03:19:28]
+realmente es que tu estrategia está
+
+[03:19:30]
+fallando verdad Entonces Vámonos con los
+
+[03:19:32]
+tipos de Back Back testing que yo
+
+[03:19:35]
+utilizo lo vamos a poner en tres tipos
+
+[03:19:37]
+el primero va a ser el tipo uno que es
+
+[03:19:39]
+con retrospectiva Pero me gusta estar
+
+[03:19:41]
+mirando la acción de precio en ningún
+
+[03:19:43]
+momento está oculta este tipo solo uso
+
+[03:19:45]
+para analizar mejoras y fallos de
+
+[03:19:47]
+diversos escenarios o ajustes de la
+
+[03:19:49]
+estrategia O sea que con el gráfico
+
+[03:19:52]
+abierto sin regresar las velas para
+
+[03:19:54]
+atrás sin esconder nada simplemente lo
+
+[03:19:57]
+que hago es ir en el tiempo hacia atrás
+
+[03:20:00]
+pero no muevo las velas hacia atrás
+
+[03:20:02]
+simplemente voy observando cada punto
+
+[03:20:05]
+del del precio verdad esto para qué me
+
+[03:20:07]
+sirve me sirve para analizar Por qué el
+
+[03:20:10]
+precio reacciona en una situación
+
+[03:20:12]
+reacciona en una zona reacciona en otra
+
+[03:20:14]
+zona Por qué se regresa por qu eh llega
+
+[03:20:17]
+al uno a uno y se va etcétera etcétera
+
+[03:20:19]
+entonces me sirve mucho para un análisis
+
+[03:20:22]
+crítico de mi estrategia más que nada el
+
+[03:20:25]
+tipo dos es la más clásica que es la
+
+[03:20:27]
+retrospectiva de las velas o sea ahora
+
+[03:20:29]
+sí aquí lo que hago es echar las velas
+
+[03:20:31]
+para atrás verad le hago para atrás lo
+
+[03:20:34]
+pueden usar ustedes en FX Replay o en
+
+[03:20:37]
+trading View yo lo suelo hacer en
+
+[03:20:38]
+trading View pero dicen que FX Replay
+
+[03:20:41]
+están bastante bueno y tiro las velas
+
+[03:20:44]
+para atrás y lo que hago es ejecutar
+
+[03:20:47]
+entradas en mi horario principalmente de
+
+[03:20:49]
+ejecución y analizar el contexto del
+
+[03:20:51]
+mercado Y a partir de ahí ir ejecutando
+
+[03:20:53]
+pero ahí sí voy recolectando más Data en
+
+[03:20:56]
+todas en todos los tipos de Back testing
+
+[03:20:58]
+voy recolectando más Data pero aquí
+
+[03:20:59]
+mucho más porque aquí estoy poniéndole
+
+[03:21:02]
+la variante de que yo puedo equivocarme
+
+[03:21:04]
+al ejecutar la estrategia Entonces al
+
+[03:21:06]
+hacer este Back testing yo digo ejecuté
+
+[03:21:09]
+bien mi estrategia Okay Sí salió bien
+
+[03:21:11]
+ejecuté bien mi estrategia Sí salió mal
+
+[03:21:13]
+la ejecuté mal salió iba a salir bien
+
+[03:21:16]
+entonces Estos tipos de datos son los
+
+[03:21:18]
+que a mí me interesan y el tipo número
+
+[03:21:20]
+tres chicos va a ser pruebo la
+
+[03:21:22]
+estrategia en un mercado real con
+
+[03:21:23]
+pruebas o cuentas de fondeo Ahora sí voy
+
+[03:21:27]
+a probar mi estrategia pero no la voy a
+
+[03:21:29]
+probar en un mercado real ya estoy
+
+[03:21:32]
+poniendo mercado real Cuando me refiero
+
+[03:21:34]
+a mercado real Es que yo voy a operar
+
+[03:21:36]
+Por ejemplo si mi estrategia me dice que
+
+[03:21:38]
+todos los días a las 8 de la mañana
+
+[03:21:40]
+nuevayork voy a operar y voy a hacer
+
+[03:21:42]
+tales cosas ya lo voy a hacer antes de
+
+[03:21:44]
+que suceda o sea voy a meter las
+
+[03:21:46]
+operaciones yo en vivo a mi metatrader
+
+[03:21:48]
+verad aquí yo voy a meter las
+
+[03:21:49]
+operaciones a mi metatrader y lo que voy
+
+[03:21:52]
+a hacer es estar recolectando Data pero
+
+[03:21:54]
+lo voy a hacer en cuentas de pueden
+
+[03:21:56]
+hacerlo en cuentas de fondeo pequeñas
+
+[03:21:58]
+eso yo lo que llamo Back testing activo
+
+[03:22:00]
+o un Back testing estoy haciendo una
+
+[03:22:04]
+cuenta de fondeo Pero no mi finalidad no
+
+[03:22:05]
+es pasar la cuenta de fondeo sino hacer
+
+[03:22:07]
+el Back testing de la estrategia ver o
+
+[03:22:09]
+lo pueden hacer en cuentas demo también
+
+[03:22:11]
+o cuentas free Trail también de de ftmo
+
+[03:22:15]
+de next cuentas de prueba de eh de
+
+[03:22:18]
+empresas de fondeo y luego vamos a hacer
+
+[03:22:20]
+un mercado en vivo para testear mis
+
+[03:22:22]
+emociones no solo los datos verdad
+
+[03:22:25]
+Entonces eh Para eso me sirve este tipo
+
+[03:22:29]
+de Back testing Para yo poder eh Back
+
+[03:22:31]
+testear eh Mis comportamientos frente a
+
+[03:22:33]
+mi estrategia yaad pero ya no estoy eh
+
+[03:22:36]
+viendo la acción de precio pasada en
+
+[03:22:39]
+como en los casos anteriores que estoy
+
+[03:22:41]
+utilizando acción de precio pasada sino
+
+[03:22:43]
+aquí ya estoy Back testeando con acción
+
+[03:22:45]
+de precio que no ha sucedido o no ha
+
+[03:22:46]
+ocurrido verdad pero no estoy tomando
+
+[03:22:48]
+Todavía este no mi finalidad no es ganar
+
+[03:22:51]
+dinero sino B testear Cuáles son los
+
+[03:22:53]
+pros y los contras de mi estrategia
+
+[03:22:55]
+verdad Entonces tenemos Back testing más
+
+[03:22:58]
+completo vamos a para hacer un Back
+
+[03:22:59]
+testing más completo lo que hago es
+
+[03:23:01]
+seguir los pasos eh conjugar todos los
+
+[03:23:04]
+pasos o los tipos de Back testing para
+
+[03:23:06]
+yo tener un Back testing super completo
+
+[03:23:08]
+conjugo los tres tipos de Back testing o
+
+[03:23:11]
+utilizo los tres tipos de Back testing y
+
+[03:23:13]
+hago estos tres pasos primero el paso
+
+[03:23:15]
+uno voy a utilizar el tipo de
+
+[03:23:18]
+recopilación uno Data con la acción de
+
+[03:23:20]
+precio visible verad acuérdense aquí es
+
+[03:23:23]
+el gráfico visible Y no cambio nada más
+
+[03:23:27]
+que la acción de precio de hecho les voy
+
+[03:23:30]
+a dar un ejemplo ahorita les voy a dar
+
+[03:23:32]
+unos ejemplos ver paso dos uso el tipo
+
+[03:23:35]
+dos para recopilar una Data más avanzada
+
+[03:23:37]
+y paso tres uso el tipo tres para Back
+
+[03:23:39]
+testear emociones formas Y ya teniendo
+
+[03:23:42]
+una una base previa a de los demás Back
+
+[03:23:45]
+testing entonces chicos aquí el tipo uno
+
+[03:23:47]
+el baces tipo uno es yo agarro un
+
+[03:23:49]
+gráfico y yo designo mis pasos de mi
+
+[03:23:52]
+estrategia No pues lo que quiero ver eh
+
+[03:23:55]
+rompimiento de
+
+[03:23:57]
+estructura liquidez lo que quiero ver
+
+[03:23:59]
+verad y aquí analizo Ah okay Digo el día
+
+[03:24:02]
+lunes Okay voy a testear el día lunes
+
+[03:24:04]
+por ejemplo Aquí está el día lunes Qué
+
+[03:24:06]
+hubiera pasado aquí y lo que hago es
+
+[03:24:08]
+analizar No pues ya voy a marcar
+
+[03:24:10]
+correctamente la estructura un low un
+
+[03:24:12]
+High un low aquí había liquidez aquí el
+
+[03:24:15]
+precio Boom se pudo haber dado una
+
+[03:24:17]
+compra aquí algunas ventas o sea es el
+
+[03:24:21]
+análisis del gráfico como tal así pero
+
+[03:24:23]
+no hago retrospectiva de velas aquí me
+
+[03:24:26]
+gusta a mí ir poniéndole textos aquí
+
+[03:24:28]
+anclados y le voy poniendo aquí rompió
+
+[03:24:32]
+rompió tomó
+
+[03:24:35]
+liquidez y bajó decir verdad esto
+
+[03:24:38]
+solamente es un ejemplo voy poniéndole
+
+[03:24:41]
+yo textit me gusta poner ir poniéndole
+
+[03:24:43]
+textos aquí a cada uno de estos y los
+
+[03:24:45]
+voy marcando y todo esto lo voy
+
+[03:24:47]
+registrando en una vitacor una libreta
+
+[03:24:50]
+donde tú quieras pero voy voy yo
+
+[03:24:51]
+marcando este tipo de cosas o de
+
+[03:24:53]
+situaciones Y a partir de ahí voy eh
+
+[03:24:56]
+pasando por más cositas como por acá
+
+[03:24:58]
+abajo y voy Back testeando durante
+
+[03:25:01]
+bastante tiempo pero con el gráfico
+
+[03:25:03]
+prendido como quien dice o o sin
+
+[03:25:06]
+recorrer las velas en el segundo tipo de
+
+[03:25:09]
+Back testing fíjense este es
+
+[03:25:11]
+reproducción de velas más o menos de
+
+[03:25:13]
+este estilo agarro la reproducción de
+
+[03:25:14]
+velas entonces aquí ya por ejemplo
+
+[03:25:16]
+ustedes van a analizar que tenían este
+
+[03:25:18]
+punto este punto tenían tal día van a
+
+[03:25:20]
+analizar que aquí tenía una zona Y a
+
+[03:25:22]
+partir de ahí van a decir este va a ser
+
+[03:25:24]
+mi voy a analizar mis pasos de entrada
+
+[03:25:27]
+voy a tener mi plan de trading en mano
+
+[03:25:28]
+voy a analizar mis pasos de entrada y lo
+
+[03:25:30]
+que voy a hacer es dándole Play a las
+
+[03:25:32]
+velas verad voy a ir dándole Play a las
+
+[03:25:34]
+velas Y a partir de ir dándole Play a
+
+[03:25:37]
+las velas voy a ir aprendiendo de ese
+
+[03:25:39]
+Back testing Pero ahora sí que no es no
+
+[03:25:41]
+estoy viendo la acción de precio que
+
+[03:25:43]
+sucede de este lado verad no estoy
+
+[03:25:45]
+viendo nada de la acción de precio que
+
+[03:25:47]
+sucede de este lado en el anterior Back
+
+[03:25:49]
+testing o tipo de Back testing Eh sí
+
+[03:25:52]
+estaba viendo la acción de precio que
+
+[03:25:53]
+sucedía para los dos lados verad tanto
+
+[03:25:56]
+para acá como para acá esa serían mis
+
+[03:25:58]
+formas de hacer Back testing y el por
+
+[03:26:02]
+último es ejecución en tiempo reales
+
+[03:26:05]
+verdad ejecución antes de que el precio
+
+[03:26:07]
+esté formando Válgame que yo me pongo
+
+[03:26:09]
+por ejemplo en esta acción de precio el
+
+[03:26:11]
+precio todavía no ha hecho nada aquí t
+
+[03:26:13]
+ta ta analizo esta sesión Okay ta ta ta
+
+[03:26:16]
+y voy todos los días Eh ejecutando mi
+
+[03:26:18]
+estrategia pero en cuenta demo o en
+
+[03:26:20]
+pruebas de fondeo pequeñas voy
+
+[03:26:21]
+haciéndolo Pero antes de que suceda
+
+[03:26:24]
+antes de que suceda y y sin
+
+[03:26:25]
+retrospectiva veras ni nada lo voy
+
+[03:26:27]
+ejecutando en mi meta mi finalidad es
+
+[03:26:30]
+recopilar datos Mi finalidad no es ni
+
+[03:26:32]
+pasar ninguna prueba de fondeo ni ganar
+
+[03:26:34]
+dinero sino mi finalidad es ejecutar mi
+
+[03:26:37]
+estrategia y recopilar todo tipo de
+
+[03:26:39]
+datos verdad Entonces el ma testing en
+
+[03:26:41]
+mercados en vivo se hace porque es un ma
+
+[03:26:43]
+testing normal no tenemos el factor de
+
+[03:26:46]
+emociones por eso es importante ir a un
+
+[03:26:47]
+mercado en vivo y hacerlo entonces
+
+[03:26:49]
+principalmente por el factor emocional y
+
+[03:26:52]
+por el factor psicológico de que no no
+
+[03:26:55]
+lo tengo en los demás tipos de Back
+
+[03:26:57]
+testing que yo les he enseñado es por
+
+[03:26:59]
+eso que yo recomiendo que se haga este
+
+[03:27:02]
+Back testing yo recomiendo que cada 30
+
+[03:27:05]
+días tú hagas ese Back testing por lo
+
+[03:27:07]
+menos 20 días operativos y después de 20
+
+[03:27:10]
+días operativos o 30 días del calendario
+
+[03:27:13]
+vayas y veas todos los datos que has
+
+[03:27:16]
+recopilado cada te sientes y analices
+
+[03:27:19]
+todos los datos que has recopilado y
+
+[03:27:20]
+veas en qué estás fallando en Qué es
+
+[03:27:22]
+mejor tu estrategia en Qué es peor
+
+[03:27:24]
+etcétera etcétera Pero yo aquí tengo una
+
+[03:27:26]
+serie de pasos que les van a ayudar a
+
+[03:27:28]
+ustedes para identificar mejor ya
+
+[03:27:30]
+entonces el primer paso es abrir una
+
+[03:27:32]
+cuenta demo o real o una prueba de
+
+[03:27:34]
+fondeo la finalidad es enfocarnos en una
+
+[03:27:36]
+sol mente enfóquese en una sola cuenta
+
+[03:27:39]
+este va a ser el paso que tienen que
+
+[03:27:40]
+ustedes hacer mucha gente me me me me
+
+[03:27:43]
+pregunta cómo Gustavo Yo sé que ya estoy
+
+[03:27:46]
+preparado para una cuenta de fondeo para
+
+[03:27:48]
+pasarla bueno es esto cada uno de los
+
+[03:27:51]
+pasos que te he venido dando de
+
+[03:27:53]
+estrategia que si no has visto todos los
+
+[03:27:55]
+capítulos aprovecho para decir que los
+
+[03:27:56]
+tienes que ver cada uno de los capítulos
+
+[03:27:58]
+abajo en la descripción se encuentra la
+
+[03:28:00]
+Playlist para que los veas y este
+
+[03:28:03]
+después de eso vas a seguir esta serie
+
+[03:28:05]
+de pasos para Back testear tu estrategia
+
+[03:28:08]
+después de que ya tú tienes una cuenta
+
+[03:28:10]
+de
+
+[03:28:11]
+fondeo demo o tienes una cuenta demo o
+
+[03:28:14]
+tienes una cuenta de fondeo o a lo mejor
+
+[03:28:16]
+real pequeñita Por qué también se puede
+
+[03:28:18]
+con una cuenta real pequeñita porque ah
+
+[03:28:21]
+tú sientes las emociones ahí más porque
+
+[03:28:24]
+aún así aunque sea pequeñita ya sabes
+
+[03:28:26]
+que es una cuenta que tú puedes llegar a
+
+[03:28:28]
+pasar y que puedes
+
+[03:28:30]
+este tener ganancias yo por ejemplo este
+
+[03:28:33]
+este año precisamente los que me han
+
+[03:28:36]
+seguido saben que yo he venido
+
+[03:28:37]
+batallando con mi psicología con la
+
+[03:28:39]
+estrategia eh principal psicología por
+
+[03:28:43]
+todo lo que me pasó por mi historia pero
+
+[03:28:46]
+lo que hice fue eso comprar cuentas de
+
+[03:28:48]
+fondeo pequeñitas ir Back testeando mi
+
+[03:28:50]
+estrategia mis comportamientos mis
+
+[03:28:52]
+emociones y una cuenta de 5000 la pasé y
+
+[03:28:56]
+me sirvió a partir de ahí me fui con la
+
+[03:28:58]
+cuenta de 200,000 de ftmo y después la
+
+[03:29:01]
+pasé porque yo ya tenía las bases
+
+[03:29:03]
+sólidas luego después es empezar a
+
+[03:29:05]
+operar y recopilar datos de mi operativa
+
+[03:29:08]
+tres comportamientos emocionales de mi
+
+[03:29:11]
+gestión de riesgo Como cuánto estoy
+
+[03:29:14]
+arriesgando si
+
+[03:29:16]
+si tengo exceso de operativa si tengo
+
+[03:29:19]
+problemas de sobre operativa eh Mis
+
+[03:29:22]
+comportamientos emocionales las las
+
+[03:29:25]
+casuísticas que salgan por la operativa
+
+[03:29:28]
+casuísticas Qué significa los diferentes
+
+[03:29:31]
+cosas que te podrían llegar pasar que tú
+
+[03:29:33]
+no consideraste en un Back testing
+
+[03:29:35]
+previo eh ejemplo que ese día hubo una
+
+[03:29:39]
+noticia doble eh ese día hubo situación
+
+[03:29:44]
+fundamental esea día este te pasó algo y
+
+[03:29:48]
+te sentiste de una forma ese día te
+
+[03:29:50]
+levantaste de una forma de otra
+
+[03:29:53]
+casuísticas o casos detalles que te
+
+[03:29:55]
+podrían llegar a pasar cómo me siento
+
+[03:29:57]
+operando la estrategia tanta tanta
+
+[03:29:59]
+comodidad como emocionalmente muchas
+
+[03:30:01]
+veces la estrategia super buena pero yo
+
+[03:30:03]
+no me siento bien cómodo o no me siento
+
+[03:30:06]
+tan cómodo Resulta ser con ese rr el
+
+[03:30:09]
+mercado me daban el Back testing que el
+
+[03:30:11]
+rr 1 A4 o 1 a5 era el óptimo era el
+
+[03:30:15]
+donde yo I a tener más ganancias pero
+
+[03:30:17]
+resulta ser que yo me siento más cómodo
+
+[03:30:19]
+con el rr1 a2 son situaciones para eso
+
+[03:30:22]
+sirve este tipo de Back testing el se es
+
+[03:30:24]
+descubrir Cuáles días son mejores o
+
+[03:30:27]
+peores qué horarios toda la recopilación
+
+[03:30:30]
+de datos chicos que más puedan hacer
+
+[03:30:31]
+Ustedes es mejor el siete Cuáles días
+
+[03:30:34]
+escenarios no se debe de operar muy
+
+[03:30:37]
+importante saber cuándo no debo de
+
+[03:30:39]
+operar cuándo voy a evitar operar esa
+
+[03:30:41]
+estrategia por último tenemos lo que es
+
+[03:30:43]
+la evaluación continua eh tengo tres
+
+[03:30:46]
+pasos por aquí también operar al menos
+
+[03:30:48]
+20 días en cuenta demo Live de
+
+[03:30:50]
+preferencia Live para recopilar datos de
+
+[03:30:52]
+tus comportamientos emocionales ya les
+
+[03:30:54]
+decía 20 días por lo menos 30 días
+
+[03:30:56]
+operativos luego después perdón 20 días
+
+[03:31:00]
+operativos 30 días por lo menos de
+
+[03:31:01]
+calendario luego vas a filtrar esos
+
+[03:31:03]
+resultados cada 20 o 30 días Qué
+
+[03:31:06]
+significa filtrar vas a agarrar todos
+
+[03:31:08]
+los datos que V que recopilaste durante
+
+[03:31:10]
+20 días o 30 días de operando y esos
+
+[03:31:14]
+esos datos te vas a sentar y los vas a
+
+[03:31:16]
+analizar vas a ver Ah mira el
+
+[03:31:18]
+comportamiento que tengo todos los lunes
+
+[03:31:20]
+Ah mira los viernes siempre pierdo Ah
+
+[03:31:22]
+Mira esto esto y a partir de ahí vas a
+
+[03:31:24]
+poder tener margen de mejora después vas
+
+[03:31:27]
+a hacer un análisis exhaustivo de cada
+
+[03:31:29]
+uno de los resultados y vas a generar
+
+[03:31:30]
+cambios cuando sea necesario aquí con
+
+[03:31:33]
+los cambios es importante chicos
+
+[03:31:34]
+decirles que no se pasen de lanza como
+
+[03:31:36]
+decimos acá en México con modificar
+
+[03:31:39]
+cosas que están bien tienen que tener
+
+[03:31:41]
+mucho cuidado con esto y tienen que
+
+[03:31:43]
+modificar tienen que tener mucho que
+
+[03:31:45]
+criterio para modificar realmente lo que
+
+[03:31:47]
+Creen ustedes que no les está sirviendo
+
+[03:31:49]
+básense principalmente en su comodidad
+
+[03:31:52]
+emocional y en los números siempre si se
+
+[03:31:56]
+sienten más cómodos emocionales con algo
+
+[03:31:59]
+vean analícenlo Mediante los números
+
+[03:32:01]
+mediante vean si es rentable mediante
+
+[03:32:03]
+números vamos a ver beneficios y contras
+
+[03:32:06]
+ahora sí para que ustedes sepan Cuáles
+
+[03:32:08]
+son los beneficios y los contras de
+
+[03:32:10]
+operar con empresas de fondeo eh primero
+
+[03:32:13]
+acceso a bastante capital sin tener
+
+[03:32:16]
+necesidad de invertir mucho yo con 10
+
+[03:32:19]
+para obtener $1,000 reales pues ustedes
+
+[03:32:22]
+saben que aquí al menos en Latinoamérica
+
+[03:32:24]
+es bastante difícil con empresas de
+
+[03:32:27]
+fondeo tú puedes acceder desde 80 100 a
+
+[03:32:30]
+como máximo 150 a $1,000 reales o
+
+[03:32:35]
+Entonces nos permite que con poco
+
+[03:32:37]
+capital podamos acceder a mucho capital
+
+[03:32:40]
+o entonces poder tratar una cuenta con
+
+[03:32:43]
+una buena gestión de riesgo eso nos
+
+[03:32:44]
+lleva al segundo punto que vamos a
+
+[03:32:46]
+tratar Esas cuentas con una buena
+
+[03:32:49]
+gestión de riesgo porque las cuentas
+
+[03:32:52]
+pequeñitas de 100 de $1,000 de 80 de 50
+
+[03:32:55]
+de
+
+[03:32:56]
+00 no podemos poner una gestión de
+
+[03:32:58]
+riesgo correcta como podría ser el 1% el
+
+[03:33:01]
+2% de la cuenta tenemos que arriesgar
+
+[03:33:04]
+mucho más si queremos ganar más porque
+
+[03:33:05]
+si aplicamos una correcta gestión del
+
+[03:33:07]
+riesgo vamos a ganar nada y ahora sí que
+
+[03:33:10]
+va no vale la pena tanto esfuerzo de
+
+[03:33:12]
+estar quemándose las pestañas analizando
+
+[03:33:14]
+el mercado etcétera para ganar nada para
+
+[03:33:17]
+ganar tan poquito lo número tres van a
+
+[03:33:19]
+ser retiros decentes ganancias
+
+[03:33:21]
+interesantes por tener una cuenta de
+
+[03:33:23]
+buen tamaño Entonces lo mismo que les
+
+[03:33:25]
+decía al tener una cuenta de buen tamaño
+
+[03:33:27]
+podemos aplicar una buena gestión de
+
+[03:33:28]
+riesgo arriesgando el 1% arriesgando el
+
+[03:33:31]
+0% el 2% incluso vamos a poder tener
+
+[03:33:34]
+ganancias decentes cuando hablo
+
+[03:33:36]
+ganancias decentes es una cuenta de
+
+[03:33:38]
+$1,000 un 2% un 3% que le hag son 00 si
+
+[03:33:43]
+tú tienes una cuenta de 500
+
+[03:33:46]
+de perdón de sí de 00 o de 200 de 300 de
+
+[03:33:50]
+menos de 1000 estas ganancias no las vas
+
+[03:33:53]
+a poder obtener A menos que tú
+
+[03:33:55]
+arriesgues demasiado más o hagas
+
+[03:33:57]
+flipping o hagas otras estrategias
+
+[03:33:59]
+diferentes pero si tú tienes por ejemplo
+
+[03:34:01]
+una cuenta de 50,000 que ya yo es lo que
+
+[03:34:04]
+ya considero un buen capital para
+
+[03:34:07]
+empezar para empezar a operar con un 3%
+
+[03:34:09]
+que tú le hagas a la cuenta tú vas a
+
+[03:34:11]
+tener $500 de ganancia que
+
+[03:34:14]
+eh con lo que te quita la empresa que
+
+[03:34:16]
+normalmente es un 8020 pues te van a
+
+[03:34:18]
+Cedar unos 10000 1300 de ganancia que ya
+
+[03:34:21]
+es bastante decente ya con 000 1300 ya
+
+[03:34:24]
+haces algo va a impactar directamente en
+
+[03:34:27]
+tu vida no va a ser poco dinero que no
+
+[03:34:30]
+impacte en tu vida aparte va a valer la
+
+[03:34:31]
+pena el esfuerzo el cuatro es la
+
+[03:34:34]
+escalabilidad que al poder tener acceso
+
+[03:34:37]
+a cada vez más capital Entonces como ya
+
+[03:34:39]
+existen muchísimas empresas que sé yo sé
+
+[03:34:42]
+lo que pasa con las empresas ahorita
+
+[03:34:44]
+vamos a mencionar los puntos malos
+
+[03:34:46]
+pero al tener muchas empresas podemos
+
+[03:34:48]
+acceder a capitales como 200,000 300,000
+
+[03:34:51]
+400000 500,000 600,000 1 millón 3
+
+[03:34:54]
+millones podemos acceder a esos
+
+[03:34:56]
+capitales que esos capitales nos van a
+
+[03:34:58]
+poder arrojar mejores beneficios y la
+
+[03:35:00]
+otra es no arriesgar tu propio capital
+
+[03:35:02]
+aquí chicos algo super bueno que casi
+
+[03:35:05]
+nadie menciona es que las empresas de
+
+[03:35:08]
+fondeo tú tú eh puedes hacer esto tú
+
+[03:35:14]
+tienes una cuenta de 500000
+
+[03:35:16]
+real por este lado por este otro lado
+
+[03:35:19]
+tienes una cuenta de 50.000 de challenge
+
+[03:35:22]
+tú pasas tu challenge fase un fase dos
+
+[03:35:24]
+te dan la cuenta real Acá tienes la otra
+
+[03:35:26]
+cuenta real de capital propio supongamos
+
+[03:35:28]
+que ese mes te va mal y tú pierdes un
+
+[03:35:30]
+10% en la de fondeo y pierdes un 10% en
+
+[03:35:33]
+el en tu capital propio verdad la el
+
+[03:35:36]
+challeng lo pierdes tu cuenta le bajaste
+
+[03:35:39]
+el 10% tu cuenta de 00.000 qué pasa que
+
+[03:35:43]
+acá en tu capital real tú no puedes
+
+[03:35:46]
+hacer el borrón y cuenta nueva Porque ya
+
+[03:35:48]
+perdistes ese dinero eso es una pérdida
+
+[03:35:51]
+que ya no la puedes rescatar acá de este
+
+[03:35:54]
+lado inclusive si ya habías hecho el
+
+[03:35:55]
+primer retiro y ya te habían dado el
+
+[03:35:57]
+refone ya no ya la perdiste y no pasó
+
+[03:35:59]
+nada no perdiste nada acá de este lado
+
+[03:36:02]
+sí la pérdida la tienes con el capital
+
+[03:36:04]
+propio a pesar de que bueno Gustavo pero
+
+[03:36:07]
+no me quitaron la cuenta no sé quem Pues
+
+[03:36:09]
+sí pero la pérdida la sigues teniendo
+
+[03:36:11]
+para tú recuperar ese capital que
+
+[03:36:13]
+perdiste va a pasar tiempo y acá en el
+
+[03:36:15]
+challenge simplemente haces borrón y
+
+[03:36:17]
+cuenta nueva por lo mucho perdiste $250
+
+[03:36:20]
+$300 que cuesta la el challenge de de de
+
+[03:36:23]
+50k haces borrón y cuenta nueva y
+
+[03:36:26]
+compras otro challenge y se acabó
+
+[03:36:28]
+perdiste solamente
+
+[03:36:30]
+$300 Ese es el máximo potencial de las
+
+[03:36:33]
+empresas de fondeo que no necesitas
+
+[03:36:35]
+arriesgar tu capital para ganar dinero
+
+[03:36:38]
+aparte que no necesitas mucho dinero
+
+[03:36:41]
+para ganar dinero pero vamos a ir con
+
+[03:36:43]
+los contras primer contra que yo le veo
+
+[03:36:45]
+es un negocio muy nuevo y muchas
+
+[03:36:47]
+empresas cierran es un negocio que no
+
+[03:36:50]
+está regulado no hay regulaciones es muy
+
+[03:36:52]
+nuevo chicos lleva menos de 10 años la
+
+[03:36:55]
+empresa más viejita que yo conozco es
+
+[03:36:57]
+ftmo algunas de futuros un poquito más
+
+[03:36:59]
+pero no llevan más de 10 años ftm lleva
+
+[03:37:02]
+del 2015 a día hoy Que grabo esto
+
+[03:37:04]
+estamos
+
+[03:37:05]
+2024 el año que viene cumple 10 años
+
+[03:37:08]
+algunas de futuros creo que tiene un
+
+[03:37:10]
+poquito más pero no demasiado Entonces
+
+[03:37:13]
+es un negocio muy nuevo un negocio de
+
+[03:37:15]
+menos de 10 años ustedes saben que es un
+
+[03:37:16]
+negocio nuevo los pagos no son cuando tú
+
+[03:37:19]
+quieras otra cosa con los broker tú
+
+[03:37:22]
+puedes relativamente retirar tu dinero
+
+[03:37:23]
+cuando tú quieras con las empresas de
+
+[03:37:25]
+fondeo te van a poner límites en cada
+
+[03:37:28]
+mes cada dos meses Perdón cada dos meses
+
+[03:37:31]
+no cada mes cada dos semanas eh te van a
+
+[03:37:34]
+poner una fecha pierdes tiempo en pasar
+
+[03:37:36]
+la prueba estás otra con la cuenta real
+
+[03:37:38]
+vas directamente a hacer tu profit acá
+
+[03:37:40]
+puedes tener yo normalmente estoy
+
+[03:37:42]
+pasando cuentas en un mes 15 días la
+
+[03:37:45]
+primera fase y otros 15 o 20 días la
+
+[03:37:47]
+segunda fase por lo menos por muy bueno
+
+[03:37:50]
+que tú seas vas a perder un tiempo Al
+
+[03:37:51]
+menos que tú te sobre apalan ques pero
+
+[03:37:54]
+ya no te dejan apalancarte las empresas
+
+[03:37:56]
+de fondeo porque ya es ilegal como quien
+
+[03:37:58]
+dice ya no te dejan hacer eso las regl
+
+[03:38:01]
+es que tal vez en un broker no hay O sea
+
+[03:38:03]
+no hay reglas eh lo hace más complicado
+
+[03:38:06]
+de El trading el trading y más
+
+[03:38:08]
+complicado retirar O sea hay muchas
+
+[03:38:10]
+reglas te metes a una serie de reglas
+
+[03:38:13]
+que en un broker no vas a tener reglas
+
+[03:38:16]
+tan raras sí tienes reglas en ciertos
+
+[03:38:19]
+Brokers pero casi casi tienes 100%
+
+[03:38:21]
+Libertad en las empresas de fondeo hay
+
+[03:38:23]
+reglas de pérdida máxima
+
+[03:38:25]
+pérdida sí pérdida máxima pérdida del
+
+[03:38:28]
+día este Cuándo van a hacer los pagos
+
+[03:38:30]
+cuá van a hacer los retiros hay reglas
+
+[03:38:33]
+de consistencia de que si no puedes
+
+[03:38:34]
+arriesgar tanto por por operación que si
+
+[03:38:38]
+no puedes operar noticias que si 2
+
+[03:38:42]
+minutos antes de la noticia puedes debes
+
+[03:38:44]
+de operar etcétera etcétera hay muchas
+
+[03:38:46]
+reglas de consistencia Entonces te
+
+[03:38:48]
+limitan bastante tienes que adaptarte a
+
+[03:38:50]
+todo este tipo de reglas Entonces estos
+
+[03:38:52]
+son los pros y contras de las empresas
+
+[03:38:54]
+de fondeo para que ustedes sepan a lo
+
+[03:38:56]
+que se están metiendo a lo que se están
+
+[03:38:58]
+ateniendo a la hora de operar acá yo lo
+
+[03:39:00]
+que más recomiendo es diversificar
+
+[03:39:01]
+pueden tener las dos cosas yo
+
+[03:39:03]
+actualmente me especializo en operar
+
+[03:39:04]
+empresas de fondeo pero no descarto en
+
+[03:39:07]
+un futuro poder operar con mi capital
+
+[03:39:09]
+propio para ir creciendo una cuenta pero
+
+[03:39:11]
+ya les mostraré después en su tiempo una
+
+[03:39:14]
+estrategia para hacerlo de manera óptima
+
+[03:39:16]
+enfoque de riesgo en prueba de fondeo
+
+[03:39:18]
+primero lo que tenemos es el Challenger
+
+[03:39:20]
+enfoque agresivo Generalmente Al menos
+
+[03:39:22]
+que no tengas experiencia O sea si tú no
+
+[03:39:24]
+tienes experiencia esto es estrategia
+
+[03:39:27]
+para pasar las pruebas de fondeo Si tú
+
+[03:39:29]
+no tienes experiencia vete tranquilo
+
+[03:39:31]
+vete con un 1% vete un 0.5 por por idea
+
+[03:39:35]
+de Trade o por idea comercial le llamo
+
+[03:39:37]
+yo o por idea de Trade vete tranquilo
+
+[03:39:40]
+porque tú nunca has pasado una empresa
+
+[03:39:42]
+de fondeo si arriesgas demás y la
+
+[03:39:44]
+pierdes tu psicología se va a
+
+[03:39:46]
+entonces vete tranquilo pero una vez tú
+
+[03:39:48]
+ya tienes la experiencia ya Hazlo
+
+[03:39:50]
+agresivo aunque no demasiado agresivo
+
+[03:39:52]
+porque te pueden llegar a banear estas
+
+[03:39:54]
+empresas porque eres demasiado agresivo
+
+[03:39:56]
+te llaman gambler apostador Entonces yo
+
+[03:40:00]
+normalmente riesgo alto entre el 1.5 por
+
+[03:40:04]
+y 2% por idea comercial para pasar
+
+[03:40:07]
+rápido esas es de primera fase Por qué
+
+[03:40:11]
+Porque no es poquito lo que se le tiene
+
+[03:40:12]
+que hacer es un 10 o un 8% paso número
+
+[03:40:15]
+número dos Challenger fase 2 enfoque
+
+[03:40:18]
+medio riesgos entre el 1 al 1.5 en este
+
+[03:40:22]
+yo me sigo yendo Igualmente con el 2%
+
+[03:40:25]
+Pero porque yo ya tengo bastante
+
+[03:40:27]
+experiencia y Porque quiero pasar la
+
+[03:40:29]
+fase lo más antes posible pero si tú no
+
+[03:40:32]
+te sientes tan cómodo puedes irte con un
+
+[03:40:33]
+1 con 1.5 por. Este es el enfoque del
+
+[03:40:36]
+riesgo verdad ya en la cuenta Live Ya
+
+[03:40:39]
+estás enfocado en en en retirar entonces
+
+[03:40:43]
+ahí yo me voy con un 0.7 5 a un 0.5 como
+
+[03:40:47]
+máximo un 1% por operación o por idea
+
+[03:40:51]
+comercial y lo que les los el enfoque
+
+[03:40:54]
+también de riesgo que les quiero dar en
+
+[03:40:56]
+empresas de fondeo es que se enfoquen
+
+[03:40:58]
+más en calidad antes que cantidad O sea
+
+[03:41:01]
+que disminuyan el número de trads que
+
+[03:41:03]
+hacen háganlos con más riesgo pero con
+
+[03:41:07]
+más calidad eso les va a ayudar mucho a
+
+[03:41:09]
+no sobre operar y también en cuentas de
+
+[03:41:11]
+fondeo les va a permitir 1% un 1 a dos
+
+[03:41:15]
+2% y retiro Véngase para acá el retiro
+
+[03:41:17]
+luego luego entonces bien importante eso
+
+[03:41:20]
+para que tampoco cuando lleguen a la
+
+[03:41:22]
+cuenta real no la pierdan Porque mucha
+
+[03:41:24]
+gente se aloca se va y se empieza a
+
+[03:41:26]
+operar como loco 5 10 operaciones a la
+
+[03:41:28]
+semana no váyanse tranquilos yo por
+
+[03:41:30]
+ejemplo esta semana es la bueno esta
+
+[03:41:34]
+segunda semana es mi segunda semana con
+
+[03:41:36]
+mi cuenta real de ftmo de 200k Entonces
+
+[03:41:39]
+qué estoy haciendo yo primera semana
+
+[03:41:41]
+perdí el 1% pero voy tranquilo hice una
+
+[03:41:44]
+operación en la semana muy tranquilo
+
+[03:41:46]
+para que tú estés chilling tranquilito
+
+[03:41:48]
+Aunque pierdas la segunda semana que es
+
+[03:41:51]
+esta semana que estoy grabando esto he
+
+[03:41:53]
+perdido también otro 1% pero esta semana
+
+[03:41:56]
+me voy a permitir perder otro 1% tal vez
+
+[03:41:59]
+que sean máximo tres pero si pierdo el
+
+[03:42:01]
+otro 1% se acabó dos semanas he perdido
+
+[03:42:05]
+el 3% si llego a perder la otra
+
+[03:42:07]
+operación que está corriendo actualmente
+
+[03:42:09]
+Entonces es 1.5 en promedio por semana
+
+[03:42:13]
+es muy tranquilo tú tardarías nu 8 o 10
+
+[03:42:17]
+semanas en perder una cuenta de esta
+
+[03:42:20]
+forma Entonces es bien importante
+
+[03:42:22]
+también para que ustedes aprendan a no
+
+[03:42:25]
+perder las cuentas reales porque luego
+
+[03:42:26]
+se me alocan en cuentas real están
+
+[03:42:28]
+nerviosos y empiezan a sobre operar y
+
+[03:42:31]
+muchas operaciones porque ya Quiero
+
+[03:42:32]
+ganar quiero retirar quiero ser
+
+[03:42:33]
+millonario y queman la cuenta entonces
+
+[03:42:37]
+tranquilitos ahora qué tengo por acá
+
+[03:42:39]
+estrategia para retiros y
+
+[03:42:40]
+diversificación la regla del 1 a 2% no
+
+[03:42:43]
+se vayan con tanto porc ventaje de
+
+[03:42:45]
+retiro no es necesario mejor Busca
+
+[03:42:48]
+operar con un riesgo bajito y retiros
+
+[03:42:50]
+entre el 1 y el 2% diversificar entre
+
+[03:42:53]
+primero las mejores empresas y luego las
+
+[03:42:55]
+demás váyanse con las mejores empresas
+
+[03:42:57]
+al principio traten de diversificar y ya
+
+[03:43:00]
+después se van con las empresas que
+
+[03:43:02]
+consideren que no son las top pero que
+
+[03:43:04]
+sí están buenas para que vayan
+
+[03:43:06]
+diversificando la finalidad es ir
+
+[03:43:08]
+rápidamente a recuperar la inversión Y
+
+[03:43:10]
+ser consistente con los pagos o retiros
+
+[03:43:12]
+verdad empezar con cuentas peques
+
+[03:43:15]
+inferiores a 50k y luego ir accediendo a
+
+[03:43:18]
+cuentas más grandes en diferentes
+
+[03:43:19]
+empresas cuentas peques abajo de 50k 50k
+
+[03:43:23]
+es un buen número para empezar y a
+
+[03:43:25]
+partir de ahí pueden empezar a tirar
+
+[03:43:26]
+Aunque si no se sienten tan cómodos si
+
+[03:43:28]
+no tienen el capital para invertir
+
+[03:43:30]
+eh compren cuentas más PC Yo siempre he
+
+[03:43:33]
+dicho que tú deberías de tener tres
+
+[03:43:35]
+veces o el triple de la cuenta que
+
+[03:43:38]
+quieres comprar Por ejemplo si tú
+
+[03:43:41]
+quieres comprar una cuenta de 50k y
+
+[03:43:43]
+cuesta esa cuenta de 50 $300 Tú deberías
+
+[03:43:46]
+de tener
+
+[03:43:47]
+$900 Por qué Gustavo $900 para que estés
+
+[03:43:51]
+tranquilo para si pierdes la cuenta en
+
+[03:43:53]
+ese Limbo de intentar pasarla tú estás
+
+[03:43:55]
+tranquilo porque sabes que tienes más
+
+[03:43:57]
+puedes comprar otra cuenta y seguir
+
+[03:43:59]
+continuando con tu aprendizaje guardar
+
+[03:44:01]
+capital por si te sale mal para poder
+
+[03:44:04]
+seguir invirtiendo operar las cuentas
+
+[03:44:06]
+por separado por si te sale mal no
+
+[03:44:08]
+pierdes una cuenta mucha gente también
+
+[03:44:09]
+es un error que yo cometí en el pasado
+
+[03:44:11]
+para las cuentas todas en conjunto qué
+
+[03:44:14]
+pasa te va mal una racha negativa ta ta
+
+[03:44:17]
+ta pierdes tres challeng a la vez o dos
+
+[03:44:19]
+challeng a la vez es mejor que tú te
+
+[03:44:22]
+vayas tranquilo operando una cuenta por
+
+[03:44:24]
+lo menos al principio pero una cuenta
+
+[03:44:27]
+Luego la otra y si pierdo una No pasa
+
+[03:44:29]
+nada tengo la otra puedes diversificar
+
+[03:44:31]
+unas cuentas operarlas con más o menos
+
+[03:44:33]
+riesgo ya o más agresivo ya una vez que
+
+[03:44:36]
+tú ya tienes varias cuentas de fondeo lo
+
+[03:44:38]
+que haces es unas cuentas un poquito más
+
+[03:44:40]
+agresivo y otras cuentas un poquito
+
+[03:44:42]
+menos agresivo eh lo que yo llamo riesgo
+
+[03:44:45]
+variable riesgo variable es no en todas
+
+[03:44:47]
+las cuentas vas a operar con el mismo
+
+[03:44:48]
+riesgo sino que en algunas vas a ir más
+
+[03:44:50]
+agresivo y otras menos agresivo pero
+
+[03:44:53]
+antes de pasar con el siguiente tema lo
+
+[03:44:55]
+que a mí me encanta chicos es Challenger
+
+[03:44:58]
+2% por operación pocas operaciones a la
+
+[03:45:01]
+semana Challenger agresivo luego en
+
+[03:45:04]
+cuenta real 0.75 a 1% calidad de trad
+
+[03:45:08]
+pocos TR a la semana retiros del 1 al 2%
+
+[03:45:12]
+y echo para acá mi dinero eso es la que
+
+[03:45:15]
+me encanta y es el mejor consejo que yo
+
+[03:45:17]
+les podría dar luego tenemos elementos
+
+[03:45:19]
+de tu estrategia para ser efectivo en
+
+[03:45:21]
+pruebas de fondeo O sea tienes que tener
+
+[03:45:23]
+una estrategia que sea efectiva en
+
+[03:45:25]
+pruebas de fondeo mucha gente viene de
+
+[03:45:27]
+los Brokers ta ta ta y se topan con
+
+[03:45:30]
+piedra no pueden pasar las empresas de
+
+[03:45:31]
+fondeo por qué porque es bien diferente
+
+[03:45:34]
+cómo tú ejecutas una estrategia ahora
+
+[03:45:36]
+ahí les va el paso número uno alto Win
+
+[03:45:38]
+rate una estrategia que tenga por lo
+
+[03:45:40]
+menos encima del 50% de winr con un rr
+
+[03:45:44]
+bajo Generalmente para tener ese Win
+
+[03:45:46]
+rate riesgo controlado pero agresivo
+
+[03:45:48]
+para poder pasarla rápido un rr bajo Por
+
+[03:45:51]
+qué el rr bajo es para que tú no tengas
+
+[03:45:55]
+un sesgo no estés nervioso
+
+[03:45:57]
+emocionalmente no te afecte en no sobre
+
+[03:46:00]
+todo en Challenger mucha gente le cuesta
+
+[03:46:02]
+dejar correr los trades si tú tienes un
+
+[03:46:04]
+rr bajo vas a tener un Win Ray alto
+
+[03:46:07]
+también recomiendo stop bl un poquito
+
+[03:46:08]
+más grandes para que tú seas más
+
+[03:46:11]
+efectivo ahora Esa es mi experiencia no
+
+[03:46:13]
+quiere decir que tenga que ser así 100
+
+[03:46:14]
+por puede ser que a algunas personas les
+
+[03:46:16]
+funcione y a otras no tu estrategia
+
+[03:46:19]
+debes conocerla y saber cuántas veces
+
+[03:46:21]
+falla al día a la semana qué secuencia
+
+[03:46:22]
+de perdedoras puede llegar a tener
+
+[03:46:25]
+cuánto pierde mi estrategia para saber
+
+[03:46:27]
+qué riesgo voy a poner por ejemplo mi
+
+[03:46:29]
+estrategia no pierde más de tres veces
+
+[03:46:31]
+cuatro como mucho Entonces yo puedo
+
+[03:46:33]
+operar con el 2% porque sé que no voy a
+
+[03:46:35]
+perder la cuenta Ahora tienes una
+
+[03:46:37]
+estrategia que tiene una secuencia de 10
+
+[03:46:39]
+perdedoras no te puedes permitir operar
+
+[03:46:41]
+con el 2% porque la vas a quemar hay la
+
+[03:46:44]
+probabilidad de que la quemes verad
+
+[03:46:46]
+tener bien claros los objetivos de tus
+
+[03:46:49]
+de tus entradas verad eh Para saber
+
+[03:46:52]
+cuántos trads ganadores ocupas para
+
+[03:46:55]
+pasar ya tener el cálculo del tiempo que
+
+[03:46:58]
+tardarás en recuperarte si tienes una
+
+[03:47:00]
+racha de perdedoras donde Según tu
+
+[03:47:02]
+tiempo y habilidades salgas beneficiado
+
+[03:47:04]
+entonces precisamente vas a analizar los
+
+[03:47:07]
+comportamientos que tú tienes Y a partir
+
+[03:47:10]
+de ahí vas a analizar las habilidades
+
+[03:47:12]
+que tienes y vas a usar una estrategia
+
+[03:47:15]
+que se que seas mejor con esas
+
+[03:47:18]
+habilidades ejemplo Gustavo bueno Un
+
+[03:47:20]
+ejemplo muy práctico yo soy muy bueno
+
+[03:47:23]
+dejando correr el precio entonces voy a
+
+[03:47:24]
+utilizar una estrategia que se enfoque
+
+[03:47:27]
+en perfeccionar o en tener esa habilidad
+
+[03:47:30]
+o que se agarre de esa habilidad más yo
+
+[03:47:33]
+soy muy malo operando
+
+[03:47:36]
+en en bajas temporalidades entonces voy
+
+[03:47:39]
+a utilizar una estrategia que sea buena
+
+[03:47:40]
+en altas temporalidades y no en bajas
+
+[03:47:42]
+temporalidades lo primero que vamos a
+
+[03:47:44]
+hacer es a adaptar tu estrategia A pasos
+
+[03:47:47]
+corregir los puntos donde sufro más o
+
+[03:47:49]
+menos dónde son mis debilidades Y dónde
+
+[03:47:52]
+son mis fortaleza número dos que los
+
+[03:47:54]
+parámetros sean puestos según me
+
+[03:47:56]
+benefician más de acuerdo a mis
+
+[03:47:58]
+habilidades de pensamiento Qué son las
+
+[03:48:00]
+habilidades de pensamiento son mis
+
+[03:48:02]
+comportamientos cómo yo pienso como yo
+
+[03:48:05]
+razono qué me afecta más qué me afecta
+
+[03:48:08]
+menos esto de psicología Según tu
+
+[03:48:11]
+estrategia es estudiarte a ti mismo
+
+[03:48:13]
+dónde eres mejor y eres peor y en base a
+
+[03:48:16]
+eso hacer tu estrategia o modificar tu
+
+[03:48:19]
+estrategia o moldear una estrategia que
+
+[03:48:21]
+ya tiene otra persona que detecte los
+
+[03:48:23]
+patrones errores que tengo y mi
+
+[03:48:25]
+estrategia eh genero reglas para no
+
+[03:48:28]
+cometer más esos errores detecto los
+
+[03:48:31]
+comportamientos que tengo yo Ah soy
+
+[03:48:33]
+bueno acá soy peor acá soy mejor acá a
+
+[03:48:36]
+partir de eso qué hago okay Aquí estoy
+
+[03:48:39]
+detectando que estoy fallando mucho
+
+[03:48:42]
+entonces según mi estrategia voy a
+
+[03:48:45]
+cambiar eso y voy a generar una nueva
+
+[03:48:48]
+regla que me permita cambiar
+
+[03:48:50]
+eso que tenga paz y tranquilidad al
+
+[03:48:53]
+estar operando esa estrategia Pues yo
+
+[03:48:55]
+estoy muy tranquilo con cada regla que
+
+[03:48:57]
+puse ejemplo muchas veces ven una
+
+[03:49:00]
+estrategia y dice la estrategia fulanita
+
+[03:49:02]
+de tal el block el order block la
+
+[03:49:05]
+estrategia de smartmic es va dice El
+
+[03:49:08]
+chaval que la está enseñando la persona
+
+[03:49:10]
+que le está enseñando usa un 1 a 15 pero
+
+[03:49:13]
+realmente cuando tú te vas a pensar a
+
+[03:49:16]
+operar No tú no eres bueno con el 1 a 15
+
+[03:49:20]
+porque psicológicamente te afecta tú
+
+[03:49:22]
+Generalmente tomas máximo el 1 a tres o
+
+[03:49:25]
+Entonces es mejor o conveniente que
+
+[03:49:28]
+adoptes esta misma estrategia pero que
+
+[03:49:31]
+modifiques a la mejor el rr y subas el
+
+[03:49:34]
+Stop loss más grande y aumentes el Win
+
+[03:49:37]
+rate de tu estrategia son detallitos que
+
+[03:49:40]
+vas a tú poder ir mejorando número cinco
+
+[03:49:43]
+que mi estrategia sea simple de
+
+[03:49:45]
+interpretar por lo tanto no me confunda
+
+[03:49:47]
+al entrar o tomar decisiones una
+
+[03:49:49]
+estrategia que yo entienda no sirve de
+
+[03:49:52]
+nada tener una estrategia de tal persona
+
+[03:49:55]
+mía de Gustavo de quien sea pero no la
+
+[03:49:57]
+entiendo me confundo hay conceptos que
+
+[03:50:00]
+me confundo y al final no sé no tengo la
+
+[03:50:03]
+claridad para entrar a una entrada o
+
+[03:50:05]
+para ejecutar una entrada seis que si
+
+[03:50:08]
+soy mejor mejor o peor por ejemplo
+
+[03:50:12]
+dejando mucho tiempo un Trade abierto o
+
+[03:50:14]
+no porque psicológicamente estoy mejor
+
+[03:50:17]
+de una forma u otra adapto mi estrategia
+
+[03:50:20]
+a Eso Tienen que ustedes estudiar las
+
+[03:50:23]
+habilidades donde son mejores o peores Y
+
+[03:50:26]
+a partir de ahí ver su estrategia muchas
+
+[03:50:28]
+personas son muy
+
+[03:50:29]
+buenas como punto de ejemplo entrando en
+
+[03:50:33]
+el Trade de precisión son muy buenas
+
+[03:50:36]
+tomando el Trade de sniping y el punto y
+
+[03:50:38]
+el blo exacto y refinan mucho y son bien
+
+[03:50:41]
+buenas ahí entonces aprovéchese de eso
+
+[03:50:44]
+adapte su estrategia que se enfoque En
+
+[03:50:47]
+eso yo por ejemplo no es mi caso Yo
+
+[03:50:50]
+estoy muy malo entrando en el punto
+
+[03:50:51]
+exacto y aún así soy rentable y gano
+
+[03:50:53]
+dinero pero porque aprovecho las
+
+[03:50:56]
+habilidades donde soy mejor y las que
+
+[03:50:58]
+soy peor permito o le doy juego con mi
+
+[03:51:01]
+estrategia a no a que aú aunque yo no
+
+[03:51:05]
+sea mejor en eso gane dinero Aún así O
+
+[03:51:08]
+sea rentable bueno ahora tenemos tres
+
+[03:51:10]
+factores psicológicos a la hora de
+
+[03:51:12]
+ejecutar una estrategia de trading qué
+
+[03:51:14]
+son los tres factores que debería tener
+
+[03:51:16]
+en cuenta cuando ejecuta una estrategia
+
+[03:51:18]
+primero lo que tenemos que tener Es
+
+[03:51:20]
+autoconfianza tener confianza en uno
+
+[03:51:23]
+mismo y en la estrategia de trading es
+
+[03:51:25]
+esencial los traders que confían en sus
+
+[03:51:27]
+habilidades y en sus decisiones tienden
+
+[03:51:29]
+a ser más consistentes y menos propensos
+
+[03:51:32]
+a dudar de sus acciones en momentos
+
+[03:51:34]
+críticos sin embargo es importante que
+
+[03:51:37]
+esta confianza no se convierta en exceso
+
+[03:51:39]
+de confianza lo cual puede llevar a
+
+[03:51:41]
+tomar riesgos innecesarios confiar en tu
+
+[03:51:44]
+estrategia mediante Cómo se hace Back
+
+[03:51:46]
+testing que les enseñé en las clases
+
+[03:51:48]
+pasadas Confía en tu estrategia yo sé
+
+[03:51:51]
+que mi estrategia a largo plazo va a ser
+
+[03:51:53]
+rentable entonces tengo que seguir
+
+[03:51:54]
+ejecutando como mi estrategia me lo dice
+
+[03:51:57]
+luego tenemos número dos control del
+
+[03:51:59]
+estrés es bien importante saber
+
+[03:52:01]
+dosificar el estrés saber que cuando yo
+
+[03:52:03]
+estoy sometido a un mercado estoy
+
+[03:52:05]
+tradeando voy a estar teniendo
+
+[03:52:07]
+subconscientemente estrés ansiedad
+
+[03:52:09]
+desgaste mental Entonces el trading
+
+[03:52:11]
+puede ser una actividad muy estresante
+
+[03:52:13]
+debido a la incertidumbre del mercado y
+
+[03:52:14]
+la posibilidad de pérdidas la capacidad
+
+[03:52:17]
+de manejar el estrés de manera efectiva
+
+[03:52:19]
+permite tomar decisiones racionales y
+
+[03:52:22]
+evitar comportamientos impulsivos
+
+[03:52:24]
+técnicas como la meditación ejercicio y
+
+[03:52:27]
+una buena higiene del sueño pueden
+
+[03:52:29]
+ayudar a controlar el estrés ahí hay
+
+[03:52:32]
+tres claves importantes muchos dicen
+
+[03:52:34]
+cómo mejoro mi mentalidad meditación
+
+[03:52:37]
+ejercicio buena higiene y buen sueño
+
+[03:52:40]
+mentalidad de crecimiento adoptar una
+
+[03:52:43]
+mentalidad de crecimiento lugar de una
+
+[03:52:45]
+mentalidad fija es fundamental para el
+
+[03:52:47]
+éxito a largo plazo los traders con una
+
+[03:52:49]
+mentalidad de crecimiento ven los
+
+[03:52:51]
+errores y las pérdidas como
+
+[03:52:52]
+oportunidades de aprendizaje y mejora
+
+[03:52:55]
+esta actitud les permite adaptarse y
+
+[03:52:56]
+mejorar ver todo como oportunidad de
+
+[03:52:59]
+mejora perdí pero voy a mejorar qué es
+
+[03:53:02]
+lo que hice mal analicé mal acá ta ta ta
+
+[03:53:05]
+ejecuté mal la estrategia me adelanté el
+
+[03:53:07]
+precio eh No esperé mis confirmaciones
+
+[03:53:09]
+voy a mejorar siempre estoy en constante
+
+[03:53:12]
+mentalidad de crecimiento mentalidad de
+
+[03:53:14]
+mejora estoy siempre en en también esa
+
+[03:53:17]
+mentalidad de estudiante estar
+
+[03:53:19]
+aprendiendo estar retroalimentando es
+
+[03:53:21]
+bien importante luego tenemos chicos
+
+[03:53:23]
+descubrir lo que te funciona mejor y
+
+[03:53:25]
+adaptar aquí ya tengo una serie de pasos
+
+[03:53:28]
+más específicos que es tener un plan
+
+[03:53:30]
+definido ejecutar ese plan por un tiempo
+
+[03:53:33]
+razonable ya mucha gente tiene un plan
+
+[03:53:36]
+de trading lo Ejecutan dos semanas no no
+
+[03:53:39]
+funcionó salí en pérdidas y ya se acabó
+
+[03:53:42]
+todo no tienes que tú ejecutar tu plan
+
+[03:53:45]
+de trading durante un tiempo para que lo
+
+[03:53:47]
+reconozcas y sepas cómo funciona mejor
+
+[03:53:49]
+luego es ser crítico y luego ir Buscando
+
+[03:53:52]
+los patrones de errores más comunes de
+
+[03:53:54]
+tu operativa cómo me comporto y cuáles
+
+[03:53:56]
+son mis errores patrones de errores
+
+[03:53:58]
+patrones es algo que se
+
+[03:54:01]
+repite estos son los errores que se
+
+[03:54:03]
+repite comúnmente siempre me sobrel
+
+[03:54:05]
+proteo casi siempre se repite exceso de
+
+[03:54:09]
+operaciones se repite no saber esperar
+
+[03:54:12]
+confirmaciones se repite miedo a tomar
+
+[03:54:14]
+un Trade esos son patrones según los
+
+[03:54:17]
+patrones que tu viste vas a ir Ajustando
+
+[03:54:19]
+tu plan de negocio para ser mejor eres o
+
+[03:54:21]
+no muy tolerante al riesgo deberás tener
+
+[03:54:23]
+un perfil de de más o menos arriesgado
+
+[03:54:26]
+no te gusta estar en drw down durante
+
+[03:54:28]
+mucho tiempo controlas el hecho de
+
+[03:54:31]
+agregar más posiciones una entrada eres
+
+[03:54:33]
+mejor o peor poniendo muchas entradas a
+
+[03:54:35]
+la semana todos estos tipo de detalles
+
+[03:54:38]
+los tienes que tú saber para que tú
+
+[03:54:40]
+tengas una estrategia sólida ahora tres
+
+[03:54:43]
+elementos para mejorar tu y psicología
+
+[03:54:45]
+medir tus resultados si no mides tus
+
+[03:54:48]
+resultados no vas a poder tener buenas
+
+[03:54:50]
+opciones de crecimiento luego número dos
+
+[03:54:52]
+seguir adelante en cada caída y aprender
+
+[03:54:55]
+de los errores No te
+
+[03:54:57]
+rindas aprende de cada caída adaptar tú
+
+[03:55:02]
+o una estrategia a ti mismo dejar los
+
+[03:55:05]
+paradigmas de que tiene que ser una
+
+[03:55:06]
+forma u otra o no adapta esta estrategia
+
+[03:55:09]
+a lo que sabes que te funcionará
+
+[03:55:11]
+adáptate adapta la estrategia que te
+
+[03:55:13]
+enseñó Gustavo o adapta la estrategia
+
+[03:55:15]
+que te funci que te enseñó fulanito a lo
+
+[03:55:18]
+que a ti Sabes que mejor te va a
+
+[03:55:20]
+funcionar trata de eso por qué es mejor
+
+[03:55:22]
+enfocarse en una sola estrategia vamos a
+
+[03:55:25]
+ver los puntos para que tú sepas por qué
+
+[03:55:28]
+yo siempre soy partidario de enfocarme
+
+[03:55:30]
+en una sola cosa No es andar haciendo
+
+[03:55:32]
+scalping intradia swing andar queriendo
+
+[03:55:35]
+operar todo ya porque permite
+
+[03:55:37]
+especializarme masterizar Me además de
+
+[03:55:39]
+enfocarme en una sola estrategia podrás
+
+[03:55:41]
+pulir mejor tus entradas con el el
+
+[03:55:44]
+tiempo vas mejorando Sí o sí verad vas
+
+[03:55:47]
+siempre especializarte es mejor es como
+
+[03:55:50]
+un médico chicos estudia medicina
+
+[03:55:51]
+general pero después se especializa en
+
+[03:55:54]
+cirujano o se especializa en pediatra
+
+[03:55:57]
+ese médico que es especialista es mejor
+
+[03:56:00]
+en su campo en su rama entonces tú
+
+[03:56:03]
+puedes ser Trader eh manejar todos los
+
+[03:56:05]
+mercados pero especializarte solamente
+
+[03:56:07]
+en el ndac en intradía vas a ser mucho
+
+[03:56:11]
+mejor vas a tener mejor rendimiento que
+
+[03:56:13]
+una persona que quiera abarcar todo a
+
+[03:56:15]
+largo plazo Estarás más tranquilo porque
+
+[03:56:17]
+tendrás mejor seguridad de tu estrategia
+
+[03:56:19]
+después de mucho tiempo de utilizarla
+
+[03:56:21]
+otra cosa es la repetición repetir
+
+[03:56:24]
+repetir utilizar la misma estrategia a
+
+[03:56:27]
+largo plazo va a ser mejor vas a estar
+
+[03:56:29]
+tranquilo vas a saber que esa estrategia
+
+[03:56:30]
+funciona entonces va a ser Por ende va a
+
+[03:56:33]
+ser mejor podrás en el camino ir
+
+[03:56:35]
+Ajustando ciertos parámetros para
+
+[03:56:37]
+mejorar tu estrategia ya vas a poder ir
+
+[03:56:40]
+seguir seguir tu estrategia de cercas y
+
+[03:56:42]
+vas a poder mejorar cier estos
+
+[03:56:44]
+parámetros cositas que puedas ir viendo
+
+[03:56:47]
+en tu estrategia si operas muchas
+
+[03:56:48]
+estrategias y Haces muchas cosas es más
+
+[03:56:51]
+difícil que te des cuenta de esto
+
+[03:56:53]
+conocerás mejor el comportamiento de tu
+
+[03:56:55]
+estrategia según activos financieros que
+
+[03:56:56]
+uses vas a masterizar en un activo
+
+[03:56:58]
+financiero lo vas a seguir por mucho
+
+[03:57:00]
+tiempo y vas a sa ver cómo funciona Cómo
+
+[03:57:03]
+se reconoce eso conocerás mejor los
+
+[03:57:05]
+eventos macroeconómicos que afectan a tu
+
+[03:57:07]
+estrategia sabrás Cómo ajustar mejor el
+
+[03:57:10]
+riesgo en una entrada clase a b o c
+
+[03:57:12]
+sabes si una una entrada es mejor peor o
+
+[03:57:16]
+no tan buena
+
+[03:57:17]
+ya podrás clasificar que entradas son de
+
+[03:57:21]
+mejor o menor probabilidad sabrás que
+
+[03:57:23]
+meses semanas días son mejores para
+
+[03:57:25]
+operar tu estrategia o sea fíjense todos
+
+[03:57:28]
+los beneficios que trae especializarte
+
+[03:57:31]
+en una sola estrategia sabrás mejor en
+
+[03:57:33]
+qué periodos de tiempo del mercado
+
+[03:57:35]
+funciona mejor tu estrategia ejemplo si
+
+[03:57:36]
+es en tendencias de rompimiento de
+
+[03:57:38]
+rangos etcétera etcétera estrategia
+
+[03:57:41]
+funciona mejor en las tendencias
+
+[03:57:42]
+funciona mejor en los rangos funciona
+
+[03:57:44]
+mejor en un mercado la lateral funciona
+
+[03:57:47]
+mejor en un mercado cíclico funciona
+
+[03:57:48]
+mejor un mercado que no está haciendo
+
+[03:57:51]
+tanta volatilidad está haciendo menos
+
+[03:57:53]
+volatilidad o en un mercado muy volátil
+
+[03:57:55]
+en un mercado acelerado etcétera
+
+[03:57:57]
+etcétera entonces ahora voy a traer a
+
+[03:58:00]
+partir de aquí nu nueve pasos bastante
+
+[03:58:03]
+prácticos para enfocarme en una sola
+
+[03:58:06]
+estrategia para no andar deambulando de
+
+[03:58:09]
+concepto en concepto y enfocarme en
+
+[03:58:11]
+trabajar mi estrategia claramente Define
+
+[03:58:14]
+claramente tu estrategia ten definida
+
+[03:58:17]
+las reglas de tu estrategia escribe en
+
+[03:58:19]
+detalle todos los aspectos de tu
+
+[03:58:20]
+estrategia incluyendo criterios de
+
+[03:58:22]
+entrada y salida gestión del riesgo y
+
+[03:58:25]
+reglas específicas luego punto número
+
+[03:58:27]
+dos asegúrate de entender completamente
+
+[03:58:30]
+el propósito la lógica detrás de cada
+
+[03:58:32]
+parte de tu estrategia entiende bien tu
+
+[03:58:34]
+estrategia defínela bien luego punto
+
+[03:58:37]
+número dos Back testing y pruebas
+
+[03:58:39]
+realiza pruebas exhaustivas de tu
+
+[03:58:41]
+estrategia usando datos históricos para
+
+[03:58:42]
+ver cómo hubiera funcionado en el pasado
+
+[03:58:45]
+ya se los enseñé en las clases
+
+[03:58:46]
+anteriores Cómo podemos hacer un Back
+
+[03:58:48]
+testing sólido usa cuentas demo para
+
+[03:58:50]
+probar una estrategia en tiempo real sin
+
+[03:58:52]
+arriesgar dinero real ya número tres
+
+[03:58:55]
+establece un plan de trading o un plan
+
+[03:58:57]
+de trabajo crear un plan de trading que
+
+[03:58:59]
+incluya tu estrategia metas diarias
+
+[03:59:01]
+semanales mensuales y directrices claras
+
+[03:59:04]
+para las gestiones de riesgo revisar y
+
+[03:59:08]
+actualizar tu plan regularmente pero
+
+[03:59:10]
+solo después de una evaluación
+
+[03:59:11]
+exhaustiva no por impulso verad puntos
+
+[03:59:15]
+bien importantes chicos que van a
+
+[03:59:17]
+ayudarnos a mejorar una estrategia a
+
+[03:59:19]
+mejorar enfocarnos sobre todo en esa
+
+[03:59:21]
+estrategia no solamente a mejorar la
+
+[03:59:23]
+estrategia sino enfocarnos en ejecutar
+
+[03:59:25]
+una estrategia paso paso paso ejecutarla
+
+[03:59:29]
+de manera consistente verdad el paso
+
+[03:59:31]
+número cuatro Es la disciplina y la
+
+[03:59:33]
+rutina sigue una rutina diaria que te
+
+[03:59:35]
+ayuda a enfocarte Cómo revisar el
+
+[03:59:37]
+mercado a ciertas horas y registrar tus
+
+[03:59:39]
+operaciones verad la rutina es bien
+
+[03:59:42]
+importante tener un plan de cómo anal Ah
+
+[03:59:44]
+voy a analizar de esta forma todos los
+
+[03:59:46]
+días y voy a ejecutar mi estrategia de
+
+[03:59:48]
+esta forma todos los días mantén un
+
+[03:59:50]
+diario de trading donde anotes todas tus
+
+[03:59:52]
+operaciones incluyendo tus pensamientos
+
+[03:59:54]
+y emociones Durante cada TR bien
+
+[03:59:57]
+importante anotar cada una de las cosas
+
+[03:59:59]
+que haces para poder permitirte decir
+
+[04:00:03]
+Bueno estoy yendo por el buen camino
+
+[04:00:05]
+estoy yendo por un camino que no era
+
+[04:00:07]
+entonces bien importante número cinco
+
+[04:00:09]
+control emocional aprende a controlar
+
+[04:00:11]
+tus emociones evitando que el miedo La
+
+[04:00:14]
+dic te des bien de tu estrategia muy
+
+[04:00:15]
+importante controlar tus emociones para
+
+[04:00:17]
+controlar tus emociones hay que
+
+[04:00:18]
+conocerlas y es por eso que tienes que
+
+[04:00:21]
+identificar cada patrón de
+
+[04:00:23]
+comportamiento que tú tienes práctica de
+
+[04:00:25]
+técnicas de meditación mantener la calma
+
+[04:00:27]
+y Claridad mental entonces practicar
+
+[04:00:29]
+técnicas de lectura Claridad mental de
+
+[04:00:33]
+meditación mantener la calma eh hacer
+
+[04:00:36]
+actividades que te ayuden a mantener la
+
+[04:00:37]
+calma verdad evaluación continua evaluar
+
+[04:00:41]
+continuamente tu estrategia analiza
+
+[04:00:44]
+regularmente el desempeño de tu
+
+[04:00:45]
+estrategia para asegurarte que sigue
+
+[04:00:47]
+siendo efectiva Haz ajustes solo si los
+
+[04:00:49]
+datos muestran consistentemente que la
+
+[04:00:51]
+estrategia necesita mejoras no va est
+
+[04:00:53]
+basándote en pérdidas temporales ya
+
+[04:00:55]
+evaluación continua de tu estrategia
+
+[04:00:57]
+cómo está funcionando cómo está yendo
+
+[04:00:59]
+Okay Mira este año 2023 tuvo este
+
+[04:01:01]
+rendimiento acá podría haber ganado
+
+[04:01:03]
+tanto es mejor es peor me encanta mi
+
+[04:01:05]
+estrategia Okay perfecto número siete
+
+[04:01:08]
+educación información mantente informado
+
+[04:01:11]
+constantemente y educado sobre los
+
+[04:01:12]
+mercados y el trading pero filtra la
+
+[04:01:14]
+información para evitar sobrecarga
+
+[04:01:16]
+evitar el exceso de información muchas
+
+[04:01:18]
+veces es bueno entonces en tu estrategia
+
+[04:01:21]
+para enfocarte una buena estrategia y en
+
+[04:01:23]
+tu estrategia es muchas veces quitarla
+
+[04:01:26]
+el exceso de información hay mucha
+
+[04:01:28]
+información en el internet muchas veces
+
+[04:01:32]
+el exceso de información es lo que nos
+
+[04:01:33]
+está perturbando participa en
+
+[04:01:35]
+comunidades de Trader que usan
+
+[04:01:37]
+estrategias similares para obtener apoyo
+
+[04:01:39]
+y compartir experiencias por por ejemplo
+
+[04:01:41]
+por ejemplo
+
+[04:01:44]
+acá de Gustavo Master Trader la mi
+
+[04:01:46]
+comunidad de char shooters están aquí
+
+[04:01:48]
+bienvenidos al Telegram son bienvenidos
+
+[04:01:50]
+al Instagram me pueden seguir donde
+
+[04:01:52]
+ustedes quieran si me quieren seguir en
+
+[04:01:53]
+tiktok en instagram en YouTube solamente
+
+[04:01:56]
+en Telegram estoy poniendo siempre ideas
+
+[04:01:58]
+de trads en instagram Estoy compartiendo
+
+[04:02:00]
+contenido de valor en todos lados me
+
+[04:02:03]
+pueden seguir eh aparte en el WhatsApp
+
+[04:02:05]
+ahí está la comunidad de traders que
+
+[04:02:06]
+están hablando Siempre Entonces se
+
+[04:02:08]
+pueden unir ahí mentalidad a largo plazo
+
+[04:02:11]
+número ocho paso número ocho una
+
+[04:02:13]
+mentalidad de largo plazo entendiendo
+
+[04:02:15]
+que todas las estrategias pueden tener
+
+[04:02:16]
+periodos de pérdidas va la estrategia no
+
+[04:02:19]
+va a ganar por siempre hay veces que le
+
+[04:02:21]
+va a ir un poquito más mal hay meses que
+
+[04:02:23]
+va a tener peores Pero sabes que a largo
+
+[04:02:25]
+plazo va a ser buena evita la tentación
+
+[04:02:27]
+de saltar de una estrategia u otra
+
+[04:02:29]
+buscando resultados inmediatos antes me
+
+[04:02:31]
+pasaba no pasaba una prueba de fondeo
+
+[04:02:34]
+iba mal y saltaba otra estrategia y así
+
+[04:02:37]
+así así y nunca me masteriza una
+
+[04:02:39]
+estrategia hasta que dije no pase lo que
+
+[04:02:41]
+pase me vaya como me vaya voy a ejecutar
+
+[04:02:44]
+una estrategia no voy a estar cambiando
+
+[04:02:47]
+ya de estrategia la voy a mejorar voy a
+
+[04:02:49]
+trabajar en mejorar la estrategia pero
+
+[04:02:51]
+ya no voy a estar saltando de estrategia
+
+[04:02:52]
+en estrategia número nueve también
+
+[04:02:55]
+mentoría y apoyo considera Buscar un
+
+[04:02:57]
+mentor un Coach que te ayude a mantener
+
+[04:02:59]
+enfocado y
+
+[04:03:00]
+disciplinado rodéate de una comunidad de
+
+[04:03:03]
+traders con mentalidades similares que
+
+[04:03:05]
+pueden proporcionar apoyo y
+
+[04:03:06]
+responsabilidad el tema del Coach que
+
+[04:03:09]
+por supuesto estoy yo aquí para todos
+
+[04:03:11]
+ustedes los que quieran una ment
+
+[04:03:13]
+mentoría personalizada de pago pueden
+
+[04:03:15]
+hacerlo conmigo que ya últimamente a mi
+
+[04:03:17]
+inv mentorías le estoy metiendo ya
+
+[04:03:18]
+trading en vivo a todos los programas
+
+[04:03:21]
+que estoy lanzando entonces aquí estamos
+
+[04:03:24]
+el tema de un coach es bien importante
+
+[04:03:26]
+porque te va a ahorrar tiempo sobre todo
+
+[04:03:28]
+te va a decir exactamente qué quieres
+
+[04:03:29]
+hacer muchas personas que llegan conmigo
+
+[04:03:32]
+ocupan un empujoncito simplemente ocupan
+
+[04:03:35]
+un empujoncito que les permita ir más
+
+[04:03:37]
+allá entonces a lo mejor a ti te falta
+
+[04:03:39]
+ese pujon cito y un coach o una persona
+
+[04:03:42]
+un Trader con resultados eh Te va a
+
+[04:03:44]
+permitir ahorrarte mucho tiempo que
+
+[04:03:46]
+podrías estarlo perdiendo ahí o que te
+
+[04:03:49]
+hace falta ese ese empujón en resumen la
+
+[04:03:51]
+clave está en la disciplina la
+
+[04:03:53]
+preparación y el compromiso con un plan
+
+[04:03:56]
+de TR definido esto te ayudará a evitar
+
+[04:03:58]
+cambiar constantemente estrategia y
+
+[04:04:00]
+mantenerte enfocado en tus objetivos a
+
+[04:04:02]
+hora de tú operar Cuáles son los pasos
+
+[04:04:04]
+que te damin a ti tomar una operación o
+
+[04:04:07]
+no tomarla verdad Entonces es el
+
+[04:04:09]
+conjunto de normas que te permiten tener
+
+[04:04:11]
+orden en tu Trade y aquí tengo una serie
+
+[04:04:13]
+de pasos para que ustedes entiendan
+
+[04:04:14]
+mejor eso es saber qué hacer en todo
+
+[04:04:17]
+momento con tus reglas de trading
+
+[04:04:19]
+tendrías que saber dónde entrar cuándo
+
+[04:04:20]
+entrar y cómo Y por qué Para eso son las
+
+[04:04:23]
+reglas para que te ayuden a ti a guiarte
+
+[04:04:25]
+En dónde hacer o no hacer algo
+
+[04:04:28]
+determinado dónde salir y poner el sl
+
+[04:04:31]
+mediante la mejora del Back testing Tú
+
+[04:04:33]
+tienes tu estrategia que te dice dónde
+
+[04:04:34]
+salir eso lo pones en tu plan de trading
+
+[04:04:36]
+y en todo momento tendrás una guía de
+
+[04:04:38]
+qué hacer entonces precisamente las
+
+[04:04:40]
+trading rules nos cubren el qué hacer en
+
+[04:04:43]
+cada momento sabes que funciona aplicar
+
+[04:04:46]
+la estrategia a los datos históricos
+
+[04:04:48]
+ejecutando operaciones como si estuviera
+
+[04:04:50]
+realizando en tiempo real o sea sabes
+
+[04:04:52]
+que tú que tu estrategia funciona que ya
+
+[04:04:55]
+la has probado sabes que tus reglas
+
+[04:04:57]
+funcionan con los datos históricos
+
+[04:04:58]
+previos Entonces tú vas a tener
+
+[04:05:00]
+confianza a la hora de operar y estas
+
+[04:05:03]
+van a hac que tus reglas tú dices mis
+
+[04:05:05]
+reglas yo las tengo que cumplir porque
+
+[04:05:07]
+yo sé que funcionan en el tiempo te guía
+
+[04:05:09]
+en Cómo analizar sabes que tienes un
+
+[04:05:11]
+sistema que funciona entonces mediante
+
+[04:05:13]
+cir tus reglas día a día formarás una
+
+[04:05:15]
+rutina de análisis que es bien
+
+[04:05:16]
+importante una rutina correcta que te
+
+[04:05:18]
+permitirá saber cómo leer el precio y
+
+[04:05:20]
+cómo tener entradas mejores muchas
+
+[04:05:22]
+personas se enfrentan frente al gráfico
+
+[04:05:25]
+llegan frente al gráfico y no saben qué
+
+[04:05:27]
+usar qué analizar qué hacer n más ven un
+
+[04:05:30]
+imbalance ven un bloque de órdenes ven
+
+[04:05:32]
+una estructura pero no saben cómo
+
+[04:05:34]
+ejecutar una entrada entonces estas
+
+[04:05:36]
+trading rules o estas reglas de trading
+
+[04:05:39]
+te van a permitir así a ti saber qué es
+
+[04:05:42]
+lo que tienes que hacer específica m
+
+[04:05:44]
+cuándo tienes que ejecutar la entrada
+
+[04:05:45]
+cuánd no la tienes que ejecutar etcétera
+
+[04:05:47]
+etcétera conoces tus puntos de no hacer
+
+[04:05:50]
+nada bien importante también estas
+
+[04:05:52]
+reglas te van a cuando tú miras esto que
+
+[04:05:54]
+no se están cumpliendo tus reglas te te
+
+[04:05:56]
+dice a ti cuándo tienes que quedarte
+
+[04:05:57]
+fuera del mercado cuándo debes de
+
+[04:05:59]
+esperar entonces bien importante también
+
+[04:06:00]
+el hecho de saber esperar con paciencia
+
+[04:06:02]
+pero esta paciencia la vas a agarrar
+
+[04:06:04]
+cuando tú ya tienes unas reglas de
+
+[04:06:05]
+training que te dicen aquí no debes de
+
+[04:06:07]
+hacer nada aquí no se está cumpliendo tu
+
+[04:06:09]
+estrategia Quédate fuera del mercado eh
+
+[04:06:12]
+tips al hacer tus reglas de Trade Estos
+
+[04:06:14]
+son unos pequeños tips para poder hacer
+
+[04:06:15]
+mejor reglas de trading y que tú tengas
+
+[04:06:17]
+efectividad para poder tener tus reglas
+
+[04:06:19]
+tener las reglas de tu estrategia
+
+[04:06:21]
+llevará tiempo y puedes elegir cualquier
+
+[04:06:23]
+estrategia y ver si te gusta y es
+
+[04:06:25]
+realmente para ti o si no es para ti
+
+[04:06:27]
+pues puedes probar conotras que
+
+[04:06:28]
+entiendas bien entonces bien importante
+
+[04:06:30]
+tú conoces una estrategia la sigues
+
+[04:06:32]
+puede ser la mía puede ser gratis mías o
+
+[04:06:35]
+las que hay en muchos lugares y a partir
+
+[04:06:37]
+de ahí tú vas a poder hacer tus reglas
+
+[04:06:38]
+de trading y vas a ver si Esas reglas de
+
+[04:06:40]
+trading embonan con lo que tú crees que
+
+[04:06:42]
+eres o con lo lo que tú has pensado que
+
+[04:06:44]
+eres o con lo que tú ya has Back
+
+[04:06:46]
+testeado que eres bien importante probar
+
+[04:06:47]
+estas reglas Pero probarlas a ti mismo
+
+[04:06:50]
+Entonces a partir de ahí ya puedes tú
+
+[04:06:51]
+tomar decisiones de modificar o de tener
+
+[04:06:53]
+una estrategia diferente tienes que
+
+[04:06:55]
+tener reglas de gestión de riesgo bien
+
+[04:06:57]
+importante que tengas reglas de gestión
+
+[04:06:58]
+de riesgo pongan sus reglas de gestión
+
+[04:07:00]
+de riesgo lo más importante para poder
+
+[04:07:02]
+estar vivo a largo plazo preguntas Como
+
+[04:07:05]
+cuánto debería arriesgar cuánto ar
+
+[04:07:06]
+riesgo meto por operación para poder
+
+[04:07:08]
+estar tranquilo cada quien puede tener
+
+[04:07:10]
+su enfoque diferente en la gestión de
+
+[04:07:11]
+riesgo hay unas personas que pueden ser
+
+[04:07:13]
+un un poquito más agresivas como yo me
+
+[04:07:15]
+considero el caso que soy un poquito más
+
+[04:07:16]
+agresivo otras personas un poquito más
+
+[04:07:18]
+pasivas pero lo importante es que tengan
+
+[04:07:20]
+la gestión de riesgo que entiendan que
+
+[04:07:22]
+entre más operaciones metes a lo mejor
+
+[04:07:24]
+no puedes arriesgar tanto y entre menos
+
+[04:07:25]
+operaciones metas puedes arriesgar un
+
+[04:07:27]
+poquito más lo número tres vas a tener
+
+[04:07:29]
+que registrar tus operaciones y ver que
+
+[04:07:31]
+estás haciendo mal o bien después de los
+
+[04:07:34]
+errores convertir una regla Útil para no
+
+[04:07:36]
+volver a cometerlos bien importante esto
+
+[04:07:37]
+no Reflexiona sobre cada operación que
+
+[04:07:39]
+realizas y ver cómo apegarte bien un
+
+[04:07:41]
+plan mejorarlo para sentirte mejor
+
+[04:07:43]
+emocionalmente y no caer en una montaña
+
+[04:07:45]
+rusa de emociones siempre se encante
+
+[04:07:47]
+mejora estas reglas las puedes ir
+
+[04:07:49]
+cambiando no recomiendo que sean
+
+[04:07:51]
+cambiadas de como totalmente de
+
+[04:07:54]
+estrategia sino que puedes ir Ajustando
+
+[04:07:56]
+ciertas reglas para que te convengan
+
+[04:07:58]
+mejor en momentos peores de tu trading o
+
+[04:08:00]
+mejores eh el número cinco es no te
+
+[04:08:03]
+sientas mal por no tener un plan de
+
+[04:08:04]
+trading o reglas de manera inmediata no
+
+[04:08:06]
+quieran ustedes llegar y luego luego ya
+
+[04:08:08]
+tener todas sus reglas definidas Eh Esto
+
+[04:08:10]
+toma tiempo de pulirlo de verdad debes
+
+[04:08:13]
+experimentar con varios tipos de Mercado
+
+[04:08:14]
+en diferentes meses diversos escenarios
+
+[04:08:16]
+asegurarte que tienes experiencia que se
+
+[04:08:18]
+ocupa la experiencia no la van a poder
+
+[04:08:20]
+conseguir de la noche a la mañana va a
+
+[04:08:22]
+costar tiempo entonces para ello es
+
+[04:08:24]
+importante que estén testeando sus
+
+[04:08:25]
+reglas a largo plazo y a largo plazo
+
+[04:08:27]
+vayan mejorando su plan de negocio
+
+[04:08:29]
+constantemente entes al hacer trading
+
+[04:08:30]
+puede parecer fácil pero no lo es debes
+
+[04:08:33]
+luchar todos los días con tus demonios
+
+[04:08:34]
+internos y asegurarte de tener reglas de
+
+[04:08:36]
+trading y confiar en ellas lo primero
+
+[04:08:37]
+que voy a ver es mejorar Sí o sí no nos
+
+[04:08:40]
+podemos quedar en un solo plan de
+
+[04:08:41]
+negocio tenemos que mejorar mejorarlo
+
+[04:08:43]
+día con día siempre hay cosas que
+
+[04:08:45]
+podemos mejorar obviamente cosas que
+
+[04:08:48]
+estás haciendo bien no las vas a tocar
+
+[04:08:49]
+Si tú ya tienes un plan de negocio
+
+[04:08:51]
+sólido eh No deberías de estarlo tocando
+
+[04:08:54]
+pero al principio que sientes que
+
+[04:08:55]
+todavía no estás teniendo resultados
+
+[04:08:57]
+importantes como a lo mejor pasar una
+
+[04:08:59]
+prenta de fondeo o ser consistente
+
+[04:09:01]
+durante 2s TR meses eh en una cuenta
+
+[04:09:05]
+real cuando tienes esto tienes que
+
+[04:09:07]
+pensar en mejorar Sí o sí no te puedes
+
+[04:09:10]
+quedar en lo mismo estas clases son de
+
+[04:09:12]
+reflexión en las que te sirven para
+
+[04:09:14]
+darte cuenta que muchas veces estás
+
+[04:09:15]
+estancado porque no estás midiendo tus
+
+[04:09:18]
+resultados por eso no estás avanzando
+
+[04:09:20]
+ahora vamos vamos a ver lo que es la
+
+[04:09:22]
+Mejora conina y cómo va a influir en tu
+
+[04:09:25]
+operativa Entonces lo lo definí por el
+
+[04:09:27]
+acto de no quedar separado d de mismo y
+
+[04:09:29]
+estar en una mentalidad de avanzando
+
+[04:09:31]
+siempre aplicar la mejora con tuina a ti
+
+[04:09:33]
+mismo implica un enfoque sistemático
+
+[04:09:35]
+para mejorar tus habilidades hábitos y
+
+[04:09:37]
+rendimiento personal de manera constante
+
+[04:09:39]
+entes de manera constante vas a estar
+
+[04:09:41]
+midiendo cada uno de los resultados que
+
+[04:09:43]
+tienes y a través de eso vas a estar
+
+[04:09:45]
+estudiando esos resultados va cómo me
+
+[04:09:48]
+fue en este mes de trading Okay Mira
+
+[04:09:50]
+esta semana sobre operé mucho y me fue
+
+[04:09:52]
+mal esta otra semana no sobre operé
+
+[04:09:54]
+tanto y me fue mejor Entonces vas a
+
+[04:09:56]
+empezar a diseñar reglas que te permitan
+
+[04:09:58]
+eh No no operar mucho no operar
+
+[04:10:01]
+demasiado Mira Resulta ser que si
+
+[04:10:03]
+aumento el riesgo eh A lo mejor puedo
+
+[04:10:06]
+tener un drod down controlado pero puedo
+
+[04:10:08]
+este tener mejores rendimientos en
+
+[04:10:10]
+ganancias todo ese tipo de cosas es bien
+
+[04:10:12]
+importante anes que tú te centres en
+
+[04:10:14]
+estar mejorando verdad pasos aplicables
+
+[04:10:17]
+para no parar de mejorar qué deberías de
+
+[04:10:19]
+tú hacer para estar mejorando siempre
+
+[04:10:22]
+Cuáles son los pasos que deberías de
+
+[04:10:24]
+seguir y por eso hice seis pasos
+
+[04:10:26]
+aplicables para que tú estés en
+
+[04:10:28]
+constante mejora Entonces lo primero que
+
+[04:10:30]
+vas a hacer es identificación de áreas
+
+[04:10:32]
+de mejora vas a identificar Cuáles son
+
+[04:10:34]
+las áreas en las que deberías de mejorar
+
+[04:10:36]
+autoconocimiento Reflexiona sobre tus
+
+[04:10:38]
+fortalezas y debilidades ver lo que
+
+[04:10:41]
+estás haciendo bien y lo que no estás
+
+[04:10:43]
+haciendo también luego vas a realizar
+
+[04:10:45]
+una autoevaluación honesta tuya vas a
+
+[04:10:47]
+realizar una autoevaluación de tus
+
+[04:10:49]
+resultados honesta y mediante ese
+
+[04:10:51]
+feedback vas a pedir retroalimentación a
+
+[04:10:53]
+tus amigos familiares colegas obtener
+
+[04:10:55]
+una perspectiva externa eso también
+
+[04:10:57]
+ayuda mucho Tú puedes ponerle decirle a
+
+[04:11:00]
+un amigo Trader o que tenga resultados
+
+[04:11:02]
+verdad o por eso también es importante
+
+[04:11:05]
+tener un mentor de trading porque tu
+
+[04:11:06]
+mentor de trading Le puedes preguntar y
+
+[04:11:08]
+le puedes decir he tenido estos
+
+[04:11:11]
+resultados en los últimos meses Cómo
+
+[04:11:13]
+podría poner mejores operaciones qué
+
+[04:11:16]
+podría ser mejor etcétera etcétera Luego
+
+[04:11:18]
+lo segundo que tenemos es la
+
+[04:11:19]
+planificación de objetivos específicos
+
+[04:11:22]
+definir metas claras Y específicas que
+
+[04:11:24]
+deseas alcanzar verdad siempre estar
+
+[04:11:26]
+como con una meta no estarse afanando en
+
+[04:11:29]
+querer conseguir resultados antes pero
+
+[04:11:31]
+sí tener una meta clara que deseas
+
+[04:11:33]
+alcanzar porque esa meta te va a ayudar
+
+[04:11:35]
+a ti a estar en constante mejora utiliza
+
+[04:11:37]
+la metodología Smart específicos
+
+[04:11:39]
+medibles y alcanzables relevantes y
+
+[04:11:42]
+temporales que Sign significa que van a
+
+[04:11:44]
+ser objetivos específicos que son
+
+[04:11:46]
+objetivos que puedes ir midiendo que
+
+[04:11:49]
+sean alcanzables O sea que sean este
+
+[04:11:51]
+realistas que sean objetivos también
+
+[04:11:53]
+relevantes que te vayan a impactar
+
+[04:11:55]
+cuando tú los cumplas Ah digas te
+
+[04:11:57]
+sientas con la satisfacción de que
+
+[04:11:58]
+cumplí esos objetivos y luego van a ser
+
+[04:12:01]
+eh temporales verad objetivos temporales
+
+[04:12:04]
+que pueda seguir alcanzando nuevos
+
+[04:12:06]
+objetivos también para eso tienes que
+
+[04:12:07]
+tener un plan de acción elabora un plan
+
+[04:12:10]
+detallado con pasos concretos para
+
+[04:12:11]
+alcanzar tus objetivos y asigna plazos y
+
+[04:12:14]
+recursos necesarios aquí estamos
+
+[04:12:15]
+hablando un poquito más de planificación
+
+[04:12:17]
+que te puede ayudar tanto para tu plan
+
+[04:12:19]
+de trading o para tu trading en Sí para
+
+[04:12:21]
+ir mejorando tu tu trading en Sí verdad
+
+[04:12:23]
+luego el tres tenemos implementación vas
+
+[04:12:26]
+a implementar acciones diarias o sea vas
+
+[04:12:28]
+a dividir tus metas en tareas diarias o
+
+[04:12:30]
+semanales que sean manejables dice un
+
+[04:12:32]
+dicho que me gusta mucho que los
+
+[04:12:33]
+pequeños pasos construyen grandes
+
+[04:12:36]
+resultados O sea qué quiere decir que tú
+
+[04:12:38]
+puedes construir grandes resultados con
+
+[04:12:40]
+el día a día día a día vas cada vez un
+
+[04:12:43]
+paso más de alcanzar tu meta día a día
+
+[04:12:46]
+vas poquito a poquito luchando ese día
+
+[04:12:49]
+Ya aportaste algo que va a ayudar a que
+
+[04:12:51]
+tu meta se cumpla a largo plazo y
+
+[04:12:53]
+durante ser consistente durante muchos
+
+[04:12:55]
+días Vas a alcanzar tu meta verdad
+
+[04:12:57]
+Entonces eh precisamente este punto de
+
+[04:12:59]
+acá habla de la consistencia
+
+[04:13:00]
+comprométete a seguir tu plan de acción
+
+[04:13:02]
+consistentemente o sea todos los días ir
+
+[04:13:05]
+avanzando poco a poco luego pues ya
+
+[04:13:07]
+tenemos el tip número cuatro para poder
+
+[04:13:09]
+tener mejores reglas de trading no
+
+[04:13:11]
+mejores reglas de trading solamente sino
+
+[04:13:13]
+también para tener mejor trading o mejor
+
+[04:13:15]
+avance Entonces es la revisión el check
+
+[04:13:17]
+el monitoreo constante lleva un registro
+
+[04:13:19]
+de tus progresos utiliza diarios
+
+[04:13:21]
+aplicaciones de seguimiento cualquier
+
+[04:13:23]
+herramienta que te ayude puedes utilizar
+
+[04:13:25]
+programas que te ayuden a llevar un un
+
+[04:13:27]
+monitoreo pero aquí estamos hablando
+
+[04:13:29]
+también de progresos diarios Cómo están
+
+[04:13:31]
+tus progresos todos los días Vas a tener
+
+[04:13:33]
+también evaluación revisar regularmente
+
+[04:13:35]
+tus avances comparar los resultados con
+
+[04:13:37]
+los objetivos establecidos luego tenemos
+
+[04:13:39]
+el cinco acción si no alcanzas sus
+
+[04:13:41]
+objetivos analiza las razones ajusta tu
+
+[04:13:43]
+plan si tienes éxito Ah entonces busca
+
+[04:13:45]
+maneras de mantener y Mejor aún más
+
+[04:13:47]
+luego estándares que se estandarizan las
+
+[04:13:49]
+mejoras que funcionan bien para ti ya
+
+[04:13:51]
+una vez que tú ya tienes lo ya buscaste
+
+[04:13:53]
+ese plan de negocio ya lo monitoree eh Y
+
+[04:13:56]
+ya tienes reglas específicas vas a
+
+[04:13:58]
+estandarizar las reglas que funcionan
+
+[04:14:00]
+mejor Y a partir de ahí vas a crear una
+
+[04:14:02]
+rutina porque ya sabes que Esas reglas
+
+[04:14:04]
+funcionan bien para ti luego lo que
+
+[04:14:05]
+tenemos el seis son ciclos continuos
+
+[04:14:07]
+repetición repite el ciclo para fomentar
+
+[04:14:09]
+la mejora continua repite repite repite
+
+[04:14:12]
+ya sabes que siempre te sale bien esta
+
+[04:14:14]
+forma de entrada pues repítela repítela
+
+[04:14:16]
+repítela entonces cada ciclo te acerca
+
+[04:14:18]
+más a tus objetivos por último tenemos
+
+[04:14:21]
+la innovación siempre Busca nuevas
+
+[04:14:23]
+formas y métodos para mejorar siempre
+
+[04:14:25]
+estar en constante crecimiento y Mejora
+
+[04:14:27]
+y esto van a ser los tips para mejorar
+
+[04:14:29]
+nuestra nuestro trading y nuestras
+
+[04:14:31]
+reglas de de negocio estos hábitos A qué
+
+[04:14:33]
+nos van a ayudar porque son importantes
+
+[04:14:35]
+porque nos van a ayudar a forjar eh las
+
+[04:14:37]
+cualidades que se necesitan en lo que es
+
+[04:14:40]
+el control emocional como la destreza
+
+[04:14:41]
+deberá mantenerte enfocado disciplinado
+
+[04:14:44]
+informado y saludable esto te ayudará
+
+[04:14:46]
+muchas personas me dicen Gustavo Yo
+
+[04:14:48]
+tengo un plan de negocio yo tengo un
+
+[04:14:49]
+plan de trading que tú siempre dices
+
+[04:14:51]
+pero no puedo cumplirlo a la hora de que
+
+[04:14:53]
+tengo que cumplir ese plan de negocio No
+
+[04:14:55]
+soy capaz entonces precisamente los
+
+[04:14:57]
+buenos hábitos como hacer ejercicio
+
+[04:14:59]
+regularmente alimentarse de manera
+
+[04:15:01]
+saludable son esenciales no solo para la
+
+[04:15:03]
+salud en general sino para mejorar el
+
+[04:15:05]
+rendimiento en el trading Porque estos
+
+[04:15:07]
+estos hábitos te van a ayudar a
+
+[04:15:09]
+conseguir disciplina te van a ayudar a
+
+[04:15:11]
+conseguir todas las cualidades que
+
+[04:15:12]
+necesitas verdad como resilencia como
+
+[04:15:15]
+control eh mental como eh reducción de
+
+[04:15:19]
+estrés o control del estrés muchos de
+
+[04:15:21]
+las cualidades que son importantes a la
+
+[04:15:23]
+hora de hacer trading verdad vamos a ir
+
+[04:15:25]
+con cada uno de los puntos para que
+
+[04:15:27]
+ustedes vayan viendo como con estos
+
+[04:15:29]
+puntos vamos a crear una serie de pasos
+
+[04:15:32]
+para tener mejores hábitos y para ver
+
+[04:15:34]
+cuáles son los hábitos que tú deberías
+
+[04:15:36]
+de tener principalmente para poder
+
+[04:15:38]
+mejorar como Trader Entonces primero lo
+
+[04:15:40]
+que es mejora de la salud física también
+
+[04:15:42]
+nos va nos va a ayudar a entender cuál
+
+[04:15:44]
+es qué es lo que nos da Cuáles son los
+
+[04:15:47]
+beneficios que nos aportan en Nuestro
+
+[04:15:49]
+camino como traders de y en Nuestro
+
+[04:15:51]
+camino también como personas porque si
+
+[04:15:53]
+vamos a mejorar como personas vamos a
+
+[04:15:55]
+mejorar como traders también un aumento
+
+[04:15:57]
+de la energía hacer ejercicio
+
+[04:15:58]
+regularmente y seguir una dieta
+
+[04:16:00]
+equilibrada proporciona el cuerpo
+
+[04:16:01]
+nutrientes y energía necesarios para
+
+[04:16:03]
+fundar de manera óptima Esto es crucial
+
+[04:16:05]
+para los traders que a menudo necesitan
+
+[04:16:07]
+estar alerta y concentrados durante
+
+[04:16:09]
+largos periodos de tiempo el ejercicio
+
+[04:16:10]
+nos va a ayudar a aumentar nuestra
+
+[04:16:12]
+energía parte nos va a ayudar a
+
+[04:16:14]
+canalizar el estrés también entonces es
+
+[04:16:16]
+bien importante que tú tengas una rutina
+
+[04:16:18]
+por lo menos de 30 minutos Al Día de
+
+[04:16:19]
+ejercicio Esto es lo que más me me
+
+[04:16:21]
+cuesta a mí Lamentablemente pero traten
+
+[04:16:24]
+de ir trabajando poco a poco tampoco se
+
+[04:16:26]
+frustren si no pueden tener hábitos de
+
+[04:16:28]
+la noche a la mañana pero sí traten de
+
+[04:16:31]
+empezar a implementarlos verad por lo
+
+[04:16:32]
+menos hagan el esfuerzo de de tratar de
+
+[04:16:35]
+implementar hábitos de éxito lo vamos a
+
+[04:16:37]
+tener lo que es eh prevención de
+
+[04:16:39]
+enfermedades una buena alimentación y el
+
+[04:16:41]
+ejercicio nos ayuda regular eh prevenir
+
+[04:16:44]
+enfermedades crónicas ahora sí que si
+
+[04:16:46]
+nosotros no estamos Este bien de salud
+
+[04:16:48]
+tampoco vamos a poder estar este bien
+
+[04:16:51]
+activos en nuestro trading lo más
+
+[04:16:53]
+importante es la salud para hacer
+
+[04:16:54]
+cualquier cosa si no tienes una buena
+
+[04:16:56]
+salud no puedes hacer cumplir tus metas
+
+[04:16:58]
+no puedes ser Trader no puedes hacer
+
+[04:16:59]
+nada verdad no puedes tomar mejores
+
+[04:17:01]
+decisiones nos va a ayudar también a
+
+[04:17:03]
+afectar Eh puede llegar a afectar este
+
+[04:17:06]
+no tener buena salud e la capacidad de
+
+[04:17:08]
+concentración y la toma de mejores
+
+[04:17:10]
+decisiones lo los va a ayudar con la
+
+[04:17:12]
+Salud Mental también eh va a ser
+
+[04:17:14]
+reducción de estrés el ejercicio físico
+
+[04:17:16]
+es conocido por liberar en endorfinas
+
+[04:17:18]
+que son sustancias químicas en el
+
+[04:17:20]
+cerebro que actúan como analgésicos
+
+[04:17:22]
+naturales y reductores del estres que
+
+[04:17:24]
+esto es vital en el trading una
+
+[04:17:25]
+actividad que puede ser extremadamente
+
+[04:17:26]
+estresante entender bien qué es lo que
+
+[04:17:29]
+nos beneficia qué es lo que nos da hacer
+
+[04:17:31]
+ejercicio qué es lo que nos está
+
+[04:17:32]
+aportando cada uno de estos hábitos a la
+
+[04:17:35]
+hora de que vas a mejorar Sí o sí como
+
+[04:17:36]
+Trader entonces también vamos a tener
+
+[04:17:38]
+una mejora del estado de ánimo Una
+
+[04:17:40]
+alimentación saludable y rica en
+
+[04:17:41]
+nutrientes como vitaminas y generales
+
+[04:17:43]
+contribuye a la estabilidad eh del
+
+[04:17:45]
+estado de ánimo y Salud Mental porque
+
+[04:17:47]
+vamos a tener un mejor estado de ánimos
+
+[04:17:48]
+vamos a estar bien alegres contentos
+
+[04:17:51]
+tranquilos y eso es lo que se necesita a
+
+[04:17:53]
+la hora de hacer trading Entonces vas a
+
+[04:17:54]
+reducir la depresión y la ansiedad luego
+
+[04:17:56]
+tenemos una mayor Claridad eh mental
+
+[04:17:59]
+tanto el ejercicio como una buena
+
+[04:18:00]
+nutrición mejora la función cognitiva lo
+
+[04:18:02]
+que lleva un mayor Claridad mental estar
+
+[04:18:05]
+más tranquilos claros relajados estás
+
+[04:18:08]
+durante el Trade con 20 lotes ahí en el
+
+[04:18:09]
+nasdaq Y estás relajado tranquilo porque
+
+[04:18:13]
+estás haciendo tienes buenos hábitos
+
+[04:18:14]
+detrás que te respaldan porque tienes un
+
+[04:18:16]
+buen plan de negocio que que puedes
+
+[04:18:18]
+cumplirlo porque tienes la disciplina la
+
+[04:18:21]
+capacidad de tomar decisiones rápidas y
+
+[04:18:23]
+precisas disciplina rutina una
+
+[04:18:25]
+estructura diaria incorporar hábitos de
+
+[04:18:27]
+ejercicio alimentación saludable en una
+
+[04:18:28]
+rutina diaria o sea esto se consigue
+
+[04:18:30]
+diariamente eh Crea una estructura que
+
+[04:18:33]
+puede trasladarse a otas áreas de tu
+
+[04:18:34]
+vida incluyendo el trading verdad ent la
+
+[04:18:36]
+disciplina necesaria para mantener
+
+[04:18:38]
+hábitos que pueden mejorar eh la
+
+[04:18:40]
+disciplina el seguimiento de estrategia
+
+[04:18:43]
+de TR una vez que tú puedes tener una
+
+[04:18:45]
+rutina diaria de de alimentación y de de
+
+[04:18:48]
+ejercicio también vas a poder cumplir tu
+
+[04:18:50]
+rutina de trading porque se te va a ha
+
+[04:18:52]
+serer más fácil porque ya vas a estar
+
+[04:18:54]
+forjando la disciplina o vas a estar
+
+[04:18:56]
+trabajando la disciplina tenemos el paso
+
+[04:18:58]
+número cuatro es la capacidad de toma de
+
+[04:19:00]
+decisiones optimización del rendimiento
+
+[04:19:02]
+cerebral una dieta balanceada rica en
+
+[04:19:05]
+antioxidantes vitaminas y minerales
+
+[04:19:06]
+ejercicio regular mejoran la función
+
+[04:19:08]
+cerebral que facilita la toma de
+
+[04:19:10]
+decisiones rápidas que esto es enal para
+
+[04:19:13]
+el trading estamos viendo todo lo que
+
+[04:19:15]
+nos está aportando simplemente tener
+
+[04:19:18]
+buenos hábitos como Eh puede ser eh
+
+[04:19:21]
+lectura ejercicio alimentarse bien
+
+[04:19:24]
+simplemente eso amigos esos hábitos que
+
+[04:19:26]
+que podrías decir hábitos Ah hay que
+
+[04:19:28]
+tener un montón de hábitos diferentes no
+
+[04:19:30]
+no no Simplemente hábitos sencillos como
+
+[04:19:32]
+alimentarse bien sanamente eh Y aparte
+
+[04:19:36]
+hacer ejercicio leer de pronto nos van a
+
+[04:19:39]
+aportar este tipo de cosas que son muy
+
+[04:19:41]
+buenas y que teniendo estos pequeños
+
+[04:19:43]
+hábitos vamos a poder nosotros mejorar
+
+[04:19:45]
+como traders Sí o sí verdad Entonces
+
+[04:19:47]
+vamos a también tener reducción de la
+
+[04:19:49]
+fatiga mantenerse físicamente activo y
+
+[04:19:51]
+bien alimentado reduce la fatiga y estoy
+
+[04:19:53]
+hablando solamente de dos hábitos chicos
+
+[04:19:55]
+no estoy ni siquiera metiendo un montón
+
+[04:19:57]
+de hábitos simplemente buenos hábitos
+
+[04:19:59]
+hábitos eh básicos solamente esto vamos
+
+[04:20:02]
+a poder tener gestión del estrés y de
+
+[04:20:04]
+las emociones un manejo del estrés el
+
+[04:20:06]
+ejercicio regular es una forma más
+
+[04:20:08]
+efectiva de reducir el estrés y la
+
+[04:20:09]
+ansiedad ya una vez que también aquí
+
+[04:20:12]
+quiero mencionar lo que es la
+
+[04:20:14]
+desconexión del trading una vez que tú
+
+[04:20:16]
+ya tuvistes una sobrecarga Por ejemplo
+
+[04:20:18]
+yo esta semana que estoy grabando esto
+
+[04:20:19]
+he perdido bastantes veces en el mercado
+
+[04:20:22]
+bueno dos veces en el mercado eh un
+
+[04:20:24]
+porcentaje Entonces estás estresado
+
+[04:20:27]
+estás así como exaltado como que estás
+
+[04:20:29]
+de mala de mal humor entonces hacer
+
+[04:20:32]
+ejercicio y llevar esto te va a dar esta
+
+[04:20:34]
+estabilidad emocional eh otra que
+
+[04:20:36]
+también tenemos es el equilibrio trabajo
+
+[04:20:39]
+vida tiempo de calidad incorporar
+
+[04:20:41]
+hábitos saludables como como ejercicio y
+
+[04:20:43]
+una buena alimentación nos va a ayudar
+
+[04:20:44]
+en el trabajo vida personal esto es un
+
+[04:20:46]
+vital para evitar el agotamiento y
+
+[04:20:47]
+mantener la motivación a largo plazo
+
+[04:20:49]
+verdad quise hacer énfasis en dos tipos
+
+[04:20:52]
+de hábitos bien importantes que es comer
+
+[04:20:54]
+saludable y hacer ejercicio no no puse
+
+[04:20:57]
+una serie de un montón de hábitos
+
+[04:20:58]
+diferentes que raros o hábitos que a lo
+
+[04:21:02]
+mejor no cualquier tipo de persona común
+
+[04:21:04]
+los lleva sino algo que tú puedes llevar
+
+[04:21:06]
+a cumplir y simplemente mejorando aquí
+
+[04:21:09]
+tú tienes un gran amplio margen de
+
+[04:21:11]
+mejora en tu training y Y por último
+
+[04:21:12]
+tenemos bienestar general estos hábitos
+
+[04:21:14]
+contribuyen al bienestar general lo que
+
+[04:21:16]
+se traduce en mejor calidad de vida un
+
+[04:21:18]
+Trader que se siente bien física y
+
+[04:21:20]
+mentalmente está mejor preparado para
+
+[04:21:21]
+enfrentar desafíos en el mercado yo los
+
+[04:21:23]
+voy a poner o enumerar como los
+
+[04:21:25]
+principales o mejores hábitos para el
+
+[04:21:27]
+Trader es actividad física alimentarse
+
+[04:21:29]
+sanamente y lectura diaria simplemente
+
+[04:21:32]
+con tres estos tres hábitos poderosos tú
+
+[04:21:35]
+vas a poder meter ir como punta de Lance
+
+[04:21:38]
+en tu trading o ir eh mejorando para
+
+[04:21:41]
+arriba sustancialmente va en conclusión
+
+[04:21:44]
+incorporar buenos hábitos como el
+
+[04:21:46]
+ejercicio regular Una alimentación
+
+[04:21:47]
+saludable es esencial para cualquier
+
+[04:21:49]
+Trader estos hábitos no solas mejoran la
+
+[04:21:51]
+actividad física y mental sino que
+
+[04:21:53]
+también promueve la disciplina la
+
+[04:21:54]
+consistencia la capacidad de toma de
+
+[04:21:56]
+decisiones Entonces al mantener una
+
+[04:21:58]
+rutina que incluye estos hábitos los
+
+[04:21:59]
+tring pueden mejorar mejor eh el estrés
+
+[04:22:02]
+mantener la claridad mental y tomar
+
+[04:22:04]
+decisiones más informadas y racionales
+
+[04:22:05]
+en última instancia estos hábitos
+
+[04:22:07]
+contribuyen al éxito sostenible en el
+
+[04:22:09]
+trading y el bienestar en general
+
+[04:22:11]
+emocional pienso que es algo algo muy
+
+[04:22:12]
+importante en tu trading que va a ayudar
+
+[04:22:15]
+a o que va a determinar entre si cruzas
+
+[04:22:19]
+una línea de nivel o cruzas otra línea
+
+[04:22:21]
+más alta de nivel o sea ir al siguiente
+
+[04:22:23]
+nivel va a determinar el control
+
+[04:22:26]
+emocional tú puedes tener una buena
+
+[04:22:27]
+estrategia un plan de trading todo lo
+
+[04:22:29]
+que tú quieras pero si tú no tienes un
+
+[04:22:31]
+correcto control emocional no vas a
+
+[04:22:33]
+hacer nada Entonces ahora lo que vamos a
+
+[04:22:36]
+a a a cubrir en esta clase es vamos a
+
+[04:22:39]
+identificar las principales emociones
+
+[04:22:41]
+que actúan en frente a nuestro trading y
+
+[04:22:44]
+vamos a ayudar a identificarlas y te voy
+
+[04:22:47]
+a dar tips también para poder
+
+[04:22:48]
+controlarlas Vamos allá con lo primero
+
+[04:22:50]
+que es el miedo eh Te voy a dar una
+
+[04:22:53]
+pequeña descripción de cada una de las
+
+[04:22:55]
+emociones y luego vamos a te voy a dar
+
+[04:22:57]
+unos tips para controlarlas la primera
+
+[04:22:59]
+es el miedo la descripción es el miedo
+
+[04:23:01]
+es una reacción emocional ante una
+
+[04:23:03]
+amenaza percibida a menudo
+
+[04:23:04]
+manifestándose como fuerte de versión a
+
+[04:23:07]
+pérdidas es normal sentir miedo porque
+
+[04:23:09]
+nuestro eh sistema nuestra emociones
+
+[04:23:13]
+nuestro cerebro está capacitado para que
+
+[04:23:15]
+cuando sienta un peligro
+
+[04:23:16]
+eh sentir miedo y este medo nos va a
+
+[04:23:19]
+ayudar a ponernos alerta entonces Cómo
+
+[04:23:21]
+podemos eh controlar este miedo mediante
+
+[04:23:24]
+la educación y la preparación aprende
+
+[04:23:26]
+sobre el mercado estrategias de trading
+
+[04:23:28]
+para sentirte más seguro gestión de
+
+[04:23:30]
+riesgo usan stop loss y diversifica tus
+
+[04:23:32]
+inversiones para limitar pérdidas
+
+[04:23:34]
+posibles practica en simuladores utiliza
+
+[04:23:37]
+cuentas demo para ganar experiencia sin
+
+[04:23:39]
+riesgo real una cosa o un facto que
+
+[04:23:41]
+quería de decirles es que a medida que
+
+[04:23:43]
+nosotros tengamos mejor experiencia
+
+[04:23:45]
+vamos a tener mejor o mejor control
+
+[04:23:48]
+emocional o mejor control emocional del
+
+[04:23:50]
+miedo Entonces es simplemente a veces es
+
+[04:23:53]
+falta de experiencia también es el miedo
+
+[04:23:55]
+Puede ocurrir por falta de algo que no
+
+[04:23:58]
+conocemos verad no conocemos algo y nos
+
+[04:24:01]
+sentimos con miedo entonces por eso es
+
+[04:24:02]
+importante conocer conocerte a ti mismo
+
+[04:24:05]
+y no solamente conocerte a ti mismo sino
+
+[04:24:07]
+conocer tu estrategia y conocer en qué
+
+[04:24:09]
+eres mejor y peor luego lo que tenemos
+
+[04:24:11]
+segundo es la ansiedad ansiedad es una
+
+[04:24:13]
+sensación de inquietud nerviosismo a
+
+[04:24:15]
+menudo relacionada con la anticipación
+
+[04:24:17]
+de eventos futuros básicamente por la
+
+[04:24:19]
+incertidumbre es que se produce la
+
+[04:24:20]
+ansiedad y luego tenemos Cómo
+
+[04:24:23]
+controlarla entonces aquí en la ansiedad
+
+[04:24:25]
+ansiedad y miedo va a hacer estos tips
+
+[04:24:27]
+para controlar va a ser para las dos
+
+[04:24:29]
+cosas ansiedad y miedo vamos a les voy a
+
+[04:24:33]
+decir un montón de pasos para que
+
+[04:24:35]
+ustedes puedan ayudarles a controlar
+
+[04:24:36]
+este tipo de emociones la primera es la
+
+[04:24:38]
+meditación practica técnicas de
+
+[04:24:40]
+relajación para mantener la calma de
+
+[04:24:42]
+descansos regulares toma descansos para
+
+[04:24:43]
+evitar sobrecarga mental el saber
+
+[04:24:45]
+desconectar es bien importante sepan
+
+[04:24:47]
+desconectar del trading sepan cuando ya
+
+[04:24:49]
+no hay que hacer nada no hay que mirar
+
+[04:24:51]
+ese gráfico fines de semana desconéctate
+
+[04:24:53]
+váyanse de descanso ahí por el parque
+
+[04:24:55]
+váyanse retiro espiritual hagan todo ese
+
+[04:24:58]
+tipo de cosas para que les ayude Ah
+
+[04:25:00]
+atención plena es una práctica que
+
+[04:25:02]
+implica prestar atención de manera
+
+[04:25:03]
+intencional al momento presente sin
+
+[04:25:05]
+juzgarlo O sea no vivir en el pasado ni
+
+[04:25:08]
+en el futuro se trata de ser consistente
+
+[04:25:10]
+en tus pensamientos emociones en
+
+[04:25:12]
+sensaciones corporales cómo son
+
+[04:25:14]
+aceptándolos sin intentar cambiarlos ni
+
+[04:25:16]
+reaccionar de manera automática esto
+
+[04:25:18]
+también nos va a ayudar mucho eh los
+
+[04:25:20]
+beneficios que tenemos del
+
+[04:25:22]
+mindfulness no sé si se pronuncia así si
+
+[04:25:25]
+no Disculpen es la reducción del estrés
+
+[04:25:27]
+ayuda a disminuir el estrés y la
+
+[04:25:28]
+ansiedad y enfocarse en el presente y no
+
+[04:25:30]
+en preocupaciones futuras o pasadas o
+
+[04:25:32]
+sea estar conectado Siempre en el
+
+[04:25:34]
+presente okay No no mucha gente está en
+
+[04:25:36]
+su trading acá comprar una prueba de
+
+[04:25:38]
+fondeo y ya están pensando en qué van a
+
+[04:25:40]
+hacer con el dinero que van a ganar de
+
+[04:25:41]
+la prueba de fondeo que está Venid en
+
+[04:25:42]
+pasado Entonces el esto precisamente
+
+[04:25:45]
+este tipo de mentalidad te va a ayudar a
+
+[04:25:47]
+ti a estar concentrado en el presente
+
+[04:25:48]
+verdad Entonces la mejora de la
+
+[04:25:50]
+concentración aumenta la capacidad de
+
+[04:25:52]
+concentración y el enfoque lo cual es
+
+[04:25:54]
+crucial para el trading una regulación
+
+[04:25:56]
+emocional permite mejorar una gestión de
+
+[04:25:57]
+emociones reduciendo reacciones
+
+[04:25:59]
+impulsivas fíjense todo lo que nos
+
+[04:26:01]
+aporta este tipo de de de mentalidad
+
+[04:26:03]
+solamente estar enfocados en el presente
+
+[04:26:06]
+luego tenemos un aumento de la claridad
+
+[04:26:07]
+mental mejora de la toma de decisiones
+
+[04:26:09]
+fomentar una mente Clara y tranquila
+
+[04:26:12]
+entonces Cómo podemos practicar el
+
+[04:26:13]
+mindfulness que nos va a ayudar a
+
+[04:26:16]
+controlar nuestras emociones y todos
+
+[04:26:18]
+estos beneficios que les había dicho es
+
+[04:26:20]
+respiración consistente dedica unos
+
+[04:26:22]
+minutos al día a centrarte en tu
+
+[04:26:24]
+respiración observando cada inhalación y
+
+[04:26:30]
+exhalación y así das durante unos
+
+[04:26:32]
+minutos simplemente respirando de manera
+
+[04:26:35]
+tranquila esto también lo puedes hacer
+
+[04:26:37]
+durante tu trading durante las
+
+[04:26:39]
+operaciones cuando estás estresado Ah Es
+
+[04:26:42]
+me acaba de sacar el Stop loss
+
+[04:26:45]
+mindfulness pira Ono lo otro es un
+
+[04:26:49]
+escaneo corporal hasta me
+
+[04:26:54]
+relajémonos
+
+[04:26:56]
+en cada parte sin juzgar luego es una
+
+[04:26:59]
+Meditación guiada utiliza aplicaciones o
+
+[04:27:01]
+videos de Meditación guiada para seguir
+
+[04:27:03]
+instrucciones y enfocar tu mente pueden
+
+[04:27:05]
+también ha muchísimas aplicaciones hoy
+
+[04:27:07]
+en día en el celular que te ayudan a
+
+[04:27:08]
+esto observación de pensamientos nota
+
+[04:27:11]
+tus pensamientos emociones conforme
+
+[04:27:12]
+surgen sin aferrarte a ellos ni
+
+[04:27:14]
+rechazarlos Entonces es importante
+
+[04:27:17]
+observar analizar cada uno de tus
+
+[04:27:20]
+pensamientos Cómo es que yo estoy
+
+[04:27:22]
+pensando cómo Estoy reaccionando frente
+
+[04:27:24]
+a frente a este riesgo Cómo reacciono
+
+[04:27:27]
+frente a esta operación cómo reacciona
+
+[04:27:29]
+en estos horarios cómo estoy la atención
+
+[04:27:32]
+plena en actividades cotidianas aplica
+
+[04:27:33]
+la atención plena en actividades diarias
+
+[04:27:35]
+como comer caminar lavar platos
+
+[04:27:37]
+concentrarte en sensaciones y
+
+[04:27:39]
+experiencias del momento vivir en el
+
+[04:27:42]
+momento verad en el presente Lu vamos a
+
+[04:27:44]
+hablar el número tres del estrés
+
+[04:27:46]
+descripción del estrés el estrés es una
+
+[04:27:48]
+respuesta física y emocional a demandas
+
+[04:27:50]
+excesivas que puede afectar la toma de
+
+[04:27:52]
+decisiones estar estresado nos afecta la
+
+[04:27:55]
+toma de decisiones porque Generalmente
+
+[04:27:57]
+cuando tú estás estresado vas a tomar
+
+[04:27:59]
+decisiones impulsivas Cómo vas a poder
+
+[04:28:01]
+controlar esto con organización
+
+[04:28:03]
+planifica tus trits y establece metas
+
+[04:28:05]
+claras ejercicio físico manten una
+
+[04:28:07]
+rutina de ejercicio para liberar
+
+[04:28:08]
+tensiones tiempo libre dedica tiempo a
+
+[04:28:10]
+hobbies actividades recreativas lo que
+
+[04:28:12]
+les decía de de desconectarse de de
+
+[04:28:15]
+tener un Hobby de actividades
+
+[04:28:17]
+recreativas es bien importante porque si
+
+[04:28:19]
+tú te la pasas trabajando trabajando
+
+[04:28:20]
+trabajando en tu trading y quieres todo
+
+[04:28:22]
+el tiempo está en el gráfico y mucha
+
+[04:28:24]
+gente dice los fines de semana son de
+
+[04:28:26]
+backtesting y y están ahí y no te
+
+[04:28:29]
+desconectas emocionalmente vas a estar
+
+[04:28:31]
+cansado mucha gente no hace caso a esto
+
+[04:28:34]
+pero créeme que cuando tú lo empiezas a
+
+[04:28:37]
+aplicar aplícalo y vene conmigo y me
+
+[04:28:40]
+dices y cuando cuando lo empieces a
+
+[04:28:42]
+aplicar te vas a dar cuenta que tu
+
+[04:28:43]
+trading va a elevarse de nivel Lu cu el
+
+[04:28:46]
+número cuatro es la incertidumbre
+
+[04:28:47]
+entonces la incertidumbre Es la falta de
+
+[04:28:50]
+certeza sobre el futuro lo cual es común
+
+[04:28:51]
+en los mercados financieros nosotros no
+
+[04:28:53]
+sabemos qué va a pasar no podemos
+
+[04:28:55]
+controlar el mercado y siempre vamos a
+
+[04:28:56]
+estar en incertidumbre entonces lo que
+
+[04:28:59]
+nos tenemos que enseñar es a controlar
+
+[04:29:01]
+esa incertidumbre verdad estrategias
+
+[04:29:03]
+flexibles desarrolla y usa estrategias
+
+[04:29:05]
+que se adapten a diferentes condiciones
+
+[04:29:07]
+del mercado eh No uses una estrategia
+
+[04:29:10]
+que vaya bien un tiempo y luego no vaya
+
+[04:29:12]
+bien en otro tiempo trata de tener una
+
+[04:29:14]
+estrategia que sea consistente a largo
+
+[04:29:15]
+plazo investigación constante mantente
+
+[04:29:18]
+informado sobre noticias y eventos que
+
+[04:29:19]
+pueden afectar el mercado verad entonces
+
+[04:29:22]
+para que estés constantemente Ah okay Yo
+
+[04:29:24]
+sé lo que está pasando yo estoy
+
+[04:29:26]
+informado sé lo que está pasando sé lo
+
+[04:29:28]
+que puede llegar a pasar y no esté no te
+
+[04:29:30]
+caiga de golpe verdad lo otro es la
+
+[04:29:33]
+aceptación acepta que la incertidumbre
+
+[04:29:35]
+es parte del trading y concéntrate en lo
+
+[04:29:36]
+que puedes controlar concéntrate ojo
+
+[04:29:40]
+concéntrate En lo que puedes controlar
+
+[04:29:42]
+es muy pero muy muy importante verdad
+
+[04:29:45]
+porque a partir de de concentrarte tú en
+
+[04:29:48]
+el Stop loss el riesgo on es algo
+
+[04:29:50]
+concéntrate en esos tipo de reglas vas a
+
+[04:29:53]
+mejorar como Trader verad lo demás no lo
+
+[04:29:55]
+puedes controlar verad porque yo no
+
+[04:29:56]
+controlo el precio tú tampoco Nadie de
+
+[04:29:58]
+hecho eh Quién sabe quién lo controla el
+
+[04:30:01]
+algoritmo Internacional el algoritmo
+
+[04:30:03]
+interbancario este el chinito o no sé
+
+[04:30:05]
+quién la Falta de confianza en uno mismo
+
+[04:30:07]
+Falta de confianza en uno mismo es el
+
+[04:30:09]
+punto número cinco y la Falta de
+
+[04:30:10]
+confianza en uno mismo puede llevar a la
+
+[04:30:13]
+indecisión y miedo a tomar acciones si
+
+[04:30:15]
+no tienes confianza en ti mismo lo que
+
+[04:30:16]
+estás haciendo No vas a poder tomar
+
+[04:30:18]
+buenas decisiones mucha gente Ay no
+
+[04:30:20]
+entré Gustavo porque tuve miedo Okay
+
+[04:30:22]
+perfecto tuvistes miedo no entrastes
+
+[04:30:23]
+porque tuvistes miedo porque no tienes
+
+[04:30:25]
+confianza en ti mismo Cómo vas a
+
+[04:30:27]
+controlarlo con pequeños logros
+
+[04:30:29]
+establece metas pequeñas y alcanzables
+
+[04:30:30]
+de construir confianza a lo mejor no te
+
+[04:30:32]
+vayas por la cuenta de 100k vete por la
+
+[04:30:34]
+cuenta de 5k pasarla retirar la cuenta
+
+[04:30:37]
+de 10k pasarla retirar 100 20000 esos
+
+[04:30:40]
+pequeños logros te van a ayudar a
+
+[04:30:42]
+conseguir eh grandes logros una un
+
+[04:30:44]
+aprendizaje continuo mejora de tus
+
+[04:30:45]
+habilidades y conocimientos para
+
+[04:30:47]
+sentirte más competente eh lo otro es el
+
+[04:30:50]
+apoyo busca mentores y comunidades de
+
+[04:30:51]
+trading para recibir feedback luego los
+
+[04:30:54]
+lo el número seis es la resilencia
+
+[04:30:56]
+descripción de la resilencia la
+
+[04:30:58]
+capacidad de recuperarse rápidamente de
+
+[04:30:59]
+dificultades y seguir adelante en tu
+
+[04:31:03]
+trading fíjense muy bien cómo estamos
+
+[04:31:05]
+viendo factores emocionales bastante
+
+[04:31:07]
+importantes la capacidad de cada que te
+
+[04:31:09]
+caigas cada que que me haces una cuenta
+
+[04:31:11]
+te salió malo lo que sea tú adelante
+
+[04:31:14]
+sigues adelante veo mi error me enfoco
+
+[04:31:17]
+en mejorarlo Y a partir de ahí sigo
+
+[04:31:19]
+adelante cómo desarrollarla una
+
+[04:31:21]
+mentalidad de crecimiento ve las
+
+[04:31:22]
+pérdidas como oportunidades de
+
+[04:31:23]
+aprendizaje cada que quemé una cuenta
+
+[04:31:25]
+Okay aprendizaje qué hice mal Qué hice
+
+[04:31:28]
+peor Y a partir de ahí mejoro mejoro
+
+[04:31:31]
+mejoro y esa mejora constante te va a
+
+[04:31:33]
+llevar al crecimiento sé flexible y
+
+[04:31:35]
+dispuesto a cambiar el enfoque cuando
+
+[04:31:37]
+sea necesario no estoy haciendo las
+
+[04:31:39]
+cosas bien me enfoco me adapto Y a
+
+[04:31:42]
+partir de ahí mejoro autocuidado manten
+
+[04:31:44]
+un equilibrio entre el trabajo y el
+
+[04:31:45]
+descanso para evitar agotamiento una
+
+[04:31:48]
+mentalidad positiva es el número si que
+
+[04:31:50]
+es para mí de muy importante es una
+
+[04:31:52]
+mentalidad positiva implica tener una
+
+[04:31:54]
+perspectiva optimista y enfocarse en las
+
+[04:31:55]
+oportunidades en lugar de los obstáculos
+
+[04:31:57]
+eh di no soy el mismo que era antes
+
+[04:32:02]
+estoy cometiendo errores pero no los
+
+[04:32:04]
+mismos errores No soy el mismo que era
+
+[04:32:06]
+antes he mejorado sustancialmente
+
+[04:32:07]
+Entonces cómo vamos a cultivar una
+
+[04:32:09]
+mentalidad positiva afirmaciones
+
+[04:32:11]
+positivas utiliza afirmaciones diarias
+
+[04:32:13]
+para reforzar tu actitud positiva una
+
+[04:32:15]
+visualización también visualiza tus
+
+[04:32:17]
+metas O sea no estar afanado al futuro
+
+[04:32:20]
+pero visualizar tus metas y tener metas
+
+[04:32:22]
+realistas también es es bastante
+
+[04:32:24]
+importante para estar motivado porque tú
+
+[04:32:26]
+tienes una meta y tú quieres ir a
+
+[04:32:27]
+cumplirla No simplemente estás
+
+[04:32:29]
+trabajando por trabajar así no te
+
+[04:32:31]
+mantienes motivado y enfocado lo último
+
+[04:32:34]
+es la gratitud eh Da gracias por todo lo
+
+[04:32:37]
+que puedas enfócate en lo que has
+
+[04:32:38]
+logrado y en lo que tienes y sé
+
+[04:32:40]
+Agradecido por lo que has logrado
+
+[04:32:42]
+entonces chicos gracias por haber estado
+
+[04:32:43]
+en esta mentoría 20244 gratuita te leo
+
+[04:32:47]
+en los comentarios recomienda estos
+
+[04:32:49]
+videos a todos tus amigos comparte dale
+
+[04:32:51]
+like Comenta todos los videos Sígueme en
+
+[04:32:54]
+Instagram y nos vamos a estar viendo en
+
+[04:32:56]
+un siguiente video si quieres una
+
+[04:32:59]
+mentoría personalizada uno a uno puedes
+
+[04:33:02]
+escribirme en mi WhatsApp y nos vemos
+
+[04:33:04]
+pues en el siguiente adiós
+```

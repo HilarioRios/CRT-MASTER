@@ -1,0 +1,1633 @@
+---
+source_id: YT_CANAL_02_sRWHUhHW8og
+video_id: sRWHUhHW8og
+channel: "Gustavom.Trader"
+published_at: 2025-08-27
+url: https://www.youtube.com/watch?v=sRWHUhHW8og
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 12
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# Entradas SCALPING con Estrategia CRT
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=sRWHUhHW8og)
+
+## Transcript
+
+```
+[00:00:00]
+Hola, ¿qué pasa a todos amigos de
+
+[00:00:01]
+YouTube? Estamos con un nuevo video,
+
+[00:00:03]
+esta vez con la estrategia de CRT
+
+[00:00:05]
+adaptada al scalping o le pueden llamar
+
+[00:00:08]
+scalping CRT, como ustedes gusten. Y les
+
+[00:00:11]
+vengo a traer este bello y hermoso
+
+[00:00:12]
+video. No sin antes decirles que se
+
+[00:00:15]
+suscriban a este canal, que estoy muy
+
+[00:00:17]
+contento con todo el apoyo y hay mucha
+
+[00:00:19]
+gente aún así que está no está suscrita.
+
+[00:00:22]
+Estamos cerca de llegar a los 4,000
+
+[00:00:24]
+suscriptores. Entonces, chicos, que se
+
+[00:00:26]
+vea el apoyo porque estoy trayendo
+
+[00:00:28]
+últimamente unos videos superhermosos,
+
+[00:00:31]
+unos videos de calidad. Entonces, este,
+
+[00:00:34]
+suscríbanse, síganme por ahí por
+
+[00:00:36]
+Instagram también. Eh, conéctense a mi
+
+[00:00:38]
+comunidad privada que está abajo en la
+
+[00:00:40]
+descripción, tanto Telegram o WhatsApp y
+
+[00:00:43]
+ahí estamos compartiendo entradas,
+
+[00:00:45]
+estamos compartiendo análisis, ya saben,
+
+[00:00:47]
+estamos impartiendo mucha información de
+
+[00:00:49]
+valor. Ahora sí, vamos con la estrategia
+
+[00:00:52]
+de scalping con SRT. Bueno, chicos, pues
+
+[00:00:55]
+ya estamos aquí en pantalla. Les voy a
+
+[00:00:56]
+explicar un poquito lo que es la teoría.
+
+[00:00:58]
+Fíjense que en este video no vamos a
+
+[00:01:00]
+entrar mucho en detalle sobre el vallas.
+
+[00:01:02]
+Ya hicimos un video sobre el vallas.
+
+[00:01:03]
+Mucha gente se quedó con las ganas de
+
+[00:01:05]
+más videos sobre el vallas. Si quieren
+
+[00:01:08]
+otro video sobre el vallas explicando
+
+[00:01:10]
+más a detalle, más cositas, me lo pueden
+
+[00:01:12]
+dejar en los comentarios. Totalmente. Yo
+
+[00:01:15]
+eh si ustedes me lo exigen muchísimo,
+
+[00:01:17]
+como siempre, yo hago caso a mi
+
+[00:01:19]
+comunidad si quieren ver otro video
+
+[00:01:21]
+sobre el vallas. Pero lo que vamos a a
+
+[00:01:22]
+discutir precisamente acá o lo que vamos
+
+[00:01:24]
+a ver en este video es la estrategia del
+
+[00:01:27]
+CRT al scalping. Entonces, ¿cuál es la
+
+[00:01:30]
+idea? La idea es poder tradear rangos de
+
+[00:01:33]
+15 minutos o rangos de una hora. No
+
+[00:01:35]
+vamos a tradear rangos más altos.
+
+[00:01:37]
+Recordemos que para intradía,
+
+[00:01:39]
+normalmente que yo soy eh un trader de
+
+[00:01:41]
+intradía, suelo eh manejar rangos de 4
+
+[00:01:44]
+horas o diarios, pero para esta
+
+[00:01:46]
+estrategia vamos a manejar
+
+[00:01:48]
+principalmente H1, M15. Inclusive H1 es
+
+[00:01:52]
+un poquito más lento. M15 o incluso M5
+
+[00:01:56]
+yo estaría perfecto para poder hacer
+
+[00:01:58]
+scalping. Acuérdense que el scalping, la
+
+[00:02:01]
+finalidad que tiene el scalping es hacer
+
+[00:02:03]
+operaciones un poco más rápidas. salir
+
+[00:02:05]
+rápido del mercado. Yo les pondré algún
+
+[00:02:07]
+algún par de ejemplos, no sin antes
+
+[00:02:09]
+explicarles la idea. Entonces, la idea
+
+[00:02:11]
+es poder agarrar un rango de M15, que es
+
+[00:02:13]
+donde yo se los explicaré, su máximo y
+
+[00:02:16]
+su mínimo, poder definir el vallas o la
+
+[00:02:18]
+dirección del precio, esperar un turtle
+
+[00:02:21]
+sub, turtle sub en una temporalidad
+
+[00:02:24]
+menor, como puede ser un M5, un M1. Y en
+
+[00:02:28]
+esas temporalidades, una vez nosotros
+
+[00:02:30]
+tenemos la confirmación de que el precio
+
+[00:02:32]
+va a ir realmente hacia la dirección que
+
+[00:02:35]
+nosotros queremos, esperaremos que haya
+
+[00:02:37]
+el turtle, que haya la confirmación con
+
+[00:02:40]
+la vela y después entraremos. Esa sería
+
+[00:02:43]
+nuestra nuestra estrategia y ya
+
+[00:02:45]
+buscaríamos entrar hacia el otro
+
+[00:02:47]
+extremo. Por ejemplo, ponemos una
+
+[00:02:49]
+posición larga. El precio, fíjense que
+
+[00:02:51]
+por aquí viene hace turtle stop de la
+
+[00:02:54]
+vela del rango de M15. en M5 me confirma
+
+[00:02:57]
+también. Espero mi patrón en M5 también
+
+[00:02:59]
+que me confirme, que me haga un nuevo
+
+[00:03:01]
+turtle o falle, cierre la vela en
+
+[00:03:03]
+positivo o cierre la vela de
+
+[00:03:05]
+confirmación y vamos a ir a atacar el
+
+[00:03:08]
+próximo máximo en las siguientes velas.
+
+[00:03:10]
+Entonces, la idea sería poder entrar de
+
+[00:03:12]
+esta manera al cierre de la vela.
+
+[00:03:14]
+Ahorita les voy a poner también cómo
+
+[00:03:15]
+pueden entrar anticipado. Y por ejemplo,
+
+[00:03:18]
+ir a este objetivo y ya podemos ir
+
+[00:03:21]
+moderando el RR. Normalmente un RR1 a2
+
+[00:03:24]
+está bastante bien o inclusive un A3 si
+
+[00:03:27]
+entran de manera un poquito más precisa.
+
+[00:03:29]
+Pero esta sería la idea de las entradas.
+
+[00:03:32]
+Esto sería principalmente cómo
+
+[00:03:33]
+estaríamos tomando una entrada ganando
+
+[00:03:36]
+como yo. Fíjense la operación va
+
+[00:03:37]
+bastante bien. Puedo cerrar todas las
+
+[00:03:39]
+posiciones y habré ya ganado por ahí.
+
+[00:03:43]
+Entonces, gracias a XT.com por
+
+[00:03:45]
+patrocinar este video. Bueno, chicos,
+
+[00:03:47]
+aquí estamos en el eurodólar. Fíjense
+
+[00:03:49]
+que tenemos este rango de M15. Tenemos
+
+[00:03:51]
+la dirección en ese actualmente como
+
+[00:03:53]
+estaba el precio ahí bajista. Fíjense
+
+[00:03:56]
+que está haciendo un rebote. Van a
+
+[00:03:57]
+esperar un turtle stop contrario
+
+[00:03:59]
+contrario a nuestra en nuestra entrada
+
+[00:04:02]
+también. Aquí por ejemplo tenemos otro y
+
+[00:04:04]
+van a estar ustedes tarjeteando los lows
+
+[00:04:07]
+de las velas de M15. Ahora, muchas de
+
+[00:04:10]
+las veces este cuando el precio tiene un
+
+[00:04:14]
+rango bastante pequeñito, o sea, es muy
+
+[00:04:15]
+pequeñito, ustedes pueden targetear si
+
+[00:04:17]
+quieren dos o tres velas. No es
+
+[00:04:19]
+necesario que tarjeteen este una sola
+
+[00:04:22]
+vela. Yo lo estoy enseñando con una sola
+
+[00:04:24]
+vela, pero puede ser que tarjeteen tres
+
+[00:04:25]
+velas de M15. Vamos a poner el ejemplo
+
+[00:04:28]
+aquí, por ejemplo, con tres velas de
+
+[00:04:29]
+M15. ¿Cuáles va a ser nuestra
+
+[00:04:31]
+confirmación de entrada? va a ser
+
+[00:04:33]
+nuestra confirmación de entrada una vez
+
+[00:04:35]
+nosotros en este caso vemos el cierre de
+
+[00:04:37]
+la vela de M15, pero estamos de acuerdo
+
+[00:04:40]
+que no sabemos si va a venir una vela de
+
+[00:04:42]
+este estilo o va a venir esta vela
+
+[00:04:44]
+grande. Y si esperamos el cierre de la
+
+[00:04:46]
+vela grande de M15, nos vamos a quedar
+
+[00:04:48]
+muchas veces fuera. Entonces bajaríamos
+
+[00:04:51]
+a esperar un cierre de M5, pero a veces
+
+[00:04:53]
+también es muy grande la vela
+
+[00:04:55]
+dependiendo de Entonces a mí lo que me
+
+[00:04:57]
+gusta es que M5 me haga un turtle up
+
+[00:05:00]
+después de que me hizo el turtle de M15.
+
+[00:05:03]
+Digamos, aquí tenemos el turtle de M15 y
+
+[00:05:06]
+en M5 me sucede lo mismo. Una vez me
+
+[00:05:08]
+sucede lo mismo, puedo esperar un cierre
+
+[00:05:10]
+de una vela M5 o puedo incorporarme con
+
+[00:05:13]
+un minuto. A mí me encanta en un minuto
+
+[00:05:15]
+porque en un minuto es como más mejor.
+
+[00:05:17]
+Fíjense como el precio una vez que toma
+
+[00:05:19]
+el turtle sop inclusive aquí o inclusive
+
+[00:05:22]
+aquí si ustedes se adelantaron un poco,
+
+[00:05:24]
+la entrada la pudieron haber agarrado
+
+[00:05:25]
+bien. Fíjense como viene hacia para
+
+[00:05:27]
+arriba el precio. Hace un nuevo Turtle
+
+[00:05:28]
+Sopierra negativo. Pueden esperar otro
+
+[00:05:30]
+cierre de esta vela, pueden inclusive
+
+[00:05:32]
+esperar este cierre de esta vela cuando
+
+[00:05:34]
+el precio ya confirme que ha hecho toda
+
+[00:05:36]
+esta parte como turtel sub. Y aquí, por
+
+[00:05:39]
+ejemplo, en el corte de cuando el precio
+
+[00:05:41]
+viene para abajo, ahí se pueden meter
+
+[00:05:43]
+inclusive si para que vean que son
+
+[00:05:45]
+entradas un poquito más realistas, que
+
+[00:05:47]
+no siempre te vas a meter en la parte
+
+[00:05:49]
+como más alta del turtle sop, pero
+
+[00:05:51]
+igualmente si ustedes van y tienen su
+
+[00:05:53]
+target, vamos a poner el primer target
+
+[00:05:56]
+de ese de M15, por ejemplo, el primer
+
+[00:05:58]
+target lo podríamos haber tenido a la
+
+[00:06:00]
+vela de M15, pero fíjense que ahí
+
+[00:06:03]
+manejamos nosotros tres velas. ¿Por qué
+
+[00:06:05]
+tres velas? Porque hay veces que se nos
+
+[00:06:07]
+va a quedar muy cortito el target. Si se
+
+[00:06:09]
+les queda cortito el target y tienen más
+
+[00:06:11]
+targets, más inmediatos, como por
+
+[00:06:12]
+ejemplo este o este, pues pueden agarrar
+
+[00:06:14]
+tres velitas de M15 para que sea una
+
+[00:06:16]
+entrada así. Pero no dejen correr tanto
+
+[00:06:19]
+porque no tiene sentido. Se supone que
+
+[00:06:21]
+estamos haciendo scalping y que queremos
+
+[00:06:23]
+salir lo más antes posible.
+
+[00:06:25]
+Entonces, no dejen correr tanto porque
+
+[00:06:27]
+si dejan correr mucho pues no tiene
+
+[00:06:29]
+mucho sentido. Pero igualmente esta
+
+[00:06:30]
+entrada que es un poquito más larguita,
+
+[00:06:33]
+fíjense que por aquí hubieran podido
+
+[00:06:34]
+tardar unos 10 minutos. Ya para acá ya
+
+[00:06:37]
+si dejan correr más pues pueden tardar
+
+[00:06:39]
+hasta 40 minutos. Ya no es tan scalping,
+
+[00:06:41]
+¿verdad, Gustavo? Entonces vamos a
+
+[00:06:43]
+ponerlo realista como ustedes quieren.
+
+[00:06:46]
+No quieren ser scalping, quieren que sea
+
+[00:06:48]
+scalping, quieren que sea rapidito.
+
+[00:06:50]
+Entonces vamos a poner, por ejemplo, en
+
+[00:06:53]
+este target el ejemplo y vamos a poner
+
+[00:06:55]
+en este otro target que está acá, los
+
+[00:06:57]
+dos targets para que ustedes vean cómo
+
+[00:06:59]
+vamos poniendo el stop loss y el take
+
+[00:07:01]
+profit de una entrada de M15. ¿Qué vamos
+
+[00:07:04]
+a hacer nosotros? Entonces, ponemos el
+
+[00:07:06]
+primer target aquí. Ustedes quieren una
+
+[00:07:08]
+entrada rapidita. Normalmente si tienen
+
+[00:07:10]
+un poquito menos de target, pues van a
+
+[00:07:12]
+tener que sufrirla un poquito más o
+
+[00:07:15]
+tener un RR un poquito más corto, pero
+
+[00:07:17]
+fíjense que si lo ajustamos bien
+
+[00:07:18]
+inclusive nos puede dar un uno a tres
+
+[00:07:20]
+perfectamente por aquí la salida más o
+
+[00:07:23]
+menos por aquí o inclusive en ese low
+
+[00:07:25]
+ahí. Fíjense que nos da un uno a tres.
+
+[00:07:27]
+Si lo extienden un poquito más pues sí
+
+[00:07:29]
+que pueden tener un stoploss más holgado
+
+[00:07:31]
+y mantener su mismo uno a tres. Por
+
+[00:07:33]
+ejemplo, me hubiera gustado ahí esas dos
+
+[00:07:35]
+velas de M15. Solo les estoy dando unas
+
+[00:07:38]
+par de ideas cómo pueden operar con
+
+[00:07:40]
+estrategia de de CRT, con scalping,
+
+[00:07:42]
+entradas más rápidas, pero ustedes ya
+
+[00:07:45]
+van a poder hacer su back testing y
+
+[00:07:47]
+poder medirlo, ¿no? Poder hacer sus
+
+[00:07:49]
+propias reglas, poder hacer sus propios
+
+[00:07:52]
+modelos de entrada, etcétera, etcétera.
+
+[00:07:53]
+Solo es como la idea principal y esa
+
+[00:07:56]
+sería como la idea principal de una
+
+[00:07:57]
+entrada. Por ejemplo, vamos a poner otro
+
+[00:08:00]
+ejemplo antes de irme. Otro par de ejemp
+
+[00:08:03]
+Bueno, otro ejemplo. Fíjense como
+
+[00:08:05]
+nosotros éramos bajistas. Esperamos un
+
+[00:08:07]
+turtle sub de la vela M15, ya sea acá o
+
+[00:08:10]
+acá. Fíjense que este me gustó. Este
+
+[00:08:12]
+también me gustó bastante bien y
+
+[00:08:14]
+podíamos haber atacado ese low. El
+
+[00:08:16]
+precio viene, ataca la vela de M15. Y
+
+[00:08:18]
+aquí esperamos nuestra confirmación,
+
+[00:08:20]
+nuestra confirmación con M5, M1.
+
+[00:08:23]
+Acuérdense, vamos a M5. Vamos a M5. No
+
+[00:08:26]
+siempre van a esperar que cierre la vela
+
+[00:08:28]
+M5, pero fíjense que a veces pueden ir
+
+[00:08:30]
+confluyendo M5 con M1 y hay veces que
+
+[00:08:33]
+sí, por ejemplo, era muy bueno esperar
+
+[00:08:35]
+la vela de M5, pero hay veces que va a
+
+[00:08:37]
+ser una vela de ese estilo y se va a
+
+[00:08:39]
+comer toda la ganancia. Por eso muchas
+
+[00:08:41]
+de las veces pues tengo que entrar un
+
+[00:08:43]
+poquito más rápido, más antes, porque si
+
+[00:08:46]
+me espero demasiado pues está bien.
+
+[00:08:48]
+Fíjense que aquí el precio tuvo, llegó,
+
+[00:08:51]
+hizo turtle sub, falló en hacer un nuevo
+
+[00:08:53]
+higher high y por aquí en la ruptura del
+
+[00:08:56]
+del movimiento yo me hubiera podido
+
+[00:08:57]
+haber incorporado o inclusive te
+
+[00:08:59]
+hubieras podido haber incorporado acá en
+
+[00:09:01]
+el cambio de estructura. Entonces, eh
+
+[00:09:04]
+yo, por ejemplo, la verdad me hubiera
+
+[00:09:05]
+incorporado, me hubiera dado confianza
+
+[00:09:07]
+incorporarme por aquí, más o menos de
+
+[00:09:09]
+este estilo. Aseguro mi target por aquí,
+
+[00:09:12]
+es una entrada de scalping y ponemos
+
+[00:09:14]
+nuestro stop loss más o menos al uno a
+
+[00:09:17]
+dos. Ahí está una entrada perfecta al 1
+
+[00:09:19]
+a dos. Si la si la ponen más perfecta,
+
+[00:09:22]
+obviamente pues pueden ponerse un RR
+
+[00:09:24]
+mucho mejor, de uno a tres, por ejemplo,
+
+[00:09:27]
+pero no siempre hay entradas tan
+
+[00:09:28]
+perfectas, entonces ahí tienen que ir
+
+[00:09:30]
+ustedes jugando con eso. Entonces esta
+
+[00:09:32]
+sería para scalping de CRT. Antes de
+
+[00:09:35]
+irme, les voy a poner la de abajo que se
+
+[00:09:37]
+dio también después con la misma
+
+[00:09:39]
+estrategia, misma entrada de
+
+[00:09:40]
+continuación, aparte de, por ejemplo,
+
+[00:09:42]
+esta también se da, si no me equivoco,
+
+[00:09:47]
+eh esta que está aquí, ¿no? El precio
+
+[00:09:49]
+toma estos máximos acá, toma este máximo
+
+[00:09:52]
+también que está aquí. Fíjense, una vez
+
+[00:09:54]
+tenemos nuestro rango fijado, ya tenemos
+
+[00:09:57]
+ese rango, podemos atacar, podemos poner
+
+[00:09:59]
+este low. Bueno, hasta acá está este
+
+[00:10:02]
+low, este low porque hizo esta vela,
+
+[00:10:04]
+hizo luego esta vela de rechazo y luego
+
+[00:10:06]
+subió hacia arriba. Obviamente aquí
+
+[00:10:08]
+nosotros teníamos que tener en claro que
+
+[00:10:10]
+teníamos un vallas bajista, ¿no?
+
+[00:10:12]
+Entonces el vallas ya es otro tema
+
+[00:10:14]
+aparte que podemos tocarlo en próximos
+
+[00:10:17]
+videos, pero igualmente fíjense que este
+
+[00:10:19]
+es nuestro rango de M15. ¿Por qué hasta
+
+[00:10:21]
+acá? ¿Por qué considero las dos velas?
+
+[00:10:24]
+Porque realmente el precio pues subió
+
+[00:10:25]
+hasta acá, ¿no? Entonces consideraría en
+
+[00:10:27]
+este caso las dos velas. Hay veces que
+
+[00:10:29]
+van a considerar una vela, hay veces que
+
+[00:10:31]
+van a considerar dos. Ya depende la
+
+[00:10:33]
+situación también sean un poco
+
+[00:10:34]
+flexibles. No tiene que ser exactamente
+
+[00:10:36]
+como yo les digo todo. Entonces van a
+
+[00:10:39]
+ustedes a ir variando. A partir de ahí
+
+[00:10:41]
+se van a esperar su confirmación de 5
+
+[00:10:43]
+minutos. Y fíjense que no siempre es
+
+[00:10:45]
+bueno esperar la vela de 5 minutos
+
+[00:10:47]
+porque los va a sacar. Entonces yo
+
+[00:10:49]
+prefiero esperar en M1. No los va a
+
+[00:10:51]
+sacar, van a entrar tarde, eso es lo que
+
+[00:10:53]
+va a pasar. Y si entran demasiado tarde,
+
+[00:10:55]
+pues no tiene mucho sentido del mundo,
+
+[00:10:57]
+¿no? En este caso, fíjense que el precio
+
+[00:11:00]
+hace el Turtle Sof de M15. Aquí cuando
+
+[00:11:03]
+rechaza podemos meternos, aunque es un
+
+[00:11:05]
+poquito agresivo, pero sinceramente yo
+
+[00:11:07]
+hubiera esperado el retroceso y cuando
+
+[00:11:09]
+el precio regresó me meto acá, ya sea
+
+[00:11:13]
+que aquí porque no la porque esperaron
+
+[00:11:16]
+un poco o ya sea cuando el precio hizo
+
+[00:11:17]
+el tortel sop y confirmó con vela
+
+[00:11:19]
+bajista. Ahí ya ahora ajustamos nuestro
+
+[00:11:22]
+ratio riesgo beneficio por aquí y
+
+[00:11:25]
+nuestro TP, perdón, nuestro target que
+
+[00:11:27]
+era nuestro T profit y luego después
+
+[00:11:30]
+ajustamos. Ahí está una entrada uno a
+
+[00:11:32]
+tres o lo pueden ser conservadores con 1
+
+[00:11:33]
+a 2, 2 y5 por ejemplo. Eso sería una
+
+[00:11:36]
+entrada totalmente buena. pueden ajustar
+
+[00:11:38]
+un poquito más al uno a tres. Obviamente
+
+[00:11:40]
+les va a costar un poco más el uno a tro
+
+[00:11:42]
+a dos es como más holgado, pero tienen
+
+[00:11:44]
+que ser un poquito más constantes. Ya
+
+[00:11:46]
+cada uno va ajustando de acuerdo a a lo
+
+[00:11:48]
+que vaya viendo. Pero esta es una
+
+[00:11:50]
+entrada bastante bastante buena con
+
+[00:11:52]
+estrategia de CRT adaptada al scalping.
+
+[00:11:55]
+Recuerden, chicos, rangos de M15,
+
+[00:11:57]
+confirmaciones de 5 minutos y de 1
+
+[00:11:59]
+minuto. Este es mi rango de 15 minutos,
+
+[00:12:01]
+que lo tengo aquí marcado con una línea
+
+[00:12:05]
+azul y una línea azul acá abajo. La idea
+
+[00:12:07]
+es poder encontrar el turtle sub. Una
+
+[00:12:10]
+vez encontrando el turtle sub o
+
+[00:12:12]
+localizando esa esa área, esa zona donde
+
+[00:12:15]
+el precio puede revertir, nosotros lo
+
+[00:12:17]
+que vamos a hacer es bajarnos a una
+
+[00:12:19]
+temporalidad más bajita y en esa
+
+[00:12:21]
+temporalidad más bajita poder confirmar
+
+[00:12:23]
+nuestra entrada. Es así de sencillo.
+
+[00:12:26]
+Entonces, vamos a estar manejando
+
+[00:12:27]
+principalmente rangos de temporalidades
+
+[00:12:30]
+más pequeñas o rangos de M15. Pueden
+
+[00:12:33]
+manejar rangos de una hora, pero yo les
+
+[00:12:35]
+recomiendo que manejen estos rangos de
+
+[00:12:37]
+M15 porque es más rápido, son entradas
+
+[00:12:39]
+rápidas y se trata de salir rápido.
+
+[00:12:41]
+Entonces, tienen el Turtle Sop.
+
+[00:12:43]
+Obviamente ahorita lo tengo que mostrar
+
+[00:12:45]
+con entradas ya hechas, pero si en un
+
+[00:12:48]
+futuro quieren más videos, un back
+
+[00:12:49]
+testing o algo por el estilo, también lo
+
+[00:12:51]
+podemos hacer. Si me lo dejan mucho en
+
+[00:12:53]
+los comentarios, puedo hacer más videos,
+
+[00:12:56]
+a lo mejor haciendo un back testing con
+
+[00:12:57]
+scalping. M15, rango de M15, la tenemos
+
+[00:13:00]
+clara. Vamos a nuestra temporalidad de 5
+
+[00:13:02]
+minutos y podemos esperar a que la vela
+
+[00:13:05]
+cierre y nos confirme ese cambio. Y lo
+
+[00:13:07]
+otro que les había dicho, que la vela de
+
+[00:13:10]
+5 minutos tome el low de la vela
+
+[00:13:12]
+anterior. En este caso no no genera
+
+[00:13:15]
+esto, pero igualmente falla en hacer un
+
+[00:13:17]
+lower lower low y el precio nos cierra
+
+[00:13:20]
+por encima de ahí. automáticamente
+
+[00:13:22]
+nosotros podríamos ir a a una a esa
+
+[00:13:25]
+temporalidad, meter esa entrada y salir.
+
+[00:13:27]
+Pero fíjense que el RR no nos quedaría
+
+[00:13:29]
+para nada atractivo. Mucha gente me está
+
+[00:13:32]
+diciendo también, "Gustavo, cuando
+
+[00:13:33]
+saques la estrategia de scalping, pues
+
+[00:13:35]
+yo quiero operar en M1, ¿no? Porque
+
+[00:13:37]
+quiero operar rápido. Entonces, eh les
+
+[00:13:41]
+voy a decir cómo nos podríamos haber
+
+[00:13:43]
+metido en en antes de que la vela esta
+
+[00:13:46]
+cerrara en la temporalidad de M1.
+
+[00:13:49]
+Entonces vamos a usar rangos para que
+
+[00:13:51]
+vayan ubicándose, rangos de M15 con
+
+[00:13:55]
+confirmaciones de M5, pero nuestra
+
+[00:13:57]
+entrada realmente la vamos a disparar
+
+[00:13:59]
+nuestra temporalidad de M1. Entonces
+
+[00:14:02]
+vamos a ver qué confirmaciones podríamos
+
+[00:14:04]
+haber tenido en M1 para poder entrar.
+
+[00:14:07]
+Entonces, ya estamos acá en M1 y en M1
+
+[00:14:09]
+que vamos a estar buscando una vez que
+
+[00:14:11]
+ocurre el Turtle Sop de M15, que es
+
+[00:14:13]
+aquí, vamos a esperar que el precio lo
+
+[00:14:16]
+que haga es nuestro un cambio un cambio
+
+[00:14:19]
+de una vez que genera ese ese turtalle
+
+[00:14:23]
+sub. Entonces, fíjense que aquí el
+
+[00:14:25]
+precio viene hacia arriba, no ha
+
+[00:14:28]
+generado ningún tipo de cambio de
+
+[00:14:29]
+estructura ni nada por el estilo.
+
+[00:14:31]
+Podemos esperar también que cierre las
+
+[00:14:34]
+las próximas cinco velas positivas.
+
+[00:14:36]
+Eh, lo más clásico, lo más básico para
+
+[00:14:39]
+tomar esta entrada, por ejemplo, es
+
+[00:14:41]
+hacer esto, ¿no? Que el precio venga acá
+
+[00:14:43]
+y aquí tomamos la entrada. Pero
+
+[00:14:46]
+estábamos viendo que nosotros muchas de
+
+[00:14:48]
+las veces nos tenemos que adelantar a la
+
+[00:14:50]
+entrada. Entonces, yo esperaría,
+
+[00:14:52]
+fíjense, yo esperaría que el precio
+
+[00:14:55]
+rompa aquí, haga turtle sub, o sea,
+
+[00:14:58]
+confirme M15, haga turtle up en M1. Una
+
+[00:15:01]
+vez que haga eh turtle en M1, cierre la
+
+[00:15:04]
+vela en positivo y podamos entrar. Ese
+
+[00:15:07]
+sería nuestro patrón de confirmación.
+
+[00:15:09]
+Hay muchas maneras de entrar, pero por
+
+[00:15:11]
+ejemplo aquí. Y yo, ¿cómo me protegería?
+
+[00:15:14]
+Pues en base a mi target. Fijo mi
+
+[00:15:17]
+target, por ejemplo, aquí y puedo fijar
+
+[00:15:20]
+un uno a dos. Aquí nos da inclusive un 1
+
+[00:15:23]
+2 y medio, pero yo fijaría un 1 a dos. o
+
+[00:15:26]
+pueden ajustarlo a un uno a tres. Un a
+
+[00:15:28]
+tr sí que nos saca en esta entrada, pero
+
+[00:15:30]
+fíjense que con uno a dos no nos saca
+
+[00:15:33]
+para nada. Traten de darle un stop loss
+
+[00:15:35]
+grandecito. En este caso, ¿por qué le
+
+[00:15:36]
+damos un stop loss grandecito? Porque
+
+[00:15:39]
+suelen ser entradas un poquito más
+
+[00:15:41]
+rápidas y aparte estamos en horario de
+
+[00:15:44]
+volatilidad en este en este nivel de
+
+[00:15:46]
+precio. Entonces, primera confirmación,
+
+[00:15:49]
+M5 M, rango de M15 hace Turtle la vela
+
+[00:15:53]
+de M15. Esperamos que haya una reacción
+
+[00:15:55]
+en el precio en una vela de M1 y para
+
+[00:15:58]
+arriba. Lo pueden hacer también entrando
+
+[00:16:00]
+con M5. Si no se sienten tan cómodos con
+
+[00:16:02]
+una temporalidad de M1, por ejemplo, lo
+
+[00:16:06]
+pueden hacer con M5. Esperan que la vela
+
+[00:16:09]
+M5 cierre. En este caso, lo único malo
+
+[00:16:11]
+es que la vela de M5 cerró muy grande.
+
+[00:16:14]
+Si la vela de M5 cerró muy grande, por
+
+[00:16:16]
+ejemplo, acá vamos a marcarlo, esta
+
+[00:16:19]
+vela, esta vela cerró muy arriba, lo que
+
+[00:16:22]
+van a hacer es esperar este retroceso en
+
+[00:16:24]
+el precio y ahí van a poder entrar más o
+
+[00:16:26]
+menos cercas de Acuérdense que en el en
+
+[00:16:29]
+el modelo de tipos de entrada también lo
+
+[00:16:30]
+que yo les dije es que podemos entrar en
+
+[00:16:33]
+el soporte institucional. Les dejé un
+
+[00:16:35]
+vídeo de modelos de entrada. También es
+
+[00:16:38]
+correcto entrar aquí, por ejemplo.
+
+[00:16:40]
+Entonces, ya va que ustedes se vayan
+
+[00:16:41]
+adaptando. ¿Qué esperaría yo? Bueno,
+
+[00:16:43]
+cerró la vela, pero ya es muy alto para
+
+[00:16:45]
+mi scalping. Ya es un precio muy arriba.
+
+[00:16:48]
+Fíjense que está por encima del 50%
+
+[00:16:51]
+sobre el 50% de nuestro rango de vela de
+
+[00:16:54]
+M15. Entonces, me voy a esperar un
+
+[00:16:56]
+retroceso en la temporalidad de M1.
+
+[00:16:58]
+Entonces, ¿qué vamos a esperar? Por
+
+[00:16:59]
+ejemplo, cerró la vela y el retroceso.
+
+[00:17:02]
+En el retroceso pueden esperar una nueva
+
+[00:17:04]
+vela de confirmación de M1, pero ya no
+
+[00:17:06]
+es necesario. Ya es más o menos sobre el
+
+[00:17:08]
+50% de ese movimiento. Ahí se pueden
+
+[00:17:11]
+meter. Más o menos sería una entrada tal
+
+[00:17:13]
+que así. Y ponen su stop loss de acuerdo
+
+[00:17:17]
+a su take profit. Fíjense que hay veces
+
+[00:17:20]
+que el take profit se queda un poquito
+
+[00:17:22]
+pequeño, pero igualmente como es
+
+[00:17:25]
+scalping ustedes vayan regulando su
+
+[00:17:27]
+entrada para que les quede más o menos
+
+[00:17:29]
+una entrada de esta forma. Pueden
+
+[00:17:31]
+esperarte la reacción en este retroceso
+
+[00:17:33]
+de la vela de M1 y se pueden proteger
+
+[00:17:35]
+más o menos tal que así. Fíjense que el
+
+[00:17:38]
+el el RR les queda igualmente uno a dos.
+
+[00:17:41]
+Entre uno a dos, un a tres se pueden
+
+[00:17:43]
+mover. Esto es en el Nasdaq. Vamos a
+
+[00:17:46]
+poder hacer ejemplos en otros pares
+
+[00:17:48]
+también y ahorita voy a hacer una un
+
+[00:17:50]
+ejemplo de una entrada en continuación
+
+[00:17:52]
+también para que ustedes lo tengan
+
+[00:17:53]
+superceto. Entonces vamos a ir por
+
+[00:17:56]
+ejemplo en esta venta, ¿no? Supongamos
+
+[00:17:58]
+que ya nosotros teníamos nuestro vallas
+
+[00:18:00]
+bajista.
+
+[00:18:01]
+Vallas bajista. Vemos un turtle sub al
+
+[00:18:04]
+lado contrario de nuestra dirección.
+
+[00:18:06]
+Acuérdense, nuestra dirección es
+
+[00:18:08]
+bajista. ¿Qué tenemos que esperar? Un
+
+[00:18:09]
+turtle sub contrario. Y aquí vamos a
+
+[00:18:12]
+marcar nuestro rango. ¿Hasta dónde
+
+[00:18:13]
+estaría? pues hasta este mínimo, pero
+
+[00:18:16]
+hasta este otro mínimo es como un
+
+[00:18:17]
+poquito más seguro, eh, salir rápido.
+
+[00:18:21]
+Pueden usar también rangos de H1, por
+
+[00:18:23]
+ejemplo, si ustedes ven un low de una
+
+[00:18:25]
+vela de H1 acá importante, como por
+
+[00:18:27]
+ejemplo de este lado, pueden convertir
+
+[00:18:29]
+esa entrada en un poquito más largo,
+
+[00:18:31]
+pero yo lo estaré enseñando para este
+
+[00:18:34]
+temporalidades para salir rápido, porque
+
+[00:18:37]
+lo que ustedes quieren es hacer
+
+[00:18:38]
+scalping. Entonces, una vez que ya
+
+[00:18:41]
+veamos nuestro turtle de nuestra vela de
+
+[00:18:43]
+M15, esperamos que el precio cierre
+
+[00:18:46]
+negativo. En este caso, fíjense que nos
+
+[00:18:48]
+hace un nuevo Turtle Sop en M1, que
+
+[00:18:50]
+también lo pueden usar como
+
+[00:18:51]
+confirmación, o pueden usar un Turtle de
+
+[00:18:54]
+una temporalidad de M5. Fíjense que
+
+[00:18:57]
+pueden usar el Turtle de M5 también. Acá
+
+[00:19:00]
+turtle up de M5. pueden utilizar este
+
+[00:19:03]
+turtle para poder este entrar ahí,
+
+[00:19:07]
+fíjense. Y se pueden esperar que cierre
+
+[00:19:09]
+la vela M5, pero muchas veces si te
+
+[00:19:11]
+esperas que cierre la vela M5 ya entras
+
+[00:19:14]
+como muy muy tarde, entonces no es la
+
+[00:19:16]
+idea. La idea es poder este
+
+[00:19:19]
+entrar antes. Para entrar antes, una vez
+
+[00:19:22]
+que ven esta vela, ven que el precio
+
+[00:19:25]
+hace Turtle up. Por ejemplo, aquí ven
+
+[00:19:27]
+esta vela, hace Turtel Sop, pero fíjense
+
+[00:19:30]
+que no cierra negativo. La vela cierra
+
+[00:19:31]
+positivo. Una vez que ven que la vela
+
+[00:19:33]
+cierra positivo, ya pueden meterse ahí.
+
+[00:19:37]
+Entonces, aquí nos pondríamos en un
+
+[00:19:38]
+corto una vez que la vela cierra en
+
+[00:19:40]
+negativo aquí y ajustamos nuestro
+
+[00:19:43]
+target. Nuestro target va para acá y en
+
+[00:19:48]
+en el target podemos ir ajustando uno a
+
+[00:19:50]
+tres, uno a dos. Vamos a ponerlo uno a
+
+[00:19:53]
+tres conservador y ahí tendrían su
+
+[00:19:56]
+entrada en scalping. Si se metieron
+
+[00:19:58]
+pueden esperar otro cierre de otra vela,
+
+[00:20:00]
+incluso el rompimiento de esta vela
+
+[00:20:02]
+también es totalmente válido. Y ahí
+
+[00:20:05]
+tendrían su salida. Un a tres. Fíjense
+
+[00:20:08]
+que nuestra entrada de scalping aquí la
+
+[00:20:11]
+podemos ajustar un poquito más. Esta
+
+[00:20:12]
+está un poco más justa, pero está
+
+[00:20:14]
+bastante bien. Eh, esta entrada de
+
+[00:20:16]
+scalping duraría 1 2 3 4 minutos,
+
+[00:20:21]
+aproximadamente 3 minutos y medio. Yo lo
+
+[00:20:24]
+considero scalping, la verdad. Bueno,
+
+[00:20:26]
+espero que les haya gustado bastante
+
+[00:20:28]
+este video. Si es así, dejen su me
+
+[00:20:30]
+gusta, suscríbanse a este bello y
+
+[00:20:31]
+hermoso canal, síganme en Telegram,
+
+[00:20:33]
+síganme por Instagram y nos vemos en un
+
+[00:20:35]
+siguiente video. Adios.
+```

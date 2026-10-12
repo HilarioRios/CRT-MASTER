@@ -1,0 +1,24 @@
+# DISCOVERY_REPORT
+
+## MentoTrading (canal_01)
+- Videos encontrados: 30
+- Nuevos esta corrida: 0
+- Ya conocidos (idempotente, no reprocesados): 30
+- No disponibles (privado/borrado/geo-bloqueado): 0
+- Solo para miembros del canal (requiere membresía paga, no accesible vía API/yt-dlp): 0
+- Errores (en tabla `errors`, reintentables): 0
+
+## Gustavom.Trader (canal_02)
+- Videos encontrados: 271
+- Nuevos esta corrida: 0
+- Ya conocidos (idempotente, no reprocesados): 271
+- No disponibles (privado/borrado/geo-bloqueado): 0
+- Solo para miembros del canal (requiere membresía paga, no accesible vía API/yt-dlp): 30
+- Errores (en tabla `errors`, reintentables): 0
+
+**TOTAL encontrados: 301**
+
+Duplicados (mismo video_id en más de un registro): 0
+No disponibles/privados: 0
+Solo-miembros (excluidos del pipeline automático): 30
+Listos para procesar: 271

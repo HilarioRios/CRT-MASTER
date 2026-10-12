@@ -1,0 +1,3127 @@
+[
+  {
+    "start_sec": 0.63,
+    "end_sec": 8.53,
+    "text": "[Música]"
+  },
+  {
+    "start_sec": 8.54,
+    "end_sec": 12.06,
+    "text": "muy buen día muy"
+  },
+  {
+    "start_sec": 12.06,
+    "end_sec": 14.94,
+    "text": "Buen día quería echar shooters hoy vamos"
+  },
+  {
+    "start_sec": 14.94,
+    "end_sec": 17.76,
+    "text": "a hablar de un tema que muchas personas"
+  },
+  {
+    "start_sec": 17.76,
+    "end_sec": 19.92,
+    "text": "nos han pedido que sumamente importante"
+  },
+  {
+    "start_sec": 19.92,
+    "end_sec": 23.7,
+    "text": "y que está intrínsecamente relacionado"
+  },
+  {
+    "start_sec": 23.7,
+    "end_sec": 27.72,
+    "text": "con la gestión de riesgo por qué porque"
+  },
+  {
+    "start_sec": 27.72,
+    "end_sec": 30.12,
+    "text": "tú tienes que saber Cómo calcular el"
+  },
+  {
+    "start_sec": 30.12,
+    "end_sec": 33.24,
+    "text": "lotaje para poder tener tu sesión de"
+  },
+  {
+    "start_sec": 33.24,
+    "end_sec": 35.52,
+    "text": "riesgo digamos no es lo mismo que en un"
+  },
+  {
+    "start_sec": 35.52,
+    "end_sec": 37.22,
+    "text": "broker"
+  },
+  {
+    "start_sec": 37.22,
+    "end_sec": 41.4,
+    "text": "el lote sea equivalente digamos a 10"
+  },
+  {
+    "start_sec": 41.4,
+    "end_sec": 44.16,
+    "text": "dólares a que en otro broker el lote sea"
+  },
+  {
+    "start_sec": 44.16,
+    "end_sec": 46.2,
+    "text": "equivalente a 100 dólares no es lo mismo"
+  },
+  {
+    "start_sec": 46.2,
+    "end_sec": 48.42,
+    "text": "tu stop los no va a ser igual en el"
+  },
+  {
+    "start_sec": 48.42,
+    "end_sec": 51.06,
+    "text": "primer caso tu stop loss no va a ser"
+  },
+  {
+    "start_sec": 51.06,
+    "end_sec": 53.1,
+    "text": "igual que el del segundo Por eso hay que"
+  },
+  {
+    "start_sec": 53.1,
+    "end_sec": 54.12,
+    "text": "saber"
+  },
+  {
+    "start_sec": 54.12,
+    "end_sec": 57.6,
+    "text": "Cuánto es el tamaño del lote acorde al"
+  },
+  {
+    "start_sec": 57.6,
+    "end_sec": 60.18,
+    "text": "broker y todo eso que son cosas que"
+  },
+  {
+    "start_sec": 60.18,
+    "end_sec": 63.96,
+    "text": "muchos no sabemos no sabíamos pues y que"
+  },
+  {
+    "start_sec": 63.96,
+    "end_sec": 67.26,
+    "text": "ahora vamos a instruir acerca de ello lo"
+  },
+  {
+    "start_sec": 67.26,
+    "end_sec": 69.0,
+    "text": "primero"
+  },
+  {
+    "start_sec": 69.0,
+    "end_sec": 72.42,
+    "text": "es que son los lotes si estos mucha"
+  },
+  {
+    "start_sec": 72.42,
+    "end_sec": 74.94,
+    "text": "teoría lo sé lo sé muchos nos aburre a"
+  },
+  {
+    "start_sec": 74.94,
+    "end_sec": 76.82,
+    "text": "muchos les aburre y Bueno"
+  },
+  {
+    "start_sec": 76.82,
+    "end_sec": 79.2,
+    "text": "voy a darle un breve resumen pero igual"
+  },
+  {
+    "start_sec": 79.2,
+    "end_sec": 82.14,
+    "text": "la teoría aquí está la teoría Ahí está"
+  },
+  {
+    "start_sec": 82.14,
+    "end_sec": 84.54,
+    "text": "para cuando tú quieras leerla o te dé"
+  },
+  {
+    "start_sec": 84.54,
+    "end_sec": 86.94,
+    "text": "curiosidad la puedes leer no está bien"
+  },
+  {
+    "start_sec": 86.94,
+    "end_sec": 90.06,
+    "text": "uno tragar entero como dicen las abuelas"
+  },
+  {
+    "start_sec": 90.06,
+    "end_sec": 92.42,
+    "text": "no no hay que tragar entero hay que"
+  },
+  {
+    "start_sec": 92.42,
+    "end_sec": 95.16,
+    "text": "instruirse y no quedarse con lo primero"
+  },
+  {
+    "start_sec": 95.16,
+    "end_sec": 97.44,
+    "text": "que te diga el youtuber o lo primero que"
+  },
+  {
+    "start_sec": 97.44,
+    "end_sec": 101.34,
+    "text": "te diga Google no Entonces los lotes se"
+  },
+  {
+    "start_sec": 101.34,
+    "end_sec": 103.98,
+    "text": "puede decir que es un estándar es un"
+  },
+  {
+    "start_sec": 103.98,
+    "end_sec": 105.42,
+    "text": "estándar de la cantidad de unidades que"
+  },
+  {
+    "start_sec": 105.42,
+    "end_sec": 108.0,
+    "text": "se compran y venden en cada transacción"
+  },
+  {
+    "start_sec": 108.0,
+    "end_sec": 110.76,
+    "text": "que se da en el mercado porque es un"
+  },
+  {
+    "start_sec": 110.76,
+    "end_sec": 112.86,
+    "text": "estándar porque"
+  },
+  {
+    "start_sec": 112.86,
+    "end_sec": 115.56,
+    "text": "así te permite saber"
+  },
+  {
+    "start_sec": 115.56,
+    "end_sec": 118.92,
+    "text": "cuánto estás pagando o sea vamos a ver"
+  },
+  {
+    "start_sec": 118.92,
+    "end_sec": 120.9,
+    "text": "cuántas unidades estás comprando en cada"
+  },
+  {
+    "start_sec": 120.9,
+    "end_sec": 123.84,
+    "text": "contrato por eso es un estándar el lote"
+  },
+  {
+    "start_sec": 123.84,
+    "end_sec": 126.66,
+    "text": "en promedio el estándar en forex es de"
+  },
+  {
+    "start_sec": 126.66,
+    "end_sec": 129.24,
+    "text": "100 mil dólares bueno en promedio no de"
+  },
+  {
+    "start_sec": 129.24,
+    "end_sec": 130.98,
+    "text": "100.000 dólares en forex pero también"
+  },
+  {
+    "start_sec": 130.98,
+    "end_sec": 133.7,
+    "text": "puede variar en otros"
+  },
+  {
+    "start_sec": 133.7,
+    "end_sec": 137.58,
+    "text": "digamos activos por ejemplo en índices"
+  },
+  {
+    "start_sec": 137.58,
+    "end_sec": 140.22,
+    "text": "elotes distintos en bitcoin en el hotel"
+  },
+  {
+    "start_sec": 140.22,
+    "end_sec": 142.2,
+    "text": "distinto pero con la calculadora que"
+  },
+  {
+    "start_sec": 142.2,
+    "end_sec": 144.54,
+    "text": "nosotros vamos a enseñarles ya todo eso"
+  },
+  {
+    "start_sec": 144.54,
+    "end_sec": 147.24,
+    "text": "debe tener que ustedes calcularlo no lo"
+  },
+  {
+    "start_sec": 147.24,
+    "end_sec": 148.44,
+    "text": "vamos a hacer no es como en la escuela"
+  },
+  {
+    "start_sec": 148.44,
+    "end_sec": 150.38,
+    "text": "que te dicen no tienes que utilizar"
+  },
+  {
+    "start_sec": 150.38,
+    "end_sec": 155.76,
+    "text": "el cuaderno y un lápiz acá Tú tienes la"
+  },
+  {
+    "start_sec": 155.76,
+    "end_sec": 158.1,
+    "text": "calculadora y Vamos al grano No tenemos"
+  },
+  {
+    "start_sec": 158.1,
+    "end_sec": 161.16,
+    "text": "mini lotes que son 10.000 unidades micro"
+  },
+  {
+    "start_sec": 161.16,
+    "end_sec": 163.92,
+    "text": "Nano y esto la nota es importante"
+  },
+  {
+    "start_sec": 163.92,
+    "end_sec": 167.24,
+    "text": "importante sumamente importante saber"
+  },
+  {
+    "start_sec": 167.24,
+    "end_sec": 169.88,
+    "text": "que permite"
+  },
+  {
+    "start_sec": 169.88,
+    "end_sec": 173.76,
+    "text": "utilizar tu broker Por qué Porque hay"
+  },
+  {
+    "start_sec": 173.76,
+    "end_sec": 176.76,
+    "text": "Brokers que no te permite utilizar menos"
+  },
+  {
+    "start_sec": 176.76,
+    "end_sec": 179.04,
+    "text": "de punto 1"
+  },
+  {
+    "start_sec": 179.04,
+    "end_sec": 181.26,
+    "text": "menos de punto uno no te permiten O sea"
+  },
+  {
+    "start_sec": 181.26,
+    "end_sec": 183.36,
+    "text": "no menos de un minilote no puedes usar"
+  },
+  {
+    "start_sec": 183.36,
+    "end_sec": 185.82,
+    "text": "en algunos Brokers Entonces es"
+  },
+  {
+    "start_sec": 185.82,
+    "end_sec": 187.38,
+    "text": "importante saber que si digamos tú"
+  },
+  {
+    "start_sec": 187.38,
+    "end_sec": 189.0,
+    "text": "quieres empezar con una cuenta de 100"
+  },
+  {
+    "start_sec": 189.0,
+    "end_sec": 192.78,
+    "text": "dólares tienes que estar claro de que el"
+  },
+  {
+    "start_sec": 192.78,
+    "end_sec": 195.92,
+    "text": "broker te permite utilizar"
+  },
+  {
+    "start_sec": 195.92,
+    "end_sec": 198.84,
+    "text": "porque por ejemplo si vas a hacer un"
+  },
+  {
+    "start_sec": 198.84,
+    "end_sec": 203.24,
+    "text": "minilote que sería punto un lotes cada"
+  },
+  {
+    "start_sec": 203.24,
+    "end_sec": 208.07,
+    "text": "tanto dólar"
+  },
+  {
+    "start_sec": 208.08,
+    "end_sec": 210.36,
+    "text": "es un"
+  },
+  {
+    "start_sec": 210.36,
+    "end_sec": 212.46,
+    "text": "O sea que si tú pones digamos en el euro"
+  },
+  {
+    "start_sec": 212.46,
+    "end_sec": 215.46,
+    "text": "un stop los de 10 pips estarías"
+  },
+  {
+    "start_sec": 215.46,
+    "end_sec": 217.26,
+    "text": "arriesgando"
+  },
+  {
+    "start_sec": 217.26,
+    "end_sec": 220.2,
+    "text": "10 dólares que es el 10% de una cuenta"
+  },
+  {
+    "start_sec": 220.2,
+    "end_sec": 224.6,
+    "text": "de 100 dólares lo cual no es bueno para"
+  },
+  {
+    "start_sec": 224.6,
+    "end_sec": 227.64,
+    "text": "para una gestión de riesgo arriesgar 10%"
+  },
+  {
+    "start_sec": 227.64,
+    "end_sec": 231.0,
+    "text": "en una sola entrada eso o sea una locura"
+  },
+  {
+    "start_sec": 231.0,
+    "end_sec": 233.7,
+    "text": "es una locura entonces por eso es"
+  },
+  {
+    "start_sec": 233.7,
+    "end_sec": 235.86,
+    "text": "importante saberlo es importante tener"
+  },
+  {
+    "start_sec": 235.86,
+    "end_sec": 237.96,
+    "text": "conocimiento de que tu broker te permite"
+  },
+  {
+    "start_sec": 237.96,
+    "end_sec": 241.44,
+    "text": "tener el tipo de unidades acorde a la"
+  },
+  {
+    "start_sec": 241.44,
+    "end_sec": 243.12,
+    "text": "cuenta que tú quieras abrir yo no"
+  },
+  {
+    "start_sec": 243.12,
+    "end_sec": 244.8,
+    "text": "recomendaría utilizar una cuenta de 100"
+  },
+  {
+    "start_sec": 244.8,
+    "end_sec": 247.56,
+    "text": "dólares en absoluto yo recomendaría ya"
+  },
+  {
+    "start_sec": 247.56,
+    "end_sec": 249.78,
+    "text": "si tienes el capital unas cuentas de 10"
+  },
+  {
+    "start_sec": 249.78,
+    "end_sec": 251.76,
+    "text": "mil dólares para arriba prefe obviamente"
+  },
+  {
+    "start_sec": 251.76,
+    "end_sec": 253.88,
+    "text": "porque hay muchos factores"
+  },
+  {
+    "start_sec": 253.88,
+    "end_sec": 258.0,
+    "text": "psicológicos y que eso no nos permite"
+  },
+  {
+    "start_sec": 258.0,
+    "end_sec": 260.1,
+    "text": "progresar una cuenta de ese tamaño y"
+  },
+  {
+    "start_sec": 260.1,
+    "end_sec": 261.9,
+    "text": "fuera eso nos acostumbra a tener una"
+  },
+  {
+    "start_sec": 261.9,
+    "end_sec": 264.36,
+    "text": "mentalidad de trading demasiado difícil"
+  },
+  {
+    "start_sec": 264.36,
+    "end_sec": 268.92,
+    "text": "de amoldar demasiado futuro va a ser"
+  },
+  {
+    "start_sec": 268.92,
+    "end_sec": 272.1,
+    "text": "puede ser un problema para el Trader"
+  },
+  {
+    "start_sec": 272.1,
+    "end_sec": 274.92,
+    "text": "bueno acá si pones en Google todos"
+  },
+  {
+    "start_sec": 274.92,
+    "end_sec": 276.54,
+    "text": "sabemos que vamos a poner en Google"
+  },
+  {
+    "start_sec": 276.54,
+    "end_sec": 279.54,
+    "text": "calculadora de lotes o calculadora de lo"
+  },
+  {
+    "start_sec": 279.54,
+    "end_sec": 281.7,
+    "text": "traje forex si ponemos en Google la"
+  },
+  {
+    "start_sec": 281.7,
+    "end_sec": 285.79,
+    "text": "primera opción que nos sale es esta"
+  },
+  {
+    "start_sec": 285.8,
+    "end_sec": 289.62,
+    "text": "Perdón Qué buen inglés no my effex Book"
+  },
+  {
+    "start_sec": 289.62,
+    "end_sec": 294.0,
+    "text": "aquí este vamos a explicar esto en otro"
+  },
+  {
+    "start_sec": 294.0,
+    "end_sec": 297.8,
+    "text": "slide que indica cada uno de estas"
+  },
+  {
+    "start_sec": 297.8,
+    "end_sec": 301.38,
+    "text": "secciones o celdas o parámetros qué es"
+  },
+  {
+    "start_sec": 301.38,
+    "end_sec": 303.36,
+    "text": "lo que indica que lo que implica No aquí"
+  },
+  {
+    "start_sec": 303.36,
+    "end_sec": 307.2,
+    "text": "tenemos otra opción que es esta babypips"
+  },
+  {
+    "start_sec": 307.2,
+    "end_sec": 309.3,
+    "text": "no sé si ustedes han leído este libro"
+  },
+  {
+    "start_sec": 309.3,
+    "end_sec": 311.64,
+    "text": "Pero bueno se puede decir un libro sí"
+  },
+  {
+    "start_sec": 311.64,
+    "end_sec": 314.4,
+    "text": "creo no sé si han leído este libro es un"
+  },
+  {
+    "start_sec": 314.4,
+    "end_sec": 316.02,
+    "text": "libro bien bien bien bien interesante"
+  },
+  {
+    "start_sec": 316.02,
+    "end_sec": 318.96,
+    "text": "que habla de muchas cosas básicas de lo"
+  },
+  {
+    "start_sec": 318.96,
+    "end_sec": 321.8,
+    "text": "que es el trading te habla mucho de"
+  },
+  {
+    "start_sec": 321.8,
+    "end_sec": 324.42,
+    "text": "Smartphone y todo esto es bien bonito"
+  },
+  {
+    "start_sec": 324.42,
+    "end_sec": 326.22,
+    "text": "este libro"
+  },
+  {
+    "start_sec": 326.22,
+    "end_sec": 329.1,
+    "text": "este y acá tenemos varias secciones"
+  },
+  {
+    "start_sec": 329.1,
+    "end_sec": 330.78,
+    "text": "parámetros que hay que tomar en cuenta"
+  },
+  {
+    "start_sec": 330.78,
+    "end_sec": 333.42,
+    "text": "este es la can carensis que es digamos"
+  },
+  {
+    "start_sec": 333.42,
+    "end_sec": 336.12,
+    "text": "la moneda que utilizamos acá en balance"
+  },
+  {
+    "start_sec": 336.12,
+    "end_sec": 337.98,
+    "text": "que es el tamaño de cuenta que tenemos"
+  },
+  {
+    "start_sec": 337.98,
+    "end_sec": 340.26,
+    "text": "en este caso para el ejemplo de 10 mil"
+  },
+  {
+    "start_sec": 340.26,
+    "end_sec": 342.66,
+    "text": "dólares Este es el porcentaje de riesgo"
+  },
+  {
+    "start_sec": 342.66,
+    "end_sec": 344.94,
+    "text": "cuánto tuvo hacia arriesgar en ese Trade"
+  },
+  {
+    "start_sec": 344.94,
+    "end_sec": 349.2,
+    "text": "y acá el Stop los en pips acá nuestros"
+  },
+  {
+    "start_sec": 349.2,
+    "end_sec": 352.26,
+    "text": "sería 30 pips para el euro dólar cierto"
+  },
+  {
+    "start_sec": 352.26,
+    "end_sec": 354.24,
+    "text": "acá en esta sección nos dan los"
+  },
+  {
+    "start_sec": 354.24,
+    "end_sec": 357.36,
+    "text": "resultados el 1% de 10.000 dólares son"
+  },
+  {
+    "start_sec": 357.36,
+    "end_sec": 358.86,
+    "text": "100 dólares Eso quiere decir que"
+  },
+  {
+    "start_sec": 358.86,
+    "end_sec": 361.38,
+    "text": "estaremos arriesgando 100 dólares por"
+  },
+  {
+    "start_sec": 361.38,
+    "end_sec": 364.74,
+    "text": "operación y ahorita aquí podríamos ver"
+  },
+  {
+    "start_sec": 364.74,
+    "end_sec": 366.74,
+    "text": "position 6"
+  },
+  {
+    "start_sec": 366.74,
+    "end_sec": 370.22,
+    "text": "en unidades se puede decir que en forex"
+  },
+  {
+    "start_sec": 370.22,
+    "end_sec": 373.74,
+    "text": "la unidad son 100.000 unidades por"
+  },
+  {
+    "start_sec": 373.74,
+    "end_sec": 375.54,
+    "text": "posición cierto un lote son 100.000"
+  },
+  {
+    "start_sec": 375.54,
+    "end_sec": 377.64,
+    "text": "unidades Eso quiere decir que aquí en"
+  },
+  {
+    "start_sec": 377.64,
+    "end_sec": 379.58,
+    "text": "este pedazo estaríamos utilizando"
+  },
+  {
+    "start_sec": 379.58,
+    "end_sec": 384.36,
+    "text": "33.000 unidades sobre los 100.000 y esto"
+  },
+  {
+    "start_sec": 384.36,
+    "end_sec": 386.16,
+    "text": "lo que nosotros vamos a utilizar"
+  },
+  {
+    "start_sec": 386.16,
+    "end_sec": 388.8,
+    "text": "eh el estándarlots eso es lo que"
+  },
+  {
+    "start_sec": 388.8,
+    "end_sec": 392.04,
+    "text": "nosotros vamos a utilizar cuando vayamos"
+  },
+  {
+    "start_sec": 392.04,
+    "end_sec": 394.32,
+    "text": "a poner la posición esto es sumamente"
+  },
+  {
+    "start_sec": 394.32,
+    "end_sec": 396.24,
+    "text": "importante saberlo Esto es lo que vamos"
+  },
+  {
+    "start_sec": 396.24,
+    "end_sec": 399.54,
+    "text": "a poner en meta Trader o en Trader lo"
+  },
+  {
+    "start_sec": 399.54,
+    "end_sec": 401.94,
+    "text": "que vayan a utilizar y Estos son cuánto"
+  },
+  {
+    "start_sec": 401.94,
+    "end_sec": 403.68,
+    "text": "sería en mini lotes cuánto serían"
+  },
+  {
+    "start_sec": 403.68,
+    "end_sec": 406.02,
+    "text": "microlotes pero este es el que nosotros"
+  },
+  {
+    "start_sec": 406.02,
+    "end_sec": 411.3,
+    "text": "vamos a usar en promedio cierto ahora"
+  },
+  {
+    "start_sec": 411.3,
+    "end_sec": 413.76,
+    "text": "llegando a la otra opción es otro"
+  },
+  {
+    "start_sec": 413.76,
+    "end_sec": 416.16,
+    "text": "ejemplo este tenemos el instrumento"
+  },
+  {
+    "start_sec": 416.16,
+    "end_sec": 420.13,
+    "text": "También acá elegimos el instrumento"
+  },
+  {
+    "start_sec": 420.14,
+    "end_sec": 423.2,
+    "text": "Esto es lo mismo que acá acá en sí"
+  },
+  {
+    "start_sec": 423.2,
+    "end_sec": 426.78,
+    "text": "depositores Lo mismo tenemos el open"
+  },
+  {
+    "start_sec": 426.78,
+    "end_sec": 429.12,
+    "text": "price que es diferente a este es para"
+  },
+  {
+    "start_sec": 429.12,
+    "end_sec": 430.62,
+    "text": "gustos si ustedes les gusta más de esta"
+  },
+  {
+    "start_sec": 430.62,
+    "end_sec": 432.18,
+    "text": "forma"
+  },
+  {
+    "start_sec": 432.18,
+    "end_sec": 434.76,
+    "text": "o les gusta más de esta forma o les"
+  },
+  {
+    "start_sec": 434.76,
+    "end_sec": 436.62,
+    "text": "gusta más el primero que les enseñe pues"
+  },
+  {
+    "start_sec": 436.62,
+    "end_sec": 439.1,
+    "text": "pueden optar por esas opciones"
+  },
+  {
+    "start_sec": 439.1,
+    "end_sec": 441.84,
+    "text": "todo apareció en Google todos estos son"
+  },
+  {
+    "start_sec": 441.84,
+    "end_sec": 443.94,
+    "text": "buscados por Google entonces acá tenemos"
+  },
+  {
+    "start_sec": 443.94,
+    "end_sec": 447.78,
+    "text": "el open price es donde tú quieres que se"
+  },
+  {
+    "start_sec": 447.78,
+    "end_sec": 450.54,
+    "text": "abra la posición te lo Open donde"
+  },
+  {
+    "start_sec": 450.54,
+    "end_sec": 453.84,
+    "text": "quieres que se ejecute la posición Este"
+  },
+  {
+    "start_sec": 453.84,
+    "end_sec": 457.02,
+    "text": "es en donde quieres poner el Stop loss"
+  },
+  {
+    "start_sec": 457.02,
+    "end_sec": 459.72,
+    "text": "en este caso son 30 pips también porque"
+  },
+  {
+    "start_sec": 459.72,
+    "end_sec": 461.12,
+    "text": "va del"
+  },
+  {
+    "start_sec": 461.12,
+    "end_sec": 466.98,
+    "text": "77 al 47 del 47 al 77 ahí van 30 pips el"
+  },
+  {
+    "start_sec": 466.98,
+    "end_sec": 468.72,
+    "text": "tamaño de la cuenta son 10.000 dólares"
+  },
+  {
+    "start_sec": 468.72,
+    "end_sec": 471.6,
+    "text": "también por ciento de riesgo 1%, y esto"
+  },
+  {
+    "start_sec": 471.6,
+    "end_sec": 474.6,
+    "text": "es digamos lo que les mencioné"
+  },
+  {
+    "start_sec": 474.6,
+    "end_sec": 476.16,
+    "text": "anteriormente Cuánto es el tamaño del"
+  },
+  {
+    "start_sec": 476.16,
+    "end_sec": 478.5,
+    "text": "contrato por lo otro en 100.000 unidades"
+  },
+  {
+    "start_sec": 478.5,
+    "end_sec": 480.96,
+    "text": "por lotes y acá sean calculate y te dan"
+  },
+  {
+    "start_sec": 480.96,
+    "end_sec": 483.24,
+    "text": "todo si ven es lo mismo la misma"
+  },
+  {
+    "start_sec": 483.24,
+    "end_sec": 484.74,
+    "text": "información aquí haya la misma"
+  },
+  {
+    "start_sec": 484.74,
+    "end_sec": 487.02,
+    "text": "información de aquí allá así que la que"
+  },
+  {
+    "start_sec": 487.02,
+    "end_sec": 489.9,
+    "text": "más le guste o la que más Lee digamos le"
+  },
+  {
+    "start_sec": 489.9,
+    "end_sec": 491.88,
+    "text": "sirva Esa es para ustedes"
+  },
+  {
+    "start_sec": 491.88,
+    "end_sec": 496.5,
+    "text": "Bueno Este es cómo se ejecutó este"
+  },
+  {
+    "start_sec": 496.5,
+    "end_sec": 499.92,
+    "text": "cierto Cómo se llegó a este si pones en"
+  },
+  {
+    "start_sec": 499.92,
+    "end_sec": 503.54,
+    "text": "Google catchback forex te va a salir"
+  },
+  {
+    "start_sec": 503.54,
+    "end_sec": 506.52,
+    "text": "esta página pero en el inicio vamos a"
+  },
+  {
+    "start_sec": 506.52,
+    "end_sec": 507.42,
+    "text": "mostrar en el inicio entonces para"
+  },
+  {
+    "start_sec": 507.42,
+    "end_sec": 509.7,
+    "text": "acceder a la calculadora vamos a"
+  },
+  {
+    "start_sec": 509.7,
+    "end_sec": 511.44,
+    "text": "herramientas calcular el riesgo volumen"
+  },
+  {
+    "start_sec": 511.44,
+    "end_sec": 514.32,
+    "text": "y acá nos aparece la calculadora esta"
+  },
+  {
+    "start_sec": 514.32,
+    "end_sec": 515.96,
+    "text": "calculadora es la que vamos a usar en"
+  },
+  {
+    "start_sec": 515.96,
+    "end_sec": 519.0,
+    "text": "índices también en bitcoin en"
+  },
+  {
+    "start_sec": 519.0,
+    "end_sec": 522.54,
+    "text": "criptomonedas en general y en este caso"
+  },
+  {
+    "start_sec": 522.54,
+    "end_sec": 525.3,
+    "text": "está libre 100 Entonces si quieren"
+  },
+  {
+    "start_sec": 525.3,
+    "end_sec": 527.4,
+    "text": "usarla está bien si quieren usar otra"
+  },
+  {
+    "start_sec": 527.4,
+    "end_sec": 529.68,
+    "text": "que les gusta más está bien también lo"
+  },
+  {
+    "start_sec": 529.68,
+    "end_sec": 530.94,
+    "text": "importante en este vídeo es que les voy"
+  },
+  {
+    "start_sec": 530.94,
+    "end_sec": 533.16,
+    "text": "a explicar más o menos Qué significa"
+  },
+  {
+    "start_sec": 533.16,
+    "end_sec": 535.44,
+    "text": "cada una de estas celdas que es"
+  },
+  {
+    "start_sec": 535.44,
+    "end_sec": 538.56,
+    "text": "importante saberlo Ahora aquí como le"
+  },
+  {
+    "start_sec": 538.56,
+    "end_sec": 540.3,
+    "text": "mencioné al inicio la primera opción que"
+  },
+  {
+    "start_sec": 540.3,
+    "end_sec": 542.94,
+    "text": "nos sale para las calculadoras es esta"
+  },
+  {
+    "start_sec": 542.94,
+    "end_sec": 545.82,
+    "text": "en esta opción tenemos varias celdas acá"
+  },
+  {
+    "start_sec": 545.82,
+    "end_sec": 548.28,
+    "text": "es el tipo de Par moneda que manejas"
+  },
+  {
+    "start_sec": 548.28,
+    "end_sec": 552.5,
+    "text": "tamaño de la cuenta porcentaje de"
+  },
+  {
+    "start_sec": 552.5,
+    "end_sec": 555.9,
+    "text": "el tamaño del stop los"
+  },
+  {
+    "start_sec": 555.9,
+    "end_sec": 557.82,
+    "text": "Y esto es lo que les mencioné"
+  },
+  {
+    "start_sec": 557.82,
+    "end_sec": 561.0,
+    "text": "anteriormente De que un lote es igual a"
+  },
+  {
+    "start_sec": 561.0,
+    "end_sec": 563.18,
+    "text": "100 mil dólares si tú le das en este"
+  },
+  {
+    "start_sec": 563.18,
+    "end_sec": 566.04,
+    "text": "pedazo eso te lo va a convertir en"
+  },
+  {
+    "start_sec": 566.04,
+    "end_sec": 569.1,
+    "text": "100.000 Mira mira mira estos números Qué"
+  },
+  {
+    "start_sec": 569.1,
+    "end_sec": 570.9,
+    "text": "lindo"
+  },
+  {
+    "start_sec": 570.9,
+    "end_sec": 572.88,
+    "text": "eso te lo convertirás a 100.000 cierto"
+  },
+  {
+    "start_sec": 572.88,
+    "end_sec": 575.46,
+    "text": "Entonces ya cuando lo tienes esto no"
+  },
+  {
+    "start_sec": 575.46,
+    "end_sec": 578.04,
+    "text": "esto es indiferente en este momento para"
+  },
+  {
+    "start_sec": 578.04,
+    "end_sec": 580.46,
+    "text": "forex Pero bueno"
+  },
+  {
+    "start_sec": 580.46,
+    "end_sec": 584.16,
+    "text": "siguiendo le damos calculate y nos da"
+  },
+  {
+    "start_sec": 584.16,
+    "end_sec": 587.58,
+    "text": "que nuestro riesgo obviamente 1% de"
+  },
+  {
+    "start_sec": 587.58,
+    "end_sec": 589.56,
+    "text": "10.000 son 100 dólares Entonces estamos"
+  },
+  {
+    "start_sec": 589.56,
+    "end_sec": 592.92,
+    "text": "Ok las unidades son 100.000 el 6 es un"
+  },
+  {
+    "start_sec": 592.92,
+    "end_sec": 595.62,
+    "text": "lote para ese stop loss se puede"
+  },
+  {
+    "start_sec": 595.62,
+    "end_sec": 598.86,
+    "text": "utilizar un lote y si nos agarra el Stop"
+  },
+  {
+    "start_sec": 598.86,
+    "end_sec": 601.32,
+    "text": "lo estaríamos perdiendo 100 dólares Eso"
+  },
+  {
+    "start_sec": 601.32,
+    "end_sec": 603.02,
+    "text": "es lo importante ahora"
+  },
+  {
+    "start_sec": 603.02,
+    "end_sec": 606.0,
+    "text": "dato importante Cuando se quiere"
+  },
+  {
+    "start_sec": 606.0,
+    "end_sec": 608.58,
+    "text": "calcular los datos es importante saber"
+  },
+  {
+    "start_sec": 608.58,
+    "end_sec": 610.74,
+    "text": "las especificaciones que tiene cada uno"
+  },
+  {
+    "start_sec": 610.74,
+    "end_sec": 613.62,
+    "text": "de los Brokers para el parque vas a"
+  },
+  {
+    "start_sec": 613.62,
+    "end_sec": 617.88,
+    "text": "utilizar o para la divisa o para el"
+  },
+  {
+    "start_sec": 617.88,
+    "end_sec": 620.52,
+    "text": "metal o para el índice o para la"
+  },
+  {
+    "start_sec": 620.52,
+    "end_sec": 622.16,
+    "text": "criptomoneda que vas a utilizar"
+  },
+  {
+    "start_sec": 622.16,
+    "end_sec": 624.18,
+    "text": "especificaciones las voy a mostrar a"
+  },
+  {
+    "start_sec": 624.18,
+    "end_sec": 626.88,
+    "text": "continuación acá si vamos a meta Trader"
+  },
+  {
+    "start_sec": 626.88,
+    "end_sec": 630.84,
+    "text": "y nos posicionamos encima de El"
+  },
+  {
+    "start_sec": 630.84,
+    "end_sec": 633.06,
+    "text": "la divisa o el índice lo que sea que"
+  },
+  {
+    "start_sec": 633.06,
+    "end_sec": 635.34,
+    "text": "hayamos utilizar le damos clic derecho y"
+  },
+  {
+    "start_sec": 635.34,
+    "end_sec": 637.86,
+    "text": "nos vamos a especificación míralo acá"
+  },
+  {
+    "start_sec": 637.86,
+    "end_sec": 640.38,
+    "text": "nos vamos a especificación luego nos"
+  },
+  {
+    "start_sec": 640.38,
+    "end_sec": 645.18,
+    "text": "Abre esta ventana y en esta ventana lo"
+  },
+  {
+    "start_sec": 645.18,
+    "end_sec": 647.7,
+    "text": "que nos importa bastante es esto volumen"
+  },
+  {
+    "start_sec": 647.7,
+    "end_sec": 651.18,
+    "text": "de contrato como es forex el volumen de"
+  },
+  {
+    "start_sec": 651.18,
+    "end_sec": 654.42,
+    "text": "contratos son 100.000 el lote 100.000"
+  },
+  {
+    "start_sec": 654.42,
+    "end_sec": 657.18,
+    "text": "unidades el lote otra cosa que puede ir"
+  },
+  {
+    "start_sec": 657.18,
+    "end_sec": 658.92,
+    "text": "digamos ver que de repente puede"
+  },
+  {
+    "start_sec": 658.92,
+    "end_sec": 661.38,
+    "text": "servirles es esto Qué significa este 5"
+  },
+  {
+    "start_sec": 661.38,
+    "end_sec": 665.76,
+    "text": "este 5 significa que digamos tienes uno"
+  },
+  {
+    "start_sec": 665.76,
+    "end_sec": 670.94,
+    "text": "coma y te van a salir una dos tres"
+  },
+  {
+    "start_sec": 670.94,
+    "end_sec": 672.68,
+    "text": "cuatro"
+  },
+  {
+    "start_sec": 672.68,
+    "end_sec": 675.66,
+    "text": "cinco unidades después de la coma o sea"
+  },
+  {
+    "start_sec": 675.66,
+    "end_sec": 677.58,
+    "text": "después de la coma te van a salir 5"
+  },
+  {
+    "start_sec": 677.58,
+    "end_sec": 681.0,
+    "text": "unidades Eso es lo que me indica es la"
+  },
+  {
+    "start_sec": 681.0,
+    "end_sec": 681.96,
+    "text": "precisión"
+  },
+  {
+    "start_sec": 681.96,
+    "end_sec": 684.12,
+    "text": "y ya está la información que necesitamos"
+  },
+  {
+    "start_sec": 684.12,
+    "end_sec": 688.62,
+    "text": "de aquí ahora si vamos para"
+  },
+  {
+    "start_sec": 688.62,
+    "end_sec": 691.26,
+    "text": "lo siguiente sería el cálculo pare"
+  },
+  {
+    "start_sec": 691.26,
+    "end_sec": 693.42,
+    "text": "índices acá tenemos el ejemplo como el"
+  },
+  {
+    "start_sec": 693.42,
+    "end_sec": 694.1,
+    "text": "anterior"
+  },
+  {
+    "start_sec": 694.1,
+    "end_sec": 696.48,
+    "text": "especificándonos Qué significa cada una"
+  },
+  {
+    "start_sec": 696.48,
+    "end_sec": 700.62,
+    "text": "de las celdas acá tenemos que esta no es"
+  },
+  {
+    "start_sec": 700.62,
+    "end_sec": 702.54,
+    "text": "por pips"
+  },
+  {
+    "start_sec": 702.54,
+    "end_sec": 705.06,
+    "text": "Bueno si cambiamos acá esto si no lo"
+  },
+  {
+    "start_sec": 705.06,
+    "end_sec": 707.7,
+    "text": "permite Por pips acá nos va a permitir"
+  },
+  {
+    "start_sec": 707.7,
+    "end_sec": 709.62,
+    "text": "configurarlo por pips pero en este"
+  },
+  {
+    "start_sec": 709.62,
+    "end_sec": 711.3,
+    "text": "ejemplo no es por pip sino por precios"
+  },
+  {
+    "start_sec": 711.3,
+    "end_sec": 713.64,
+    "text": "tengo el precio de entrada en esta"
+  },
+  {
+    "start_sec": 713.64,
+    "end_sec": 716.88,
+    "text": "sección y nuestro stop loss acorde lo"
+  },
+  {
+    "start_sec": 716.88,
+    "end_sec": 720.42,
+    "text": "que hayamos encontrado en trading View o"
+  },
+  {
+    "start_sec": 720.42,
+    "end_sec": 722.7,
+    "text": "lo que nos quedó mejor en tradingview y"
+  },
+  {
+    "start_sec": 722.7,
+    "end_sec": 726.18,
+    "text": "le damos en el calcular listo y ya"
+  },
+  {
+    "start_sec": 726.18,
+    "end_sec": 728.94,
+    "text": "podríamos tener nuestro resultado ahora"
+  },
+  {
+    "start_sec": 728.94,
+    "end_sec": 732.48,
+    "text": "siguiendo vamos a ver un ejemplo acá en"
+  },
+  {
+    "start_sec": 732.48,
+    "end_sec": 735.68,
+    "text": "el ejemplo tenemos que fuimos al nasdaq"
+  },
+  {
+    "start_sec": 735.68,
+    "end_sec": 739.62,
+    "text": "pusimos especificación Nos salió esta"
+  },
+  {
+    "start_sec": 739.62,
+    "end_sec": 741.72,
+    "text": "información mira lo importante que es"
+  },
+  {
+    "start_sec": 741.72,
+    "end_sec": 743.46,
+    "text": "que sepamos el volumen del contrato"
+  },
+  {
+    "start_sec": 743.46,
+    "end_sec": 745.68,
+    "text": "tenemos esta especificación nuestro"
+  },
+  {
+    "start_sec": 745.68,
+    "end_sec": 749.27,
+    "text": "volumen de contratos son"
+  },
+  {
+    "start_sec": 749.28,
+    "end_sec": 750.74,
+    "text": "Entonces"
+  },
+  {
+    "start_sec": 750.74,
+    "end_sec": 754.02,
+    "text": "si nosotros en este caso para este"
+  },
+  {
+    "start_sec": 754.02,
+    "end_sec": 755.7,
+    "text": "ejemplo Tenemos una cuenta de 50 mil"
+  },
+  {
+    "start_sec": 755.7,
+    "end_sec": 759.0,
+    "text": "dólares el 1% de 50 mil dólares son 500"
+  },
+  {
+    "start_sec": 759.0,
+    "end_sec": 761.18,
+    "text": "dólares entonces para este ejemplo"
+  },
+  {
+    "start_sec": 761.18,
+    "end_sec": 764.16,
+    "text": "haciendo el cálculo y todo eso en el 100"
+  },
+  {
+    "start_sec": 764.16,
+    "end_sec": 766.56,
+    "text": "tenemos que el tamaño de lotaje para"
+  },
+  {
+    "start_sec": 766.56,
+    "end_sec": 769.64,
+    "text": "este riesgo es de"
+  },
+  {
+    "start_sec": 769.64,
+    "end_sec": 773.04,
+    "text": "16.667 lotes que va a ser un riesgo de"
+  },
+  {
+    "start_sec": 773.04,
+    "end_sec": 775.56,
+    "text": "500 dólares y nos agarra el Stop loss Es"
+  },
+  {
+    "start_sec": 775.56,
+    "end_sec": 778.44,
+    "text": "importante saber eso cuánto vamos a"
+  },
+  {
+    "start_sec": 778.44,
+    "end_sec": 780.42,
+    "text": "perder siempre hay que saber cuánto"
+  },
+  {
+    "start_sec": 780.42,
+    "end_sec": 782.94,
+    "text": "vamos a perder hay primero hay que saber"
+  },
+  {
+    "start_sec": 782.94,
+    "end_sec": 785.0,
+    "text": "cuánto vamos a perder para luego pensar"
+  },
+  {
+    "start_sec": 785.0,
+    "end_sec": 787.5,
+    "text": "en cuanto vamos a ganar porque tenemos"
+  },
+  {
+    "start_sec": 787.5,
+    "end_sec": 790.74,
+    "text": "que disminuir las pérdidas lo más que"
+  },
+  {
+    "start_sec": 790.74,
+    "end_sec": 793.26,
+    "text": "podamos aunque son inevitables siempre"
+  },
+  {
+    "start_sec": 793.26,
+    "end_sec": 795.18,
+    "text": "van a llegar pero bueno siguiendo"
+  },
+  {
+    "start_sec": 795.18,
+    "end_sec": 798.08,
+    "text": "tenemos acá un ejemplo en metatrader"
+  },
+  {
+    "start_sec": 798.08,
+    "end_sec": 801.3,
+    "text": "este es para el caso anterior lo que"
+  },
+  {
+    "start_sec": 801.3,
+    "end_sec": 804.42,
+    "text": "sucedió es que en este para una cuenta"
+  },
+  {
+    "start_sec": 804.42,
+    "end_sec": 807.12,
+    "text": "de 50 mil dólares el broker no permite"
+  },
+  {
+    "start_sec": 807.12,
+    "end_sec": 809.94,
+    "text": "tener más de un lote por qué porque"
+  },
+  {
+    "start_sec": 809.94,
+    "end_sec": 812.94,
+    "text": "ellos utilizan un volumen de 100 volumen"
+  },
+  {
+    "start_sec": 812.94,
+    "end_sec": 814.5,
+    "text": "de 100"
+  },
+  {
+    "start_sec": 814.5,
+    "end_sec": 817.92,
+    "text": "eso es demasiado Entonces si el volumen"
+  },
+  {
+    "start_sec": 817.92,
+    "end_sec": 820.92,
+    "text": "fuera uno si nos puede o si nos podría"
+  },
+  {
+    "start_sec": 820.92,
+    "end_sec": 823.8,
+    "text": "permitir utilizar los 16 lotes pero como"
+  },
+  {
+    "start_sec": 823.8,
+    "end_sec": 825.96,
+    "text": "ese es un volumen de 100 no nos permite"
+  },
+  {
+    "start_sec": 825.96,
+    "end_sec": 828.0,
+    "text": "utilizar los 16 lotes todo lo que"
+  },
+  {
+    "start_sec": 828.0,
+    "end_sec": 831.06,
+    "text": "tendríamos que utilizar es"
+  },
+  {
+    "start_sec": 831.06,
+    "end_sec": 833.54,
+    "text": "es esto"
+  },
+  {
+    "start_sec": 833.54,
+    "end_sec": 835.1,
+    "text": "0,16"
+  },
+  {
+    "start_sec": 835.1,
+    "end_sec": 837.72,
+    "text": "6 lotes eso es lo que nos permite"
+  },
+  {
+    "start_sec": 837.72,
+    "end_sec": 839.0,
+    "text": "utilizar"
+  },
+  {
+    "start_sec": 839.0,
+    "end_sec": 842.76,
+    "text": "0,16 6 lotes que hizo acá no olvidemos"
+  },
+  {
+    "start_sec": 842.76,
+    "end_sec": 845.52,
+    "text": "que esto era lo que teníamos en nuestra"
+  },
+  {
+    "start_sec": 845.52,
+    "end_sec": 848.94,
+    "text": "calculadora cierto 1667 eso es lo que"
+  },
+  {
+    "start_sec": 848.94,
+    "end_sec": 851.1,
+    "text": "teníamos que se hizo Se movió dos"
+  },
+  {
+    "start_sec": 851.1,
+    "end_sec": 853.8,
+    "text": "unidades a la izquierda la coma Entonces"
+  },
+  {
+    "start_sec": 853.8,
+    "end_sec": 856.1,
+    "text": "se movió la coma esta es una unidad"
+  },
+  {
+    "start_sec": 856.1,
+    "end_sec": 859.46,
+    "text": "estas otra unidad y se le agregó un cero"
+  },
+  {
+    "start_sec": 859.46,
+    "end_sec": 863.04,
+    "text": "Entonces ya ahí tendríamos nuestro"
+  },
+  {
+    "start_sec": 863.04,
+    "end_sec": 865.98,
+    "text": "cálculo"
+  },
+  {
+    "start_sec": 865.98,
+    "end_sec": 870.56,
+    "text": "y ya la coma quedaría acá si lo vieron"
+  },
+  {
+    "start_sec": 870.56,
+    "end_sec": 874.5,
+    "text": "habría que mover dos unidades a la"
+  },
+  {
+    "start_sec": 874.5,
+    "end_sec": 875.82,
+    "text": "izquierda"
+  },
+  {
+    "start_sec": 875.82,
+    "end_sec": 879.74,
+    "text": "y así nos permite tener el porcentaje"
+  },
+  {
+    "start_sec": 879.74,
+    "end_sec": 881.7,
+    "text": "acorde a como nosotros lo queremos"
+  },
+  {
+    "start_sec": 881.7,
+    "end_sec": 885.12,
+    "text": "acorde como nosotros lo buscábamos Y si"
+  },
+  {
+    "start_sec": 885.12,
+    "end_sec": 886.52,
+    "text": "pues se puede ver acá"
+  },
+  {
+    "start_sec": 886.52,
+    "end_sec": 888.56,
+    "text": "es totalmente"
+  },
+  {
+    "start_sec": 888.56,
+    "end_sec": 891.26,
+    "text": "aproximado lo que nosotros buscábamos"
+  },
+  {
+    "start_sec": 891.26,
+    "end_sec": 893.78,
+    "text": "que teníamos"
+  },
+  {
+    "start_sec": 893.78,
+    "end_sec": 896.46,
+    "text": "500 dólares de pérdida y en efecto"
+  },
+  {
+    "start_sec": 896.46,
+    "end_sec": 900.18,
+    "text": "Fueron 500 480 dólares de piel de"
+  },
+  {
+    "start_sec": 900.18,
+    "end_sec": 905.88,
+    "text": "pérdida y fueron 0,16 mirado acá 0,16 y"
+  },
+  {
+    "start_sec": 905.88,
+    "end_sec": 908.88,
+    "text": "no olvidar nos apareció en la"
+  },
+  {
+    "start_sec": 908.88,
+    "end_sec": 910.82,
+    "text": "calculadora"
+  },
+  {
+    "start_sec": 910.82,
+    "end_sec": 914.93,
+    "text": "16,66 7"
+  },
+  {
+    "start_sec": 914.94,
+    "end_sec": 917.82,
+    "text": "Entonces está totalmente bien ya lo"
+  },
+  {
+    "start_sec": 917.82,
+    "end_sec": 920.82,
+    "text": "vimos Y eso por qué se dio así volvemos"
+  },
+  {
+    "start_sec": 920.82,
+    "end_sec": 924.3,
+    "text": "para atrás sucedió así porque si vemos"
+  },
+  {
+    "start_sec": 924.3,
+    "end_sec": 925.8,
+    "text": "acá"
+  },
+  {
+    "start_sec": 925.8,
+    "end_sec": 928.56,
+    "text": "tenemos que el volumen de contratos son"
+  },
+  {
+    "start_sec": 928.56,
+    "end_sec": 932.82,
+    "text": "100 Pero esto es para índices en forex"
+  },
+  {
+    "start_sec": 932.82,
+    "end_sec": 935.52,
+    "text": "el volumen de contrato son 100.000 que"
+  },
+  {
+    "start_sec": 935.52,
+    "end_sec": 938.82,
+    "text": "se le estándar entonces ya acá todo esto"
+  },
+  {
+    "start_sec": 938.82,
+    "end_sec": 940.52,
+    "text": "va variando ahora siguiendo con el tema"
+  },
+  {
+    "start_sec": 940.52,
+    "end_sec": 945.78,
+    "text": "tenemos que ya lo vimos con ese a 100"
+  },
+  {
+    "start_sec": 945.78,
+    "end_sec": 947.58,
+    "text": "ahora vamos a ver un ejemplo 2 donde"
+  },
+  {
+    "start_sec": 947.58,
+    "end_sec": 951.0,
+    "text": "tenemos un tamaño de contrato o volumen"
+  },
+  {
+    "start_sec": 951.0,
+    "end_sec": 952.88,
+    "text": "de 10"
+  },
+  {
+    "start_sec": 952.88,
+    "end_sec": 957.42,
+    "text": "veces menos Entonces qué hacemos ahora"
+  },
+  {
+    "start_sec": 957.42,
+    "end_sec": 960.6,
+    "text": "hacemos el mismo cálculo si ponemos los"
+  },
+  {
+    "start_sec": 960.6,
+    "end_sec": 962.9,
+    "text": "16 lotes"
+  },
+  {
+    "start_sec": 962.9,
+    "end_sec": 966.42,
+    "text": "este este ejemplo es con los 16 lotes Y"
+  },
+  {
+    "start_sec": 966.42,
+    "end_sec": 967.88,
+    "text": "6,67"
+  },
+  {
+    "start_sec": 967.88,
+    "end_sec": 971.28,
+    "text": "si ponemos con los 16,67 lotes lo que"
+  },
+  {
+    "start_sec": 971.28,
+    "end_sec": 972.62,
+    "text": "tenemos aquí"
+  },
+  {
+    "start_sec": 972.62,
+    "end_sec": 975.5,
+    "text": "son"
+  },
+  {
+    "start_sec": 975.5,
+    "end_sec": 979.68,
+    "text": "4.980 imagínense en el anterior no nos"
+  },
+  {
+    "start_sec": 979.68,
+    "end_sec": 982.86,
+    "text": "permitía ni siquiera poner los 16 lotes"
+  },
+  {
+    "start_sec": 982.86,
+    "end_sec": 986.0,
+    "text": "ahora este broker si no lo permite pero"
+  },
+  {
+    "start_sec": 986.0,
+    "end_sec": 989.94,
+    "text": "nos da un o sea nos da una gestión de"
+  },
+  {
+    "start_sec": 989.94,
+    "end_sec": 992.64,
+    "text": "riesgo súper loquísima O sea tú con este"
+  },
+  {
+    "start_sec": 992.64,
+    "end_sec": 995.28,
+    "text": "error te quemas la mitad a la cuenta si"
+  },
+  {
+    "start_sec": 995.28,
+    "end_sec": 998.1,
+    "text": "no sabes ver bien esto en minutos puede"
+  },
+  {
+    "start_sec": 998.1,
+    "end_sec": 1000.08,
+    "text": "ser en segundos o sea es una locura por"
+  },
+  {
+    "start_sec": 1000.08,
+    "end_sec": 1002.24,
+    "text": "eso es importante saberlo y ahora en"
+  },
+  {
+    "start_sec": 1002.24,
+    "end_sec": 1003.7,
+    "text": "esta sección de aquí"
+  },
+  {
+    "start_sec": 1003.7,
+    "end_sec": 1005.68,
+    "text": "tenemos"
+  },
+  {
+    "start_sec": 1005.68,
+    "end_sec": 1008.36,
+    "text": "recalculado todo acá lo que utilizamos"
+  },
+  {
+    "start_sec": 1008.36,
+    "end_sec": 1010.22,
+    "text": "fueron"
+  },
+  {
+    "start_sec": 1010.22,
+    "end_sec": 1016.21,
+    "text": "uno coma seis seis siete"
+  },
+  {
+    "start_sec": 1016.22,
+    "end_sec": 1018.08,
+    "text": "por qué"
+  },
+  {
+    "start_sec": 1018.08,
+    "end_sec": 1022.04,
+    "text": "en el anterior era 10 veces no olvidar"
+  },
+  {
+    "start_sec": 1022.04,
+    "end_sec": 1025.69,
+    "text": "tenemos 16,66"
+  },
+  {
+    "start_sec": 1025.7,
+    "end_sec": 1027.92,
+    "text": "7"
+  },
+  {
+    "start_sec": 1027.92,
+    "end_sec": 1030.92,
+    "text": "Esto es lo que nos dio la calculadora no"
+  },
+  {
+    "start_sec": 1030.92,
+    "end_sec": 1034.58,
+    "text": "olvidar que esto es para tamaño de"
+  },
+  {
+    "start_sec": 1034.58,
+    "end_sec": 1036.5,
+    "text": "contrato 1 Eso es para tamaño de"
+  },
+  {
+    "start_sec": 1036.5,
+    "end_sec": 1039.62,
+    "text": "contrato 1 este ahora tenemos un tamaño"
+  },
+  {
+    "start_sec": 1039.62,
+    "end_sec": 1041.72,
+    "text": "de contrato 10 para un tamaño de"
+  },
+  {
+    "start_sec": 1041.72,
+    "end_sec": 1044.96,
+    "text": "contrato 10 hay que mover una unidad a"
+  },
+  {
+    "start_sec": 1044.96,
+    "end_sec": 1047.12,
+    "text": "la izquierda la coma Eso quiere decir"
+  },
+  {
+    "start_sec": 1047.12,
+    "end_sec": 1052.03,
+    "text": "que eso nos va a quedar de esta manera"
+  },
+  {
+    "start_sec": 1052.04,
+    "end_sec": 1055.04,
+    "text": "así nos va a quedar"
+  },
+  {
+    "start_sec": 1055.04,
+    "end_sec": 1057.74,
+    "text": "este es para una unidad 10 y en el"
+  },
+  {
+    "start_sec": 1057.74,
+    "end_sec": 1063.13,
+    "text": "anterior que fue para 100 nos quedó así"
+  },
+  {
+    "start_sec": 1063.14,
+    "end_sec": 1067.22,
+    "text": "para 100 este es para 10"
+  },
+  {
+    "start_sec": 1067.22,
+    "end_sec": 1070.16,
+    "text": "este es para 100"
+  },
+  {
+    "start_sec": 1070.16,
+    "end_sec": 1071.92,
+    "text": "y este es para uno"
+  },
+  {
+    "start_sec": 1071.92,
+    "end_sec": 1076.34,
+    "text": "si en la diferencia que hay con respecto"
+  },
+  {
+    "start_sec": 1076.34,
+    "end_sec": 1079.46,
+    "text": "a cada uno de los Brokers el Stop lo que"
+  },
+  {
+    "start_sec": 1079.46,
+    "end_sec": 1080.26,
+    "text": "puede"
+  },
+  {
+    "start_sec": 1080.26,
+    "end_sec": 1083.36,
+    "text": "ocasionar que puedas perder una cuenta"
+  },
+  {
+    "start_sec": 1083.36,
+    "end_sec": 1085.58,
+    "text": "de 50 mil dólares solo cerrando los ojos"
+  },
+  {
+    "start_sec": 1085.58,
+    "end_sec": 1088.64,
+    "text": "Por eso hay que tener sumamente cuidado"
+  },
+  {
+    "start_sec": 1088.64,
+    "end_sec": 1091.1,
+    "text": "es importante tomarlo en cuenta y tener"
+  },
+  {
+    "start_sec": 1091.1,
+    "end_sec": 1092.48,
+    "text": "bastante atención prestar bastante"
+  },
+  {
+    "start_sec": 1092.48,
+    "end_sec": 1094.88,
+    "text": "atención a esto Ahora si seguimos para"
+  },
+  {
+    "start_sec": 1094.88,
+    "end_sec": 1097.94,
+    "text": "criptomonedas sería lo mismo en este"
+  },
+  {
+    "start_sec": 1097.94,
+    "end_sec": 1101.72,
+    "text": "caso Yo vi dos Brokers distintos y los"
+  },
+  {
+    "start_sec": 1101.72,
+    "end_sec": 1104.54,
+    "text": "dos tenían el tamaño contrato uno así"
+  },
+  {
+    "start_sec": 1104.54,
+    "end_sec": 1106.7,
+    "text": "que esto lo podemos utilizar así al pie"
+  },
+  {
+    "start_sec": 1106.7,
+    "end_sec": 1108.44,
+    "text": "de la letra"
+  },
+  {
+    "start_sec": 1108.44,
+    "end_sec": 1110.06,
+    "text": "O sea que podemos utilizar las 10"
+  },
+  {
+    "start_sec": 1110.06,
+    "end_sec": 1112.22,
+    "text": "unidades"
+  },
+  {
+    "start_sec": 1112.22,
+    "end_sec": 1116.6,
+    "text": "pero si esto variará a 10 entonces así"
+  },
+  {
+    "start_sec": 1116.6,
+    "end_sec": 1119.78,
+    "text": "habría que agregarle o no agregar sino"
+  },
+  {
+    "start_sec": 1119.78,
+    "end_sec": 1121.88,
+    "text": "mover la coma a la izquierda Entonces"
+  },
+  {
+    "start_sec": 1121.88,
+    "end_sec": 1126.02,
+    "text": "ahí sí ya habría que gestionar eso y en"
+  },
+  {
+    "start_sec": 1126.02,
+    "end_sec": 1128.72,
+    "text": "el ejemplo podemos ver que"
+  },
+  {
+    "start_sec": 1128.72,
+    "end_sec": 1133.4,
+    "text": "son 500 dólares la pérdida para esta"
+  },
+  {
+    "start_sec": 1133.4,
+    "end_sec": 1136.82,
+    "text": "este tipo de entrada Qué es lo que está"
+  },
+  {
+    "start_sec": 1136.82,
+    "end_sec": 1139.76,
+    "text": "bien acorde a nuestro gestión a nuestro"
+  },
+  {
+    "start_sec": 1139.76,
+    "end_sec": 1141.68,
+    "text": "movimiento lo que queríamos por ejemplo"
+  },
+  {
+    "start_sec": 1141.68,
+    "end_sec": 1143.54,
+    "text": "acá lo podemos ver"
+  },
+  {
+    "start_sec": 1143.54,
+    "end_sec": 1147.21,
+    "text": "que esto"
+  },
+  {
+    "start_sec": 1147.22,
+    "end_sec": 1150.8,
+    "text": "serían 40 50 dólares de diferencia un"
+  },
+  {
+    "start_sec": 1150.8,
+    "end_sec": 1152.72,
+    "text": "punto a otro o sea nuestro stopway de 50"
+  },
+  {
+    "start_sec": 1152.72,
+    "end_sec": 1154.64,
+    "text": "dólares cosa que no recomiendo porque es"
+  },
+  {
+    "start_sec": 1154.64,
+    "end_sec": 1158.36,
+    "text": "muy pequeño para bitcoin y es 50 dólares"
+  },
+  {
+    "start_sec": 1158.36,
+    "end_sec": 1160.76,
+    "text": "de stop loss y acá lo podemos ver eso"
+  },
+  {
+    "start_sec": 1160.76,
+    "end_sec": 1163.36,
+    "text": "nos equivale a 500 dólares de pérdida"
+  },
+  {
+    "start_sec": 1163.36,
+    "end_sec": 1166.52,
+    "text": "usando 10 lotes Bueno ahora podríamos"
+  },
+  {
+    "start_sec": 1166.52,
+    "end_sec": 1169.22,
+    "text": "ver cómo se buscó en Google acá tenemos"
+  },
+  {
+    "start_sec": 1169.22,
+    "end_sec": 1171.68,
+    "text": "toda esta sección vamos a la primera"
+  },
+  {
+    "start_sec": 1171.68,
+    "end_sec": 1175.04,
+    "text": "opción que fue la que les enseñé en el"
+  },
+  {
+    "start_sec": 1175.04,
+    "end_sec": 1177.98,
+    "text": "Powerpoint cerramos esto y todo eso"
+  },
+  {
+    "start_sec": 1177.98,
+    "end_sec": 1180.64,
+    "text": "ahora Estamos aquí en el euro dólar"
+  },
+  {
+    "start_sec": 1180.64,
+    "end_sec": 1183.86,
+    "text": "tenemos una tamaño de cuenta de 10 mil"
+  },
+  {
+    "start_sec": 1183.86,
+    "end_sec": 1185.36,
+    "text": "dólares"
+  },
+  {
+    "start_sec": 1185.36,
+    "end_sec": 1188.36,
+    "text": "tenemos un porcentaje de riesgo de 1%"
+  },
+  {
+    "start_sec": 1188.36,
+    "end_sec": 1191.54,
+    "text": "tenemos un stop loss you promedio"
+  },
+  {
+    "start_sec": 1191.54,
+    "end_sec": 1194.42,
+    "text": "utilizo 10 Así que en establo de 10 pips"
+  },
+  {
+    "start_sec": 1194.42,
+    "end_sec": 1195.64,
+    "text": "y vamos a calcular"
+  },
+  {
+    "start_sec": 1195.64,
+    "end_sec": 1198.56,
+    "text": "con eso nos permite tener un tamaño de"
+  },
+  {
+    "start_sec": 1198.56,
+    "end_sec": 1199.48,
+    "text": "cuenta"
+  },
+  {
+    "start_sec": 1199.48,
+    "end_sec": 1201.62,
+    "text": "es que en tamaño un tamaño de lotaje de"
+  },
+  {
+    "start_sec": 1201.62,
+    "end_sec": 1203.12,
+    "text": "un lote"
+  },
+  {
+    "start_sec": 1203.12,
+    "end_sec": 1204.94,
+    "text": "para 10 pips de"
+  },
+  {
+    "start_sec": 1204.94,
+    "end_sec": 1208.58,
+    "text": "Entonces ya tenemos esta información y"
+  },
+  {
+    "start_sec": 1208.58,
+    "end_sec": 1211.16,
+    "text": "nos vamos para metal Trader ahora en"
+  },
+  {
+    "start_sec": 1211.16,
+    "end_sec": 1214.84,
+    "text": "metatrader lo que vamos a hacer es mirar"
+  },
+  {
+    "start_sec": 1214.84,
+    "end_sec": 1218.24,
+    "text": "las especificaciones del par aquí le"
+  },
+  {
+    "start_sec": 1218.24,
+    "end_sec": 1220.94,
+    "text": "damos clic derecho al Euro dólar vamos a"
+  },
+  {
+    "start_sec": 1220.94,
+    "end_sec": 1223.46,
+    "text": "especificación y acá nos aparece toda la"
+  },
+  {
+    "start_sec": 1223.46,
+    "end_sec": 1225.08,
+    "text": "información que vimos ahí en los Power"
+  },
+  {
+    "start_sec": 1225.08,
+    "end_sec": 1228.26,
+    "text": "Point tenemos la precisión de 5 tenemos"
+  },
+  {
+    "start_sec": 1228.26,
+    "end_sec": 1230.0,
+    "text": "el volumen de contrato de 100 mil"
+  },
+  {
+    "start_sec": 1230.0,
+    "end_sec": 1232.16,
+    "text": "dólares y todo eso Entonces ya sabemos"
+  },
+  {
+    "start_sec": 1232.16,
+    "end_sec": 1235.84,
+    "text": "esto Qué vamos a hacer hay dos opciones"
+  },
+  {
+    "start_sec": 1235.84,
+    "end_sec": 1237.46,
+    "text": "para"
+  },
+  {
+    "start_sec": 1237.46,
+    "end_sec": 1241.46,
+    "text": "probar cuando tienes un broker nuevo una"
+  },
+  {
+    "start_sec": 1241.46,
+    "end_sec": 1244.52,
+    "text": "en la opción a los digamos yo le llamo"
+  },
+  {
+    "start_sec": 1244.52,
+    "end_sec": 1247.7,
+    "text": "la opción a lo valga madre no en donde"
+  },
+  {
+    "start_sec": 1247.7,
+    "end_sec": 1251.36,
+    "text": "tú llegas abres una posición"
+  },
+  {
+    "start_sec": 1251.36,
+    "end_sec": 1254.84,
+    "text": "una posición tratada orden pendiente es"
+  },
+  {
+    "start_sec": 1254.84,
+    "end_sec": 1256.4,
+    "text": "el límite te fijas donde está el precio"
+  },
+  {
+    "start_sec": 1256.4,
+    "end_sec": 1260.96,
+    "text": "el precio está a 0,98 300 entonces pones"
+  },
+  {
+    "start_sec": 1260.96,
+    "end_sec": 1263.48,
+    "text": "un Trade lejos de ese precio para que no"
+  },
+  {
+    "start_sec": 1263.48,
+    "end_sec": 1265.34,
+    "text": "te lo agarre Entonces digamos vamos a"
+  },
+  {
+    "start_sec": 1265.34,
+    "end_sec": 1267.76,
+    "text": "poner el trading 0.98"
+  },
+  {
+    "start_sec": 1267.76,
+    "end_sec": 1270.46,
+    "text": "430 cierto"
+  },
+  {
+    "start_sec": 1270.46,
+    "end_sec": 1274.16,
+    "text": "0.98 430 es en nuestro precio de entrada"
+  },
+  {
+    "start_sec": 1274.16,
+    "end_sec": 1276.98,
+    "text": "ahora nuestro stop loss a mí me gusta"
+  },
+  {
+    "start_sec": 1276.98,
+    "end_sec": 1280.36,
+    "text": "utilizar 10 pips entonces 0.98"
+  },
+  {
+    "start_sec": 1280.36,
+    "end_sec": 1282.28,
+    "text": "43"
+  },
+  {
+    "start_sec": 1282.28,
+    "end_sec": 1289.16,
+    "text": "53 entonces 53 ya ahí va y el volumen el"
+  },
+  {
+    "start_sec": 1289.16,
+    "end_sec": 1291.14,
+    "text": "volumen el volumen"
+  },
+  {
+    "start_sec": 1291.14,
+    "end_sec": 1294.92,
+    "text": "sería un lote cierto un lote queremos"
+  },
+  {
+    "start_sec": 1294.92,
+    "end_sec": 1297.26,
+    "text": "arriesgar 100 dólares cierto 100 dólares"
+  },
+  {
+    "start_sec": 1297.26,
+    "end_sec": 1300.8,
+    "text": "Entonces lo colocamos y bueno acá no"
+  },
+  {
+    "start_sec": 1300.8,
+    "end_sec": 1303.86,
+    "text": "sale todo esto y si vemos ponemos"
+  },
+  {
+    "start_sec": 1303.86,
+    "end_sec": 1306.2,
+    "text": "nuestro clic encima se puede observar"
+  },
+  {
+    "start_sec": 1306.2,
+    "end_sec": 1309.8,
+    "text": "que el riesgo es de menos 100 dólares en"
+  },
+  {
+    "start_sec": 1309.8,
+    "end_sec": 1312.74,
+    "text": "el Stop loss entonces en efecto nos fue"
+  },
+  {
+    "start_sec": 1312.74,
+    "end_sec": 1315.02,
+    "text": "bien acá los puntos podemos ver que son"
+  },
+  {
+    "start_sec": 1315.02,
+    "end_sec": 1316.76,
+    "text": "10 puntos"
+  },
+  {
+    "start_sec": 1316.76,
+    "end_sec": 1318.92,
+    "text": "en realidad o sea son 10 pips pero lo"
+  },
+  {
+    "start_sec": 1318.92,
+    "end_sec": 1321.44,
+    "text": "den puntos serían 100 pero son 10 pips y"
+  },
+  {
+    "start_sec": 1321.44,
+    "end_sec": 1324.38,
+    "text": "en efecto no salió todo perfecto cierto"
+  },
+  {
+    "start_sec": 1324.38,
+    "end_sec": 1327.38,
+    "text": "ya lo venden Y digamos Ay yo no quiero"
+  },
+  {
+    "start_sec": 1327.38,
+    "end_sec": 1329.78,
+    "text": "utilizar calculadora entonces tú puedes"
+  },
+  {
+    "start_sec": 1329.78,
+    "end_sec": 1332.5,
+    "text": "hacer esto qué es lo que yo hago Pues"
+  },
+  {
+    "start_sec": 1332.5,
+    "end_sec": 1335.36,
+    "text": "llegas a hacerse el límite y dices Bueno"
+  },
+  {
+    "start_sec": 1335.36,
+    "end_sec": 1339.46,
+    "text": "98 46 0"
+  },
+  {
+    "start_sec": 1339.46,
+    "end_sec": 1343.46,
+    "text": "0,98 460 cierto y nos vamos a buscar el"
+  },
+  {
+    "start_sec": 1343.46,
+    "end_sec": 1348.2,
+    "text": "Stop loss entonces tú dices Bueno 460 98"
+  },
+  {
+    "start_sec": 1348.2,
+    "end_sec": 1350.08,
+    "text": "48"
+  },
+  {
+    "start_sec": 1350.08,
+    "end_sec": 1354.31,
+    "text": "0.98 48"
+  },
+  {
+    "start_sec": 1354.32,
+    "end_sec": 1356.68,
+    "text": "cierto y qué hacemos la colocamos allí"
+  },
+  {
+    "start_sec": 1356.68,
+    "end_sec": 1361.7,
+    "text": "le estamos utilizando un lotes un lote"
+  },
+  {
+    "start_sec": 1361.7,
+    "end_sec": 1363.5,
+    "text": "para esto si tienes que tener en cuenta"
+  },
+  {
+    "start_sec": 1363.5,
+    "end_sec": 1364.88,
+    "text": "de que tienes un poquito de conocimiento"
+  },
+  {
+    "start_sec": 1364.88,
+    "end_sec": 1367.64,
+    "text": "sobre los lotes porque digamos tú pones"
+  },
+  {
+    "start_sec": 1367.64,
+    "end_sec": 1370.1,
+    "text": "10 lotes acá y tu estado pues tiene que"
+  },
+  {
+    "start_sec": 1370.1,
+    "end_sec": 1372.98,
+    "text": "ser un pib Entonces si tienes que tener"
+  },
+  {
+    "start_sec": 1372.98,
+    "end_sec": 1374.48,
+    "text": "un poquito de conocimiento sobre esto"
+  },
+  {
+    "start_sec": 1374.48,
+    "end_sec": 1377.9,
+    "text": "pero bueno te lo pones ahí y tú ves A"
+  },
+  {
+    "start_sec": 1377.9,
+    "end_sec": 1380.2,
+    "text": "bueno son 20 dólares"
+  },
+  {
+    "start_sec": 1380.2,
+    "end_sec": 1383.42,
+    "text": "Serían dos pips Te lo vas moviendo lo"
+  },
+  {
+    "start_sec": 1383.42,
+    "end_sec": 1386.24,
+    "text": "vas moviendo lo van moviendo Y si ven al"
+  },
+  {
+    "start_sec": 1386.24,
+    "end_sec": 1389.18,
+    "text": "mano izquierda si ven acá como se va"
+  },
+  {
+    "start_sec": 1389.18,
+    "end_sec": 1390.98,
+    "text": "moviendo la cantidad de Point de points"
+  },
+  {
+    "start_sec": 1390.98,
+    "end_sec": 1393.62,
+    "text": "pero lo vas moviendo y va llegando a 100"
+  },
+  {
+    "start_sec": 1393.62,
+    "end_sec": 1398.12,
+    "text": "dólares Bueno ahí va 99 90 91 93 y ahí"
+  },
+  {
+    "start_sec": 1398.12,
+    "end_sec": 1400.22,
+    "text": "va subiendo cierto aquí en este caso"
+  },
+  {
+    "start_sec": 1400.22,
+    "end_sec": 1402.38,
+    "text": "está en 90"
+  },
+  {
+    "start_sec": 1402.38,
+    "end_sec": 1406.7,
+    "text": "en 97 en 100 si lo en 100 puntos siente"
+  },
+  {
+    "start_sec": 1406.7,
+    "end_sec": 1407.8,
+    "text": "stoplos"
+  },
+  {
+    "start_sec": 1407.8,
+    "end_sec": 1410.42,
+    "text": "ahora para el dancedack hacemos lo mismo"
+  },
+  {
+    "start_sec": 1410.42,
+    "end_sec": 1413.08,
+    "text": "le vamos al nasdaq damos clic derecho"
+  },
+  {
+    "start_sec": 1413.08,
+    "end_sec": 1416.12,
+    "text": "vamos a especificación y en"
+  },
+  {
+    "start_sec": 1416.12,
+    "end_sec": 1418.76,
+    "text": "especificación nos sale que el volumen"
+  },
+  {
+    "start_sec": 1418.76,
+    "end_sec": 1421.88,
+    "text": "de contrato 100 perdón de contrato de"
+  },
+  {
+    "start_sec": 1421.88,
+    "end_sec": 1426.68,
+    "text": "100 entonces lo que hacemos Es que"
+  },
+  {
+    "start_sec": 1426.68,
+    "end_sec": 1429.08,
+    "text": "hacemos la misma situación vamos al"
+  },
+  {
+    "start_sec": 1429.08,
+    "end_sec": 1433.34,
+    "text": "nasdaq vamos nueva orden acá orden"
+  },
+  {
+    "start_sec": 1433.34,
+    "end_sec": 1438.2,
+    "text": "pendiente sea límite y bueno acá vamos a"
+  },
+  {
+    "start_sec": 1438.2,
+    "end_sec": 1441.19,
+    "text": "elegir"
+  },
+  {
+    "start_sec": 1441.2,
+    "end_sec": 1443.96,
+    "text": "el volumen"
+  },
+  {
+    "start_sec": 1443.96,
+    "end_sec": 1448.52,
+    "text": "el precio y el Stop loss Entonces vamos"
+  },
+  {
+    "start_sec": 1448.52,
+    "end_sec": 1450.8,
+    "text": "a poner uno que esté bien alejado hay"
+  },
+  {
+    "start_sec": 1450.8,
+    "end_sec": 1452.42,
+    "text": "que tener cuidado dependiendo de la hora"
+  },
+  {
+    "start_sec": 1452.42,
+    "end_sec": 1455.12,
+    "text": "porque ustedes saben se pone agresivo a"
+  },
+  {
+    "start_sec": 1455.12,
+    "end_sec": 1456.56,
+    "text": "ciertas horas en el día que te pueden"
+  },
+  {
+    "start_sec": 1456.56,
+    "end_sec": 1459.56,
+    "text": "reventar tu práctica Así que a esta hora"
+  },
+  {
+    "start_sec": 1459.56,
+    "end_sec": 1462.14,
+    "text": "es más tranquilo por estamos en sesión"
+  },
+  {
+    "start_sec": 1462.14,
+    "end_sec": 1464.72,
+    "text": "de Asia entonces puede ser un poco más"
+  },
+  {
+    "start_sec": 1464.72,
+    "end_sec": 1467.44,
+    "text": "tranquilo pero en otras horas"
+  },
+  {
+    "start_sec": 1467.44,
+    "end_sec": 1469.58,
+    "text": "hay que tener un poquillo de cuidado"
+  },
+  {
+    "start_sec": 1469.58,
+    "end_sec": 1471.5,
+    "text": "porque te puede [&nbsp;__&nbsp;] solamente la"
+  },
+  {
+    "start_sec": 1471.5,
+    "end_sec": 1474.7,
+    "text": "práctica imagínate pierde la cuenta sin"
+  },
+  {
+    "start_sec": 1474.7,
+    "end_sec": 1477.32,
+    "text": "empezar a hacer trading Así que no no"
+  },
+  {
+    "start_sec": 1477.32,
+    "end_sec": 1480.68,
+    "text": "gusta no gusta Entonces acabamos vamos a"
+  },
+  {
+    "start_sec": 1480.68,
+    "end_sec": 1483.02,
+    "text": "usar como la estrategia del nasdaq 30"
+  },
+  {
+    "start_sec": 1483.02,
+    "end_sec": 1486.28,
+    "text": "puntos Entonces vamos de 127"
+  },
+  {
+    "start_sec": 1486.28,
+    "end_sec": 1492.16,
+    "text": "12 2 12 2"
+  },
+  {
+    "start_sec": 1492.16,
+    "end_sec": 1495.44,
+    "text": "27 cierto"
+  },
+  {
+    "start_sec": 1495.44,
+    "end_sec": 1498.92,
+    "text": "y bueno acá le damos a esto Esta es la"
+  },
+  {
+    "start_sec": 1498.92,
+    "end_sec": 1501.09,
+    "text": "cuenta"
+  },
+  {
+    "start_sec": 1501.1,
+    "end_sec": 1506.42,
+    "text": "que sería 16 y lo colocamos"
+  },
+  {
+    "start_sec": 1506.42,
+    "end_sec": 1508.6,
+    "text": "ahora si lo ven está la cuenta de 50.000"
+  },
+  {
+    "start_sec": 1508.6,
+    "end_sec": 1512.0,
+    "text": "así lo vemos está la cuenta de 50.000"
+  },
+  {
+    "start_sec": 1512.0,
+    "end_sec": 1513.62,
+    "text": "que estaba también que demostrar en el"
+  },
+  {
+    "start_sec": 1513.62,
+    "end_sec": 1516.7,
+    "text": "ejemplo y si lo vemos acá 30 puntos"
+  },
+  {
+    "start_sec": 1516.7,
+    "end_sec": 1520.76,
+    "text": "nos equivalen a 480 dólares Si lo"
+  },
+  {
+    "start_sec": 1520.76,
+    "end_sec": 1522.74,
+    "text": "podemos observar acá lo que pusimos fue"
+  },
+  {
+    "start_sec": 1522.74,
+    "end_sec": 1525.5,
+    "text": "punto 16 y pusimos la entrada por allá"
+  },
+  {
+    "start_sec": 1525.5,
+    "end_sec": 1526.82,
+    "text": "arriba porque no nos reviente tampoco"
+  },
+  {
+    "start_sec": 1526.82,
+    "end_sec": 1528.4,
+    "text": "bueno acá tenemos"
+  },
+  {
+    "start_sec": 1528.4,
+    "end_sec": 1532.22,
+    "text": "otro broker vamos otra vez para el"
+  },
+  {
+    "start_sec": 1532.22,
+    "end_sec": 1536.66,
+    "text": "índice clic derecho especificación y lo"
+  },
+  {
+    "start_sec": 1536.66,
+    "end_sec": 1539.12,
+    "text": "que vamos a ver Es que este tiene un"
+  },
+  {
+    "start_sec": 1539.12,
+    "end_sec": 1541.88,
+    "text": "tamaño de contrato de 10 que es como le"
+  },
+  {
+    "start_sec": 1541.88,
+    "end_sec": 1543.98,
+    "text": "muestra en el ejemplo Entonces qué Vamos"
+  },
+  {
+    "start_sec": 1543.98,
+    "end_sec": 1546.92,
+    "text": "a hacer vamos a ir a nueva orden"
+  },
+  {
+    "start_sec": 1546.92,
+    "end_sec": 1550.96,
+    "text": "nueva orden orden pendiente"
+  },
+  {
+    "start_sec": 1550.96,
+    "end_sec": 1554.78,
+    "text": "la entrada vamos a hacer lo mismo"
+  },
+  {
+    "start_sec": 1554.78,
+    "end_sec": 1559.18,
+    "text": "12 480 pongamos 12 480"
+  },
+  {
+    "start_sec": 1559.18,
+    "end_sec": 1563.96,
+    "text": "baile límite pero por favor y vamos a"
+  },
+  {
+    "start_sec": 1563.96,
+    "end_sec": 1566.0,
+    "text": "hacerlo como la estrategia de las 30"
+  },
+  {
+    "start_sec": 1566.0,
+    "end_sec": 1571.18,
+    "text": "puntos 12 480 12 5 10 entonces 5 10"
+  },
+  {
+    "start_sec": 1571.18,
+    "end_sec": 1576.2,
+    "text": "entonces Y tenemos 1.6 si ponemos como"
+  },
+  {
+    "start_sec": 1576.2,
+    "end_sec": 1579.82,
+    "text": "aparecía en el ejemplo y 6.67"
+  },
+  {
+    "start_sec": 1579.82,
+    "end_sec": 1583.88,
+    "text": "entonces no va a salir lo siguiente"
+  },
+  {
+    "start_sec": 1583.88,
+    "end_sec": 1585.76,
+    "text": "ponemos la orden"
+  },
+  {
+    "start_sec": 1585.76,
+    "end_sec": 1587.92,
+    "text": "me la borró por poner por cambiar"
+  },
+  {
+    "start_sec": 1587.92,
+    "end_sec": 1591.7,
+    "text": "Disculpe me Discúlpeme 12"
+  },
+  {
+    "start_sec": 1591.7,
+    "end_sec": 1597.26,
+    "text": "480 la ponemos Y si pueden ver son 5000"
+  },
+  {
+    "start_sec": 1597.26,
+    "end_sec": 1600.68,
+    "text": "un dólares 5000 un dólares y estamos"
+  },
+  {
+    "start_sec": 1600.68,
+    "end_sec": 1602.6,
+    "text": "siguiendo lo que los parámetros que nos"
+  },
+  {
+    "start_sec": 1602.6,
+    "end_sec": 1604.52,
+    "text": "dijo la calculadora que ya se los"
+  },
+  {
+    "start_sec": 1604.52,
+    "end_sec": 1606.2,
+    "text": "muestro Bueno aquí estamos en los"
+  },
+  {
+    "start_sec": 1606.2,
+    "end_sec": 1608.3,
+    "text": "parámetros que nos da la calculadora si"
+  },
+  {
+    "start_sec": 1608.3,
+    "end_sec": 1612.26,
+    "text": "ven para 5000 de balance tenemos un"
+  },
+  {
+    "start_sec": 1612.26,
+    "end_sec": 1615.02,
+    "text": "riesgo el 1% tenemos la entrada en"
+  },
+  {
+    "start_sec": 1615.02,
+    "end_sec": 1620.18,
+    "text": "12.480 y el Stop los en 2005 10 y nos da"
+  },
+  {
+    "start_sec": 1620.18,
+    "end_sec": 1623.62,
+    "text": "un tamaño de lotes de"
+  },
+  {
+    "start_sec": 1623.62,
+    "end_sec": 1627.32,
+    "text": "16,667 lotes como ven acá pusimos lo"
+  },
+  {
+    "start_sec": 1627.32,
+    "end_sec": 1628.66,
+    "text": "mismo"
+  },
+  {
+    "start_sec": 1628.66,
+    "end_sec": 1632.96,
+    "text": "16,67 bueno casi lo mismo lotes y nos da"
+  },
+  {
+    "start_sec": 1632.96,
+    "end_sec": 1637.58,
+    "text": "un stop los de 5001 5001 eso no nos"
+  },
+  {
+    "start_sec": 1637.58,
+    "end_sec": 1639.98,
+    "text": "sirve eso no nos sirve Entonces qué"
+  },
+  {
+    "start_sec": 1639.98,
+    "end_sec": 1642.26,
+    "text": "Vamos a hacer vamos a probar como les"
+  },
+  {
+    "start_sec": 1642.26,
+    "end_sec": 1644.36,
+    "text": "dije correr la"
+  },
+  {
+    "start_sec": 1644.36,
+    "end_sec": 1646.7,
+    "text": "una unidad a la izquierda porque este es"
+  },
+  {
+    "start_sec": 1646.7,
+    "end_sec": 1649.22,
+    "text": "10 eso es un por 10 Se podría decir"
+  },
+  {
+    "start_sec": 1649.22,
+    "end_sec": 1651.58,
+    "text": "Entonces qué hacemos ponemos lo mismo"
+  },
+  {
+    "start_sec": 1651.58,
+    "end_sec": 1655.78,
+    "text": "16,6 te lo vamos a cambiar a"
+  },
+  {
+    "start_sec": 1655.78,
+    "end_sec": 1659.98,
+    "text": "1,667 vamos a ponerlo acá la entrada"
+  },
+  {
+    "start_sec": 1659.98,
+    "end_sec": 1665.68,
+    "text": "12.480 y acá la salida que es 12.000"
+  },
+  {
+    "start_sec": 1665.68,
+    "end_sec": 1668.56,
+    "text": "510 esto"
+  },
+  {
+    "start_sec": 1668.56,
+    "end_sec": 1672.5,
+    "text": "12.510 y sin límite ahora lo ponemos el"
+  },
+  {
+    "start_sec": 1672.5,
+    "end_sec": 1675.7,
+    "text": "problema es que se nos va a superponer"
+  },
+  {
+    "start_sec": 1675.7,
+    "end_sec": 1678.68,
+    "text": "no vamos a bajar un poquito porque eso"
+  },
+  {
+    "start_sec": 1678.68,
+    "end_sec": 1680.3,
+    "text": "va a poner una posición encima de la"
+  },
+  {
+    "start_sec": 1680.3,
+    "end_sec": 1682.1,
+    "text": "otra y no vamos a poder ver nada antes"
+  },
+  {
+    "start_sec": 1682.1,
+    "end_sec": 1683.8,
+    "text": "vamos a poner 12.000"
+  },
+  {
+    "start_sec": 1683.8,
+    "end_sec": 1686.02,
+    "text": "280 y 12"
+  },
+  {
+    "start_sec": 1686.02,
+    "end_sec": 1688.88,
+    "text": "mil tres 10 que lo mismo 30 puntos de"
+  },
+  {
+    "start_sec": 1688.88,
+    "end_sec": 1693.82,
+    "text": "ahora la ponemos Y si ven"
+  },
+  {
+    "start_sec": 1693.82,
+    "end_sec": 1698.84,
+    "text": "bastante bastante diferente el Stop los"
+  },
+  {
+    "start_sec": 1698.84,
+    "end_sec": 1700.94,
+    "text": "o el tamaño del stop los 100 dólares acá"
+  },
+  {
+    "start_sec": 1700.94,
+    "end_sec": 1703.82,
+    "text": "estamos arriesgando 1% de una cuenta de"
+  },
+  {
+    "start_sec": 1703.82,
+    "end_sec": 1706.94,
+    "text": "50.000 y acá estamos arriesgando 10% una"
+  },
+  {
+    "start_sec": 1706.94,
+    "end_sec": 1709.04,
+    "text": "cuenta de 50.000"
+  },
+  {
+    "start_sec": 1709.04,
+    "end_sec": 1710.96,
+    "text": "entonces hay que tener cuidado porque"
+  },
+  {
+    "start_sec": 1710.96,
+    "end_sec": 1714.5,
+    "text": "este es el 1% una cuenta de 50.000 y"
+  },
+  {
+    "start_sec": 1714.5,
+    "end_sec": 1716.72,
+    "text": "este es el 10% una cuenta de 50.000"
+  },
+  {
+    "start_sec": 1716.72,
+    "end_sec": 1718.58,
+    "text": "entonces por eso hay que tener cuidado"
+  },
+  {
+    "start_sec": 1718.58,
+    "end_sec": 1722.96,
+    "text": "de cuánto es lo que maneja el broker con"
+  },
+  {
+    "start_sec": 1722.96,
+    "end_sec": 1724.94,
+    "text": "respecto a esto por eso hay que estar"
+  },
+  {
+    "start_sec": 1724.94,
+    "end_sec": 1728.0,
+    "text": "muy pendientes sobre ello y Bueno hasta"
+  },
+  {
+    "start_sec": 1728.0,
+    "end_sec": 1730.16,
+    "text": "aquí el vídeo de hoy Espero que les haya"
+  },
+  {
+    "start_sec": 1730.16,
+    "end_sec": 1732.44,
+    "text": "gustado Espero que les sea útil que les"
+  },
+  {
+    "start_sec": 1732.44,
+    "end_sec": 1734.6,
+    "text": "permita crecer como traders tenemos"
+  },
+  {
+    "start_sec": 1734.6,
+    "end_sec": 1736.4,
+    "text": "Instagram para que nos sigan tenemos"
+  },
+  {
+    "start_sec": 1736.4,
+    "end_sec": 1738.2,
+    "text": "Twitter tenemos Facebook tenemos"
+  },
+  {
+    "start_sec": 1738.2,
+    "end_sec": 1741.02,
+    "text": "Telegram tenemos WhatsApp tenemos todo"
+  },
+  {
+    "start_sec": 1741.02,
+    "end_sec": 1744.98,
+    "text": "así que nada nada no les pesan y se les"
+  },
+  {
+    "start_sec": 1744.98,
+    "end_sec": 1747.68,
+    "text": "va a caer la mano dando un like cuando"
+  },
+  {
+    "start_sec": 1747.68,
+    "end_sec": 1750.56,
+    "text": "nos una seguida Así que les deseo un"
+  },
+  {
+    "start_sec": 1750.56,
+    "end_sec": 1752.18,
+    "text": "buen día tarde noche donde quiera que"
+  },
+  {
+    "start_sec": 1752.18,
+    "end_sec": 1755.36,
+    "text": "están y estamos para crecer como"
+  },
+  {
+    "start_sec": 1755.36,
+    "end_sec": 1758.06,
+    "text": "comunidad adiós"
+  },
+  {
+    "start_sec": 1758.06,
+    "end_sec": 1775.62,
+    "text": "[Música]"
+  }
+]

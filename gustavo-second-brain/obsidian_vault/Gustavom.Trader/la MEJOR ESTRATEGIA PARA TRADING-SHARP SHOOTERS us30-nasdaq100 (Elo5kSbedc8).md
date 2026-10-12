@@ -1,0 +1,2110 @@
+---
+source_id: YT_CANAL_02_Elo5kSbedc8
+video_id: Elo5kSbedc8
+channel: "Gustavom.Trader"
+published_at: 2022-05-25
+url: https://www.youtube.com/watch?v=Elo5kSbedc8
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 16
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# la MEJOR ESTRATEGIA PARA TRADING?-SHARP SHOOTERS [us30-nasdaq100]
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=Elo5kSbedc8)
+
+## Transcript
+
+```
+[00:00:01]
+ok pues vamos a empezar con las dos
+
+[00:00:04]
+estrategias que les había dicho este
+
+[00:00:06]
+muchos tenían preguntas tanto en youtube
+
+[00:00:10]
+como en telegrama habían descrito
+
+[00:00:12]
+gustado cuál es la estrategia que más
+
+[00:00:14]
+funciona veo que tú solamente estás
+
+[00:00:16]
+operando lo que es el nasdaq en los 30
+
+[00:00:19]
+us no no pones tantas operaciones
+
+[00:00:22]
+no manda siempre operaciones bueno la
+
+[00:00:25]
+que yo estoy prefiriendo porque me gusta
+
+[00:00:27]
+más el paro ahorita es lo que es el nada
+
+[00:00:30]
+el nada me gusta mucho más pero
+
+[00:00:32]
+funcionan las dos sinceramente yo lo he
+
+[00:00:35]
+probado también he probado en el s p500
+
+[00:00:38]
+porque los tres indicios de usted saben
+
+[00:00:40]
+que se comportan de manera muy similar
+
+[00:00:42]
+tanto el nasdaq como el s p500 como los
+
+[00:00:46]
+30 fíjense la entrada que tuvimos ahora
+
+[00:00:49]
+tuvimos esta entrada y si nos vamos al
+
+[00:00:53]
+al dow jones el a los 30 tuvimos también
+
+[00:00:56]
+esta entrada pero aquí primero nos hizo
+
+[00:00:58]
+un engaño fíjense el nasdaq se fue
+
+[00:01:00]
+limpio y el dow jones y nos hizo un
+
+[00:01:02]
+falso rompimiento arriba en el arriba en
+
+[00:01:05]
+la parte alta del rango entonces
+
+[00:01:07]
+yo back testeando lo me di cuenta que
+
+[00:01:10]
+para mí hay baches aquí podríamos poner
+
+[00:01:13]
+música épica el ganador para mí en lo
+
+[00:01:15]
+particular donde yo me siento más cómodo
+
+[00:01:17]
+es en el nada no quiere decir que no
+
+[00:01:20]
+funcionen en el dow jones en los dos
+
+[00:01:22]
+funciona pero en el nada me siento mucho
+
+[00:01:24]
+más cómodo porque muchas de las veces
+
+[00:01:27]
+esos esos
+
+[00:01:28]
+rechazos no están bravos como quien dice
+
+[00:01:31]
+que como podríamos decir no es tan
+
+[00:01:33]
+volátil que no se mueve tan fuerte que
+
+[00:01:35]
+adentro de los índices por los todos los
+
+[00:01:37]
+índices se mueven fuertes no el nada
+
+[00:01:39]
+girl y los 30 los que vengan de forest y
+
+[00:01:41]
+que nunca habían operado índices deben
+
+[00:01:44]
+de saber que los los tres índices se
+
+[00:01:46]
+mueven fuerte el s p500 desde el más
+
+[00:01:49]
+tranquilo les decía que con la cuestión
+
+[00:01:51]
+del s p500 yo lo probé funciona pero no
+
+[00:01:54]
+me llega a convencer por eso nunca les
+
+[00:01:56]
+hable del s p500 y yo dónde estoy
+
+[00:01:59]
+aplicando ahorita con pruebas de fondeo
+
+[00:02:02]
+en la estoy aplicando con el nasdaq con
+
+[00:02:07]
+el ves 30 lo estoy dejando poquito de
+
+[00:02:09]
+lado alguna otra cuenta pero ya
+
+[00:02:11]
+diferente a la cuenta principal que yo
+
+[00:02:13]
+estoy operando a mí me di cuenta que yo
+
+[00:02:15]
+le llamo entonces ya va en cuestión de
+
+[00:02:19]
+gustos pero en el back testing si nos
+
+[00:02:21]
+está arrojando
+
+[00:02:22]
+mucho mejor porcentaje lo que es el
+
+[00:02:25]
+nasdaq que lo es 30 que es lo que tiene
+
+[00:02:28]
+los 30 que lo diferencia muchas de las
+
+[00:02:30]
+veces el nadando nos da la entrada y en
+
+[00:02:32]
+los 30 así muchas de las veces entonces
+
+[00:02:36]
+entonces ahí van a van a ustedes a notar
+
+[00:02:40]
+que que muchas de las veces el nasdaq
+
+[00:02:44]
+nos da la entrada y el 30 no
+
+[00:02:48]
+fíjense este día por ejemplo en el bus
+
+[00:02:52]
+30 nos dio un falto rompimiento y luego
+
+[00:02:54]
+si se fue y en el nasdaq no en el nasdaq
+
+[00:02:57]
+en el segundo día en este de planos y
+
+[00:03:00]
+nos dio nos dio el mismo falta
+
+[00:03:02]
+rompimiento pero nos dio menos puntos
+
+[00:03:04]
+entonces el que yo estoy prefiriendo es
+
+[00:03:07]
+el es el nada
+
+[00:03:09]
+también los rangos suelen ser mucho más
+
+[00:03:12]
+cortitos los de los del nasdaq los de
+
+[00:03:15]
+los 30 son más amplios y también otra de
+
+[00:03:18]
+las cosas es que el nasdaq y el
+
+[00:03:21]
+nasdaq se va primero rompe primero y ya
+
+[00:03:25]
+después le sigue el best 30 pero en
+
+[00:03:27]
+general es eso tienen hasta aquí alguna
+
+[00:03:30]
+pregunta sobre las estrategias del
+
+[00:03:32]
+horario o algo así
+
+[00:03:36]
+tienen alguna pregunta que diga nada yo
+
+[00:03:39]
+me quedé con esta duda y la verdad no no
+
+[00:03:43]
+sé del rango ok el rango los dos en los
+
+[00:03:47]
+dos índices es el mismo fíjense el rango
+
+[00:03:50]
+que yo estoy manejando siempre lo pongo
+
+[00:03:51]
+no era nueva york porque pues cada quien
+
+[00:03:53]
+está en diferentes partes después de
+
+[00:03:55]
+estar en en colombia pueden estar en
+
+[00:03:58]
+ciudad de méxico en el salvador o no sé
+
+[00:04:01]
+yo en mi caso tengo el horario de los
+
+[00:04:03]
+ángeles porque estoy en el norte de
+
+[00:04:05]
+maine de méxico pero siempre lo pongo lo
+
+[00:04:09]
+pongo o lo pongo en el horario de nueva
+
+[00:04:11]
+york y el rango que nosotros estamos
+
+[00:04:13]
+manejando es el rango de las 5 de la
+
+[00:04:16]
+mañana hora de nueva york hasta las 8 de
+
+[00:04:20]
+la mañana hora de nueva york es el rango
+
+[00:04:22]
+que estamos manejando ese es el rango
+
+[00:04:24]
+qué manera que yo iba testeado y que he
+
+[00:04:28]
+visto que funciona es ese es el rango
+
+[00:04:30]
+que dices mira es que aquí pues muchas
+
+[00:04:33]
+veces me da estos muchachitos tipos aquí
+
+[00:04:34]
+me saca pues sí pero la estrategia va
+
+[00:04:37]
+así así va es lo que yo he probado y los
+
+[00:04:40]
+que también se pregunten gustado yo
+
+[00:04:42]
+puedo modificar el rango
+
+[00:04:43]
+y ponerlo no sé que a partir de las 00 o
+
+[00:04:46]
+agarrar desde que habré londres adelante
+
+[00:04:49]
+los que quieran probar pruébenlo lo
+
+[00:04:51]
+pueden modificar el rango como ustedes
+
+[00:04:53]
+gusten lo que yo les digo es lo que a mí
+
+[00:04:55]
+me funciona a mí me funciona el rango de
+
+[00:04:58]
+las 5 a las 8 y puedo meter la entrada a
+
+[00:05:01]
+partir de ese horario entonces aquí sí
+
+[00:05:03]
+siempre yo les estoy en telegram
+
+[00:05:05]
+mandando la imagen cita si se fijan
+
+[00:05:07]
+trato de hacerlo todos los días al menos
+
+[00:05:09]
+algún día que no pueda pero casi siempre
+
+[00:05:11]
+yo me levanto media hora antes de lo que
+
+[00:05:14]
+habrá de que cierre el rango y ya yo
+
+[00:05:16]
+analizo y como entro es que yo pongo un
+
+[00:05:20]
+bus stop o un stop en cualquiera de los
+
+[00:05:22]
+dos lados y donde rompa primero está la
+
+[00:05:25]
+entrada que tomo por ejemplo en este
+
+[00:05:26]
+caso rompió primero acá y ya aquí con la
+
+[00:05:29]
+gestión de riesgo en la estrategia
+
+[00:05:32]
+original yo les había puesto que
+
+[00:05:34]
+solamente tomaba una entrada pero lo que
+
+[00:05:36]
+estoy ahorita tomando es tomando dos
+
+[00:05:38]
+entradas y dividir el riesgo que estoy
+
+[00:05:41]
+metiendo por ejemplo en esta entrada
+
+[00:05:42]
+estuviera metiendo 0.5 por ciento y en
+
+[00:05:46]
+esta otra entrada estoy metiendo 0.5 por
+
+[00:05:49]
+ciento
+
+[00:05:50]
+lo que estoy haciendo yo para cuando me
+
+[00:05:52]
+saca el primer la primera entrada me
+
+[00:05:55]
+meto en la segunda por ejemplo en esta
+
+[00:05:56]
+me metí en la segunda eso es lo que yo
+
+[00:05:59]
+estoy haciendo pueden ustedes hacerlo
+
+[00:06:01]
+probarlo con una también porque muchas
+
+[00:06:04]
+de las veces se va de una y ya nunca
+
+[00:06:06]
+vuelve al rango fíjense se los va a
+
+[00:06:08]
+demostrar por ejemplo el nasdaq qué día
+
+[00:06:11]
+más qué día sucedió así
+
+[00:06:15]
+vamos a borrar esto
+
+[00:06:18]
+sucedió fíjense este día
+
+[00:06:21]
+agarró la primera entrada se fue ella
+
+[00:06:23]
+nunca volvió entonces esos días son los
+
+[00:06:26]
+que les digo ustedes deben de bach
+
+[00:06:28]
+testearlo por lo menos yo recomendaría
+
+[00:06:30]
+que hicieran un back testing de seis
+
+[00:06:33]
+meses por lo menos los que no sepan
+
+[00:06:35]
+entrar porque me están muchos me están
+
+[00:06:37]
+preguntando y yo tengo una cuenta
+
+[00:06:39]
+pequeña es te puedo operar los índices
+
+[00:06:41]
+porque hay muchas personas que no han
+
+[00:06:43]
+operado los índices en su vida los
+
+[00:06:45]
+índices son extremadamente volátiles y
+
+[00:06:47]
+yo recomiendo que tengan una buena
+
+[00:06:48]
+cuenta grande no recomiendo operar los
+
+[00:06:51]
+con cuentas de 100 200 300 dólares
+
+[00:06:54]
+mínimo lo que yo estaría recomendándoles
+
+[00:06:56]
+que operarán estos índices es con una
+
+[00:06:59]
+cuenta de diez mil dólares de diez mil
+
+[00:07:01]
+dólares para arriba
+
+[00:07:03]
+por ahí a ver andrés me pone se podría
+
+[00:07:06]
+marcar de 9 a 9 20 he visto que también
+
+[00:07:08]
+marcan ese rango ahora nueva york
+
+[00:07:09]
+ustedes pueden marcar realmente el rango
+
+[00:07:12]
+que ustedes quieran pero háganle su
+
+[00:07:15]
+debido backtesting si ven que ustedes a
+
+[00:07:17]
+la mejor dices gustavo a mí me funciona
+
+[00:07:19]
+marcar el rango desde aquí desde las 22
+
+[00:07:23]
+30 horas-- nueva york hasta a las c
+
+[00:07:27]
+hasta las 9 30 y marcan ese rango si
+
+[00:07:30]
+ustedes les funciona ese rango mejor que
+
+[00:07:32]
+el que yo le estoy proponiendo pues
+
+[00:07:34]
+adelante lo pueden hacer
+
+[00:07:36]
+sin problemas no hay aquí la verdad
+
+[00:07:38]
+absoluta para nadie no es que lo que yo
+
+[00:07:41]
+diga sea la verdad simplemente yo les
+
+[00:07:43]
+enseño lo que a mí me funciona y como yo
+
+[00:07:45]
+tengo la estrategia eso es lo que yo
+
+[00:07:47]
+estoy haciendo también con la cuestión
+
+[00:07:49]
+del riesgo pues les digo que pueden
+
+[00:07:50]
+tomar dos operaciones o una igual pueden
+
+[00:07:53]
+tomar hasta tres yo no recomendaría
+
+[00:07:55]
+tomar ya más de tres operaciones de tres
+
+[00:07:58]
+tiros puesto sea y tampoco recomendaría
+
+[00:08:01]
+en esta estrategia estar arriesgando más
+
+[00:08:03]
+de 1 por ciento de su cuenta 1 por
+
+[00:08:06]
+ciento de su cuenta es lo que yo
+
+[00:08:07]
+recomendaría que estuvieran arriesgando
+
+[00:08:09]
+porque la estadística nos da que está
+
+[00:08:12]
+estas estrategias son rentables entre un
+
+[00:08:15]
+60 a un
+
+[00:08:18]
+50%
+
+[00:08:21]
+más o menos está teniendo para él para
+
+[00:08:23]
+que sepan más o menos que está teniendo
+
+[00:08:25]
+pierde 2 y gana 3 o pierde 3 y gana dos
+
+[00:08:29]
+más o menos es es la media sobre la que
+
+[00:08:32]
+se mantiene y te gana te gana 3 y te
+
+[00:08:35]
+pierde 2 más o menos en la media pero
+
+[00:08:38]
+nosotros como tenemos ratios de hípica
+
+[00:08:40]
+estamos poniendo unos ratios y aquí
+
+[00:08:42]
+tenemos una posición corta de 1 a 3
+
+[00:08:46]
+pues al final del día vamos a ser
+
+[00:08:48]
+rentables porque por cada uno que
+
+[00:08:50]
+perdemos ganamos 3 esa es la idea que
+
+[00:08:53]
+con la
+
+[00:08:54]
+con la con la estrategia otra pregunta
+
+[00:08:57]
+también que me estaba acordando que me
+
+[00:08:59]
+hacían mucho es que si se puede operar
+
+[00:09:01]
+en tokio wikis y se puede esperar en
+
+[00:09:03]
+otras sesiones inicialmente está hecha
+
+[00:09:06]
+solamente para operar la sesión de nueva
+
+[00:09:08]
+york solamente en la sesión de nueva
+
+[00:09:10]
+york exactamente lo que ya lo que muchos
+
+[00:09:13]
+conocen como la killzone que es cuando
+
+[00:09:15]
+es abre cuando abre la bolsa se abren
+
+[00:09:19]
+todas las acciones que es aquí a las 9
+
+[00:09:21]
+30 hora nueva york y está la sesión de
+
+[00:09:24]
+londres activa fíjense que yo tengo una
+
+[00:09:26]
+franja está aquí azul tengo una franja
+
+[00:09:28]
+verde y una roja por qué porque cuando
+
+[00:09:31]
+se va a la sesión de londres es cuando
+
+[00:09:33]
+ya dejó de operar es cuando ya no busco
+
+[00:09:36]
+entradas y mis entradas se dieron a esta
+
+[00:09:38]
+horario yo ya no estoy buscando más
+
+[00:09:40]
+entradas fin sé por ejemplo ahora
+
+[00:09:43]
+ahora se dieron estas tres entradas ese
+
+[00:09:46]
+es un ejemplo que les quería dar primero
+
+[00:09:48]
+se dio esta entrada a la apertura rompió
+
+[00:09:51]
+el rango y nos dio el 13 que nosotros
+
+[00:09:54]
+siempre buscamos no otra cosa también
+
+[00:09:57]
+antes de pasar con lo que les quería
+
+[00:10:01]
+y enseñar
+
+[00:10:04]
+lo que es la cuestión del rango del
+
+[00:10:08]
+ratio ustedes pueden aumentarlo también
+
+[00:10:10]
+o pueden poner un pp este dinámico si
+
+[00:10:15]
+ustedes quieren por ejemplo esta entrada
+
+[00:10:17]
+era 1 a 3 originalmente que es lo que
+
+[00:10:18]
+nosotros tomamos pero se fue 1 a 5
+
+[00:10:22]
+ustedes también pueden poner ratios más
+
+[00:10:24]
+grandes pero está aprobada que casi
+
+[00:10:26]
+siempre o la mayoría de las veces te
+
+[00:10:28]
+está dando 90 puntos es lo que nosotros
+
+[00:10:31]
+estamos buscando 90 puntos en el nasdaq
+
+[00:10:33]
+en la cuestión del
+
+[00:10:37]
+de los 30 nosotros estamos buscando
+
+[00:10:39]
+fíjense estamos buscando 150 y le
+
+[00:10:43]
+ponemos 50 puntos de stop loss porque 50
+
+[00:10:47]
+de los 30 porque es mucho más volátil y
+
+[00:10:50]
+a veces esos movimientos de esos
+
+[00:10:52]
+muchachos los pueden llegar a sacar
+
+[00:10:54]
+entonces por eso es que utilizó un
+
+[00:10:56]
+poquito más de stop loss entonces en
+
+[00:10:59]
+resumen las dos funcionan fíjense aquí
+
+[00:11:04]
+operamos la primera entrada luego se
+
+[00:11:07]
+daba la segunda reentrada porque la
+
+[00:11:09]
+segunda reentrada me dicen porque vuelve
+
+[00:11:11]
+a otra es el rango se mete en el rango y
+
+[00:11:13]
+se vuelve a romper otra vez puedo yo
+
+[00:11:15]
+operarlo otra vez tanto si rompe para
+
+[00:11:17]
+arriba
+
+[00:11:19]
+como si vuelve a romper para abajo puedo
+
+[00:11:21]
+volverme a meter
+
+[00:11:23]
+se puede entrar en temporalidad de un
+
+[00:11:26]
+minuto me dice por ahí jorge claro que
+
+[00:11:28]
+si se pueden traer en temporal diez
+
+[00:11:29]
+minutos yo lo veo en cinco minutos
+
+[00:11:31]
+siguiente yo los estoy viendo en cinco
+
+[00:11:33]
+minutos los rangos porque porque me lo
+
+[00:11:35]
+veo más fácil más claro pero ustedes
+
+[00:11:38]
+también lo pueden ver en temporalidad es
+
+[00:11:40]
+de dos minutos de incluso de un minuto
+
+[00:11:44]
+si lo quieren ver en temporalidad es de
+
+[00:11:46]
+un minuto también fíjense temporalidad
+
+[00:11:49]
+es de un minuto se pueden meter muchos
+
+[00:11:51]
+también me están preguntando gustado
+
+[00:11:53]
+podemos entrar no por el estado o por we
+
+[00:11:56]
+stop porque aquí yo meto un we stop para
+
+[00:11:59]
+decir rompe para arriba y unos el stop
+
+[00:12:00]
+para que en cuanto rompa el rango dentro
+
+[00:12:03]
+yo pues podemos entrar al mercado
+
+[00:12:05]
+también estará vigilando la operación y
+
+[00:12:07]
+entra al mercado claro que sí también se
+
+[00:12:08]
+puede entrar mercados en cuanto vean
+
+[00:12:10]
+ustedes que rompió el rango se mete
+
+[00:12:12]
+también hay unas personas que entran con
+
+[00:12:14]
+cuerpo de vela también si la vela por
+
+[00:12:17]
+ejemplo aquí no entran ellos entran
+
+[00:12:20]
+cuando una velita de ésta rompa con un
+
+[00:12:22]
+cuerpo también se pueden meter pero todo
+
+[00:12:24]
+eso amigos todos esos parámetros temen
+
+[00:12:28]
+que ustedes hacerle su debido
+
+[00:12:30]
+backtesting no sean muchas personas son
+
+[00:12:32]
+flojas y quieren todo fácil esta
+
+[00:12:36]
+estrategia ya es muy fácil ya es muy
+
+[00:12:37]
+sencilla pero háganle su debido back
+
+[00:12:39]
+textil porque luego si por algunas
+
+[00:12:42]
+cuestiones del destino ustedes están
+
+[00:12:46]
+entrando mal lo están haciendo alguna
+
+[00:12:48]
+cosa mal y no les funciona pues lo van a
+
+[00:12:50]
+venir conmigo van a decir que perdieron
+
+[00:12:53]
+su dinero por mi culpa es simplemente no
+
+[00:12:55]
+es esta estrategia es así y ustedes
+
+[00:12:59]
+hagan su trabajo de bach testing fíjense
+
+[00:13:01]
+meto la primera operación la segunda y
+
+[00:13:03]
+ya la tercera como está fuera de mi
+
+[00:13:05]
+horario por qué porque aquí ya salió el
+
+[00:13:07]
+volumen de lo que es londres ya es
+
+[00:13:09]
+cuando yo decido ya no operar entonces
+
+[00:13:11]
+esta franja roja que tengo yo aquí que
+
+[00:13:14]
+ustedes la pueden ubicar en los
+
+[00:13:16]
+indicadores en lo que es el time zone
+
+[00:13:19]
+buscan el indicador de time zone y usted
+
+[00:13:21]
+la la pone en el horario que ustedes
+
+[00:13:23]
+quieren porque porque yo en mi plan de
+
+[00:13:25]
+trading yo tengo que solamente operó
+
+[00:13:28]
+desde lo que es desde que abre el rango
+
+[00:13:31]
+pongo mis posiciones de las 8 de la
+
+[00:13:33]
+mañana hora de nueva york hasta las
+
+[00:13:35]
+hasta las 9
+
+[00:13:38]
+930 y ya hasta las 12 30 hora nueva
+
+[00:13:42]
+georgia yo paro mi operativa esta
+
+[00:13:44]
+entrada la metí y ahora con menos riesgo
+
+[00:13:47]
+porque pues ya tenía mi día hecho con
+
+[00:13:50]
+esta primera entonces decidí arriesgarme
+
+[00:13:52]
+con esta segunda porque me gustó
+
+[00:13:54]
+bastante por estrategia y por también
+
+[00:13:56]
+conceptos de lo que smart money también
+
+[00:13:59]
+me gustó y aparte fíjense que estaba
+
+[00:14:01]
+rozando mi horario de operativa fíjense
+
+[00:14:04]
+que aquí yo por por por la dejé correr
+
+[00:14:07]
+un poquito más para que llegara el pp
+
+[00:14:08]
+pero ya
+
+[00:14:10]
+no debí de haber hecho esto incluso
+
+[00:14:12]
+porque mi plan de trading solamente lo
+
+[00:14:15]
+tengo hasta las 12 30 de hecho cuando se
+
+[00:14:17]
+hicieron las 1230 a caballo a punto de
+
+[00:14:19]
+cerrar pero lo que hice es baje el lcl
+
+[00:14:21]
+lo protege y dije ya así se regresa pues
+
+[00:14:25]
+ya me salgo no pero se fue al pp
+
+[00:14:27]
+claramente y muy buena luego se da esta
+
+[00:14:29]
+segunda pero esta tercera perdón igual
+
+[00:14:31]
+con la misma método con el mismo método
+
+[00:14:33]
+igual pero ya no ya está ya no la ya no
+
+[00:14:37]
+la metí porque porque ya no lamente
+
+[00:14:38]
+porque ya no estaba bajo mi plan de
+
+[00:14:40]
+trading ustedes es importante que tienen
+
+[00:14:42]
+que hagan su plan de trading se van a
+
+[00:14:44]
+utilizar esta estrategia esto rentable
+
+[00:14:46]
+por ahí muchos en youtube me están
+
+[00:14:48]
+diciendo nada este no sirve que porque
+
+[00:14:50]
+muchas éste sacamos los mechas o sí
+
+[00:14:52]
+porque tienen tienen sus cosas no es
+
+[00:14:54]
+perfecta a fin de no es perfecta y no
+
+[00:14:56]
+van a ganar todos los días tampoco se
+
+[00:14:58]
+van a hacer millonarios de la noche a la
+
+[00:15:00]
+mañana pero es una estrategia rentable
+
+[00:15:02]
+que funciona como muchas otras que en
+
+[00:15:04]
+los mercados hay bastantes estrategias y
+
+[00:15:07]
+estos funcionan de los dos índices o
+
+[00:15:09]
+entonces para resumir les yo me quedaría
+
+[00:15:11]
+con el nasdaq porque es el que más a mí
+
+[00:15:13]
+me gusta y aparte porque lleva mucho
+
+[00:15:15]
+tiempo viéndolo pero que le guste más el
+
+[00:15:17]
+30 el bus 30 también sabiendo sus buenos
+
+[00:15:20]
+días siguiente hay días que que fíjense
+
+[00:15:23]
+los 30 aquí te dio una siguiente aquí te
+
+[00:15:26]
+da otra hay hay buenas también en los 30
+
+[00:15:29]
+y también en los 30 lo que tiene al ser
+
+[00:15:31]
+mucho más volátil pues muy rápido se va
+
+[00:15:33]
+también se va rapidito al tp pero
+
+[00:15:36]
+fíjense que está rompiendo casi siempre
+
+[00:15:37]
+en el rango realmente lo lo que son son
+
+[00:15:40]
+detallitos acá la mejor a veces no saca
+
+[00:15:42]
+porque se regresa un poquito más del
+
+[00:15:44]
+estado blogs éste rompe un poquito y
+
+[00:15:47]
+luego se regresa son detallitos pero
+
+[00:15:50]
+casi siempre la dirección la tenemos
+
+[00:15:51]
+correcta casi siempre acepción de esos
+
+[00:15:53]
+días fíjense hay días donde se pone
+
+[00:15:55]
+hacer rango todo el día como este día se
+
+[00:15:58]
+puso hacer rango todo el día y pues ahí
+
+[00:16:00]
+ya pues esos días no tenemos que
+
+[00:16:02]
+aguantar porque no es una estrategia de
+
+[00:16:04]
+rango pero fíjense fíjense está esta
+
+[00:16:07]
+hermosura aquí que hay fíjense el rango
+
+[00:16:09]
+y mira qué hermoso rompe y fíjense el pp
+
+[00:16:12]
+que nos da
+
+[00:16:14]
+y aquí pongo mi posición yo ya la tengo
+
+[00:16:17]
+configurada aquí automáticamente 50
+
+[00:16:20]
+stop-loss y 150 1 a 3 fíjense vamos a
+
+[00:16:24]
+ver ahorita aquí en 15 minutos para ver
+
+[00:16:28]
+cuánto nos dio bueno en 5
+
+[00:16:31]
+para ver para ver cuánto se tardó en
+
+[00:16:34]
+darnos el pp porque esa es otra otra
+
+[00:16:37]
+buena cosa que tiene la estrategia es
+
+[00:16:39]
+que nosotros nos vamos muy rápido para
+
+[00:16:41]
+las personas que trabajan
+
+[00:16:43]
+yo trabajo todavía tengo un trabajo
+
+[00:16:45]
+también que hago hay algunas otras cosas
+
+[00:16:49]
+entonces no estoy pegado el gráfico todo
+
+[00:16:51]
+el día y esta estrategia yo la diseñé la
+
+[00:16:54]
+verdad no no voy a ser sincero no es mía
+
+[00:16:56]
+propia pero muchos de los parámetros yo
+
+[00:16:59]
+son propios míos y es institucional me
+
+[00:17:02]
+la enseñó un trader institucional hace
+
+[00:17:04]
+mucho pero pero yo no lo había usado por
+
+[00:17:06]
+cuestiones de que está operando otros
+
+[00:17:09]
+pares pero bueno en fin esta estrategia
+
+[00:17:12]
+lo que me gusta fíjense en 5 10 15 20 25
+
+[00:17:15]
+30 35 40 45 50
+
+[00:17:20]
+55 minutos y tienes tu día hecho tú
+
+[00:17:24]
+tienes un 1 a 3 fíjate un 13 simplemente
+
+[00:17:27]
+si tú haces una operación de éstas a la
+
+[00:17:30]
+semana tú en el mester una sola
+
+[00:17:32]
+operación tú nomás ocupadas una
+
+[00:17:34]
+operación de éstas a la semana tú
+
+[00:17:36]
+tendrías un 12 por ciento de tu cuenta
+
+[00:17:39]
+imagínense un 12 por ciento de su cuenta
+
+[00:17:41]
+de diez mil dólares
+
+[00:17:44]
+solamente haciendo una operación
+
+[00:17:46]
+dedicándole al día a la semana más voy a
+
+[00:17:49]
+decir porque solamente es una operación
+
+[00:17:51]
+dedicándole solamente a la semana
+
+[00:17:53]
+55 minutos podríamos decir que más
+
+[00:17:56]
+poquito más de una hora porque te
+
+[00:17:58]
+levantas pues un poquito antes nos
+
+[00:18:00]
+podríamos decir que le dedicaste es una
+
+[00:18:02]
+hora 30 de la semana solamente
+
+[00:18:04]
+trabajaste sunat una hora y media de la
+
+[00:18:07]
+semana y obtuviste es pues 1200 dólares
+
+[00:18:10]
+de una cuenta de una prueba de fondeo
+
+[00:18:12]
+que más o menos
+
+[00:18:13]
+descontando lo que se lleva la prueba
+
+[00:18:16]
+del perdón es lo que la compañía te va a
+
+[00:18:19]
+sacar más o menos mil dólares ya si tú
+
+[00:18:22]
+tienes una cuenta de cien mil dólares
+
+[00:18:23]
+pues serían diez mil dólares
+
+[00:18:26]
+diez mil dólares de una cuenta de 100
+
+[00:18:28]
+mil dólares solamente dedicando una hora
+
+[00:18:30]
+de una hora y media de trading a la
+
+[00:18:33]
+semana vamos eso no es o no es esto un
+
+[00:18:39]
+sistema de trading bueno yo se los dejo
+
+[00:18:42]
+ahí a ustedes a su criterio para mí este
+
+[00:18:45]
+excelente ahora si quieren ya ir más
+
+[00:18:48]
+allá y trata que te dé un poquito más
+
+[00:18:51]
+por ejemplo el nasdaq en uno de los
+
+[00:18:53]
+meses que yo le hice back test y nos
+
+[00:18:55]
+estaba arrojando un 25 por ciento de
+
+[00:18:59]
+rentabilidad
+
+[00:19:01]
+25 por ciento de la cuenta nos está
+
+[00:19:03]
+arrojando en los meses de backtesting lo
+
+[00:19:06]
+que es el nada por ahí también un
+
+[00:19:07]
+muchacho me escribía en el telegrama
+
+[00:19:09]
+como vas con tus ganancias la estrategia
+
+[00:19:12]
+ya me estaba arrojando 98 por ciento
+
+[00:19:14]
+entre mamás lo que es este mes
+
+[00:19:17]
+imagínense entonces es una estrategia
+
+[00:19:20]
+muy buena es muy sencilla te permite
+
+[00:19:23]
+estar pegado al computador bien poquito
+
+[00:19:26]
+lo mínimo de tiempo entonces
+
+[00:19:28]
+prueben la bacteria en los dos pares y
+
+[00:19:31]
+de plano ustedes tú me dices gustado a
+
+[00:19:33]
+mí me gusta más el nada de la verdad
+
+[00:19:35]
+pues vete de una con el nada si te gusta
+
+[00:19:37]
+y me dices gustado me dé una me
+
+[00:19:40]
+gusta más el best 30 pues vete de una
+
+[00:19:42]
+con el best 30 este adelante es lo que
+
+[00:19:46]
+yo he bateado para darle su de vídeo
+
+[00:19:47]
+backtesting y también está la opción
+
+[00:19:49]
+para los que quieran de operar los dos
+
+[00:19:51]
+índices pueden dividir el 0.5 por ciento
+
+[00:19:54]
+en el nasdaq y el ser y el otro 0.5 por
+
+[00:19:58]
+ciento en el west 30 también se va al
+
+[00:20:00]
+que has operando las dos estrategias
+
+[00:20:03]
+seguramente están arrojando a una
+
+[00:20:06]
+rentabilidad diferente por ahí me me
+
+[00:20:09]
+pone como configurar la entrada para que
+
+[00:20:12]
+tenga de 50 de pro físicos ok lo de esto
+
+[00:20:16]
+ahora para que solamente solito la
+
+[00:20:18]
+pongas vea le pones aquí posición corta
+
+[00:20:21]
+como tú la tengas y por ejemplo aquí te
+
+[00:20:25]
+vas a entrar aquí le pones el beneficio
+
+[00:20:27]
+que en este caso son 3 y 300 los que yo
+
+[00:20:31]
+le pongo y aquí le pongo 50 si no me
+
+[00:20:33]
+equivoco
+
+[00:20:38]
+son 50 y 150 perdón me fui con 1 a 100 1
+
+[00:20:42]
+a 350 ya que la tienes ahí aquí en lo
+
+[00:20:46]
+que es el estilo le puedes cambiar los
+
+[00:20:47]
+colores hitos como a ti te guste y ya le
+
+[00:20:50]
+hace aquí en plantilla y le hacen
+
+[00:20:51]
+guardar como ya le pones el nombre que
+
+[00:20:53]
+quieras por ejemplo yo le pone ese
+
+[00:20:54]
+nombre no y hace queda solitaria cuando
+
+[00:20:57]
+tú pones una entrada random
+
+[00:21:00]
+posición
+
+[00:21:01]
+que tiene que ser igual corta pones una
+
+[00:21:04]
+corta y ya le das aquí en los tres
+
+[00:21:06]
+cuadritos más el más que te sale aquí
+
+[00:21:08]
+que te dice plantilla y ya le te va a
+
+[00:21:11]
+salir tu entrada que tú tengas yo aquí
+
+[00:21:12]
+tengo diferentes etapas porque operó
+
+[00:21:14]
+algunos otros pares también
+
+[00:21:16]
+entonces
+
+[00:21:19]
+aquí le pongo la que yo había hecho que
+
+[00:21:21]
+era ésta y así solito se pone jazz
+
+[00:21:24]
+solito como se calcula lo traje bueno lo
+
+[00:21:28]
+de lo traje para calcularlo
+
+[00:21:31]
+lo puedes calcular dependiendo tu cuenta
+
+[00:21:34]
+dependiendo tu cuenta tiene que calcular
+
+[00:21:37]
+cuántos pips está moviendo tu broker y
+
+[00:21:40]
+cuántos puntos cuánto vale el punto por
+
+[00:21:44]
+ejemplo el punto en el dow jones cuánto
+
+[00:21:45]
+vale referente a
+
+[00:21:47]
+la cuenta que tú tienes si tú tienes no
+
+[00:21:50]
+sé si tienes diez mil cien mil o lo que
+
+[00:21:52]
+tú tengas y ahí vas a calcular el 1% de
+
+[00:21:54]
+tu cuenta en este caso en una de diez
+
+[00:21:56]
+mil dólares pues serían 100 dólares lo
+
+[00:21:59]
+que tú tendrías que arriesgar entonces
+
+[00:22:01]
+ahora para arriesgar los 30 puntos que o
+
+[00:22:03]
+los 50 que aquí te pide pues a lo mejor
+
+[00:22:06]
+si el punto vale un dólar pues vas a
+
+[00:22:09]
+meter dos lotes ya es de depende del
+
+[00:22:12]
+broker porque los brokers no todos los
+
+[00:22:15]
+bloques son iguales entonces o puedes
+
+[00:22:17]
+buscar también en internet hay muchas
+
+[00:22:19]
+calculadoras online de lota yo lo que
+
+[00:22:22]
+normalmente hacía era cuando tenía una
+
+[00:22:25]
+cuenta ahí les va un secreto un buen 11
+
+[00:22:28]
+que un tipo cuando tenía una cuenta
+
+[00:22:29]
+nueva lo que metía lo que hacía era por
+
+[00:22:31]
+ejemplo si quería operar luz
+
+[00:22:33]
+el dow jones metía un 0.1 y ya veía
+
+[00:22:37]
+cuánto valía y ya ahí calculaba pues con
+
+[00:22:40]
+0.1 me está agarrando un dólar pues con
+
+[00:22:43]
+punto 1 me va a valer 10 dólares el
+
+[00:22:45]
+punto y ya veía cuántos puntos quiero no
+
+[00:22:48]
+pues quiero 30 para arriesgar 30 dólares
+
+[00:22:50]
+entonces ya le metí a este punto 1 es lo
+
+[00:22:55]
+que yo hacía
+
+[00:22:56]
+y si no pues se pueden ir a una
+
+[00:22:58]
+calculadora de eso se puede pasar la
+
+[00:23:02]
+prueba sólo con eso claro se puede pasar
+
+[00:23:04]
+la prueba de fondo sólo con eso yo les
+
+[00:23:06]
+tengo una cosa preparada pero después
+
+[00:23:09]
+cuando cuando tenga los resultados les
+
+[00:23:11]
+voy a les voy a dar se los voy a
+
+[00:23:13]
+comunicar ahí por tele gran pero estamos
+
+[00:23:16]
+ahí haciendo algo con esta estrategia
+
+[00:23:18]
+con una cuenta grande grande y pero
+
+[00:23:22]
+ahorita no quiero decir nada porque ya
+
+[00:23:24]
+ya saben este hasta que tenga un buen
+
+[00:23:26]
+resultado yo se los traigo yo no les voy
+
+[00:23:28]
+a traer nunca información que no haya
+
+[00:23:31]
+probado y que no haya testeado sino de
+
+[00:23:33]
+probable información y no la ha testeado
+
+[00:23:34]
+nos los va a traer como por ejemplo el s
+
+[00:23:36]
+p500 lo provee
+
+[00:23:39]
+por la cuestión de que es mucho más
+
+[00:23:41]
+tranquilo y los ratios no son no nos
+
+[00:23:44]
+alcanzar el 1 a 3 entonces cositas que
+
+[00:23:47]
+yo vea que no están
+
+[00:23:49]
+que no están bien probadas yo no se las
+
+[00:23:52]
+traigo yo siempre les traigo información
+
+[00:23:53]
+que les vaya a durar a ayudar perdón y
+
+[00:23:56]
+que esté probada ya por mí
+
+[00:24:01]
+ok bueno
+
+[00:24:03]
+ahí te pasaron una fórmula este a
+
+[00:24:05]
+william para calcular el lota g
+
+[00:24:10]
+excelente empresa está fondeado y con
+
+[00:24:12]
+cuánto
+
+[00:24:14]
+la que usted es la que yo les publiqué
+
+[00:24:16]
+recientemente que está ahí en telegram
+
+[00:24:19]
+es la de myford phone yo estaba con mi
+
+[00:24:21]
+iphone y me vendieron 10 mil dólares
+
+[00:24:25]
+esa es la que yo les
+
+[00:24:27]
+es publique en el grupo the telegraph
+
+[00:24:30]
+público de hecho puedes meterte ahí al
+
+[00:24:31]
+telegram y ahí está el historial les
+
+[00:24:34]
+puse hasta mi certificado que me dieron
+
+[00:24:37]
+y todo el rollo este y se siente muy
+
+[00:24:39]
+bien y se siente muy chido cante font
+
+[00:24:41]
+díaz se siente muy vaya que todo el
+
+[00:24:44]
+esfuerzo que hicistes valió la pena para
+
+[00:24:46]
+esa cuenta de 10k que lo traje usar en
+
+[00:24:48]
+nasdaq yo usaba fíjate con myford font
+
+[00:24:52]
+con 10 mil dólares estaba usando entre 1
+
+[00:24:55]
+a 2 lotes lo que estaba utilizando pero
+
+[00:24:58]
+es porque él los puntos funcionan así
+
+[00:25:01]
+con mayores son por ejemplo con fm o
+
+[00:25:04]
+estamos utilizando en lugar de un lote
+
+[00:25:06]
+con 10 mil dólares estamos utilizando
+
+[00:25:07]
+punto uno pero bueno ahí arriba andrés
+
+[00:25:10]
+tienes una calculadora que te pasó
+
+[00:25:13]
+víctor pasó una una fórmula para hacer
+
+[00:25:16]
+para capturar para calcular el lota g
+
+[00:25:19]
+según lo necesites
+
+[00:25:23]
+y ahí está entonces en resumen a mí me
+
+[00:25:27]
+gusta más el nada pero los dos funcionan
+
+[00:25:29]
+y si me pregunta ajustado según el
+
+[00:25:31]
+martes y que tú has hecho cuáles de los
+
+[00:25:33]
+dos se está arrojando más rentabilidad
+
+[00:25:35]
+para mí me está arrojando más el nasdaq
+
+[00:25:39]
+entonces sería un lote para ser
+
+[00:25:41]
+conservador no no no sería el lota g
+
+[00:25:44]
+siempre vamos a arriesgar nosotros al
+
+[00:25:46]
+menos en lo que nosotros enseñamos en
+
+[00:25:48]
+nuestra academia siempre vamos a
+
+[00:25:50]
+arriesgar el 1 por ciento de la cuenta
+
+[00:25:52]
+que tú tienen gas por ejemplo de 10 mil
+
+[00:25:55]
+dólares vas a arriesgar 100 dólares
+
+[00:25:57]
+siempre lo vamos a medir por dólares
+
+[00:26:00]
+nunca lo vamos a estar midiendo por
+
+[00:26:01]
+lotes él lo está que va a depender
+
+[00:26:03]
+cuántos lotes yo necesito para arriesgar
+
+[00:26:05]
+esos 100 dólares eso es lo que es la
+
+[00:26:08]
+fórmula que hoy que vamos a hacer
+
+[00:26:10]
+siempre vamos a estar arreglando el 1%
+
+[00:26:12]
+si me meten dos operaciones pues van a
+
+[00:26:14]
+estar arreglando el 0.5 por ciento y en
+
+[00:26:16]
+lugar de ser 100 dólares pues van a ser
+
+[00:26:18]
+50
+
+[00:26:20]
+y obviamente para cuentas pequeñas pues
+
+[00:26:22]
+ya no
+
+[00:26:23]
+[Música]
+
+[00:26:24]
+va a ser demasiado poco por eso yo no
+
+[00:26:26]
+recomiendo para tener una correcta
+
+[00:26:29]
+gestión de riesgos yo no recomiendo
+
+[00:26:31]
+tener cuentas menores a 10.000 dólares
+
+[00:26:34]
+de hecho lo óptimo y si ustedes pueden y
+
+[00:26:37]
+quieren empezar con algo óptimo que yo
+
+[00:26:40]
+diría algo que yo recomiendo 100% y es
+
+[00:26:43]
+con una cuenta de 50 mil dólares para
+
+[00:26:45]
+que ustedes ganen cómo se deben o con 50
+
+[00:26:48]
+mil dólares para adelante con 100 mil
+
+[00:26:51]
+dólares más perfecto con 200 mil ni se
+
+[00:26:54]
+diga no pero yo recomendaría a empezar
+
+[00:26:57]
+con 50 mil dólares si ustedes no tienen
+
+[00:26:59]
+la manera de fondearse porque esas
+
+[00:27:00]
+cuentas está un poquito más caras pues
+
+[00:27:03]
+son de arte con nadie diez mil que éstos
+
+[00:27:05]
+están en my forest phone están en 85
+
+[00:27:07]
+dólares
+
+[00:27:08]
+en lugar de tu invertir tus 85 dólares
+
+[00:27:11]
+en una cuenta normal fundarte con 85
+
+[00:27:14]
+dólares y vas a estar este vas a tener
+
+[00:27:17]
+una cuenta de 10 mil dólares vas a estar
+
+[00:27:19]
+en lugar de estarte ganando 100 200
+
+[00:27:21]
+dólares al mes con tu con este mismo
+
+[00:27:23]
+capital si bien te va porque lo más
+
+[00:27:26]
+probable es que vayas a perderlo este
+
+[00:27:28]
+capital lo vas a perder en cambio con
+
+[00:27:30]
+10.000 dólares vas a tener una correcta
+
+[00:27:32]
+gestión de riesgo va a ser muy difícil
+
+[00:27:34]
+que te quemes la cuenta y vas a estar
+
+[00:27:36]
+ganando tus buenos porcentajes de 10 12%
+
+[00:27:39]
+dos mil dólares al mes estos 800 cuando
+
+[00:27:42]
+te vaya mal tus 700 dólares vas a estar
+
+[00:27:45]
+ganando bien entonces por eso es que yo
+
+[00:27:47]
+recomiendo una buena cuenta y se puede
+
+[00:27:50]
+fondear se siempre y cuando tú tengas tu
+
+[00:27:52]
+plan de tu plan de trading tu estrategia
+
+[00:27:54]
+bien tu disciplina todo lo que se ocupa
+
+[00:27:57]
+para fondearse
+
+[00:27:59]
+cuánto cuesta la prueba de fondeo y
+
+[00:28:00]
+cuánto es la pérdida máxima y el tiempo
+
+[00:28:02]
+de la prueba mira alberto en el canal de
+
+[00:28:05]
+youtube en el canal de youtube que está
+
+[00:28:08]
+en el telegrama tu puedes irte ahí
+
+[00:28:10]
+subimos un vídeo exactamente donde hablo
+
+[00:28:12]
+de las pruebas de fondeo es allí donde
+
+[00:28:15]
+subimos un vídeo y ahí tú puedes
+
+[00:28:19]
+y verlo este vídeo este vídeo te hablo
+
+[00:28:23]
+exactamente de las tres compañías que yo
+
+[00:28:24]
+recomiendo para pasar pruebas de fondeo
+
+[00:28:27]
+y ahí te explico todo todo para para no
+
+[00:28:31]
+indagar porque si no nos vamos a ir el
+
+[00:28:34]
+índice del dólar si el índice del dólar
+
+[00:28:37]
+también
+
+[00:28:39]
+puedo lograr eso con tu estrategia sí sí
+
+[00:28:42]
+se puede con la estrategia se puede
+
+[00:28:45]
+o sea no nomás es operar la estrategia
+
+[00:28:47]
+sino tener un plan de trading hacer su
+
+[00:28:49]
+backtesting este a verle haberla probado
+
+[00:28:53]
+este tener una buena psicología también
+
+[00:28:55]
+para los días que pierdas aceptar la
+
+[00:28:58]
+pérdida este etcétera etcétera operar en
+
+[00:29:01]
+el horario que es éste se ocupan varias
+
+[00:29:04]
+cositas entonces eso es todo
+
+[00:29:07]
+este bueno aquí voy a parar el vídeo
+
+[00:29:10]
+para que no se me haga demasiado largo
+```

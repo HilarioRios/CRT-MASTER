@@ -1,0 +1,9 @@
+{
+  "_comment": "Known YouTube auto-caption (ASR) mistranscriptions of this creator's jargon, found by grepping across the pilot transcripts. Applied ONLY to the search index's copy of the text (chunks_fts), never to the raw transcript or the verbatim chunk text shown in citations -- those must always match what was actually said/captioned. Case-insensitive, whole-word matches only.",
+  "corrections": [
+    {"wrong": "vallas", "right": "bias", "evidence": "appears in C-2mSvrTclE, NeK0B7tN7ZM, 9s6He7I1wcs, 8gkp9CfRKE8, NFh9n5o7jqc, 1WHZ-01Ex0E where context is clearly 'bias' (direccion del precio), not the real word 'vallas' (fences)"},
+    {"wrong": "bías", "right": "bias", "evidence": "not a real Spanish word; ASR attempt at 'bias'"},
+    {"wrong": "doll", "right": "DOL", "evidence": "appears in NeK0B7tN7ZM, bDVDNGW8IIE, 1WHZ-01Ex0E meaning the trading objective (Draw On Liquidity), not the toy"},
+    {"wrong": "trt", "right": "CRT", "evidence": "one-off ASR slip for CRT, seen in NeK0B7tN7ZM and NFh9n5o7jqc"}
+  ]
+}

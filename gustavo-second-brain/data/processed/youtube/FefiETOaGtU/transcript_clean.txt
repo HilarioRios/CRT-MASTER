@@ -1,0 +1,899 @@
+[00:00:00]
+pues Hola a todos amigos estamos en un
+
+[00:00:01]
+nuevo capítulo de nuestra mentoría 2024
+
+[00:00:06]
+gratuita para que puedan aprender
+
+[00:00:07]
+trading recuerden suscribirse a este
+
+[00:00:09]
+bello canal abajo en la descripción está
+
+[00:00:11]
+en la Playlist también para que puedan
+
+[00:00:13]
+ver cada uno de los episodios en este
+
+[00:00:16]
+caso el día de hoy vamos a hablar de lo
+
+[00:00:18]
+que es el bas Estamos ya terminando
+
+[00:00:20]
+nuestro módulo uno donde hablamos de
+
+[00:00:22]
+estructura de Mercado principalmente y
+
+[00:00:24]
+liquidez y la clase número cinco es de
+
+[00:00:27]
+El vallas la dirección del mercado
+
+[00:00:30]
+muchas personas tienen dificultades para
+
+[00:00:32]
+esto Entonces ahora les voy a dar un par
+
+[00:00:34]
+de Consejos les voy a decir cómo
+
+[00:00:36]
+funciona esto y cómo pueden tener la
+
+[00:00:37]
+probabilidad mayormente de la dirección
+
+[00:00:40]
+del día de la dirección del mercado para
+
+[00:00:42]
+que ustedes puedan tomar mucho mejores
+
+[00:00:44]
+entradas
+
+[00:00:45]
+constantemente lo primero es que tenemos
+
+[00:00:47]
+que ver la lectura de estructura para
+
+[00:00:50]
+identificar tendencias y dirección
+
+[00:00:52]
+entonces mediante liquidez y estructura
+
+[00:00:55]
+vamos a identificar las tendencias y la
+
+[00:00:57]
+dirección Qué es hacer referencia a la
+
+[00:00:59]
+cora lectura de la estructura de mercado
+
+[00:01:02]
+para facilitar una posible dirección en
+
+[00:01:04]
+el corto o en el mediano plazo también
+
+[00:01:06]
+en el en el largo plazo verdad entonces
+
+[00:01:09]
+aquí tengo una serie de pasos bastante
+
+[00:01:11]
+sencillos el paso número uno es
+
+[00:01:12]
+identificar la liquidez la liquidez es
+
+[00:01:15]
+lo más importante para poder identificar
+
+[00:01:17]
+la dirección del día fractales mayores
+
+[00:01:20]
+fractales menores este liquidez interna
+
+[00:01:23]
+liquidez externa cada uno de los
+
+[00:01:25]
+episodios que Estuvimos viendo de los
+
+[00:01:27]
+conceptos que Estuvimos viendo en los
+
+[00:01:28]
+episodios anteriores son muy importantes
+
+[00:01:31]
+por eso que tienen que ver todos los
+
+[00:01:33]
+videos para no para centrarse bien y
+
+[00:01:36]
+entender cada uno de las cosas que les
+
+[00:01:38]
+estoy diciendo identificar la
+
+[00:01:40]
+fractalidad mayor identificar la
+
+[00:01:41]
+fractalidad menor clasificar la
+
+[00:01:44]
+tendencia queé significa clasificar la
+
+[00:01:46]
+tendencia pues entender que estamos en
+
+[00:01:48]
+una dirección alcista o entender que
+
+[00:01:50]
+estamos en una dirección bajista verdad
+
+[00:01:53]
+luego lo que tenemos que es analizar
+
+[00:01:55]
+mediante el mapeo de la estructura vamos
+
+[00:01:57]
+a mapear nu esta estructura y vamos a
+
+[00:01:59]
+determinar si somos alcistas o bajistas
+
+[00:02:01]
+y en qué puntos podemos estar intentando
+
+[00:02:04]
+ver o tener probabilidad de mayor
+
+[00:02:06]
+dirección de de una dirección de una
+
+[00:02:08]
+probabilidad de una dirección alcista
+
+[00:02:10]
+una probabilidad de una dirección
+
+[00:02:11]
+bajista verdad luego tenemos lo que es
+
+[00:02:13]
+la tendencia y los ciclos un ciclo es la
+
+[00:02:15]
+formación de varios fractales alcistas
+
+[00:02:17]
+Unidos puede ser alcistas o bajistas
+
+[00:02:20]
+Pero bueno vamos a ver un par de
+
+[00:02:22]
+ejemplos Próximamente para que ustedes
+
+[00:02:24]
+vean Cómo Nosotros identificamos todo un
+
+[00:02:26]
+ciclo de Mercado Y a partir de ahí
+
+[00:02:28]
+tomamos la dirección de la la decisión
+
+[00:02:31]
+de la dirección del día o de la
+
+[00:02:32]
+dirección en el corto mediano plazo en
+
+[00:02:34]
+high time frame de esos fractales Unidos
+
+[00:02:37]
+se formarán un ciclo en una fractalidad
+
+[00:02:38]
+mayor a través de esos diferentes ciclos
+
+[00:02:41]
+se forman las tendencias verdad entonces
+
+[00:02:45]
+facilito luego que tenemos finalmente
+
+[00:02:47]
+identificaremos la estructura la
+
+[00:02:49]
+liquidez los fractales mayores y los
+
+[00:02:51]
+fractales menores y sabremos identificar
+
+[00:02:54]
+tendencias vayamos a la práctica Ahorita
+
+[00:02:57]
+les voy a poner un par de prácticas
+
+[00:02:58]
+básicamente aquí terminamos una
+
+[00:03:00]
+estructura alcista fractalidad mayor en
+
+[00:03:03]
+en en línea gruesa negra fractalidad
+
+[00:03:06]
+mayor alcista y nuestra fractalidad
+
+[00:03:08]
+menor siempre alineándose a la
+
+[00:03:10]
+fractalidad mayor vayamos a la práctica
+
+[00:03:13]
+para que ustedes entiendan Cómo funciona
+
+[00:03:15]
+esto en la práctica en un gráfico real
+
+[00:03:17]
+estamos aquí en un gráfico del eurod
+
+[00:03:19]
+dólar y lo que vamos a hacer es empezar
+
+[00:03:21]
+a mapear nuestra estructura mayor que en
+
+[00:03:23]
+este caso determinamos que es h4 y vamos
+
+[00:03:26]
+a ver como en el intradiario también
+
+[00:03:29]
+podemos tener dirección para que ustedes
+
+[00:03:31]
+me entiendan básicamente aquí Llevamos
+
+[00:03:33]
+una tendencia bajista fíjense que
+
+[00:03:35]
+tenemos un alto verad luego Aquí tenemos
+
+[00:03:39]
+un nuevo bajo tenemos un rompimiento
+
+[00:03:42]
+aquí de la estructura fíjense cómoo
+
+[00:03:44]
+vamos a empezar a mapear esa estructura
+
+[00:03:45]
+y a través de ahí vamos a poder
+
+[00:03:47]
+determinar dirección vad luego que
+
+[00:03:49]
+hacemos nuevo alto nuevo bajo nuevo alto
+
+[00:03:53]
+un pequeño bajo con un pequeño alto que
+
+[00:03:55]
+finalmente hace un nuevo bajo un nuevo
+
+[00:03:57]
+alto y finalmente tenemos el dip o la
+
+[00:04:01]
+parte más baja a partir de aquí qué
+
+[00:04:03]
+tenemos chicos rompimiento de estructura
+
+[00:04:07]
+inducción aquí en es pequeño punto luego
+
+[00:04:10]
+después que tenemos chicos punto alto
+
+[00:04:13]
+punto bajo punto alto punto bajo
+
+[00:04:15]
+inducción punto bajo punto alto verad es
+
+[00:04:19]
+bien importante que ustedes empiecen a
+
+[00:04:21]
+identificar este tipo de movimientos
+
+[00:04:24]
+inducción Ahí vamos a borrar este aquí
+
+[00:04:25]
+para que quede más chévere cuadrito
+
+[00:04:27]
+inducción de liquidez ahí y fíjense como
+
+[00:04:30]
+esta es nuestra estructura mayor
+
+[00:04:32]
+facilito verdad tendencia bajista
+
+[00:04:35]
+reversión de la tendencia bajista ahora
+
+[00:04:37]
+vamos a ir a nuestra temporalidad menor
+
+[00:04:39]
+que va a ser otra temporalidad bueno en
+
+[00:04:42]
+este caso tenemos nuestra temporalidad
+
+[00:04:43]
+menor en la temporalidad de h1 fíjense
+
+[00:04:46]
+có teníamos este rompimiento de
+
+[00:04:48]
+estructura que nos deja este bajo verdad
+
+[00:04:50]
+después Seguiremos mapeando para obtener
+
+[00:04:52]
+dirección fíjense que si yo ya por
+
+[00:04:54]
+ejemplo Aquí tengo una tendencia bajista
+
+[00:04:58]
+ya tengo un cambio estructural por
+
+[00:05:00]
+ejemplo aquí ya tenemos un cambio
+
+[00:05:02]
+estructural aquí y ya tengo este este
+
+[00:05:06]
+fractal designado bajista Entonces ya lo
+
+[00:05:09]
+que tengo que buscar es un retroceso
+
+[00:05:11]
+para intentar vender y nuestra principal
+
+[00:05:14]
+dirección va a ser bajista hasta aquí
+
+[00:05:16]
+ahora seguimos mapeando para ver
+
+[00:05:18]
+encontrar nuevas direcciones aquí
+
+[00:05:20]
+tenemos un punto alto aquí tenemos un
+
+[00:05:23]
+punto nuevo bajo aquí qué tenemos chicos
+
+[00:05:25]
+empo tenía dos bajos iguales tenía este
+
+[00:05:28]
+punto fíjense esto Qué es una inducción
+
+[00:05:30]
+de liquidez Por qué es una inducción de
+
+[00:05:31]
+liquidez porque el precio está
+
+[00:05:33]
+reaccionando una zona de liquidez y
+
+[00:05:35]
+después el precio decide romperla
+
+[00:05:37]
+entonces aquí tenemos por ejemplo
+
+[00:05:39]
+dirección bajista por qué dirección
+
+[00:05:41]
+bajista ya tenemos confirmada toda
+
+[00:05:42]
+nuestra dirección bajista obtenemos una
+
+[00:05:45]
+inducción aquí en este punto donde tiene
+
+[00:05:47]
+dos bajos iguales aparte retrocede Y a
+
+[00:05:50]
+partir de aquí vuelve a romper de nuevo
+
+[00:05:52]
+la estructura interna Ahora que nos deja
+
+[00:05:55]
+el precio un punto bajo que por ejemplo
+
+[00:05:58]
+aquí el día miércoles eh 6 de septiembre
+
+[00:06:02]
+qué tenemos un pequeño retroceso a la
+
+[00:06:04]
+alza con pequeño Complex pullback ese
+
+[00:06:07]
+pequeño Complex pulv Para qué nos va a
+
+[00:06:09]
+servir chicos para seguir vendiendo por
+
+[00:06:12]
+qué Para seguir vendiendo porque ya
+
+[00:06:13]
+tenemos una dirección previa bajista Y
+
+[00:06:16]
+eso es lo que nos vamos a estar rigiendo
+
+[00:06:18]
+impulso retroceso impulso retroceso
+
+[00:06:20]
+fíjense que aquí a pesar de que estamos
+
+[00:06:22]
+bajistas el precio sube Por qué sube
+
+[00:06:25]
+porque ya había tenido varios
+
+[00:06:27]
+rompimientos ahí Entonces qué hace el
+
+[00:06:29]
+precio y rompe vuelve de nuevo a esta
+
+[00:06:32]
+zona que es inducida rompe de nuevo a la
+
+[00:06:35]
+alza mitiga mitiga pero la dirección
+
+[00:06:37]
+mayor sigue siendo bajista entonces aquí
+
+[00:06:40]
+qué vamos a esperar o vamos a eh esperar
+
+[00:06:43]
+aquí que el precio retroceda para
+
+[00:06:45]
+seguirlo vendiendo verdad fíjense que
+
+[00:06:48]
+aquí ya quebra la estructura menor
+
+[00:06:50]
+vuelve a ser un nuevo bajo ya por
+
+[00:06:52]
+ejemplo aquí fíjense mi fractales que
+
+[00:06:54]
+tenemos impulso retroceso Tengo este
+
+[00:06:56]
+fractal qué voy a esperar por ejemplo
+
+[00:06:58]
+voy a esperar medir este fractal a
+
+[00:07:00]
+partir de que tengamos un retroceso ya
+
+[00:07:02]
+tengo de nuevo una idea de ventas aquí
+
+[00:07:04]
+abajo verdad Entonces de nuevo el precio
+
+[00:07:07]
+vuelve y rompe en todos los retrocesos
+
+[00:07:10]
+seguimos vendiendo en todo cada uno de
+
+[00:07:12]
+los retrocesos seguimos vendiendo punto
+
+[00:07:14]
+bajo punto alto punto alto punto bajo
+
+[00:07:18]
+punto alto punto bajo y después fíjense
+
+[00:07:21]
+que a partir de aquí el precio ya hace
+
+[00:07:22]
+un retroceso más profundo O sea que el
+
+[00:07:25]
+precio va a estar cayendo en tendencia
+
+[00:07:27]
+va a estar cayendo aquí en tendencia va
+
+[00:07:29]
+a estar est cayendo en tendencia pero
+
+[00:07:30]
+tarde o temprano dependiendo lo que
+
+[00:07:32]
+tengamos acá y el tiempo que lleve va a
+
+[00:07:34]
+volver a dar un retroceso más profundo
+
+[00:07:37]
+Pero simplemente va a seguir va a ser
+
+[00:07:39]
+para seguir continuando esa dirección
+
+[00:07:40]
+Pero fíjense lo tremendo que pasa aquí
+
+[00:07:43]
+después en este cambio de dirección que
+
+[00:07:45]
+el precio hace un nuevo alto hace un
+
+[00:07:47]
+nuevo bajo nuevo alto perfecto seguimos
+
+[00:07:49]
+bajistas me hace otro rompimiento aquí
+
+[00:07:52]
+de la estructura y fíjense que tenemos
+
+[00:07:55]
+por aquí que me hace un nuevo alto un
+
+[00:07:57]
+nuevo bajo el precio que me hace estura
+
+[00:08:00]
+pequeña de la estructura pero ahora la
+
+[00:08:02]
+alza chicos ahora de nuevo me rompe la
+
+[00:08:05]
+alza me induce este punto que se lleva
+
+[00:08:08]
+un poquito de liquidez aquí interna y
+
+[00:08:11]
+rápidamente vuelve de nuevo otra vez
+
+[00:08:14]
+hacia arriba ya no pudiendo superar o
+
+[00:08:16]
+hacer un nuevo bajo para finalmente
+
+[00:08:18]
+romperme este alto que está aquí ya
+
+[00:08:21]
+ahora por ejemplo Ya tengo todo el todo
+
+[00:08:23]
+mi ciclo de fractales es este todo este
+
+[00:08:26]
+es mi ciclo de fractales que tenemos por
+
+[00:08:28]
+ahí ya tenemos todo ese ciclo de
+
+[00:08:30]
+fractales ahí alcistas que han roto la
+
+[00:08:32]
+estructura Entonces qué voy a hacer en
+
+[00:08:34]
+el próximo retroceso Ahora me voy a
+
+[00:08:36]
+montar a la alza Por qué me voy a montar
+
+[00:08:38]
+a la alza ahora porque ya mi estructura
+
+[00:08:40]
+está cambiando mi estructura mayor está
+
+[00:08:42]
+cambiando mi estructura menor igual
+
+[00:08:44]
+sigue en función de eso o en dado caso
+
+[00:08:47]
+puedo esperar que mi estructura menor
+
+[00:08:50]
+vuelva a hacer ese cambio o sea tengo mi
+
+[00:08:52]
+estructura mayor a la alza quebrando
+
+[00:08:55]
+estructuras voy a esperar que el precio
+
+[00:08:57]
+retroceda y voy a esperar que mi
+
+[00:08:59]
+estructura menor vuelva para arriba en
+
+[00:09:02]
+este caso teníamos este punto alto este
+
+[00:09:04]
+punto bajo y aquí se ven el cambio de la
+
+[00:09:06]
+estructura menor ahí está el cambio de
+
+[00:09:09]
+la estructura menor hace un cambio la
+
+[00:09:11]
+estructura menor y después genera este
+
+[00:09:13]
+nuevo alto retroceso alto retroceso y
+
+[00:09:16]
+cada retroceso lo voy a estar tomando
+
+[00:09:18]
+para comprar hasta dónde hasta este
+
+[00:09:21]
+punto que era el target de la estructura
+
+[00:09:22]
+mayor el precio de nuevo viene limpia
+
+[00:09:25]
+ese High retrocede y voy a estar
+
+[00:09:28]
+esperando que en el próximo retroceso de
+
+[00:09:30]
+qué en el próximo retroceso de qué de
+
+[00:09:33]
+este último ciclo el precio qué me
+
+[00:09:35]
+vuelva a quebrar las estructuras Menores
+
+[00:09:38]
+en este caso me vuelve a quebrar las
+
+[00:09:39]
+estructuras menores por aquí o vamos a
+
+[00:09:41]
+decir lo que por aquí también y en los
+
+[00:09:44]
+próximos retrocesos voy a estar
+
+[00:09:46]
+intentando comprarlo fíjense que aquí
+
+[00:09:48]
+hace un pequeño engaño Por qué Porque es
+
+[00:09:49]
+liquidez el precio siempre va a
+
+[00:09:51]
+necesitar tomar liquidez pero n más hace
+
+[00:09:54]
+la toma de liquidez rechaza y se va para
+
+[00:09:55]
+arriba aparte porque aquí tenemos una
+
+[00:09:57]
+línea de tendencia entonces líneas de
+
+[00:09:59]
+tendencia van a servir casi siempre para
+
+[00:10:01]
+para ese punto ya sabemos que tenemos
+
+[00:10:03]
+una toma de liquidez sabemos que traemos
+
+[00:10:05]
+una dirección eh alcista fíjese como el
+
+[00:10:08]
+precio va a inducir este punto Entonces
+
+[00:10:10]
+ya ahí tenemos por ejemplo compras acá
+
+[00:10:12]
+el precio vuelve de nuevo retrocede un
+
+[00:10:15]
+poquito vuelve de nuevo a esta zona
+
+[00:10:17]
+también y sigue con su estructura ahora
+
+[00:10:20]
+alcista vamos a comprar en cada
+
+[00:10:22]
+retroceso fíjense que ya estamos
+
+[00:10:24]
+manejando estos fractales de acá fractal
+
+[00:10:26]
+de acá fractal de acá retroceso fractal
+
+[00:10:28]
+de acá Y de nuevo al alza aquí ya lo que
+
+[00:10:30]
+hace el precio es viene de nuevo ahora
+
+[00:10:33]
+tenemos toda nuestra fractalidad mayor
+
+[00:10:36]
+aquí tod esto fractalidad mayor en cada
+
+[00:10:39]
+retroceso que venga el precio de nuevo a
+
+[00:10:42]
+retroceder de todo este fractal vamos a
+
+[00:10:45]
+volverlo a comprar entonces acá tenemos
+
+[00:10:47]
+de nuevo aquí otro punto que cambia la
+
+[00:10:51]
+estructura y fíjense que Aquí está
+
+[00:10:52]
+nuestra estructura menor estructura
+
+[00:10:54]
+menor estructura menor estructura menor
+
+[00:10:55]
+estructura menor punto que rompe
+
+[00:10:58]
+retroceso compras para arriba esto Qué
+
+[00:11:01]
+es inducción porque nosotros ya tenemos
+
+[00:11:03]
+nuestra dirección altista entonces esa
+
+[00:11:05]
+inducción es punto también para compra
+
+[00:11:07]
+pulso retroceso el precio finalmente lo
+
+[00:11:09]
+rompe Y de nuevo y así sucesivamente
+
+[00:11:13]
+chicos Es que la estructura se va a ir
+
+[00:11:15]
+alineando Bueno chicos Yo espero que les
+
+[00:11:17]
+haya quedado claro todo y si tienen
+
+[00:11:19]
+alguna pregunta los voy a estar leyendo
+
+[00:11:20]
+los comentarios los voy a estar leyendo
+
+[00:11:22]
+en instagram Síganme por ahí y si
+
+[00:11:24]
+quieren una asesoría personalizada
+
+[00:11:26]
+pueden contactarme por WhatsApp link se
+
+[00:11:29]
+encuentra en la descripción

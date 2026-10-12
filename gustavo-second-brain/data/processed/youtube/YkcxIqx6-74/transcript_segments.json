@@ -1,0 +1,1552 @@
+[
+  {
+    "start_sec": 0.08,
+    "end_sec": 2.0,
+    "text": "alguna vez te has preguntado por qué tus"
+  },
+  {
+    "start_sec": 2.0,
+    "end_sec": 4.08,
+    "text": "puntos de interés no funcionan Por qué"
+  },
+  {
+    "start_sec": 4.08,
+    "end_sec": 6.84,
+    "text": "tus order blocks no son respetados o por"
+  },
+  {
+    "start_sec": 6.84,
+    "end_sec": 9.32,
+    "text": "qué esos rompimientos de estructura son"
+  },
+  {
+    "start_sec": 9.32,
+    "end_sec": 11.24,
+    "text": "falsos y realmente el mercado se va en"
+  },
+  {
+    "start_sec": 11.24,
+    "end_sec": 13.2,
+    "text": "tu contra Pues esta vez en este video te"
+  },
+  {
+    "start_sec": 13.2,
+    "end_sec": 15.52,
+    "text": "traigo dos conceptos super buenos que"
+  },
+  {
+    "start_sec": 15.52,
+    "end_sec": 17.8,
+    "text": "son las inducciones y las Smart Money"
+  },
+  {
+    "start_sec": 17.8,
+    "end_sec": 19.76,
+    "text": "trap para que lleves tu trading al"
+  },
+  {
+    "start_sec": 19.76,
+    "end_sec": 21.52,
+    "text": "siguiente nivel y para que dejes de"
+  },
+  {
+    "start_sec": 21.52,
+    "end_sec": 23.04,
+    "text": "fallar o para que dejes de ser la"
+  },
+  {
+    "start_sec": 23.04,
+    "end_sec": 24.96,
+    "text": "liquidez del mercado estos conceptos te"
+  },
+  {
+    "start_sec": 24.96,
+    "end_sec": 27.0,
+    "text": "van a ayudar a entender mucho mejor cómo"
+  },
+  {
+    "start_sec": 27.0,
+    "end_sec": 28.76,
+    "text": "se mueve el algoritmo Y qué es lo que"
+  },
+  {
+    "start_sec": 28.76,
+    "end_sec": 30.52,
+    "text": "está haciendo vamos con estee video"
+  },
+  {
+    "start_sec": 30.52,
+    "end_sec": 32.72,
+    "text": "recuerda suscribirte darle me gusta a"
+  },
+  {
+    "start_sec": 32.72,
+    "end_sec": 34.96,
+    "text": "este video y comentar si te ha servido"
+  },
+  {
+    "start_sec": 34.96,
+    "end_sec": 37.2,
+    "text": "si te ha gustado Y hacerle por supuesto"
+  },
+  {
+    "start_sec": 37.2,
+    "end_sec": 38.6,
+    "text": "Back testing a todo lo que vas a"
+  },
+  {
+    "start_sec": 38.6,
+    "end_sec": 41.68,
+    "text": "aprender aquí dentro video vamos a a a"
+  },
+  {
+    "start_sec": 41.68,
+    "end_sec": 44.44,
+    "text": "ver inducciones y Smart Money traps las"
+  },
+  {
+    "start_sec": 44.44,
+    "end_sec": 46.0,
+    "text": "dos cosas primero vamos a ir con"
+  },
+  {
+    "start_sec": 46.0,
+    "end_sec": 48.2,
+    "text": "inducciones las inducciones Qué son Pues"
+  },
+  {
+    "start_sec": 48.2,
+    "end_sec": 51.56,
+    "text": "bueno cada que el precio rompe un alto o"
+  },
+  {
+    "start_sec": 51.56,
+    "end_sec": 54.28,
+    "text": "un bajo lo vamos a catalogar como un"
+  },
+  {
+    "start_sec": 54.28,
+    "end_sec": 57.08,
+    "text": "posible inducement o una posible"
+  },
+  {
+    "start_sec": 57.08,
+    "end_sec": 60.76,
+    "text": "inducción porque el el trader retail va"
+  },
+  {
+    "start_sec": 60.76,
+    "end_sec": 63.2,
+    "text": "a estar viendo este rompimiento como que"
+  },
+  {
+    "start_sec": 63.2,
+    "end_sec": 66.0,
+    "text": "el precio va con una estructura bajista"
+  },
+  {
+    "start_sec": 66.0,
+    "end_sec": 67.6,
+    "text": "verdad entonces aquí lo que está viendo"
+  },
+  {
+    "start_sec": 67.6,
+    "end_sec": 70.16,
+    "text": "la gente normalmente o el trading retail"
+  },
+  {
+    "start_sec": 70.16,
+    "end_sec": 72.64,
+    "text": "está viendo un shock un Boss como"
+  },
+  {
+    "start_sec": 72.64,
+    "end_sec": 75.2,
+    "text": "ustedes quieran llamarlo y las trampas o"
+  },
+  {
+    "start_sec": 75.2,
+    "end_sec": 77.88,
+    "text": "las Smart m traps van a ser las zonas a"
+  },
+  {
+    "start_sec": 77.88,
+    "end_sec": 79.8,
+    "text": "donde el precio en teoría tendría que"
+  },
+  {
+    "start_sec": 79.8,
+    "end_sec": 82.32,
+    "text": "reteste o ir para seguir su tendencia"
+  },
+  {
+    "start_sec": 82.32,
+    "end_sec": 84.12,
+    "text": "entonces normalmente nos enseñan en"
+  },
+  {
+    "start_sec": 84.12,
+    "end_sec": 86.16,
+    "text": "todos lados que este sería Esto es lo"
+  },
+  {
+    "start_sec": 86.16,
+    "end_sec": 87.8,
+    "text": "que hace el precio verad y luego el"
+  },
+  {
+    "start_sec": 87.8,
+    "end_sec": 90.52,
+    "text": "precio hace este un Bot"
+  },
+  {
+    "start_sec": 90.52,
+    "end_sec": 92.64,
+    "text": "un shock o como ustedes quieran llamarlo"
+  },
+  {
+    "start_sec": 92.64,
+    "end_sec": 94.64,
+    "text": "luego el precio viene hacia arriba"
+  },
+  {
+    "start_sec": 94.64,
+    "end_sec": 97.12,
+    "text": "testea y cae y luego esta no sería"
+  },
+  {
+    "start_sec": 97.12,
+    "end_sec": 99.0,
+    "text": "nuestro decisional O Nuestro extremo"
+  },
+  {
+    "start_sec": 99.0,
+    "end_sec": 101.52,
+    "text": "este sería como nuestra zona de oferta y"
+  },
+  {
+    "start_sec": 101.52,
+    "end_sec": 104.2,
+    "text": "ahí ahí el precio tendría que caer no en"
+  },
+  {
+    "start_sec": 104.2,
+    "end_sec": 107.2,
+    "text": "esta zona de oferta en ciertas partes"
+  },
+  {
+    "start_sec": 107.2,
+    "end_sec": 109.28,
+    "text": "del Mercado o en ciertos pedazos del"
+  },
+  {
+    "start_sec": 109.28,
+    "end_sec": 112.48,
+    "text": "mercado Lo que sucede es algo totalmente"
+  },
+  {
+    "start_sec": 112.48,
+    "end_sec": 114.2,
+    "text": "diferente Qué hace el precio hacer un"
+  },
+  {
+    "start_sec": 114.2,
+    "end_sec": 116.44,
+    "text": "inducement aquí un incentivo con ese"
+  },
+  {
+    "start_sec": 116.44,
+    "end_sec": 118.48,
+    "text": "rompimiento O sea que cada rompimiento"
+  },
+  {
+    "start_sec": 118.48,
+    "end_sec": 120.44,
+    "text": "desde ahora de la forma en que yo ya"
+  },
+  {
+    "start_sec": 120.44,
+    "end_sec": 122.0,
+    "text": "miro el algoritmo es que cada"
+  },
+  {
+    "start_sec": 122.0,
+    "end_sec": 124.28,
+    "text": "rompimiento de la estructura es una es"
+  },
+  {
+    "start_sec": 124.28,
+    "end_sec": 127.0,
+    "text": "un posible inducción y que cada las"
+  },
+  {
+    "start_sec": 127.0,
+    "end_sec": 129.24,
+    "text": "zonas del lado contrario van a ser"
+  },
+  {
+    "start_sec": 129.24,
+    "end_sec": 131.6,
+    "text": "posibles zonas de smt o de smart Money"
+  },
+  {
+    "start_sec": 131.6,
+    "end_sec": 134.84,
+    "text": "traps Qué significa smt Smart Money"
+  },
+  {
+    "start_sec": 134.84,
+    "end_sec": 136.96,
+    "text": "traps o trampas para la gente que está"
+  },
+  {
+    "start_sec": 136.96,
+    "end_sec": 139.04,
+    "text": "utilizando Smart monic o trampas de"
+  },
+  {
+    "start_sec": 139.04,
+    "end_sec": 140.56,
+    "text": "dinero inteligente como ustedes lo"
+  },
+  {
+    "start_sec": 140.56,
+    "end_sec": 142.24,
+    "text": "quieran llamar entonces qué hace el"
+  },
+  {
+    "start_sec": 142.24,
+    "end_sec": 144.64,
+    "text": "algoritmo el algoritmo hace Esto va"
+  },
+  {
+    "start_sec": 144.64,
+    "end_sec": 146.88,
+    "text": "hacia arriba y luego Aquí genera la"
+  },
+  {
+    "start_sec": 146.88,
+    "end_sec": 148.88,
+    "text": "inducción la inducción ya la había"
+  },
+  {
+    "start_sec": 148.88,
+    "end_sec": 152.36,
+    "text": "generado desde desde desde acá desde el"
+  },
+  {
+    "start_sec": 152.36,
+    "end_sec": 154.68,
+    "text": "rompimiento que este este le llamo yo el"
+  },
+  {
+    "start_sec": 154.68,
+    "end_sec": 156.72,
+    "text": "incentivo pero luego justo en la zona si"
+  },
+  {
+    "start_sec": 156.72,
+    "end_sec": 158.4,
+    "text": "se fijan muchas veces van a ver cómo el"
+  },
+  {
+    "start_sec": 158.4,
+    "end_sec": 161.24,
+    "text": "algoritmo hace esto así y luego lo rompe"
+  },
+  {
+    "start_sec": 161.24,
+    "end_sec": 163.8,
+    "text": "y luego después van a verar muchos"
+  },
+  {
+    "start_sec": 163.8,
+    "end_sec": 165.64,
+    "text": "movimientos de este estilo que lo rompe"
+  },
+  {
+    "start_sec": 165.64,
+    "end_sec": 167.6,
+    "text": "y luego oras hace el movimiento si o no"
+  },
+  {
+    "start_sec": 167.6,
+    "end_sec": 169.16,
+    "text": "lo han mirado ustedes un montón en el"
+  },
+  {
+    "start_sec": 169.16,
+    "end_sec": 171.12,
+    "text": "gráfico y no se explican Por qué el"
+  },
+  {
+    "start_sec": 171.12,
+    "end_sec": 173.0,
+    "text": "precio hace eso verad mucha mucha gente"
+  },
+  {
+    "start_sec": 173.0,
+    "end_sec": 175.68,
+    "text": "no se explica por qué por qué Porque"
+  },
+  {
+    "start_sec": 175.68,
+    "end_sec": 177.56,
+    "text": "como ustedes saben el algoritmo va"
+  },
+  {
+    "start_sec": 177.56,
+    "end_sec": 180.08,
+    "text": "evolucionando con los últimos meses es"
+  },
+  {
+    "start_sec": 180.08,
+    "end_sec": 182.04,
+    "text": "años ha evolucionado de esta forma que"
+  },
+  {
+    "start_sec": 182.04,
+    "end_sec": 184.0,
+    "text": "como ya se ha hecho muy popular esta"
+  },
+  {
+    "start_sec": 184.0,
+    "end_sec": 186.24,
+    "text": "forma de tradear para no solamente para"
+  },
+  {
+    "start_sec": 186.24,
+    "end_sec": 188.68,
+    "text": "hablemos de gente retail sio hablamos de"
+  },
+  {
+    "start_sec": 188.68,
+    "end_sec": 191.04,
+    "text": "ciertos algoritmos que utilizan estas"
+  },
+  {
+    "start_sec": 191.04,
+    "end_sec": 193.2,
+    "text": "zonas de High los sobre todo los highs y"
+  },
+  {
+    "start_sec": 193.2,
+    "end_sec": 195.32,
+    "text": "lows y el algoritmo hace muchísimo eso"
+  },
+  {
+    "start_sec": 195.32,
+    "end_sec": 197.48,
+    "text": "pues fíjense que entendiendo esos"
+  },
+  {
+    "start_sec": 197.48,
+    "end_sec": 199.84,
+    "text": "conceptos justo fue lo que sucedió de"
+  },
+  {
+    "start_sec": 199.84,
+    "end_sec": 201.84,
+    "text": "esta parte de aquí fíjense que justo"
+  },
+  {
+    "start_sec": 201.84,
+    "end_sec": 204.24,
+    "text": "sucedió esto acá no sucedió tan así yo"
+  },
+  {
+    "start_sec": 204.24,
+    "end_sec": 206.6,
+    "text": "esperaba que sí pero acá sí sucedió de"
+  },
+  {
+    "start_sec": 206.6,
+    "end_sec": 208.28,
+    "text": "esta mejor manera fíjense que nosotros"
+  },
+  {
+    "start_sec": 208.28,
+    "end_sec": 210.16,
+    "text": "tenemos esta fractalidad que es este"
+  },
+  {
+    "start_sec": 210.16,
+    "end_sec": 212.56,
+    "text": "bajo y este alto entonces este fractal"
+  },
+  {
+    "start_sec": 212.56,
+    "end_sec": 214.32,
+    "text": "es el que estamos trabajando una vez el"
+  },
+  {
+    "start_sec": 214.32,
+    "end_sec": 216.48,
+    "text": "precio tiene el retroceso hacia una"
+  },
+  {
+    "start_sec": 216.48,
+    "end_sec": 218.64,
+    "text": "debida zona de descuento en este caso"
+  },
+  {
+    "start_sec": 218.64,
+    "end_sec": 221.8,
+    "text": "fue el 70 por casi una zona de ot el"
+  },
+  {
+    "start_sec": 221.8,
+    "end_sec": 223.64,
+    "text": "precio tenía como targeting vamos a"
+  },
+  {
+    "start_sec": 223.64,
+    "end_sec": 226.04,
+    "text": "hablar de nuestra temporalidad eh"
+  },
+  {
+    "start_sec": 226.04,
+    "end_sec": 228.08,
+    "text": "nuestra temporalidad diaria el precio"
+  },
+  {
+    "start_sec": 228.08,
+    "end_sec": 230.6,
+    "text": "tenía como Target targeting esta zona de"
+  },
+  {
+    "start_sec": 230.6,
+    "end_sec": 233.0,
+    "text": "demanda en diario estamos en el nasdaq"
+  },
+  {
+    "start_sec": 233.0,
+    "end_sec": 234.88,
+    "text": "zona de demanda en el diario es la zona"
+  },
+  {
+    "start_sec": 234.88,
+    "end_sec": 237.36,
+    "text": "que tenía como Target y fíjense como"
+  },
+  {
+    "start_sec": 237.36,
+    "end_sec": 239.2,
+    "text": "antes de dar este movimiento tremendo"
+  },
+  {
+    "start_sec": 239.2,
+    "end_sec": 241.36,
+    "text": "hacia ar como el precio inducció un"
+  },
+  {
+    "start_sec": 241.36,
+    "end_sec": 243.2,
+    "text": "montón de veces y se fue sobre las"
+  },
+  {
+    "start_sec": 243.2,
+    "end_sec": 245.76,
+    "text": "trampas de liquidez o la sory trap Vamos"
+  },
+  {
+    "start_sec": 245.76,
+    "end_sec": 247.24,
+    "text": "a ponernos en la temporalidad de una"
+  },
+  {
+    "start_sec": 247.24,
+    "end_sec": 248.92,
+    "text": "hora y fíjense lo que hace el precio"
+  },
+  {
+    "start_sec": 248.92,
+    "end_sec": 251.0,
+    "text": "aquí Nosotros llegamos hacia un mínimo"
+  },
+  {
+    "start_sec": 251.0,
+    "end_sec": 253.32,
+    "text": "ojo el primera cosa que me doy cuenta es"
+  },
+  {
+    "start_sec": 253.32,
+    "end_sec": 255.0,
+    "text": "que el precio no ha llegado a mitigar en"
+  },
+  {
+    "start_sec": 255.0,
+    "end_sec": 257.0,
+    "text": "la zona que yo quería que mitigar pero"
+  },
+  {
+    "start_sec": 257.0,
+    "end_sec": 259.48,
+    "text": "igual de eso da un poquito igual hace"
+  },
+  {
+    "start_sec": 259.48,
+    "end_sec": 261.6,
+    "text": "ese mínimo crea el mercado un"
+  },
+  {
+    "start_sec": 261.6,
+    "end_sec": 263.88,
+    "text": "rompimiento pero este rompimiento es un"
+  },
+  {
+    "start_sec": 263.88,
+    "end_sec": 266.36,
+    "text": "rompimiento intencionado que yo llamo"
+  },
+  {
+    "start_sec": 266.36,
+    "end_sec": 268.72,
+    "text": "inducement Cómo realmente me doy cuenta"
+  },
+  {
+    "start_sec": 268.72,
+    "end_sec": 271.52,
+    "text": "de eso una porque este low era el low"
+  },
+  {
+    "start_sec": 271.52,
+    "end_sec": 273.36,
+    "text": "del día viernes que este low del día"
+  },
+  {
+    "start_sec": 273.36,
+    "end_sec": 275.04,
+    "text": "viernes No fue tomado que era un low"
+  },
+  {
+    "start_sec": 275.04,
+    "end_sec": 278.08,
+    "text": "semanal que es liquidez mayor fíjense"
+  },
+  {
+    "start_sec": 278.08,
+    "end_sec": 279.6,
+    "text": "que si nos vamos nosotros a nuestro"
+  },
+  {
+    "start_sec": 279.6,
+    "end_sec": 281.36,
+    "text": "gráfico semanal lo que estamos"
+  },
+  {
+    "start_sec": 281.36,
+    "end_sec": 283.4,
+    "text": "estudiando justo aquí el algoritmo"
+  },
+  {
+    "start_sec": 283.4,
+    "end_sec": 285.84,
+    "text": "fíjense que justo toma la liquidez del"
+  },
+  {
+    "start_sec": 285.84,
+    "end_sec": 287.68,
+    "text": "del bajo semanal de manera muy"
+  },
+  {
+    "start_sec": 287.68,
+    "end_sec": 289.64,
+    "text": "sospechosa no toma la liquidez del bajo"
+  },
+  {
+    "start_sec": 289.64,
+    "end_sec": 291.64,
+    "text": "semanal si nos vamos a la temporalidad"
+  },
+  {
+    "start_sec": 291.64,
+    "end_sec": 293.8,
+    "text": "de una hora la temporalidad de una hora"
+  },
+  {
+    "start_sec": 293.8,
+    "end_sec": 295.76,
+    "text": "aquí Justo nos vamos a enfocar en esta"
+  },
+  {
+    "start_sec": 295.76,
+    "end_sec": 298.88,
+    "text": "zona el precio crea un inducement una"
+  },
+  {
+    "start_sec": 298.88,
+    "end_sec": 300.96,
+    "text": "inducción una ruptura a la alza esa"
+  },
+  {
+    "start_sec": 300.96,
+    "end_sec": 303.52,
+    "text": "ruptura a la alza termina creando esta"
+  },
+  {
+    "start_sec": 303.52,
+    "end_sec": 307.12,
+    "text": "zona el order block con imbalance y lo"
+  },
+  {
+    "start_sec": 307.12,
+    "end_sec": 309.12,
+    "text": "puedes refinar tú ahí en en la"
+  },
+  {
+    "start_sec": 309.12,
+    "end_sec": 310.8,
+    "text": "temporalidad que tú quieras no el"
+  },
+  {
+    "start_sec": 310.8,
+    "end_sec": 313.2,
+    "text": "decisional Y esa vaina no y se fijan"
+  },
+  {
+    "start_sec": 313.2,
+    "end_sec": 315.36,
+    "text": "Cómo crea esto de aquí decisional ya"
+  },
+  {
+    "start_sec": 315.36,
+    "end_sec": 317.88,
+    "text": "tenía el rompimiento el precio después"
+  },
+  {
+    "start_sec": 317.88,
+    "end_sec": 319.28,
+    "text": "de tener el rompimiento toda la gente"
+  },
+  {
+    "start_sec": 319.28,
+    "end_sec": 321.08,
+    "text": "está esperando comprar desde aquí no"
+  },
+  {
+    "start_sec": 321.08,
+    "end_sec": 322.68,
+    "text": "porque ya se supone que está el"
+  },
+  {
+    "start_sec": 322.68,
+    "end_sec": 325.08,
+    "text": "ahí el chock el Boss y no sé qué Y luego"
+  },
+  {
+    "start_sec": 325.08,
+    "end_sec": 327.48,
+    "text": "en la zona extrema el precio pues tenía"
+  },
+  {
+    "start_sec": 327.48,
+    "end_sec": 329.76,
+    "text": "otra misma zona aquí qu hace la"
+  },
+  {
+    "start_sec": 329.76,
+    "end_sec": 332.44,
+    "text": "algoritmo interbancario va de abajo"
+  },
+  {
+    "start_sec": 332.44,
+    "end_sec": 334.96,
+    "text": "hacia arriba rompe crea este movimiento"
+  },
+  {
+    "start_sec": 334.96,
+    "end_sec": 337.32,
+    "text": "intencionado y luego me me hace un fallo"
+  },
+  {
+    "start_sec": 337.32,
+    "end_sec": 339.08,
+    "text": "de la estructura aquí ese fallo de la"
+  },
+  {
+    "start_sec": 339.08,
+    "end_sec": 341.68,
+    "text": "estructura que estaba ahí justo aquí me"
+  },
+  {
+    "start_sec": 341.68,
+    "end_sec": 343.16,
+    "text": "hace este fallo de la estructura donde"
+  },
+  {
+    "start_sec": 343.16,
+    "end_sec": 345.76,
+    "text": "testea esta zona de aquí Este era una"
+  },
+  {
+    "start_sec": 345.76,
+    "end_sec": 347.68,
+    "text": "zona para mí de ventas porque yo ya"
+  },
+  {
+    "start_sec": 347.68,
+    "end_sec": 349.6,
+    "text": "sabía que posiblemente teníamos una"
+  },
+  {
+    "start_sec": 349.6,
+    "end_sec": 352.2,
+    "text": "inducción de este lado a ciencia cierta"
+  },
+  {
+    "start_sec": 352.2,
+    "end_sec": 354.84,
+    "text": "yo no sé si realmente va a ser una smt"
+  },
+  {
+    "start_sec": 354.84,
+    "end_sec": 356.48,
+    "text": "pero yo ya sé que tengo un rompimiento"
+  },
+  {
+    "start_sec": 356.48,
+    "end_sec": 358.36,
+    "text": "que está induciendo y ya sé que estas"
+  },
+  {
+    "start_sec": 358.36,
+    "end_sec": 360.16,
+    "text": "zonas tengo que tener especialmente"
+  },
+  {
+    "start_sec": 360.16,
+    "end_sec": 362.12,
+    "text": "cuidado Fíjate lo que hace el algoritmo"
+  },
+  {
+    "start_sec": 362.12,
+    "end_sec": 363.92,
+    "text": "viene a esta zona te da un poquito de"
+  },
+  {
+    "start_sec": 363.92,
+    "end_sec": 366.88,
+    "text": "profit de profit induce a los traders a"
+  },
+  {
+    "start_sec": 366.88,
+    "end_sec": 369.44,
+    "text": "comprar todavía y fum lo saca de manera"
+  },
+  {
+    "start_sec": 369.44,
+    "end_sec": 371.44,
+    "text": "agresiva y se va cuando esta zona"
+  },
+  {
+    "start_sec": 371.44,
+    "end_sec": 374.04,
+    "text": "termina siendo un Smart Money trap y"
+  },
+  {
+    "start_sec": 374.04,
+    "end_sec": 376.12,
+    "text": "esta zona de acá termina siendo un Smart"
+  },
+  {
+    "start_sec": 376.12,
+    "end_sec": 377.84,
+    "text": "Money trap con este inducement"
+  },
+  {
+    "start_sec": 377.84,
+    "end_sec": 379.96,
+    "text": "intencionado que tenía acá el precio de"
+  },
+  {
+    "start_sec": 379.96,
+    "end_sec": 382.68,
+    "text": "esta manera esta forma me ayuda a mí a"
+  },
+  {
+    "start_sec": 382.68,
+    "end_sec": 385.32,
+    "text": "ver posibles inducciones en el mercado Y"
+  },
+  {
+    "start_sec": 385.32,
+    "end_sec": 387.36,
+    "text": "aunque yo sepa que va a ser alcista"
+  },
+  {
+    "start_sec": 387.36,
+    "end_sec": 389.76,
+    "text": "finalmente porque ya sí teníamos una"
+  },
+  {
+    "start_sec": 389.76,
+    "end_sec": 392.52,
+    "text": "posibilidad por nuestra contexto Macro"
+  },
+  {
+    "start_sec": 392.52,
+    "end_sec": 393.96,
+    "text": "de que el mercado fuera hacia arriba"
+  },
+  {
+    "start_sec": 393.96,
+    "end_sec": 395.72,
+    "text": "pues yo voy a estar tratando de comprar"
+  },
+  {
+    "start_sec": 395.72,
+    "end_sec": 398.64,
+    "text": "en las zonas más bajas o después de las"
+  },
+  {
+    "start_sec": 398.64,
+    "end_sec": 401.32,
+    "text": "manipulaciones del precio para poder"
+  },
+  {
+    "start_sec": 401.32,
+    "end_sec": 403.72,
+    "text": "cubrirme de que cuando el precio haga"
+  },
+  {
+    "start_sec": 403.72,
+    "end_sec": 406.44,
+    "text": "este tipo de inducciones yo no entrar o"
+  },
+  {
+    "start_sec": 406.44,
+    "end_sec": 408.04,
+    "text": "inclusive cuando veas que hace el precio"
+  },
+  {
+    "start_sec": 408.04,
+    "end_sec": 409.92,
+    "text": "de la inducción tú puedes estar en lugar"
+  },
+  {
+    "start_sec": 409.92,
+    "end_sec": 413.12,
+    "text": "de estar aquí comprando puedes estar"
+  },
+  {
+    "start_sec": 413.12,
+    "end_sec": 415.4,
+    "text": "vendiendo con Target hacia la liquidez"
+  },
+  {
+    "start_sec": 415.4,
+    "end_sec": 417.0,
+    "text": "que el precio termina tomando esta"
+  },
+  {
+    "start_sec": 417.0,
+    "end_sec": 419.08,
+    "text": "liquidez que de este mínimo aparte con"
+  },
+  {
+    "start_sec": 419.08,
+    "end_sec": 421.12,
+    "text": "la misa que teníamos que nosotros no"
+  },
+  {
+    "start_sec": 421.12,
+    "end_sec": 423.48,
+    "text": "habíamos tomado la liquidez yo por mi"
+  },
+  {
+    "start_sec": 423.48,
+    "end_sec": 425.12,
+    "text": "parte Estuve tradeando esta zona de aquí"
+  },
+  {
+    "start_sec": 425.12,
+    "end_sec": 427.36,
+    "text": "arriba en ventas salió bastante bien y"
+  },
+  {
+    "start_sec": 427.36,
+    "end_sec": 429.64,
+    "text": "luego estuvimos tradeando esta zona en"
+  },
+  {
+    "start_sec": 429.64,
+    "end_sec": 432.04,
+    "text": "compras una vez que tomó la liquidez y"
+  },
+  {
+    "start_sec": 432.04,
+    "end_sec": 434.2,
+    "text": "esto de acá termina siendo Smart Money"
+  },
+  {
+    "start_sec": 434.2,
+    "end_sec": 437.32,
+    "text": "traps Pero si tú creías que eso era todo"
+  },
+  {
+    "start_sec": 437.32,
+    "end_sec": 439.28,
+    "text": "Fíjate lo que hace aquí el algoritmo me"
+  },
+  {
+    "start_sec": 439.28,
+    "end_sec": 441.16,
+    "text": "elimina la liquidez que tenía acá arriba"
+  },
+  {
+    "start_sec": 441.16,
+    "end_sec": 443.28,
+    "text": "el alto este Y fíjate que acá voy a"
+  },
+  {
+    "start_sec": 443.28,
+    "end_sec": 446.28,
+    "text": "tener otra nueva zona de posible smt por"
+  },
+  {
+    "start_sec": 446.28,
+    "end_sec": 448.44,
+    "text": "qué tengo esta zona de posible smt o"
+  },
+  {
+    "start_sec": 448.44,
+    "end_sec": 451.16,
+    "text": "retroceso porque que yo ya ya tengo una"
+  },
+  {
+    "start_sec": 451.16,
+    "end_sec": 454.16,
+    "text": "dirección bajista perdón alcista porque"
+  },
+  {
+    "start_sec": 454.16,
+    "end_sec": 456.64,
+    "text": "ahora sí tengo el rompimiento este y"
+  },
+  {
+    "start_sec": 456.64,
+    "end_sec": 458.92,
+    "text": "este rompimiento sí es un rompimiento de"
+  },
+  {
+    "start_sec": 458.92,
+    "end_sec": 460.92,
+    "text": "estructura verdadero Por qué Porque ya"
+  },
+  {
+    "start_sec": 460.92,
+    "end_sec": 462.72,
+    "text": "hemos eliminado toda la liquidez que"
+  },
+  {
+    "start_sec": 462.72,
+    "end_sec": 464.6,
+    "text": "teníamos anteriormente entonces"
+  },
+  {
+    "start_sec": 464.6,
+    "end_sec": 466.88,
+    "text": "automáticamente este rompimiento si"
+  },
+  {
+    "start_sec": 466.88,
+    "end_sec": 468.96,
+    "text": "termina siendo un rompimiento válido y"
+  },
+  {
+    "start_sec": 468.96,
+    "end_sec": 471.04,
+    "text": "por lo tanto este fractal si lo voy a"
+  },
+  {
+    "start_sec": 471.04,
+    "end_sec": 473.76,
+    "text": "trabajar o anticipo que este mínimo no"
+  },
+  {
+    "start_sec": 473.76,
+    "end_sec": 475.96,
+    "text": "se va a romper porque ya he sacado la"
+  },
+  {
+    "start_sec": 475.96,
+    "end_sec": 478.0,
+    "text": "liquidez Igualmente anticipo que"
+  },
+  {
+    "start_sec": 478.0,
+    "end_sec": 480.28,
+    "text": "posiblemente desde esta son si tengo una"
+  },
+  {
+    "start_sec": 480.28,
+    "end_sec": 482.32,
+    "text": "dirección alcista desde esta zona voy a"
+  },
+  {
+    "start_sec": 482.32,
+    "end_sec": 484.76,
+    "text": "tener un retroceso solamente O sea que"
+  },
+  {
+    "start_sec": 484.76,
+    "end_sec": 486.68,
+    "text": "solamente voy a tener un retroceso Desde"
+  },
+  {
+    "start_sec": 486.68,
+    "end_sec": 488.8,
+    "text": "esa área de ahí y Fíjate lo que sucede"
+  },
+  {
+    "start_sec": 488.8,
+    "end_sec": 491.24,
+    "text": "el algoritmo hace un pequeño movimiento"
+  },
+  {
+    "start_sec": 491.24,
+    "end_sec": 493.2,
+    "text": "y se va para abajo yo estas fueron las"
+  },
+  {
+    "start_sec": 493.2,
+    "end_sec": 495.52,
+    "text": "últimas ventas que ejecuté por aquí me"
+  },
+  {
+    "start_sec": 495.52,
+    "end_sec": 497.76,
+    "text": "agarré 300 puntos Aproximadamente en"
+  },
+  {
+    "start_sec": 497.76,
+    "end_sec": 500.04,
+    "text": "estas en esta zona fueron la las últimas"
+  },
+  {
+    "start_sec": 500.04,
+    "end_sec": 502.16,
+    "text": "ventas que ejecuté porque sabía que iba"
+  },
+  {
+    "start_sec": 502.16,
+    "end_sec": 505.4,
+    "text": "a haber un smt y después Fíjate que el"
+  },
+  {
+    "start_sec": 505.4,
+    "end_sec": 507.44,
+    "text": "El precio ya llega Ahora sí a una zona"
+  },
+  {
+    "start_sec": 507.44,
+    "end_sec": 509.72,
+    "text": "de demanda Después de llegar a esa zona"
+  },
+  {
+    "start_sec": 509.72,
+    "end_sec": 511.72,
+    "text": "de demanda ya totalmente válida porque"
+  },
+  {
+    "start_sec": 511.72,
+    "end_sec": 513.72,
+    "text": "esta zona ya sí es válida porque ya"
+  },
+  {
+    "start_sec": 513.72,
+    "end_sec": 515.76,
+    "text": "anticipamos que esto es una Smart Money"
+  },
+  {
+    "start_sec": 515.76,
+    "end_sec": 517.16,
+    "text": "trap para la gente que quiera estar"
+  },
+  {
+    "start_sec": 517.16,
+    "end_sec": 519.12,
+    "text": "vendiendo porque mi dirección después de"
+  },
+  {
+    "start_sec": 519.12,
+    "end_sec": 521.16,
+    "text": "haber ocurrido todo esto Mi dirección Ya"
+  },
+  {
+    "start_sec": 521.16,
+    "end_sec": 523.48,
+    "text": "era alcista ya no era bajista entonces"
+  },
+  {
+    "start_sec": 523.48,
+    "end_sec": 525.2,
+    "text": "catalogo esto como una zona de smart"
+  },
+  {
+    "start_sec": 525.2,
+    "end_sec": 527.28,
+    "text": "mony trap que me va a dar solamente una"
+  },
+  {
+    "start_sec": 527.28,
+    "end_sec": 529.68,
+    "text": "reacción o un retroceso no sé qué tan"
+  },
+  {
+    "start_sec": 529.68,
+    "end_sec": 531.32,
+    "text": "profundo pueda ser el retroceso pero"
+  },
+  {
+    "start_sec": 531.32,
+    "end_sec": 533.2,
+    "text": "aquí sí lo dio bastante agresivo porque"
+  },
+  {
+    "start_sec": 533.2,
+    "end_sec": 535.6,
+    "text": "está saliendo de una zona Macro que es"
+  },
+  {
+    "start_sec": 535.6,
+    "end_sec": 537.6,
+    "text": "una temporalidad diaria aparte este"
+  },
+  {
+    "start_sec": 537.6,
+    "end_sec": 539.44,
+    "text": "movimiento que tenemos acá abajo termin"
+  },
+  {
+    "start_sec": 539.44,
+    "end_sec": 541.68,
+    "text": "termina mitigando o termina haciendo que"
+  },
+  {
+    "start_sec": 541.68,
+    "end_sec": 543.72,
+    "text": "el precio llegue al bloque diario"
+  },
+  {
+    "start_sec": 543.72,
+    "end_sec": 545.44,
+    "text": "cerrando todo el imbalance que teníamos"
+  },
+  {
+    "start_sec": 545.44,
+    "end_sec": 547.24,
+    "text": "acá abierto y que llegue al bloque"
+  },
+  {
+    "start_sec": 547.24,
+    "end_sec": 549.28,
+    "text": "diario que quería llegar el precio no"
+  },
+  {
+    "start_sec": 549.28,
+    "end_sec": 551.12,
+    "text": "llega a este de acá porque este ya es el"
+  },
+  {
+    "start_sec": 551.12,
+    "end_sec": 553.4,
+    "text": "extremo extremo Pero sí llega a este"
+  },
+  {
+    "start_sec": 553.4,
+    "end_sec": 555.04,
+    "text": "bloque que era bastante importante que"
+  },
+  {
+    "start_sec": 555.04,
+    "end_sec": 557.48,
+    "text": "era el que mayormente tenía la liquidez"
+  },
+  {
+    "start_sec": 557.48,
+    "end_sec": 559.4,
+    "text": "ahora si seguimos estudiando en una hora"
+  },
+  {
+    "start_sec": 559.4,
+    "end_sec": 562.76,
+    "text": "fíjense como después vamos a bueno en 15"
+  },
+  {
+    "start_sec": 562.76,
+    "end_sec": 565.08,
+    "text": "minutos para que se vea se vea bien el"
+  },
+  {
+    "start_sec": 565.08,
+    "end_sec": 567.36,
+    "text": "precio va hacia arriba y fíjense como"
+  },
+  {
+    "start_sec": 567.36,
+    "end_sec": 570.4,
+    "text": "nos crea otra Smart mony desde aquí por"
+  },
+  {
+    "start_sec": 570.4,
+    "end_sec": 572.68,
+    "text": "qué sé que es una posible Smart mor trap"
+  },
+  {
+    "start_sec": 572.68,
+    "end_sec": 574.36,
+    "text": "eso yo estuve de hecho comprando por"
+  },
+  {
+    "start_sec": 574.36,
+    "end_sec": 576.0,
+    "text": "aquí por aquí estuve comprando por esta"
+  },
+  {
+    "start_sec": 576.0,
+    "end_sec": 577.72,
+    "text": "zona porque ya sabía que esta era una"
+  },
+  {
+    "start_sec": 577.72,
+    "end_sec": 579.44,
+    "text": "zona de smart Money trap Por qué sé que"
+  },
+  {
+    "start_sec": 579.44,
+    "end_sec": 582.36,
+    "text": "es una smt porque ya sé que mi dirección"
+  },
+  {
+    "start_sec": 582.36,
+    "end_sec": 585.6,
+    "text": "es alcista y que mi demanda está en"
+  },
+  {
+    "start_sec": 585.6,
+    "end_sec": 588.32,
+    "text": "control de del movimiento alcista que la"
+  },
+  {
+    "start_sec": 588.32,
+    "end_sec": 590.04,
+    "text": "demanda está en control o entonces estas"
+  },
+  {
+    "start_sec": 590.04,
+    "end_sec": 592.24,
+    "text": "zonas de aquí van a ser los retrocesos"
+  },
+  {
+    "start_sec": 592.24,
+    "end_sec": 594.28,
+    "text": "para hacer crear a la gente que esto va"
+  },
+  {
+    "start_sec": 594.28,
+    "end_sec": 596.0,
+    "text": "a funcionar como ventas cuando en"
+  },
+  {
+    "start_sec": 596.0,
+    "end_sec": 597.48,
+    "text": "realidad la dirección es alcista"
+  },
+  {
+    "start_sec": 597.48,
+    "end_sec": 599.68,
+    "text": "entonces me crea una inducción el precio"
+  },
+  {
+    "start_sec": 599.68,
+    "end_sec": 601.52,
+    "text": "luego me genera este como tipo línea de"
+  },
+  {
+    "start_sec": 601.52,
+    "end_sec": 603.6,
+    "text": "tendencia me saca un poco de liquidez"
+  },
+  {
+    "start_sec": 603.6,
+    "end_sec": 606.04,
+    "text": "interna aquí Bueno aquí saca liquidez"
+  },
+  {
+    "start_sec": 606.04,
+    "end_sec": 607.48,
+    "text": "interna de esta línea de tendencia me"
+  },
+  {
+    "start_sec": 607.48,
+    "end_sec": 609.68,
+    "text": "deja este doble piso y luego fíjate como"
+  },
+  {
+    "start_sec": 609.68,
+    "end_sec": 611.68,
+    "text": "el algoritmo de manera agresiva limpia"
+  },
+  {
+    "start_sec": 611.68,
+    "end_sec": 614.04,
+    "text": "el alto ese alto que teníamos y después"
+  },
+  {
+    "start_sec": 614.04,
+    "end_sec": 615.6,
+    "text": "viene con un movimiento agresivo de"
+  },
+  {
+    "start_sec": 615.6,
+    "end_sec": 617.8,
+    "text": "nuevo a esta zona Porque habíamos dejado"
+  },
+  {
+    "start_sec": 617.8,
+    "end_sec": 620.64,
+    "text": "mucha liquidez interna acá o sea que el"
+  },
+  {
+    "start_sec": 620.64,
+    "end_sec": 622.92,
+    "text": "algoritmo viene por la liquidez externa"
+  },
+  {
+    "start_sec": 622.92,
+    "end_sec": 625.12,
+    "text": "y después se se va por la liquidez"
+  },
+  {
+    "start_sec": 625.12,
+    "end_sec": 627.32,
+    "text": "interna en cuanto vemos nosotros que el"
+  },
+  {
+    "start_sec": 627.32,
+    "end_sec": 629.84,
+    "text": "algoritmo limpia toda esta liquidez"
+  },
+  {
+    "start_sec": 629.84,
+    "end_sec": 631.76,
+    "text": "ya sabemos que va a ir para arriba y acá"
+  },
+  {
+    "start_sec": 631.76,
+    "end_sec": 635.12,
+    "text": "da otra nueva smt fíjate aquí por qué da"
+  },
+  {
+    "start_sec": 635.12,
+    "end_sec": 638.04,
+    "text": "otra nueva smt Pues porque ya veíamos la"
+  },
+  {
+    "start_sec": 638.04,
+    "end_sec": 640.28,
+    "text": "ruptura acá de esta esta estructura"
+  },
+  {
+    "start_sec": 640.28,
+    "end_sec": 642.8,
+    "text": "interna este termina siendo los los los"
+  },
+  {
+    "start_sec": 642.8,
+    "end_sec": 644.88,
+    "text": "inducement aunque no hay un inducement"
+  },
+  {
+    "start_sec": 644.88,
+    "end_sec": 647.8,
+    "text": "de la liquidez externa realmente que"
+  },
+  {
+    "start_sec": 647.8,
+    "end_sec": 650.16,
+    "text": "sería de este mínimo que tenemos por acá"
+  },
+  {
+    "start_sec": 650.16,
+    "end_sec": 652.8,
+    "text": "abajo Realmente si hay un inducement de"
+  },
+  {
+    "start_sec": 652.8,
+    "end_sec": 655.92,
+    "text": "un chock un aquí de del del"
+  },
+  {
+    "start_sec": 655.92,
+    "end_sec": 657.6,
+    "text": "fractal interno cuando el mercado"
+  },
+  {
+    "start_sec": 657.6,
+    "end_sec": 659.72,
+    "text": "regresa Fíjate que una una vez que"
+  },
+  {
+    "start_sec": 659.72,
+    "end_sec": 662.0,
+    "text": "regresa hace una pequeña inducción aquí"
+  },
+  {
+    "start_sec": 662.0,
+    "end_sec": 663.84,
+    "text": "pero muy pequeña aquí en este punto de"
+  },
+  {
+    "start_sec": 663.84,
+    "end_sec": 665.8,
+    "text": "aquí luego la saca y luego trata de"
+  },
+  {
+    "start_sec": 665.8,
+    "end_sec": 667.52,
+    "text": "hacer otra inducción acá arriba y yo"
+  },
+  {
+    "start_sec": 667.52,
+    "end_sec": 669.76,
+    "text": "estuve comprando por esta zona primero"
+  },
+  {
+    "start_sec": 669.76,
+    "end_sec": 671.96,
+    "text": "por esta zona de aquí a la alza y luego"
+  },
+  {
+    "start_sec": 671.96,
+    "end_sec": 673.76,
+    "text": "estuvimos comprando por esta zona de acá"
+  },
+  {
+    "start_sec": 673.76,
+    "end_sec": 676.0,
+    "text": "a la alza también de hecho por aquí"
+  },
+  {
+    "start_sec": 676.0,
+    "end_sec": 677.8,
+    "text": "Estaba comprando yo el mercado luego me"
+  },
+  {
+    "start_sec": 677.8,
+    "end_sec": 679.48,
+    "text": "abrió con este tremendo Gap se fue para"
+  },
+  {
+    "start_sec": 679.48,
+    "end_sec": 682.16,
+    "text": "arriba regresó Y fíjate que después de"
+  },
+  {
+    "start_sec": 682.16,
+    "end_sec": 686.68,
+    "text": "que regresa sucede lo mismo igualito"
+  }
+]

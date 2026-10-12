@@ -1,0 +1,520 @@
+---
+source_id: YT_CANAL_02_q_pNyNNl5zY
+video_id: q_pNyNNl5zY
+channel: "Gustavom.Trader"
+published_at: 2023-12-03
+url: https://www.youtube.com/watch?v=q_pNyNNl5zY
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 4
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# ¡Perdí $1,000,000 haciendo Trading!
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=q_pNyNNl5zY)
+
+## Transcript
+
+```
+[00:00:00]
+el día de hoy Les vengo a traer o a
+
+[00:00:02]
+contar mi experiencia de cómo perdí un
+
+[00:00:04]
+millón de dólares en trading Así es
+
+[00:00:07]
+amigos tuve la mala fortuna de estar
+
+[00:00:10]
+perdiendo un millón de dólares en
+
+[00:00:11]
+trading concretamente en pruebas de
+
+[00:00:14]
+fondeo los que no han visto mi video
+
+[00:00:16]
+donde pasé de 0 a 800,000 en pruebas de
+
+[00:00:20]
+fondeo de My Forest fund y luego hicimos
+
+[00:00:23]
+bueno programamos o ya teníamos profit
+
+[00:00:25]
+de 42,000 les invito a que lo vean pero
+
+[00:00:28]
+en ese video les plati que precisamente
+
+[00:00:30]
+eso yo ya estaba Por recibir los retiros
+
+[00:00:33]
+como una semana después de que eh del 14
+
+[00:00:37]
+de septiembre Que fue cuando my Forest F
+
+[00:00:40]
+decidió irse y psicológicamente Pues a
+
+[00:00:43]
+mí me afectó bastante pero con la
+
+[00:00:45]
+mentalidad que yo ya traía decidimos
+
+[00:00:47]
+tirar para adelante y adquirimos una
+
+[00:00:50]
+cuenta de 400k en de funder Trader otra
+
+[00:00:53]
+cuenta de 300k en Rocket 21 otra cuenta
+
+[00:00:56]
+de 200k en ftmo y otra cuenta de 200k en
+
+[00:01:00]
+funden next que son compañías con las
+
+[00:01:02]
+que me han gustado bastante y una
+
+[00:01:04]
+primera cosa que o error que yo había
+
+[00:01:06]
+cometido Antes que nada decirles que
+
+[00:01:08]
+estén atentos al Canal porque se vienen
+
+[00:01:10]
+revisiones de esas empresas Entonces
+
+[00:01:12]
+atentos al Canal y al Telegram que está
+
+[00:01:14]
+abajo en la descripción dicho esto
+
+[00:01:16]
+eh quisimos tirar para adelante con
+
+[00:01:19]
+estas empresas y eh empecé yo a seguir
+
+[00:01:22]
+gestionando el capital eh de manera en
+
+[00:01:25]
+conjunto para tratar de pasar estas
+
+[00:01:27]
+cuentas un error que había cometido en
+
+[00:01:29]
+el pasado era no haber diversificado eh
+
+[00:01:32]
+Y tener todo el capital en My Forest
+
+[00:01:34]
+font de manera que cuando se fue my
+
+[00:01:36]
+Forest fone pues Perdí todo ahora no
+
+[00:01:38]
+quise que me pasara lo mismo y
+
+[00:01:40]
+adquirimos diversas cuentas qué pasa que
+
+[00:01:42]
+psicológicamente yo ya venía un poquito
+
+[00:01:44]
+afectado Aunque todavía estaba bien
+
+[00:01:46]
+porque tenía una racha bastante positiva
+
+[00:01:48]
+en cuanto a Trade duramos alrededor de
+
+[00:01:50]
+90 días sin perder un solo Trade y eh
+
+[00:01:53]
+nos fue bastante bien anteriormente pero
+
+[00:01:55]
+me sobreconfianza
+
+[00:01:59]
+hacer cosas que no debía hacer o que no
+
+[00:02:02]
+no no me habían llevado al éxito y eh
+
+[00:02:06]
+una vez que había yo tenía un exceso de
+
+[00:02:08]
+confianza también por un poquito por la
+
+[00:02:10]
+ansiedad de querer pasar las cuentas
+
+[00:02:12]
+rápidamente de querer poder hacer un
+
+[00:02:14]
+buen retiro también yo ya me iba a ir de
+
+[00:02:16]
+vacaciones en este tiempo y pues al
+
+[00:02:19]
+perder ese capital pues eh quise volver
+
+[00:02:21]
+a replicar lo que había hecho pero no lo
+
+[00:02:24]
+hice totalmente porque me desesperé
+
+[00:02:26]
+arriesgué más y una cosa que les quería
+
+[00:02:28]
+decir es la la cosa que realmente me
+
+[00:02:32]
+hizo perder todo ese capital para que
+
+[00:02:34]
+ustedes aprendan fue la cosa de los
+
+[00:02:36]
+hábitos yo tenía muy buenos hábitos
+
+[00:02:38]
+anteriormente le estaba echando bastante
+
+[00:02:40]
+ganas a a la cuestión de hacer ejercicio
+
+[00:02:43]
+alimentarme sanamente dormirme a mis
+
+[00:02:44]
+horas este leer eh estaba leyendo
+
+[00:02:48]
+constantemente estaba muy Focus muy modo
+
+[00:02:51]
+Focus en lo que tenía que hacer aparte
+
+[00:02:54]
+empecé acá a ser sobre operativa no
+
+[00:02:57]
+sobre operativa así sino que empecé a a
+
+[00:02:59]
+sobrem mirar el gráfico demasiado tenía
+
+[00:03:01]
+mucha ansiedad empecé no a esperar mi
+
+[00:03:04]
+setups de alta probabilidad y eso
+
+[00:03:05]
+encadenó que empezara a perder adicional
+
+[00:03:08]
+a eso de que no me habían pagado y la
+
+[00:03:10]
+psicología de que empecé a perder pues
+
+[00:03:12]
+Sencillamente empecé a a ponerme en una
+
+[00:03:14]
+racha de pérdidas no tan fuerte pero sí
+
+[00:03:17]
+como estaba arriesgando demasiado
+
+[00:03:18]
+rápidamente las cuentas cayeron a un drw
+
+[00:03:20]
+down bastante fuerte lo que me hizo
+
+[00:03:23]
+bajar el riesgo y disminuirlo pero ya no
+
+[00:03:25]
+me pude levantar del hoyo en el que
+
+[00:03:27]
+estaba Y llevé las cuentas como a menos
+
+[00:03:29]
+8 - 7% y ahí ya me quedé y decidí ya
+
+[00:03:33]
+parar de lo que estaba haciendo y
+
+[00:03:35]
+empezar a recapacitar también otra cosa
+
+[00:03:37]
+que les quería dejar en cuenta es que
+
+[00:03:40]
+anteriormente cuando yo estaba muy modo
+
+[00:03:41]
+Focus
+
+[00:03:42]
+eh lo que estaba haciendo era llenar mi
+
+[00:03:45]
+journal y analizar las entradas
+
+[00:03:48]
+concretamente que hacía y ahora que
+
+[00:03:51]
+estaba tomando lo que sea no estaba
+
+[00:03:53]
+analizando mis entradas no estaba
+
+[00:03:55]
+llenando mi journal Entonces es algo que
+
+[00:03:57]
+yo les podría dar en cuenta el riesgo no
+
+[00:04:00]
+creo que haya sido algo con lo que me
+
+[00:04:03]
+haya tenido un mal mal resultado por eso
+
+[00:04:07]
+pero algo que sí aprendí de todo esto es
+
+[00:04:10]
+que eh podemos moderar el riesgo en
+
+[00:04:13]
+cuanto a tener un riesgo bajo un riesgo
+
+[00:04:16]
+bajo conservador medio y un riesgo alto
+
+[00:04:19]
+entonces no es necesario que yo tenga
+
+[00:04:21]
+todas las cuentas con un riesgo alto
+
+[00:04:23]
+sino que ahora puedo decidir ser más
+
+[00:04:25]
+arriesgado en algunas cuentas menos
+
+[00:04:26]
+arriesgado en otras y un poquito eh
+
+[00:04:30]
+mucho menos arriesgado en otras entonces
+
+[00:04:32]
+eh eso es algo que me quedó en lección
+
+[00:04:34]
+No yo estaba anteriormente operando
+
+[00:04:36]
+todas las cuentas con un riesgo alto
+
+[00:04:38]
+pero ahora que me metí en una racha
+
+[00:04:40]
+negativa realmente Si yo realmente lo
+
+[00:04:42]
+que haya hecho es a lo mejor una cuenta
+
+[00:04:45]
+o dos cuentas a operarlas con un riesgo
+
+[00:04:47]
+alto y me haya pasado eso no haya
+
+[00:04:49]
+perdido las demás cuentas entonces la
+
+[00:04:51]
+manera ahora en resumen que quiero
+
+[00:04:53]
+hacerlo es enfocarlo en este 2024 voy a
+
+[00:04:56]
+ir por mucho más capital siempre lo
+
+[00:04:58]
+estoy diciendo en mi Telegram vamos a ir
+
+[00:04:59]
+por 3 millones de dó y voy a enfocar
+
+[00:05:02]
+diferente las cuentas Ya no las voy a
+
+[00:05:04]
+operar de manera conjunta sí voy a estar
+
+[00:05:06]
+siendo agresivo en algunas cuentas pero
+
+[00:05:08]
+ya no las voy a operar de manera
+
+[00:05:09]
+conjunta todas sino que voy a agarrar
+
+[00:05:11]
+unas cuentas para ser más agresivo un
+
+[00:05:13]
+cuentas para ser menos agresivo y otras
+
+[00:05:15]
+cuentas para ser mucho menos agresivo en
+
+[00:05:17]
+cuanto a challenge y también en cuenta
+
+[00:05:20]
+real alguna de las cuentas las voy a
+
+[00:05:22]
+meter a operar con un 0.5 por muy
+
+[00:05:24]
+conservador otras de las cuentas Ya las
+
+[00:05:26]
+voy a meter a operar con un 1% y otr de
+
+[00:05:29]
+las cuentas con 1.5 por. La idea es
+
+[00:05:32]
+tener 1 millón y medio de capital con un
+
+[00:05:34]
+0.5 por un riesgo bastante conservador
+
+[00:05:36]
+con los que con objetivos de entre 1 a
+
+[00:05:39]
+2% mensuales y acá en la riesgo medio
+
+[00:05:42]
+tener a la mejor 1 millón con objetivos
+
+[00:05:44]
+un poquito más grandes y un poquito más
+
+[00:05:47]
+arriesgado como lo venía haciendo
+
+[00:05:48]
+anteriormente con 1.5 por un medio
+
+[00:05:51]
+millón pero ahí ya no tener ya todo el
+
+[00:05:54]
+capital en un solo riesgo Entonces voy a
+
+[00:05:57]
+ir diversificando y bueno este es el
+
+[00:05:59]
+camino que he tenido Espero que les
+
+[00:06:01]
+ayude mi experiencia eh nunca dejen de
+
+[00:06:04]
+hacer lo que estaban haciendo una vez
+
+[00:06:05]
+que tuvieron el éxito no se desesperen
+
+[00:06:08]
+el mercado siempre da nuevas
+
+[00:06:09]
+oportunidades y a my Forest F Nos quitó
+
+[00:06:13]
+el capital que teníamos la habilidad la
+
+[00:06:14]
+tenemos y gracias a haber por estado
+
+[00:06:17]
+aquí escuchándome suscríbanse a mi canal
+
+[00:06:19]
+estamos ya queriendo llegar a los 2000
+
+[00:06:21]
+suscriptores métanle caña ahí piquen el
+
+[00:06:23]
+botón de suscribirse abajo en la
+
+[00:06:25]
+descripción están todas mis redes
+
+[00:06:27]
+sociales Instagram canal de WhatsApp
+
+[00:06:29]
+Telegram para que me vayan a seguir por
+
+[00:06:31]
+ahí y nos vemos en el siguiente video
+
+[00:06:33]
+amigos
+```

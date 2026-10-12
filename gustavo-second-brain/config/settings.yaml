@@ -1,0 +1,35 @@
+# gustavo-second-brain global settings
+
+language:
+  primary: es
+
+transcription:
+  cascade:
+    - youtube_official   # OAuth captions().download() -- tokens/youtube_gustavo*.json, see fetch_captions.py
+    - yt_dlp_manual
+    - yt_dlp_auto
+    - whisper_local       # see transcribe_missing.py
+  whisper:
+    model_size: medium
+    device: cpu          # Apple Silicon (arm64), no CUDA -- CPU with int8 compute
+    compute_type: int8
+
+chunking:
+  target_seconds_min: 60
+  target_seconds_max: 120
+  overlap_seconds: 10
+
+search:
+  fts_enabled: true
+  semantic_enabled: true
+  embedding_model: paraphrase-multilingual-mpnet-base-v2
+
+pilot:
+  video_count: 10
+  per_channel: 5
+
+drive:
+  source_folder_id: "1kggFa7toDnOvD3WCJf2tI_iaNDEwehr6"   # SOURCE OF TRUTH -- read-only, never modify
+  dest_folder_id: "1OCPpwwGtRmIgAXfhFNmJ9WL9uBSP-OXU"       # Segundo Cerebro -- destination
+
+cost_mode: zero_cost   # no paid APIs without explicit authorization

@@ -1,0 +1,3277 @@
+[
+  {
+    "start_sec": 0.04,
+    "end_sec": 1.68,
+    "text": "Pues hola, ¿qué pasa a todos amigos de"
+  },
+  {
+    "start_sec": 1.68,
+    "end_sec": 4.76,
+    "text": "YouTube? Estamos en un nuevo video, esta"
+  },
+  {
+    "start_sec": 4.76,
+    "end_sec": 8.52,
+    "text": "vez trayéndoles chahan."
+  },
+  {
+    "start_sec": 8.52,
+    "end_sec": 9.72,
+    "text": "[risas]"
+  },
+  {
+    "start_sec": 9.72,
+    "end_sec": 13.12,
+    "text": "Vamos a ver la estrategia CRT, el vayas"
+  },
+  {
+    "start_sec": 13.12,
+    "end_sec": 15.2,
+    "text": "y vamos a hablar de entraditas con la"
+  },
+  {
+    "start_sec": 15.2,
+    "end_sec": 18.2,
+    "text": "estrategia CRT. Bienvenido a mi canal."
+  },
+  {
+    "start_sec": 18.2,
+    "end_sec": 20.08,
+    "text": "Si eres nuevo, suscríbete a este bello y"
+  },
+  {
+    "start_sec": 20.08,
+    "end_sec": 22.8,
+    "text": "hermoso canal que estamos muy cerquitas"
+  },
+  {
+    "start_sec": 22.8,
+    "end_sec": 26.0,
+    "text": "de los son 5,000 suscriptores. Nos falta"
+  },
+  {
+    "start_sec": 26.0,
+    "end_sec": 28.88,
+    "text": "ya poquitito. Y dale me gusta a este"
+  },
+  {
+    "start_sec": 28.88,
+    "end_sec": 30.28,
+    "text": "video porque estamos trayendo un"
+  },
+  {
+    "start_sec": 30.28,
+    "end_sec": 34.48,
+    "text": "contenido muy bello y hermoso sobre CRT,"
+  },
+  {
+    "start_sec": 34.48,
+    "end_sec": 37.12,
+    "text": "sobre la estrategia CRT. Precisamente el"
+  },
+  {
+    "start_sec": 37.12,
+    "end_sec": 40.88,
+    "text": "video del día de hoy vamos a cubrir eh"
+  },
+  {
+    "start_sec": 40.88,
+    "end_sec": 42.8,
+    "text": "un desarrollo de los análisis que"
+  },
+  {
+    "start_sec": 42.8,
+    "end_sec": 45.52,
+    "text": "hicimos en vivo en este canal de"
+  },
+  {
+    "start_sec": 45.52,
+    "end_sec": 47.12,
+    "text": "YouTube. Estuvimos en vivo el día"
+  },
+  {
+    "start_sec": 47.12,
+    "end_sec": 49.56,
+    "text": "domingo, hoy estamos a martes, domingo"
+  },
+  {
+    "start_sec": 49.56,
+    "end_sec": 53.16,
+    "text": "4. Domingo 4 de enero estuvimos este"
+  },
+  {
+    "start_sec": 53.16,
+    "end_sec": 55.64,
+    "text": "haciendo análisis en vivo y les dejé"
+  },
+  {
+    "start_sec": 55.64,
+    "end_sec": 60.0,
+    "text": "unas proyecciones de varios activos eh"
+  },
+  {
+    "start_sec": 60.0,
+    "end_sec": 62.32,
+    "text": "en mi Telegram y en el en vivo. Entre"
+  },
+  {
+    "start_sec": 62.32,
+    "end_sec": 66.64,
+    "text": "ellos hicimos Nasdaq, eh oro, eurodólar,"
+  },
+  {
+    "start_sec": 66.64,
+    "end_sec": 70.2,
+    "text": "el el dólar, la libra y el Bitcoin. Este"
+  },
+  {
+    "start_sec": 70.2,
+    "end_sec": 74.04,
+    "text": "video vas a tener un combo doble, un dos"
+  },
+  {
+    "start_sec": 74.04,
+    "end_sec": 75.8,
+    "text": "por uno, por así decirlo, porque te voy"
+  },
+  {
+    "start_sec": 75.8,
+    "end_sec": 77.72,
+    "text": "a explicar cómo tomé el día de hoy esta"
+  },
+  {
+    "start_sec": 77.72,
+    "end_sec": 80.2,
+    "text": "entrada. Te enseñaré incluso el"
+  },
+  {
+    "start_sec": 80.2,
+    "end_sec": 82.52,
+    "text": "Metatrader para que tú veas cómo ejecuté"
+  },
+  {
+    "start_sec": 82.52,
+    "end_sec": 85.96,
+    "text": "la entrada y este y te enseñaré el"
+  },
+  {
+    "start_sec": 85.96,
+    "end_sec": 88.32,
+    "text": "análisis del Vallas, cómo interpreté la"
+  },
+  {
+    "start_sec": 88.32,
+    "end_sec": 90.16,
+    "text": "dirección del precio y cómo tomé la"
+  },
+  {
+    "start_sec": 90.16,
+    "end_sec": 92.16,
+    "text": "entrada. Exactamente, esta va a ser la"
+  },
+  {
+    "start_sec": 92.16,
+    "end_sec": 94.36,
+    "text": "explicación. Eh, viendo que les gustó"
+  },
+  {
+    "start_sec": 94.36,
+    "end_sec": 97.48,
+    "text": "bastante el último video que hice en que"
+  },
+  {
+    "start_sec": 97.48,
+    "end_sec": 100.92,
+    "text": "lo subí a mi otro canal, eh, de"
+  },
+  {
+    "start_sec": 100.92,
+    "end_sec": 103.2,
+    "text": "explicación de o review de trades."
+  },
+  {
+    "start_sec": 103.2,
+    "end_sec": 104.68,
+    "text": "Entonces, si les gusta mucho este"
+  },
+  {
+    "start_sec": 104.68,
+    "end_sec": 106.12,
+    "text": "contenido, voy a seguir haciendo más"
+  },
+  {
+    "start_sec": 106.12,
+    "end_sec": 107.84,
+    "text": "videos como este. Entonces, para no"
+  },
+  {
+    "start_sec": 107.84,
+    "end_sec": 111.36,
+    "text": "enrollarme tanto, vamos a ver primero eh"
+  },
+  {
+    "start_sec": 111.36,
+    "end_sec": 112.88,
+    "text": "las proyecciones que les mandé en"
+  },
+  {
+    "start_sec": 112.88,
+    "end_sec": 116.24,
+    "text": "Telegram. Eh, y veremos ahorita cómo"
+  },
+  {
+    "start_sec": 116.24,
+    "end_sec": 117.96,
+    "text": "tomé esta entrada, cómo identifica el"
+  },
+  {
+    "start_sec": 117.96,
+    "end_sec": 120.48,
+    "text": "vallas. Y también tengo otra entrada que"
+  },
+  {
+    "start_sec": 120.48,
+    "end_sec": 122.32,
+    "text": "me salió en break even, que se las voy a"
+  },
+  {
+    "start_sec": 122.32,
+    "end_sec": 126.32,
+    "text": "mostrar también en ventas. Y bueno,"
+  },
+  {
+    "start_sec": 126.32,
+    "end_sec": 128.0,
+    "text": "vamos allá a mi Telegram, que si no"
+  },
+  {
+    "start_sec": 128.0,
+    "end_sec": 130.12,
+    "text": "estás dentro de mi Telegram, te invito a"
+  },
+  {
+    "start_sec": 130.12,
+    "end_sec": 133.12,
+    "text": "que te pases por mi Telegram, eh, está"
+  },
+  {
+    "start_sec": 133.12,
+    "end_sec": 136.08,
+    "text": "abajo en la descripción de este video y"
+  },
+  {
+    "start_sec": 136.08,
+    "end_sec": 138.28,
+    "text": "en el en vivo, que fue este en vivo,"
+  },
+  {
+    "start_sec": 138.28,
+    "end_sec": 140.08,
+    "text": "aquí está. Tú lo puedes ir a ver a mi"
+  },
+  {
+    "start_sec": 140.08,
+    "end_sec": 142.88,
+    "text": "canal de YouTube en vivo. Aquí les puse"
+  },
+  {
+    "start_sec": 142.88,
+    "end_sec": 146.08,
+    "text": "hicimos eh el sorteo de los ganadores de"
+  },
+  {
+    "start_sec": 146.08,
+    "end_sec": 148.36,
+    "text": "cuentas de Funden Next y hicimos"
+  },
+  {
+    "start_sec": 148.36,
+    "end_sec": 150.6,
+    "text": "análisis en vivo. Yo les estuve mandando"
+  },
+  {
+    "start_sec": 150.6,
+    "end_sec": 152.8,
+    "text": "esta proyección del NASDAQ 100. ¿Por qué"
+  },
+  {
+    "start_sec": 152.8,
+    "end_sec": 154.48,
+    "text": "operé Nasdaq 100? Porque como bien"
+  },
+  {
+    "start_sec": 154.48,
+    "end_sec": 156.08,
+    "text": "saben, los que ya me conozcan de tiempo,"
+  },
+  {
+    "start_sec": 156.08,
+    "end_sec": 159.64,
+    "text": "yo solamente opero Nasdaq 100. Pero esto"
+  },
+  {
+    "start_sec": 159.64,
+    "end_sec": 162.24,
+    "text": "que que ven aquí, esto es lo mismo que"
+  },
+  {
+    "start_sec": 162.24,
+    "end_sec": 165.4,
+    "text": "yo hago cada semana en mi comunidad"
+  },
+  {
+    "start_sec": 165.4,
+    "end_sec": 167.64,
+    "text": "privada. Cada semana yo voy haciendo"
+  },
+  {
+    "start_sec": 167.64,
+    "end_sec": 170.12,
+    "text": "análisis. del vayas o de la dirección"
+  },
+  {
+    "start_sec": 170.12,
+    "end_sec": 172.76,
+    "text": "del precio para mis alumnos que toman eh"
+  },
+  {
+    "start_sec": 172.76,
+    "end_sec": 174.92,
+    "text": "que están en mentoría uno a uno y en la"
+  },
+  {
+    "start_sec": 174.92,
+    "end_sec": 176.68,
+    "text": "comunidad privada les voy haciendo esto"
+  },
+  {
+    "start_sec": 176.68,
+    "end_sec": 179.8,
+    "text": "mismo. Pero ahora decidí a hacerlo"
+  },
+  {
+    "start_sec": 179.8,
+    "end_sec": 182.16,
+    "text": "público para que tengan una probadita de"
+  },
+  {
+    "start_sec": 182.16,
+    "end_sec": 184.36,
+    "text": "lo que vamos haciendo cada semana en la"
+  },
+  {
+    "start_sec": 184.36,
+    "end_sec": 186.56,
+    "text": "comunidad privada, que es para los"
+  },
+  {
+    "start_sec": 186.56,
+    "end_sec": 188.56,
+    "text": "alumnos de mentoría un a uno. Entonces,"
+  },
+  {
+    "start_sec": 188.56,
+    "end_sec": 191.04,
+    "text": "aquí les puse la proyección gratis, aquí"
+  },
+  {
+    "start_sec": 191.04,
+    "end_sec": 193.12,
+    "text": "se las puse en mi canal. Esta es la"
+  },
+  {
+    "start_sec": 193.12,
+    "end_sec": 194.76,
+    "text": "proyección que les puse. Eh,"
+  },
+  {
+    "start_sec": 194.76,
+    "end_sec": 197.0,
+    "text": "identificábamos este rango de 3 horas y"
+  },
+  {
+    "start_sec": 197.0,
+    "end_sec": 199.2,
+    "text": "6 horas y les decía que estábamos"
+  },
+  {
+    "start_sec": 199.2,
+    "end_sec": 201.76,
+    "text": "metidos en un rango semanal y alcista,"
+  },
+  {
+    "start_sec": 201.76,
+    "end_sec": 203.72,
+    "text": "¿no? Esta la flechita. Esperaba un"
+  },
+  {
+    "start_sec": 203.72,
+    "end_sec": 206.08,
+    "text": "retroceso para luego seguir subiendo."
+  },
+  {
+    "start_sec": 206.08,
+    "end_sec": 207.6,
+    "text": "Ahorita vamos a hablar del retroceso"
+  },
+  {
+    "start_sec": 207.6,
+    "end_sec": 210.48,
+    "text": "también. Aquí está el oro. Ahorita lo"
+  },
+  {
+    "start_sec": 210.48,
+    "end_sec": 212.12,
+    "text": "vamos a revisar cada uno de los pares."
+  },
+  {
+    "start_sec": 212.12,
+    "end_sec": 214.4,
+    "text": "El oro. Este es el eurodólar. También"
+  },
+  {
+    "start_sec": 214.4,
+    "end_sec": 217.08,
+    "text": "salió bastante bien. El dólar. La libra"
+  },
+  {
+    "start_sec": 217.08,
+    "end_sec": 219.0,
+    "text": "fue la que salió peor, pero ahorita"
+  },
+  {
+    "start_sec": 219.0,
+    "end_sec": 221.04,
+    "text": "vamos a explicarlo también. y el"
+  },
+  {
+    "start_sec": 221.04,
+    "end_sec": 223.24,
+    "text": "Bitcoin. Aquí está el Bitcoin también"
+  },
+  {
+    "start_sec": 223.24,
+    "end_sec": 225.44,
+    "text": "que va bastante bien también. Esto fue"
+  },
+  {
+    "start_sec": 225.44,
+    "end_sec": 227.68,
+    "text": "lo que analizamos en vivo, pero vamos a"
+  },
+  {
+    "start_sec": 227.68,
+    "end_sec": 229.2,
+    "text": "cubrir primero el Nasdaq y después"
+  },
+  {
+    "start_sec": 229.2,
+    "end_sec": 232.12,
+    "text": "veremos estos pares también. Entonces,"
+  },
+  {
+    "start_sec": 232.12,
+    "end_sec": 236.44,
+    "text": "vamos a ir ahora a enseñarles eh algo"
+  },
+  {
+    "start_sec": 236.44,
+    "end_sec": 238.76,
+    "text": "que para mí es bastante importante, que"
+  },
+  {
+    "start_sec": 238.76,
+    "end_sec": 242.28,
+    "text": "es la explicación del trade. Miren que"
+  },
+  {
+    "start_sec": 242.28,
+    "end_sec": 243.84,
+    "text": "antes de pasar exactamente a la"
+  },
+  {
+    "start_sec": 243.84,
+    "end_sec": 245.52,
+    "text": "explicación del trade, lo que voy a"
+  },
+  {
+    "start_sec": 245.52,
+    "end_sec": 247.48,
+    "text": "hacer es mostrarles el Metatrader,"
+  },
+  {
+    "start_sec": 247.48,
+    "end_sec": 249.28,
+    "text": "porque actualmente esa entrada que ven"
+  },
+  {
+    "start_sec": 249.28,
+    "end_sec": 252.72,
+    "text": "ahí en pantalla todavía está corriendo"
+  },
+  {
+    "start_sec": 252.72,
+    "end_sec": 255.8,
+    "text": "y les voy a poner aquí el contexto, ¿no?"
+  },
+  {
+    "start_sec": 255.8,
+    "end_sec": 258.52,
+    "text": "Eh, okay, vamos a enseñarles el"
+  },
+  {
+    "start_sec": 258.52,
+    "end_sec": 260.36,
+    "text": "Metatrader. Aquí lo tengo conectado."
+  },
+  {
+    "start_sec": 260.36,
+    "end_sec": 263.6,
+    "text": "Tengo conectado el Metatrader 5 desde el"
+  },
+  {
+    "start_sec": 263.6,
+    "end_sec": 265.64,
+    "text": "móvil. Yo uso móvil siempre toda la vida"
+  },
+  {
+    "start_sec": 265.64,
+    "end_sec": 268.12,
+    "text": "operado en móvil. Y aquí tengo en esta"
+  },
+  {
+    "start_sec": 268.12,
+    "end_sec": 271.28,
+    "text": "cuentita estoy operando el NASDAQ."
+  },
+  {
+    "start_sec": 271.28,
+    "end_sec": 272.84,
+    "text": "Fíjense que aquí tengo un break even"
+  },
+  {
+    "start_sec": 272.84,
+    "end_sec": 275.36,
+    "text": "given. Este fue un break even que me"
+  },
+  {
+    "start_sec": 275.36,
+    "end_sec": 280.28,
+    "text": "tocó ayer. Eh, y ahora tenemos ya tomado"
+  },
+  {
+    "start_sec": 280.28,
+    "end_sec": 282.76,
+    "text": "este primer parcial y estoy dejando"
+  },
+  {
+    "start_sec": 282.76,
+    "end_sec": 285.76,
+    "text": "correr otro porcentaje hasta este máximo"
+  },
+  {
+    "start_sec": 285.76,
+    "end_sec": 288.32,
+    "text": "de acá arriba o hasta este TP. Ahorita"
+  },
+  {
+    "start_sec": 288.32,
+    "end_sec": 290.32,
+    "text": "les voy a explicar en en el Trading View"
+  },
+  {
+    "start_sec": 290.32,
+    "end_sec": 292.64,
+    "text": "por qué, por qué tomé la venta, por qué"
+  },
+  {
+    "start_sec": 292.64,
+    "end_sec": 294.96,
+    "text": "tomé la compra, eh por qué estoy dejando"
+  },
+  {
+    "start_sec": 294.96,
+    "end_sec": 296.92,
+    "text": "correr más, etcétera, etcétera. Miren"
+  },
+  {
+    "start_sec": 296.92,
+    "end_sec": 299.24,
+    "text": "que el precio se ha regresado bastante y"
+  },
+  {
+    "start_sec": 299.24,
+    "end_sec": 301.52,
+    "text": "está ahí como queriéndose, se quiso ir a"
+  },
+  {
+    "start_sec": 301.52,
+    "end_sec": 303.68,
+    "text": "break even y ahorita está ahí"
+  },
+  {
+    "start_sec": 303.68,
+    "end_sec": 305.88,
+    "text": "debatiéndose entre la vida y la muerte,"
+  },
+  {
+    "start_sec": 305.88,
+    "end_sec": 307.68,
+    "text": "pero ya la verdad es que a nosotros nos"
+  },
+  {
+    "start_sec": 307.68,
+    "end_sec": 310.2,
+    "text": "da igual. Ya aquí me da igual totalmente"
+  },
+  {
+    "start_sec": 310.2,
+    "end_sec": 312.96,
+    "text": "si se va a break even o se va a TP,"
+  },
+  {
+    "start_sec": 312.96,
+    "end_sec": 315.0,
+    "text": "porque ya las la operación es totalmente"
+  },
+  {
+    "start_sec": 315.0,
+    "end_sec": 318.56,
+    "text": "ganadora y lo que lo aparte de"
+  },
+  {
+    "start_sec": 318.56,
+    "end_sec": 321.16,
+    "text": "mostrarles yo esto que que no siempre lo"
+  },
+  {
+    "start_sec": 321.16,
+    "end_sec": 323.92,
+    "text": "hago porque pero tengo muchos"
+  },
+  {
+    "start_sec": 323.92,
+    "end_sec": 325.48,
+    "text": "comentarios constantes que me dicen,"
+  },
+  {
+    "start_sec": 325.48,
+    "end_sec": 328.96,
+    "text": "\"Bueno, es que en el pasado es fácil eh"
+  },
+  {
+    "start_sec": 328.96,
+    "end_sec": 332.04,
+    "text": "hacerlo.\" Entonces, yo de vez en cuando"
+  },
+  {
+    "start_sec": 332.04,
+    "end_sec": 333.68,
+    "text": "voy tratando de mostrarles ejemplos"
+  },
+  {
+    "start_sec": 333.68,
+    "end_sec": 337.0,
+    "text": "reales para que vean que son ejecuciones"
+  },
+  {
+    "start_sec": 337.0,
+    "end_sec": 339.12,
+    "text": "reales, para que vean que lo mismo que"
+  },
+  {
+    "start_sec": 339.12,
+    "end_sec": 340.72,
+    "text": "yo les estoy enseñando es lo mismo que"
+  },
+  {
+    "start_sec": 340.72,
+    "end_sec": 344.0,
+    "text": "yo aplico. Hay gente más experta que yo."
+  },
+  {
+    "start_sec": 344.0,
+    "end_sec": 346.52,
+    "text": "No soy el mejor del mundo, pero trato de"
+  },
+  {
+    "start_sec": 346.52,
+    "end_sec": 348.36,
+    "text": "ser congruente con lo que les estoy"
+  },
+  {
+    "start_sec": 348.36,
+    "end_sec": 350.96,
+    "text": "enseñando. No solamente en el Nasdaq les"
+  },
+  {
+    "start_sec": 350.96,
+    "end_sec": 352.56,
+    "text": "pongo entradas en vivo porque es el"
+  },
+  {
+    "start_sec": 352.56,
+    "end_sec": 354.28,
+    "text": "único par que yo opero, pero la"
+  },
+  {
+    "start_sec": 354.28,
+    "end_sec": 356.08,
+    "text": "estrategia saben que funciona muy bien"
+  },
+  {
+    "start_sec": 356.08,
+    "end_sec": 358.68,
+    "text": "en el euro, en el oro, en varios"
+  },
+  {
+    "start_sec": 358.68,
+    "end_sec": 362.12,
+    "text": "activos. diferentes, ¿no? Ya cada uno eh"
+  },
+  {
+    "start_sec": 362.12,
+    "end_sec": 364.84,
+    "text": "opera lo que quiera, ¿no? Bueno, dicho"
+  },
+  {
+    "start_sec": 364.84,
+    "end_sec": 366.88,
+    "text": "esto, vamos a dejar el Metatrader de"
+  },
+  {
+    "start_sec": 366.88,
+    "end_sec": 369.28,
+    "text": "lado y les voy a explicar la entrada."
+  },
+  {
+    "start_sec": 369.28,
+    "end_sec": 371.88,
+    "text": "Primero vamos con la idea que teníamos."
+  },
+  {
+    "start_sec": 371.88,
+    "end_sec": 373.56,
+    "text": "Miren, vamos a poner el análisis. Aquí"
+  },
+  {
+    "start_sec": 373.56,
+    "end_sec": 376.12,
+    "text": "yo tengo mi journal, análisis del 5 de"
+  },
+  {
+    "start_sec": 376.12,
+    "end_sec": 378.56,
+    "text": "enero. Esto fue el día domingo. Fíjense,"
+  },
+  {
+    "start_sec": 378.56,
+    "end_sec": 380.48,
+    "text": "aquí está exactamente esto. ¿Qué"
+  },
+  {
+    "start_sec": 380.48,
+    "end_sec": 383.04,
+    "text": "veíamos? veíamos para el precio, para"
+  },
+  {
+    "start_sec": 383.04,
+    "end_sec": 384.72,
+    "text": "detectar el vallas, la dirección del"
+  },
+  {
+    "start_sec": 384.72,
+    "end_sec": 386.84,
+    "text": "precio que ustedes quieren, que que"
+  },
+  {
+    "start_sec": 386.84,
+    "end_sec": 389.56,
+    "text": "muchos se les dificulta. En 6 horas un"
+  },
+  {
+    "start_sec": 389.56,
+    "end_sec": 394.0,
+    "text": "rango, primero contexto desde semanal."
+  },
+  {
+    "start_sec": 394.0,
+    "end_sec": 397.52,
+    "text": "Aquí desde semanal. En semanal, bueno,"
+  },
+  {
+    "start_sec": 397.52,
+    "end_sec": 400.12,
+    "text": "en desde semanal teníamos este rango que"
+  },
+  {
+    "start_sec": 400.12,
+    "end_sec": 402.96,
+    "text": "fue el que yo elegí como predominante."
+  },
+  {
+    "start_sec": 402.96,
+    "end_sec": 405.04,
+    "text": "Voy a mutear un poco los dibujos y voy a"
+  },
+  {
+    "start_sec": 405.04,
+    "end_sec": 406.76,
+    "text": "ir paso por paso para que no se me"
+  },
+  {
+    "start_sec": 406.76,
+    "end_sec": 409.72,
+    "text": "confundan. Este es el rango semanal."
+  },
+  {
+    "start_sec": 409.72,
+    "end_sec": 411.44,
+    "text": "Este, chicos."
+  },
+  {
+    "start_sec": 411.44,
+    "end_sec": 413.32,
+    "text": "Este es el rango semanal predominante"
+  },
+  {
+    "start_sec": 413.32,
+    "end_sec": 415.36,
+    "text": "para mí. Entonces, yo ya tengo la"
+  },
+  {
+    "start_sec": 415.36,
+    "end_sec": 417.4,
+    "text": "dirección de que posiblemente el precio"
+  },
+  {
+    "start_sec": 417.4,
+    "end_sec": 419.28,
+    "text": "va a ir a tomar este high semanal y"
+  },
+  {
+    "start_sec": 419.28,
+    "end_sec": 422.36,
+    "text": "luego y luego el rango, ¿no? Porque el"
+  },
+  {
+    "start_sec": 422.36,
+    "end_sec": 424.76,
+    "text": "precio, si se fijan, lo que ha hecho es"
+  },
+  {
+    "start_sec": 424.76,
+    "end_sec": 426.84,
+    "text": "eh cerrar por dentro del cuerpo de la"
+  },
+  {
+    "start_sec": 426.84,
+    "end_sec": 429.56,
+    "text": "vela de este aquí y es un modelo de CRT"
+  },
+  {
+    "start_sec": 429.56,
+    "end_sec": 431.6,
+    "text": "de tres velas, bueno, de múltiples"
+  },
+  {
+    "start_sec": 431.6,
+    "end_sec": 433.8,
+    "text": "velas, pero es un modelo clásico, ¿no?"
+  },
+  {
+    "start_sec": 433.8,
+    "end_sec": 437.04,
+    "text": "De CRT. Eh, por cierto, suscríbanse a"
+  },
+  {
+    "start_sec": 437.04,
+    "end_sec": 439.64,
+    "text": "este bello y hermoso canal porque pronto"
+  },
+  {
+    "start_sec": 439.64,
+    "end_sec": 442.72,
+    "text": "les traeré los videos que todo el mundo"
+  },
+  {
+    "start_sec": 442.72,
+    "end_sec": 445.52,
+    "text": "está esperando de los modelos de CRT. Va"
+  },
+  {
+    "start_sec": 445.52,
+    "end_sec": 447.84,
+    "text": "a estar espectacular. Suscríbate a ese"
+  },
+  {
+    "start_sec": 447.84,
+    "end_sec": 450.4,
+    "text": "canal porque va a venirse contenido muy"
+  },
+  {
+    "start_sec": 450.4,
+    "end_sec": 453.32,
+    "text": "bueno. Eh, bueno, este es el rango"
+  },
+  {
+    "start_sec": 453.32,
+    "end_sec": 454.92,
+    "text": "semanal. Este es el contexto. El"
+  },
+  {
+    "start_sec": 454.92,
+    "end_sec": 456.52,
+    "text": "contexto es muy importante. Es"
+  },
+  {
+    "start_sec": 456.52,
+    "end_sec": 458.0,
+    "text": "importante que tú vayas haciendo un buen"
+  },
+  {
+    "start_sec": 458.0,
+    "end_sec": 462.48,
+    "text": "contexto del mercado para que tengas e"
+  },
+  {
+    "start_sec": 462.48,
+    "end_sec": 464.6,
+    "text": "la dirección del precio siempre en todo"
+  },
+  {
+    "start_sec": 464.6,
+    "end_sec": 468.32,
+    "text": "momento. Desde arriba hacia abajo."
+  },
+  {
+    "start_sec": 468.32,
+    "end_sec": 470.12,
+    "text": "Traeré una guía de temporalidades, que"
+  },
+  {
+    "start_sec": 470.12,
+    "end_sec": 471.92,
+    "text": "me lo han pedido también, pero yo te"
+  },
+  {
+    "start_sec": 471.92,
+    "end_sec": 474.76,
+    "text": "recomiendo que si eres nuevo, siempre lo"
+  },
+  {
+    "start_sec": 474.76,
+    "end_sec": 477.0,
+    "text": "estoy mencionando, hagas pocas"
+  },
+  {
+    "start_sec": 477.0,
+    "end_sec": 479.2,
+    "text": "temporalidades. no hagas tantas"
+  },
+  {
+    "start_sec": 479.2,
+    "end_sec": 481.88,
+    "text": "temporalidades porque puede ser que te"
+  },
+  {
+    "start_sec": 481.88,
+    "end_sec": 484.44,
+    "text": "confundas, pero bueno, yo tenía este"
+  },
+  {
+    "start_sec": 484.44,
+    "end_sec": 486.28,
+    "text": "rango que fue el que analizamos en vivo"
+  },
+  {
+    "start_sec": 486.28,
+    "end_sec": 488.4,
+    "text": "semanal, entonces ya tengo posiblemente"
+  },
+  {
+    "start_sec": 488.4,
+    "end_sec": 490.52,
+    "text": "dirección alcista. Ahora, ¿qué estoy"
+  },
+  {
+    "start_sec": 490.52,
+    "end_sec": 492.76,
+    "text": "viendo en mi lower time frame? Si me voy"
+  },
+  {
+    "start_sec": 492.76,
+    "end_sec": 494.88,
+    "text": "a mi diario, veíamos que teníamos un"
+  },
+  {
+    "start_sec": 494.88,
+    "end_sec": 497.24,
+    "text": "rango diario. Gustavo, este no es ningún"
+  },
+  {
+    "start_sec": 497.24,
+    "end_sec": 499.04,
+    "text": "rango diario. Mira, esto no es ningún"
+  },
+  {
+    "start_sec": 499.04,
+    "end_sec": 501.6,
+    "text": "rango diario. Para mí sí lo es. ¿Por"
+  },
+  {
+    "start_sec": 501.6,
+    "end_sec": 503.64,
+    "text": "qué? Porque si me voy al parco"
+  },
+  {
+    "start_sec": 503.64,
+    "end_sec": 505.52,
+    "text": "relacionado, en este caso del Nasdaq"
+  },
+  {
+    "start_sec": 505.52,
+    "end_sec": 509.84,
+    "text": "100, que es el SP500, miren qué bello y"
+  },
+  {
+    "start_sec": 509.84,
+    "end_sec": 512.52,
+    "text": "hermoso rango."
+  },
+  {
+    "start_sec": 512.52,
+    "end_sec": 514.68,
+    "text": "Aquí está."
+  },
+  {
+    "start_sec": 514.68,
+    "end_sec": 516.84,
+    "text": "Ya ahorita se ha completado, de hecho se"
+  },
+  {
+    "start_sec": 516.84,
+    "end_sec": 519.72,
+    "text": "completó. El precio cerró por dentro del"
+  },
+  {
+    "start_sec": 519.72,
+    "end_sec": 521.64,
+    "text": "cuerpo de la vela anterior. No, la vela"
+  },
+  {
+    "start_sec": 521.64,
+    "end_sec": 523.12,
+    "text": "no cierra en positivo, fue una vela"
+  },
+  {
+    "start_sec": 523.12,
+    "end_sec": 525.52,
+    "text": "indecisional, pero para mí es un rango"
+  },
+  {
+    "start_sec": 525.52,
+    "end_sec": 528.2,
+    "text": "válido, porque cierra dentro de Se ve"
+  },
+  {
+    "start_sec": 528.2,
+    "end_sec": 529.96,
+    "text": "claramente la toma de liquidez y ya"
+  },
+  {
+    "start_sec": 529.96,
+    "end_sec": 531.36,
+    "text": "teníamos que el precio iba a venir a"
+  },
+  {
+    "start_sec": 531.36,
+    "end_sec": 533.6,
+    "text": "este Doll. Yo estoy buscando que venga"
+  },
+  {
+    "start_sec": 533.6,
+    "end_sec": 536.96,
+    "text": "hasta acá arriba, pero actualmente pues"
+  },
+  {
+    "start_sec": 536.96,
+    "end_sec": 538.8,
+    "text": "este era el Doll principal, ¿no?, que"
+  },
+  {
+    "start_sec": 538.8,
+    "end_sec": 540.92,
+    "text": "les estoy marcando. Entonces, por lo"
+  },
+  {
+    "start_sec": 540.92,
+    "end_sec": 544.08,
+    "text": "mismo yo tengo ese contexto en el Nasdaq"
+  },
+  {
+    "start_sec": 544.08,
+    "end_sec": 546.92,
+    "text": "de que eso va a ser tomado acá arriba."
+  },
+  {
+    "start_sec": 546.92,
+    "end_sec": 548.52,
+    "text": "Ahora, si me sigo bajando a mi"
+  },
+  {
+    "start_sec": 548.52,
+    "end_sec": 551.64,
+    "text": "temporalidad de 12 horas, pasa lo mismo."
+  },
+  {
+    "start_sec": 551.64,
+    "end_sec": 553.72,
+    "text": "Miren, mi temporalidad de 12 horas pasa"
+  },
+  {
+    "start_sec": 553.72,
+    "end_sec": 556.2,
+    "text": "lo mismo en el SP500. Aquí tengo un"
+  },
+  {
+    "start_sec": 556.2,
+    "end_sec": 560.04,
+    "text": "rango que es este. Este es un modelo de"
+  },
+  {
+    "start_sec": 560.04,
+    "end_sec": 561.6,
+    "text": "intrabar."
+  },
+  {
+    "start_sec": 561.6,
+    "end_sec": 563.0,
+    "text": "Qué bonitos los modelos, ¿no? Cuando"
+  },
+  {
+    "start_sec": 563.0,
+    "end_sec": 564.8,
+    "text": "comprendes los modelos es alguna"
+  },
+  {
+    "start_sec": 564.8,
+    "end_sec": 567.2,
+    "text": "información que tenía muchas ganas de"
+  },
+  {
+    "start_sec": 567.2,
+    "end_sec": 569.12,
+    "text": "traerles y y cuando lo empecé a"
+  },
+  {
+    "start_sec": 569.12,
+    "end_sec": 572.16,
+    "text": "introducir, mucha gente empezó a cambiar"
+  },
+  {
+    "start_sec": 572.16,
+    "end_sec": 574.76,
+    "text": "su trading con los modelos. Pero bueno,"
+  },
+  {
+    "start_sec": 574.76,
+    "end_sec": 577.4,
+    "text": "hablaremos más de los modelos en"
+  },
+  {
+    "start_sec": 577.4,
+    "end_sec": 579.84,
+    "text": "próximos videos. O sea, qué bonito qué"
+  },
+  {
+    "start_sec": 579.84,
+    "end_sec": 581.36,
+    "text": "bonito está quedando el contenido en"
+  },
+  {
+    "start_sec": 581.36,
+    "end_sec": 583.64,
+    "text": "YouTube. Ah, está quedando muy bien, la"
+  },
+  {
+    "start_sec": 583.64,
+    "end_sec": 586.32,
+    "text": "verdad. Y los que estén aprendiendo con"
+  },
+  {
+    "start_sec": 586.32,
+    "end_sec": 588.24,
+    "text": "mis videos que me están mandando,"
+  },
+  {
+    "start_sec": 588.24,
+    "end_sec": 590.92,
+    "text": "mándenme mensaje para yo publicarlos en"
+  },
+  {
+    "start_sec": 590.92,
+    "end_sec": 592.88,
+    "text": "mi Instagram, para publicarlos en mi"
+  },
+  {
+    "start_sec": 592.88,
+    "end_sec": 594.76,
+    "text": "comunidad. Mándeme mensaje, \"Yo estoy"
+  },
+  {
+    "start_sec": 594.76,
+    "end_sec": 596.76,
+    "text": "aprendiendo con tus videos.\" O pónganme"
+  },
+  {
+    "start_sec": 596.76,
+    "end_sec": 598.64,
+    "text": "aquí en los comentarios de YouTube. Yo"
+  },
+  {
+    "start_sec": 598.64,
+    "end_sec": 600.12,
+    "text": "estoy aprendiendo mucho con mis videos."
+  },
+  {
+    "start_sec": 600.12,
+    "end_sec": 602.44,
+    "text": "Mi trading cambió mucho, pónganmelos"
+  },
+  {
+    "start_sec": 602.44,
+    "end_sec": 604.84,
+    "text": "para aquí. Aparte de que los alumnos que"
+  },
+  {
+    "start_sec": 604.84,
+    "end_sec": 606.92,
+    "text": "toman mentoría uno a uno, hay muchas"
+  },
+  {
+    "start_sec": 606.92,
+    "end_sec": 608.8,
+    "text": "personas también que con los puros"
+  },
+  {
+    "start_sec": 608.8,
+    "end_sec": 610.56,
+    "text": "videos gratis están cambiando su trading"
+  },
+  {
+    "start_sec": 610.56,
+    "end_sec": 613.76,
+    "text": "para siempre. Dicho esto, vamos a bajar"
+  },
+  {
+    "start_sec": 613.76,
+    "end_sec": 617.56,
+    "text": "a seguir dándoles la explicación de eh 8"
+  },
+  {
+    "start_sec": 617.56,
+    "end_sec": 620.72,
+    "text": "horas. Fíjense que en 8 horas yo estuve"
+  },
+  {
+    "start_sec": 620.72,
+    "end_sec": 623.32,
+    "text": "viendo, bueno, en 6 horas principalmente"
+  },
+  {
+    "start_sec": 623.32,
+    "end_sec": 625.92,
+    "text": "estuve viendo este bello hermoso rango"
+  },
+  {
+    "start_sec": 625.92,
+    "end_sec": 627.84,
+    "text": "que fue el rango que realmente yo les"
+  },
+  {
+    "start_sec": 627.84,
+    "end_sec": 631.24,
+    "text": "marqué para esa para ese tiempo, para"
+  },
+  {
+    "start_sec": 631.24,
+    "end_sec": 635.16,
+    "text": "ahí. ¿Qué estaba viendo ahora? ¿Por qué"
+  },
+  {
+    "start_sec": 635.16,
+    "end_sec": 636.84,
+    "text": "estuviste vendiendo entonces, Gustavo, y"
+  },
+  {
+    "start_sec": 636.84,
+    "end_sec": 640.16,
+    "text": "luego compraste? Bueno, muy fácil. Este"
+  },
+  {
+    "start_sec": 640.16,
+    "end_sec": 642.16,
+    "text": "era el análisis, ya se los dejé aquí."
+  },
+  {
+    "start_sec": 642.16,
+    "end_sec": 643.6,
+    "text": "Era el análisis. También teníamos un"
+  },
+  {
+    "start_sec": 643.6,
+    "end_sec": 647.08,
+    "text": "rango de 144 minutos, que era el 50% del"
+  },
+  {
+    "start_sec": 647.08,
+    "end_sec": 650.16,
+    "text": "rango de 6 horas. Eh, para los que les"
+  },
+  {
+    "start_sec": 650.16,
+    "end_sec": 651.68,
+    "text": "cueste un poquito más detectar los"
+  },
+  {
+    "start_sec": 651.68,
+    "end_sec": 654.16,
+    "text": "rangos, aquí está el rango de 144"
+  },
+  {
+    "start_sec": 654.16,
+    "end_sec": 656.72,
+    "text": "minutos. Eh, cierra dentro del cuerpo de"
+  },
+  {
+    "start_sec": 656.72,
+    "end_sec": 658.84,
+    "text": "la vela anterior, pa. Tenemos ese rango"
+  },
+  {
+    "start_sec": 658.84,
+    "end_sec": 661.24,
+    "text": "de 144 minutos. Los que les cueste un"
+  },
+  {
+    "start_sec": 661.24,
+    "end_sec": 663.24,
+    "text": "poquito más, también se los marco. El"
+  },
+  {
+    "start_sec": 663.24,
+    "end_sec": 665.88,
+    "text": "rango de 6 horas. Aquí está el rango de"
+  },
+  {
+    "start_sec": 665.88,
+    "end_sec": 667.36,
+    "text": "6 horas, lo que les cuesta un poquito"
+  },
+  {
+    "start_sec": 667.36,
+    "end_sec": 670.8,
+    "text": "más. Este es el rango. Ta ta ta ta tu"
+  },
+  {
+    "start_sec": 670.8,
+    "end_sec": 674.72,
+    "text": "tu. Y fíjense que ahorita voy a quitar"
+  },
+  {
+    "start_sec": 674.72,
+    "end_sec": 677.64,
+    "text": "esto ya para ponerles el análisis actual"
+  },
+  {
+    "start_sec": 677.64,
+    "end_sec": 680.08,
+    "text": "ya actualizado de esto. Análisis"
+  },
+  {
+    "start_sec": 680.08,
+    "end_sec": 683.52,
+    "text": "actualizado. Ya teníamos ese target,"
+  },
+  {
+    "start_sec": 683.52,
+    "end_sec": 688.68,
+    "text": "¿verdad? Teníamos ese target acá arriba,"
+  },
+  {
+    "start_sec": 688.68,
+    "end_sec": 690.8,
+    "text": "este doll. Ahora, lo que yo estaba"
+  },
+  {
+    "start_sec": 690.8,
+    "end_sec": 692.8,
+    "text": "esperando, como les había proyectado en"
+  },
+  {
+    "start_sec": 692.8,
+    "end_sec": 694.96,
+    "text": "el análisis en vivo, era algo así, un"
+  },
+  {
+    "start_sec": 694.96,
+    "end_sec": 697.2,
+    "text": "retroceso. ¿Por qué un retroceso? porque"
+  },
+  {
+    "start_sec": 697.2,
+    "end_sec": 699.12,
+    "text": "sabemos que el precio no se mueve a pura"
+  },
+  {
+    "start_sec": 699.12,
+    "end_sec": 702.0,
+    "text": "vela verde o no va directamente hacia el"
+  },
+  {
+    "start_sec": 702.0,
+    "end_sec": 704.72,
+    "text": "target. Entonces aquí seguramente lo que"
+  },
+  {
+    "start_sec": 704.72,
+    "end_sec": 706.6,
+    "text": "el precio iba a tener era una reacción"
+  },
+  {
+    "start_sec": 706.6,
+    "end_sec": 709.6,
+    "text": "bajista para hacer un retroceso y luego"
+  },
+  {
+    "start_sec": 709.6,
+    "end_sec": 711.36,
+    "text": "subir. Eso es lo que estábamos"
+  },
+  {
+    "start_sec": 711.36,
+    "end_sec": 714.08,
+    "text": "interpretando y eso es lo que hice"
+  },
+  {
+    "start_sec": 714.08,
+    "end_sec": 715.72,
+    "text": "precisamente como fue el análisis. Lo"
+  },
+  {
+    "start_sec": 715.72,
+    "end_sec": 716.96,
+    "text": "que pasa es que yo esperaba que fuera"
+  },
+  {
+    "start_sec": 716.96,
+    "end_sec": 719.44,
+    "text": "aquí en cortito, pero el precio fue un"
+  },
+  {
+    "start_sec": 719.44,
+    "end_sec": 722.16,
+    "text": "poco más arriba y desde aquí me dio la"
+  },
+  {
+    "start_sec": 722.16,
+    "end_sec": 724.88,
+    "text": "entrada en corto. Yo no estuve viendo un"
+  },
+  {
+    "start_sec": 724.88,
+    "end_sec": 728.32,
+    "text": "largo aquí desde aquí en continuación"
+  },
+  {
+    "start_sec": 728.32,
+    "end_sec": 730.12,
+    "text": "porque la verdad es que no tuve ningún"
+  },
+  {
+    "start_sec": 730.12,
+    "end_sec": 732.48,
+    "text": "gatillador de entrada en una hora, pero"
+  },
+  {
+    "start_sec": 732.48,
+    "end_sec": 735.16,
+    "text": "si se fijan"
+  },
+  {
+    "start_sec": 735.16,
+    "end_sec": 738.16,
+    "text": "en dentro de mi horario, vamos a poner"
+  },
+  {
+    "start_sec": 738.16,
+    "end_sec": 740.76,
+    "text": "aquí butear un poquito los dibujos de"
+  },
+  {
+    "start_sec": 740.76,
+    "end_sec": 744.52,
+    "text": "nuevo. Vela de las 9, vela de las 10 y"
+  },
+  {
+    "start_sec": 744.52,
+    "end_sec": 746.68,
+    "text": "vela de las 11. Fíjense cómo me forma"
+  },
+  {
+    "start_sec": 746.68,
+    "end_sec": 749.4,
+    "text": "este pequeño y hermoso rango, este"
+  },
+  {
+    "start_sec": 749.4,
+    "end_sec": 751.92,
+    "text": "range. Ya lo vieron aquí. Para los que"
+  },
+  {
+    "start_sec": 751.92,
+    "end_sec": 753.36,
+    "text": "les cueste un poquito más, se lo estoy"
+  },
+  {
+    "start_sec": 753.36,
+    "end_sec": 755.88,
+    "text": "marcando con detalle. Este range, este"
+  },
+  {
+    "start_sec": 755.88,
+    "end_sec": 758.88,
+    "text": "bonito rango, eh, es el que me formó"
+  },
+  {
+    "start_sec": 758.88,
+    "end_sec": 760.68,
+    "text": "para ventas. Ahora, yo esperaba"
+  },
+  {
+    "start_sec": 760.68,
+    "end_sec": 762.68,
+    "text": "sinceramente que el retroceso fuera un"
+  },
+  {
+    "start_sec": 762.68,
+    "end_sec": 765.44,
+    "text": "poco más profundo por acá y luego"
+  },
+  {
+    "start_sec": 765.44,
+    "end_sec": 767.36,
+    "text": "subiéramos, pero el precio hizo un"
+  },
+  {
+    "start_sec": 767.36,
+    "end_sec": 770.52,
+    "text": "retroceso bastante ligero. ¿Qué pasó con"
+  },
+  {
+    "start_sec": 770.52,
+    "end_sec": 771.84,
+    "text": "esta entrada?"
+  },
+  {
+    "start_sec": 771.84,
+    "end_sec": 773.4,
+    "text": "¿Qué qué pasó primero con esta entrada,"
+  },
+  {
+    "start_sec": 773.4,
+    "end_sec": 776.88,
+    "text": "Gustavo? Fíjense que yo tenía un parcial"
+  },
+  {
+    "start_sec": 776.88,
+    "end_sec": 779.68,
+    "text": "para mantener mi ratio. Yo mantengo un"
+  },
+  {
+    "start_sec": 779.68,
+    "end_sec": 782.4,
+    "text": "rat más o menos igual igual siempre."
+  },
+  {
+    "start_sec": 782.4,
+    "end_sec": 785.04,
+    "text": "Tenía un partial poquito aquí, más aquí"
+  },
+  {
+    "start_sec": 785.04,
+    "end_sec": 787.24,
+    "text": "donde llegó tenía un partial. Lo que"
+  },
+  {
+    "start_sec": 787.24,
+    "end_sec": 789.48,
+    "text": "pasó con esta operación que pueden ver"
+  },
+  {
+    "start_sec": 789.48,
+    "end_sec": 791.48,
+    "text": "el Metatrader como a ver, lo voy a"
+  },
+  {
+    "start_sec": 791.48,
+    "end_sec": 793.4,
+    "text": "enseñar el Metatrader para que vean"
+  },
+  {
+    "start_sec": 793.4,
+    "end_sec": 795.6,
+    "text": "exactamente lo que pasó. Es importante"
+  },
+  {
+    "start_sec": 795.6,
+    "end_sec": 797.6,
+    "text": "que ustedes entiendan bien el contexto y"
+  },
+  {
+    "start_sec": 797.6,
+    "end_sec": 799.8,
+    "text": "para que puedan aprender. Fíjense que lo"
+  },
+  {
+    "start_sec": 799.8,
+    "end_sec": 801.96,
+    "text": "que pasó es que yo tenía el parcial por"
+  },
+  {
+    "start_sec": 801.96,
+    "end_sec": 804.52,
+    "text": "aquí, el TP1,"
+  },
+  {
+    "start_sec": 804.52,
+    "end_sec": 807.36,
+    "text": "eh, o el o el parcial por aquí y fíjense"
+  },
+  {
+    "start_sec": 807.36,
+    "end_sec": 809.48,
+    "text": "que el precio pues sí cayó, pero no"
+  },
+  {
+    "start_sec": 809.48,
+    "end_sec": 811.56,
+    "text": "llegó a mi parcial. Entonces, lo que"
+  },
+  {
+    "start_sec": 811.56,
+    "end_sec": 816.0,
+    "text": "hice es eh metí break even, metí break"
+  },
+  {
+    "start_sec": 816.0,
+    "end_sec": 818.32,
+    "text": "even y el precio en la noche se me"
+  },
+  {
+    "start_sec": 818.32,
+    "end_sec": 820.04,
+    "text": "regresó en break even y luego después sí"
+  },
+  {
+    "start_sec": 820.04,
+    "end_sec": 822.0,
+    "text": "que se fue a mi favor. Eso fue lo que"
+  },
+  {
+    "start_sec": 822.0,
+    "end_sec": 824.56,
+    "text": "pasó. Pero ya ese era el retroceso que"
+  },
+  {
+    "start_sec": 824.56,
+    "end_sec": 826.72,
+    "text": "yo estaba proyectando, lo que o estaba"
+  },
+  {
+    "start_sec": 826.72,
+    "end_sec": 829.76,
+    "text": "esperando. Para esta entrada entramos en"
+  },
+  {
+    "start_sec": 829.76,
+    "end_sec": 832.68,
+    "text": "este rango de H1 para esta entrada con"
+  },
+  {
+    "start_sec": 832.68,
+    "end_sec": 835.2,
+    "text": "este contexto. Entonces, como quién"
+  },
+  {
+    "start_sec": 835.2,
+    "end_sec": 837.04,
+    "text": "dice, tomamos esta primera entrada en"
+  },
+  {
+    "start_sec": 837.04,
+    "end_sec": 838.92,
+    "text": "contra de la tendencia o del doll"
+  },
+  {
+    "start_sec": 838.92,
+    "end_sec": 840.88,
+    "text": "principal. Esto es un poquito más"
+  },
+  {
+    "start_sec": 840.88,
+    "end_sec": 844.56,
+    "text": "avanzado porque yo les recomiendo que"
+  },
+  {
+    "start_sec": 844.56,
+    "end_sec": 847.56,
+    "text": "los que no tengan tanto experiencia con"
+  },
+  {
+    "start_sec": 847.56,
+    "end_sec": 849.6,
+    "text": "con los rangos solo tomen entradas a"
+  },
+  {
+    "start_sec": 849.6,
+    "end_sec": 852.12,
+    "text": "favor del doll, o sea, entradas a favor"
+  },
+  {
+    "start_sec": 852.12,
+    "end_sec": 853.72,
+    "text": "del doll principal. ¿Cuál es el doll"
+  },
+  {
+    "start_sec": 853.72,
+    "end_sec": 855.92,
+    "text": "principal? El semanal en este caso y el"
+  },
+  {
+    "start_sec": 855.92,
+    "end_sec": 858.64,
+    "text": "de 6 horas era el principal."
+  },
+  {
+    "start_sec": 858.64,
+    "end_sec": 860.44,
+    "text": "no estén tomando entradas de este"
+  },
+  {
+    "start_sec": 860.44,
+    "end_sec": 862.24,
+    "text": "estilo. Ya los que sean un poco más"
+  },
+  {
+    "start_sec": 862.24,
+    "end_sec": 863.72,
+    "text": "avanzados pueden tomar para arriba y"
+  },
+  {
+    "start_sec": 863.72,
+    "end_sec": 866.32,
+    "text": "para abajo. El CRT te permite hacer eso."
+  },
+  {
+    "start_sec": 866.32,
+    "end_sec": 868.56,
+    "text": "Pero fíjense como el precio reinicia o"
+  },
+  {
+    "start_sec": 868.56,
+    "end_sec": 871.04,
+    "text": "completa este rango de H1 que está aquí"
+  },
+  {
+    "start_sec": 871.04,
+    "end_sec": 873.72,
+    "text": "y se me regresó. Por eso este tipo de"
+  },
+  {
+    "start_sec": 873.72,
+    "end_sec": 876.24,
+    "text": "entradas tienen esta peculiaridad que"
+  },
+  {
+    "start_sec": 876.24,
+    "end_sec": 878.72,
+    "text": "como no es el el la dirección principal"
+  },
+  {
+    "start_sec": 878.72,
+    "end_sec": 880.92,
+    "text": "es alcista y estás tomando algo en"
+  },
+  {
+    "start_sec": 880.92,
+    "end_sec": 882.64,
+    "text": "contra de la dirección principal, el"
+  },
+  {
+    "start_sec": 882.64,
+    "end_sec": 884.24,
+    "text": "precio te va a dar una reacción bastante"
+  },
+  {
+    "start_sec": 884.24,
+    "end_sec": 887.0,
+    "text": "más pobre, un movimiento más pobre. Aún"
+  },
+  {
+    "start_sec": 887.0,
+    "end_sec": 888.92,
+    "text": "así, aquí me saca en break even y"
+  },
+  {
+    "start_sec": 888.92,
+    "end_sec": 891.12,
+    "text": "después sí que me toma el TP, pero"
+  },
+  {
+    "start_sec": 891.12,
+    "end_sec": 893.04,
+    "text": "bueno, la operación salió en break even"
+  },
+  {
+    "start_sec": 893.04,
+    "end_sec": 896.88,
+    "text": "y ya está. Ahora vamos a pasar a"
+  },
+  {
+    "start_sec": 896.88,
+    "end_sec": 898.76,
+    "text": "explicarles"
+  },
+  {
+    "start_sec": 898.76,
+    "end_sec": 901.08,
+    "text": "la entrada del día de hoy. Fíjense que"
+  },
+  {
+    "start_sec": 901.08,
+    "end_sec": 903.96,
+    "text": "ya lo que yo interpreté, voy a quitar la"
+  },
+  {
+    "start_sec": 903.96,
+    "end_sec": 907.04,
+    "text": "entrada de ayer, la voy a mutear un poco"
+  },
+  {
+    "start_sec": 907.04,
+    "end_sec": 909.52,
+    "text": "para que no haya tanto dibujo. Lo que yo"
+  },
+  {
+    "start_sec": 909.52,
+    "end_sec": 911.24,
+    "text": "interpreté"
+  },
+  {
+    "start_sec": 911.24,
+    "end_sec": 914.44,
+    "text": "acá fue que ya el precio había hecho o"
+  },
+  {
+    "start_sec": 914.44,
+    "end_sec": 917.36,
+    "text": "ya había hecho su retroceso. Esto ya era"
+  },
+  {
+    "start_sec": 917.36,
+    "end_sec": 920.44,
+    "text": "su retroceso aquí. Fíjense que ya es su"
+  },
+  {
+    "start_sec": 920.44,
+    "end_sec": 922.88,
+    "text": "retroceso desde esta zona."
+  },
+  {
+    "start_sec": 922.88,
+    "end_sec": 924.24,
+    "text": "Entonces yo dije, esto ya es el"
+  },
+  {
+    "start_sec": 924.24,
+    "end_sec": 926.16,
+    "text": "retroceso, el precio viene para abajo"
+  },
+  {
+    "start_sec": 926.16,
+    "end_sec": 928.6,
+    "text": "aquí. Y algo que me gustó mucho para"
+  },
+  {
+    "start_sec": 928.6,
+    "end_sec": 932.16,
+    "text": "tomar esta entrada es 4 horas y una"
+  },
+  {
+    "start_sec": 932.16,
+    "end_sec": 934.68,
+    "text": "hora."
+  },
+  {
+    "start_sec": 934.68,
+    "end_sec": 937.08,
+    "text": "Fíjense 4 horas qué sucede el precio lo"
+  },
+  {
+    "start_sec": 937.08,
+    "end_sec": 939.08,
+    "text": "que hace es que me viene y me toma"
+  },
+  {
+    "start_sec": 939.08,
+    "end_sec": 941.68,
+    "text": "liquidez aquí en 4 horas."
+  },
+  {
+    "start_sec": 941.68,
+    "end_sec": 944.44,
+    "text": "Aquí me tomo liquidez. Me toma liquidez"
+  },
+  {
+    "start_sec": 944.44,
+    "end_sec": 946.32,
+    "text": "y automáticamente que me toma liquidez,"
+  },
+  {
+    "start_sec": 946.32,
+    "end_sec": 949.32,
+    "text": "ya yo quiero gatillar en una hora en mi"
+  },
+  {
+    "start_sec": 949.32,
+    "end_sec": 951.72,
+    "text": "horario. Entonces, me voy a una hora."
+  },
+  {
+    "start_sec": 951.72,
+    "end_sec": 953.16,
+    "text": "Fíjense que en la temporalidad de una"
+  },
+  {
+    "start_sec": 953.16,
+    "end_sec": 955.76,
+    "text": "hora que tengo, ya tengo la toma de"
+  },
+  {
+    "start_sec": 955.76,
+    "end_sec": 959.52,
+    "text": "liquidez y tengo este modelo de failor"
+  },
+  {
+    "start_sec": 959.52,
+    "end_sec": 961.56,
+    "text": "swing."
+  },
+  {
+    "start_sec": 961.56,
+    "end_sec": 963.56,
+    "text": "Entonces ya cuando me tomó la liquidez y"
+  },
+  {
+    "start_sec": 963.56,
+    "end_sec": 965.32,
+    "text": "tengo el failor swing, ya yo solamente"
+  },
+  {
+    "start_sec": 965.32,
+    "end_sec": 967.4,
+    "text": "voy a estar buscando mi entrada en el"
+  },
+  {
+    "start_sec": 967.4,
+    "end_sec": 970.88,
+    "text": "horario clave. En este caso va a ser 7,"
+  },
+  {
+    "start_sec": 970.88,
+    "end_sec": 973.72,
+    "text": "8 y la expansión de la vela de las 9."
+  },
+  {
+    "start_sec": 973.72,
+    "end_sec": 974.84,
+    "text": "Entonces, quiero entrar en la expansión"
+  },
+  {
+    "start_sec": 974.84,
+    "end_sec": 976.84,
+    "text": "de la vela de las 9 y ahí es donde yo"
+  },
+  {
+    "start_sec": 976.84,
+    "end_sec": 978.4,
+    "text": "estuve entrando en la expansión de la"
+  },
+  {
+    "start_sec": 978.4,
+    "end_sec": 981.24,
+    "text": "vela de las 9 en el power of the 3."
+  },
+  {
+    "start_sec": 981.24,
+    "end_sec": 983.52,
+    "text": "Miren que esta entrada ya es ganadora."
+  },
+  {
+    "start_sec": 983.52,
+    "end_sec": 986.96,
+    "text": "Yo realmente salí ya aquí. Aquí ya salí,"
+  },
+  {
+    "start_sec": 986.96,
+    "end_sec": 990.24,
+    "text": "ya tengo sacado esto, pero como el"
+  },
+  {
+    "start_sec": 990.24,
+    "end_sec": 993.08,
+    "text": "precio tiene potencial de llegar todavía"
+  },
+  {
+    "start_sec": 993.08,
+    "end_sec": 995.0,
+    "text": "hasta el doll, no lo ha rellenado el"
+  },
+  {
+    "start_sec": 995.0,
+    "end_sec": 997.36,
+    "text": "doll, solamente reaccionó aquí, pero no"
+  },
+  {
+    "start_sec": 997.36,
+    "end_sec": 1001.12,
+    "text": "ha sacado el objetivo, eh puede llegar"
+  },
+  {
+    "start_sec": 1001.12,
+    "end_sec": 1003.44,
+    "text": "el precio más arriba y realmente puede"
+  },
+  {
+    "start_sec": 1003.44,
+    "end_sec": 1005.76,
+    "text": "llegar mucho más porque yo tengo un"
+  },
+  {
+    "start_sec": 1005.76,
+    "end_sec": 1008.4,
+    "text": "rango de 3 días ya formado, o sea, ya"
+  },
+  {
+    "start_sec": 1008.4,
+    "end_sec": 1011.76,
+    "text": "estamos 3 días y semanal eh alineados,"
+  },
+  {
+    "start_sec": 1011.76,
+    "end_sec": 1013.56,
+    "text": "entonces puede llegar incluso más arriba"
+  },
+  {
+    "start_sec": 1013.56,
+    "end_sec": 1015.48,
+    "text": "el precio. Fíjense que en mi"
+  },
+  {
+    "start_sec": 1015.48,
+    "end_sec": 1017.68,
+    "text": "temporalidad de 3 días, este es el range"
+  },
+  {
+    "start_sec": 1017.68,
+    "end_sec": 1019.44,
+    "text": "que tenemos actualmente. Voy a mutear un"
+  },
+  {
+    "start_sec": 1019.44,
+    "end_sec": 1023.12,
+    "text": "poco los dibujos y miren mi temporalidad"
+  },
+  {
+    "start_sec": 1023.12,
+    "end_sec": 1025.76,
+    "text": "de 3 días. Ya se alineó el precio, la"
+  },
+  {
+    "start_sec": 1025.76,
+    "end_sec": 1028.24,
+    "text": "vela ya cerró. Cerró de hecho ayer. Ayer"
+  },
+  {
+    "start_sec": 1028.24,
+    "end_sec": 1030.64,
+    "text": "lunes me lo confirmó y ya tenemos el"
+  },
+  {
+    "start_sec": 1030.64,
+    "end_sec": 1032.68,
+    "text": "doll más arriba."
+  },
+  {
+    "start_sec": 1032.68,
+    "end_sec": 1035.08,
+    "text": "Entonces ya lo tengo marcadito. Por eso"
+  },
+  {
+    "start_sec": 1035.08,
+    "end_sec": 1036.76,
+    "text": "creo que el precio puede llegar más"
+  },
+  {
+    "start_sec": 1036.76,
+    "end_sec": 1039.2,
+    "text": "arriba todavía, más arriba del rango de"
+  },
+  {
+    "start_sec": 1039.2,
+    "end_sec": 1042.88,
+    "text": "6 horas. Y también este alto que está"
+  },
+  {
+    "start_sec": 1042.88,
+    "end_sec": 1044.92,
+    "text": "aquí es un alto diario. Fíjense, estamos"
+  },
+  {
+    "start_sec": 1044.92,
+    "end_sec": 1046.76,
+    "text": "en temporalidad diaria, es un alto del"
+  },
+  {
+    "start_sec": 1046.76,
+    "end_sec": 1048.8,
+    "text": "día anterior. Entonces, aparte de ser un"
+  },
+  {
+    "start_sec": 1048.8,
+    "end_sec": 1050.44,
+    "text": "doll de 6 horas, es un rango del día"
+  },
+  {
+    "start_sec": 1050.44,
+    "end_sec": 1052.84,
+    "text": "anterior. ¿Por qué entonces el precio se"
+  },
+  {
+    "start_sec": 1052.84,
+    "end_sec": 1054.56,
+    "text": "regresó, Gustavo? ¿Por qué se está"
+  },
+  {
+    "start_sec": 1054.56,
+    "end_sec": 1056.88,
+    "text": "regresando aquí tan fuerte? No tan"
+  },
+  {
+    "start_sec": 1056.88,
+    "end_sec": 1059.76,
+    "text": "fuerte, pero se regresó bastante, no le"
+  },
+  {
+    "start_sec": 1059.76,
+    "end_sec": 1061.44,
+    "text": "le ha costado subir porque el precio"
+  },
+  {
+    "start_sec": 1061.44,
+    "end_sec": 1063.8,
+    "text": "tomó el alto del día anterior y cuando"
+  },
+  {
+    "start_sec": 1063.8,
+    "end_sec": 1066.24,
+    "text": "toma el alto, un high o un low del día"
+  },
+  {
+    "start_sec": 1066.24,
+    "end_sec": 1067.96,
+    "text": "anterior, suele el precio pues"
+  },
+  {
+    "start_sec": 1067.96,
+    "end_sec": 1070.56,
+    "text": "reaccionar y por eso es que estamos ahí."
+  },
+  {
+    "start_sec": 1070.56,
+    "end_sec": 1072.2,
+    "text": "¿Qué haré ahora para gestionar esta"
+  },
+  {
+    "start_sec": 1072.2,
+    "end_sec": 1075.32,
+    "text": "operación? Pues simplemente"
+  },
+  {
+    "start_sec": 1075.32,
+    "end_sec": 1078.36,
+    "text": "yo dejaré correr hasta acá arriba, hasta"
+  },
+  {
+    "start_sec": 1078.36,
+    "end_sec": 1080.52,
+    "text": "más o menos la después de que poquito"
+  },
+  {
+    "start_sec": 1080.52,
+    "end_sec": 1081.96,
+    "text": "después de que saque el precio ese doll"
+  },
+  {
+    "start_sec": 1081.96,
+    "end_sec": 1083.68,
+    "text": "de 6 horas, pero ya les digo que"
+  },
+  {
+    "start_sec": 1083.68,
+    "end_sec": 1085.92,
+    "text": "probablemente llegue hasta el de 3 días."
+  },
+  {
+    "start_sec": 1085.92,
+    "end_sec": 1087.64,
+    "text": "Bueno, como pueden ver, estoy grabando"
+  },
+  {
+    "start_sec": 1087.64,
+    "end_sec": 1091.2,
+    "text": "esto en diferido y este unas horas"
+  },
+  {
+    "start_sec": 1091.2,
+    "end_sec": 1094.84,
+    "text": "después de de lo de lo todo lo que han"
+  },
+  {
+    "start_sec": 1094.84,
+    "end_sec": 1098.84,
+    "text": "visto. Y miren qué bonito el precio. Ya"
+  },
+  {
+    "start_sec": 1098.84,
+    "end_sec": 1101.16,
+    "text": "me está llegando mi Tay Profit 2. Ahí"
+  },
+  {
+    "start_sec": 1101.16,
+    "end_sec": 1102.88,
+    "text": "está ya bien bonito cerrándose"
+  },
+  {
+    "start_sec": 1102.88,
+    "end_sec": 1105.08,
+    "text": "actualmente la operación. Ha cumplido"
+  },
+  {
+    "start_sec": 1105.08,
+    "end_sec": 1107.68,
+    "text": "toda la expectativa, ha superado ya el"
+  },
+  {
+    "start_sec": 1107.68,
+    "end_sec": 1111.08,
+    "text": "doll de 6 horas y va sobre el doll de 3"
+  },
+  {
+    "start_sec": 1111.08,
+    "end_sec": 1113.8,
+    "text": "días que está más arriba. y la el"
+  },
+  {
+    "start_sec": 1113.8,
+    "end_sec": 1115.88,
+    "text": "vallas, la tendencia y todo lo que"
+  },
+  {
+    "start_sec": 1115.88,
+    "end_sec": 1118.24,
+    "text": "desciframos en este bello y hermoso"
+  },
+  {
+    "start_sec": 1118.24,
+    "end_sec": 1119.76,
+    "text": "video, en el análisis en vivo que"
+  },
+  {
+    "start_sec": 1119.76,
+    "end_sec": 1122.36,
+    "text": "hicimos en este canal, pues a la"
+  },
+  {
+    "start_sec": 1122.36,
+    "end_sec": 1125.36,
+    "text": "perfección el día de hoy. Muy bonito,"
+  },
+  {
+    "start_sec": 1125.36,
+    "end_sec": 1127.0,
+    "text": "muy bonito. Entonces, les quería grabar"
+  },
+  {
+    "start_sec": 1127.0,
+    "end_sec": 1129.16,
+    "text": "este pequeño pedazo para que vieran"
+  },
+  {
+    "start_sec": 1129.16,
+    "end_sec": 1131.48,
+    "text": "también ahí ya cómo se está cerrando la"
+  },
+  {
+    "start_sec": 1131.48,
+    "end_sec": 1134.76,
+    "text": "operación actualmente y dejaré correr"
+  },
+  {
+    "start_sec": 1134.76,
+    "end_sec": 1139.24,
+    "text": "hasta ahí, pero eh simplemente ya tomé"
+  },
+  {
+    "start_sec": 1139.24,
+    "end_sec": 1141.4,
+    "text": "mi mi beneficio, ya tomé ya está"
+  },
+  {
+    "start_sec": 1141.4,
+    "end_sec": 1143.56,
+    "text": "asegurada la posición, ya estamos"
+  },
+  {
+    "start_sec": 1143.56,
+    "end_sec": 1145.52,
+    "text": "tranquilos. Fíjense que ahora se formó"
+  },
+  {
+    "start_sec": 1145.52,
+    "end_sec": 1147.8,
+    "text": "un nuevo rango bajista en contra de la"
+  },
+  {
+    "start_sec": 1147.8,
+    "end_sec": 1150.4,
+    "text": "dirección principal. Entonces, puede"
+  },
+  {
+    "start_sec": 1150.4,
+    "end_sec": 1152.32,
+    "text": "pasar que el precio rellene este rango y"
+  },
+  {
+    "start_sec": 1152.32,
+    "end_sec": 1154.48,
+    "text": "después vuelva otra vez hacia arriba. O"
+  },
+  {
+    "start_sec": 1154.48,
+    "end_sec": 1156.28,
+    "text": "puede pasar que el precio aquí reinicie."
+  },
+  {
+    "start_sec": 1156.28,
+    "end_sec": 1158.28,
+    "text": "¿Qué es reinicie? Pues que vuelva otra"
+  },
+  {
+    "start_sec": 1158.28,
+    "end_sec": 1159.76,
+    "text": "vez hacia arriba, no lo complete este"
+  },
+  {
+    "start_sec": 1159.76,
+    "end_sec": 1162.12,
+    "text": "rango. Ya independientemente de lo que"
+  },
+  {
+    "start_sec": 1162.12,
+    "end_sec": 1164.2,
+    "text": "pase, yo ya estoy protegido en break"
+  },
+  {
+    "start_sec": 1164.2,
+    "end_sec": 1167.2,
+    "text": "even y ya estoy pues dejando correr lo"
+  },
+  {
+    "start_sec": 1167.2,
+    "end_sec": 1168.84,
+    "text": "demás. Fíjense que acá tengo la"
+  },
+  {
+    "start_sec": 1168.84,
+    "end_sec": 1171.24,
+    "text": "operación corriendo. Aquí tengo las dos"
+  },
+  {
+    "start_sec": 1171.24,
+    "end_sec": 1173.16,
+    "text": "entradas y bueno, esta es la explicación"
+  },
+  {
+    "start_sec": 1173.16,
+    "end_sec": 1176.56,
+    "text": "de los tradchs de eh del último trade"
+  },
+  {
+    "start_sec": 1176.56,
+    "end_sec": 1178.48,
+    "text": "que tomé. Si les gusta este tipo de"
+  },
+  {
+    "start_sec": 1178.48,
+    "end_sec": 1180.88,
+    "text": "videos, déjenme en los comentarios y les"
+  },
+  {
+    "start_sec": 1180.88,
+    "end_sec": 1182.96,
+    "text": "trayendo más reviews. Esto es lo que"
+  },
+  {
+    "start_sec": 1182.96,
+    "end_sec": 1184.88,
+    "text": "normalmente yo hago en mi comunidad"
+  },
+  {
+    "start_sec": 1184.88,
+    "end_sec": 1187.0,
+    "text": "privada. Voy trayéndoles explicaciones"
+  },
+  {
+    "start_sec": 1187.0,
+    "end_sec": 1189.4,
+    "text": "de los trades, pero de vez en cuando iré"
+  },
+  {
+    "start_sec": 1189.4,
+    "end_sec": 1191.2,
+    "text": "trayendo también uno que otro trade"
+  },
+  {
+    "start_sec": 1191.2,
+    "end_sec": 1193.6,
+    "text": "también aquí al canal de YouTube. Si les"
+  },
+  {
+    "start_sec": 1193.6,
+    "end_sec": 1196.64,
+    "text": "gusta mucho este tipo de contenido, pues"
+  },
+  {
+    "start_sec": 1196.64,
+    "end_sec": 1199.8,
+    "text": "apóyenlo bastante y les traeré más"
+  },
+  {
+    "start_sec": 1199.8,
+    "end_sec": 1201.92,
+    "text": "videos como este. Vamos a pasar a la"
+  },
+  {
+    "start_sec": 1201.92,
+    "end_sec": 1203.96,
+    "text": "segunda parte del video, que va a ser la"
+  },
+  {
+    "start_sec": 1203.96,
+    "end_sec": 1206.04,
+    "text": "actualización de los análisis que"
+  },
+  {
+    "start_sec": 1206.04,
+    "end_sec": 1209.8,
+    "text": "hicimos en el trading en vivo. Entonces,"
+  },
+  {
+    "start_sec": 1209.8,
+    "end_sec": 1211.76,
+    "text": "eh los que les gustaría ver la"
+  },
+  {
+    "start_sec": 1211.76,
+    "end_sec": 1213.44,
+    "text": "actualización, quédense porque vamos a"
+  },
+  {
+    "start_sec": 1213.44,
+    "end_sec": 1216.16,
+    "text": "actualizar los análisis. Entonces vamos"
+  },
+  {
+    "start_sec": 1216.16,
+    "end_sec": 1218.0,
+    "text": "rapidito, no es no hay mucho misterio"
+  },
+  {
+    "start_sec": 1218.0,
+    "end_sec": 1220.12,
+    "text": "con esto. El oro estábamos viendo"
+  },
+  {
+    "start_sec": 1220.12,
+    "end_sec": 1222.24,
+    "text": "después de tomar de tomar este rango un"
+  },
+  {
+    "start_sec": 1222.24,
+    "end_sec": 1224.68,
+    "text": "retroceso para seguir subiendo el"
+  },
+  {
+    "start_sec": 1224.68,
+    "end_sec": 1226.48,
+    "text": "euroólar estábamos viendo que iba a"
+  },
+  {
+    "start_sec": 1226.48,
+    "end_sec": 1228.8,
+    "text": "tomar este rango de de abajo y luego"
+  },
+  {
+    "start_sec": 1228.8,
+    "end_sec": 1230.2,
+    "text": "después iban a venir las compras y"
+  },
+  {
+    "start_sec": 1230.2,
+    "end_sec": 1232.52,
+    "text": "después las posibles ventas."
+  },
+  {
+    "start_sec": 1232.52,
+    "end_sec": 1234.72,
+    "text": "El DXI estábamos viendo que después de"
+  },
+  {
+    "start_sec": 1234.72,
+    "end_sec": 1236.52,
+    "text": "que tomara esta este alto que está acá"
+  },
+  {
+    "start_sec": 1236.52,
+    "end_sec": 1239.08,
+    "text": "arriba, probablemente el precio iba a"
+  },
+  {
+    "start_sec": 1239.08,
+    "end_sec": 1241.76,
+    "text": "tener un retroceso. La libra dólar,"
+  },
+  {
+    "start_sec": 1241.76,
+    "end_sec": 1243.28,
+    "text": "estábamos viendo que el precio"
+  },
+  {
+    "start_sec": 1243.28,
+    "end_sec": 1244.36,
+    "text": "probablemente iba a venir a este"
+  },
+  {
+    "start_sec": 1244.36,
+    "end_sec": 1246.48,
+    "text": "objetivo después de tener un retroceso"
+  },
+  {
+    "start_sec": 1246.48,
+    "end_sec": 1249.28,
+    "text": "aquí. Y tenemos por último el Bitcoin"
+  },
+  {
+    "start_sec": 1249.28,
+    "end_sec": 1254.43,
+    "text": "que iba a ir hacia su dol."
+  },
+  {
+    "start_sec": 1254.44,
+    "end_sec": 1256.56,
+    "text": "Entonces, vamos a ir revisando paso a"
+  },
+  {
+    "start_sec": 1256.56,
+    "end_sec": 1259.6,
+    "text": "pasito eh el oro. Primero, fíjense el"
+  },
+  {
+    "start_sec": 1259.6,
+    "end_sec": 1261.44,
+    "text": "análisis del oro. No me voy a enrollar"
+  },
+  {
+    "start_sec": 1261.44,
+    "end_sec": 1263.08,
+    "text": "mucho con las análisis, solamente para"
+  },
+  {
+    "start_sec": 1263.08,
+    "end_sec": 1265.72,
+    "text": "que ustedes lo vean. El precio sí que"
+  },
+  {
+    "start_sec": 1265.72,
+    "end_sec": 1267.72,
+    "text": "esperábamos que se llevara este rango."
+  },
+  {
+    "start_sec": 1267.72,
+    "end_sec": 1269.32,
+    "text": "El precio estaba por aquí, creo. Aquí"
+  },
+  {
+    "start_sec": 1269.32,
+    "end_sec": 1271.96,
+    "text": "estaba cuando lo analicé. Se llevó este"
+  },
+  {
+    "start_sec": 1271.96,
+    "end_sec": 1274.0,
+    "text": "rango que esperábamos. Yo les había"
+  },
+  {
+    "start_sec": 1274.0,
+    "end_sec": 1276.28,
+    "text": "dicho que la tendencia era alcista."
+  },
+  {
+    "start_sec": 1276.28,
+    "end_sec": 1278.24,
+    "text": "Tenemos el doll principal, que es este."
+  },
+  {
+    "start_sec": 1278.24,
+    "end_sec": 1280.44,
+    "text": "Miren, acá está el doll principal. Este"
+  },
+  {
+    "start_sec": 1280.44,
+    "end_sec": 1282.0,
+    "text": "es el doll principal. No recuerdo qué"
+  },
+  {
+    "start_sec": 1282.0,
+    "end_sec": 1283.64,
+    "text": "temporalidad era, pero es la dirección."
+  },
+  {
+    "start_sec": 1283.64,
+    "end_sec": 1285.96,
+    "text": "El precio debería ir aquí. Y les"
+  },
+  {
+    "start_sec": 1285.96,
+    "end_sec": 1287.52,
+    "text": "proyecté el retroceso. Solo que el"
+  },
+  {
+    "start_sec": 1287.52,
+    "end_sec": 1289.24,
+    "text": "retroceso no fue tan profundo como yo"
+  },
+  {
+    "start_sec": 1289.24,
+    "end_sec": 1290.8,
+    "text": "esperaba. lo hizo aquí en cortito el"
+  },
+  {
+    "start_sec": 1290.8,
+    "end_sec": 1292.84,
+    "text": "precio, lo hizo en forma de como de"
+  },
+  {
+    "start_sec": 1292.84,
+    "end_sec": 1295.84,
+    "text": "order flow, pero pues la dirección ahí"
+  },
+  {
+    "start_sec": 1295.84,
+    "end_sec": 1297.92,
+    "text": "está, ¿no? Seguimos empujando a la"
+  },
+  {
+    "start_sec": 1297.92,
+    "end_sec": 1299.28,
+    "text": "compra, a la compra, la compra, la"
+  },
+  {
+    "start_sec": 1299.28,
+    "end_sec": 1300.96,
+    "text": "compra, la compra hasta el máximo"
+  },
+  {
+    "start_sec": 1300.96,
+    "end_sec": 1303.76,
+    "text": "histórico del del oro. Okay, perfecto."
+  },
+  {
+    "start_sec": 1303.76,
+    "end_sec": 1306.16,
+    "text": "El vallas a la perfección en el en el en"
+  },
+  {
+    "start_sec": 1306.16,
+    "end_sec": 1309.56,
+    "text": "el oro. Miren qué bonito el eurodólar."
+  },
+  {
+    "start_sec": 1309.56,
+    "end_sec": 1312.24,
+    "text": "Miren qué bonito y hermoso el eurodólar."
+  },
+  {
+    "start_sec": 1312.24,
+    "end_sec": 1314.8,
+    "text": "De hecho, actualmente"
+  },
+  {
+    "start_sec": 1314.8,
+    "end_sec": 1316.92,
+    "text": "en vivo se los voy a mandar a Telegram."
+  },
+  {
+    "start_sec": 1316.92,
+    "end_sec": 1319.48,
+    "text": "en vivo, lo van a estar viendo."
+  },
+  {
+    "start_sec": 1319.48,
+    "end_sec": 1322.28,
+    "text": "Qué belleza le vamos a poner aquí."
+  },
+  {
+    "start_sec": 1322.28,
+    "end_sec": 1323.84,
+    "text": "Miren, en Telegram. Los que no están en"
+  },
+  {
+    "start_sec": 1323.84,
+    "end_sec": 1326.28,
+    "text": "Telegram, no sé que están esperando."
+  },
+  {
+    "start_sec": 1326.28,
+    "end_sec": 1329.24,
+    "text": "¡Qué belleza"
+  },
+  {
+    "start_sec": 1329.24,
+    "end_sec": 1334.48,
+    "text": "el análisis del"
+  },
+  {
+    "start_sec": 1334.48,
+    "end_sec": 1336.2,
+    "text": "euroólar,"
+  },
+  {
+    "start_sec": 1336.2,
+    "end_sec": 1338.48,
+    "text": "que yo sé que muchos operan euroólar,"
+  },
+  {
+    "start_sec": 1338.48,
+    "end_sec": 1342.2,
+    "text": "entonces para que vean que también eh en"
+  },
+  {
+    "start_sec": 1342.2,
+    "end_sec": 1344.48,
+    "text": "eurodólar este pues funciona la"
+  },
+  {
+    "start_sec": 1344.48,
+    "end_sec": 1346.16,
+    "text": "estrategia, ¿no? Que yo creo que todo el"
+  },
+  {
+    "start_sec": 1346.16,
+    "end_sec": 1347.52,
+    "text": "mundo la conoce en eurodólar, pero"
+  },
+  {
+    "start_sec": 1347.52,
+    "end_sec": 1349.76,
+    "text": "bueno, eh también al eurodólar le"
+  },
+  {
+    "start_sec": 1349.76,
+    "end_sec": 1351.8,
+    "text": "pegamos, le pegamos duro. Miren qué"
+  },
+  {
+    "start_sec": 1351.8,
+    "end_sec": 1353.6,
+    "text": "bonito el análisis del eurodólar. Qué"
+  },
+  {
+    "start_sec": 1353.6,
+    "end_sec": 1356.28,
+    "text": "hermoso el análisis del eurodólar. Eh,"
+  },
+  {
+    "start_sec": 1356.28,
+    "end_sec": 1358.72,
+    "text": "estábamos viendo un vallas bajista, pero"
+  },
+  {
+    "start_sec": 1358.72,
+    "end_sec": 1360.16,
+    "text": "después de completar estos rangos"
+  },
+  {
+    "start_sec": 1360.16,
+    "end_sec": 1362.24,
+    "text": "estábamos viendo una compra. El precio"
+  },
+  {
+    "start_sec": 1362.24,
+    "end_sec": 1364.36,
+    "text": "subió hacia la compra. Más o menos por"
+  },
+  {
+    "start_sec": 1364.36,
+    "end_sec": 1366.6,
+    "text": "aquí es donde la zona donde yo veía ya"
+  },
+  {
+    "start_sec": 1366.6,
+    "end_sec": 1369.0,
+    "text": "la continuación bajista. Ya ha salido la"
+  },
+  {
+    "start_sec": 1369.0,
+    "end_sec": 1370.96,
+    "text": "perfección. Ya aquí habría que analizar"
+  },
+  {
+    "start_sec": 1370.96,
+    "end_sec": 1373.2,
+    "text": "para enfrente a ver qué va a suceder,"
+  },
+  {
+    "start_sec": 1373.2,
+    "end_sec": 1375.0,
+    "text": "pero yo creo que todos esos análisis ya"
+  },
+  {
+    "start_sec": 1375.0,
+    "end_sec": 1377.48,
+    "text": "están casi completados. Y miren el"
+  },
+  {
+    "start_sec": 1377.48,
+    "end_sec": 1379.92,
+    "text": "análisis deli"
+  },
+  {
+    "start_sec": 1379.92,
+    "end_sec": 1383.36,
+    "text": "o del índice del dólar. Qué bonito el"
+  },
+  {
+    "start_sec": 1383.36,
+    "end_sec": 1386.0,
+    "text": "análisis del índice del dólar. Qué"
+  },
+  {
+    "start_sec": 1386.0,
+    "end_sec": 1388.84,
+    "text": "hermoso. Qué bonito. También este"
+  },
+  {
+    "start_sec": 1388.84,
+    "end_sec": 1390.32,
+    "text": "también lo voy a mandar de nuevo a mi"
+  },
+  {
+    "start_sec": 1390.32,
+    "end_sec": 1393.68,
+    "text": "Telegram. Es que están muy hermosos."
+  },
+  {
+    "start_sec": 1393.68,
+    "end_sec": 1397.96,
+    "text": "Vamos a ponerle. Qué belleza"
+  },
+  {
+    "start_sec": 1397.96,
+    "end_sec": 1400.52,
+    "text": "el DXI."
+  },
+  {
+    "start_sec": 1400.52,
+    "end_sec": 1403.88,
+    "text": "Esto es lo lo que yo hago constantemente"
+  },
+  {
+    "start_sec": 1403.88,
+    "end_sec": 1406.92,
+    "text": "en mi comunidad privada de mentoría un a"
+  },
+  {
+    "start_sec": 1406.92,
+    "end_sec": 1408.24,
+    "text": "uno. Que por cierto siempre me"
+  },
+  {
+    "start_sec": 1408.24,
+    "end_sec": 1410.24,
+    "text": "preguntan, Gustavo, ¿qué qué tal? Los"
+  },
+  {
+    "start_sec": 1410.24,
+    "end_sec": 1412.28,
+    "text": "que quieran meterse a clases o tomar"
+  },
+  {
+    "start_sec": 1412.28,
+    "end_sec": 1414.52,
+    "text": "clases de uno a uno, pueden mandarme"
+  },
+  {
+    "start_sec": 1414.52,
+    "end_sec": 1416.52,
+    "text": "mensaje en mi WhatsApp. Siempre en la"
+  },
+  {
+    "start_sec": 1416.52,
+    "end_sec": 1418.12,
+    "text": "descripción de estos videos se encuentra"
+  },
+  {
+    "start_sec": 1418.12,
+    "end_sec": 1419.56,
+    "text": "mi WhatsApp para que me manden mensaje"
+  },
+  {
+    "start_sec": 1419.56,
+    "end_sec": 1422.48,
+    "text": "los que quieran ser parte de eh la"
+  },
+  {
+    "start_sec": 1422.48,
+    "end_sec": 1424.6,
+    "text": "mentoría un a uno que doy, que estoy"
+  },
+  {
+    "start_sec": 1424.6,
+    "end_sec": 1426.52,
+    "text": "impartiendo de hace bastantes años ya,"
+  },
+  {
+    "start_sec": 1426.52,
+    "end_sec": 1429.72,
+    "text": "¿no? Eh, en la libra fue la que sí no"
+  },
+  {
+    "start_sec": 1429.72,
+    "end_sec": 1432.16,
+    "text": "salió tan bonita porque miren, la libra"
+  },
+  {
+    "start_sec": 1432.16,
+    "end_sec": 1434.4,
+    "text": "esperábamos que desde aquí tuviera un"
+  },
+  {
+    "start_sec": 1434.4,
+    "end_sec": 1436.04,
+    "text": "retrocesos, pero les decía que yo no"
+  },
+  {
+    "start_sec": 1436.04,
+    "end_sec": 1439.04,
+    "text": "esperaba que el precio fuera tan arriba,"
+  },
+  {
+    "start_sec": 1439.04,
+    "end_sec": 1440.52,
+    "text": "sino que yo esperaba que fuera aquí en"
+  },
+  {
+    "start_sec": 1440.52,
+    "end_sec": 1442.16,
+    "text": "cortito en la libra. Yo esperaba que"
+  },
+  {
+    "start_sec": 1442.16,
+    "end_sec": 1445.16,
+    "text": "fuera aquí, o sea, que hiciera esto eh"
+  },
+  {
+    "start_sec": 1445.16,
+    "end_sec": 1447.16,
+    "text": "como la flechita más o menos así. De"
+  },
+  {
+    "start_sec": 1447.16,
+    "end_sec": 1448.64,
+    "text": "hecho, no esperaba que subiera tanto,"
+  },
+  {
+    "start_sec": 1448.64,
+    "end_sec": 1450.84,
+    "text": "pero el precio fue a reventar los"
+  },
+  {
+    "start_sec": 1450.84,
+    "end_sec": 1453.52,
+    "text": "máximos. Seguramente ocupaba sacar"
+  },
+  {
+    "start_sec": 1453.52,
+    "end_sec": 1457.44,
+    "text": "liquidez o o lo que sea, pero bastante"
+  },
+  {
+    "start_sec": 1457.44,
+    "end_sec": 1459.56,
+    "text": "bastante muy bien el la libra. Por"
+  },
+  {
+    "start_sec": 1459.56,
+    "end_sec": 1461.36,
+    "text": "último, tenemos el el análisis del"
+  },
+  {
+    "start_sec": 1461.36,
+    "end_sec": 1463.92,
+    "text": "Bitcoin. El Bitcoin. Estábamos viendo"
+  },
+  {
+    "start_sec": 1463.92,
+    "end_sec": 1466.12,
+    "text": "este doll de 4 días para que vean"
+  },
+  {
+    "start_sec": 1466.12,
+    "end_sec": 1468.36,
+    "text": "también que funciona esto en cripto. Los"
+  },
+  {
+    "start_sec": 1468.36,
+    "end_sec": 1469.84,
+    "text": "que me preguntaran, eh, funciona en"
+  },
+  {
+    "start_sec": 1469.84,
+    "end_sec": 1471.56,
+    "text": "crypto, no he hablado mucho de"
+  },
+  {
+    "start_sec": 1471.56,
+    "end_sec": 1474.16,
+    "text": "criptomonedas con CRT, estaría bien"
+  },
+  {
+    "start_sec": 1474.16,
+    "end_sec": 1475.52,
+    "text": "hacer un video. ¿Quieren que haga un"
+  },
+  {
+    "start_sec": 1475.52,
+    "end_sec": 1478.0,
+    "text": "video, a ver si hay muchos comentarios?"
+  },
+  {
+    "start_sec": 1478.0,
+    "end_sec": 1479.6,
+    "text": "¿Quieren que haga un video de cripto con"
+  },
+  {
+    "start_sec": 1479.6,
+    "end_sec": 1482.8,
+    "text": "CRT? O sea, la estrategia CRT aplicada"
+  },
+  {
+    "start_sec": 1482.8,
+    "end_sec": 1485.04,
+    "text": "en criptomonedas. No he hecho videos"
+  },
+  {
+    "start_sec": 1485.04,
+    "end_sec": 1487.04,
+    "text": "sobre esto porque no he visto tampoco"
+  },
+  {
+    "start_sec": 1487.04,
+    "end_sec": 1489.76,
+    "text": "tanta gente que le interese, pero si veo"
+  },
+  {
+    "start_sec": 1489.76,
+    "end_sec": 1491.8,
+    "text": "suficientes comentarios que le interesa"
+  },
+  {
+    "start_sec": 1491.8,
+    "end_sec": 1494.36,
+    "text": "a mucha gente, puedo traer algún video"
+  },
+  {
+    "start_sec": 1494.36,
+    "end_sec": 1498.12,
+    "text": "hablando sobre sobre el CRT con Bitcoin"
+  },
+  {
+    "start_sec": 1498.12,
+    "end_sec": 1501.36,
+    "text": "o con criptomonedas, pero esto funciona"
+  },
+  {
+    "start_sec": 1501.36,
+    "end_sec": 1502.84,
+    "text": "para cualquier activo. Este es el Doll"
+  },
+  {
+    "start_sec": 1502.84,
+    "end_sec": 1505.04,
+    "text": "de 4 días, pero yo les decía que"
+  },
+  {
+    "start_sec": 1505.04,
+    "end_sec": 1506.72,
+    "text": "probablemente íbamos a venir a sacar"
+  },
+  {
+    "start_sec": 1506.72,
+    "end_sec": 1508.76,
+    "text": "primero este objetivo y ya después ahí"
+  },
+  {
+    "start_sec": 1508.76,
+    "end_sec": 1510.68,
+    "text": "podía el precio reaccionar porque es un"
+  },
+  {
+    "start_sec": 1510.68,
+    "end_sec": 1513.72,
+    "text": "Doll de 4 días. Y aquí podemos ver pues"
+  },
+  {
+    "start_sec": 1513.72,
+    "end_sec": 1516.16,
+    "text": "los rangos diarios, semanales. Ahorita"
+  },
+  {
+    "start_sec": 1516.16,
+    "end_sec": 1517.8,
+    "text": "fíjense que el precio sacó esta liquidez"
+  },
+  {
+    "start_sec": 1517.8,
+    "end_sec": 1519.88,
+    "text": "y ya se está retrocediendo, pero"
+  },
+  {
+    "start_sec": 1519.88,
+    "end_sec": 1521.68,
+    "text": "probablemente pues siga el análisis,"
+  },
+  {
+    "start_sec": 1521.68,
+    "end_sec": 1523.36,
+    "text": "¿no? Ya el análisis yo creo que ha sido"
+  },
+  {
+    "start_sec": 1523.36,
+    "end_sec": 1527.48,
+    "text": "bastante correcto, bastante bueno, eh y"
+  },
+  {
+    "start_sec": 1527.48,
+    "end_sec": 1529.56,
+    "text": "muy bien, pero espero que suba más el"
+  },
+  {
+    "start_sec": 1529.56,
+    "end_sec": 1532.28,
+    "text": "precio. Vamos a ver qué pasa. Eh, muy"
+  },
+  {
+    "start_sec": 1532.28,
+    "end_sec": 1534.6,
+    "text": "bien por el Bitcoin también. Y bueno, yo"
+  },
+  {
+    "start_sec": 1534.6,
+    "end_sec": 1536.96,
+    "text": "creo que ha sido todo por los análisis."
+  },
+  {
+    "start_sec": 1536.96,
+    "end_sec": 1539.48,
+    "text": "Eh, ha sido todo por este video, eh,"
+  },
+  {
+    "start_sec": 1539.48,
+    "end_sec": 1541.08,
+    "text": "bastante bonito. Déjenme en los"
+  },
+  {
+    "start_sec": 1541.08,
+    "end_sec": 1543.8,
+    "text": "comentarios qué piensan, si les gusta y"
+  },
+  {
+    "start_sec": 1543.8,
+    "end_sec": 1546.36,
+    "text": "esperen próximo contenido más sobre la"
+  },
+  {
+    "start_sec": 1546.36,
+    "end_sec": 1549.52,
+    "text": "estrategia CRT. Intégrense a todas mis"
+  },
+  {
+    "start_sec": 1549.52,
+    "end_sec": 1552.84,
+    "text": "redes sociales, mi Instagram, mi"
+  },
+  {
+    "start_sec": 1552.84,
+    "end_sec": 1554.92,
+    "text": "Facebook, mi Telegram, mi WhatsApp,"
+  },
+  {
+    "start_sec": 1554.92,
+    "end_sec": 1557.12,
+    "text": "porque ahí estoy a tope de power todos"
+  },
+  {
+    "start_sec": 1557.12,
+    "end_sec": 1559.44,
+    "text": "los días subiéndoles contenido super"
+  },
+  {
+    "start_sec": 1559.44,
+    "end_sec": 1562.44,
+    "text": "bueno a de la estrategia CRT. Entonces,"
+  },
+  {
+    "start_sec": 1562.44,
+    "end_sec": 1564.08,
+    "text": "intégrense por ahí a todas mis redes"
+  },
+  {
+    "start_sec": 1564.08,
+    "end_sec": 1565.92,
+    "text": "sociales para que no se pierdan nada."
+  },
+  {
+    "start_sec": 1565.92,
+    "end_sec": 1568.64,
+    "text": "Dejen un buen me gusta y nos vemos hasta"
+  },
+  {
+    "start_sec": 1568.64,
+    "end_sec": 1571.24,
+    "text": "la próxima."
+  }
+]

@@ -1,0 +1,577 @@
+---
+source_id: YT_CANAL_02_Zfm7_lzq3Vs
+video_id: Zfm7_lzq3Vs
+channel: "Gustavom.Trader"
+published_at: 2024-08-02
+url: https://www.youtube.com/watch?v=Zfm7_lzq3Vs
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 5
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Así entendí la ESTRUCTURA de mercado más FACIL l Clase 3 l Modulo 1 l Mentoría de Trading Gratis
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=Zfm7_lzq3Vs)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Hola a todos amigos Bienvenidos a
+
+[00:00:01]
+nuestra clase número tres de nuestra
+
+[00:00:03]
+mentoría gratuita
+
+[00:00:05]
+2024 el día de hoy vamos a estar
+
+[00:00:07]
+hablando de estructura de Mercado
+
+[00:00:10]
+interna contra externa recuerden darle
+
+[00:00:13]
+apoyo a estos videos abajo en la
+
+[00:00:15]
+descripción tienen el link de toda la
+
+[00:00:17]
+Playlist para que se vean todas las
+
+[00:00:18]
+clases también recuerden compartir estos
+
+[00:00:21]
+videos con sus amigos darle like y
+
+[00:00:24]
+suscribirse al Canal Vamos allá con
+
+[00:00:27]
+nuestra clase del día de hoy que es
+
+[00:00:29]
+bastante breve bastante sencilla que
+
+[00:00:31]
+vamos a hablar de la liquidez interna o
+
+[00:00:34]
+la estructura interna de Mercado verdad
+
+[00:00:37]
+Entonces lo primero que vamos a tocar el
+
+[00:00:39]
+día de hoy va a ser la estructura
+
+[00:00:41]
+externa Qué es lo denominamos así al
+
+[00:00:45]
+fractal mayor según sea el eh ejemplo
+
+[00:00:48]
+designo Mi fractal mayor en h4 ese será
+
+[00:00:51]
+mi estructura externa o sea van a ser
+
+[00:00:53]
+los bajos y los altos de nuestra
+
+[00:00:56]
+fractalidad externa en este caso línea
+
+[00:00:58]
+punteada que aquí tengo vamos a estar
+
+[00:01:00]
+poniendo que Esto va a ser mi
+
+[00:01:02]
+fractalidad externa o mi liquidez o mi
+
+[00:01:05]
+estructura externa como ustedes lo
+
+[00:01:07]
+quieran Llamar la verdad es que lo
+
+[00:01:09]
+importante es que lo puedan llegar a
+
+[00:01:10]
+comprender de manera muy sencilla
+
+[00:01:12]
+Entonces lo denominamos así el fractal
+
+[00:01:15]
+mayor el fractal mayor va a ser nuestra
+
+[00:01:17]
+liquidez o nuestra estructura externa
+
+[00:01:20]
+verdad lo digo también liquidez porque
+
+[00:01:22]
+en los bajos y en los altos ya saben que
+
+[00:01:24]
+se va a encontrar órdenes de liquidez
+
+[00:01:27]
+verad órdenes ahí que van a ser liquidez
+
+[00:01:29]
+pero también lo denominamos como el
+
+[00:01:32]
+higher High o el higher low en este caso
+
+[00:01:35]
+Yo quiero simplificarlo bastante y decir
+
+[00:01:37]
+que solamente es el alto y el bajo
+
+[00:01:39]
+verdad siempre de la fractalidad mayor
+
+[00:01:42]
+que llevemos verdad por ejemplo puede
+
+[00:01:44]
+ser h4 y nuestra fractalidad menor h1 lo
+
+[00:01:47]
+que es la estructura interna lo vamos a
+
+[00:01:49]
+denominar como los fractales menores que
+
+[00:01:52]
+se encuentran dentro de la estructura
+
+[00:01:54]
+mayor o el fractal mayor verdad Entonces
+
+[00:01:56]
+eso va a ser mi fractalidad eh o mi
+
+[00:01:58]
+estructura interna verdad Entonces eh
+
+[00:02:02]
+vamos a ver que liquidez interna contra
+
+[00:02:04]
+liquidez externa con el propósito de
+
+[00:02:06]
+generar liquidez la estructura irá
+
+[00:02:09]
+creando altos y bajos internos y
+
+[00:02:12]
+externos que eventualmente serán tomados
+
+[00:02:14]
+verdad Entonces el algoritmo
+
+[00:02:16]
+interbancario lo que generalmente va
+
+[00:02:18]
+haciendo amigos es ir tomando bajos y
+
+[00:02:21]
+altos ir generando bajos y altos los
+
+[00:02:24]
+crea los diseña y luego los toma verdad
+
+[00:02:27]
+Ahorita vamos a ver bastantes ejemplos
+
+[00:02:29]
+para que ustedes les quede bien claro
+
+[00:02:30]
+todos estos conceptos no los bajos y los
+
+[00:02:33]
+altos diarios y semanales serán los
+
+[00:02:35]
+puntos de liquidez externa más
+
+[00:02:36]
+relevantes verad esto hablando ya para
+
+[00:02:38]
+dirección o un vallas de dirección los
+
+[00:02:41]
+fractales menores de la lower Time frame
+
+[00:02:43]
+o la estructura menor serán los puntos
+
+[00:02:46]
+de liquidez interna más relevantes
+
+[00:02:49]
+verdad Entonces entender básicamente eso
+
+[00:02:52]
+liquidez externa fractales mayores
+
+[00:02:55]
+liquidez interna fractales
+
+[00:02:58]
+menores mapeo de liquidez externa contra
+
+[00:03:01]
+liquidez interna entonces aquí por
+
+[00:03:03]
+ejemplo podemos tener en esta línea eh
+
+[00:03:05]
+punteada de abajo y en esta línea
+
+[00:03:07]
+punteada de arriba Vamos a estar
+
+[00:03:08]
+Generalmente teniendo nuestra eh
+
+[00:03:12]
+liquidez externa verdad van a ser todos
+
+[00:03:14]
+esos puntos externos de nuestro fractal
+
+[00:03:16]
+que estamos manejando en este caso puede
+
+[00:03:18]
+ser cualquier temporalidad alta y
+
+[00:03:19]
+nuestra temporalidad menor vamos a ir
+
+[00:03:21]
+viendo los impulsos y retrocesos y vamos
+
+[00:03:24]
+a ir viendo como el precio va tomando
+
+[00:03:25]
+los altos y los bajos externos Perdón
+
+[00:03:28]
+internos todos los bajos y los altos
+
+[00:03:31]
+internos y Bueno chicos aquí estamos con
+
+[00:03:33]
+un ejemplo en este caso gráfico del
+
+[00:03:35]
+nasdaq y les voy a poner un ejemplo de
+
+[00:03:37]
+liquidez interna y liquidez externa
+
+[00:03:39]
+verdad Entonces tenemos el High y y los
+
+[00:03:44]
+lows verad esto podría hacer mi fractal
+
+[00:03:47]
+eh externo o fractal mayor en la
+
+[00:03:50]
+temporalidad h4 por ejemplo Aquí tengo
+
+[00:03:52]
+alto bajo alto bajo verdad entonces todo
+
+[00:03:57]
+ese fractal mayor que ustedes lo pueden
+
+[00:03:59]
+ver
+
+[00:04:00]
+de esta manera va a tener su estructura
+
+[00:04:03]
+interna que ya puede ser en nuestro
+
+[00:04:05]
+gráfico menor en este caso ejemplo de h1
+
+[00:04:08]
+o ejemplo de m15 etcétera etcétera En
+
+[00:04:13]
+este caso lo vamos a poner en nuestro
+
+[00:04:15]
+gráfico de 15 minutos para que ustedes
+
+[00:04:18]
+vean cómo lo vean un poquito más claro
+
+[00:04:20]
+verdad Bueno al final lo puse en nuestro
+
+[00:04:22]
+gráfico de 30 minutos fíjense que es la
+
+[00:04:25]
+misma estructura que veíamos en h4 y
+
+[00:04:28]
+ahora les voy a estar solamente
+
+[00:04:30]
+designando por ejemplo este fractal que
+
+[00:04:32]
+este fractal es bastante sencillito y
+
+[00:04:35]
+fíjense cómo vamos a estar nosotros
+
+[00:04:37]
+mapeando la liquidez eh interna o la
+
+[00:04:41]
+estructura interna verdad Para que
+
+[00:04:43]
+ustedes les quede muy muy muy muy claro
+
+[00:04:46]
+Cuál es cuál y cuál es cuál vamos a
+
+[00:04:48]
+poner de color azul para que ustedes
+
+[00:04:49]
+vean Y tenemos un un High un low un
+
+[00:04:53]
+nuevo impulso un nuevo low un nuevo
+
+[00:04:56]
+impulso un nuevo low aquí Bueno aquí
+
+[00:04:58]
+tenemos un complejo un nuevo High nuevo
+
+[00:05:02]
+low nuevo High nuevo low etcétera
+
+[00:05:05]
+etcétera inclusive puede ser este
+
+[00:05:07]
+también y fíjense como todo esto lo
+
+[00:05:09]
+vamos a denominar nosotros como
+
+[00:05:11]
+estructura interna verdad que el precio
+
+[00:05:14]
+si se fijan constantemente dentro de
+
+[00:05:17]
+toda esta estructura fíjense que en
+
+[00:05:19]
+ciertos puntos del mercado va a ir
+
+[00:05:21]
+tomándolos por ejemplo aquí fíjense como
+
+[00:05:23]
+el mercado va a ir tomando esta liquidez
+
+[00:05:25]
+interna de del de la mismo para
+
+[00:05:28]
+continuar su paso hacia la liquidez
+
+[00:05:31]
+externa que en este caso sería este
+
+[00:05:34]
+punto de aquí verdad Entonces es
+
+[00:05:36]
+bastante sencillito simplemente esto es
+
+[00:05:39]
+liquidez estructura interna y liquidez
+
+[00:05:41]
+interna y lo que está por fuera del
+
+[00:05:44]
+fractal mayor pues va a ser la liquidez
+
+[00:05:46]
+externa no Entonces esta sería la manera
+
+[00:05:48]
+en que yo estoy siempre considerando la
+
+[00:05:51]
+estructura por ejemplo aquí ya tenemos
+
+[00:05:52]
+el bajo más importante y aquí se nos
+
+[00:05:55]
+forma por ejemplo otro fractal menor que
+
+[00:05:58]
+tiene este impulso este como pequeño
+
+[00:06:00]
+Rango que tiene finalmente este
+
+[00:06:02]
+retroceso que tiene este nuevo impulso
+
+[00:06:04]
+retroceso impulso retroceso Y tenemos
+
+[00:06:07]
+estos bajos hasta que finalmente este
+
+[00:06:09]
+esta estructura externa logra tomarse
+
+[00:06:13]
+verdad Entonces eso podríamos
+
+[00:06:15]
+catalogarlo Como por ejemplo estos
+
+[00:06:17]
+puntos externos y todos estos fractales
+
+[00:06:20]
+menores van a ser nuestros puntos
+
+[00:06:21]
+internos la verdad es que es muy
+
+[00:06:23]
+sencillito de de ver fíjense por ejemplo
+
+[00:06:26]
+Aquí vamos a marcar puede ser estructura
+
+[00:06:30]
+eh externa estructura externa aquí pa pa
+
+[00:06:35]
+pa pa tenemos tres puntos con estructura
+
+[00:06:37]
+externa se ve bastante bien verdad muy
+
+[00:06:40]
+facilito este tipo de de fractales y
+
+[00:06:43]
+después vamos a ir
+
+[00:06:45]
+marcando nuestra estructura interna por
+
+[00:06:48]
+ejemplo aquí tenemos este bajo luego
+
+[00:06:50]
+tenemos este pequeño retroceso con este
+
+[00:06:52]
+bajo Con este retroceso y aquí llegamos
+
+[00:06:55]
+hasta nuevo punto donde tenemos otro
+
+[00:06:56]
+impulso otro retroceso otro nuevo
+
+[00:06:59]
+impulso hasta acá otro retroceso y
+
+[00:07:01]
+finalmente este impulso que tiene un
+
+[00:07:03]
+nuevo retroceso impulso retroceso
+
+[00:07:05]
+impulso eh retroceso impulso retroceso
+
+[00:07:08]
+impulso retroceso impulso y así entonces
+
+[00:07:12]
+fíjense que esto de aquí es nuestra
+
+[00:07:16]
+liquidez externa y todo esto de aquí va
+
+[00:07:18]
+a ser nuestra liquidez interna o
+
+[00:07:20]
+estructura interna también se le llama
+
+[00:07:22]
+acuérdense que la estructura va siendo
+
+[00:07:24]
+creada para convertirse finalmente en
+
+[00:07:26]
+liquidez yaad todos estos van a ser
+
+[00:07:29]
+nuestra interna contra externa Yo espero
+
+[00:07:31]
+que lo hayan entendido bastante bien y
+
+[00:07:33]
+nos vamos a estar viendo en un siguiente
+
+[00:07:35]
+video de mentoría 1 a un gratuita
+```

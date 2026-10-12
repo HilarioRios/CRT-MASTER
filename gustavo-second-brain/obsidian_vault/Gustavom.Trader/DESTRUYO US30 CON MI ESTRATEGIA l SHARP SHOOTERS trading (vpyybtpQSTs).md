@@ -1,0 +1,919 @@
+---
+source_id: YT_CANAL_02_vpyybtpQSTs
+video_id: vpyybtpQSTs
+channel: "Gustavom.Trader"
+published_at: 2022-11-22
+url: https://www.youtube.com/watch?v=vpyybtpQSTs
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 7
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# DESTRUYO US30 CON MI ESTRATEGIA  l SHARP SHOOTERS #trading
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=vpyybtpQSTs)
+
+## Transcript
+
+```
+[00:00:06]
+[Música]
+
+[00:00:08]
+nosotros el 30 tomamos fue en esta zona
+
+[00:00:13]
+como ya lo venía diciendo fue un 3D más
+
+[00:00:16]
+o menos un 1 a 20 no sé si por acá lo
+
+[00:00:20]
+tenga ya dibujado o lo borré Bueno lo
+
+[00:00:23]
+tengo aquí ya dibujado para que ustedes
+
+[00:00:24]
+lo vean este este fue en una temporada
+
+[00:00:28]
+en lo vemos en las temporalidades
+
+[00:00:30]
+pequeñas esto es otra cosa y Esto fue el
+
+[00:00:33]
+tren que Nosotros tomamos les voy a
+
+[00:00:36]
+explicar un poquito el contexto de lo
+
+[00:00:37]
+que vimos Y de lo que está haciendo el
+
+[00:00:39]
+precio porque yo lo tomé De hecho yo
+
+[00:00:41]
+estuve tomando compras También en esta
+
+[00:00:43]
+zona no más que las compras no las lleve
+
+[00:00:45]
+hasta arriba solamente como ustedes ya
+
+[00:00:48]
+saben y la metodología que yo tomo las
+
+[00:00:50]
+llevé hasta el 50% y iba a dejar correr
+
+[00:00:53]
+a otras pero la verdad es que antes de
+
+[00:00:55]
+la noticia no quise hacerlo por la
+
+[00:00:57]
+cuestión de que ya saben que estoy
+
+[00:00:58]
+trabajando con my fire phone
+
+[00:01:00]
+el deslizamiento Pues en esas noticias
+
+[00:01:02]
+de alto impacto es muy muy horrible
+
+[00:01:04]
+entonces dije no me voy a arriesgar
+
+[00:01:07]
+cerré todo por acá subió y una vez que
+
+[00:01:11]
+subió Pues pasaron más o menos cinco
+
+[00:01:13]
+días 15 como más o menos como 20 minutos
+
+[00:01:16]
+y ahí sí estuve tomando ya que se
+
+[00:01:19]
+controló el tema del spreadity
+
+[00:01:21]
+deslizamiento Pues me dio chance de
+
+[00:01:23]
+tomar ese tren más o menos un 1 a
+
+[00:01:26]
+19,20 por ahí incluso podríamos decir
+
+[00:01:29]
+que un poco menos y este
+
+[00:01:32]
+viendo el análisis por acá que les voy a
+
+[00:01:36]
+hacer como como quien dice como como
+
+[00:01:37]
+quien dice de cero para que ustedes lo
+
+[00:01:39]
+entiendan el gráfico que venía haciendo
+
+[00:01:42]
+el gráfico y porque entramos ahí me
+
+[00:01:45]
+decía en él otra vez en una de las bueno
+
+[00:01:48]
+hablando con un chico de que mira la que
+
+[00:01:51]
+se decidió tomar la mentoría uno uno que
+
+[00:01:54]
+mucha de la gente solamente viene tú
+
+[00:01:57]
+miras las fotos Estoy en redes sociales
+
+[00:01:59]
+en y tú ves que la gente tiene su selt
+
+[00:02:04]
+aquí y su stop y miras el Trail super
+
+[00:02:07]
+Sniper pero nadie nadie en carajos te
+
+[00:02:09]
+dice como entraste Aquí la gente dice
+
+[00:02:12]
+como quien dice Cómo entrar ahí en esa
+
+[00:02:14]
+zona Entonces yo les quiero pues como
+
+[00:02:19]
+quien dice Mostrar este tren para que si
+
+[00:02:21]
+les puedes subir como como caso de
+
+[00:02:24]
+estudio lo hagan y puedan ustedes
+
+[00:02:27]
+avanzar en su trading entonces
+
+[00:02:36]
+Ok entonces
+
+[00:02:39]
+Vamos allá en la temporalidad de una
+
+[00:02:43]
+hora estamos muy probablemente viendo
+
+[00:02:47]
+que el precio estaba dentro de esta zona
+
+[00:02:51]
+una teníamos todo este en balance y muy
+
+[00:02:55]
+pues lo primero que yo estuve que se me
+
+[00:02:59]
+hizo como quien dice interesante
+
+[00:03:00]
+nosotros estábamos por acá porque más o
+
+[00:03:03]
+menos por acá esto ahora era todo el
+
+[00:03:06]
+embalaje que había dejado el precio y
+
+[00:03:07]
+también una cosa que yo estuve mirando
+
+[00:03:09]
+mucho es que el precio no había
+
+[00:03:12]
+conseguido hacer un fractal muy extenso
+
+[00:03:15]
+este fractal estaba bastante pequeñito
+
+[00:03:18]
+en comparación de todo este fractal
+
+[00:03:20]
+entonces muy probablemente el precio
+
+[00:03:24]
+y va a venir a hacer un descuento a una
+
+[00:03:27]
+zona de stopcon porque
+
+[00:03:30]
+visualicé yo eso porque discernir o
+
+[00:03:34]
+porque
+
+[00:03:35]
+este especulé que el precio podría hacer
+
+[00:03:37]
+eso una porque el precio cuando
+
+[00:03:40]
+normalmente tiene estos fractales y
+
+[00:03:43]
+viene una zona de stopcon va a formar
+
+[00:03:47]
+eso y esto sin analizarlo o
+
+[00:03:49]
+concluyéndolo también con una con una
+
+[00:03:52]
+distribución de huaico que yo estaba
+
+[00:03:54]
+viendo claramente ahí una posible
+
+[00:03:56]
+formación de un huaicos Entonces sí o sí
+
+[00:04:00]
+más o menos el precio iba a venir a este
+
+[00:04:03]
+orden blog para caer eso es lo que yo
+
+[00:04:07]
+está viendo y ya había lo habían
+
+[00:04:10]
+trabajado los institucionales en la zona
+
+[00:04:12]
+de 1110 y 127 que es una zona de
+
+[00:04:15]
+stopcond entonces este movimiento es
+
+[00:04:19]
+inducido por los institucionales para
+
+[00:04:22]
+para ventas Entonces si el movimiento es
+
+[00:04:25]
+inducido muy probablemente vayan a
+
+[00:04:27]
+querer tomar el dinero que estaba arriba
+
+[00:04:29]
+pero a ciencia cierta yo no sabía si el
+
+[00:04:32]
+precio realmente iba a ir a esta zona o
+
+[00:04:35]
+iba a ir a una zona un poco más elevada
+
+[00:04:38]
+Entonces si ustedes ya miran la zona de
+
+[00:04:42]
+El fractal que llevábamos pues está
+
+[00:04:44]
+claro No el fractal que estamos
+
+[00:04:46]
+trabajando desde este a este punto y
+
+[00:04:48]
+tengo una de dos cosas que el precio
+
+[00:04:50]
+venga aquí y siga cayendo porque esto no
+
+[00:04:53]
+debemos de ignorarlo el precio sí había
+
+[00:04:54]
+estado rompiendo la estructura pero la
+
+[00:04:57]
+ruptura de la estructura es a una zona
+
+[00:04:59]
+de stopcon o de o de toma de stop loss o
+
+[00:05:04]
+de toma de sacón de liquidez como usted
+
+[00:05:06]
+lo quieran llamar entonces este
+
+[00:05:08]
+movimiento es cuando yo digo esto es una
+
+[00:05:11]
+posible inducción que venga y rellene
+
+[00:05:13]
+sin balance por lo menos al 50%, por eso
+
+[00:05:17]
+después ustedes van a ver que bueno
+
+[00:05:21]
+observaron porque ahí se los mandé el
+
+[00:05:23]
+Telegram que yo estuve trabajando el
+
+[00:05:26]
+precio Precisamente en esta zona de
+
+[00:05:28]
+orderblogs en esta zona de order blog
+
+[00:05:31]
+principalmente en la temporalidad menor
+
+[00:05:34]
+es donde estuve entrando Pero bueno
+
+[00:05:35]
+indistintamente la temporalidad menor el
+
+[00:05:38]
+gráfico mayor era el mismo no y
+
+[00:05:41]
+posiblemente este retroceso dije yo lo
+
+[00:05:43]
+voy a poder trabajar aquí si el precio
+
+[00:05:45]
+Lo trabajo aquí compras y realmente no
+
+[00:05:48]
+me da la compra O sea no me da la razón
+
+[00:05:50]
+pues me olvido de la idea esta y
+
+[00:05:53]
+posiblemente el precio vaya a atacar
+
+[00:05:54]
+zonas más abajo que la zona más abajo ya
+
+[00:05:57]
+los que tengan tiempo conmigo pues ya
+
+[00:05:59]
+saben que es esa zona de ovín toda esta
+
+[00:06:02]
+zona de oferta o Perdón toda esa zona de
+
+[00:06:05]
+demanda por lo menos más o menos esta
+
+[00:06:07]
+zona Entonces yo esperaba que el precio
+
+[00:06:10]
+venía a esta zona si lo podemos refinar
+
+[00:06:11]
+lo podríamos refinar un poco mejor donde
+
+[00:06:13]
+donde hizo la inducción que es esta zona
+
+[00:06:16]
+de aquí y esa zona es la que yo esperaba
+
+[00:06:19]
+que llegara entonces también lo podría
+
+[00:06:21]
+yo lo podría haber trabajado este
+
+[00:06:23]
+fractal Igualmente lo podría trabajar en
+
+[00:06:26]
+esta de 110 y 127 pero en este contexto
+
+[00:06:29]
+no me gustaba tanto yo lo Trabajé ahí y
+
+[00:06:33]
+en una temporalidad menor estuve
+
+[00:06:35]
+comprando por aquí o sea más o menos Le
+
+[00:06:37]
+voy a poner una flechita hacia arriba
+
+[00:06:39]
+aquí estuve empujando yo al alza
+
+[00:06:41]
+comprando
+
+[00:06:43]
+y este
+
+[00:06:45]
+y dividiendo bastante bien mi riesgo
+
+[00:06:48]
+para poder trabajar esta zona de 110 y
+
+[00:06:51]
+127 por si se llega a efectuar también
+
+[00:06:53]
+me gustaba bastante y después al saber
+
+[00:06:59]
+nosotros eso que toda la gente estaba
+
+[00:07:01]
+mirando un break of structor era un Boss
+
+[00:07:04]
+y los institucionales pues ya sabían que
+
+[00:07:06]
+la gente muy probablemente de este
+
+[00:07:08]
+movimiento a este movimiento quisiera
+
+[00:07:10]
+estar vendiendo en este 80 88 y casi
+
+[00:07:14]
+casi casi Pues justo lo hizo en la
+
+[00:07:16]
+noticia Entonces por eso es que yo allí
+
+[00:07:18]
+me olvidé esa zona y ya lo que estuve
+
+[00:07:21]
+haciendo de las compras liquidarlas aquí
+
+[00:07:23]
+en este High una por lo que les decía el
+
+[00:07:25]
+deslizamiento la verdad si no hubiera
+
+[00:07:28]
+visto esa noticia así lo voy a podría
+
+[00:07:29]
+haber dejado yo hasta el 80 al 70 pero
+
+[00:07:31]
+ya con un liquin habiendo liquidado un
+
+[00:07:34]
+80% del volumen o un 70 hubiera podido
+
+[00:07:38]
+dejar correr lo demás o incluso a la
+
+[00:07:40]
+zona de arriba poder haber dejado correr
+
+[00:07:42]
+un poco más
+
+[00:07:43]
+lo que yo hago es cuando quiero tener un
+
+[00:07:46]
+ratio más extendido yo no sé si el
+
+[00:07:49]
+precio va a caer aquí el precio va a
+
+[00:07:51]
+caer aquí o el precio va a caer aquí si
+
+[00:07:54]
+yo ya vengo adentro lo que hago yo
+
+[00:07:56]
+normalmente es lo que hago pero en este
+
+[00:07:58]
+caso no lo hice pero le digo por el tema
+
+[00:08:00]
+del deslizamiento lo que yo hago aquí es
+
+[00:08:03]
+liquidar una porcentaje y crear otro
+
+[00:08:06]
+porcentaje y el final dejarlo correr
+
+[00:08:08]
+hasta acá y ya chequear donde donde
+
+[00:08:11]
+puedo trabajarlo el precio y acá de
+
+[00:08:13]
+nuevo lo vuelvo a trabajar en ventas de
+
+[00:08:15]
+nuevo en las zonas que ya ustedes saben
+
+[00:08:17]
+no
+
+[00:08:18]
+igualmente Yo creo que para cuando estos
+
+[00:08:21]
+vídeos se sube a YouTube o esta clase
+
+[00:08:22]
+sube a YouTube ya va a estar el tema de
+
+[00:08:24]
+la estrategia Entonces ya no te va a
+
+[00:08:26]
+haber ningún problema para que la lo
+
+[00:08:28]
+revisen eh Por estrategia y ahí se da
+
+[00:08:29]
+bastante bien La compra primero al alza
+
+[00:08:32]
+y en el mechazo pues se meten compras y
+
+[00:08:34]
+después pues vamos a irnos a una
+
+[00:08:36]
+temporalidad menor porque aquí sucedió
+
+[00:08:37]
+bastante rápido vamos a irnos a M1
+
+[00:08:39]
+porque aquí pues se ve muy rápido Esta
+
+[00:08:42]
+es la zona que yo estuve trabajando en
+
+[00:08:43]
+compras como ustedes saben Igualmente
+
+[00:08:45]
+para que vean que todos los conceptos
+
+[00:08:48]
+que nosotros enseñamos se confluyen si
+
+[00:08:50]
+se fijan la zona que yo estoy trabajando
+
+[00:08:52]
+dentro del fractal mayor donde está
+
+[00:08:53]
+ubicada
+
+[00:08:55]
+ya ustedes saben 110% mis stocks estaban
+
+[00:08:58]
+por acá por debajo de esta zona y para
+
+[00:09:00]
+arriba y ahí nos estuvimos incorporando
+
+[00:09:02]
+para arriba aparte vean el contexto del
+
+[00:09:06]
+de la fractalidad menor es lo mismo que
+
+[00:09:08]
+analizamos en una fractalidad menor la
+
+[00:09:11]
+gente mucha gente me dice Ay es que el
+
+[00:09:13]
+M1 Está muy difícil la temporalidad
+
+[00:09:15]
+menor Está muy difícil es lo mismo lo
+
+[00:09:18]
+mismo que hace en el mensual lo mismo
+
+[00:09:19]
+que hace todas las temporalidades
+
+[00:09:20]
+Incluso si te llegara a poner los
+
+[00:09:23]
+segundos es lo mismo fíjate como forma
+
+[00:09:25]
+esa terrible liquidez y yo estuve
+
+[00:09:27]
+saliendo por acá mi zona más segura y
+
+[00:09:30]
+este las ventas entonces que fueron las
+
+[00:09:32]
+que tomaron yo quería trabajar esta zona
+
+[00:09:35]
+de del bloque donde estaba exactamente
+
+[00:09:37]
+el bloque de h1 pero la noticia Pues fue
+
+[00:09:40]
+demasiado rápido Y pues demasiado rápido
+
+[00:09:43]
+me dio la no me dio la razón por aquí
+
+[00:09:45]
+para hacerte sincero yo estuve tomando
+
+[00:09:48]
+una venta antes aquí
+
+[00:09:51]
+yo estuve tomando una venta por aquí el
+
+[00:09:54]
+precio no había llegado al 110
+
+[00:09:56]
+exactamente pero si ya estaba metido
+
+[00:09:58]
+entre este 100 y 110 y yo tomé una venta
+
+[00:10:00]
+chiquitita el percado retrocedió y me
+
+[00:10:04]
+sacó en stop loss no alcancé a proteger
+
+[00:10:06]
+porque me descuide
+
+[00:10:09]
+me descuidé y y este
+
+[00:10:13]
+y no alcancé a proteger la entrada pero
+
+[00:10:15]
+me sacó un pequeño stop pero no fue nada
+
+[00:10:18]
+realmente nada importante porque yo
+
+[00:10:21]
+tenía zonas de ventas aquí eran
+
+[00:10:23]
+obviamente limits Tú no ibas a entrar
+
+[00:10:25]
+así luego luego pero Incluso si tú
+
+[00:10:28]
+querías entrar por confirmación Fíjate
+
+[00:10:30]
+cómo te rompe la estructura y te dio el
+
+[00:10:32]
+retés aquí pero yo entré directamente no
+
+[00:10:34]
+entré por por ningún tipo de de
+
+[00:10:37]
+confirmación y tenía mi zona ahora sí
+
+[00:10:41]
+que para para que ustedes sepan todo el
+
+[00:10:43]
+contexto voy a borrar este cuadrito
+
+[00:10:44]
+Bueno lo voy a mover hacia acá ya
+
+[00:10:46]
+después de que me topió esta yo tenía
+
+[00:10:49]
+más o menos dividido mi riesgo para
+
+[00:10:50]
+trabajar lo que a mí me gustaba como
+
+[00:10:53]
+esta zona de aquí esta zona de aquí y el
+
+[00:10:56]
+50% del área que era la que a mí me
+
+[00:10:59]
+gusta entonces tenía mi zona dividida en
+
+[00:11:01]
+esos tres y el que me estropió pero el
+
+[00:11:03]
+que me estropió al no haber llegado al
+
+[00:11:05]
+mercado todavía ese 110 óptimo son
+
+[00:11:08]
+entradas que para mí que yo las propongo
+
+[00:11:11]
+o las categorizo como de más
+
+[00:11:16]
+entonces lo que sucede ahí Es que yo
+
+[00:11:21]
+trabajé esa zona y estuve metiendo mi
+
+[00:11:23]
+limits en ese 110% más o menos una
+
+[00:11:26]
+posición corta y lo que yo suelo manejar
+
+[00:11:28]
+ya saben que yo no me enfoco en el en el
+
+[00:11:32]
+Sniper me suelo manejar entre entre 20 a
+
+[00:11:36]
+50 puntos en este caso al ser una zona
+
+[00:11:38]
+grande Pues sí metí unos 50 puntitos ahí
+
+[00:11:40]
+aproximadamente por ahí quedó este
+
+[00:11:42]
+límite tenía otro limits dividido este
+
+[00:11:45]
+esta área en 50% déjame aquí la divido
+
+[00:11:50]
+es aquí está la zona de refinado y tenía
+
+[00:11:54]
+otra área otra zona aquí
+
+[00:11:58]
+este 50%
+
+[00:12:00]
+y más o menos a 50 puntos de stop loss Y
+
+[00:12:04]
+tenía mi tercera entrada
+
+[00:12:06]
+posicionada Aquí en el 127
+
+[00:12:09]
+a 50 puntos Estas son las que estuve
+
+[00:12:12]
+trabajando casi me toma la segunda y me
+
+[00:12:14]
+estropea pero gracias a Dios me se fue
+
+[00:12:18]
+con la primera y pues adelante pero yo
+
+[00:12:20]
+así iba a trabajar mi zona y así decidir
+
+[00:12:22]
+la decidí trabajarla Recuerden que como
+
+[00:12:25]
+yo siempre les digo Siempre antes de
+
+[00:12:27]
+entrar al mercado yo debo de saber
+
+[00:12:28]
+cuánto voy a ganar y cuánto voy a perder
+
+[00:12:30]
+Entonces no me voy a aunque esté
+
+[00:12:33]
+trabajando en una zona una manipulación
+
+[00:12:34]
+o una área súper rápido no voy a meterme
+
+[00:12:39]
+a lo loco estos esos son simplemente
+
+[00:12:41]
+como yo decidí dividir mis tiros y pues
+
+[00:12:44]
+ahí salió bastante bien que es la
+
+[00:12:46]
+entrada que ustedes miran por acá que es
+
+[00:12:48]
+la entrada a su vez que yo les estuve en
+
+[00:12:52]
+mostrando que yo les estoy mostrando
+
+[00:12:55]
+este por el grupo de Telegram y por el
+
+[00:12:58]
+WhatsApp y esta fue la entrada
+
+[00:13:00]
+maravillosa católicos Entonces espero
+
+[00:13:02]
+que les ayude
+
+[00:13:05]
+[Música]
+```

@@ -1,0 +1,1795 @@
+---
+source_id: YT_CANAL_02_8dMIVQhelrA
+video_id: 8dMIVQhelrA
+channel: "Gustavom.Trader"
+published_at: 2024-07-29
+url: https://www.youtube.com/watch?v=8dMIVQhelrA
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 15
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Trading, PERO LA ESTRUCTURA es MUY FACIL l Clase 1 l Modulo 1 l Mentoría de Trading Gratis
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=8dMIVQhelrA)
+
+## Transcript
+
+```
+[00:00:00]
+entonces la clase del día de hoy que
+
+[00:00:02]
+vamos a ver es fractalidad del mercado
+
+[00:00:03]
+verdad mentoría 1 a un módulo clase
+
+[00:00:06]
+número uno mercado un mercado fractal
+
+[00:00:09]
+entonces teoría básica de la fractalidad
+
+[00:00:12]
+la teoría de la fractalidad nos dice
+
+[00:00:14]
+hace referencia a un comportamiento
+
+[00:00:16]
+repetitivo en los mercados en todas las
+
+[00:00:18]
+temporalidades Qué quiere decir que el
+
+[00:00:21]
+mercado se mueve de manera similar ojo
+
+[00:00:24]
+similar o parecida de manera cíclica
+
+[00:00:28]
+durante el tiempo verad que lo mismo que
+
+[00:00:31]
+hace en temporalidades de 4 horas lo
+
+[00:00:33]
+hace en temporalidades de una hora lo
+
+[00:00:36]
+puede llegar a ser en temporalidades de
+
+[00:00:38]
+un minuto ojo puedes repetir la misma
+
+[00:00:41]
+fractalidad pero no quiere decir que sea
+
+[00:00:44]
+Exactamente igual pero sí se mu de una
+
+[00:00:46]
+manera muy similar o muy igual o muy
+
+[00:00:50]
+parecida Verdad Entonces para nosotros
+
+[00:00:53]
+entender eso nosotros usamos lo que son
+
+[00:00:56]
+los fractales los fractales son una
+
+[00:00:59]
+parte del mercado que nosotros agarramos
+
+[00:01:01]
+o agarramos una parte del mercado Y a
+
+[00:01:03]
+partir de ahí lo clasificamos en
+
+[00:01:05]
+fractales para entender esto vamos a
+
+[00:01:08]
+entender que tenemos primero un origen
+
+[00:01:12]
+el origen es des donde salió el precio
+
+[00:01:14]
+des donde está saliendo des donde tú lo
+
+[00:01:16]
+estás mirando verad desde ahí salió el
+
+[00:01:19]
+precio este primero sería el impulso
+
+[00:01:23]
+verad puede ser un impulso hacia arriba
+
+[00:01:25]
+un impulso hacia abajo dependiendo la
+
+[00:01:27]
+tendencia que llevemos verdad entonces
+
+[00:01:29]
+Cómo identificamos nuestros fractales
+
+[00:01:31]
+origen del impulso verad ahí empieza mi
+
+[00:01:35]
+impulso luego después final del impulso
+
+[00:01:38]
+verad origen y final verad eso sería un
+
+[00:01:41]
+primer fractal eso sería un fractal
+
+[00:01:44]
+luego nuestro fractal está compuesto de
+
+[00:01:47]
+El retroceso y el retroceso lo podemos
+
+[00:01:50]
+identificar con el origen del
+
+[00:01:52]
+retroceso origen del retroceso y final
+
+[00:01:55]
+del retroceso ese sería un fractal
+
+[00:01:58]
+completo eh
+
+[00:02:00]
+comprendido de impulso y retroceso esos
+
+[00:02:05]
+son los lo básico para poder entender la
+
+[00:02:08]
+estructura de Mercado ahorita vamos a ir
+
+[00:02:10]
+al gráfico y vamos a
+
+[00:02:12]
+identificarlos para que ustedes lo
+
+[00:02:14]
+entiendan bien bien claramente Gustavo
+
+[00:02:16]
+En qué temporalidad no te centres
+
+[00:02:18]
+ahorita en las temporalidades céntrate
+
+[00:02:20]
+en la temporalidad que tú lo veas un
+
+[00:02:24]
+origen del impulso un final del impulso
+
+[00:02:27]
+un origen del del del del del retroceso
+
+[00:02:31]
+y un final del retroceso Luego de eso
+
+[00:02:35]
+vamos a tener lo que yo llamo puntos de
+
+[00:02:37]
+giro estos puntos de giro Qué es Gustavo
+
+[00:02:40]
+pues es donde el precio cambia para
+
+[00:02:43]
+hacer el retroceso o para hacer un nuevo
+
+[00:02:45]
+impulso ejemplo aquí en esta punta que
+
+[00:02:48]
+estamos aquí hasta arriba en el justo en
+
+[00:02:50]
+el final del impulso va va a existir un
+
+[00:02:53]
+origen del retroceso y va va a existir
+
+[00:02:56]
+un punto de
+
+[00:02:58]
+giro verdad Igualmente en el en el
+
+[00:03:02]
+origen del impulso va a existir un punto
+
+[00:03:04]
+de giro en el final del retroceso va a
+
+[00:03:06]
+existir un punto de giro son como los
+
+[00:03:08]
+vértices verdad si tú por ejemplo pones
+
+[00:03:10]
+un triángulo pues sabemos que el
+
+[00:03:12]
+Triángulo tiene tres puntos verdad Y son
+
+[00:03:15]
+los vértices del triángulo Pues haz de
+
+[00:03:17]
+cuenta que es lo mismo en el precio
+
+[00:03:19]
+verad pero por fractales por fractales o
+
+[00:03:23]
+muchos le dicen piernas también pierna
+
+[00:03:26]
+pierna una pierna verad del mercado a
+
+[00:03:29]
+través de se van formando lo que son las
+
+[00:03:31]
+tendencias entonces eh creo que
+
+[00:03:33]
+comprendimos todo bien
+
+[00:03:35]
+ver para eso tenemos fractales mayores y
+
+[00:03:38]
+menores los fractales los mayores son
+
+[00:03:40]
+los que están en temporalidades grandes
+
+[00:03:42]
+diario h4 o también depende de tu
+
+[00:03:46]
+temporalidad En qué depende tu
+
+[00:03:48]
+temporalidad Por ejemplo si tú estás
+
+[00:03:50]
+viendo M1 tu fractal mayor va a estar en
+
+[00:03:53]
+una temporalidad mayor puede ser m15 por
+
+[00:03:56]
+ejemplo o tú puedes estar viendo h1 y tu
+
+[00:03:59]
+fract mayor va a estar en diario o h4
+
+[00:04:04]
+verdad Entonces es bien importante
+
+[00:04:06]
+entender la temporalidad de una sola vez
+
+[00:04:09]
+Verdad Entonces para eso clasificamos
+
+[00:04:11]
+los fractales como mayores y menores el
+
+[00:04:14]
+fractal menor va a ser la lectura de la
+
+[00:04:16]
+temporalidad menor ejemplo en h4 tengo
+
+[00:04:20]
+un fractal x pero en h1 en m15 tengo
+
+[00:04:24]
+otros fractales más pequeños eso lo
+
+[00:04:26]
+vamos a ver también ahorita en la
+
+[00:04:28]
+práctica
+
+[00:04:30]
+vamos a hablar ahora de los puntos de
+
+[00:04:31]
+giro para identificar los giros de un
+
+[00:04:34]
+fractal es necesario analizar los
+
+[00:04:36]
+fractales menores y entender cómo es que
+
+[00:04:39]
+la acción de precio se genera O sea que
+
+[00:04:42]
+justo en un en un en un impulso y en un
+
+[00:04:46]
+retroceso justo en un punto de giro yo
+
+[00:04:48]
+voy a tener fractalidad
+
+[00:04:50]
+menores esas fractalidad menores me van
+
+[00:04:53]
+a ayudar a mí o me van a servir para
+
+[00:04:55]
+identificar si probablemente est ha un
+
+[00:04:57]
+punto de giro para hacer un nuevo
+
+[00:05:00]
+impulso o retroceso en un fractal mayor
+
+[00:05:03]
+verdad yo creo que se está entendiendo
+
+[00:05:05]
+bastante bien verdad Entonces importante
+
+[00:05:09]
+analizar para obtener con mayor
+
+[00:05:11]
+precisión puntos de giro que es
+
+[00:05:12]
+importante la alineación de nuestras
+
+[00:05:16]
+temporalidades estructura y liquidez de
+
+[00:05:18]
+las temporalidades verdad la alineación
+
+[00:05:20]
+de las temporalidades es Yo tengo un
+
+[00:05:23]
+precio subiendo aquí creando un fractal
+
+[00:05:25]
+alcista y luego tengo un precio que
+
+[00:05:27]
+probablemente pueda retroceder Entonces
+
+[00:05:30]
+cuando empiezo a ver que mis
+
+[00:05:31]
+temporalidades menores empiezan a
+
+[00:05:33]
+alinear a las mayores es cuando yo puedo
+
+[00:05:35]
+entender que probablemente venga un
+
+[00:05:38]
+retroceso si estamos en una temporalidad
+
+[00:05:40]
+alta verad o en una tendencia alcista
+
+[00:05:43]
+simplemente eso muy sencillo de entender
+
+[00:05:46]
+pero vamos a ir un poquito a entender
+
+[00:05:49]
+Más todavía las temporalidades verdad
+
+[00:05:51]
+las temporalidades más todavía para que
+
+[00:05:53]
+entendamos al 100% Cómo es que el precio
+
+[00:05:56]
+Lo va haciendo la temporalidad es algo
+
+[00:05:59]
+muy importante que ustedes tienen que
+
+[00:06:01]
+entender muy bien Es importante saber
+
+[00:06:03]
+que las temporalidades mayores tendrán
+
+[00:06:04]
+un peso más importante en cuanto a
+
+[00:06:07]
+dirección yo las clasifico de esta
+
+[00:06:09]
+manera para simplificar mejor
+
+[00:06:11]
+m y s1 es mensual y semanal mensual y
+
+[00:06:16]
+semanal luego tenemos diario y 4 horas
+
+[00:06:19]
+luego tenemos h1 y m15 y luego tenemos
+
+[00:06:23]
+m5 y M1 Qué hago yo normalmente para
+
+[00:06:27]
+esto si yo estoy trabajando con con
+
+[00:06:29]
+diario pues estoy viendo la fractalidad
+
+[00:06:32]
+de diario verad un impulso y un
+
+[00:06:35]
+retroceso Entonces cómo puedo saber yo
+
+[00:06:38]
+si esto aquí va a ser un punto de giro y
+
+[00:06:40]
+va a ser una nueva temporalidad pues
+
+[00:06:42]
+empiezo a ver la construcción de los
+
+[00:06:44]
+fractales menores que pueden ser de h4 o
+
+[00:06:46]
+de h1 a través de la posible
+
+[00:06:49]
+construcción de los fractales de h1 y de
+
+[00:06:52]
+h4 yo puedo entender que posiblemente
+
+[00:06:54]
+tengamos un nuevo impulso en mi
+
+[00:06:56]
+temporalidad diaria
+
+[00:06:59]
+básicamente eso es muy sencillo de
+
+[00:07:01]
+entender y lo que nosotros usamos es una
+
+[00:07:05]
+multitemporal didad no solamente
+
+[00:07:08]
+analizar una temporalidad Pero según el
+
+[00:07:11]
+enfoque del trading que ustedes quieran
+
+[00:07:13]
+hacer es la temporalidad que van a
+
+[00:07:14]
+utilizar verdad eso lo voy a enseñar más
+
+[00:07:18]
+adelante por último tenemos los ciclos
+
+[00:07:21]
+de precio Qué son el ciclo de Qué es un
+
+[00:07:24]
+ciclo de precio un ciclo de precio son
+
+[00:07:26]
+en el conjunto de de dos o más fractales
+
+[00:07:31]
+o do más de dos fractales Qué quiere
+
+[00:07:34]
+decir que cuando el precio hace un
+
+[00:07:36]
+impulso un retroceso tiene un fractal
+
+[00:07:39]
+verdad Ahí tenemos un fractal de este
+
+[00:07:41]
+punto de origen a este punto final punto
+
+[00:07:44]
+de origen del impulso del retroceso
+
+[00:07:46]
+punto final del retroceso el precio hace
+
+[00:07:48]
+un nuevo impulso tenemos probablemente
+
+[00:07:50]
+un nuevo fractal formándose confirma y
+
+[00:07:54]
+ahí tenemos un segundo fractal aquí
+
+[00:07:56]
+tenemos dos fractales supongamos que el
+
+[00:07:57]
+precio hace un nuevo impulso un nuevo
+
+[00:08:00]
+retroceso aquí tendríamos ya tres
+
+[00:08:02]
+fractales un dos y tres verad todos
+
+[00:08:06]
+estos tres fractales me van a formar un
+
+[00:08:09]
+ciclo en esa temporalidad supongamos que
+
+[00:08:12]
+este es un ciclo de h4 comprendido de
+
+[00:08:15]
+varios fractales verdad varios impulsos
+
+[00:08:19]
+y retrocesos que hacen un fractal Que
+
+[00:08:21]
+varios fractales cumplen un ciclo del
+
+[00:08:23]
+precio este ciclo Si tú te vas a la
+
+[00:08:25]
+temporalidad mayor que es diario lo vas
+
+[00:08:28]
+a ver como un
+
+[00:08:30]
+impulso entonces todo este ciclo de h4
+
+[00:08:33]
+fue para formar un qué un fractal de
+
+[00:08:37]
+diario me explico o no me explico yo
+
+[00:08:40]
+creo que me explico bastante bien verdad
+
+[00:08:42]
+Y así sucesivamente con todas las
+
+[00:08:45]
+temporalidades si por ejemplo ves varios
+
+[00:08:47]
+ciclos en diario por ejemplo ves dos
+
+[00:08:50]
+fractales en diario con varios con
+
+[00:08:52]
+varios fractales en cuatro horas va a
+
+[00:08:54]
+ser un solo impulso en
+
+[00:08:56]
+semanal y un solo impulso en mensual y y
+
+[00:08:59]
+así sucesivamente por por todas las
+
+[00:09:01]
+temporalidades que haya que haya vidas y
+
+[00:09:04]
+por haber Okay ahora para entender mejor
+
+[00:09:08]
+esto vamos a pasar al gráfico y vamos a
+
+[00:09:11]
+estudiar lo que hemos visto para empezar
+
+[00:09:14]
+con el origen del impulso en este caso
+
+[00:09:17]
+va a ser un impulso bajista porque
+
+[00:09:20]
+tenemos una estructura bajista formada
+
+[00:09:22]
+verad luego tenemos el final del impulso
+
+[00:09:25]
+verdad Ahora yo les pregunto a ver
+
+[00:09:29]
+Ayúdenme por ahí márquenme cuál ahorita
+
+[00:09:31]
+es fácil porque ya lo están viendo Cuál
+
+[00:09:35]
+es el origen del
+
+[00:09:39]
+retroceso este es no fractal ojo inf
+
+[00:09:43]
+fractal alguien este es fractal del
+
+[00:09:46]
+punto a al punto B este es fractal
+
+[00:09:49]
+origen del impulso final del retroceso
+
+[00:09:52]
+Okay muy bien muy bien estee es el
+
+[00:09:55]
+origen del
+
+[00:09:57]
+retroceso verdad
+
+[00:09:59]
+origen del retroceso Cómo me puedo dar
+
+[00:10:02]
+cuenta Gustavo que este es el origen del
+
+[00:10:03]
+retroceso Bueno una porque ya lo estoy
+
+[00:10:06]
+viendo pero la otra es por mi
+
+[00:10:07]
+fractalidad
+
+[00:10:09]
+menor pero ahorita vamos a ir al gráfico
+
+[00:10:11]
+menor en su caso puede ser h1 m15 una
+
+[00:10:15]
+temporalidad menor
+
+[00:10:18]
+verdad Ahora dígame usted dí dígame
+
+[00:10:21]
+ustedes Cuál
+
+[00:10:24]
+es el final del retroceso
+
+[00:10:30]
+a ver los demás también pueden
+
+[00:10:31]
+participar si quieren Ahí está final del
+
+[00:10:35]
+retroceso o sea sencillo de entender o
+
+[00:10:37]
+no sencillo de entender fácil verdad
+
+[00:10:40]
+entonces aquí lo marcamos principio
+
+[00:10:43]
+final principio final este sería un
+
+[00:10:47]
+fractal completo Este es mi fractal
+
+[00:10:50]
+completo o Entonces qué puedo yo intuir
+
+[00:10:53]
+Por ejemplo si veo un fractal ahí puedo
+
+[00:10:56]
+intuir que en mis puntos de giro
+
+[00:11:00]
+aquí en mis puntos de giro aquí en mis
+
+[00:11:03]
+puntos de giro puedo obtener dirección
+
+[00:11:05]
+del mercado dirección del precio
+
+[00:11:08]
+verdad ahora cómo clasifico esto por eso
+
+[00:11:12]
+es importante como les digo las
+
+[00:11:13]
+temporalidades ya tengo yo ese impulso
+
+[00:11:15]
+lo vamos ahí bajamos a la temporalidad
+
+[00:11:17]
+de h1 para entender mis puntos de giro
+
+[00:11:20]
+que es lo que lo ahora lo nuevo que
+
+[00:11:23]
+vamos a trabajar
+
+[00:11:25]
+fíjense que ya tenemos este ahora
+
+[00:11:30]
+en el siguiente vamos a tener Igualmente
+
+[00:11:33]
+fractales menores ahorita los vamos a
+
+[00:11:35]
+identificar algún listillo que ya sea
+
+[00:11:38]
+listillo ya ya sabe cuál por ejemplo es
+
+[00:11:40]
+mi fractal menor pero fíjense que vamos
+
+[00:11:43]
+a poner aquí rojo para mis fractales
+
+[00:11:46]
+menores
+
+[00:11:47]
+ya aquí tenemos un
+
+[00:11:50]
+impulso y luego Aquí qué tenemos un
+
+[00:11:54]
+giro este que está aquí es el principio
+
+[00:12:01]
+de del el origen de un nuevo impulso en
+
+[00:12:06]
+este caso Perdón este es el origen de un
+
+[00:12:09]
+nuevo impulso y este es el origen de un
+
+[00:12:11]
+nuevo
+
+[00:12:12]
+retroceso entonces aquí tenemos otro
+
+[00:12:15]
+fractal completo lo ubican o no lo
+
+[00:12:18]
+ubican
+
+[00:12:20]
+aquí
+
+[00:12:22]
+tenemos
+
+[00:12:24]
+a
+
+[00:12:26]
+b c así como los ni nios chiquitos de la
+
+[00:12:30]
+de que cuando cuando estaban aprendiendo
+
+[00:12:31]
+el abecedario
+
+[00:12:33]
+a b
+
+[00:12:36]
+c este este este Qué es es un
+
+[00:12:40]
+fractal menor Por qué Porque Cuál es mi
+
+[00:12:44]
+fractal mayor Gustavo Mi fractal mayor
+
+[00:12:47]
+es este que está acá Este es mi fractal
+
+[00:12:50]
+mayor o Entonces mi fractal mayor está
+
+[00:12:53]
+comprendido De qué está comprendido de
+
+[00:12:58]
+un fractal
+
+[00:13:01]
+menor hay fractales más grandes y más
+
+[00:13:04]
+pequeños y hay unos que tienen más tipos
+
+[00:13:07]
+de fractales menores pero este tiene un
+
+[00:13:10]
+fractal menor Entonces ya entendimos la
+
+[00:13:12]
+estructura menor verad o mi fractalidad
+
+[00:13:15]
+menor ahora este hace un nuevo retroceso
+
+[00:13:19]
+y este que también es el final del es el
+
+[00:13:22]
+final o del retroceso del fractal menor
+
+[00:13:26]
+también es el final del retroceso del
+
+[00:13:28]
+fractal mayor
+
+[00:13:29]
+verdad y ahora aquí tenemos mi primer
+
+[00:13:33]
+punto de
+
+[00:13:35]
+giro ahora el precio va a construir
+
+[00:13:38]
+fractales ahora la dirección contraria
+
+[00:13:40]
+porque posiblemente Mi fractalidad mayor
+
+[00:13:44]
+me está diciendo que venga un retroceso
+
+[00:13:46]
+o entonces en mi fractalidad menor lo
+
+[00:13:49]
+que voy a ver es fractales alcistas pero
+
+[00:13:53]
+fractales alcistas de mi
+
+[00:13:56]
+retroceso son fractales alcistas de mi
+
+[00:14:00]
+retroceso solamente aquí es donde muchos
+
+[00:14:03]
+se confunden porque ven el mercado
+
+[00:14:05]
+subiendo y creen que se va a ir to the
+
+[00:14:08]
+moon pero aquí tú tienes un punto
+
+[00:14:11]
+fractal esto hay que validarlo
+
+[00:14:13]
+todavía Okay Vamos haciendo Fall up
+
+[00:14:16]
+ahora de la fractalidad menor del
+
+[00:14:19]
+retroceso punto a al punto B aquí
+
+[00:14:23]
+tenemos claramente un nuevo alto aquí
+
+[00:14:25]
+tenemos claramente un nuevo bajo verdad
+
+[00:14:29]
+entonces aquí tenemos mi primer fractal
+
+[00:14:32]
+menor ahora qué
+
+[00:14:36]
+tenemos mi primer
+
+[00:14:38]
+impulso de mi siguiente fractal luego
+
+[00:14:42]
+tenemos el descanso también se le puede
+
+[00:14:44]
+decir descanso al retroceso Hay muchas
+
+[00:14:47]
+formas de
+
+[00:14:48]
+decirle retroceso luego tenemos un nuevo
+
+[00:14:51]
+impulso y aquí tenemos un
+
+[00:14:54]
+nuevo
+
+[00:14:56]
+impulso verdad
+
+[00:14:59]
+hasta ahí yo creo que todos vamos bien
+
+[00:15:01]
+Ahora hablábamos de mi fractalidad que
+
+[00:15:04]
+yo tenía impulso
+
+[00:15:06]
+retroceso Esa es mi fatalidad mayor
+
+[00:15:09]
+fíjense como ahora para detectar que
+
+[00:15:12]
+probablemente Este es un nuevo punto de
+
+[00:15:16]
+giro después Vamos a ponernos a pelear
+
+[00:15:19]
+de dónde exactamente hasta dónde puede
+
+[00:15:23]
+pero ahorita solamente enfócate en
+
+[00:15:25]
+entender la estructura como tal solo
+
+[00:15:28]
+estructura de mercado estamos tú yo y la
+
+[00:15:32]
+estructura de Mercado no te ahorita no
+
+[00:15:34]
+estamos hablando de liquidez ni de
+
+[00:15:36]
+bloques de orden ni de De nada solamente
+
+[00:15:38]
+estamos tú yo y la estructura de Mercado
+
+[00:15:42]
+Okay yo te digo si
+
+[00:15:45]
+esto si este
+
+[00:15:48]
+hace aquí Me faltó marcar este que está
+
+[00:15:51]
+acá el nuevo este bajo perdón Perdóname
+
+[00:15:53]
+perdónenme Me faltó marcar este bajo
+
+[00:15:55]
+también si este que está aquí quiere
+
+[00:15:59]
+seguir alcista qué tiene que
+
+[00:16:03]
+hacer marcar un nuevo mínimo y irse para
+
+[00:16:07]
+arriba
+
+[00:16:09]
+verdad si el mercado quiere seguir
+
+[00:16:12]
+subiendo tiene que retroceder y seguir y
+
+[00:16:14]
+seguir subiendo pero fíjate lo
+
+[00:16:17]
+interesante que pasa
+
+[00:16:19]
+aquí Fíjate lo interesante que pasa aquí
+
+[00:16:23]
+que el mercado de hecho lo vamos a
+
+[00:16:25]
+marcar con otro colorcito para que no se
+
+[00:16:27]
+me confundan
+
+[00:16:30]
+vamos a marcarlo con azul Fíjate lo que
+
+[00:16:33]
+interesante que pasa aquí qu hace el
+
+[00:16:35]
+precio abajo hace un nuevo
+
+[00:16:40]
+B Entonces ahora yo tengo un nuevo
+
+[00:16:43]
+fractal
+
+[00:16:45]
+aquí tengo un nuevo fractal ahí lo miras
+
+[00:16:49]
+o no lo miras si se entiende verad ese
+
+[00:16:50]
+es un nuevo fractal ahora voy a volver a
+
+[00:16:53]
+tener un nuevo punto de giro y voy a
+
+[00:16:56]
+tener un nuevo punto de retroceso Ahora
+
+[00:16:59]
+yo me centro específicamente en este
+
+[00:17:02]
+fractal que está
+
+[00:17:04]
+aquí y Fíjate lo que sucede el precio
+
+[00:17:07]
+Qué hace el la estructura viene hacia
+
+[00:17:10]
+arriba hace un nuevo impulso hacia abajo
+
+[00:17:14]
+hace nu impulso hacia arriba este patrón
+
+[00:17:17]
+por qué lo hace así Gustavo raro ahorita
+
+[00:17:19]
+no me voy a poner a explicar eso pero
+
+[00:17:21]
+simplemente céntrate en el movimiento
+
+[00:17:23]
+final que hace el precio hace un nuevo
+
+[00:17:25]
+fractal Lu después que hace un nuevo
+
+[00:17:28]
+fractal Fíjate que hace un nuevo bajo Y
+
+[00:17:30]
+fíjate que ahora la estructura esta que
+
+[00:17:35]
+este este fractal ahora tenemos el
+
+[00:17:38]
+comienzo de una nueva fractalidad
+
+[00:17:43]
+mayor con sus
+
+[00:17:46]
+fractales menores Dónde está mi aquí
+
+[00:17:51]
+impulso retroceso impulso retroceso en
+
+[00:17:55]
+este caso impulso a la baja retroceso a
+
+[00:17:57]
+la alza impulso la la baja retroceso a
+
+[00:17:59]
+la alza impulso a la baja retroceso a la
+
+[00:18:01]
+alza verdad excelente ahora Ahí vamos a
+
+[00:18:06]
+echarle un vistazo a mi temporalidad
+
+[00:18:09]
+mayor qué está sucediendo ahí ver
+
+[00:18:12]
+fíjense muy bien cómo mapeamos ahora
+
+[00:18:14]
+toda nuestra estructura de Mercado
+
+[00:18:19]
+verad
+
+[00:18:21]
+fractal aquí punto
+
+[00:18:24]
+de origen Perdón origen del retroceso
+
+[00:18:30]
+nuevo fractal hasta acá y fíjense cómo
+
+[00:18:33]
+va teniendo sus fractales menores Esto
+
+[00:18:36]
+es lo básico para comprender la
+
+[00:18:37]
+estructura de
+
+[00:18:39]
+Mercado y hasta aquí tendríamos ya bien
+
+[00:18:43]
+comprendida la estructura de Mercado y
+
+[00:18:46]
+las temporalidades Y cómo detectamos
+
+[00:18:48]
+esos
+
+[00:18:50]
+eh puntos de ahí
+
+[00:18:53]
+ahora esto que está aquí podríamos decir
+
+[00:18:56]
+que son fractales
+
+[00:18:58]
+todos estos que están aquí verad son
+
+[00:19:00]
+fractales menores verad ya los ya lo
+
+[00:19:02]
+estamos viendo a esto a ver pregunta de
+
+[00:19:05]
+examen le voy a dar una paleta le voy a
+
+[00:19:07]
+dar un dulce al que al que al que lo
+
+[00:19:10]
+diga le Bueno le voy a dar una prueba de
+
+[00:19:13]
+fond al que lo
+
+[00:19:15]
+diga todos estos fractales que
+
+[00:19:19]
+forman Cómo se le llama eso que forman a
+
+[00:19:23]
+ver vamos a ver el chat aquí
+
+[00:19:25]
+sentencia HM pero Okay estuvo cerca sí
+
+[00:19:31]
+son impulsos estructura de Mercado es
+
+[00:19:34]
+estructura ciclo Ahí está Willy Willy
+
+[00:19:38]
+todo esto es un ciclo de qué de
+
+[00:19:42]
+h4 Por qué Porque es un conjunto de
+
+[00:19:45]
+fractales menores es un ciclo de h4 y es
+
+[00:19:49]
+un impulso a la baja estructura
+
+[00:19:53]
+retroceso ciclo
+
+[00:19:58]
+todos se querían ganar la prueba de
+
+[00:20:03]
+fondeo Entonces todos estos que ustedes
+
+[00:20:06]
+ven son fractales menores que que
+
+[00:20:08]
+comprenden un ciclo de h4 es un solo
+
+[00:20:10]
+impulso en forma de en este caso ya ya
+
+[00:20:13]
+no comprendió el retroceso porque es un
+
+[00:20:15]
+impulso a la baja de h4 Y así
+
+[00:20:18]
+sucesivamente Gustavo bájate más de
+
+[00:20:20]
+temporalidad porque a mí me encanta el
+
+[00:20:22]
+m15 y el M1 y y no Okay está bien chico
+
+[00:20:26]
+vamos te voy a dar una extra marcando
+
+[00:20:29]
+los puntos antes ya se ve más clara Ah
+
+[00:20:31]
+verdad yo ya yo fíjense que con el paso
+
+[00:20:35]
+del tiempo yo ya no necesito hacer esto
+
+[00:20:37]
+cuando yo empecé lo hacía todos los días
+
+[00:20:39]
+lo hacía la práctica hace el maestro
+
+[00:20:42]
+Pero tú en mi gráfico ya no vas a ver
+
+[00:20:44]
+esto por qué ya no lo vas a ver en mi
+
+[00:20:46]
+gráfico porque yo ya no lo necesito Yo
+
+[00:20:47]
+llego y con el puro ojo y no es que
+
+[00:20:49]
+porque me crea el gran Sayayin o o el
+
+[00:20:53]
+super Trader no porque ya no necesito yo
+
+[00:20:56]
+estar marcando nada yo ya llego y lo veo
+
+[00:20:58]
+con con el ojito con el tiempo ustedes
+
+[00:21:01]
+con la práctica conforme pero cuando
+
+[00:21:03]
+tienen el enfoque la forma de verla como
+
+[00:21:06]
+es Clara como es una forma de verla Cómo
+
+[00:21:09]
+te digo una forma de verla objetiva una
+
+[00:21:12]
+forma de ver
+
+[00:21:13]
+objetivo después vamos a hablar de los
+
+[00:21:15]
+tamaños de las manipulaciones y demás
+
+[00:21:18]
+cosas pero ahorita no estamos en eso
+
+[00:21:20]
+vamos a irnos para que se les sea más
+
+[00:21:22]
+fácil porque a lo mejor muchos se
+
+[00:21:23]
+confunden vamos a irnos a 5 minutos para
+
+[00:21:25]
+que sean más claros vamos a empezar
+
+[00:21:28]
+vamos a empezar desde desde aquí desde
+
+[00:21:30]
+este origen Ese es el origen del fractal
+
+[00:21:32]
+verad Este es el origen de mi fractal
+
+[00:21:35]
+Igualmente
+
+[00:21:37]
+eh Dónde está Dónde está ta ta a ver
+
+[00:21:41]
+origen y final Okay primer fractal de 5
+
+[00:21:45]
+minutos a ver quién quién dijo yo
+
+[00:21:48]
+Okay a ver los demás no no los demás no
+
+[00:21:51]
+no participan no vinieron los demás a
+
+[00:21:54]
+ver segundo fractal otro que no sea
+
+[00:21:56]
+Willy que no sea wily ya a ver a ver
+
+[00:21:59]
+otro se ve medio feo con el con el con
+
+[00:22:02]
+este se ve más chido con el con el
+
+[00:22:04]
+resaltador Ahí está Alexis
+
+[00:22:08]
+excelente yo me alegro de que sí
+
+[00:22:11]
+entendieron quiere decir que están
+
+[00:22:13]
+Aprendiendo la academia con Gustavo
+
+[00:22:15]
+están aprendiendo
+
+[00:22:16]
+eh pero aquí negro Okay tenemos ese bajo
+
+[00:22:22]
+alto
+
+[00:22:24]
+impulso
+
+[00:22:26]
+retroceso nuevo impulso
+
+[00:22:29]
+nuevo retroceso a ver
+
+[00:22:31]
+síganle seguimos okay excelente nuevo
+
+[00:22:36]
+bajo y luego Cuál es el origen el origen
+
+[00:22:40]
+del Okay perfecto y luego el nuevo bajo
+
+[00:22:44]
+a ver si ese lo agarran Sandra Dice que
+
+[00:22:47]
+hast allá no bueno Sandra está bien está
+
+[00:22:50]
+bien es igual pero antes tiene uno
+
+[00:22:52]
+interno ahí De hecho tiene uno Ándale
+
+[00:22:55]
+Alexis alisis
+
+[00:22:58]
+todas y luego el siguiente aquí
+
+[00:23:01]
+podríamos discutir de de de que sea de
+
+[00:23:04]
+que sea este o este o este pero
+
+[00:23:08]
+realmente el más claro es este porque
+
+[00:23:09]
+este es una fral eso es una fractalidad
+
+[00:23:11]
+menor Bueno después se lo voy a enseñar
+
+[00:23:13]
+pero ahorita vamos a simplificar este es
+
+[00:23:15]
+el nuevo alto nuevo bajo nuevo alto
+
+[00:23:18]
+verad fíjense Qué bonito va quedando
+
+[00:23:20]
+verad ustedes ya aquí tienen ahí les va
+
+[00:23:23]
+vmos h1 de nuevo todos estos fractales
+
+[00:23:26]
+que vimos aquí con cómo se llaman o qué
+
+[00:23:29]
+es todos esos fractales otro ciclo de 15
+
+[00:23:32]
+otro ciclo en este caso lo estamos
+
+[00:23:34]
+viendo de h1 Pero puede ser también de
+
+[00:23:36]
+15 es válido Pero esto sería otro ciclo
+
+[00:23:39]
+de
+
+[00:23:40]
+h1 fíjense que todo esto es un ciclo de
+
+[00:23:43]
+5 minutos es un ciclo de h1 esto es muy
+
+[00:23:47]
+importante entenderlo porque a la hora
+
+[00:23:49]
+que tú quieres tradear sabes lo que
+
+[00:23:52]
+estás buscando estás tradeando un ciclo
+
+[00:23:54]
+de h1 tus entradas están en m5
+
+[00:23:59]
+sencillito h1 m5 y se acabó Pero tú no
+
+[00:24:03]
+vas a querer agarrar todo esto por qué
+
+[00:24:05]
+Porque tú estás trabajando un ciclo
+
+[00:24:08]
+solamente Depende lo que quieras buscar
+
+[00:24:11]
+verad y con las temporalidades mayores
+
+[00:24:14]
+es lo mismo
+
+[00:24:15]
+ya fíjense como vamos a irnos a cco c
+
+[00:24:21]
+fíjense que aquí tenemos un nuevo nuevo
+
+[00:24:24]
+nuevo nuevo impulso y retroceso fíjense
+
+[00:24:27]
+que esto nos va a dar nuevos fractales
+
+[00:24:30]
+pero estamos viviendo un retroceso de h1
+
+[00:24:33]
+entonces mis ciclos o mis fractales
+
+[00:24:36]
+menores de h1 mis ciclos todo el
+
+[00:24:38]
+conjunto de fractales o mis fractales
+
+[00:24:42]
+menores se van a poner
+
+[00:24:44]
+como para arriba en forma de
+
+[00:24:49]
+retroceso después vamos a discutir dónde
+
+[00:24:51]
+va a girar el
+
+[00:24:54]
+mercado Mediante los puntos de interés
+
+[00:24:56]
+pero ahorita Solamente vamos a
+
+[00:24:58]
+lo va a dejar con las ganas de más
+
+[00:25:01]
+verdad ahora
+
+[00:25:04]
+eh vamos a ponerlo Ya me acabé todos los
+
+[00:25:07]
+colores de cuál sería mi primer origen y
+
+[00:25:11]
+final del fractal y retroceso estamos
+
+[00:25:14]
+trabajando esta pierna se pueden llamar
+
+[00:25:16]
+piernas también a los fractales o este
+
+[00:25:18]
+fractal ese fractal es el que estamos
+
+[00:25:20]
+trabajando céntrese en este fractal lo
+
+[00:25:23]
+que está acá ya no importa
+
+[00:25:25]
+Perfecto perfecto Impuls
+
+[00:25:28]
+retroceso impulso retroceso y finalmente
+
+[00:25:33]
+el último impulso y retroceso esto tiene
+
+[00:25:35]
+Cuántos fractales tiene un dos tres
+
+[00:25:39]
+fractales esto sería qué un
+
+[00:25:43]
+ciclo de h1 O sí de h1 en forma
+
+[00:25:49]
+de retroceso de h1 Y fíjense que ahora
+
+[00:25:54]
+aquí obtenemos Vámonos rapidito oraca
+
+[00:25:57]
+tenemos bajo alto bajo alto bajo alto
+
+[00:26:01]
+bajo aquí ya se acelera el precio este
+
+[00:26:04]
+está discutible pero lo podemos tomar
+
+[00:26:07]
+porque llegó ahí a un buen punto donde
+
+[00:26:10]
+está mi color bajo alto bajo y
+
+[00:26:15]
+finalmente hace uno bajo y sucesivamente
+
+[00:26:17]
+así hasta abajo hasta abajo impulso
+
+[00:26:21]
+retroceso esto este puede ser pero este
+
+[00:26:24]
+es de una temporalidad menor realmente
+
+[00:26:26]
+el impulso es hasta acá arriba ese es un
+
+[00:26:29]
+buen
+
+[00:26:30]
+retroceso Esta es una sola vela está más
+
+[00:26:33]
+clara esta luego tienes un nuevo bajo
+
+[00:26:36]
+bueno aquí tienes Este es un Complex
+
+[00:26:38]
+fullback que lo voy a explicar también
+
+[00:26:40]
+aquí en esta mentoría pero
+
+[00:26:42]
+finalmente el El Bueno Estos son se
+
+[00:26:46]
+podría considerar estos fractales pero
+
+[00:26:48]
+realmente el fractal completo es este
+
+[00:26:50]
+pero ese tipo de fractales lo voy a
+
+[00:26:52]
+explicar después no ahorita no los
+
+[00:26:54]
+quiero confundir Okay era mira ay Mira
+
+[00:26:58]
+Ah Es todo es todo bajo nuevo alto Bueno
+
+[00:27:02]
+aquí te
+
+[00:27:04]
+Eh sí nuevo alto
+
+[00:27:06]
+aquí bajo
+
+[00:27:08]
+testeo bajo alto bajo alto Miren qué
+
+[00:27:14]
+bonito Miren qué bonito va quedando Mira
+
+[00:27:17]
+hasta se ve chido Ah
+
+[00:27:19]
+Pam aquí
+
+[00:27:21]
+tenemos pam pam pam pam
+
+[00:27:26]
+pamam se entendió o no se entendió verad
+
+[00:27:29]
+que está fácil o no está fácil Cuando tú
+
+[00:27:33]
+entiendes el mercado de la manera
+
+[00:27:35]
+sencilla se hace el trading sencillo
+```

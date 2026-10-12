@@ -1,0 +1,859 @@
+---
+source_id: YT_CANAL_02_6u5QICIhsUg
+video_id: 6u5QICIhsUg
+channel: "Gustavom.Trader"
+published_at: 2022-02-14
+url: https://www.youtube.com/watch?v=6u5QICIhsUg
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 7
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# CONOCE LOS BLOQUES DE ORDENES DE MANERA SIMPLE-SMART MONEY-SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=6u5QICIhsUg)
+
+## Transcript
+
+```
+[00:00:00]
+de la clase que les tenía el preparar el
+
+[00:00:03]
+día de hoy que una pequeña clase de cita
+
+[00:00:05]
+que les debía
+
+[00:00:07]
+es que de los bloques de órdenes se sabe
+
+[00:00:09]
+si existe por ahí una encuesta
+
+[00:00:12]
+muchos votaron que los bloques de
+
+[00:00:15]
+órdenes era lo que más querían saber
+
+[00:00:20]
+y también para que quede como contenido
+
+[00:00:24]
+en el youtube
+
+[00:00:26]
+y para que todos puedan saber un poquito
+
+[00:00:29]
+así sencillamente que es un bloque de
+
+[00:00:32]
+órdenes lo que muchas personas no están
+
+[00:00:35]
+de los que están en el grupo no están
+
+[00:00:37]
+familiarizados con el smart money y el
+
+[00:00:39]
+trader institucional entonces yo les
+
+[00:00:42]
+hice aquí una pequeñita gráfica
+
+[00:00:45]
+unos cuadritos que simulan lo que son
+
+[00:00:47]
+las velas japoneses entonces ustedes
+
+[00:00:50]
+saben que el mercado cuando lleva un
+
+[00:00:53]
+impulso alcista o bajista
+
+[00:00:55]
+en algún momento se giran entonces en
+
+[00:00:59]
+estos puntos de giro en el trading
+
+[00:01:00]
+institucional la teoría que tenemos es
+
+[00:01:02]
+que nosotros tratamos de seguir las
+
+[00:01:05]
+huellas que dejan los bancos entonces
+
+[00:01:07]
+muchas veces los bancos por ejemplo en
+
+[00:01:09]
+este movimiento que tenemos alcista
+
+[00:01:13]
+en este pequeño movimiento que tenemos a
+
+[00:01:15]
+la alza pues se va comprando comprando
+
+[00:01:19]
+pero luego viene un giro un cambio de
+
+[00:01:21]
+tendencia lo que conocemos normalmente
+
+[00:01:24]
+como un cambio de tendencia no ese giro
+
+[00:01:26]
+a cambio de tendencia aquí es donde los
+
+[00:01:29]
+bancos en la última vela que dejó el
+
+[00:01:31]
+movimiento previo en este caso fue
+
+[00:01:34]
+alcista
+
+[00:01:35]
+dejan los bancos sus posiciones ustedes
+
+[00:01:38]
+saben que los bancos ellos no usan estos
+
+[00:01:40]
+blogs ni ni take profit ni nada de eso
+
+[00:01:44]
+ellos tienen mucho dinero y compran
+
+[00:01:47]
+literalmente al mercado y ellos pueden
+
+[00:01:49]
+aguantar mucho mucho tiempo con esas
+
+[00:01:51]
+posiciones abiertas entonces ellos por
+
+[00:01:54]
+ejemplo aquí dejaron posiciones en
+
+[00:01:55]
+compra
+
+[00:01:57]
+posiciones
+
+[00:01:58]
+puntos ahí de de posiciones y al mercado
+
+[00:02:03]
+irse en contra dejan este bloque de
+
+[00:02:05]
+orden que lo conocemos como un orden
+
+[00:02:08]
+blog normalmente en el trading
+
+[00:02:10]
+institucional y ese orden blog es donde
+
+[00:02:13]
+ellos nosotros tratamos de en un gráfico
+
+[00:02:17]
+identificarlos porque sabemos cuando el
+
+[00:02:20]
+mercado eventualmente vuelva es una zona
+
+[00:02:23]
+importante donde ellos dejaron sus
+
+[00:02:27]
+órdenes y tratamos de nosotros meternos
+
+[00:02:30]
+a favor del mercado para que estas
+
+[00:02:32]
+órdenes se activen y
+
+[00:02:35]
+estas órdenes se activen y nosotros
+
+[00:02:37]
+poder irnos a favor de
+
+[00:02:41]
+ese dinero que dejan los bancos muchas
+
+[00:02:44]
+veces ellos cuando los bloque de órdenes
+
+[00:02:47]
+están
+
+[00:02:49]
+y mitigarse o nunca ha pasado el precio
+
+[00:02:52]
+por ahí pues hay muchas órdenes no
+
+[00:02:54]
+supongamos que aquí hay 10.000 órdenes
+
+[00:02:57]
+entonces cuando el mercado llega es muy
+
+[00:02:59]
+probable que los mitigue entonces esos
+
+[00:03:02]
+esos velitas nos dan a nosotros señas o
+
+[00:03:05]
+rastros o como podemos decirle huella de
+
+[00:03:09]
+que el mercado de que los bancos tienen
+
+[00:03:11]
+su dinero ahí ahorita lo vamos a ver en
+
+[00:03:13]
+un gráfico
+
+[00:03:14]
+más práctico pero eso es una es así muy
+
+[00:03:18]
+de manera muy sencilla
+
+[00:03:20]
+no me quiero meter con una teoría así
+
+[00:03:22]
+muy fuerte sino algo muy sencillo que
+
+[00:03:25]
+ustedes entiendan que simplemente son
+
+[00:03:27]
+órdenes que los bancos dejan y que
+
+[00:03:30]
+nosotros podemos identificar en forma de
+
+[00:03:32]
+vela solita vamos a verlo pues estuvo
+
+[00:03:34]
+yendo bajista no desde este punto que
+
+[00:03:37]
+tenemos ustedes lo que conozcan un
+
+[00:03:39]
+poquito de estructura así sabrán que por
+
+[00:03:42]
+ejemplo el precio que tenía rival al
+
+[00:03:44]
+alza tenía un alto tenía un bajo más
+
+[00:03:47]
+bajo más alto tenía un alto más alto lo
+
+[00:03:51]
+consigue tener un bajo más alto porque
+
+[00:03:52]
+es más alto que éste pero aquí consigue
+
+[00:03:55]
+tener un a más bajo y a partir de ahí el
+
+[00:03:57]
+mercado se empieza a poner bajista no y
+
+[00:03:59]
+ahorita la tendencia que estamos en el
+
+[00:04:01]
+euro/dólar es bajista
+
+[00:04:04]
+podríamos decir que si la tendencia
+
+[00:04:06]
+inmediata es bajista en un gráfico
+
+[00:04:08]
+diario vean entonces como yo aquí tengo
+
+[00:04:11]
+marcada esta zona de un bloque de
+
+[00:04:13]
+órdenes que habían se habían dejado
+
+[00:04:15]
+órdenes aquí activadas y ahorita les voy
+
+[00:04:18]
+a enseñar exactamente la vela que es lo
+
+[00:04:20]
+más que está esto ya lo tengo un poquito
+
+[00:04:22]
+más refinado pero
+
+[00:04:25]
+recuerden que siempre el bloque de
+
+[00:04:27]
+órdenes va a ser la velita olave la
+
+[00:04:31]
+previa al movimiento
+
+[00:04:34]
+al movimiento que se venía ejecutando o
+
+[00:04:38]
+sea que en este caso la de la que yo
+
+[00:04:41]
+tomé fue está claro que a veces en el
+
+[00:04:43]
+mismo bloque de órdenes van thienen
+
+[00:04:47]
+confluencias con otros bloques no
+
+[00:04:49]
+podríamos decir que aquí se tuvieron
+
+[00:04:53]
+confluencia todas estas de lita pero yo
+
+[00:04:56]
+siempre la que me gusta tomar es la vela
+
+[00:04:58]
+más bajista no porque porque aquí en
+
+[00:05:01]
+ustedes saben que el mercado es fractal
+
+[00:05:03]
+y por ejemplo esto está en un gráfico
+
+[00:05:04]
+diario y hay muchas
+
+[00:05:08]
+aquí hay bloques de órdenes en
+
+[00:05:10]
+temporalidad es más bajas porque también
+
+[00:05:12]
+encontramos bloques de órdenes por
+
+[00:05:14]
+ejemplo ahorita estamos viendo un
+
+[00:05:15]
+gráfico diario y el bloque de órdenes es
+
+[00:05:17]
+extenso por ejemplo este es un bloque de
+
+[00:05:19]
+órdenes éste está velita azul y es
+
+[00:05:23]
+extenso porque porque es un gráfico
+
+[00:05:25]
+diario y el rango del block order o del
+
+[00:05:28]
+rango del bloque es grande entonces yo
+
+[00:05:32]
+suelo tomar estos estos bloques más
+
+[00:05:34]
+abajo porque aquí en temporalidad es más
+
+[00:05:36]
+bajas están los bloques de órdenes en
+
+[00:05:38]
+cuatro horas en una hora y así
+
+[00:05:40]
+sucesivamente entonces por eso yo me
+
+[00:05:43]
+gusta tomar más fíjense como el mercado
+
+[00:05:45]
+me da la razón aquí exactamente en el
+
+[00:05:47]
+back testing que yo hice y vean como
+
+[00:05:49]
+esto es de muy mucha precisión por eso
+
+[00:05:52]
+nosotros nos gusta mucho pero lo usamos
+
+[00:05:55]
+con ciertas confluencias de estructura y
+
+[00:05:58]
+cosas que ya les había dicho vean como a
+
+[00:06:00]
+partir donde encierra este bloque que es
+
+[00:06:03]
+éste si nosotros extendemos hasta acá
+
+[00:06:08]
+extendemos el cuadrito verde este que
+
+[00:06:10]
+estoy dibujando nuevo
+
+[00:06:12]
+vea como el precio exactamente rebota
+
+[00:06:14]
+ahí
+
+[00:06:15]
+ustedes creen que sean normal o que
+
+[00:06:17]
+rebotó el precio por casualidad y claro
+
+[00:06:20]
+que no son bloques este bloque son
+
+[00:06:22]
+órdenes que los bancos tenían activadas
+
+[00:06:25]
+ahí entonces se van y se activan que es
+
+[00:06:28]
+claro después porque la estructura sigue
+
+[00:06:30]
+siendo bajista el mercado cayó da pero
+
+[00:06:33]
+en un principio
+
+[00:06:34]
+subió bastante potente hacia esto fue
+
+[00:06:38]
+con bastante speaks para uno para un
+
+[00:06:41]
+trader entrar e incluso para un swing
+
+[00:06:44]
+timers son son bastante scripts entonces
+
+[00:06:48]
+esos en resumen esos son los bloques de
+
+[00:06:51]
+la orden negra fi a simple vista
+
+[00:06:53]
+hay bloques de órdenes en todas las
+
+[00:06:57]
+temporalidades y hay distintos bloques
+
+[00:07:00]
+en diferentes posiciones pero nosotros
+
+[00:07:02]
+siempre usamos como los que ya han
+
+[00:07:03]
+estado en la clase tratamos de estar en
+
+[00:07:06]
+anteriores clases tratamos de usar los
+
+[00:07:08]
+bloques de órdenes
+
+[00:07:10]
+que están en zona premium o que están en
+
+[00:07:13]
+una zona de descuento alta que significa
+
+[00:07:15]
+que está en una zona de descuento a
+
+[00:07:16]
+partir del
+
+[00:07:18]
+50% que es una zona premium entonces si
+
+[00:07:22]
+nosotros tiramos un fibonacci
+
+[00:07:25]
+a partir de aquí el perdón es tendencia
+
+[00:07:29]
+externa definitivo
+
+[00:07:31]
+y buena ahora
+
+[00:07:34]
+a partir de aquí podemos que el precio
+
+[00:07:37]
+efectivamente pues ya se está metiendo
+
+[00:07:39]
+en una en una zona premium a lo mejor no
+
+[00:07:42]
+está en la zona premium a óptima que a
+
+[00:07:44]
+nosotros nos gustaría pero ya está por
+
+[00:07:47]
+debajo del 50% que ya podríamos llamar
+
+[00:07:50]
+que es un descuento donde probablemente
+
+[00:07:52]
+los bancos empiecen a activar sus
+
+[00:07:54]
+órdenes éstos en las estos en zonas de
+
+[00:07:59]
+fíjense como en zonas de por ejemplo
+
+[00:08:01]
+aquí había un bloque de órdenes y por
+
+[00:08:03]
+qué no se activa el mercado pasó de
+
+[00:08:06]
+largo porque en zonas de
+
+[00:08:08]
+que no son de descuento son menos
+
+[00:08:10]
+efectivo porque los bancos ellos les
+
+[00:08:12]
+gusta comprar barato por ejemplo ellos
+
+[00:08:14]
+hayan querido activar bloques de órdenes
+
+[00:08:16]
+aquí pues no porque ellos les gusta
+
+[00:08:18]
+activar les gusta comprar barato
+
+[00:08:20]
+por eso los bloques suelen ser más
+
+[00:08:22]
+efectivos en zonas premium o en zonas de
+
+[00:08:24]
+descuento ahí es donde nosotros tratamos
+
+[00:08:27]
+de comprar
+
+[00:08:30]
+fíjense como el mercado va y mitiga el
+
+[00:08:34]
+bloque y se va para arriba después viene
+
+[00:08:38]
+y lo rompe porque ahora ahí les va otro
+
+[00:08:41]
+punto importante por eso es que yo no lo
+
+[00:08:44]
+tomo nosotros no lo tomamos como
+
+[00:08:46]
+soportes y resistencias
+
+[00:08:48]
+porque porque el trader retail hubiera
+
+[00:08:50]
+dicho aquí está un soporte por eso el
+
+[00:08:53]
+precio regreso pero no cuando viene el
+
+[00:08:56]
+mercado sube y regresa porque ustedes
+
+[00:08:59]
+quieren a ver a ver por ejemplo fred y
+
+[00:09:02]
+francisco pueden decir en el chat porque
+
+[00:09:05]
+ustedes creen que el mercado cuando
+
+[00:09:07]
+llegó otra vez aquí o sea que que llegó
+
+[00:09:10]
+a ver si lo agarro
+
+[00:09:15]
+aquí porque creen ustedes que no hace
+
+[00:09:18]
+activo no hizo lo mismo que hizo aquí
+
+[00:09:20]
+cuando llegue a regreso aquí
+
+[00:09:24]
+liquidar a los retails ok a ver
+
+[00:09:27]
+francisco qué opina por qué crees
+
+[00:09:30]
+francisco que cuando regresó el precio
+
+[00:09:31]
+de ignorarnos no reaccionó como aquí
+
+[00:09:42]
+atlántico se durmió
+
+[00:09:45]
+y
+
+[00:09:45]
+está pensando
+
+[00:09:47]
+ave francisco piensa como banco como los
+
+[00:09:51]
+bancos no pienses como un trader normal
+
+[00:09:53]
+si está pensando no sabe bueno vamos a
+
+[00:09:56]
+darle un poquito de tiempo voy por los
+
+[00:09:58]
+establos de los retails o bueno está
+
+[00:10:00]
+bien la respuesta en este caso la teoría
+
+[00:10:03]
+más básica para que ustedes no se
+
+[00:10:05]
+compliquen mucho la existencia cuando
+
+[00:10:07]
+llegaron aquí las órdenes que se
+
+[00:10:09]
+activaron aquí fueron de este bloque que
+
+[00:10:12]
+estaba cada entonces sí fue un cierto
+
+[00:10:15]
+número de órdenes por ejemplo aquí se
+
+[00:10:17]
+activaron diez mil órdenes al alza o
+
+[00:10:20]
+diez mil o diez mil un diez y diez mil
+
+[00:10:22]
+lotes en compra cuando el precio los
+
+[00:10:25]
+activo aquí regreso simplemente es que
+
+[00:10:27]
+ya no había órdenes aquí eso es todo
+
+[00:10:30]
+no hay más misterio aparte puede ser
+
+[00:10:33]
+como dicen ustedes el válido la misma
+
+[00:10:36]
+gente que compró aquí vendió aquí o sea
+
+[00:10:39]
+los mismos que activaron sus 10 mil
+
+[00:10:41]
+lotes en compra pueden haber sido el
+
+[00:10:44]
+mismo banco que esté vendiendo en esta
+
+[00:10:46]
+zona
+
+[00:10:47]
+a su vez aquí tenemos otro bloque no que
+
+[00:10:49]
+es otra zona importante que tengo ahí
+
+[00:10:51]
+marcada entonces simplemente ellos
+
+[00:10:54]
+manipulan el precio activan sus órdenes
+
+[00:10:57]
+a la alta luego cuando regresan no las
+
+[00:11:00]
+mitigan ahí y entonces otra cosa es que
+
+[00:11:03]
+muchos routers estaban aquí con su
+
+[00:11:05]
+precio con sus con sus órdenes puestas y
+
+[00:11:09]
+ellos hacen el saco de liquidez hasta
+
+[00:11:11]
+los revientan y luego el precio se va al
+
+[00:11:14]
+alt entonces eso es un patrón de
+
+[00:11:16]
+manipulación muy simple y sencillo
+
+[00:11:19]
+y va acompañado con la confluencia de
+
+[00:11:22]
+los bloques de orden si nosotros los
+
+[00:11:24]
+vamos a temporalidad es un poquito más
+
+[00:11:26]
+cortas viendo igual mismo este
+
+[00:11:27]
+movimiento a la temporalidad horaria
+
+[00:11:30]
+podemos ver
+
+[00:11:32]
+gente como ya lo tengo un poquito más
+
+[00:11:34]
+desglosado como el precio va
+
+[00:11:38]
+viene aquí al bloque de órdenes nosotros
+
+[00:11:40]
+no solemos entrar en la mitigación
+
+[00:11:43]
+bueno dependiendo la estructura del
+
+[00:11:46]
+precio en tramos de investigación o no
+
+[00:11:47]
+pero si nosotros digamos que yo entra
+
+[00:11:49]
+con una buena confirmación
+
+[00:11:51]
+tenemos un rompimiento estructura simple
+
+[00:11:53]
+y un re testeo en este reto este o
+
+[00:11:56]
+nosotros podríamos haber entrado y por
+
+[00:11:58]
+ejemplo aquí tengo una operación que
+
+[00:12:00]
+salió en el back testing 111
+
+[00:12:03]
+y fíjense como nosotros nos hemos podido
+
+[00:12:05]
+aprovechar de
+```

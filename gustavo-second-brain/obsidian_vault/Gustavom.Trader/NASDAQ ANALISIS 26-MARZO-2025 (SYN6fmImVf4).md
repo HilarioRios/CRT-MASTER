@@ -1,0 +1,772 @@
+---
+source_id: YT_CANAL_02_SYN6fmImVf4
+video_id: SYN6fmImVf4
+channel: "Gustavom.Trader"
+published_at: 2025-05-14
+url: https://www.youtube.com/watch?v=SYN6fmImVf4
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# NASDAQ ANALISIS 26-MARZO-2025
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=SYN6fmImVf4)
+
+## Transcript
+
+```
+[00:00:01]
+¿Qué onda? ¿Qué onda, gente? Eh, ¿qué
+
+[00:00:03]
+surprise para todos ustedes? Bueno,
+
+[00:00:06]
+estamos aquí con el Nasdaq Análisis, el
+
+[00:00:10]
+Nasdaq. Este es el gráfico de futuros,
+
+[00:00:12]
+gente. Vamos a hacer un repaso un poco
+
+[00:00:14]
+de la acción de precio y vamos a este a
+
+[00:00:17]
+ver qué show, ¿no? Un poquito el Nasdaq.
+
+[00:00:21]
+Vamos a ver aquí. Gráfico diario, gente.
+
+[00:00:24]
+Gráfico diario. Este, aquí no se ve
+
+[00:00:26]
+porque este es el contrato, es otro
+
+[00:00:29]
+contrato, pero estábamos en una zona muy
+
+[00:00:33]
+importante en futuros, que era toda esta
+
+[00:00:36]
+zona, toda esta zona que estoy poniendo
+
+[00:00:38]
+aquí en high time
+
+[00:00:40]
+frame, que es el decisional de esta
+
+[00:00:44]
+zona, de toda esa zona semanal, una zona
+
+[00:00:48]
+semanal, este bloque semanal, eh, no se
+
+[00:00:51]
+ven futuros, como les digo. Bueno, aquí
+
+[00:00:53]
+sí se ve Iren, es esta zona. Y así sí se
+
+[00:00:55]
+ve, pero es que este es el nuevo
+
+[00:00:58]
+contrato de futuros, pero en diario se
+
+[00:01:00]
+veía más claro en el anterior contrato.
+
+[00:01:03]
+Creo que lo puedo poner incluso eh
+
+[00:01:07]
+futuros. Creo que
+
+[00:01:10]
+era contrato
+
+[00:01:12]
+de Ya lo borraron, ya no está. Ya no más
+
+[00:01:15]
+está el de junio, es que ya venció, pero
+
+[00:01:17]
+bueno, anyway, estamos en una zona high
+
+[00:01:19]
+time frame semanal y diario y a partir
+
+[00:01:21]
+de ahí el precio decidió subir. Y
+
+[00:01:24]
+fíjense en la temporalidad diaria, vamos
+
+[00:01:27]
+alcistas ya, gente. Temporalidad diaria.
+
+[00:01:29]
+Vean cómo estamos haciendo un rebote
+
+[00:01:31]
+alcista. Eh, este rebote alcista eh
+
+[00:01:35]
+puede subir un poco más. Yo calculo que
+
+[00:01:38]
+a esta zona de acá arriba todavía le
+
+[00:01:40]
+queda buen tiempo como para seguir
+
+[00:01:41]
+subiendo y viéndolo en 4 horas.
+
+[00:01:45]
+en 4 horas. Eh, fíjense cómo está esta
+
+[00:01:48]
+estructura. Impulso, retroceso, nuevo
+
+[00:01:51]
+impulso, retroceso. Hicimos una especie
+
+[00:01:54]
+como de doble techo, doble suelo y
+
+[00:01:56]
+fuimos hacia arriba, pero acá en CFD lo
+
+[00:01:59]
+tengo bien desglosadita la fractalidad.
+
+[00:02:02]
+es
+
+[00:02:04]
+low,
+
+[00:02:05]
+alto, mínimo, máximo, mínimo y nuevo
+
+[00:02:09]
+máximo. Este es el fractal que estamos
+
+[00:02:11]
+trabajando actualmente. De hecho, ya le
+
+[00:02:12]
+puedo poner aquí un puntito, no se lo
+
+[00:02:15]
+puesto. Este ya es el final del fractal
+
+[00:02:18]
+S. Y les estoy diciendo que les estaba
+
+[00:02:21]
+comentando que probablemente el precio
+
+[00:02:24]
+rellene ese gap que está ahí, no lo ha
+
+[00:02:26]
+rellenado y vengamos sobre el 61.8, 8
+
+[00:02:30]
+70% es la zona que estoy viendo en
+
+[00:02:33]
+futuros. ¿Por qué pongo el gráfico de
+
+[00:02:35]
+futuros? Porque es el gráfico que me
+
+[00:02:37]
+interesa que el precio mitiga esas
+
+[00:02:38]
+zonas. Ya saben que los FD son una copia
+
+[00:02:41]
+y el de futuros es el real. Este es el
+
+[00:02:43]
+fractal que estamos manejando. Fíjense
+
+[00:02:45]
+el retroceso que estamos viendo ahora
+
+[00:02:47]
+actualmente. Llegó al 50%, pero no es
+
+[00:02:49]
+válida esa zona porque el precio tiene
+
+[00:02:51]
+bastante liquidez, que es este gap. No
+
+[00:02:53]
+lo ha cerrado y esperamos que caiga al
+
+[00:02:56]
+61.8,
+
+[00:02:57]
+Pero me gustaría que se metieran sobre
+
+[00:02:58]
+el 70, sobre este bloque de 4 horas,
+
+[00:03:01]
+este bloque que estoy marcando aquí
+
+[00:03:02]
+actualmente en
+
+[00:03:04]
+futuros.
+
+[00:03:06]
+Este, y no ha llenado todavía el gap. De
+
+[00:03:09]
+hecho, podemos actualizarlo un poco para
+
+[00:03:11]
+poner como lo que hace falta de
+
+[00:03:13]
+rellenar. Falta como este
+
+[00:03:15]
+cachito. Eh, este cachito es el que
+
+[00:03:17]
+falta de rellenar, entonces el precio
+
+[00:03:19]
+debería ir todavía a bajar por esa
+
+[00:03:21]
+liquidez.
+
+[00:03:23]
+E hemos tomado este bajo diario, este
+
+[00:03:26]
+otro bajo diario, este que están aquí,
+
+[00:03:28]
+este de acá. Y en semanal eh tenemos una
+
+[00:03:31]
+vela con mecha. Probablemente podamos
+
+[00:03:34]
+entre hoy y mañana recuperar un poco de
+
+[00:03:36]
+cuerpo de esta de esta mecha, ¿no? Ir
+
+[00:03:38]
+por ahora por encima en el en el en el
+
+[00:03:42]
+gráfico. Ya vamos al gráfico de 4 horas.
+
+[00:03:45]
+Como les digo, la proyección es que el
+
+[00:03:47]
+precio venga aquí hacia abajo y luego
+
+[00:03:50]
+después suba. algo tal que sí, que la
+
+[00:03:53]
+proyección anterior era que el precio
+
+[00:03:54]
+cayera desde esta área de aquí, esta
+
+[00:03:57]
+zona de aquí, pero el precio subió un
+
+[00:03:59]
+poquito más de mi previsión, o sea, sacó
+
+[00:04:01]
+la liquidez de este alto y luego después
+
+[00:04:03]
+ya sí cayó, pero yo esperaba que
+
+[00:04:05]
+igualmente tuviéramos un retroceso. Ese
+
+[00:04:07]
+movimiento bajista es totalmente normal
+
+[00:04:09]
+para mí. Yo lo esperaba desde la semana
+
+[00:04:12]
+que estaba pasando. Entonces, ahora,
+
+[00:04:15]
+¿qué esperamos para el Nasdaq? Pues
+
+[00:04:17]
+esperamos que el precio, les digo, baje
+
+[00:04:19]
+y luego suba, pero hay una posibilidad
+
+[00:04:22]
+de que mañana en Londres, todo depende.
+
+[00:04:24]
+Digo, las entradas óptimas van a estar
+
+[00:04:25]
+en Nueva York, mañana en Nueva York hay
+
+[00:04:27]
+que esperar, hoy no hay que hacer nada
+
+[00:04:29]
+ya y hay que dormir tranquilos y mañana
+
+[00:04:32]
+en Nueva York va est van a estar
+
+[00:04:33]
+entradas. Hay una posibilidad de que el
+
+[00:04:35]
+precio haga más o menos así y después
+
+[00:04:39]
+pueda volver a caer así. Si mañana lo
+
+[00:04:42]
+vemos que el precio viene con un rebote
+
+[00:04:44]
+alcista, este rebote lo vamos a poder
+
+[00:04:46]
+considerar para vender. En cambio, si el
+
+[00:04:49]
+precio por aquí lo que hace es sigue
+
+[00:04:52]
+cayendo, pues ya lo que vamos a hacer es
+
+[00:04:54]
+esperar las compras. Entonces, en dado
+
+[00:04:57]
+caso existe una posibilidad de venta
+
+[00:04:59]
+solamente si el precio mañana en Nueva
+
+[00:05:01]
+York se encuentra por acá arriba y sube
+
+[00:05:03]
+durante Londres. Es eso me interesaría
+
+[00:05:06]
+para vender y más o menos un recorrido
+
+[00:05:09]
+de unos 200 puntos, 250 puntos. El nivel
+
+[00:05:13]
+que estoy mirando para comprar va a ser
+
+[00:05:16]
+este que les digo aquí. Toda esta zona
+
+[00:05:18]
+de aquí, esa es la zona que voy a
+
+[00:05:20]
+intentar comprar. Existe otro escenario
+
+[00:05:23]
+donde el precio no respete y después se
+
+[00:05:25]
+lleve esta liquidez, que pueda llegar a
+
+[00:05:28]
+ser el precio más o menos así y luego
+
+[00:05:30]
+venga por esta liquidez y luego ahora sí
+
+[00:05:32]
+suba. Pero para mí eh la tendencia sigue
+
+[00:05:34]
+siendo alcista y voy con la tendencia
+
+[00:05:39]
+diaria, o sea, me interesa para para
+
+[00:05:42]
+seguir eh comprándolo. Este que veamos
+
+[00:05:45]
+es un retraso profundo que para mi gusto
+
+[00:05:48]
+el precio va a volver a ahí arriba, o
+
+[00:05:50]
+sea, va a volver a probar ese nivel. En
+
+[00:05:53]
+CFDs no le hagan mucho caso, yo le hago
+
+[00:05:55]
+más caso a futuros, pero en CFDs les
+
+[00:05:57]
+digo que la zona o igualmente el área va
+
+[00:05:59]
+a estar por aquí más o menos. toda esta
+
+[00:06:01]
+zona de order block de una hora y ya se
+
+[00:06:03]
+pone interesante para comprar. Hay que
+
+[00:06:05]
+esperar una buena configuración y muy
+
+[00:06:08]
+probablemente mañana pueda darnos una
+
+[00:06:10]
+buena configuración.
+
+[00:06:12]
+También pues lo vamos a valorar si el
+
+[00:06:14]
+precio amanece acá arriba, pues lo vamos
+
+[00:06:17]
+a valorar a ver si podemos vender.
+
+[00:06:18]
+Inclusive puede volver el precio hasta
+
+[00:06:20]
+el extremo esta zona que tengo de 4
+
+[00:06:22]
+horas, eh, no es extraño que pueda
+
+[00:06:24]
+volver, pero ya sería raro, ¿no? Sería
+
+[00:06:27]
+más más extraño. Lo natural sería que el
+
+[00:06:30]
+precio aquí subiera un poco y cayera,
+
+[00:06:32]
+rellenar el gap. En en SP500 estamos
+
+[00:06:36]
+igual. Fíjense como nos falta ahí este
+
+[00:06:39]
+cachito de gap por rellenar. Entonces,
+
+[00:06:41]
+más o menos sería lo mismo, ¿no? Y la
+
+[00:06:44]
+zona que estamos viendo para comprar en
+
+[00:06:45]
+SP500 es esta zona de aquí abajo, ¿no?
+
+[00:06:48]
+Esa zona para comprar en SP500 y el US30
+
+[00:06:51]
+está igual. S30 tiene que caer mucho
+
+[00:06:54]
+más, está un poquito más fuerte el US30,
+
+[00:06:57]
+pero igualmente esa zona es la que
+
+[00:06:59]
+veríamos. El US30 se ve bueno para
+
+[00:07:02]
+vender aquí, gente. El US30 tiene
+
+[00:07:04]
+bastante todavía recorrido a la baja,
+
+[00:07:06]
+entonces no hay que adelantarse con las
+
+[00:07:09]
+compras, le queda todavía tiempo al al
+
+[00:07:11]
+precio para que pueda rebotar al cista
+
+[00:07:13]
+al eh entonces le queda tiempo. El el
+
+[00:07:16]
+Nasdaq parece que quiere rebotar ahora
+
+[00:07:18]
+en Londres. Vamos a ver qué hace. A ver
+
+[00:07:20]
+si rebota en Londres y de pronto mañana
+
+[00:07:22]
+en Nueva York vendemos o sigue cayendo.
+
+[00:07:26]
+Ya hay que dormir tranquilos y esperar
+
+[00:07:27]
+mañana. Esos estamos los índices. Vamos
+
+[00:07:30]
+a darle una checadita rápida así al oro.
+
+[00:07:33]
+El oro a ver si está haciendo algo
+
+[00:07:34]
+interesante. El oro está acumulando ahí.
+
+[00:07:36]
+No hay nada interesante. El oro la
+
+[00:07:39]
+probabilidad es que haga así y luego
+
+[00:07:40]
+para arriba en el oro. No, su tendencia
+
+[00:07:43]
+sigue siendo alcista. El oro no hay nada
+
+[00:07:45]
+más que ver. El dólar estaba subiendo.
+
+[00:07:48]
+Sigue subiendo el dólar. Estamos en un
+
+[00:07:50]
+rebote alcista de 4 horas y de diario.
+
+[00:07:53]
+El dólar va a seguir subiendo, gente.
+
+[00:07:55]
+Probablemente rebote un poquito más.
+
+[00:07:58]
+Y si le queda tiempo al euro para que
+
+[00:08:01]
+suba de pronto en intradía, gente,
+
+[00:08:04]
+intradía viene a liquidar algunos altos
+
+[00:08:06]
+o algo así, algo de este estilo, algo
+
+[00:08:09]
+por aquí así liquida un high de estos y
+
+[00:08:12]
+luego después sigue cayendo el el los
+
+[00:08:15]
+Forex, el eurodólar y el el la libra lo
+
+[00:08:19]
+mismo, pero debería ir cayendo en
+
+[00:08:21]
+tendencia general en diario porque le
+
+[00:08:23]
+hace falta tiempo caída, más o menos eh
+
+[00:08:25]
+tiempo de caída al a estos Forex y el
+
+[00:08:30]
+Bitcoin. El Víctor no está haciendo nada
+
+[00:08:33]
+interesante, pero el Bitcoin eh tiene
+
+[00:08:35]
+una posibilidad de que pueda caer por
+
+[00:08:37]
+aquí, por esta zona de aquí, caiga, siga
+
+[00:08:40]
+su tendencia bajista. Yo lo estoy
+
+[00:08:42]
+esperando el Bitcoin sobre los 73,000 y
+
+[00:08:45]
+creo que es todo lo relevante, ¿no? Ahí
+
+[00:08:47]
+está el análisis del NASDAQ. Espero que
+
+[00:08:48]
+no se me haya alargado mucho el video.
+
+[00:08:51]
+Bueno, eh parece que ahora vamos a estar
+
+[00:08:53]
+rebotando, les digo, ahora en Londres.
+
+[00:08:56]
+Veremos, dijo el ciego. No voy a estar
+
+[00:08:57]
+operando hasta mañana en Nueva York a
+
+[00:08:59]
+ver si encontramos alguna buena
+
+[00:09:01]
+oportunidad. Si el precio sube lo
+
+[00:09:03]
+suficiente, se puede vender, gente, se
+
+[00:09:05]
+puede vender hasta esta zona de aquí a
+
+[00:09:07]
+llenar el a lo que queda del gap. Pero
+
+[00:09:09]
+si no es demasiado, si el precio sube
+
+[00:09:12]
+poquito, no es tan atractivo vender,
+
+[00:09:14]
+porque yo esperaría más las compras.
+
+[00:09:16]
+Ahora hay una posibilidad de que el
+
+[00:09:18]
+precio se desplome duro, ¿eh? Y venga a
+
+[00:09:21]
+sacar todo el doble piso hasta el
+
+[00:09:23]
+extremo este, pero no creo que caiga
+
+[00:09:25]
+tanto. Ya, como les digo, me gusta eh
+
+[00:09:29]
+conservar esta fractalidad para que
+
+[00:09:32]
+llegamos al 61, 70%, incluso Optimus TR
+
+[00:09:35]
+entry en el
+
+[00:09:36]
+80% y ya está. Lo único malo es que
+
+[00:09:39]
+tiene como una especie de doble piso,
+
+[00:09:40]
+fíjense, un doble piso este punto de
+
+[00:09:43]
+aquí,
+
+[00:09:45]
+pero algo, yo creo que por lo menos una
+
+[00:09:48]
+reacción podemos tener para mañana. Y
+
+[00:09:50]
+bueno, este es el análisis, gente, ahora
+
+[00:09:52]
+en video. Espero que les haya gustado.
+
+[00:09:53]
+10 minutitos y nos vemos después.
+
+[00:09:57]
+Después si yo ya saben que estoy un
+
+[00:09:58]
+poquito retirado de las redes sociales,
+
+[00:10:00]
+pero de vez en cuando ahí les voy
+
+[00:10:02]
+trayendo cosillas cuando me apetezca,
+
+[00:10:04]
+cuando tenga tiempo, no, no esperen un
+
+[00:10:07]
+Gustavo ahí superactivo, pero voy a
+
+[00:10:09]
+tratar de por ahí traerles cosillas de
+
+[00:10:12]
+vez en cuando. Yeah.
+```

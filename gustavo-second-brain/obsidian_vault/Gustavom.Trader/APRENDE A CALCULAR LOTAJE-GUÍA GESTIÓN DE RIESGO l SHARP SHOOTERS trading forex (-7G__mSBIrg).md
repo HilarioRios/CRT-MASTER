@@ -1,0 +1,1894 @@
+---
+source_id: YT_CANAL_02_-7G__mSBIrg
+video_id: -7G__mSBIrg
+channel: "Gustavom.Trader"
+published_at: 2022-10-07
+url: https://www.youtube.com/watch?v=-7G__mSBIrg
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 16
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# APRENDE A CALCULAR LOTAJE-GUÍA GESTIÓN DE RIESGO l SHARP SHOOTERS #trading #forex
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=-7G__mSBIrg)
+
+## Transcript
+
+```
+[00:00:00]
+[Música]
+
+[00:00:08]
+muy buen día muy
+
+[00:00:12]
+Buen día quería echar shooters hoy vamos
+
+[00:00:14]
+a hablar de un tema que muchas personas
+
+[00:00:17]
+nos han pedido que sumamente importante
+
+[00:00:19]
+y que está intrínsecamente relacionado
+
+[00:00:23]
+con la gestión de riesgo por qué porque
+
+[00:00:27]
+tú tienes que saber Cómo calcular el
+
+[00:00:30]
+lotaje para poder tener tu sesión de
+
+[00:00:33]
+riesgo digamos no es lo mismo que en un
+
+[00:00:35]
+broker
+
+[00:00:37]
+el lote sea equivalente digamos a 10
+
+[00:00:41]
+dólares a que en otro broker el lote sea
+
+[00:00:44]
+equivalente a 100 dólares no es lo mismo
+
+[00:00:46]
+tu stop los no va a ser igual en el
+
+[00:00:48]
+primer caso tu stop loss no va a ser
+
+[00:00:51]
+igual que el del segundo Por eso hay que
+
+[00:00:53]
+saber
+
+[00:00:54]
+Cuánto es el tamaño del lote acorde al
+
+[00:00:57]
+broker y todo eso que son cosas que
+
+[00:01:00]
+muchos no sabemos no sabíamos pues y que
+
+[00:01:03]
+ahora vamos a instruir acerca de ello lo
+
+[00:01:07]
+primero
+
+[00:01:09]
+es que son los lotes si estos mucha
+
+[00:01:12]
+teoría lo sé lo sé muchos nos aburre a
+
+[00:01:14]
+muchos les aburre y Bueno
+
+[00:01:16]
+voy a darle un breve resumen pero igual
+
+[00:01:19]
+la teoría aquí está la teoría Ahí está
+
+[00:01:22]
+para cuando tú quieras leerla o te dé
+
+[00:01:24]
+curiosidad la puedes leer no está bien
+
+[00:01:26]
+uno tragar entero como dicen las abuelas
+
+[00:01:30]
+no no hay que tragar entero hay que
+
+[00:01:32]
+instruirse y no quedarse con lo primero
+
+[00:01:35]
+que te diga el youtuber o lo primero que
+
+[00:01:37]
+te diga Google no Entonces los lotes se
+
+[00:01:41]
+puede decir que es un estándar es un
+
+[00:01:43]
+estándar de la cantidad de unidades que
+
+[00:01:45]
+se compran y venden en cada transacción
+
+[00:01:48]
+que se da en el mercado porque es un
+
+[00:01:50]
+estándar porque
+
+[00:01:52]
+así te permite saber
+
+[00:01:55]
+cuánto estás pagando o sea vamos a ver
+
+[00:01:58]
+cuántas unidades estás comprando en cada
+
+[00:02:00]
+contrato por eso es un estándar el lote
+
+[00:02:03]
+en promedio el estándar en forex es de
+
+[00:02:06]
+100 mil dólares bueno en promedio no de
+
+[00:02:09]
+100.000 dólares en forex pero también
+
+[00:02:10]
+puede variar en otros
+
+[00:02:13]
+digamos activos por ejemplo en índices
+
+[00:02:17]
+elotes distintos en bitcoin en el hotel
+
+[00:02:20]
+distinto pero con la calculadora que
+
+[00:02:22]
+nosotros vamos a enseñarles ya todo eso
+
+[00:02:24]
+debe tener que ustedes calcularlo no lo
+
+[00:02:27]
+vamos a hacer no es como en la escuela
+
+[00:02:28]
+que te dicen no tienes que utilizar
+
+[00:02:30]
+el cuaderno y un lápiz acá Tú tienes la
+
+[00:02:35]
+calculadora y Vamos al grano No tenemos
+
+[00:02:38]
+mini lotes que son 10.000 unidades micro
+
+[00:02:41]
+Nano y esto la nota es importante
+
+[00:02:43]
+importante sumamente importante saber
+
+[00:02:47]
+que permite
+
+[00:02:49]
+utilizar tu broker Por qué Porque hay
+
+[00:02:53]
+Brokers que no te permite utilizar menos
+
+[00:02:56]
+de punto 1
+
+[00:02:59]
+menos de punto uno no te permiten O sea
+
+[00:03:01]
+no menos de un minilote no puedes usar
+
+[00:03:03]
+en algunos Brokers Entonces es
+
+[00:03:05]
+importante saber que si digamos tú
+
+[00:03:07]
+quieres empezar con una cuenta de 100
+
+[00:03:09]
+dólares tienes que estar claro de que el
+
+[00:03:12]
+broker te permite utilizar
+
+[00:03:15]
+porque por ejemplo si vas a hacer un
+
+[00:03:18]
+minilote que sería punto un lotes cada
+
+[00:03:23]
+tanto dólar
+
+[00:03:28]
+es un
+
+[00:03:30]
+O sea que si tú pones digamos en el euro
+
+[00:03:32]
+un stop los de 10 pips estarías
+
+[00:03:35]
+arriesgando
+
+[00:03:37]
+10 dólares que es el 10% de una cuenta
+
+[00:03:40]
+de 100 dólares lo cual no es bueno para
+
+[00:03:44]
+para una gestión de riesgo arriesgar 10%
+
+[00:03:47]
+en una sola entrada eso o sea una locura
+
+[00:03:51]
+es una locura entonces por eso es
+
+[00:03:53]
+importante saberlo es importante tener
+
+[00:03:55]
+conocimiento de que tu broker te permite
+
+[00:03:57]
+tener el tipo de unidades acorde a la
+
+[00:04:01]
+cuenta que tú quieras abrir yo no
+
+[00:04:03]
+recomendaría utilizar una cuenta de 100
+
+[00:04:04]
+dólares en absoluto yo recomendaría ya
+
+[00:04:07]
+si tienes el capital unas cuentas de 10
+
+[00:04:09]
+mil dólares para arriba prefe obviamente
+
+[00:04:11]
+porque hay muchos factores
+
+[00:04:13]
+psicológicos y que eso no nos permite
+
+[00:04:18]
+progresar una cuenta de ese tamaño y
+
+[00:04:20]
+fuera eso nos acostumbra a tener una
+
+[00:04:21]
+mentalidad de trading demasiado difícil
+
+[00:04:24]
+de amoldar demasiado futuro va a ser
+
+[00:04:28]
+puede ser un problema para el Trader
+
+[00:04:32]
+bueno acá si pones en Google todos
+
+[00:04:34]
+sabemos que vamos a poner en Google
+
+[00:04:36]
+calculadora de lotes o calculadora de lo
+
+[00:04:39]
+traje forex si ponemos en Google la
+
+[00:04:41]
+primera opción que nos sale es esta
+
+[00:04:45]
+Perdón Qué buen inglés no my effex Book
+
+[00:04:49]
+aquí este vamos a explicar esto en otro
+
+[00:04:54]
+slide que indica cada uno de estas
+
+[00:04:57]
+secciones o celdas o parámetros qué es
+
+[00:05:01]
+lo que indica que lo que implica No aquí
+
+[00:05:03]
+tenemos otra opción que es esta babypips
+
+[00:05:07]
+no sé si ustedes han leído este libro
+
+[00:05:09]
+Pero bueno se puede decir un libro sí
+
+[00:05:11]
+creo no sé si han leído este libro es un
+
+[00:05:14]
+libro bien bien bien bien interesante
+
+[00:05:16]
+que habla de muchas cosas básicas de lo
+
+[00:05:18]
+que es el trading te habla mucho de
+
+[00:05:21]
+Smartphone y todo esto es bien bonito
+
+[00:05:24]
+este libro
+
+[00:05:26]
+este y acá tenemos varias secciones
+
+[00:05:29]
+parámetros que hay que tomar en cuenta
+
+[00:05:30]
+este es la can carensis que es digamos
+
+[00:05:33]
+la moneda que utilizamos acá en balance
+
+[00:05:36]
+que es el tamaño de cuenta que tenemos
+
+[00:05:37]
+en este caso para el ejemplo de 10 mil
+
+[00:05:40]
+dólares Este es el porcentaje de riesgo
+
+[00:05:42]
+cuánto tuvo hacia arriesgar en ese Trade
+
+[00:05:44]
+y acá el Stop los en pips acá nuestros
+
+[00:05:49]
+sería 30 pips para el euro dólar cierto
+
+[00:05:52]
+acá en esta sección nos dan los
+
+[00:05:54]
+resultados el 1% de 10.000 dólares son
+
+[00:05:57]
+100 dólares Eso quiere decir que
+
+[00:05:58]
+estaremos arriesgando 100 dólares por
+
+[00:06:01]
+operación y ahorita aquí podríamos ver
+
+[00:06:04]
+position 6
+
+[00:06:06]
+en unidades se puede decir que en forex
+
+[00:06:10]
+la unidad son 100.000 unidades por
+
+[00:06:13]
+posición cierto un lote son 100.000
+
+[00:06:15]
+unidades Eso quiere decir que aquí en
+
+[00:06:17]
+este pedazo estaríamos utilizando
+
+[00:06:19]
+33.000 unidades sobre los 100.000 y esto
+
+[00:06:24]
+lo que nosotros vamos a utilizar
+
+[00:06:26]
+eh el estándarlots eso es lo que
+
+[00:06:28]
+nosotros vamos a utilizar cuando vayamos
+
+[00:06:32]
+a poner la posición esto es sumamente
+
+[00:06:34]
+importante saberlo Esto es lo que vamos
+
+[00:06:36]
+a poner en meta Trader o en Trader lo
+
+[00:06:39]
+que vayan a utilizar y Estos son cuánto
+
+[00:06:41]
+sería en mini lotes cuánto serían
+
+[00:06:43]
+microlotes pero este es el que nosotros
+
+[00:06:46]
+vamos a usar en promedio cierto ahora
+
+[00:06:51]
+llegando a la otra opción es otro
+
+[00:06:53]
+ejemplo este tenemos el instrumento
+
+[00:06:56]
+También acá elegimos el instrumento
+
+[00:07:00]
+Esto es lo mismo que acá acá en sí
+
+[00:07:03]
+depositores Lo mismo tenemos el open
+
+[00:07:06]
+price que es diferente a este es para
+
+[00:07:09]
+gustos si ustedes les gusta más de esta
+
+[00:07:10]
+forma
+
+[00:07:12]
+o les gusta más de esta forma o les
+
+[00:07:14]
+gusta más el primero que les enseñe pues
+
+[00:07:16]
+pueden optar por esas opciones
+
+[00:07:19]
+todo apareció en Google todos estos son
+
+[00:07:21]
+buscados por Google entonces acá tenemos
+
+[00:07:23]
+el open price es donde tú quieres que se
+
+[00:07:27]
+abra la posición te lo Open donde
+
+[00:07:30]
+quieres que se ejecute la posición Este
+
+[00:07:33]
+es en donde quieres poner el Stop loss
+
+[00:07:37]
+en este caso son 30 pips también porque
+
+[00:07:39]
+va del
+
+[00:07:41]
+77 al 47 del 47 al 77 ahí van 30 pips el
+
+[00:07:46]
+tamaño de la cuenta son 10.000 dólares
+
+[00:07:48]
+también por ciento de riesgo 1%, y esto
+
+[00:07:51]
+es digamos lo que les mencioné
+
+[00:07:54]
+anteriormente Cuánto es el tamaño del
+
+[00:07:56]
+contrato por lo otro en 100.000 unidades
+
+[00:07:58]
+por lotes y acá sean calculate y te dan
+
+[00:08:00]
+todo si ven es lo mismo la misma
+
+[00:08:03]
+información aquí haya la misma
+
+[00:08:04]
+información de aquí allá así que la que
+
+[00:08:07]
+más le guste o la que más Lee digamos le
+
+[00:08:09]
+sirva Esa es para ustedes
+
+[00:08:11]
+Bueno Este es cómo se ejecutó este
+
+[00:08:16]
+cierto Cómo se llegó a este si pones en
+
+[00:08:19]
+Google catchback forex te va a salir
+
+[00:08:23]
+esta página pero en el inicio vamos a
+
+[00:08:26]
+mostrar en el inicio entonces para
+
+[00:08:27]
+acceder a la calculadora vamos a
+
+[00:08:29]
+herramientas calcular el riesgo volumen
+
+[00:08:31]
+y acá nos aparece la calculadora esta
+
+[00:08:34]
+calculadora es la que vamos a usar en
+
+[00:08:35]
+índices también en bitcoin en
+
+[00:08:39]
+criptomonedas en general y en este caso
+
+[00:08:42]
+está libre 100 Entonces si quieren
+
+[00:08:45]
+usarla está bien si quieren usar otra
+
+[00:08:47]
+que les gusta más está bien también lo
+
+[00:08:49]
+importante en este vídeo es que les voy
+
+[00:08:50]
+a explicar más o menos Qué significa
+
+[00:08:53]
+cada una de estas celdas que es
+
+[00:08:55]
+importante saberlo Ahora aquí como le
+
+[00:08:58]
+mencioné al inicio la primera opción que
+
+[00:09:00]
+nos sale para las calculadoras es esta
+
+[00:09:02]
+en esta opción tenemos varias celdas acá
+
+[00:09:05]
+es el tipo de Par moneda que manejas
+
+[00:09:08]
+tamaño de la cuenta porcentaje de
+
+[00:09:12]
+el tamaño del stop los
+
+[00:09:15]
+Y esto es lo que les mencioné
+
+[00:09:17]
+anteriormente De que un lote es igual a
+
+[00:09:21]
+100 mil dólares si tú le das en este
+
+[00:09:23]
+pedazo eso te lo va a convertir en
+
+[00:09:26]
+100.000 Mira mira mira estos números Qué
+
+[00:09:29]
+lindo
+
+[00:09:30]
+eso te lo convertirás a 100.000 cierto
+
+[00:09:32]
+Entonces ya cuando lo tienes esto no
+
+[00:09:35]
+esto es indiferente en este momento para
+
+[00:09:38]
+forex Pero bueno
+
+[00:09:40]
+siguiendo le damos calculate y nos da
+
+[00:09:44]
+que nuestro riesgo obviamente 1% de
+
+[00:09:47]
+10.000 son 100 dólares Entonces estamos
+
+[00:09:49]
+Ok las unidades son 100.000 el 6 es un
+
+[00:09:52]
+lote para ese stop loss se puede
+
+[00:09:55]
+utilizar un lote y si nos agarra el Stop
+
+[00:09:58]
+lo estaríamos perdiendo 100 dólares Eso
+
+[00:10:01]
+es lo importante ahora
+
+[00:10:03]
+dato importante Cuando se quiere
+
+[00:10:06]
+calcular los datos es importante saber
+
+[00:10:08]
+las especificaciones que tiene cada uno
+
+[00:10:10]
+de los Brokers para el parque vas a
+
+[00:10:13]
+utilizar o para la divisa o para el
+
+[00:10:17]
+metal o para el índice o para la
+
+[00:10:20]
+criptomoneda que vas a utilizar
+
+[00:10:22]
+especificaciones las voy a mostrar a
+
+[00:10:24]
+continuación acá si vamos a meta Trader
+
+[00:10:26]
+y nos posicionamos encima de El
+
+[00:10:30]
+la divisa o el índice lo que sea que
+
+[00:10:33]
+hayamos utilizar le damos clic derecho y
+
+[00:10:35]
+nos vamos a especificación míralo acá
+
+[00:10:37]
+nos vamos a especificación luego nos
+
+[00:10:40]
+Abre esta ventana y en esta ventana lo
+
+[00:10:45]
+que nos importa bastante es esto volumen
+
+[00:10:47]
+de contrato como es forex el volumen de
+
+[00:10:51]
+contratos son 100.000 el lote 100.000
+
+[00:10:54]
+unidades el lote otra cosa que puede ir
+
+[00:10:57]
+digamos ver que de repente puede
+
+[00:10:58]
+servirles es esto Qué significa este 5
+
+[00:11:01]
+este 5 significa que digamos tienes uno
+
+[00:11:05]
+coma y te van a salir una dos tres
+
+[00:11:10]
+cuatro
+
+[00:11:12]
+cinco unidades después de la coma o sea
+
+[00:11:15]
+después de la coma te van a salir 5
+
+[00:11:17]
+unidades Eso es lo que me indica es la
+
+[00:11:21]
+precisión
+
+[00:11:21]
+y ya está la información que necesitamos
+
+[00:11:24]
+de aquí ahora si vamos para
+
+[00:11:28]
+lo siguiente sería el cálculo pare
+
+[00:11:31]
+índices acá tenemos el ejemplo como el
+
+[00:11:33]
+anterior
+
+[00:11:34]
+especificándonos Qué significa cada una
+
+[00:11:36]
+de las celdas acá tenemos que esta no es
+
+[00:11:40]
+por pips
+
+[00:11:42]
+Bueno si cambiamos acá esto si no lo
+
+[00:11:45]
+permite Por pips acá nos va a permitir
+
+[00:11:47]
+configurarlo por pips pero en este
+
+[00:11:49]
+ejemplo no es por pip sino por precios
+
+[00:11:51]
+tengo el precio de entrada en esta
+
+[00:11:53]
+sección y nuestro stop loss acorde lo
+
+[00:11:56]
+que hayamos encontrado en trading View o
+
+[00:12:00]
+lo que nos quedó mejor en tradingview y
+
+[00:12:02]
+le damos en el calcular listo y ya
+
+[00:12:06]
+podríamos tener nuestro resultado ahora
+
+[00:12:08]
+siguiendo vamos a ver un ejemplo acá en
+
+[00:12:12]
+el ejemplo tenemos que fuimos al nasdaq
+
+[00:12:15]
+pusimos especificación Nos salió esta
+
+[00:12:19]
+información mira lo importante que es
+
+[00:12:21]
+que sepamos el volumen del contrato
+
+[00:12:23]
+tenemos esta especificación nuestro
+
+[00:12:25]
+volumen de contratos son
+
+[00:12:29]
+Entonces
+
+[00:12:30]
+si nosotros en este caso para este
+
+[00:12:34]
+ejemplo Tenemos una cuenta de 50 mil
+
+[00:12:35]
+dólares el 1% de 50 mil dólares son 500
+
+[00:12:39]
+dólares entonces para este ejemplo
+
+[00:12:41]
+haciendo el cálculo y todo eso en el 100
+
+[00:12:44]
+tenemos que el tamaño de lotaje para
+
+[00:12:46]
+este riesgo es de
+
+[00:12:49]
+16.667 lotes que va a ser un riesgo de
+
+[00:12:53]
+500 dólares y nos agarra el Stop loss Es
+
+[00:12:55]
+importante saber eso cuánto vamos a
+
+[00:12:58]
+perder siempre hay que saber cuánto
+
+[00:13:00]
+vamos a perder hay primero hay que saber
+
+[00:13:02]
+cuánto vamos a perder para luego pensar
+
+[00:13:05]
+en cuanto vamos a ganar porque tenemos
+
+[00:13:07]
+que disminuir las pérdidas lo más que
+
+[00:13:10]
+podamos aunque son inevitables siempre
+
+[00:13:13]
+van a llegar pero bueno siguiendo
+
+[00:13:15]
+tenemos acá un ejemplo en metatrader
+
+[00:13:18]
+este es para el caso anterior lo que
+
+[00:13:21]
+sucedió es que en este para una cuenta
+
+[00:13:24]
+de 50 mil dólares el broker no permite
+
+[00:13:27]
+tener más de un lote por qué porque
+
+[00:13:29]
+ellos utilizan un volumen de 100 volumen
+
+[00:13:32]
+de 100
+
+[00:13:34]
+eso es demasiado Entonces si el volumen
+
+[00:13:37]
+fuera uno si nos puede o si nos podría
+
+[00:13:40]
+permitir utilizar los 16 lotes pero como
+
+[00:13:43]
+ese es un volumen de 100 no nos permite
+
+[00:13:45]
+utilizar los 16 lotes todo lo que
+
+[00:13:48]
+tendríamos que utilizar es
+
+[00:13:51]
+es esto
+
+[00:13:53]
+0,16
+
+[00:13:55]
+6 lotes eso es lo que nos permite
+
+[00:13:57]
+utilizar
+
+[00:13:59]
+0,16 6 lotes que hizo acá no olvidemos
+
+[00:14:02]
+que esto era lo que teníamos en nuestra
+
+[00:14:05]
+calculadora cierto 1667 eso es lo que
+
+[00:14:08]
+teníamos que se hizo Se movió dos
+
+[00:14:11]
+unidades a la izquierda la coma Entonces
+
+[00:14:13]
+se movió la coma esta es una unidad
+
+[00:14:16]
+estas otra unidad y se le agregó un cero
+
+[00:14:19]
+Entonces ya ahí tendríamos nuestro
+
+[00:14:23]
+cálculo
+
+[00:14:25]
+y ya la coma quedaría acá si lo vieron
+
+[00:14:30]
+habría que mover dos unidades a la
+
+[00:14:34]
+izquierda
+
+[00:14:35]
+y así nos permite tener el porcentaje
+
+[00:14:39]
+acorde a como nosotros lo queremos
+
+[00:14:41]
+acorde como nosotros lo buscábamos Y si
+
+[00:14:45]
+pues se puede ver acá
+
+[00:14:46]
+es totalmente
+
+[00:14:48]
+aproximado lo que nosotros buscábamos
+
+[00:14:51]
+que teníamos
+
+[00:14:53]
+500 dólares de pérdida y en efecto
+
+[00:14:56]
+Fueron 500 480 dólares de piel de
+
+[00:15:00]
+pérdida y fueron 0,16 mirado acá 0,16 y
+
+[00:15:05]
+no olvidar nos apareció en la
+
+[00:15:08]
+calculadora
+
+[00:15:10]
+16,66 7
+
+[00:15:14]
+Entonces está totalmente bien ya lo
+
+[00:15:17]
+vimos Y eso por qué se dio así volvemos
+
+[00:15:20]
+para atrás sucedió así porque si vemos
+
+[00:15:24]
+acá
+
+[00:15:25]
+tenemos que el volumen de contratos son
+
+[00:15:28]
+100 Pero esto es para índices en forex
+
+[00:15:32]
+el volumen de contrato son 100.000 que
+
+[00:15:35]
+se le estándar entonces ya acá todo esto
+
+[00:15:38]
+va variando ahora siguiendo con el tema
+
+[00:15:40]
+tenemos que ya lo vimos con ese a 100
+
+[00:15:45]
+ahora vamos a ver un ejemplo 2 donde
+
+[00:15:47]
+tenemos un tamaño de contrato o volumen
+
+[00:15:51]
+de 10
+
+[00:15:52]
+veces menos Entonces qué hacemos ahora
+
+[00:15:57]
+hacemos el mismo cálculo si ponemos los
+
+[00:16:00]
+16 lotes
+
+[00:16:02]
+este este ejemplo es con los 16 lotes Y
+
+[00:16:06]
+6,67
+
+[00:16:07]
+si ponemos con los 16,67 lotes lo que
+
+[00:16:11]
+tenemos aquí
+
+[00:16:12]
+son
+
+[00:16:15]
+4.980 imagínense en el anterior no nos
+
+[00:16:19]
+permitía ni siquiera poner los 16 lotes
+
+[00:16:22]
+ahora este broker si no lo permite pero
+
+[00:16:26]
+nos da un o sea nos da una gestión de
+
+[00:16:29]
+riesgo súper loquísima O sea tú con este
+
+[00:16:32]
+error te quemas la mitad a la cuenta si
+
+[00:16:35]
+no sabes ver bien esto en minutos puede
+
+[00:16:38]
+ser en segundos o sea es una locura por
+
+[00:16:40]
+eso es importante saberlo y ahora en
+
+[00:16:42]
+esta sección de aquí
+
+[00:16:43]
+tenemos
+
+[00:16:45]
+recalculado todo acá lo que utilizamos
+
+[00:16:48]
+fueron
+
+[00:16:50]
+uno coma seis seis siete
+
+[00:16:56]
+por qué
+
+[00:16:58]
+en el anterior era 10 veces no olvidar
+
+[00:17:02]
+tenemos 16,66
+
+[00:17:05]
+7
+
+[00:17:07]
+Esto es lo que nos dio la calculadora no
+
+[00:17:10]
+olvidar que esto es para tamaño de
+
+[00:17:14]
+contrato 1 Eso es para tamaño de
+
+[00:17:16]
+contrato 1 este ahora tenemos un tamaño
+
+[00:17:19]
+de contrato 10 para un tamaño de
+
+[00:17:21]
+contrato 10 hay que mover una unidad a
+
+[00:17:24]
+la izquierda la coma Eso quiere decir
+
+[00:17:27]
+que eso nos va a quedar de esta manera
+
+[00:17:32]
+así nos va a quedar
+
+[00:17:35]
+este es para una unidad 10 y en el
+
+[00:17:37]
+anterior que fue para 100 nos quedó así
+
+[00:17:43]
+para 100 este es para 10
+
+[00:17:47]
+este es para 100
+
+[00:17:50]
+y este es para uno
+
+[00:17:51]
+si en la diferencia que hay con respecto
+
+[00:17:56]
+a cada uno de los Brokers el Stop lo que
+
+[00:17:59]
+puede
+
+[00:18:00]
+ocasionar que puedas perder una cuenta
+
+[00:18:03]
+de 50 mil dólares solo cerrando los ojos
+
+[00:18:05]
+Por eso hay que tener sumamente cuidado
+
+[00:18:08]
+es importante tomarlo en cuenta y tener
+
+[00:18:11]
+bastante atención prestar bastante
+
+[00:18:12]
+atención a esto Ahora si seguimos para
+
+[00:18:14]
+criptomonedas sería lo mismo en este
+
+[00:18:17]
+caso Yo vi dos Brokers distintos y los
+
+[00:18:21]
+dos tenían el tamaño contrato uno así
+
+[00:18:24]
+que esto lo podemos utilizar así al pie
+
+[00:18:26]
+de la letra
+
+[00:18:28]
+O sea que podemos utilizar las 10
+
+[00:18:30]
+unidades
+
+[00:18:32]
+pero si esto variará a 10 entonces así
+
+[00:18:36]
+habría que agregarle o no agregar sino
+
+[00:18:39]
+mover la coma a la izquierda Entonces
+
+[00:18:41]
+ahí sí ya habría que gestionar eso y en
+
+[00:18:46]
+el ejemplo podemos ver que
+
+[00:18:48]
+son 500 dólares la pérdida para esta
+
+[00:18:53]
+este tipo de entrada Qué es lo que está
+
+[00:18:56]
+bien acorde a nuestro gestión a nuestro
+
+[00:18:59]
+movimiento lo que queríamos por ejemplo
+
+[00:19:01]
+acá lo podemos ver
+
+[00:19:03]
+que esto
+
+[00:19:07]
+serían 40 50 dólares de diferencia un
+
+[00:19:10]
+punto a otro o sea nuestro stopway de 50
+
+[00:19:12]
+dólares cosa que no recomiendo porque es
+
+[00:19:14]
+muy pequeño para bitcoin y es 50 dólares
+
+[00:19:18]
+de stop loss y acá lo podemos ver eso
+
+[00:19:20]
+nos equivale a 500 dólares de pérdida
+
+[00:19:23]
+usando 10 lotes Bueno ahora podríamos
+
+[00:19:26]
+ver cómo se buscó en Google acá tenemos
+
+[00:19:29]
+toda esta sección vamos a la primera
+
+[00:19:31]
+opción que fue la que les enseñé en el
+
+[00:19:35]
+Powerpoint cerramos esto y todo eso
+
+[00:19:37]
+ahora Estamos aquí en el euro dólar
+
+[00:19:40]
+tenemos una tamaño de cuenta de 10 mil
+
+[00:19:43]
+dólares
+
+[00:19:45]
+tenemos un porcentaje de riesgo de 1%
+
+[00:19:48]
+tenemos un stop loss you promedio
+
+[00:19:51]
+utilizo 10 Así que en establo de 10 pips
+
+[00:19:54]
+y vamos a calcular
+
+[00:19:55]
+con eso nos permite tener un tamaño de
+
+[00:19:58]
+cuenta
+
+[00:19:59]
+es que en tamaño un tamaño de lotaje de
+
+[00:20:01]
+un lote
+
+[00:20:03]
+para 10 pips de
+
+[00:20:04]
+Entonces ya tenemos esta información y
+
+[00:20:08]
+nos vamos para metal Trader ahora en
+
+[00:20:11]
+metatrader lo que vamos a hacer es mirar
+
+[00:20:14]
+las especificaciones del par aquí le
+
+[00:20:18]
+damos clic derecho al Euro dólar vamos a
+
+[00:20:20]
+especificación y acá nos aparece toda la
+
+[00:20:23]
+información que vimos ahí en los Power
+
+[00:20:25]
+Point tenemos la precisión de 5 tenemos
+
+[00:20:28]
+el volumen de contrato de 100 mil
+
+[00:20:30]
+dólares y todo eso Entonces ya sabemos
+
+[00:20:32]
+esto Qué vamos a hacer hay dos opciones
+
+[00:20:35]
+para
+
+[00:20:37]
+probar cuando tienes un broker nuevo una
+
+[00:20:41]
+en la opción a los digamos yo le llamo
+
+[00:20:44]
+la opción a lo valga madre no en donde
+
+[00:20:47]
+tú llegas abres una posición
+
+[00:20:51]
+una posición tratada orden pendiente es
+
+[00:20:54]
+el límite te fijas donde está el precio
+
+[00:20:56]
+el precio está a 0,98 300 entonces pones
+
+[00:21:00]
+un Trade lejos de ese precio para que no
+
+[00:21:03]
+te lo agarre Entonces digamos vamos a
+
+[00:21:05]
+poner el trading 0.98
+
+[00:21:07]
+430 cierto
+
+[00:21:10]
+0.98 430 es en nuestro precio de entrada
+
+[00:21:14]
+ahora nuestro stop loss a mí me gusta
+
+[00:21:16]
+utilizar 10 pips entonces 0.98
+
+[00:21:20]
+43
+
+[00:21:22]
+53 entonces 53 ya ahí va y el volumen el
+
+[00:21:29]
+volumen el volumen
+
+[00:21:31]
+sería un lote cierto un lote queremos
+
+[00:21:34]
+arriesgar 100 dólares cierto 100 dólares
+
+[00:21:37]
+Entonces lo colocamos y bueno acá no
+
+[00:21:40]
+sale todo esto y si vemos ponemos
+
+[00:21:43]
+nuestro clic encima se puede observar
+
+[00:21:46]
+que el riesgo es de menos 100 dólares en
+
+[00:21:49]
+el Stop loss entonces en efecto nos fue
+
+[00:21:52]
+bien acá los puntos podemos ver que son
+
+[00:21:55]
+10 puntos
+
+[00:21:56]
+en realidad o sea son 10 pips pero lo
+
+[00:21:58]
+den puntos serían 100 pero son 10 pips y
+
+[00:22:01]
+en efecto no salió todo perfecto cierto
+
+[00:22:04]
+ya lo venden Y digamos Ay yo no quiero
+
+[00:22:07]
+utilizar calculadora entonces tú puedes
+
+[00:22:09]
+hacer esto qué es lo que yo hago Pues
+
+[00:22:12]
+llegas a hacerse el límite y dices Bueno
+
+[00:22:15]
+98 46 0
+
+[00:22:19]
+0,98 460 cierto y nos vamos a buscar el
+
+[00:22:23]
+Stop loss entonces tú dices Bueno 460 98
+
+[00:22:28]
+48
+
+[00:22:30]
+0.98 48
+
+[00:22:34]
+cierto y qué hacemos la colocamos allí
+
+[00:22:36]
+le estamos utilizando un lotes un lote
+
+[00:22:41]
+para esto si tienes que tener en cuenta
+
+[00:22:43]
+de que tienes un poquito de conocimiento
+
+[00:22:44]
+sobre los lotes porque digamos tú pones
+
+[00:22:47]
+10 lotes acá y tu estado pues tiene que
+
+[00:22:50]
+ser un pib Entonces si tienes que tener
+
+[00:22:52]
+un poquito de conocimiento sobre esto
+
+[00:22:54]
+pero bueno te lo pones ahí y tú ves A
+
+[00:22:57]
+bueno son 20 dólares
+
+[00:23:00]
+Serían dos pips Te lo vas moviendo lo
+
+[00:23:03]
+vas moviendo lo van moviendo Y si ven al
+
+[00:23:06]
+mano izquierda si ven acá como se va
+
+[00:23:09]
+moviendo la cantidad de Point de points
+
+[00:23:10]
+pero lo vas moviendo y va llegando a 100
+
+[00:23:13]
+dólares Bueno ahí va 99 90 91 93 y ahí
+
+[00:23:18]
+va subiendo cierto aquí en este caso
+
+[00:23:20]
+está en 90
+
+[00:23:22]
+en 97 en 100 si lo en 100 puntos siente
+
+[00:23:26]
+stoplos
+
+[00:23:27]
+ahora para el dancedack hacemos lo mismo
+
+[00:23:30]
+le vamos al nasdaq damos clic derecho
+
+[00:23:33]
+vamos a especificación y en
+
+[00:23:36]
+especificación nos sale que el volumen
+
+[00:23:38]
+de contrato 100 perdón de contrato de
+
+[00:23:41]
+100 entonces lo que hacemos Es que
+
+[00:23:46]
+hacemos la misma situación vamos al
+
+[00:23:49]
+nasdaq vamos nueva orden acá orden
+
+[00:23:53]
+pendiente sea límite y bueno acá vamos a
+
+[00:23:58]
+elegir
+
+[00:24:01]
+el volumen
+
+[00:24:03]
+el precio y el Stop loss Entonces vamos
+
+[00:24:08]
+a poner uno que esté bien alejado hay
+
+[00:24:10]
+que tener cuidado dependiendo de la hora
+
+[00:24:12]
+porque ustedes saben se pone agresivo a
+
+[00:24:15]
+ciertas horas en el día que te pueden
+
+[00:24:16]
+reventar tu práctica Así que a esta hora
+
+[00:24:19]
+es más tranquilo por estamos en sesión
+
+[00:24:22]
+de Asia entonces puede ser un poco más
+
+[00:24:24]
+tranquilo pero en otras horas
+
+[00:24:27]
+hay que tener un poquillo de cuidado
+
+[00:24:29]
+porque te puede [&nbsp;__&nbsp;] solamente la
+
+[00:24:31]
+práctica imagínate pierde la cuenta sin
+
+[00:24:34]
+empezar a hacer trading Así que no no
+
+[00:24:37]
+gusta no gusta Entonces acabamos vamos a
+
+[00:24:40]
+usar como la estrategia del nasdaq 30
+
+[00:24:43]
+puntos Entonces vamos de 127
+
+[00:24:46]
+12 2 12 2
+
+[00:24:52]
+27 cierto
+
+[00:24:55]
+y bueno acá le damos a esto Esta es la
+
+[00:24:58]
+cuenta
+
+[00:25:01]
+que sería 16 y lo colocamos
+
+[00:25:06]
+ahora si lo ven está la cuenta de 50.000
+
+[00:25:08]
+así lo vemos está la cuenta de 50.000
+
+[00:25:12]
+que estaba también que demostrar en el
+
+[00:25:13]
+ejemplo y si lo vemos acá 30 puntos
+
+[00:25:16]
+nos equivalen a 480 dólares Si lo
+
+[00:25:20]
+podemos observar acá lo que pusimos fue
+
+[00:25:22]
+punto 16 y pusimos la entrada por allá
+
+[00:25:25]
+arriba porque no nos reviente tampoco
+
+[00:25:26]
+bueno acá tenemos
+
+[00:25:28]
+otro broker vamos otra vez para el
+
+[00:25:32]
+índice clic derecho especificación y lo
+
+[00:25:36]
+que vamos a ver Es que este tiene un
+
+[00:25:39]
+tamaño de contrato de 10 que es como le
+
+[00:25:41]
+muestra en el ejemplo Entonces qué Vamos
+
+[00:25:43]
+a hacer vamos a ir a nueva orden
+
+[00:25:46]
+nueva orden orden pendiente
+
+[00:25:50]
+la entrada vamos a hacer lo mismo
+
+[00:25:54]
+12 480 pongamos 12 480
+
+[00:25:59]
+baile límite pero por favor y vamos a
+
+[00:26:03]
+hacerlo como la estrategia de las 30
+
+[00:26:06]
+puntos 12 480 12 5 10 entonces 5 10
+
+[00:26:11]
+entonces Y tenemos 1.6 si ponemos como
+
+[00:26:16]
+aparecía en el ejemplo y 6.67
+
+[00:26:19]
+entonces no va a salir lo siguiente
+
+[00:26:23]
+ponemos la orden
+
+[00:26:25]
+me la borró por poner por cambiar
+
+[00:26:27]
+Disculpe me Discúlpeme 12
+
+[00:26:31]
+480 la ponemos Y si pueden ver son 5000
+
+[00:26:37]
+un dólares 5000 un dólares y estamos
+
+[00:26:40]
+siguiendo lo que los parámetros que nos
+
+[00:26:42]
+dijo la calculadora que ya se los
+
+[00:26:44]
+muestro Bueno aquí estamos en los
+
+[00:26:46]
+parámetros que nos da la calculadora si
+
+[00:26:48]
+ven para 5000 de balance tenemos un
+
+[00:26:52]
+riesgo el 1% tenemos la entrada en
+
+[00:26:55]
+12.480 y el Stop los en 2005 10 y nos da
+
+[00:27:00]
+un tamaño de lotes de
+
+[00:27:03]
+16,667 lotes como ven acá pusimos lo
+
+[00:27:07]
+mismo
+
+[00:27:08]
+16,67 bueno casi lo mismo lotes y nos da
+
+[00:27:12]
+un stop los de 5001 5001 eso no nos
+
+[00:27:17]
+sirve eso no nos sirve Entonces qué
+
+[00:27:19]
+Vamos a hacer vamos a probar como les
+
+[00:27:22]
+dije correr la
+
+[00:27:24]
+una unidad a la izquierda porque este es
+
+[00:27:26]
+10 eso es un por 10 Se podría decir
+
+[00:27:29]
+Entonces qué hacemos ponemos lo mismo
+
+[00:27:31]
+16,6 te lo vamos a cambiar a
+
+[00:27:35]
+1,667 vamos a ponerlo acá la entrada
+
+[00:27:39]
+12.480 y acá la salida que es 12.000
+
+[00:27:45]
+510 esto
+
+[00:27:48]
+12.510 y sin límite ahora lo ponemos el
+
+[00:27:52]
+problema es que se nos va a superponer
+
+[00:27:55]
+no vamos a bajar un poquito porque eso
+
+[00:27:58]
+va a poner una posición encima de la
+
+[00:28:00]
+otra y no vamos a poder ver nada antes
+
+[00:28:02]
+vamos a poner 12.000
+
+[00:28:03]
+280 y 12
+
+[00:28:06]
+mil tres 10 que lo mismo 30 puntos de
+
+[00:28:08]
+ahora la ponemos Y si ven
+
+[00:28:13]
+bastante bastante diferente el Stop los
+
+[00:28:18]
+o el tamaño del stop los 100 dólares acá
+
+[00:28:20]
+estamos arriesgando 1% de una cuenta de
+
+[00:28:23]
+50.000 y acá estamos arriesgando 10% una
+
+[00:28:26]
+cuenta de 50.000
+
+[00:28:29]
+entonces hay que tener cuidado porque
+
+[00:28:30]
+este es el 1% una cuenta de 50.000 y
+
+[00:28:34]
+este es el 10% una cuenta de 50.000
+
+[00:28:36]
+entonces por eso hay que tener cuidado
+
+[00:28:38]
+de cuánto es lo que maneja el broker con
+
+[00:28:42]
+respecto a esto por eso hay que estar
+
+[00:28:44]
+muy pendientes sobre ello y Bueno hasta
+
+[00:28:48]
+aquí el vídeo de hoy Espero que les haya
+
+[00:28:50]
+gustado Espero que les sea útil que les
+
+[00:28:52]
+permita crecer como traders tenemos
+
+[00:28:54]
+Instagram para que nos sigan tenemos
+
+[00:28:56]
+Twitter tenemos Facebook tenemos
+
+[00:28:58]
+Telegram tenemos WhatsApp tenemos todo
+
+[00:29:01]
+así que nada nada no les pesan y se les
+
+[00:29:04]
+va a caer la mano dando un like cuando
+
+[00:29:07]
+nos una seguida Así que les deseo un
+
+[00:29:10]
+buen día tarde noche donde quiera que
+
+[00:29:12]
+están y estamos para crecer como
+
+[00:29:15]
+comunidad adiós
+
+[00:29:18]
+[Música]
+```

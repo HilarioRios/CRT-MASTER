@@ -1,0 +1,1627 @@
+---
+source_id: YT_CANAL_02_XZJ90kFeupo
+video_id: XZJ90kFeupo
+channel: "Gustavom.Trader"
+published_at: 2022-09-19
+url: https://www.youtube.com/watch?v=XZJ90kFeupo
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 12
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# HAZ ESTO PARA FONDEARTE YA!! l SHARP SHOOTERS #trading
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=XZJ90kFeupo)
+
+## Transcript
+
+```
+[00:00:00]
+[Música]
+
+[00:00:07]
+i
+
+[00:00:10]
+vamos a empezar con esta pequeña
+
+[00:00:12]
+presentación pero no porque sea pequeña
+
+[00:00:14]
+no tiene tanto valor son consejos para
+
+[00:00:17]
+su prueba de sondeo tu primera prueba de
+
+[00:00:19]
+fondeo qué consejos o puedes tomar tú si
+
+[00:00:23]
+estás tanto si estás en una prueba de
+
+[00:00:24]
+fondeo actualmente cursando la tratando
+
+[00:00:27]
+de pasarla más negativo más positivo y
+
+[00:00:31]
+de pronto no llegas al target de dar
+
+[00:00:33]
+unos pequeños consejos también o tanto
+
+[00:00:36]
+si te vas a animar próximamente a hacer
+
+[00:00:38]
+una prueba de fondeo y quieres saber
+
+[00:00:41]
+algunas cosas importantes sobre mi
+
+[00:00:44]
+experiencia yo que he pasado pruebas de
+
+[00:00:46]
+fondeo que he esperado cuentas reales
+
+[00:00:49]
+compradas de fondeo ahorita actualmente
+
+[00:00:51]
+y que también he quemado pruebas de
+
+[00:00:53]
+poder no crean que todo es color de rosa
+
+[00:00:55]
+antes de hacer pruebas de fondeo que me
+
+[00:00:57]
+muchas cuando llegó muchas cinco o seis
+
+[00:01:00]
+pruebas las que me incluso a veces
+
+[00:01:02]
+siendo rentable no las paso si quiero a
+
+[00:01:05]
+veces a veces medido con una nueva
+
+[00:01:07]
+compañía y no la pasó porque porque que
+
+[00:01:10]
+hagas una prueba de fondo y no la pase
+
+[00:01:12]
+que no sea rentable porque las pruebas
+
+[00:01:14]
+de fondeo son un poquito más exigente
+
+[00:01:17]
+que sí que requieres para pasar una
+
+[00:01:20]
+prueba de fondeo no requiere ser
+
+[00:01:22]
+rentable bueno obviamente se iba pero no
+
+[00:01:25]
+es lo más importante
+
+[00:01:27]
+ahora así que lo más importante para
+
+[00:01:29]
+pasar una prueba de fondeo es ser
+
+[00:01:32]
+consistente hay una diferencia entre ser
+
+[00:01:35]
+rentable y ser consistente una persona
+
+[00:01:37]
+que es rentable puede sacar una
+
+[00:01:39]
+rentabilidad un mes otro mes puede
+
+[00:01:43]
+enseñarme su certificado de que pasó una
+
+[00:01:45]
+prueba pero al día siguiente el mes
+
+[00:01:48]
+siguiente no se derrumbarse la persona
+
+[00:01:51]
+que es consistente que como la misma
+
+[00:01:55]
+palabra lo dice es
+
+[00:01:57]
+consistente en el tiempo o sea que
+
+[00:01:59]
+siempre está sacando resultados buenos
+
+[00:02:01]
+puede que tenga una semana mala un día
+
+[00:02:04]
+malo esté incluso un mes malo puede ser
+
+[00:02:08]
+pero a lo largo del tiempo se mantiene
+
+[00:02:11]
+en la rentabilidad en la consistencia
+
+[00:02:13]
+entonces para tú pasar una prueba de
+
+[00:02:16]
+fondeo lo que ocupase es consistencia
+
+[00:02:20]
+consistentemente rentable también puede
+
+[00:02:22]
+ser podríamos llamarle así pero yo lo
+
+[00:02:25]
+llamo consistencia que significa que te
+
+[00:02:27]
+tienes que mantener porque esto es una
+
+[00:02:28]
+carrera larga porque pasar la primera
+
+[00:02:32]
+fase de tu salen solamente es el
+
+[00:02:34]
+principio no bueno ni siquiera podríamos
+
+[00:02:37]
+llamarlo que ese es el principio del
+
+[00:02:38]
+principio
+
+[00:02:40]
+después pasar tu segunda fase y cuando
+
+[00:02:43]
+ya pasaste es el chal en es todavía el
+
+[00:02:47]
+principio porque todavía necesita
+
+[00:02:48]
+retirar de tu cuenta
+
+[00:02:50]
+y obviamente lo que queremos todos es
+
+[00:02:53]
+cobrar y mantenernos en el tiempo
+
+[00:02:57]
+rentables no queremos perder la cuenta
+
+[00:02:59]
+ni mucho menos para estar sacando
+
+[00:03:01]
+rentabilidad y posiblemente después de
+
+[00:03:03]
+empezar a crecer más como personas como
+
+[00:03:05]
+traders y empezar a ahora sí a cumplir
+
+[00:03:08]
+metas y lo que cada uno se tiene que
+
+[00:03:10]
+fijar otra cosa que veo mucho que le
+
+[00:03:13]
+sucede es que mucha gente se quiere
+
+[00:03:14]
+meter acá se mete a las pruebas de
+
+[00:03:16]
+fondeo sin un sin una meta clara
+
+[00:03:21]
+sin algo claro que quieren hacer nomás
+
+[00:03:24]
+se meten porque quieren ganar dinero yo
+
+[00:03:27]
+que sé tú métete con un plan con una
+
+[00:03:29]
+meta que quieres cumplir para que tengas
+
+[00:03:32]
+motivación suficiente y más allá de
+
+[00:03:35]
+motivación tengas la disciplina para
+
+[00:03:37]
+todos los días estar cumpliendo
+
+[00:03:40]
+y eso es lo que yo te recomendaría
+
+[00:03:42]
+acaban los primeros consejos empieza con
+
+[00:03:45]
+lo que te sientas seguro muchos quieren
+
+[00:03:48]
+ir por la cuenta grande pero esto puede
+
+[00:03:50]
+significar una presión mayor si no estás
+
+[00:03:52]
+preparado
+
+[00:03:53]
+comienza con una cuenta en la cual te
+
+[00:03:55]
+puedas sentir cómodo al operar y no una
+
+[00:03:57]
+vez que ya te sientas que puedas pasar a
+
+[00:03:59]
+un siguiente nivel sube o ve por una
+
+[00:04:01]
+cuenta nueva o sea no mucha gente se
+
+[00:04:04]
+mete como al principio con cuentas muy
+
+[00:04:07]
+grandes y también también otras personas
+
+[00:04:11]
+tienen la capacidad de operar cuentas
+
+[00:04:12]
+grandes y se quedan en cuentas pequeñas
+
+[00:04:14]
+tú tienes que ir midiendo el nivel en el
+
+[00:04:17]
+que tú estás si tú estás capacitado tú
+
+[00:04:20]
+llevas un proceso estás capacitado se
+
+[00:04:22]
+siente es capaz para operar una cuenta
+
+[00:04:24]
+de 50 mil
+
+[00:04:26]
+métele a la de 50 mil porque te vas por
+
+[00:04:29]
+una de 10 mil no tengan no no hay que
+
+[00:04:31]
+tener miedo porque porque al final el
+
+[00:04:34]
+cabo es una prueba de fondeo no es nada
+
+[00:04:36]
+del otro mundo y ahorita con todas las
+
+[00:04:39]
+compañías que les hemos trae estado
+
+[00:04:41]
+trayendo incluso les vamos a traer
+
+[00:04:42]
+también compañías ya que no ocupas un
+
+[00:04:45]
+fondeo
+
+[00:04:46]
+ya vas directo entonces lo único que
+
+[00:04:48]
+necesitas es consistencia aunque tú
+
+[00:04:52]
+saques poquito pues incluso irte e irte
+
+[00:04:56]
+este rentable y consistente ahora por
+
+[00:04:59]
+ejemplo yo estoy ya con blue en forex
+
+[00:05:01]
+phone acabo de comprar una cuenta ellos
+
+[00:05:04]
+te piden un 6% ya ya no siquiera te
+
+[00:05:07]
+piden el 8 o el 10% que te pedía stmo
+
+[00:05:10]
+ya te piden un 6% entonces ya las
+
+[00:05:13]
+compañías usando cuenta que realmente el
+
+[00:05:15]
+lado de la rentabilidad no está en sacar
+
+[00:05:18]
+porcentajes tan fuertes mucha gente se
+
+[00:05:21]
+engaña y si hay tengo una cuenta de
+
+[00:05:23]
+200.000 una de 50 mil y tengo que
+
+[00:05:25]
+sacarle un 20 un 10% y eso es eso sea
+
+[00:05:28]
+rentable eso no es rentable ser rentable
+
+[00:05:31]
+es que tú estés sacando una ganancia 56
+
+[00:05:34]
+por ciento por ejemplo en mi caso yo
+
+[00:05:36]
+saco 56 por ciento a veces hasta 4 y con
+
+[00:05:39]
+eso estoy tranquilo
+
+[00:05:41]
+entonces tú necesitas
+
+[00:05:43]
+pensar de esa forma
+
+[00:05:46]
+puede creer que ocupas tanta
+
+[00:05:49]
+rentabilidad para hacer tanto dinero
+
+[00:05:52]
+tu saca las cuentas y de cuentas ya
+
+[00:05:54]
+grandes por ejemplo de 100 mil ya son
+
+[00:05:56]
+seis mil dólares 6 por ciento y tú dices
+
+[00:05:59]
+a 66 por ciento soy por ciento me lo
+
+[00:06:02]
+hago bien fácil pero lo que te trata de
+
+[00:06:05]
+decir es que ocupas mantenerte
+
+[00:06:07]
+mantenerte mantenerte en el tiempo una
+
+[00:06:10]
+segunda
+
+[00:06:12]
+cosa que yo les podría recomendar es
+
+[00:06:14]
+operar tranquilo yo sé que esto es muy
+
+[00:06:17]
+difícil y que las emociones a la hora de
+
+[00:06:19]
+estar ahí sobre todo si tu primera
+
+[00:06:21]
+cuenta te van a influir pero tú tienes
+
+[00:06:23]
+que trazar un plan tienes que estar en
+
+[00:06:25]
+una zona trata de estar en una zona de
+
+[00:06:27]
+confort si no puedes de plano porque
+
+[00:06:29]
+pues algunos tenemos que trabajar otros
+
+[00:06:32]
+tienen que estar en otros lados haciendo
+
+[00:06:34]
+diferentes actividades
+
+[00:06:35]
+tienes que forjar un horario donde tú
+
+[00:06:37]
+puedes estar lo más tranquilo que tienes
+
+[00:06:40]
+al momento de realizar un charlene de
+
+[00:06:42]
+fondeo tienes que tener un factor que te
+
+[00:06:44]
+mete presiones a alcanzar un porcentaje
+
+[00:06:46]
+en un periodo determinado de tiempo eso
+
+[00:06:49]
+es lo principal que te mete mucha gente
+
+[00:06:51]
+rentable pero le meten tienen ese es ese
+
+[00:06:55]
+factor de tiempo que es lo que los hace
+
+[00:06:57]
+presionar no se presionen por eso si de
+
+[00:07:00]
+plano ustedes sienten que el tiempo es
+
+[00:07:03]
+el que les les les está metiendo presión
+
+[00:07:06]
+y por eso no están siendo rentables
+
+[00:07:08]
+también se vayan se ahorita ya hay
+
+[00:07:10]
+compañías que les permiten hacer salen
+
+[00:07:12]
+sin parar sin tiempo
+
+[00:07:15]
+entonces valència a hacer salen sin
+
+[00:07:16]
+tiempo pueden incluso fondearse con
+
+[00:07:19]
+cuentas instantáneas pero el chiste es
+
+[00:07:23]
+sacar rentabilidad de nuestra cuenta lo
+
+[00:07:26]
+recomendado es hacer trading enfocada en
+
+[00:07:28]
+buenos resultados y esperar tu setup sin
+
+[00:07:30]
+forzar los 30 a medida que pasan los
+
+[00:07:32]
+días algo bien importante que les quiero
+
+[00:07:35]
+decir a la hora de tu en estar en tu día
+
+[00:07:39]
+las instantáneas pagan menos porcentajes
+
+[00:07:42]
+y las instantáneas pagan menos
+
+[00:07:43]
+porcentajes pero no no ocupas hacer una
+
+[00:07:46]
+prueba de fondeo durante 30 días bueno
+
+[00:07:48]
+de los días mínimos es lo bueno te vas
+
+[00:07:50]
+directo y estas máscaras también las
+
+[00:07:52]
+pruebas por ahí vamos a subir un vídeo
+
+[00:07:55]
+de una compañía que nos parece buena
+
+[00:07:57]
+para iniciar xin xin xin challenge
+
+[00:08:00]
+esperen el vídeo y en el canal de
+
+[00:08:02]
+youtube va papá ya nos esté otra cosa
+
+[00:08:05]
+que les quería decir que es que a la
+
+[00:08:09]
+hora de tu estar en tu día ya supongamos
+
+[00:08:10]
+que es el día de mañana viernes que tú
+
+[00:08:12]
+vas a operar o el día lunes un decir te
+
+[00:08:16]
+levantas hace lo que tienes que hacer te
+
+[00:08:18]
+pones a operar y mucha gente ahí está
+
+[00:08:21]
+esto es cuestión de mentalidad y por eso
+
+[00:08:24]
+es mismo le digo que es cuestión de
+
+[00:08:26]
+mentalidad y de psicología tú muchas
+
+[00:08:29]
+veces lo que hacemos inconscientemente
+
+[00:08:30]
+es vamos con la mentalidad de que
+
+[00:08:33]
+tenemos que operar y tengo que agarrar
+
+[00:08:36]
+lo que el mercado me esté dando pero tú
+
+[00:08:38]
+tienes tú tienes que traer un plan
+
+[00:08:40]
+detrás
+
+[00:08:42]
+que te diga cuando debes de operar
+
+[00:08:44]
+cuando cuando debes de esperar y cuando
+
+[00:08:48]
+debes de entrar por ejemplo hay días que
+
+[00:08:50]
+yo me levanto y en todo el día no
+
+[00:08:53]
+veo nada y cuando no veo nada hay días
+
+[00:08:57]
+incluso que me llevo a pasar a horas
+
+[00:08:59]
+ahora ya no me pasa tanto porque trabajo
+
+[00:09:02]
+en mis errores
+
+[00:09:05]
+por son los tres me quiero meter a
+
+[00:09:08]
+fuerza no hay confirmación suficiente no
+
+[00:09:11]
+no el 30 la mejor yo sé que no es de
+
+[00:09:14]
+tanta probabilidad y me quiero meter
+
+[00:09:16]
+entonces no fuercen los tres no force en
+
+[00:09:18]
+el día si tú no viste es nada con tu
+
+[00:09:21]
+estrategia con tu plan de training que
+
+[00:09:22]
+llevas no te metas al mercado porque
+
+[00:09:26]
+tienes ansiedad de estar metido en el
+
+[00:09:28]
+mercado yo me acuerdo antes era adicto
+
+[00:09:30]
+al trading quería si no tenía un trade
+
+[00:09:34]
+dentro del meta trader corriendo me
+
+[00:09:36]
+sentía ansioso
+
+[00:09:37]
+me sentía que se me iba al aire tenía
+
+[00:09:41]
+ansiedad incluso llegué yo les digo a
+
+[00:09:42]
+mis alumnos para que para que tomen la
+
+[00:09:46]
+experiencia mía yo a cuando empecé a
+
+[00:09:48]
+hacer un plan de trading estricto y dije
+
+[00:09:49]
+ya estuvo basta voy a dejar de quemar
+
+[00:09:51]
+cuentas hice un plan de trading fije un
+
+[00:09:54]
+horario y cuando fije el horario pasaba
+
+[00:09:56]
+el horario y yo sabía que deja de operar
+
+[00:09:58]
+y dime autodisciplina va deja de operar
+
+[00:10:01]
+y me daba ansiedad quería seguir
+
+[00:10:04]
+operando quería seguir y ahí está un
+
+[00:10:06]
+trade
+
+[00:10:07]
+y sabes que estás operando la sesión de
+
+[00:10:09]
+nueva york y ves asia y dices bueno va a
+
+[00:10:13]
+abrir a ver cómo anda el nasdaq y lo vez
+
+[00:10:15]
+ir a la de pechito y le metes y luego
+
+[00:10:20]
+pierdes y luego que viene la culpa y
+
+[00:10:23]
+después de que viene la culpa la
+
+[00:10:24]
+decepción ya que viene la decepción al
+
+[00:10:27]
+día siguiente vas al mercado pero ya vas
+
+[00:10:29]
+con la mentalidad perdedora
+
+[00:10:31]
+porque no lleva este es un plan de
+
+[00:10:32]
+trading y sobre todo porque no lo
+
+[00:10:34]
+cumpliste y porque estás forzando el
+
+[00:10:36]
+trade no lo fuertes si no hay nada si
+
+[00:10:39]
+ahora sí ahora no visto es más no te
+
+[00:10:41]
+metas espera tu momento y cuando tu
+
+[00:10:44]
+momento llegue meterles miedo dispara
+
+[00:10:47]
+pero ahora sí cuando está en setup que
+
+[00:10:50]
+tú dices este es mi estrategia esto es
+
+[00:10:52]
+lo bueno es lo que debo de hacer y está
+
+[00:10:54]
+ahí tienes que meterle con sin miedo sin
+
+[00:10:58]
+miedo a equivocarte pero cuando no hay
+
+[00:11:00]
+nada no te metas déjalo ahí tranquilo
+
+[00:11:03]
+este este factor juega en contra de la
+
+[00:11:05]
+gran mayoría de los traders quizás son
+
+[00:11:08]
+capaces de hacer un 10 por ciento pero
+
+[00:11:09]
+cortar los tres terminan obteniendo
+
+[00:11:11]
+pérdidas que se que que fácilmente
+
+[00:11:14]
+pudieron evitarse te tienes que empezar
+
+[00:11:16]
+a enseñar a dejar de perder
+
+[00:11:19]
+deja enseñarte a dejar de perder primero
+
+[00:11:22]
+deja de perder primero y las ganancias
+
+[00:11:25]
+van a venir solas como dejó de perder
+
+[00:11:27]
+primero enfocándome en mí
+
+[00:11:30]
+en el escenario perdedor
+
+[00:11:33]
+qué pasa si voy a perder por ejemplo si
+
+[00:11:35]
+yo entre el día de hoy a un trade en el
+
+[00:11:37]
+nada qué pasaba si yo perdía yo perdía
+
+[00:11:40]
+un 0.6 por ciento que estaba trayendo
+
+[00:11:43]
+qué pasaba después yo dejaba de operar
+
+[00:11:46]
+no pasaba nada ok me meto entonces lo
+
+[00:11:51]
+primero que debes de hacer es empezar a
+
+[00:11:53]
+ver tu sistema tu plan de trading que tu
+
+[00:11:56]
+plan de trading te empiece a dejar o te
+
+[00:11:58]
+evite las pérdidas lo más que se pueda
+
+[00:12:01]
+obviamente no se puede al 100% porque si
+
+[00:12:03]
+que pudiera el 100% pues
+
+[00:12:05]
+estaríamos ahorita en dubai o por allá
+
+[00:12:08]
+no con un este con un árabe en un
+
+[00:12:11]
+lamborghini
+
+[00:12:13]
+pero el hecho de tu empezar a ver los
+
+[00:12:17]
+errores que estás teniendo en tu
+
+[00:12:18]
+operativa
+
+[00:12:20]
+te va a hacer llevarte al siguiente
+
+[00:12:22]
+nivel esa es otra otras personas no
+
+[00:12:25]
+saben los errores que están cometiendo
+
+[00:12:28]
+en su operativa porque no saben por qué
+
+[00:12:31]
+no los escriben porque no los tienen
+
+[00:12:33]
+documentados si yo le pregunto muchas
+
+[00:12:36]
+veces me mandan mensajes y me dicen
+
+[00:12:38]
+gustavo la verdad llegó el salen ahí y
+
+[00:12:42]
+no no lo puedo pasar llevo seis cuentas
+
+[00:12:44]
+quemadas y yo les digo a ver qué estás
+
+[00:12:46]
+haciendo mal no me saben decir que están
+
+[00:12:48]
+haciendo mal
+
+[00:12:50]
+cómo vas a mejorar tu si no sabes que
+
+[00:12:52]
+estás haciendo mal y cómo vengo a cómo
+
+[00:12:55]
+carajos me voy a dar cuenta que estoy
+
+[00:12:57]
+haciendo mal pues sentarte a analizar la
+
+[00:12:59]
+información de lo que estás haciendo
+
+[00:13:01]
+pero si no tienes apuntados tu plan de
+
+[00:13:04]
+trading si no tienes apuntado ahí nada o
+
+[00:13:07]
+sea se te olvida pues al día siguiente
+
+[00:13:10]
+vuelve y si cometes el mismo robo pero
+
+[00:13:12]
+en cambio si lo tienes documentado
+
+[00:13:16]
+ya no pasa ya no sucede eso es como en
+
+[00:13:18]
+una empresa en una empresa que hacen
+
+[00:13:20]
+tienen un por ejemplo están embotellando
+
+[00:13:23]
+están haciendo un producto y tienen
+
+[00:13:25]
+sistemas de calidad que están tienen
+
+[00:13:27]
+personas de calidad que están anotando
+
+[00:13:28]
+constantemente lo que se está elaborando
+
+[00:13:30]
+cuando pasa algo no se salió el producto
+
+[00:13:34]
+mal lo tienen anotado ahí y luego luego
+
+[00:13:37]
+se van hay un departamento por ejemplo
+
+[00:13:39]
+en mí donde yo trabajo que se llama
+
+[00:13:41]
+mejora continua se van con esas personas
+
+[00:13:43]
+y diciendo a ver qué podemos hacer para
+
+[00:13:45]
+ya no cometer el mismo error que tenemos
+
+[00:13:47]
+y empiezan a documentar todo y dicen
+
+[00:13:50]
+tenemos que hacer esto ahora tenemos que
+
+[00:13:52]
+mejorar la producción tenemos que poner
+
+[00:13:53]
+más gente aquí y quitar más acá y ya no
+
+[00:13:57]
+lo cometen y así se perfecciona hasta
+
+[00:13:59]
+que llega un punto que no se cometen
+
+[00:14:01]
+casi errores son nulos en lo mismo que
+
+[00:14:04]
+nosotros tenemos que hacer empezar a
+
+[00:14:06]
+sacar filtros a ver qué está pasando me
+
+[00:14:08]
+estoy sobre lo que ando a que voy a
+
+[00:14:09]
+hacer para no sobre la tierra
+
+[00:14:11]
+voy a entrar con un porcentaje de no más
+
+[00:14:13]
+y ya no voy a entrar con más porcentaje
+
+[00:14:14]
+ok ahora qué está pasando ahora estoy
+
+[00:14:16]
+sobre operando ok que le voy a hacer
+
+[00:14:19]
+pero mucho pero cuatro horas al día
+
+[00:14:21]
+ahora debo esperar dos horas voy a
+
+[00:14:23]
+marcar un horario de esta hora está
+
+[00:14:26]
+ahora voy a esperar para dejar de sobre
+
+[00:14:28]
+operar qué es lo que me afecta a ver qué
+
+[00:14:30]
+me está afectando ahí estoy operando
+
+[00:14:32]
+demasiados pares a ver voy a bajar los
+
+[00:14:34]
+padres voy a elegir solamente el par que
+
+[00:14:36]
+necesito
+
+[00:14:37]
+el que me va mejor y me voy a quedar con
+
+[00:14:38]
+éste y así poco a poco vas filtrando
+
+[00:14:41]
+todo lo que estás haciendo mal hasta que
+
+[00:14:43]
+llega un momento que comenten los menos
+
+[00:14:45]
+los menos errores posibles y vienen los
+
+[00:14:48]
+resultados positivos
+
+[00:14:50]
+es esa si sí o si vienen resultados
+
+[00:14:53]
+positivos como dicen por ahí un meme
+
+[00:14:56]
+matemáticas dos matemáticas simples si
+
+[00:14:59]
+tú empiezas a hacer eso créeme que van a
+
+[00:15:01]
+venir los resultados positivos y no
+
+[00:15:03]
+ocupas pagar ni una mentoría no ocupas
+
+[00:15:06]
+este tener nada simplemente lo tienes
+
+[00:15:08]
+que hacer por ti mismo
+
+[00:15:11]
+no ocupas hacer nada más que empezar a
+
+[00:15:13]
+detectar tus errores y empezar a
+
+[00:15:15]
+corregirlos
+
+[00:15:17]
+para pasar a otro tema es también no
+
+[00:15:20]
+tener el examen en un altar obtener una
+
+[00:15:23]
+cuenta de fondeo y sacarles rendimientos
+
+[00:15:25]
+constantes te cambia la vida obviamente
+
+[00:15:27]
+si tú tienes y tú pasas son salen de que
+
+[00:15:31]
+te gusta vamos a decir diez mil dólares
+
+[00:15:34]
+y tú ganas un 6% de la cuenta que son
+
+[00:15:37]
+600 dólares ya te cambia la vida porque
+
+[00:15:40]
+esos 600 dólares ya te puedes comprar un
+
+[00:15:42]
+lujito ya puedes que pagar la renta ya
+
+[00:15:46]
+puedes que echarle gasolina el carro te
+
+[00:15:48]
+empieza a cambiar la vida entonces tú
+
+[00:15:51]
+tienes que ser capaz de catalizar eso y
+
+[00:15:55]
+saber que lo malo es cuando el proceso
+
+[00:15:57]
+de la prueba de fondeo lo llevamos en un
+
+[00:15:58]
+apego muy fuerte al resultado
+
+[00:16:01]
+entonces tú te estás enfocando el
+
+[00:16:02]
+resultado que puedes obtener pero no en
+
+[00:16:04]
+el proceso lo que te tienes que enfocar
+
+[00:16:07]
+es vivir el proceso y en mejorar tu
+
+[00:16:09]
+proceso lo mejor es enfocarse es en
+
+[00:16:11]
+hacer las cosas bien como si fuera
+
+[00:16:13]
+cualquier cuenta si la paz es está bien
+
+[00:16:15]
+y si la pierdes también está bien lo
+
+[00:16:18]
+importante es hacer las cosas bien día a
+
+[00:16:19]
+día y que ellos te llevan resultados
+
+[00:16:21]
+deseados entonces todos los días hacer
+
+[00:16:24]
+las cosas bien bien bien bien tarde o
+
+[00:16:26]
+temprano si tú estás picándole picándole
+
+[00:16:28]
+dándole dándole vas a obtener resultados
+
+[00:16:30]
+eso es así pero tienes que estar
+
+[00:16:34]
+dispuesto a mejorar todos los días que
+
+[00:16:36]
+no haya un día que tú no mejores yo
+
+[00:16:38]
+siempre siempre estoy pensando que tengo
+
+[00:16:40]
+que mejorar ahora de mi trading estoy
+
+[00:16:43]
+haciendo esto mal y lo documento a ver
+
+[00:16:45]
+ya no voy a hacer es tomar y todos los
+
+[00:16:47]
+días todos los días gracias a ese
+
+[00:16:49]
+crecido no como quisiera porque a veces
+
+[00:16:52]
+uno es acelerado y quisiera meterse ya
+
+[00:16:54]
+grandes ligas y cosas así pero cada
+
+[00:16:58]
+persona lleva su proceso entonces tú
+
+[00:16:59]
+vive tu proceso tómatelo tranquilo
+
+[00:17:01]
+algunas personas llegan
+
+[00:17:04]
+tengo alumnos hermanos tengo alumnos que
+
+[00:17:06]
+están ganando más que yo triple en
+
+[00:17:10]
+cuestión de 34 meses y yo estoy
+
+[00:17:13]
+frustrado no al contrario estoy contento
+
+[00:17:15]
+por ellos tengo un alumno que lo
+
+[00:17:17]
+entrenamos y él se fundió con una cuenta
+
+[00:17:19]
+de 300.000 dólares como a los 2 meses
+
+[00:17:21]
+que lo entrenamos ya está ganando más
+
+[00:17:23]
+que yo y gerald
+
+[00:17:28]
+y yo me comparaba a él y dijo hay que
+
+[00:17:31]
+que tiene lo que no y yo yo yo lo
+
+[00:17:35]
+felicité le dije le dije que bueno por
+
+[00:17:38]
+ti hermano vas para el siguiente nivel
+
+[00:17:40]
+allá nos vemos
+
+[00:17:42]
+y tú dices como gustado pero si tú le
+
+[00:17:44]
+dices clase se supone que tú sabes más
+
+[00:17:46]
+que no hermano porque cada persona lleva
+
+[00:17:49]
+su proceso
+
+[00:17:50]
+uno puede tener un proceso más acelerado
+
+[00:17:52]
+otro primero tiene un proceso menos
+
+[00:17:54]
+acelerado uno va a tener resultados más
+
+[00:17:56]
+fuertes
+
+[00:17:57]
+al final lo que cuenta es que tú te
+
+[00:17:59]
+traes tu propio camino y tus objetivos
+
+[00:18:01]
+propios y que no te andes comparando con
+
+[00:18:03]
+nadie por eso es que yo muchas de las
+
+[00:18:07]
+veces no les enseño esté capturas de
+
+[00:18:10]
+pantalla de mis cuentas ni el dinero que
+
+[00:18:14]
+gano por ahí ahora les enseñé un poquito
+
+[00:18:17]
+pero luego a veces empieza a ver
+
+[00:18:18]
+problemas que se empiezan a comparar los
+
+[00:18:20]
+unos con los otros los que están abajo
+
+[00:18:23]
+dicen ah esto es una cuenta de emo estás
+
+[00:18:26]
+esperando en demo los que están arriba
+
+[00:18:27]
+nada pues nos demuestra la cuenta real
+
+[00:18:30]
+mira y aquí me chicharrones truenan y
+
+[00:18:32]
+empieza a ver esos malos entendidos
+
+[00:18:33]
+empiezan y eso no aporta nada no te
+
+[00:18:36]
+aporta nada a ti que yo gane dos mil
+
+[00:18:38]
+1000 dólares o que gane 100 no te aporta
+
+[00:18:40]
+nada a ti por eso nosotros nos enfocamos
+
+[00:18:42]
+en la academia en tratar de aportar
+
+[00:18:44]
+valor cosas que te aporten valor no
+
+[00:18:46]
+enseñarte
+
+[00:18:47]
+de vez en cuando les voy enseñando cosas
+
+[00:18:50]
+para que se motiven pero al principio
+
+[00:18:53]
+sobre todo empecé a notar que les pasaba
+
+[00:18:55]
+mucho eso mucha gente le pasa eso se van
+
+[00:18:57]
+al instagram y empiezan a ver ahí la
+
+[00:19:00]
+gente que gana un montón
+
+[00:19:01]
+y se empiezan a comparar y se frustran
+
+[00:19:04]
+ustedes solitos porque dicen ay porque
+
+[00:19:07]
+se está ganando tanto y yo no estoy
+
+[00:19:08]
+ganando tanto
+
+[00:19:11]
+entonces eso es algún consejo que yo les
+
+[00:19:14]
+pudiera dar y por último tener hábitos
+
+[00:19:17]
+que generen una mentalidad de éxito
+
+[00:19:19]
+muchos persiguen el dinero pero pocos se
+
+[00:19:21]
+preocupan por trabajar en la mentalidad
+
+[00:19:23]
+del trader generar hábitos prácticos
+
+[00:19:25]
+para mantener tu mente enfocada
+
+[00:19:27]
+proactiva para obtener buenos resultados
+
+[00:19:29]
+si tienes tu mente alineada a tus
+
+[00:19:31]
+objetivos todo será más fácil meditar
+
+[00:19:34]
+leer hacer ejercicio diario de emociones
+
+[00:19:37]
+tiempo de esparcimiento es muy
+
+[00:19:39]
+importante también hay otros me incluyo
+
+[00:19:42]
+a veces esté bueno antes ahorita ya no
+
+[00:19:44]
+están ahí todo el día mirando el mercado
+
+[00:19:46]
+el mercado no se va a ir hermanos lleva
+
+[00:19:49]
+a 100 años creo esté ahí la bolsa de
+
+[00:19:52]
+valores y no ha cerrado y están ya
+
+[00:19:55]
+esperando el domingo algunas personas
+
+[00:19:58]
+que aquí abre las dos creo el forex son
+
+[00:20:01]
+las 21 y ya tienen el bus en el atudem
+
+[00:20:04]
+unen en el oro en el euro
+
+[00:20:08]
+tranquilo relájate no se va a ir del
+
+[00:20:11]
+mercado a ningún lado
+
+[00:20:14]
+los tres profesionales
+
+[00:20:16]
+yo me entrene después que yo me entrene
+
+[00:20:18]
+con un tráiler de siete cifras tomé una
+
+[00:20:20]
+mentoría con él
+
+[00:20:24]
+no es mi amigo ni nada lo contacte le
+
+[00:20:26]
+dije hoy es brinca me paro hay unos
+
+[00:20:29]
+conceptos que yo ocupaba al final
+
+[00:20:31]
+una mentoría no te hace rentable es
+
+[00:20:34]
+cuestión tuya pero te ayuda te quita
+
+[00:20:36]
+tiempo que te evita muchas cosas este te
+
+[00:20:40]
+ayuda mucho y esta persona que te digo
+
+[00:20:46]
+yo te yo te entraba o tenía la
+
+[00:20:48]
+mentalidad que operaba mucho y me dijo
+
+[00:20:51]
+norma no cuánto crees que yo pero me
+
+[00:20:53]
+dijo mejor yo pero martes miércoles y
+
+[00:20:55]
+jueves
+
+[00:20:57]
+cuatro días y de esos cuatro días a
+
+[00:20:59]
+veces dos días no lo son pero yo pero
+
+[00:21:01]
+solamente dos días cuanto creen que
+
+[00:21:03]
+operaba el este muchacho obviamente va a
+
+[00:21:07]
+depender de la metodología de cada uno
+
+[00:21:08]
+pero la metodología que él tenía que es
+
+[00:21:10]
+muy parecida a la que yo tengo y al
+
+[00:21:13]
+jamis a la forma de ser de 30 mía que
+
+[00:21:17]
+ese scalping scalping trade y agresivo
+
+[00:21:20]
+él operaba 10 minutos al día
+
+[00:21:24]
+dos días a la semana y a veces me decía
+
+[00:21:26]
+a veces en dos sesiones ya me hago el
+
+[00:21:28]
+mes y me retiro por lo menos de esa
+
+[00:21:31]
+cuenta
+
+[00:21:32]
+y nosotros cuando llegamos acá el
+
+[00:21:35]
+trading nos venden que tenemos que estar
+
+[00:21:36]
+sentados en el gráfico pegados ahí
+
+[00:21:39]
+porque hay que hay que cazar el mercado
+
+[00:21:41]
+porque hay que sacar la sección nos
+
+[00:21:45]
+venden que tenemos que estar toda la
+
+[00:21:46]
+sesión de nueva york ahí mirando la
+
+[00:21:49]
+y no es así es el menos tiempo posible
+
+[00:21:51]
+porque esto es desgastante mentalmente
+
+[00:21:55]
+entonces estos serían uno de los
+
+[00:21:57]
+consejos que yo quisiera darles y que
+
+[00:22:00]
+espero que de verdad les ayuden y les
+
+[00:22:02]
+sirvan en esto
+
+[00:22:05]
+[Música]
+```

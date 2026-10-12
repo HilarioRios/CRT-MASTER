@@ -1,0 +1,932 @@
+[
+  {
+    "start_sec": 0.04,
+    "end_sec": 1.76,
+    "text": "Hola Qué pasa a todos amigos estamos en"
+  },
+  {
+    "start_sec": 1.76,
+    "end_sec": 4.24,
+    "text": "un nuevo capítulo de mentoría gratuita"
+  },
+  {
+    "start_sec": 4.24,
+    "end_sec": 7.64,
+    "text": "2024 módulo 5 ya estamos con nuestra"
+  },
+  {
+    "start_sec": 7.64,
+    "end_sec": 11.96,
+    "text": "clase número dos es esta clase vamos a o"
+  },
+  {
+    "start_sec": 11.96,
+    "end_sec": 13.56,
+    "text": "quiero hablar un poquito más en"
+  },
+  {
+    "start_sec": 13.56,
+    "end_sec": 15.68,
+    "text": "profundidad del testeo de una estrategia"
+  },
+  {
+    "start_sec": 15.68,
+    "end_sec": 18.92,
+    "text": "en mercados en vivo o sea cuál va a ser"
+  },
+  {
+    "start_sec": 18.92,
+    "end_sec": 22.4,
+    "text": "el proceso de yo testear mi estrategia"
+  },
+  {
+    "start_sec": 22.4,
+    "end_sec": 24.68,
+    "text": "ya en un mercado ya cuando ya tengo las"
+  },
+  {
+    "start_sec": 24.68,
+    "end_sec": 27.44,
+    "text": "bases sólidas qué pasos debería de"
+  },
+  {
+    "start_sec": 27.44,
+    "end_sec": 29.56,
+    "text": "seguir para poder testear esa estrategia"
+  },
+  {
+    "start_sec": 29.56,
+    "end_sec": 32.48,
+    "text": "verdad Entonces quiero que quede bien"
+  },
+  {
+    "start_sec": 32.48,
+    "end_sec": 35.04,
+    "text": "claro esto y quiero le dediqué otra"
+  },
+  {
+    "start_sec": 35.04,
+    "end_sec": 37.48,
+    "text": "clase exactamente a esto porque pienso"
+  },
+  {
+    "start_sec": 37.48,
+    "end_sec": 39.8,
+    "text": "que es muy importante muchas personas ya"
+  },
+  {
+    "start_sec": 39.8,
+    "end_sec": 43.88,
+    "text": "Back testearon su estrategia en un Back"
+  },
+  {
+    "start_sec": 43.88,
+    "end_sec": 45.68,
+    "text": "testing normal con retrospectiva de"
+  },
+  {
+    "start_sec": 45.68,
+    "end_sec": 48.76,
+    "text": "velas y quieren ya que su estrategia"
+  },
+  {
+    "start_sec": 48.76,
+    "end_sec": 51.4,
+    "text": "funcione pero hay muchos factores sobre"
+  },
+  {
+    "start_sec": 51.4,
+    "end_sec": 53.52,
+    "text": "todo psicológicos y emocionales que tú"
+  },
+  {
+    "start_sec": 53.52,
+    "end_sec": 55.84,
+    "text": "no has tenido en cuenta en ese Back"
+  },
+  {
+    "start_sec": 55.84,
+    "end_sec": 57.24,
+    "text": "testing porque no se puede tener en"
+  },
+  {
+    "start_sec": 57.24,
+    "end_sec": 59.4,
+    "text": "cuenta en ese Back testing entonces por"
+  },
+  {
+    "start_sec": 59.4,
+    "end_sec": 62.76,
+    "text": "eso de yo recomiendo por lo menos que se"
+  },
+  {
+    "start_sec": 62.76,
+    "end_sec": 64.88,
+    "text": "haga Back testing de esta forma verdad"
+  },
+  {
+    "start_sec": 64.88,
+    "end_sec": 67.32,
+    "text": "Entonces finalidad del testeo de esta de"
+  },
+  {
+    "start_sec": 67.32,
+    "end_sec": 69.28,
+    "text": "este Back testing en vivo que yo llamo"
+  },
+  {
+    "start_sec": 69.28,
+    "end_sec": 71.04,
+    "text": "en vivo cuando llamo en vivo entiéndase"
+  },
+  {
+    "start_sec": 71.04,
+    "end_sec": 75.04,
+    "text": "a meter las operaciones a mi metatrader"
+  },
+  {
+    "start_sec": 75.04,
+    "end_sec": 76.92,
+    "text": "cumpliendo mi estrategia pero mi"
+  },
+  {
+    "start_sec": 76.92,
+    "end_sec": 79.68,
+    "text": "finalidad es recopilar datos Mi"
+  },
+  {
+    "start_sec": 79.68,
+    "end_sec": 81.64,
+    "text": "finalidad no es ni pasar ninguna prueba"
+  },
+  {
+    "start_sec": 81.64,
+    "end_sec": 83.96,
+    "text": "de fondeo ni ganar dinero sino mi"
+  },
+  {
+    "start_sec": 83.96,
+    "end_sec": 86.4,
+    "text": "finalidad es ejecutar mi estrategia y"
+  },
+  {
+    "start_sec": 86.4,
+    "end_sec": 88.8,
+    "text": "recopilar todo tipo de datos verdad"
+  },
+  {
+    "start_sec": 88.8,
+    "end_sec": 90.52,
+    "text": "Entonces el maest tiene en mercados en"
+  },
+  {
+    "start_sec": 90.52,
+    "end_sec": 92.44,
+    "text": "vivo se hace porque es un Back testing"
+  },
+  {
+    "start_sec": 92.44,
+    "end_sec": 94.92,
+    "text": "normal no tenemos el factor de emociones"
+  },
+  {
+    "start_sec": 94.92,
+    "end_sec": 96.76,
+    "text": "por eso es importante ir a un mercado en"
+  },
+  {
+    "start_sec": 96.76,
+    "end_sec": 98.8,
+    "text": "vivo y hacerlo entonces principalmente"
+  },
+  {
+    "start_sec": 98.8,
+    "end_sec": 101.76,
+    "text": "por el factor emocional y por el factor"
+  },
+  {
+    "start_sec": 101.76,
+    "end_sec": 104.76,
+    "text": "psicológico de que no no lo tengo en los"
+  },
+  {
+    "start_sec": 104.76,
+    "end_sec": 106.48,
+    "text": "demás tipos de Back testing que yo les"
+  },
+  {
+    "start_sec": 106.48,
+    "end_sec": 109.64,
+    "text": "he enseñado es por eso que yo recomiendo"
+  },
+  {
+    "start_sec": 109.64,
+    "end_sec": 112.12,
+    "text": "que se haga este Back testing yo"
+  },
+  {
+    "start_sec": 112.12,
+    "end_sec": 115.28,
+    "text": "recomiendo que cada 30 días tú tú hagas"
+  },
+  {
+    "start_sec": 115.28,
+    "end_sec": 117.16,
+    "text": "ese Back testing por lo menos 20 días"
+  },
+  {
+    "start_sec": 117.16,
+    "end_sec": 119.36,
+    "text": "operativos y después de 20 días"
+  },
+  {
+    "start_sec": 119.36,
+    "end_sec": 122.12,
+    "text": "operativos o 30 días del calendario"
+  },
+  {
+    "start_sec": 122.12,
+    "end_sec": 125.08,
+    "text": "vayas y veas todos los datos que has"
+  },
+  {
+    "start_sec": 125.08,
+    "end_sec": 127.44,
+    "text": "recopilado cada te sientes y analices"
+  },
+  {
+    "start_sec": 127.44,
+    "end_sec": 129.32,
+    "text": "todos los datos que has recopilado y"
+  },
+  {
+    "start_sec": 129.32,
+    "end_sec": 131.08,
+    "text": "veas en qué estás fallando en Qué es"
+  },
+  {
+    "start_sec": 131.08,
+    "end_sec": 133.0,
+    "text": "mejor tu estrategia en Qué es peor"
+  },
+  {
+    "start_sec": 133.0,
+    "end_sec": 135.08,
+    "text": "etcétera etcétera Pero yo aquí tengo una"
+  },
+  {
+    "start_sec": 135.08,
+    "end_sec": 136.6,
+    "text": "serie de pasos que les van a ayudar a"
+  },
+  {
+    "start_sec": 136.6,
+    "end_sec": 138.88,
+    "text": "ustedes para identificar mejor ya"
+  },
+  {
+    "start_sec": 138.88,
+    "end_sec": 140.76,
+    "text": "entonces el primer paso es abrir una"
+  },
+  {
+    "start_sec": 140.76,
+    "end_sec": 142.92,
+    "text": "cuenta demo o real o una prueba de"
+  },
+  {
+    "start_sec": 142.92,
+    "end_sec": 144.96,
+    "text": "fondeo la finalidad es enfocarnos en una"
+  },
+  {
+    "start_sec": 144.96,
+    "end_sec": 147.64,
+    "text": "sola m enfóquese en una sola cuenta este"
+  },
+  {
+    "start_sec": 147.64,
+    "end_sec": 149.48,
+    "text": "va a ser el paso que tienen que ustedes"
+  },
+  {
+    "start_sec": 149.48,
+    "end_sec": 150.56,
+    "text": "hacer"
+  },
+  {
+    "start_sec": 150.56,
+    "end_sec": 153.36,
+    "text": "mucha gente me me me me pregunta cómo"
+  },
+  {
+    "start_sec": 153.36,
+    "end_sec": 155.36,
+    "text": "Gustavo Yo sé que ya estoy preparado"
+  },
+  {
+    "start_sec": 155.36,
+    "end_sec": 157.56,
+    "text": "para una cuenta de fondeo para pasarla"
+  },
+  {
+    "start_sec": 157.56,
+    "end_sec": 160.12,
+    "text": "bueno es esto cada uno de los pasos que"
+  },
+  {
+    "start_sec": 160.12,
+    "end_sec": 162.68,
+    "text": "te he venido dando de estrategia que si"
+  },
+  {
+    "start_sec": 162.68,
+    "end_sec": 164.04,
+    "text": "no has visto todos los capítulos"
+  },
+  {
+    "start_sec": 164.04,
+    "end_sec": 165.6,
+    "text": "aprovecho para decir que los tienes que"
+  },
+  {
+    "start_sec": 165.6,
+    "end_sec": 167.68,
+    "text": "ver cada uno de los capítulos abajo en"
+  },
+  {
+    "start_sec": 167.68,
+    "end_sec": 169.36,
+    "text": "la descripción se encuentra la Playlist"
+  },
+  {
+    "start_sec": 169.36,
+    "end_sec": 172.76,
+    "text": "para que los veas y este después de eso"
+  },
+  {
+    "start_sec": 172.76,
+    "end_sec": 174.8,
+    "text": "vas a seguir esta serie de pasos para"
+  },
+  {
+    "start_sec": 174.8,
+    "end_sec": 177.68,
+    "text": "testear tu estrategia después de que ya"
+  },
+  {
+    "start_sec": 177.68,
+    "end_sec": 181.32,
+    "text": "tú tienes una cuenta de fondeo eh demo o"
+  },
+  {
+    "start_sec": 181.32,
+    "end_sec": 183.8,
+    "text": "tienes una cuenta demo o tienes una"
+  },
+  {
+    "start_sec": 183.8,
+    "end_sec": 185.52,
+    "text": "cuenta de fondeo A lo mejor real"
+  },
+  {
+    "start_sec": 185.52,
+    "end_sec": 187.24,
+    "text": "pequeñita Por qué también se puede con"
+  },
+  {
+    "start_sec": 187.24,
+    "end_sec": 190.4,
+    "text": "una cuenta real pequeñita porque ah tú"
+  },
+  {
+    "start_sec": 190.4,
+    "end_sec": 192.96,
+    "text": "sientes las emociones ahí más porque aún"
+  },
+  {
+    "start_sec": 192.96,
+    "end_sec": 195.2,
+    "text": "así aunque sea pequeñita ya sabes que es"
+  },
+  {
+    "start_sec": 195.2,
+    "end_sec": 197.0,
+    "text": "una cuenta que tú puedes llegar a pasar"
+  },
+  {
+    "start_sec": 197.0,
+    "end_sec": 198.6,
+    "text": "y que puedes"
+  },
+  {
+    "start_sec": 198.6,
+    "end_sec": 201.72,
+    "text": "este tener ganancias yo por ejemplo este"
+  },
+  {
+    "start_sec": 201.72,
+    "end_sec": 204.8,
+    "text": "este año precisamente los que me han"
+  },
+  {
+    "start_sec": 204.8,
+    "end_sec": 206.08,
+    "text": "seguido saben que yo he venido"
+  },
+  {
+    "start_sec": 206.08,
+    "end_sec": 207.88,
+    "text": "batallando con mi psicología con la"
+  },
+  {
+    "start_sec": 207.88,
+    "end_sec": 210.08,
+    "text": "estrategia eh"
+  },
+  {
+    "start_sec": 210.08,
+    "end_sec": 212.0,
+    "text": "principal psicología por todo lo que me"
+  },
+  {
+    "start_sec": 212.0,
+    "end_sec": 214.84,
+    "text": "pasó por mi historia pero lo que hice"
+  },
+  {
+    "start_sec": 214.84,
+    "end_sec": 216.84,
+    "text": "fue eso comprar cuentas de fondeo"
+  },
+  {
+    "start_sec": 216.84,
+    "end_sec": 218.64,
+    "text": "pequeñitas ir Back testeando mi"
+  },
+  {
+    "start_sec": 218.64,
+    "end_sec": 220.44,
+    "text": "estrategia mis comportamientos mis"
+  },
+  {
+    "start_sec": 220.44,
+    "end_sec": 224.96,
+    "text": "emociones y una cuenta de 5000 la pasé y"
+  },
+  {
+    "start_sec": 224.96,
+    "end_sec": 226.96,
+    "text": "me sirvió a partir de ahí me fui con la"
+  },
+  {
+    "start_sec": 226.96,
+    "end_sec": 229.56,
+    "text": "cuenta de 200,000 de ftmo y después la"
+  },
+  {
+    "start_sec": 229.56,
+    "end_sec": 231.6,
+    "text": "pasé porque yo ya tenía las bases"
+  },
+  {
+    "start_sec": 231.6,
+    "end_sec": 233.8,
+    "text": "sólidas luego después es empezar a"
+  },
+  {
+    "start_sec": 233.8,
+    "end_sec": 236.88,
+    "text": "operar y recopilar datos de mi operativa"
+  },
+  {
+    "start_sec": 236.88,
+    "end_sec": 240.24,
+    "text": "tres comportamientos emocionales de mi"
+  },
+  {
+    "start_sec": 240.24,
+    "end_sec": 242.76,
+    "text": "gestión de riesgo Como cuánto estoy"
+  },
+  {
+    "start_sec": 242.76,
+    "end_sec": 244.52,
+    "text": "arriesgando si"
+  },
+  {
+    "start_sec": 244.52,
+    "end_sec": 248.24,
+    "text": "reenter rativa si tengo problemas de"
+  },
+  {
+    "start_sec": 248.24,
+    "end_sec": 251.36,
+    "text": "sobre operativa eh Mis comportamientos"
+  },
+  {
+    "start_sec": 251.36,
+    "end_sec": 255.16,
+    "text": "emocionales las las casuísticas que"
+  },
+  {
+    "start_sec": 255.16,
+    "end_sec": 258.08,
+    "text": "salgan por la operativa casuísticas Qué"
+  },
+  {
+    "start_sec": 258.08,
+    "end_sec": 260.4,
+    "text": "significa los diferentes cosas que te"
+  },
+  {
+    "start_sec": 260.4,
+    "end_sec": 262.2,
+    "text": "podrían allegar pasar que tú no"
+  },
+  {
+    "start_sec": 262.2,
+    "end_sec": 264.24,
+    "text": "consideraste en un Back testing previo"
+  },
+  {
+    "start_sec": 264.24,
+    "end_sec": 268.0,
+    "text": "eh ejemplo que ese día hubo una noticia"
+  },
+  {
+    "start_sec": 268.0,
+    "end_sec": 269.96,
+    "text": "doble eh"
+  },
+  {
+    "start_sec": 269.96,
+    "end_sec": 274.28,
+    "text": "ese día hubo situación fundamental ese"
+  },
+  {
+    "start_sec": 274.28,
+    "end_sec": 277.76,
+    "text": "día este te pasó algo y te sentiste de"
+  },
+  {
+    "start_sec": 277.76,
+    "end_sec": 280.0,
+    "text": "una forma ese día te levantaste de una"
+  },
+  {
+    "start_sec": 280.0,
+    "end_sec": 283.32,
+    "text": "forma de otra casuísticas o casos"
+  },
+  {
+    "start_sec": 283.32,
+    "end_sec": 285.12,
+    "text": "detalles que te podrían llegar a pasar"
+  },
+  {
+    "start_sec": 285.12,
+    "end_sec": 286.92,
+    "text": "cómo me siento operando la estrategia"
+  },
+  {
+    "start_sec": 286.92,
+    "end_sec": 288.72,
+    "text": "tanta tanta comodidad como"
+  },
+  {
+    "start_sec": 288.72,
+    "end_sec": 290.16,
+    "text": "emocionalmente muchas veces la"
+  },
+  {
+    "start_sec": 290.16,
+    "end_sec": 292.36,
+    "text": "estrategia es super buena pero yo no me"
+  },
+  {
+    "start_sec": 292.36,
+    "end_sec": 294.84,
+    "text": "siento bien cómodo o no me siento tan"
+  },
+  {
+    "start_sec": 294.84,
+    "end_sec": 298.52,
+    "text": "cómodo Resulta ser con ese rr el mercado"
+  },
+  {
+    "start_sec": 298.52,
+    "end_sec": 302.24,
+    "text": "me daba el testing que el rr 1 A4 o 1 a5"
+  },
+  {
+    "start_sec": 302.24,
+    "end_sec": 304.48,
+    "text": "era el el óptimo era el donde yo iba a"
+  },
+  {
+    "start_sec": 304.48,
+    "end_sec": 306.56,
+    "text": "tener más ganancias pero resulta ser que"
+  },
+  {
+    "start_sec": 306.56,
+    "end_sec": 309.36,
+    "text": "yo me siento más cómodo con el rr1 a2"
+  },
+  {
+    "start_sec": 309.36,
+    "end_sec": 311.44,
+    "text": "son situaciones para eso sirve este tipo"
+  },
+  {
+    "start_sec": 311.44,
+    "end_sec": 313.88,
+    "text": "de Back testing el se es descubrir"
+  },
+  {
+    "start_sec": 313.88,
+    "end_sec": 316.08,
+    "text": "Cuáles días son mejores o pero peores"
+  },
+  {
+    "start_sec": 316.08,
+    "end_sec": 318.56,
+    "text": "queé horarios toda la recopilación de"
+  },
+  {
+    "start_sec": 318.56,
+    "end_sec": 320.2,
+    "text": "datos chicos que más puedan hacer"
+  },
+  {
+    "start_sec": 320.2,
+    "end_sec": 323.32,
+    "text": "Ustedes es mejor el siete Cuáles días o"
+  },
+  {
+    "start_sec": 323.32,
+    "end_sec": 325.4,
+    "text": "escenarios no se debe de operar muy"
+  },
+  {
+    "start_sec": 325.4,
+    "end_sec": 327.44,
+    "text": "importante saber cuándo no debo de"
+  },
+  {
+    "start_sec": 327.44,
+    "end_sec": 330.0,
+    "text": "operar cuándo voy a evitar operar esa"
+  },
+  {
+    "start_sec": 330.0,
+    "end_sec": 331.64,
+    "text": "estrategia por último tenemos lo que es"
+  },
+  {
+    "start_sec": 331.64,
+    "end_sec": 334.68,
+    "text": "la evaluación continua eh tengo tres"
+  },
+  {
+    "start_sec": 334.68,
+    "end_sec": 336.6,
+    "text": "pasos por aquí también operar al menos"
+  },
+  {
+    "start_sec": 336.6,
+    "end_sec": 338.68,
+    "text": "20 días en cuenta demo Life de"
+  },
+  {
+    "start_sec": 338.68,
+    "end_sec": 340.48,
+    "text": "preferencia Live para recopilar datos de"
+  },
+  {
+    "start_sec": 340.48,
+    "end_sec": 342.84,
+    "text": "tus comportamientos emocionales ya les"
+  },
+  {
+    "start_sec": 342.84,
+    "end_sec": 345.24,
+    "text": "decía 20 días por lo menos 30 días"
+  },
+  {
+    "start_sec": 345.24,
+    "end_sec": 348.32,
+    "text": "operativos luego después eh Perdón 20"
+  },
+  {
+    "start_sec": 348.32,
+    "end_sec": 350.2,
+    "text": "días operativos 30 días por lo menos de"
+  },
+  {
+    "start_sec": 350.2,
+    "end_sec": 351.96,
+    "text": "calendario luego vas a filtrar esos"
+  },
+  {
+    "start_sec": 351.96,
+    "end_sec": 354.4,
+    "text": "resultados cada 20 o 30 días Qué"
+  },
+  {
+    "start_sec": 354.4,
+    "end_sec": 356.8,
+    "text": "significa filtrar vas a agarrar todos"
+  },
+  {
+    "start_sec": 356.8,
+    "end_sec": 358.36,
+    "text": "los datos que vist que recopilaste"
+  },
+  {
+    "start_sec": 358.36,
+    "end_sec": 362.24,
+    "text": "durante 20 días o 30 días de operando y"
+  },
+  {
+    "start_sec": 362.24,
+    "end_sec": 364.6,
+    "text": "esos esos datos te vas a sentar y los"
+  },
+  {
+    "start_sec": 364.6,
+    "end_sec": 367.04,
+    "text": "vas a analizar vas a ver Ah mira el"
+  },
+  {
+    "start_sec": 367.04,
+    "end_sec": 368.56,
+    "text": "comportamiento que tengo todos los lunes"
+  },
+  {
+    "start_sec": 368.56,
+    "end_sec": 370.48,
+    "text": "Ah mira los viernes siempre pierdo Ah"
+  },
+  {
+    "start_sec": 370.48,
+    "end_sec": 372.84,
+    "text": "Mira esto esto y a partir de ahí vas a"
+  },
+  {
+    "start_sec": 372.84,
+    "end_sec": 375.52,
+    "text": "poder tener margen de mejora después vas"
+  },
+  {
+    "start_sec": 375.52,
+    "end_sec": 377.48,
+    "text": "a hacer un análisis exhaustivo de cada"
+  },
+  {
+    "start_sec": 377.48,
+    "end_sec": 379.16,
+    "text": "uno de los resultados y vas a generar"
+  },
+  {
+    "start_sec": 379.16,
+    "end_sec": 381.4,
+    "text": "cambios cuando sea necesario aquí con"
+  },
+  {
+    "start_sec": 381.4,
+    "end_sec": 383.0,
+    "text": "los cambios es importante chicos"
+  },
+  {
+    "start_sec": 383.0,
+    "end_sec": 385.24,
+    "text": "decirles que no se pasen de lanza como"
+  },
+  {
+    "start_sec": 385.24,
+    "end_sec": 387.88,
+    "text": "decimos acá en México con modificar"
+  },
+  {
+    "start_sec": 387.88,
+    "end_sec": 390.28,
+    "text": "cosas que están bien tienen que tener"
+  },
+  {
+    "start_sec": 390.28,
+    "end_sec": 392.28,
+    "text": "mucho cuidado con esto y tienen que"
+  },
+  {
+    "start_sec": 392.28,
+    "end_sec": 394.12,
+    "text": "modificar tienen que tener mucho"
+  },
+  {
+    "start_sec": 394.12,
+    "end_sec": 396.0,
+    "text": "criterio para modificar realmente lo que"
+  },
+  {
+    "start_sec": 396.0,
+    "end_sec": 398.16,
+    "text": "Creen ustedes que no les está sirviendo"
+  },
+  {
+    "start_sec": 398.16,
+    "end_sec": 401.32,
+    "text": "básense principalmente en su comodidad"
+  },
+  {
+    "start_sec": 401.32,
+    "end_sec": 405.28,
+    "text": "emocional y en los números siempre si se"
+  },
+  {
+    "start_sec": 405.28,
+    "end_sec": 408.0,
+    "text": "sienten más cómodos emocionales con algo"
+  },
+  {
+    "start_sec": 408.0,
+    "end_sec": 410.12,
+    "text": "vean analícenlo Mediante los números"
+  },
+  {
+    "start_sec": 410.12,
+    "end_sec": 412.2,
+    "text": "mediante vean si es rentable mediante"
+  },
+  {
+    "start_sec": 412.2,
+    "end_sec": 413.8,
+    "text": "números y a partir de ahí le pueden"
+  },
+  {
+    "start_sec": 413.8,
+    "end_sec": 415.84,
+    "text": "hacer un cambio Bueno chicos esta clase"
+  },
+  {
+    "start_sec": 415.84,
+    "end_sec": 417.76,
+    "text": "bastante breve pero importante para que"
+  },
+  {
+    "start_sec": 417.76,
+    "end_sec": 419.32,
+    "text": "ustedes aprendan a hacer un Back testing"
+  },
+  {
+    "start_sec": 419.32,
+    "end_sec": 421.44,
+    "text": "de verdad Para que ustedes vean Cómo se"
+  },
+  {
+    "start_sec": 421.44,
+    "end_sec": 424.2,
+    "text": "comienza a intentar ser rentable a"
+  },
+  {
+    "start_sec": 424.2,
+    "end_sec": 426.64,
+    "text": "intentar pasar una cuenta de fondeo si"
+  },
+  {
+    "start_sec": 426.64,
+    "end_sec": 428.68,
+    "text": "tienes alguna duda o pregunta te leo en"
+  },
+  {
+    "start_sec": 428.68,
+    "end_sec": 431.76,
+    "text": "los comentarios si tienes algún eh"
+  },
+  {
+    "start_sec": 431.76,
+    "end_sec": 434.04,
+    "text": "mensaje que me quieras mandar quieres"
+  },
+  {
+    "start_sec": 434.04,
+    "end_sec": 435.8,
+    "text": "una mentoría personalizada lo que sea"
+  },
+  {
+    "start_sec": 435.8,
+    "end_sec": 437.28,
+    "text": "Puedes mandarme un mensaje por WhatsApp"
+  },
+  {
+    "start_sec": 437.28,
+    "end_sec": 440.2,
+    "text": "o por Instagram Gustavo Trader y nos"
+  },
+  {
+    "start_sec": 440.2,
+    "end_sec": 444.68,
+    "text": "vemos en un próximo video adiós"
+  }
+]

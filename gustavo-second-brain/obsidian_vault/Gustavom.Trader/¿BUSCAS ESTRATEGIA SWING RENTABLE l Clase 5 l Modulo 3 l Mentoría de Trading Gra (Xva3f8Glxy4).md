@@ -1,0 +1,847 @@
+---
+source_id: YT_CANAL_02_Xva3f8Glxy4
+video_id: Xva3f8Glxy4
+channel: "Gustavom.Trader"
+published_at: 2024-09-17
+url: https://www.youtube.com/watch?v=Xva3f8Glxy4
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# ¿BUSCAS ESTRATEGIA SWING RENTABLE? l Clase 5 l Modulo 3 l Mentoría de Trading Gratis
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=Xva3f8Glxy4)
+
+## Transcript
+
+```
+[00:00:00]
+estamos en un nuevo video esta vez
+
+[00:00:01]
+mentoría gratuita 2024 nuestra última
+
+[00:00:04]
+clase de módulo número tres espero que
+
+[00:00:07]
+la estén llevando bastante bien si no te
+
+[00:00:10]
+has visto cada uno de los videos te
+
+[00:00:11]
+recomiendo que los veas link abajo de
+
+[00:00:14]
+toda la Playlist en la descripción de
+
+[00:00:15]
+este video y vamos a empezar con nuestra
+
+[00:00:17]
+clase número cco mapeo para swing o
+
+[00:00:21]
+estrategia para swing Cómo podemos hacer
+
+[00:00:22]
+swing cóm podemos tener una buena
+
+[00:00:24]
+entrada en swing Cómo podemos
+
+[00:00:26]
+identificar los fractales para swing
+
+[00:00:28]
+Cómo podemos hacer una buena estrategia
+
+[00:00:31]
+una buena entrada en swing Bueno pues
+
+[00:00:33]
+vamos allá con la simplificación
+
+[00:00:35]
+nuestros pasos objetivo es crear un mapa
+
+[00:00:37]
+para poder trabajar en operaciones a
+
+[00:00:39]
+largo plazo aprender identificar
+
+[00:00:40]
+fractales zonas de interés y formas de
+
+[00:00:42]
+trabajo para swing Pues en swing existe
+
+[00:00:45]
+lo que es swing corto un día una semana
+
+[00:00:47]
+que es lo que yo hago swing eh Un día 3
+
+[00:00:50]
+días 4 días 5 días operaciones en ese
+
+[00:00:53]
+tipo de eh contexto es lo que yo suelo
+
+[00:00:57]
+hacer y los van a ser los ejemplos que
+
+[00:00:59]
+les voy a poner
+
+[00:01:00]
+diario y h4 tendencia h4 y h2 patrón h1
+
+[00:01:04]
+y m30 refine puede ser también 15
+
+[00:01:07]
+minutos Aunque mí no me gusta refinar
+
+[00:01:08]
+tanto pero ustedes lo pueden hacer si
+
+[00:01:10]
+quieren t medio más de una semana en
+
+[00:01:13]
+tendencia en en semanal patrón en diario
+
+[00:01:17]
+y refin en h4 y swing muy muy muy pero
+
+[00:01:21]
+muy largo es tendencia mensual patrón en
+
+[00:01:24]
+s1 y refine en lo que es nuestra
+
+[00:01:27]
+temporalidad diaria pero yo les voy a a
+
+[00:01:30]
+explicar el día de hoy ejemplos con sin
+
+[00:01:32]
+corto que es lo que yo hago y donde más
+
+[00:01:34]
+puedo llegar a dar aportarles valor
+
+[00:01:37]
+gráficos de diario y de h4 buscar la
+
+[00:01:40]
+dirección inmediata fractales a partir
+
+[00:01:42]
+de ahí revisar altos y bajos sesiones
+
+[00:01:44]
+diarios y semanales patrón de h4 h2 car
+
+[00:01:48]
+fractal a trabajar y son a favor de
+
+[00:01:50]
+nuestra entrada o de dirección
+
+[00:01:51]
+encontrada previamente también medir el
+
+[00:01:53]
+tamaño de la zona en h1 Buscar nuestro
+
+[00:01:56]
+patrón de cambio estructural y entrar
+
+[00:01:58]
+verdad estos son los pasos bastante
+
+[00:02:00]
+sencillos para poder nosotros hacer
+
+[00:02:02]
+swing tenemos pasos de la estrategia de
+
+[00:02:04]
+swing corto
+
+[00:02:05]
+eh igual de nuevo identificamos nuestro
+
+[00:02:09]
+fractal en en tendencia igual de nuevo
+
+[00:02:12]
+tenemos la tendencia en diario en h4
+
+[00:02:14]
+nuestro último fractal que queremos
+
+[00:02:15]
+trabajar eh ver si vamos a poder comprar
+
+[00:02:18]
+o vender aplicamos nuestra teoría de
+
+[00:02:20]
+Premium y descuento identificamos en h4
+
+[00:02:23]
+y en h2 el último punto fractal
+
+[00:02:25]
+importante y nuestro cambio en h1 y en
+
+[00:02:28]
+m30 la verdad es que es muy sencillo lo
+
+[00:02:30]
+mismo que le estaba explicando para lo
+
+[00:02:32]
+que es eh intrad Y scalping lo mismo que
+
+[00:02:35]
+hacemos en swing recomendaciones finales
+
+[00:02:38]
+para eh swing mejores horarios Nueva
+
+[00:02:41]
+York y Londres aperturas y cierres no
+
+[00:02:43]
+hay horario específico para swing puedes
+
+[00:02:45]
+encontrar entradas cuando tú las tengas
+
+[00:02:48]
+es lo bonito de swing y simplemente
+
+[00:02:50]
+estar esperando la temporalidad grande
+
+[00:02:53]
+pero siempre pues nuestras sesiones de
+
+[00:02:55]
+Londres y de Nueva York van a ser donde
+
+[00:02:57]
+vamos a tener mejores probabilidades de
+
+[00:02:58]
+entrada centrarte en la dirección Macro
+
+[00:03:01]
+en swing te tienes que centrar en
+
+[00:03:03]
+dirección no es eh No es una reacción en
+
+[00:03:05]
+el precio estás buscando reacciones en
+
+[00:03:08]
+el precio estás buscando movimientos más
+
+[00:03:10]
+extendidos estás buscando dirección eh
+
+[00:03:13]
+conclusión esperar su entrada tienes que
+
+[00:03:15]
+ser muy paciente para esperar entradas
+
+[00:03:17]
+muy pacientes para dejar correr también
+
+[00:03:20]
+la entrada saber esperar su Target
+
+[00:03:22]
+aguantar su l su stop loss y tu Take
+
+[00:03:25]
+profit y mucha paciencia para swing en
+
+[00:03:27]
+lo que necesitas pero vas a estar muy
+
+[00:03:29]
+tranquilo porque vas a poder no estar
+
+[00:03:32]
+pegado ahí tanto a la pantalla no estar
+
+[00:03:34]
+ahí tantísimo tiempo mirando una entrada
+
+[00:03:37]
+entonces tiene sus pros y sus contras
+
+[00:03:40]
+entender siempre las debilidades y
+
+[00:03:41]
+fortalezas de nuestra estrategia Vamos
+
+[00:03:44]
+allá con los ejemplos de swin cord Bueno
+
+[00:03:47]
+chicos este caso Les voy a poner algunos
+
+[00:03:49]
+ejemplos en el nasac esta vez de unas
+
+[00:03:51]
+operaciones que yo tomé para pasar ftm
+
+[00:03:53]
+challenge de $200,000 esta semana para
+
+[00:03:57]
+que ustedes vean Cómo identifiqué cómo
+
+[00:03:59]
+hice para tomar esas operaciones que
+
+[00:04:00]
+tomé en vivo chicos tomé operaciones en
+
+[00:04:03]
+vivo tuvimos buena ganancia y pasamos ft
+
+[00:04:06]
+challenge de
+
+[00:04:07]
+0000,000 a partir de ahí empiezo desde
+
+[00:04:09]
+mi gráfico semanal me gusta comenzar
+
+[00:04:11]
+desde mi gráfico semanal entendiendo el
+
+[00:04:13]
+contexto de que este precio está to the
+
+[00:04:15]
+moon alcista simplemente está alcista No
+
+[00:04:18]
+necesito tener tanto contexto
+
+[00:04:20]
+simplemente está alcista y voy
+
+[00:04:22]
+identificar nuestros zonas de interés en
+
+[00:04:26]
+este caso eh la semana que yo traé mape
+
+[00:04:29]
+Aba este High importante que lo vamos a
+
+[00:04:31]
+marcar por ahí yo los me suele gustar
+
+[00:04:34]
+ponerlo siempre con líneas de este
+
+[00:04:36]
+estilo Pero ustedes lo pueden marcar
+
+[00:04:37]
+como ustedes se les pegue su gana A mí
+
+[00:04:39]
+me encanta así porque así es como me
+
+[00:04:41]
+gusta irlo viendo entonces aquí tenemos
+
+[00:04:44]
+este liquidez High y low de eh nuestra
+
+[00:04:48]
+gráfico semanal también vamos a ir
+
+[00:04:51]
+marcando estos de aquí para que ustedes
+
+[00:04:54]
+vayan teniendo un poquito más de
+
+[00:04:56]
+experiencia con estos bajos y altos
+
+[00:04:59]
+canales vayan viendo cómo funcionan Cómo
+
+[00:05:01]
+van entre sí tomándose la liquidez y
+
+[00:05:04]
+etcétera etcétera entonces Bueno chicos
+
+[00:05:06]
+a partir de ahí me bajo a mi gráfico
+
+[00:05:08]
+diario mi gráfico diario voy a igual
+
+[00:05:10]
+estar marcando bajos y altos relevantes
+
+[00:05:13]
+y estar viendo cómo funcionan en este
+
+[00:05:15]
+caso ya los que son semanales pues no es
+
+[00:05:18]
+importante tenerlos en cuenta en este
+
+[00:05:20]
+caso Este es el semanal y acá tenemos el
+
+[00:05:24]
+el low semanal que era Esto entonces ya
+
+[00:05:26]
+no es importante tener en cuenta tanto
+
+[00:05:28]
+porque ya tenemos los gráficos semanales
+
+[00:05:30]
+que son un poquito más relevantes de los
+
+[00:05:32]
+diarios pero ya este a partir de ahí lo
+
+[00:05:36]
+que voy a hacer yo
+
+[00:05:37]
+es marcarles este low diario loow diario
+
+[00:05:42]
+esto van a hacer low diario y este vamos
+
+[00:05:46]
+a dejar también este último low diario
+
+[00:05:48]
+esto no más para tener contexto ya ahora
+
+[00:05:50]
+sí nuestra temporalidad mayor verdad los
+
+[00:05:53]
+aquí qué estoy haciendo simplemente
+
+[00:05:55]
+mapeando highs y lows diarios y
+
+[00:05:57]
+semanales temporalidad que me voy a ir
+
+[00:06:00]
+para hacer este su corto va a ser 4
+
+[00:06:02]
+horas Entonces ahora sí el contexto de 4
+
+[00:06:05]
+horas es el va a ser el principal que yo
+
+[00:06:07]
+va a estar tomando para mi tendencia o
+
+[00:06:09]
+para mis operaciones en estos gráficos
+
+[00:06:13]
+de 4 horas para mis operaciones Ahora sí
+
+[00:06:16]
+el contexto que voy a estar tomando
+
+[00:06:17]
+principalmente va a ser en 4 horas para
+
+[00:06:19]
+mis operaciones un poquito de swing voy
+
+[00:06:22]
+a estar tomando en cuenta este High voy
+
+[00:06:24]
+a estar tomando en cuenta este low voy a
+
+[00:06:26]
+estar tomando en cuenta todo este
+
+[00:06:27]
+fractal el precio que hace un nuevo
+
+[00:06:30]
+impulso al alza no logra hacer un nuevo
+
+[00:06:32]
+alto me deja todo este último fractal
+
+[00:06:36]
+aquí l High low High no High y ya
+
+[00:06:40]
+tenemos descifrada la estructura a
+
+[00:06:41]
+partir de ahí que tenemos un bajo diario
+
+[00:06:43]
+importante vead y ya a partir de aquí
+
+[00:06:47]
+tenemos este otro bajo importante y ya
+
+[00:06:49]
+para gatillar mi entrada ya me voy a h1
+
+[00:06:52]
+para gatillar el la entrada ahora ya sé
+
+[00:06:54]
+que el contexto está alcista que hemos
+
+[00:06:56]
+tomado nuevo bajo que hemos tomado el
+
+[00:06:59]
+bajo semanal también Y a partir de ahí
+
+[00:07:01]
+yo digo que mi dirección Sigue estando
+
+[00:07:03]
+alcista pero en h1 voy a ver un poquito
+
+[00:07:06]
+mejor el contexto y voy a ver
+
+[00:07:08]
+exactamente les voy a enseñar Cuándo
+
+[00:07:10]
+gatilla mi entrada de swing porque la
+
+[00:07:12]
+dejamos correr hasta ahí y todo Bueno ya
+
+[00:07:14]
+estoy en h1 y en h1 si se fijan se ve un
+
+[00:07:17]
+poquito mejor ver es está un poquito más
+
+[00:07:19]
+desglosado yo me encontraba exactamente
+
+[00:07:22]
+queriendo tomar después de que el precio
+
+[00:07:24]
+eh tomó todo este impulso a la alza todo
+
+[00:07:27]
+este movimiento a la alza encontraba por
+
+[00:07:29]
+aquí más o menos el día domingo esta
+
+[00:07:32]
+semana del del primero de julio la
+
+[00:07:34]
+primera semana de Julio me encontraba
+
+[00:07:36]
+por aquí queriendo tomar una entrada a
+
+[00:07:38]
+la alza o a la baja verdad el precio me
+
+[00:07:40]
+hace ruptura estructura a la alza bueno
+
+[00:07:43]
+el precio hizo un nuevo alto que no pudo
+
+[00:07:45]
+romper este nuevo High Okay perfecto el
+
+[00:07:47]
+precio Lo que hace es venir de nuevo
+
+[00:07:49]
+hacia abajo deja ese mínimo diario abre
+
+[00:07:51]
+la sesión de Asia rompe ese mínimo Okay
+
+[00:07:54]
+perfecto qué tienes que hacer precio
+
+[00:07:56]
+tienes que venir a hacer un nuevo mínimo
+
+[00:07:58]
+ya tienes que irte hacia abajo verad ya
+
+[00:08:00]
+está Gustavo ya está aquí con estructura
+
+[00:08:02]
+a la baja Ya me rompió la estructura Sí
+
+[00:08:04]
+ya te rompió la estructura ya está para
+
+[00:08:06]
+abajo Okay perfecto Qué hace el precio
+
+[00:08:09]
+pega un mechaz Ah aquí es lo donde
+
+[00:08:12]
+muchos se confunden dice Gustavo Cómo sé
+
+[00:08:14]
+que es un cambio de estructura cóm s que
+
+[00:08:17]
+realmente el precio eh cambió estructura
+
+[00:08:20]
+y me hizo un rompimiento de estructura a
+
+[00:08:23]
+la baja Cómo sé eso y que realmente el
+
+[00:08:26]
+precio no me hizo un falso quiebre pues
+
+[00:08:28]
+muy fácil Fíjate que aquí toma la
+
+[00:08:30]
+liquidez del bajo diario toma la
+
+[00:08:32]
+liquidez de este mínimo a partir de ahí
+
+[00:08:34]
+pega un mechaz hacia arriba y algo
+
+[00:08:36]
+importante empieza a romper estructuras
+
+[00:08:38]
+internas a la Alfa a partir de ahí yo
+
+[00:08:41]
+identifico toda esta zona como mi último
+
+[00:08:43]
+fractal inmediato donde voy a estar
+
+[00:08:45]
+refinando h1 ya un fractal alineado El
+
+[00:08:48]
+Alfa me olvido de esto ya por qué me
+
+[00:08:50]
+olvido de eso Gustavo porque ya tenemos
+
+[00:08:53]
+estructuras alineadas aún así para mayor
+
+[00:08:58]
+confirmación yo lo que hice en vivo es
+
+[00:09:00]
+tomar la ruptura de esa estructura en
+
+[00:09:03]
+cuanto vi que el precio tomó la ruptura
+
+[00:09:05]
+de esa estructura pegó un pequeño mechaz
+
+[00:09:07]
+para abajo me monté a la alza para tener
+
+[00:09:11]
+mejor confirmación todavía pero ya a
+
+[00:09:13]
+partir de aquí de este retroceso que el
+
+[00:09:14]
+precio falló aquí ya teníamos un
+
+[00:09:17]
+contexto alcista a partir de aquí yo
+
+[00:09:20]
+puse mi posición larga aún así que yo me
+
+[00:09:22]
+preferí estar un poquito más confirmado
+
+[00:09:24]
+me protegía de este mínimo importante y
+
+[00:09:28]
+me tomé una entrada a este nuevo High
+
+[00:09:30]
+más o menos yo tomé por aquí un poquito
+
+[00:09:32]
+más arriba de ese nuevo High y tomé una
+
+[00:09:35]
+posición en swing Gustavo quise haber
+
+[00:09:38]
+refinado un poco más y este y quiero
+
+[00:09:41]
+tener un ratio más grande un 1 a se un 1
+
+[00:09:44]
+a c Cómo hago pues tienes que refinar un
+
+[00:09:46]
+poquito más o haber entrado en el punto
+
+[00:09:48]
+de entrada un poquito más riesgoso
+
+[00:09:50]
+haberte protegido a lo mejor por aquí
+
+[00:09:52]
+por de abajo y haber tenido una entrada
+
+[00:09:54]
+a este nuevo High o este nuevo High
+
+[00:09:56]
+Fíjate que aquí ya tenemos un poquito de
+
+[00:09:58]
+una entrada un poquito más al alza o
+
+[00:10:00]
+inclusive podrías haber dejado correr un
+
+[00:10:02]
+poquito más ya se pueden hacer
+
+[00:10:04]
+muchísimas cosas se pueden refinar 15
+
+[00:10:06]
+minutos también y en el punto entrada h1
+
+[00:10:10]
+entras pero yo no necesito complicarme
+
+[00:10:12]
+tanto para tomar entradas porque no
+
+[00:10:14]
+quiero estar ahí en ese gráfico tanto
+
+[00:10:16]
+tiempo cazando el punto exacto de
+
+[00:10:18]
+entrada entonces por eso es que lo hago
+
+[00:10:20]
+de esta manera pero fíjense que esta
+
+[00:10:22]
+posición que tomamos en ftmo eh nos
+
+[00:10:25]
+llevó a pasar el challenge de ftmo por
+
+[00:10:28]
+aquí fue un cubriéndolos aquí y esta
+
+[00:10:32]
+simple entrada en swing es la que nos
+
+[00:10:33]
+llevó a tomar eh a ganar ese ftmo
+
+[00:10:36]
+challenge Entonces está bastante bien
+
+[00:10:38]
+Bueno chicos Yo espero que les haya
+
+[00:10:40]
+ayudado les haya servido cada uno de los
+
+[00:10:42]
+consejitos que les di para poder hacer
+
+[00:10:44]
+swing De todas manera si tienes
+
+[00:10:45]
+bastantes dudas me los puedes dejar en
+
+[00:10:47]
+los comentarios si no entendiste algo o
+
+[00:10:50]
+lo que sea me puedes escribir a Gustavo
+
+[00:10:53]
+Trader en instagram Mándame un mensaje
+
+[00:10:55]
+también a WhatsApp si deseas una
+
+[00:10:57]
+mentoría personalizada y nos vamos a
+
+[00:10:59]
+estar viendo en un siguiente video adiós
+```

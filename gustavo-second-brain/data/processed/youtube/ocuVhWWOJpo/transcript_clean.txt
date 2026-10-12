@@ -1,0 +1,1634 @@
+[00:00:00]
+tipos de entradas con CRT. Me lo habían
+
+[00:00:02]
+estado pidiendo muchísimo. Entonces, ya
+
+[00:00:05]
+estamos aquí con este video. En este
+
+[00:00:07]
+video vas a aprender cómo estos tres
+
+[00:00:10]
+tipos de entradas diferentes para poder
+
+[00:00:13]
+entrar con CRT. Entonces, no te lo
+
+[00:00:16]
+pierdas y recuerda que puedes
+
+[00:00:18]
+suscribirte a este bello y hermoso
+
+[00:00:20]
+canal, darle me gusta. Aparte de abajo
+
+[00:00:22]
+en la descripción vas a tener todas mis
+
+[00:00:24]
+redes sociales, Instagram, grupos de
+
+[00:00:26]
+Telegram, grupo de WhatsApp para que te
+
+[00:00:28]
+unas. La primer tipo de entrada que yo
+
+[00:00:31]
+considero una de las entradas
+
+[00:00:34]
+elegantes para poder entrar al mercado
+
+[00:00:36]
+con CRT es en el turtle sub o toma de
+
+[00:00:39]
+rango. Muchos le llaman turtle sub,
+
+[00:00:41]
+Swift, toma de liquidez, etcétera,
+
+[00:00:43]
+etcétera. Entonces, según la vela que yo
+
+[00:00:45]
+estemos tradiando, vamos a entrar
+
+[00:00:47]
+nosotros exactamente cuando el precio
+
+[00:00:48]
+toma la liquidez. Obviamente aquí no
+
+[00:00:51]
+estamos hablando del vallas ni ni nada
+
+[00:00:53]
+por el estilo. Si quieren saber, muchos
+
+[00:00:55]
+también me preguntan sobre el vallas, si
+
+[00:00:57]
+quieren que les haga un video sobre el
+
+[00:00:59]
+vallas, cómo detectar la dirección del
+
+[00:01:00]
+mercado usando CRT, abajo en la
+
+[00:01:03]
+descripción ya saben, muchos, muchos,
+
+[00:01:05]
+muchos comentarios. Quiero el video del
+
+[00:01:07]
+Vallas, Gustavo. Tienen que exigírmelo
+
+[00:01:09]
+en los comentarios. Si no, no, yo no
+
+[00:01:10]
+traigo videos nuevos. Entonces, eh,
+
+[00:01:12]
+ahorita no estamos hablando del Vallas,
+
+[00:01:14]
+solamente estamos hablando de tipos de
+
+[00:01:16]
+entrada. Entonces, el tipo de entrada va
+
+[00:01:17]
+a ser exactamente cuando el precio toma
+
+[00:01:20]
+la liquidez
+
+[00:01:22]
+de la vela anterior. Ahí es cuando vamos
+
+[00:01:24]
+a entrar nosotros. Y Gustavo, ¿cómo
+
+[00:01:26]
+sabemos que el precio no nos va a sacar?
+
+[00:01:28]
+Pues tenemos que tener nuestras vallas
+
+[00:01:29]
+bien. En principio, nosotros lo que
+
+[00:01:32]
+hacemos es primer poner primero entrar
+
+[00:01:34]
+ahí y luego poner fijar nuestro target.
+
+[00:01:36]
+Supongamos que nuestro target es esta
+
+[00:01:40]
+este rango de 4 horas, ¿no? Este mínimo
+
+[00:01:42]
+de 4 horas. Ahí ponemos nuestro TP y
+
+[00:01:44]
+luego ya modulamos nuestro stop loss.
+
+[00:01:48]
+Stoploss ciego, lo que se llama un
+
+[00:01:49]
+stoploss ciego. A más o menos uno a
+
+[00:01:51]
+tres, uno a dos, ya se los puedo dejar a
+
+[00:01:54]
+su gusto. Yo en el Nasdaq ejecuto uno a
+
+[00:01:56]
+cuatro, pero ya cada uno lo voy a dejar
+
+[00:01:58]
+a su gusto. Entonces yo entraría en el
+
+[00:02:00]
+turtle sub o en la toma de rango. Según
+
+[00:02:03]
+tipo, segundo tipo de entrada. Ojo, esto
+
+[00:02:06]
+es la teoría. Ahorita vamos a ir a la
+
+[00:02:07]
+práctica. Les voy a explicar ejemplos de
+
+[00:02:09]
+cada uno. Lo hice solo para ventas, pero
+
+[00:02:11]
+para compras sería lo mismo, pero al
+
+[00:02:13]
+contrario, ¿no? Sería lo mismo, pero al
+
+[00:02:15]
+revés, ¿no? Pero también funciona.
+
+[00:02:17]
+Compras y ventas es totalmente lo mismo.
+
+[00:02:19]
+Entonces, segundo tipo de entrada. El
+
+[00:02:23]
+segundo tipo de entrada va a estar en la
+
+[00:02:24]
+resistencia o soporte institucional.
+
+[00:02:28]
+¿Qué significa esto? Para resistencia y
+
+[00:02:30]
+soporte institucional tenemos qué es la
+
+[00:02:32]
+resistencia o soporte institucional.
+
+[00:02:34]
+Este video está patrocinado por Fund
+
+[00:02:36]
+Next, una de las empresas más top en
+
+[00:02:38]
+empresas de fondeo. Y abajo en la
+
+[00:02:40]
+descripción vas a tener mi link para que
+
+[00:02:41]
+te puedas registrar en esta maravillosa
+
+[00:02:43]
+empresa y también vas a tener mi código
+
+[00:02:46]
+que te ofrecen el 120%
+
+[00:02:49]
+de lo que pagues por un Challenger. Ya
+
+[00:02:51]
+te devuelven ellos. Eh, digamos que si
+
+[00:02:53]
+tú pagaste $300 por una cuenta de
+
+[00:02:55]
+50,000, te van a devolver con mi código
+
+[00:02:58]
+un 120% de eso de todo lo que pagaste.
+
+[00:03:02]
+Además que tienen CFDs y futuros,
+
+[00:03:03]
+también tienes descuento para CFDs con
+
+[00:03:05]
+mi código y además este me encanta mucho
+
+[00:03:09]
+esta empresa porque eh tienen diferentes
+
+[00:03:11]
+tipos de cuentas. Yo la que más me gusta
+
+[00:03:13]
+es la Stellar de dos pasos, pero cierto
+
+[00:03:16]
+que tienen fondeo instantáneo, la
+
+[00:03:18]
+Stellar Light, la Stellar de un solo
+
+[00:03:20]
+paso y la Stellar de dos pasos.
+
+[00:03:22]
+Igualmente, próximamente en mi canal
+
+[00:03:23]
+haré una revisión exclusiva de esta
+
+[00:03:26]
+empresa, pero me encanta muchísimo y yo
+
+[00:03:28]
+la cuenta que les recomendaría comprar
+
+[00:03:30]
+sería la de $50,000, la Stelar de dos
+
+[00:03:33]
+pasos y aparte que te regresan el 15% de
+
+[00:03:36]
+los beneficios, cosa que ninguna empresa
+
+[00:03:38]
+en el mercado está haciendo y eso me
+
+[00:03:40]
+encanta mucho porque desde la fase de
+
+[00:03:42]
+desafío ya te van a poder estar pagando,
+
+[00:03:45]
+cosa que ninguna empresa lo hace. Fíjate
+
+[00:03:47]
+que por una cuenta de $50,000 podrían
+
+[00:03:49]
+estarte pagando hasta $975,
+
+[00:03:52]
+cosa que en ninguna empresa vas a ver
+
+[00:03:54]
+eso. Aparte tienen este ellos la promesa
+
+[00:03:57]
+de que si no te llega tu pago, tu retiro
+
+[00:03:59]
+en menos de 24 horas, te van a dar un
+
+[00:04:01]
+bono de $1,000. Estos hay un algo
+
+[00:04:04]
+maravilloso para Fund Next. Tienen
+
+[00:04:06]
+diferentes formas de retiro, diferentes
+
+[00:04:08]
+formas de pago. Eh, están en Metatrader
+
+[00:04:11]
+5, Metatrader 4, entonces tienen todas
+
+[00:04:13]
+las plataformas. Eh, sin duda Funded
+
+[00:04:16]
+Next es una de las empresas más top en
+
+[00:04:18]
+Fondeo y estoy muy orgulloso de
+
+[00:04:20]
+colaborar con todos ellos. Entonces,
+
+[00:04:22]
+vayan abajo en la descripción está mi
+
+[00:04:24]
+link en el comentario fijado para que se
+
+[00:04:26]
+puedan registrar y también está mi
+
+[00:04:28]
+código para que lo puedan usar en Funded
+
+[00:04:30]
+Next. Y próximamente sacaremos un montón
+
+[00:04:33]
+también de sorteos y demás sorpresas que
+
+[00:04:35]
+se vienen en colaboración con Funden
+
+[00:04:37]
+Next. Le doy gracias a Fund Next por
+
+[00:04:39]
+patrocinar este video y vamos allá. es
+
+[00:04:43]
+cuando el precio viene, genera una toma
+
+[00:04:45]
+de liquidez, el precio baja, todo el
+
+[00:04:48]
+mundo estaba viendo esta zona como un
+
+[00:04:49]
+soporte, perdón, una resistencia en el
+
+[00:04:52]
+caso sea. Entonces el precio saca la
+
+[00:04:55]
+liquidez y después el algoritmo va a
+
+[00:04:58]
+regresar a esa misma zona donde había la
+
+[00:05:00]
+resistencia que previamente fue sacada y
+
+[00:05:02]
+lo va a recordar como una zona de
+
+[00:05:05]
+resistencia. Ahora sí es como que era
+
+[00:05:06]
+resistencia para el retail, después el
+
+[00:05:08]
+precio lo saca y ahora se convierte de
+
+[00:05:10]
+nuevo en una resistencia o soporte. Es
+
+[00:05:13]
+un patrón así, saca la liquidez, el
+
+[00:05:15]
+precio del soporte y luego después el
+
+[00:05:17]
+precio regresa y lo recuerda como un
+
+[00:05:20]
+soporte. Esto esto es la forma o segunda
+
+[00:05:22]
+forma de entrar que va a ser en la
+
+[00:05:24]
+resistencia o soporte institucional.
+
+[00:05:26]
+Como aquí vemos, el precio saca la
+
+[00:05:28]
+liquidez del máximo eh previo y luego
+
+[00:05:32]
+después el precio retrocede y cuando
+
+[00:05:34]
+regresa va a regresar a la resistencia
+
+[00:05:37]
+institucional. Esto sería nuestro
+
+[00:05:39]
+segundo tipo de entrada. Entonces ahora
+
+[00:05:41]
+vamos a ver otro nuestro tercer tipo de
+
+[00:05:44]
+entrada. ¿Cuál sería nuestro tercer tipo
+
+[00:05:45]
+de entrada? Nuestro tercer tipo de
+
+[00:05:47]
+entrada va a ser por confirmación en
+
+[00:05:50]
+lower time frame o en una temporalidad
+
+[00:05:52]
+más baja con un cambio estructural o va
+
+[00:05:55]
+a ser también con la generación de un
+
+[00:05:56]
+order block o imbalance. Si ustedes
+
+[00:06:00]
+quieren order block o imbalance, cuando
+
+[00:06:02]
+el precio genera un order block o
+
+[00:06:03]
+imbalance de la temporalidad menor, ahí
+
+[00:06:05]
+estaríamos nosotros entrando. Si entran
+
+[00:06:08]
+cuando genera un order block, pues más o
+
+[00:06:10]
+menos sería de esta forma, ¿no? Genera
+
+[00:06:11]
+el precio el order block o el imbalance
+
+[00:06:14]
+y ahí pueden entrar también de este
+
+[00:06:16]
+lado, eh, es cuando el precio, en este
+
+[00:06:19]
+caso, rompe la estructura y genera un
+
+[00:06:22]
+retroceso. Ahí sería la otra entrada.
+
+[00:06:24]
+Entonces, en teoría, serían tres tipos
+
+[00:06:26]
+de entradas super básicos para poder
+
+[00:06:28]
+entrar con CRT. y poder confirmar sus
+
+[00:06:31]
+entradas. Ahora, en la siguiente parte
+
+[00:06:33]
+de este video vamos a ir a ver ejemplos
+
+[00:06:35]
+prácticos en el mercado para que ustedes
+
+[00:06:38]
+vayan poderlo lo vayan poder practicar y
+
+[00:06:41]
+lo puedan implementar en su operativa.
+
+[00:06:43]
+De hecho, hoy estuvimos entrando con CRT
+
+[00:06:46]
+y precisamente esa entrada de de hoy me
+
+[00:06:48]
+viene bien para explicarles los tipos de
+
+[00:06:50]
+entrada. Entonces, vamos allá con
+
+[00:06:52]
+ejemplos. Bueno, chicos, aquí estamos en
+
+[00:06:54]
+la segunda parte del video, que es los
+
+[00:06:56]
+vamos a ver ejemplos prácticos de los
+
+[00:06:57]
+tipos de entrada. Esta vez les voy a
+
+[00:06:59]
+tener una una explicación con esta toma
+
+[00:07:02]
+de liquidez diaria o esta toma de rango
+
+[00:07:05]
+diario que vimos el día de hoy. Si nos
+
+[00:07:07]
+vamos a nuestro gráfico diario, fíjense
+
+[00:07:10]
+que tomamos el alto anterior y este alto
+
+[00:07:13]
+anterior de la vela de un día. Esta
+
+[00:07:15]
+sería nuestro primer, podríamos decir,
+
+[00:07:18]
+análisis que nos ayuda, pero nosotros
+
+[00:07:20]
+vamos a ver exactamente la entrada, es
+
+[00:07:21]
+lo que queremos ver. Eh, nosotros
+
+[00:07:23]
+tomaríamos una entrada cuando el precio
+
+[00:07:26]
+toma la vela de 4 horas anterior,
+
+[00:07:29]
+entonces nosotros tomaríamos exactamente
+
+[00:07:31]
+en el turtle sub. Pero es bien
+
+[00:07:33]
+importante, por ejemplo, en este índice
+
+[00:07:35]
+que es el índice americano, entrar
+
+[00:07:38]
+cuando es la apertura o muy cercas de la
+
+[00:07:40]
+apertura de la sesión de lo que es Nueva
+
+[00:07:43]
+York, que aquí sería las 9:30 de la
+
+[00:07:46]
+mañana, horario de Nueva York. Estamos
+
+[00:07:49]
+en hora Nueva York o entonces nosotros
+
+[00:07:50]
+entraríamos cercas una o dos vel de las
+
+[00:07:54]
+anteriores o eh cuando veamos el Turtle
+
+[00:07:56]
+Shop justo en esa hora. En mi caso, esta
+
+[00:07:58]
+entrada es una entrada que yo ejecuté el
+
+[00:08:00]
+día de hoy y se dio bastante bien. Se
+
+[00:08:02]
+las puse por Telegram, por mi Instagram,
+
+[00:08:04]
+por por ahí se las puse por los grupos.
+
+[00:08:07]
+Eh, deben de seguirme por allá porque si
+
+[00:08:09]
+no no se enteraron, se se están
+
+[00:08:11]
+perdiendo cositas. Este, entonces
+
+[00:08:14]
+tomamos el alto de la vela de 4 horas.
+
+[00:08:17]
+Entonces nosotros entraríamos en el
+
+[00:08:19]
+Turtleop. Digamos que nuestra entrada
+
+[00:08:21]
+sería ahí en el Turtleop. Eh, entramos
+
+[00:08:25]
+en posición corta aquí. Gustavo, ¿y cómo
+
+[00:08:29]
+pongo el stop loss o cómo hago? Bueno,
+
+[00:08:31]
+si nosotros teníamos en 4 horas el
+
+[00:08:33]
+target, que era esa vela de 4 horas, ahí
+
+[00:08:36]
+más o menos ponemos nuestro target. Esta
+
+[00:08:38]
+entrada por por turtle o por toma de
+
+[00:08:41]
+liquidez es una entrada que es más
+
+[00:08:44]
+agresiva, pero busca entrar exactamente
+
+[00:08:47]
+las partes más altas. Simplemente
+
+[00:08:49]
+nosotros sin tener confirmaciones
+
+[00:08:51]
+adicionales en cuanto el precio toma la
+
+[00:08:53]
+liquidez, estamos cercas de nuestro
+
+[00:08:55]
+horario, podemos entrar de esta manera.
+
+[00:08:58]
+Obviamente tú tienes que tener el bias y
+
+[00:08:59]
+la dirección a tu favor y luego después
+
+[00:09:02]
+vas a poner el stop loss ciego más o
+
+[00:09:04]
+menos a uno a tres o puedes ponerlo a
+
+[00:09:07]
+uno a dos inclusive si quieres tener un
+
+[00:09:09]
+stoploss más holgado. Fíjense que a un a
+
+[00:09:11]
+tres stoploss ciego, entramos en el
+
+[00:09:13]
+turtle. Pueden incluso poner órdenes
+
+[00:09:16]
+limitar a mercado, como ustedes quieran.
+
+[00:09:18]
+Siempre vamos a fijar objetivos de 4
+
+[00:09:20]
+horas. 4 horas. O pueden ser objetivos
+
+[00:09:23]
+diarios si tienen un objetivo diario muy
+
+[00:09:25]
+cercas o pueden ser objetivos de 3
+
+[00:09:27]
+horas. Por ejemplo, si nosotros fijamos
+
+[00:09:29]
+objetivos de 3 horas podría ser incluso
+
+[00:09:31]
+hasta acá. O nos podemos esperar a, si
+
+[00:09:34]
+es una vela grande que nos da el RR, nos
+
+[00:09:37]
+podemos esperar a la salida basada en
+
+[00:09:39]
+tiempo, que después incluso les podré
+
+[00:09:41]
+hacer un video hablando sobre salidas
+
+[00:09:43]
+basadas en tiempo, pero básicamente
+
+[00:09:45]
+sería esto. Aquí nos podríamos salir una
+
+[00:09:48]
+vez que el precio tomó el load de la
+
+[00:09:50]
+vela anterior o podríamos fijar un
+
+[00:09:52]
+objetivo un poco ciego, que sería más o
+
+[00:09:55]
+menos podríamos fijar este objetivo ahí
+
+[00:09:58]
+y nosotros poner un stop loss ciego de
+
+[00:10:01]
+esta manera. Entonces la entrada sería
+
+[00:10:02]
+en el turtle. Cierto que la hora para
+
+[00:10:05]
+hacer sesión de Nueva York, cierto que
+
+[00:10:07]
+la hora es buena. Fíjense, 8 de la
+
+[00:10:10]
+mañana, horario de Nueva York, es un
+
+[00:10:12]
+poquito antes de lo recomendable, pero
+
+[00:10:15]
+igualmente está bien. Está bien porque
+
+[00:10:17]
+está bien porque eh está bien. Es en el
+
+[00:10:20]
+Turtle. Exactamente. Entonces, la
+
+[00:10:22]
+entrada cumple con el criterio de entrar
+
+[00:10:24]
+en el Turtle o en la sopa de tortuga, en
+
+[00:10:26]
+la toma de liquidez. Exactamente. Ahí se
+
+[00:10:28]
+entra con order limit pendientes, stop
+
+[00:10:31]
+loss ciego, según el target que nosotros
+
+[00:10:33]
+tengamos, verad. Primer tipo de entrada
+
+[00:10:35]
+cubierto. Ahora, en esta misma entrada
+
+[00:10:37]
+se da otro tipo de entrada que va a ser
+
+[00:10:39]
+en la resistencia institucional. Si
+
+[00:10:42]
+nosotros nos vamos a ver acá,
+
+[00:10:44]
+acuérdense que les había dicho en la
+
+[00:10:46]
+resistencia institucional, fíjense que
+
+[00:10:48]
+nosotros tenemos teníamos una especie de
+
+[00:10:51]
+resistencia de este lado, ese alto, este
+
+[00:10:55]
+alto de acá. Y fíjense como el precio lo
+
+[00:10:58]
+que vino a hacer es generar el máximo,
+
+[00:11:00]
+el mínimo genera como este tipo de
+
+[00:11:02]
+resistencia, lo saca aquí. hace como un
+
+[00:11:04]
+piquito que lo saca. Este piquito lo
+
+[00:11:06]
+saca aquí y ya genera la ruptura y
+
+[00:11:09]
+fíjense como el precio va a volver a
+
+[00:11:11]
+regresar cercas de la resistencia
+
+[00:11:13]
+institucional. Entonces este sería
+
+[00:11:16]
+nuestra segundo tipo de entrada. No es
+
+[00:11:19]
+necesario que sean tan asertivos y que
+
+[00:11:21]
+exactamente ahí, pero muy cercas de la
+
+[00:11:23]
+resistencia es donde nosotros vamos a
+
+[00:11:26]
+estar entrando. Posición corta por aquí,
+
+[00:11:29]
+fíjense. La voy a poner a una entrada
+
+[00:11:31]
+realista donde no puede ser que no
+
+[00:11:32]
+entremos tan perfecto ahí más o menos y
+
+[00:11:35]
+nos protegemos por encima. Igual de
+
+[00:11:37]
+nuevo podemos hacer lo mismo del stopl
+
+[00:11:39]
+ciego más o menos aquí a tomar esa
+
+[00:11:41]
+liquidez y luego hacemos stop los ciego
+
+[00:11:43]
+a que nos dé un uno a tres o un a dos.
+
+[00:11:46]
+Fíjense que aquí nos da perfectamente el
+
+[00:11:48]
+uno a tres cercas o en la resistencia
+
+[00:11:50]
+institucional. Recuerden el patrón, aquí
+
+[00:11:53]
+estamos hablando del patrón para que
+
+[00:11:54]
+quede bien claro. Viene como el precio,
+
+[00:11:57]
+genera una especie de resistencia, luego
+
+[00:11:59]
+lo saca y luego el precio había generado
+
+[00:12:01]
+esta zona de resistencia. Cuando el
+
+[00:12:03]
+precio se acerque de nuevo a esta área,
+
+[00:12:05]
+es donde nosotros entraríamos en nuestra
+
+[00:12:07]
+posición corta. Stop loss ciego. De
+
+[00:12:10]
+acuerdo a nuestro objetivo. Primero
+
+[00:12:11]
+nuestro objetivo y luego el stopl ciego
+
+[00:12:13]
+lo podemos equilibrar. ¿Listo? Sí se
+
+[00:12:15]
+entiende o no se entiende. Yo espero que
+
+[00:12:17]
+sí se entienda. Si no, me pueden dejar
+
+[00:12:18]
+sus dudas en los comentarios. Este sería
+
+[00:12:20]
+nuestra segunda tipo de entrada. Ahora,
+
+[00:12:23]
+nuestro tercer tipo de entrada va a ser
+
+[00:12:24]
+por cambio estructural. Hay veces que el
+
+[00:12:27]
+precio no da buenas confirmaciones
+
+[00:12:29]
+estructurales, pero en este caso sí.
+
+[00:12:31]
+Fíjense que muchas de las veces también
+
+[00:12:32]
+las entradas van a coincidir. Se
+
+[00:12:34]
+parecen, se parecen mucho, pero hay
+
+[00:12:36]
+veces que no. Por eso es importante que
+
+[00:12:39]
+ustedes hagan su debido back testing y
+
+[00:12:41]
+si quieren que haga más back testing, yo
+
+[00:12:43]
+ya hice mucho back testing, pero quieren
+
+[00:12:45]
+que haga más back testing en el canal de
+
+[00:12:47]
+los tipos de entrada ahora pueden
+
+[00:12:49]
+dejarme en los comentarios si quieren.
+
+[00:12:51]
+Yo encantado de traerles más videos
+
+[00:12:53]
+sobre CRT. Y bueno, aquí, ¿qué teníamos?
+
+[00:12:56]
+una estructura, cambio estructural,
+
+[00:12:58]
+tenemos un punto alto, un punto mínimo,
+
+[00:12:59]
+un punto mínimo, un punto alto, un punto
+
+[00:13:01]
+mínimo. Fíjense que aquí genera cambio
+
+[00:13:03]
+estructural a mi punto de vista o bajos
+
+[00:13:06]
+iguales. Igual está bien. Y luego,
+
+[00:13:08]
+fíjense cómo genera un nuevo retroceso,
+
+[00:13:10]
+que lo que hace es generar una ruptura
+
+[00:13:12]
+de estructura y el precio hace un eh
+
+[00:13:16]
+regreso de esa estructura y ahí mismo
+
+[00:13:18]
+podríamos estar entrando. Fíjate,
+
+[00:13:20]
+Gustavo, me coincide con la entrada en
+
+[00:13:24]
+la resistencia institucional. Sí te
+
+[00:13:27]
+coincide. Este es el caso que coincide,
+
+[00:13:28]
+pero no siempre coincide. Hay veces que,
+
+[00:13:30]
+por ejemplo, el retroceso eh va, por
+
+[00:13:33]
+ejemplo, aquí no va a romper el precio,
+
+[00:13:35]
+el precio va a regresar aquí, que es la
+
+[00:13:37]
+la resistencia institucional y luego
+
+[00:13:39]
+después el precio va a ser esto de aquí,
+
+[00:13:41]
+va a volver a ser así esto y ahí tú
+
+[00:13:44]
+puedes llegar a entrar. O sea, que no
+
+[00:13:45]
+siempre te va a coincidir. Hay veces que
+
+[00:13:47]
+vamos a tener exactamente este patrón,
+
+[00:13:49]
+¿no? El precio no rompe aquí, regresa a
+
+[00:13:52]
+la resistencia institucional, hace este
+
+[00:13:53]
+tipo de movimiento que ahora sí rompe la
+
+[00:13:55]
+estructura, regresa y ahí nosotros
+
+[00:13:58]
+podríamos estar ejecutando una entrada.
+
+[00:14:00]
+También les había dicho que por la
+
+[00:14:01]
+formación de un order block en nosotros
+
+[00:14:05]
+en nuestro 15 minutos, en nuestra
+
+[00:14:07]
+temporalidad, sí, nuestra temporalidad
+
+[00:14:09]
+de 15 minutos o nuestra temporalidad de
+
+[00:14:11]
+cinco, fíjense, 15 o cinco, también
+
+[00:14:13]
+nosotros vamos a estar viendo cuándo se
+
+[00:14:15]
+forme el order block. En este caso, a mí
+
+[00:14:17]
+me gusta que se forme un order block con
+
+[00:14:19]
+imbalance, pero ustedes pueden esperar a
+
+[00:14:22]
+que sea un No, no puede cumplir
+
+[00:14:25]
+exactamente, no tiene que ser un order
+
+[00:14:27]
+block con imbalance, pero a mí me gusta
+
+[00:14:29]
+muchísimo que sea un order block con
+
+[00:14:31]
+imbalance. Ya los voy a dejar a su
+
+[00:14:34]
+gusto, a su criterio de cada uno si
+
+[00:14:36]
+quieren que sea con imbalance o no
+
+[00:14:38]
+quieren que sea con imbalance. El chiste
+
+[00:14:40]
+que en 15 minutos más o menos se crea el
+
+[00:14:42]
+order block y en la creación del order
+
+[00:14:45]
+block podemos entrar. Fíjense que vengo
+
+[00:14:47]
+esta vela, el precio saca esta vela y
+
+[00:14:50]
+cuando hace la segunda vela de 15
+
+[00:14:52]
+minutos, fíjense esta vela, esta segunda
+
+[00:14:54]
+vela, cierra esta vela, se crea el order
+
+[00:14:56]
+block con imbalance. Ahí nosotros
+
+[00:14:58]
+podemos ejecutar una entrada. Entonces
+
+[00:15:00]
+sería posición corta. ¿Cuándo cierra la
+
+[00:15:03]
+vela? Más o menos por aquí abre la vela
+
+[00:15:05]
+y aquí ejecutamos una entrada. Gustavo
+
+[00:15:08]
+también cuando regresa regresa al order
+
+[00:15:10]
+block también lo podemos usar como
+
+[00:15:12]
+confluencias para nosotros poder
+
+[00:15:14]
+ejecutar entradas. Fíjense que aquí les
+
+[00:15:16]
+estoy dando bastantes tips para que
+
+[00:15:18]
+ustedes aprendan a entrar con CRT. Stop
+
+[00:15:22]
+los ciego. Un a tres y ahí sería nuestra
+
+[00:15:25]
+entrada. De hecho, yo entré muy
+
+[00:15:27]
+parecido. Yo entré algo tal que así, no
+
+[00:15:29]
+más que yo fui un poquito más abajo, fui
+
+[00:15:32]
+por aquí y este fue mi entrada del día
+
+[00:15:35]
+de hoy, pero a mí me gusta uno a cuatro.
+
+[00:15:37]
+Así fue mi entrada aproximadamente el
+
+[00:15:39]
+día de hoy. Así fue mi entrada. Fue
+
+[00:15:40]
+perfecta. La pueden ver en mi Instagram,
+
+[00:15:43]
+en mi Telegram, mi grupo de WhatsApp,
+
+[00:15:45]
+etcétera, etcétera. Por último, les
+
+[00:15:47]
+mostraré un par de ejemplos ahora a la
+
+[00:15:49]
+alza para que ustedes tengan un video
+
+[00:15:51]
+super completo. Bueno, chicos, les
+
+[00:15:52]
+mostraré un par de ejemplos en el USD y
+
+[00:15:56]
+japonés. Recuerden que esta estrategia
+
+[00:15:59]
+funciona para cualquier par. Yo la uso
+
+[00:16:01]
+en Nasdaq porque es el mi par favorito,
+
+[00:16:03]
+pero también la pueden usar para pares
+
+[00:16:04]
+de Forex. Si quieren que saque videos
+
+[00:16:06]
+específicos sobre pares de Forex, lo
+
+[00:16:09]
+puedo hacer, pero déjenme los
+
+[00:16:11]
+comentarios, dejen muchos, muchos
+
+[00:16:13]
+comentarios. Entonces, bueno, vamos a
+
+[00:16:15]
+explicarles esta entrada en el Turtle
+
+[00:16:17]
+Shop. Fíjense que a la alza sería lo
+
+[00:16:19]
+mismo. También sería la misma dinámica,
+
+[00:16:21]
+por ejemplo, aquí o también sería la
+
+[00:16:23]
+misma dinámica, por ejemplo, aquí.
+
+[00:16:25]
+Entonces vamos a ver entradas a la alza
+
+[00:16:28]
+con Turtle up. Entonces nosotros no es
+
+[00:16:31]
+necesario que nos bajemos de
+
+[00:16:32]
+temporalidad, pero si quieren se pueden
+
+[00:16:33]
+bajar de temporalidad para que lo vean
+
+[00:16:35]
+mejor. Fíjense que tomamos el alto de la
+
+[00:16:37]
+vela de 4 horas y ahí nos montamos en el
+
+[00:16:39]
+Turtle. En cuanto hace el turtle sub,
+
+[00:16:42]
+obviamente aquí pueden tener
+
+[00:16:43]
+confluencias de horario. Fíjense, vela
+
+[00:16:45]
+de las tres, pero bueno, ya tú sabes,
+
+[00:16:47]
+ahí te pueden ustedes tener
+
+[00:16:49]
+confluencias. y nos vamos a ir a buscar
+
+[00:16:51]
+nuestro target en una temporalidad
+
+[00:16:52]
+mayor. Fíjense que nuestro target en una
+
+[00:16:54]
+temporalidad mayor sería aquí. O pueden
+
+[00:16:56]
+esperar la salida basada en tiempo, que
+
+[00:16:57]
+la salida basada en tiempo era cuando el
+
+[00:16:59]
+precio tomó el alto de la vela anterior.
+
+[00:17:03]
+Ahí podría haber sido la salida. Yo lo
+
+[00:17:05]
+hubiera puesto ahí. Fíjense como en una
+
+[00:17:07]
+hora aquí, fíjense, hace el torel stop y
+
+[00:17:10]
+al ahí podemos regular nuestro stop.
+
+[00:17:12]
+Ponemos un stop l ciego de un a tres
+
+[00:17:16]
+aproximadamente. Fíjense que la salida
+
+[00:17:17]
+basada en tiempo fue esa. O atacamos
+
+[00:17:20]
+esos máximos ahí. Fíjense como nuestra
+
+[00:17:22]
+entrada nos queda bien preciosa y
+
+[00:17:23]
+hermosa. Exactamente. En el turtle sub.
+
+[00:17:25]
+Esta entrada de acá también, Gustavo.
+
+[00:17:27]
+Esta entrada también acá. Fíjense que
+
+[00:17:29]
+son tomas de liquidez de 4 horas, pero
+
+[00:17:30]
+ustedes lo pueden usar para cualquier
+
+[00:17:32]
+temporalidad. Funciona en todas las
+
+[00:17:34]
+temporalidades porque el mercado es
+
+[00:17:35]
+fractal. En este caso, como se nos
+
+[00:17:38]
+quedaba un poco el target, a veces se
+
+[00:17:39]
+nos queda un poquito chico, eh, pueden
+
+[00:17:42]
+esperar que la salida basada en tiempo,
+
+[00:17:44]
+pero igualmente con ese target, si
+
+[00:17:46]
+nosotros lo ajustamos al 1 a tres,
+
+[00:17:48]
+fíjate que en ningún momento nos saca.
+
+[00:17:50]
+Esto es entrando exactamente en el
+
+[00:17:51]
+turtle sub, sería el primer tipo de
+
+[00:17:54]
+entrada. Ahora, nosotros vamos a tratar
+
+[00:17:56]
+de entrar también como confluencia en la
+
+[00:17:59]
+resistencia institucional, soporte. En
+
+[00:18:02]
+este caso, nosotros vamos a ver soporte
+
+[00:18:03]
+en este caso, pero también va a
+
+[00:18:06]
+funcionar en resistencia. Fíjense como
+
+[00:18:08]
+nosotros hacemos un soporte aquí.
+
+[00:18:11]
+Fíjense como nosotros hacemos el turtle
+
+[00:18:13]
+top o la sopa de tortuga de tortilla,
+
+[00:18:15]
+dije yo en mi Instagram.
+
+[00:18:18]
+Luego después el precio regresa al eh
+
+[00:18:22]
+regresa muy muy cercas del soporte
+
+[00:18:25]
+institucional y ahí nosotros vamos a
+
+[00:18:27]
+estar ejecutando nuestra entrada.
+
+[00:18:28]
+Nuestra entrada más o menos sería tal
+
+[00:18:29]
+que así. Igual de nuevo ahora esta
+
+[00:18:32]
+entrada en el soporte institucional,
+
+[00:18:33]
+buscamos el mismo target y ponemos el
+
+[00:18:36]
+stoploss más o menos por aquí. Fíjense
+
+[00:18:38]
+que esta entrada busca entrar un poquito
+
+[00:18:40]
+más confirmado, no exactamente en el
+
+[00:18:42]
+Tortalle Shop. Hay veces que el precio
+
+[00:18:44]
+hace el Turtle Shop y no te da, no
+
+[00:18:46]
+regresa. Por eso es importante que
+
+[00:18:48]
+ustedes back testen este tipo de cosas
+
+[00:18:50]
+que les estoy diciendo. La segunda sería
+
+[00:18:52]
+por cambio estructural. Bueno, la tercer
+
+[00:18:54]
+tipo de entrada sería por cambio
+
+[00:18:56]
+estructural. En lower time frame puedes
+
+[00:18:58]
+esperarte 5 minutos, un minuto, lo que
+
+[00:19:01]
+tú lo que tú quieras, pero aquí con 5
+
+[00:19:03]
+minutos era totalmente bueno. Fíjate que
+
+[00:19:05]
+el precio tenía esta estructura bajista.
+
+[00:19:07]
+Genera un nuevo lower low, un nuevo
+
+[00:19:08]
+máximo, dos altos iguales, genera un
+
+[00:19:11]
+mínimo, genera un máximo, genera el
+
+[00:19:13]
+turtle sub y en el ya después de que
+
+[00:19:15]
+generó el turtle sub, esperaríamos el
+
+[00:19:17]
+cambio estructural. Viene el precio
+
+[00:19:19]
+aquí, viene por acá, rompe la estructura
+
+[00:19:22]
+y regresa aquí. Entonces, esa sería mi
+
+[00:19:25]
+confirmación con el cambio estructural,
+
+[00:19:28]
+más o menos por aquí. Y aquí igual de
+
+[00:19:30]
+nuevo fijo mi target. Mi target lo puedo
+
+[00:19:32]
+fijar aquí y puedo poner un stop loss
+
+[00:19:36]
+ciego, más o menos a uno a tres, un a
+
+[00:19:38]
+dos, como ustedes vean
+
+[00:19:40]
+por aquí, más o menos. Y ahí tendríamos
+
+[00:19:43]
+mi entrada por cambio estructural.
+
+[00:19:45]
+Fíjense que los tipos de los tres tipos
+
+[00:19:47]
+de entrada los estamos viendo acá en
+
+[00:19:49]
+estos ejemplos. Igualmente si tienen más
+
+[00:19:51]
+dudas me lo pueden dejar en los
+
+[00:19:53]
+comentarios. Y bueno, este yo creo que
+
+[00:19:56]
+vamos a dejar por aquí el video, si no
+
+[00:19:57]
+se me queda super largo. ¿Puedo sacar
+
+[00:20:00]
+más videos? Déjenme los comentarios si
+
+[00:20:01]
+algo no les quedó claro. Gustavo, quiero
+
+[00:20:03]
+que me enseñes más claro, más ejemplos,
+
+[00:20:05]
+quiero que hagas back testing, etcétera,
+
+[00:20:08]
+etcétera, y yo estaré haciéndolo e con
+
+[00:20:10]
+mucho gusto en los comentarios.
+
+[00:20:12]
+Recuerden ir a mentotrading.com.pro,
+
+[00:20:15]
+Pro, mentotrading.pro, su escuela de
+
+[00:20:18]
+trading y también seguirme en todas mis
+
+[00:20:19]
+redes sociales y nos vamos a estar
+
+[00:20:21]
+viendo en un siguiente video, cracks.

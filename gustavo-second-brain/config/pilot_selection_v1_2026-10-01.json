@@ -1,0 +1,19 @@
+{
+  "selected_at": "2026-10-01",
+  "criteria": "5 por canal, mezclando: mas antiguo, mas nuevo, mas corto, mas largo, y uno tematico (CRT/bias) para probar las preguntas del quality gate (FASE 20)",
+  "caption_check": "Verificado antes de correr el pipeline: los 10 videos tienen auto-captions en espanol via yt-dlp (ninguno tiene captions manuales). Esto significa transcript_source=yt_dlp_auto para los 10 -- el fallback a Whisper local NO se activa en este piloto, incluido el video de 4.5hs (1WHZ-01Ex0E), que de otro modo hubiera implicado varias horas de computo local.",
+  "videos": [
+    {"video_id": "C-2mSvrTclE", "channel": "canal_01", "reason": "mas antiguo del canal", "duration_sec": 905},
+    {"video_id": "bDVDNGW8IIE", "channel": "canal_01", "reason": "mas nuevo del canal, curso CRT", "duration_sec": 934},
+    {"video_id": "8T47dwd5tRg", "channel": "canal_01", "reason": "mas corto del canal", "duration_sec": 269},
+    {"video_id": "8gkp9CfRKE8", "channel": "canal_01", "reason": "mas largo del canal", "duration_sec": 2357},
+    {"video_id": "9s6He7I1wcs", "channel": "canal_01", "reason": "tematico: estrategia CRT / Will Street", "duration_sec": 1373},
+
+    {"video_id": "w57xloFfQaQ", "channel": "canal_02", "reason": "mas antiguo del canal (2022)", "duration_sec": 523},
+    {"video_id": "NFh9n5o7jqc", "channel": "canal_02", "reason": "mas nuevo del canal, scalping CRT", "duration_sec": 899},
+    {"video_id": "UuP9hQXkzj0", "channel": "canal_02", "reason": "mas corto de todo el catalogo (37s) -- caso borde", "duration_sec": 37},
+    {"video_id": "1WHZ-01Ex0E", "channel": "canal_02", "reason": "mas largo de todo el catalogo (4.5hs) -- stress test de Whisper local", "duration_sec": 16386},
+    {"video_id": "NeK0B7tN7ZM", "channel": "canal_02", "reason": "tematico: bias y DOL diario -- clave para las preguntas del quality gate", "duration_sec": 1385}
+  ],
+  "correction_note": "yafuaAeFgnI se habia asignado por error a canal_02 en la seleccion original; en realidad pertenece a canal_01 (MentoTrading), lo que dejaba el piloto 6/4 en vez de 5/5. Se retiro y se reemplazo por NeK0B7tN7ZM (bias/DOL diario, canal_02 real) para mantener el balance 5/5."
+}

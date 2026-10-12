@@ -1,0 +1,13 @@
+python-dotenv>=1.0
+requests>=2.31
+google-api-python-client>=2.120
+google-auth-oauthlib>=1.2
+google-auth-httplib2>=0.2
+yt-dlp[default,curl-cffi]>=2026.1.1
+faster-whisper>=1.0
+av<19  # faster-whisper 1.2.1 calls av.open(..., metadata_errors=...); av 19 dropped that kwarg
+sentence-transformers>=3.0
+PyYAML>=6.0
+tqdm>=4.66
+fastapi>=0.142
+uvicorn[standard]>=0.54

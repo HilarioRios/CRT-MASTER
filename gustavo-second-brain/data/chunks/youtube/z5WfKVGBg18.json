@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "YT_z5WfKVGBg18_001",
+    "video_id": "z5WfKVGBg18",
+    "start_sec": 0.0,
+    "end_sec": 120.16,
+    "text": "Hola Qué pasa a todos amigos estamos en un nuevo video esta vez módulo número cinco ya de nuestra mentoría gratuita 2024 estamos ya los últimos dos módulos por terminar esta vez la clase número uno que va a ser formas de hacer Back testing verdad entonces en esta clase vamos a estudiar o quiero enfocarme en Cuáles son las principales o las tres principales formas de hacer Back testing Para yo poder validar toda mi estrategia para poder validar todo lo que les he dicho a lo largo de toda esta mentoría verdad Entonces es bien importante chicos que usted ustedes sepan hacer Back testing de manera correcta para que puedan validar cada uno de los resultados que tenemos acá nosotros o de las formas de de estudiar el precio verdad Y para que ustedes también agarren confianza a la hora de estudiar estos mercados financieros a la hora de tener una estrategia sepan que lo que ustedes están haciendo funciona realmente verdad Entonces vamos a empezar con los puntos primero vamos air ir Qué es el Back testing Entonces el Back testing en trading es el proceso de evaluar una estrategia de trading utilizando datos históricos verad utilizando el gráfico pasado vamos a evaluar una estrategia de trading para determinar Cómo habría funcionado en el pasado Cómo Cuáles son los resultados que habríamos podido tener nosotros mediante este Back testing verdad este método permite a los trades probar la viabilidad de una estrategia antes de aplicarla en un mercado totalmente real verdad Entonces el Back testing implica los siguientes pasos primero Definir la estrategia bien importante tener una estrategia si no no le puedes hacer Back testing verdad Entonces tienes que tener una serie de pasos de reglas y parámetros de tu estrategia que quieres evaluar lo segundo que vamos a hacer es recopilar datos históricos obtener datos de precios volúmenes históricos del mercado en el que se planea operar horarios Dónde temporalidades donde los voy a analizar En qué pares lo voy a I",
+    "source_id": "YT_CANAL_02_z5WfKVGBg18",
+    "title": "EL 90% pierde en el trading, Por qué no hacen Backtesting l Clase 1 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=z5WfKVGBg18",
+    "deep_link": "https://www.youtube.com/watch?v=z5WfKVGBg18&t=0s"
+  },
+  {
+    "chunk_id": "YT_z5WfKVGBg18_002",
+    "video_id": "z5WfKVGBg18",
+    "start_sec": 107.8,
+    "end_sec": 228.84,
+    "text": "recopilar datos históricos obtener datos de precios volúmenes históricos del mercado en el que se planea operar horarios Dónde temporalidades donde los voy a analizar En qué pares lo voy a I ar bien importante tener ya bien en claro qué datos históricos quieres recopilar luego ya por último tercero tenemos la simulación que sería aplicar la estrategia a los datos históricos ejecutando operaciones como Si estuvieran realizando en tiempo real verad ya una vez eh la retrospectiva de las velas Pero hay otro tipo de Back testing también que yo le quiero enseñar el día de hoy que no solamente es así que me parece también bastante importante Entonces el número cuatro es evaluar los resultados analizar los resultados obtenidos de la simulación incluyendo métricas de rendimiento como la ganancia pérdida neta el ratio riesgo beneficio la tasa de aciertos El drw down entre otros o sea analizar Cómo hubiera podido salir con un ratio de una dos con un ratio de una un un ratio de una tres un ratio de una cuatro analizar qué gestión de riesgos mejor con cuánto draw down tiene tu estrategia analizar Cuántas veces falla tu estrategia seguidas Cuál es la racha máxima de seguidas de pérdida de tu estrategia todo estos tipo de datos y detalles lo tenemos que evaluar y tener resultados de ellos verdad el cinco ya vamos a tener ajustes y optimización ajustar la estrategia según los resultados del Back testing para mejorar su rendimiento Entonces el objetivo de esto del Back testing va a ser identificar si una estrategia tiene un potencial de ser rentable y evaluar su comportamiento eh bien importante entender bien Qué es el Back testing para qué se necesita y saber qué se tiene que hacer muchas personas quieren así usar una estrategia la primera y y luego luego en cuanto ve una estrategia en YouTube utilizarla y ya meterse con esa estrategia y empezar a operar y hacer una prueba de fondeo y se alocan y van así superrápido y es Cálmate tranquilízate evalúa tu estrategia bien escribe qué métricas tiene Cuánto gana cuánto pierde dónde es",
+    "source_id": "YT_CANAL_02_z5WfKVGBg18",
+    "title": "EL 90% pierde en el trading, Por qué no hacen Backtesting l Clase 1 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=z5WfKVGBg18",
+    "deep_link": "https://www.youtube.com/watch?v=z5WfKVGBg18&t=107s"
+  },
+  {
+    "chunk_id": "YT_z5WfKVGBg18_003",
+    "video_id": "z5WfKVGBg18",
+    "start_sec": 218.0,
+    "end_sec": 338.4,
+    "text": "se alocan y van así superrápido y es Cálmate tranquilízate evalúa tu estrategia bien escribe qué métricas tiene Cuánto gana cuánto pierde dónde es mejor dónde peor es mejor en un Mercado tendencial o es mejor en un mercado de Rango es mejor en un mercado este cíclico depende de eso entonces Entonces al tú tener todo este tipo de datos lo que consigues es ganar confianza en tu estrategia porque sabes que funciona y tener todos los datos de el comportamiento para cuando tu estrategia se esté comportando de una manera es saber que se está comportando de una manera normal porque tú ya tienes los datos muchas personas fallan y se ponen mal con sentimientos pero realmente no es que fallaste tú a lo mejor falló tu estrategia Pero simplemente como tú no tienes los datos históricos de eso pues entonces no no no sabes no sabes realmente y te pones triste porque tú crees que fallaste o perdiste pero realmente es que tu estrategia está fallando verdad Entonces Vámonos con los tipos de Back Back testing que yo utilizo lo vamos a poner en tres tipos el primero va a ser el tipo uno que es con retrospectiva Pero me gusta estar mirando la acción de precio en ningún momento está oculta este tipo solo uso para analizar mejoras y fallos de diversos escenarios o ajustes de la estrategia o sea que con el gráfico abierto sin regresar las velas para atrás sin esconder nada simplemente lo que hago es ir en el tiempo hacia atrás pero no muevo las velas hacia atrás simplemente voy observando cada punto del del precio verdad esto para qué me sirve me sirve para analizar porque qu el precio reacciona en una situación reacciona en una zona reacciona en otra zona porque se regresa porque eh llega el 1o a uno y se va etcétera etcétera entonces me sirve mucho para un análisis crítico de mi estrategia más que nada el tipo dos es la más clásica que es la retrospectiva de las velas o sea ahora",
+    "source_id": "YT_CANAL_02_z5WfKVGBg18",
+    "title": "EL 90% pierde en el trading, Por qué no hacen Backtesting l Clase 1 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=z5WfKVGBg18",
+    "deep_link": "https://www.youtube.com/watch?v=z5WfKVGBg18&t=218s"
+  },
+  {
+    "chunk_id": "YT_z5WfKVGBg18_004",
+    "video_id": "z5WfKVGBg18",
+    "start_sec": 326.2,
+    "end_sec": 447.2,
+    "text": "el 1o a uno y se va etcétera etcétera entonces me sirve mucho para un análisis crítico de mi estrategia más que nada el tipo dos es la más clásica que es la retrospectiva de las velas o sea ahora sí aquí lo que hago es echar las velas para atrás verad le hago para atrás lo pueden usar ustedes en FX Replay o en trading View yo lo suelo hacer en trading View pero dicen que FX Replay están bastante bueno y tiro las velas para atrás y lo que hago es ejecutar entradas en mi horario principalmente de ejecución y analizar el contexto del mercado Y a partir de ahí ir ejecutando pero ahí sí voy recolectando más Data en todas las en todos los tipos de backtesting voy recolectando más Data pero aquí mucho más porque aquí estoy poniéndole la variante de que yo puedo equivocarme al ejecutar la estrategia Entonces al hacer este Back testing yo digo ejecuté bien mi estrategia Okay Sí salió bien ejecuté bien mi estrategia Sí salió mal la ejecuté mal salió iba a salir bien entonces Estos tipos de datos son los que a mí me interesan y el tipo número tres chicos va a ser eh pruebo la estrategia en un mercado real con pruebas o cuentas de fondeo Ahora sí voy a probar mi estrategia pero no la voy a probar en un mercado real ya estoy poniendo mercado real Cuando me refiero a mercado real Es que yo voy a perar Por ejemplo si mi estrategia me dice que todos los días a las 8 de la mañana Nueva York voy a operar y voy a hacer tales cosas ya lo voy a hacer antes de que suceda o sea voy a meter las operaciones yo en vivo a mi metatrader verdad aquí yo voy a meter las operaciones a mi metatrader y lo que voy a hacer es estar recolectando Data pero lo voy a hacer en cuentas de pueden hacerlo en cuentas de fondeo pequeñas eso yo lo que llamo Back testing activo o un Back testing estoy haciendo una cuenta de fondeo Pero no mi finalidad no es pasar la cuenta de fondeo sino hacer el Back testing de la estrategia ya o lo pueden hacer en cuentas demo también o cuentas free Trail también de de ftmo de fenex cuentas de prueba de eh de",
+    "source_id": "YT_CANAL_02_z5WfKVGBg18",
+    "title": "EL 90% pierde en el trading, Por qué no hacen Backtesting l Clase 1 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=z5WfKVGBg18",
+    "deep_link": "https://www.youtube.com/watch?v=z5WfKVGBg18&t=326s"
+  },
+  {
+    "chunk_id": "YT_z5WfKVGBg18_005",
+    "video_id": "z5WfKVGBg18",
+    "start_sec": 436.36,
+    "end_sec": 557.2,
+    "text": "el Back testing de la estrategia ya o lo pueden hacer en cuentas demo también o cuentas free Trail también de de ftmo de fenex cuentas de prueba de eh de empresas de fondeo y luego vamos a hacer un mercado en vivo para Back testear mis emociones no solo los datos verdad Entonces eh Para eso me sirve este tipo de Back testing Para yo poder eh Back testear eh Mis comportamientos frente a mi estrategia yaad pero ya no estoy eh viendo la acción de precio pasada en como en los casos anteriores que estoy utilizando acción de precio pasada sino aquí ya estoy Back testeando con acción de precio que no ha sucedido no ha ocurrido verdad pero no estoy tomando Todavía este no mi finalidad no es ganar dinero sino Back testear Cuáles son los pros y los contras de mi estrategia verdad Entonces tenemos Back testing más completo vamos a para hacer un Back testing más completo lo que hago es seguir los pasos eh conjugar todos los pasos o los tipos de Back testing para yo tener un Back testing super completo conjugo los tres tipos de Back testing o utilizo los tres tipos de Back testing y hago estos tres pasos primero el paso uno voy a utilizar el tipo de recopilación uno Data con la acción de prcio visible verad acuérdense aquí es el gráfico visible Y no cambio nada más que la acción de precio de hecho les voy a dar un ejemplo ahorita les voy a dar unos ejemplos verad paso dos uso el tipo dos para recopilar una Data más avanzada y paso tres uso el tipo tres para Back testear emociones formas Y ya teniendo una una base previa de los demás Back testing entonces chicos aquí el tipo uno el Back testing tipo un es yo agarro un gráfico y yo designo mis pasos de mi estrategia No pues lo que quiero ver eh rompimiento de estructura liquidez lo que quiero ver verad y aquí analizo Ah okay Digo el día lunes Okay voy a testear el día lunes por ejemplo Aquí está el día lunes Qué hubiera pasado aquí y lo que hago es",
+    "source_id": "YT_CANAL_02_z5WfKVGBg18",
+    "title": "EL 90% pierde en el trading, Por qué no hacen Backtesting l Clase 1 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=z5WfKVGBg18",
+    "deep_link": "https://www.youtube.com/watch?v=z5WfKVGBg18&t=436s"
+  },
+  {
+    "chunk_id": "YT_z5WfKVGBg18_006",
+    "video_id": "z5WfKVGBg18",
+    "start_sec": 545.88,
+    "end_sec": 667.64,
+    "text": "estructura liquidez lo que quiero ver verad y aquí analizo Ah okay Digo el día lunes Okay voy a testear el día lunes por ejemplo Aquí está el día lunes Qué hubiera pasado aquí y lo que hago es analizar No pues ya voy a marcar correctamente la estructura un low un High un low aquí había liquidez aquí el precio Boom se pudo haber dado una compra aquí algunas ventas o sea es el análisis del gráfico como tal así pero no hago retrospectiva de velas aquí me gusta a mí ir poniéndole textos aquí anclados y le voy poniendo aquí rompió rompió tomó liquidez y bajo un decir verdad esto solamente es un ejemplo voy poniéndole yo textit me gusta poner ir poniéndole textos aquí a cada uno de estos y los voy marcando y todo esto lo voy registrando en una vitá corona libreta donde tú quieras pero voy voy yo marcando este tipo de cosas o de situaciones Y a partir de ahí voy eh pasando por más cositas como por acá abajo y voy Back testeando durante bastante tiempo pero con el gráfico prendido como quien dice o o sin recorrer las velas en el segundo tipo de Back testing fíjense este es reproducción de velas más o menos de este estilo agarro la reproducción de Vela entonces aquí ya por ejemplo ustedes van a analizar que tenían este punto este punto tenían tal día van a realizar que aquí tenía una zona Y a partir de ahí van a decir este va a ser mi voy a analizar mis pasos de entrada voy a tener mi plan de trading en mano voy a nacar mis pasos de entrada y lo que voy a hacer es dándole Play a las velas verad voy a ir dándole Play a las velas Y a partir de ir dándole Play a las velas voy a ir aprendiendo de ese Back testing Pero ahora sí que no es no estoy viendo la acción de precio que sucede de este lado verdad no estoy viendo nada de la acción de precio que sucede de este lado En el anterior Back testin o tipo de Back testing Eh sí estaba viendo la acción de precio que sucedía para los dos lados verad tanto para acá como para acá ese sería mis",
+    "source_id": "YT_CANAL_02_z5WfKVGBg18",
+    "title": "EL 90% pierde en el trading, Por qué no hacen Backtesting l Clase 1 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=z5WfKVGBg18",
+    "deep_link": "https://www.youtube.com/watch?v=z5WfKVGBg18&t=545s"
+  },
+  {
+    "chunk_id": "YT_z5WfKVGBg18_007",
+    "video_id": "z5WfKVGBg18",
+    "start_sec": 655.84,
+    "end_sec": 718.52,
+    "text": "sucede de este lado En el anterior Back testin o tipo de Back testing Eh sí estaba viendo la acción de precio que sucedía para los dos lados verad tanto para acá como para acá ese sería mis formas de hacer Back testing y el por último es ejecución en tiempos reales verad ejecución antes de que el precio esté formando Válgame que yo me pongo por ejemplo en esta acción de precio el precio todavía no ha hecho nada aquí ta ta ta analizo esta sesión Okay ta ta ta y voy todos los días Eh ejecutando mi estrategia pero en cuenta demo pruebas de fondeo pequeñas voy haciéndolo Pero antes de que suceda antes de que suceda y y sin retrospectiva verlas ni nada lo voy ejecutando en mi metatrader como tal Bueno chicos Yo espero que se haya atendido bastante bien pero aún así si tienes alguna duda o pregunta te leo en los comentarios si deseas una ment mentoría personalizada conmigo Puedes mandarme un mensaje de Whatsapp o de Instagram que se encuentra abajo en la descripción Gustavo Gustavo Trader y nos vemos pues en un siguiente video adiós",
+    "source_id": "YT_CANAL_02_z5WfKVGBg18",
+    "title": "EL 90% pierde en el trading, Por qué no hacen Backtesting l Clase 1 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=z5WfKVGBg18",
+    "deep_link": "https://www.youtube.com/watch?v=z5WfKVGBg18&t=655s"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "source_id": "YT_CANAL_01_C-2mSvrTclE",
+  "video_id": "C-2mSvrTclE",
+  "metadata": {
+    "channel": "MentoTrading",
+    "title": "Los secretos de la Estrategia Will Street (CRT)",
+    "url": "https://www.youtube.com/watch?v=C-2mSvrTclE",
+    "published_at": "2025-07-31",
+    "duration_sec": 905,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "conversacion_dos_traders"
+  },
+  "caveat": "Auto-caption sin diarizacion de hablantes. Es una conversacion entre Gustavo y un segundo trader no identificado; no siempre se puede atribuir una frase especifica a uno u otro con certeza.",
+  "topics": ["bias_diario", "crt", "liquidez", "gestion_de_riesgo"],
+  "concepts": ["Vallas/Bias", "RB (risk/benefit)", "mitigacion de order block", "liquidez", "POI", "smart money traps", "fractalidad"],
+  "key_ideas": [
+    {"timestamp_sec": 0, "title": "Patron de entrada: contexto + mitigacion + liquidez", "text": "Metodo de entrada basado en contexto (sesgo semanal/mensual), mitigacion de order block y liquidez (barrido), en velas de 4H sesion NY.", "deep_link": "https://www.youtube.com/watch?v=C-2mSvrTclE&t=0s"},
+    {"timestamp_sec": 346, "title": "Dificultad compartida con el Vallas", "text": "Reconocimiento de que aplicar el bias de forma tan mecanica como Will Street/Cluti todavia genera inseguridad.", "deep_link": "https://www.youtube.com/watch?v=C-2mSvrTclE&t=346s"},
+    {"timestamp_sec": 601, "title": "CRT funciona distinto segun el par", "text": "Nasdaq mas tendencial (no respeta altos tomados); Forex reacciona mas al tomar altos/bajos; oro consideran el mejor par para CRT.", "deep_link": "https://www.youtube.com/watch?v=C-2mSvrTclE&t=601s"},
+    {"timestamp_sec": 799, "title": "Hipotesis sobre cambios en el algoritmo", "text": "El comportamiento del precio habria cambiado en anos recientes, lo que explicaria por que CRT se volvio mas efectivo.", "deep_link": "https://www.youtube.com/watch?v=C-2mSvrTclE&t=799s"}
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 0, "text": "Tener contexto de temporalidades altas (semanal/mensual) a favor antes de confiar en un patron de barrido."},
+    {"timestamp_sec": 270, "text": "No aplicar una estrategia de forma mecanica sin las horas de practica necesarias."},
+    {"timestamp_sec": 782, "text": "CRT como gatillo se puede combinar con estructura de mercado, fractalidad e inducciones, sin depender de una sola senal."}
+  ],
+  "mistakes_mentioned": [
+    {"timestamp_sec": 275, "text": "Aplicar una estrategia de forma mecanica sin suficiente practica/horas de vuelo."},
+    {"timestamp_sec": 430, "text": "Dejarse llevar por el FOMO de redes sociales, que solo muestran la parte bonita del trading."}
+  ],
+  "terminology": {
+    "Vallas/Bias": "Direccion del precio.",
+    "RB": "Ratio riesgo/beneficio.",
+    "POI": "Point of Interest, zona de interes para buscar una entrada.",
+    "Will Street / Cluti (Cluty Fx)": "Otros traders/mentores de referencia cuya metodologia de CRT se discute."
+  },
+  "entities": {
+    "people": ["Gustavo", "Will Street", "Cluti (Cluty Fx)"],
+    "tools": ["MetaTrader", "Instagram", "Twitter", "WhatsApp"],
+    "markets": ["Nasdaq", "EUR/USD", "oro"]
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=C-2mSvrTclE",
+  "series_note": null,
+  "chunks": []
+}

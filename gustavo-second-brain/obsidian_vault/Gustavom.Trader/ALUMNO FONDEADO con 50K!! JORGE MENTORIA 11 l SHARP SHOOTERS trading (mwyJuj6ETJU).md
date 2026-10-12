@@ -1,0 +1,658 @@
+---
+source_id: YT_CANAL_02_mwyJuj6ETJU
+video_id: mwyJuj6ETJU
+channel: "Gustavom.Trader"
+published_at: 2022-09-26
+url: https://www.youtube.com/watch?v=mwyJuj6ETJU
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 5
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# ALUMNO FONDEADO con 50K!! JORGE MENTORIA 1/1 l SHARP SHOOTERS #trading
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=mwyJuj6ETJU)
+
+## Transcript
+
+```
+[00:00:01]
+Hola Hola a todos estamos aquí en un
+
+[00:00:04]
+nuevo vídeo para el canal de YouTube
+
+[00:00:06]
+quería hacer esta pequeña introducción
+
+[00:00:07]
+para explicarles un poquito sobre lo que
+
+[00:00:09]
+van a ver en este vídeo van a ver unos
+
+[00:00:11]
+pequeños fragmentos de las clases que
+
+[00:00:13]
+estuvimos tomando con Jorge desde aquí
+
+[00:00:15]
+felicitar a Jorge por su disciplina por
+
+[00:00:17]
+su empeño que ha hecho él ya ha pasado
+
+[00:00:19]
+su cuenta de 50 mil dólares fue
+
+[00:00:22]
+probablemente pueden ver en el título y
+
+[00:00:23]
+está totalmente fondeado les dejaré unas
+
+[00:00:26]
+imágenes de cómo pasó su cuenta en
+
+[00:00:28]
+Trader central se a algunos meses
+
+[00:00:30]
+tomando su mentoría uno a uno conmigo y
+
+[00:00:32]
+trazando objetivos metas claras Y
+
+[00:00:35]
+trabajando en las clases con él Entonces
+
+[00:00:37]
+van a ver unos pequeños fragmentos de
+
+[00:00:39]
+las clases que él tomó obviamente de lo
+
+[00:00:40]
+que pueda enseñar y dejarlo ahí sobre un
+
+[00:00:43]
+buen vídeo para que ustedes vean que sí
+
+[00:00:45]
+se puede con entrega con disciplina y
+
+[00:00:47]
+con las clases que nosotros estamos
+
+[00:00:49]
+haciendo ayudando a todos los traders No
+
+[00:00:51]
+dejen de suscribirse al Canal no Dejen
+
+[00:00:53]
+de estar siguiendo en Venezuela en todas
+
+[00:00:55]
+nuestras redes sociales abajo en la
+
+[00:00:56]
+descripción está el Telegram también
+
+[00:00:57]
+adicional a eso los que se quieran tomar
+
+[00:00:59]
+esas mentorías estamos en Telegram le
+
+[00:01:02]
+doy cualquier información y muy muy muy
+
+[00:01:04]
+muy muy muy feliz por Jorge que está
+
+[00:01:06]
+completamente ya fondeado con tu cuenta
+
+[00:01:08]
+de 50 mil dólares pasada y rumbo al
+
+[00:01:11]
+éxito Bye amigos
+
+[00:01:22]
+permito operar noticias Sí no no hay
+
+[00:01:27]
+problemas con abrir Es que vi algo ahí
+
+[00:01:29]
+que decía algo sobre martingalas Ah ok
+
+[00:01:32]
+el Martín gala es cuando tú va perdiendo
+
+[00:01:35]
+una posición y tú le agregas otra
+
+[00:01:38]
+posición para tratar de hacer una como
+
+[00:01:41]
+cobertura o como como si tú metes una
+
+[00:01:44]
+venta y se te va en contra se te va en
+
+[00:01:46]
+compra y el precio sube y vuelves a
+
+[00:01:47]
+meter otra venta eso es un martingala
+
+[00:01:49]
+eso no está permitido bueno está
+
+[00:01:51]
+permitido solamente dos veces o sea que
+
+[00:01:53]
+puedes hacer eso Solamente una vez y lo
+
+[00:01:56]
+vuelves a hacer te cuida la cuenta pero
+
+[00:01:58]
+con lo que nosotros hacemos no hay
+
+[00:02:00]
+ningún problema con eso permite abrir
+
+[00:02:02]
+más de una posición también va a salir
+
+[00:02:05]
+días Buenos días malos Entonces los días
+
+[00:02:07]
+que sale mal aceptar la pérdida Cerrar
+
+[00:02:09]
+todas las metatrader todo lo que tengo
+
+[00:02:11]
+abierto incluso esta semana que usted va
+
+[00:02:14]
+a hacer su challenge no me esté
+
+[00:02:15]
+analizando nada enfoquese solamente en
+
+[00:02:17]
+el puro challenge no se ponga marmones
+
+[00:02:19]
+ni a practicar ni nada controlarse Esto
+
+[00:02:22]
+es lo más complicado ustedes por ejemplo
+
+[00:02:23]
+cierre todo y se pone a hacer otras
+
+[00:02:25]
+cosas y está dando clases vayas a dar
+
+[00:02:28]
+clases se va la dirección o lo que sea
+
+[00:02:29]
+algo que lo distraiga y que se le olvide
+
+[00:02:31]
+lo que ya pasó puede también hacer esto
+
+[00:02:33]
+opera y si ya siente como que le está
+
+[00:02:36]
+afectando emocionalmente cierre todo y
+
+[00:02:38]
+ni siquiera note la operación el temario
+
+[00:02:41]
+de lo que es el Smart Money Esto va a
+
+[00:02:43]
+ser más o menos el núcleo por no decir
+
+[00:02:45]
+que va a ser el núcleo por ahí si se me
+
+[00:02:47]
+pasó alguna cosa Porque todavía estoy
+
+[00:02:49]
+checando algunos conceptos que sirven
+
+[00:02:50]
+unos conceptos que no sirven Pero esto
+
+[00:02:52]
+va a ser el núcleo en sí de todo lo que
+
+[00:02:54]
+vamos a ver introducción en el
+
+[00:02:56]
+Smartphone y vamos a tocar los order
+
+[00:02:58]
+vlogs los tipos de order blog estructura
+
+[00:03:00]
+de Mercado lo que es la estructura de
+
+[00:03:02]
+Mercado simple la avanzada y buenache
+
+[00:03:04]
+institucional liquidez avanzadas
+
+[00:03:05]
+liquidez simple balances el poder de
+
+[00:03:08]
+tres la teoría de los ciclos de
+
+[00:03:10]
+acumulación y distribución distribución
+
+[00:03:12]
+las killzone teoría de los movimientos
+
+[00:03:14]
+stop Hunt o los famosos cazadores de
+
+[00:03:17]
+stop loss vamos a ver algoritmo
+
+[00:03:19]
+interbancario cómo funciona Cómo podemos
+
+[00:03:21]
+aprovecharnos de él los patrones
+
+[00:03:22]
+institucionales los puntos de interés
+
+[00:03:25]
+decisional al extremo Y cómo tomar el
+
+[00:03:27]
+mejor las leyes de oferta demanda los
+
+[00:03:29]
+fractales un poquito del método Maker
+
+[00:03:31]
+Maker huaico 1 huaicos 2 por ejemplo
+
+[00:03:34]
+Ecuador ahora que estalló la guerra tú
+
+[00:03:36]
+dices que los mercados se fueron a la
+
+[00:03:37]
+baja no subió el petróleo el oro se fue
+
+[00:03:39]
+para arriba Pero sabemos que los que
+
+[00:03:41]
+toman esas decisiones de que esto suceda
+
+[00:03:43]
+pues al final El cabo son estas personas
+
+[00:03:45]
+que tienen el poder de la economía no
+
+[00:03:47]
+que son los que tienen los millones los
+
+[00:03:50]
+miles y millones de dólares que inyectan
+
+[00:03:52]
+al mercado para hacer esos movimientos
+
+[00:03:53]
+por último los impulsos y retrocesos que
+
+[00:03:56]
+te enseñan que cuando tienes un impulso
+
+[00:03:58]
+fuerte o sea que cuando es el impulso
+
+[00:04:00]
+muy fuerte el precio es fuerte no porque
+
+[00:04:03]
+estás viendo que es fuerte el impulso
+
+[00:04:04]
+pues cuando la tendencia es débil Pues
+
+[00:04:06]
+el mercado simplemente es débil es
+
+[00:04:08]
+información errónea también que nos
+
+[00:04:10]
+enseña el típico figuaná chino que ya te
+
+[00:04:12]
+decía el 618 que operan todos igual les
+
+[00:04:15]
+da a veces algunas entradas otras veces
+
+[00:04:17]
+no y final realmente esta información
+
+[00:04:19]
+del fibo es errónea también más aparte a
+
+[00:04:21]
+esto tendrás un plan de trading
+
+[00:04:23]
+completamente exclusivo y formado
+
+[00:04:26]
+contigo y para ti esto para obtener los
+
+[00:04:29]
+resultados que queremos y formar esa
+
+[00:04:31]
+sabiduría para que seas un gran Trader
+
+[00:04:34]
+profesional
+
+[00:04:36]
+pasas la prueba de fondeo pum pum y ya
+
+[00:04:39]
+una vez te dan la cuenta de la la cuenta
+
+[00:04:41]
+fondeada la pierdes Por qué Porque te
+
+[00:04:44]
+atrabancas las emociones tú sabes no
+
+[00:04:47]
+tienes capital real tepaniqueas porque
+
+[00:04:49]
+pues sabes que ya es capital real
+
+[00:04:50]
+entonces para que tu psicología se
+
+[00:04:52]
+mantenga mucho más sana mucho más buena
+
+[00:04:54]
+y aparte para asegurarte Tú sabes que
+
+[00:04:56]
+los números son números pues le
+
+[00:04:58]
+disminuimos el riesgo es lo que hacemos
+
+[00:05:00]
+nosotros
+
+[00:05:02]
+Sí pero esta estrategia está genial está
+
+[00:05:05]
+muy muy buena por la simplicidad que
+
+[00:05:07]
+tiene simplemente sí correcto porque
+
+[00:05:09]
+tiene una simplicidad muy fuerte y pues
+
+[00:05:12]
+te permite no andar inventando Nada pues
+
+[00:05:14]
+tú puedes empezar a operar con esto
+
+[00:05:16]
+aprendes todas las estrategia los
+
+[00:05:18]
+conceptos tu plan de trading todo todo
+
+[00:05:20]
+todo ya después tú puedes operar con lo
+
+[00:05:22]
+que te da la gana más Tú mismo puedes
+
+[00:05:24]
+hacer tu estrategia
+
+[00:05:26]
+entonces tema de embalaje y balance o
+
+[00:05:29]
+desequilibrio se llama se dice no lo vas
+
+[00:05:32]
+a conocer como en Smart Money como imd
+
+[00:05:34]
+abreviado que es el embalaje es un área
+
+[00:05:36]
+de negociación desigual donde solo hay
+
+[00:05:39]
+compradores o solo hay vendedores o sea
+
+[00:05:41]
+órdenes fuertes en venta o en compra y
+
+[00:05:44]
+entonces no es malo comentar errores no
+
+[00:05:46]
+es malo que te caigas metido un día Eso
+
+[00:05:49]
+no es ningún problema cometistes un
+
+[00:05:51]
+error Y más ahorita que estamos en
+
+[00:05:52]
+proceso de crecimiento Siempre vamos a
+
+[00:05:55]
+estar en proceso de crecimiento pero
+
+[00:05:56]
+ahorita más porque ahorita estás en tu
+
+[00:05:58]
+en tu proceso inicial podríamos decir y
+
+[00:06:00]
+te lo malo es que ese error se quede
+
+[00:06:02]
+para y no lo cubras que me lo sigas
+
+[00:06:04]
+haciendo que mañana te vuelvas a meter
+
+[00:06:07]
+con dos veces y tu plan de trading dice
+
+[00:06:09]
+que no hubo una sola vez eso es lo malo
+
+[00:06:11]
+Ahí está el detalle pero si tú logras
+
+[00:06:13]
+corregir los máximo de errores posibles
+
+[00:06:15]
+vas a empezar a ver mejor resultados
+
+[00:06:18]
+el día que tú digas ya no puedo mejorar
+
+[00:06:21]
+y ya no puedo crecer ese día estás
+
+[00:06:23]
+perdido siempre va a haber mejora para
+
+[00:06:24]
+adelante para todos Yo estoy en
+
+[00:06:26]
+crecimiento tú estás en crecimiento
+
+[00:06:28]
+Geral está en crecimiento el Trader de
+
+[00:06:30]
+millones está en crecimiento el que
+
+[00:06:31]
+gestiona un fondo de inversión está en
+
+[00:06:33]
+crecimiento y la única forma que dejes
+
+[00:06:35]
+de crecer tanto personalmente en esto el
+
+[00:06:37]
+trading es la única forma es que te
+
+[00:06:39]
+mueras es la única forma
+
+[00:06:42]
+Recuerda que ese es esto es historial es
+
+[00:06:45]
+para ti para que tú lo veas y veas como
+
+[00:06:47]
+que hiciste el día para que te ayude a
+
+[00:06:49]
+mejorar a ti mismo No a mí a mí no me
+
+[00:06:51]
+ayuda en nada ese trading journal te
+
+[00:06:53]
+ayuda a ti mismo Entonces es importante
+
+[00:06:54]
+que los a veces da flojera Da flojera a
+
+[00:06:57]
+veces hombre da flojera a veces hasta me
+
+[00:06:59]
+olvido yo a veces dos días o tres días y
+
+[00:07:01]
+luego digo Ay qué flojos hoy
+
+[00:07:03]
+indisciplinado y hoy los lleno los días
+
+[00:07:05]
+que me faltaban también he tenido una
+
+[00:07:06]
+semana que no lo lleno todo también yo
+
+[00:07:08]
+sé que está pero hay que tratar hay que
+
+[00:07:10]
+hacerle la disciplina de llenar ese ese
+
+[00:07:13]
+trading journal
+
+[00:07:15]
+entonces aquí tenemos Range to play que
+
+[00:07:17]
+sería una zona de oferta el precio que
+
+[00:07:20]
+era una zona de Rango varias velitas
+
+[00:07:23]
+juntas esto puede ser por ejemplo en h4
+
+[00:07:24]
+y en m5 Pues se ve el rango más bonito
+
+[00:07:27]
+no de m5 se va a ver aquí el precio
+
+[00:07:29]
+revienta el rango genera tremendo y
+
+[00:07:31]
+balance luego regresa a la zona de
+
+[00:07:33]
+oferta mitiga y ahí sigue su camino
+
+[00:07:36]
+Igualmente ahora esto también podría ser
+
+[00:07:38]
+con una zona pivote como un solo
+
+[00:07:40]
+movimiento aquí Igualmente llega genera
+
+[00:07:42]
+la zona de oferta mitiga Generalmente
+
+[00:07:46]
+Esto va a ser uno bien casi siempre va a
+
+[00:07:48]
+ser una ley de este bloque
+```

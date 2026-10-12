@@ -1,0 +1,2449 @@
+---
+source_id: YT_CANAL_02_LRl2AndklTM
+video_id: LRl2AndklTM
+channel: "Gustavom.Trader"
+published_at: 2026-08-23
+url: https://www.youtube.com/watch?v=LRl2AndklTM
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 16
+tags: [youtube, Gustavom-Trader, year/2026, status/synced]
+---
+
+# Cómo Operar CRT Correctamente en Menos de 30 Minutos
+
+[[Gustavom.Trader]] · [[2026]] · [Ver en YouTube](https://www.youtube.com/watch?v=LRl2AndklTM)
+
+## Transcript
+
+```
+[00:00:00]
+La estrategia CRT es sin duda una de las
+
+[00:00:02]
+estrategias que se está haciendo muy
+
+[00:00:03]
+popular en estos últimos años. Y en este
+
+[00:00:05]
+video te vengo a traer todo sobre la
+
+[00:00:08]
+estrategia CRT paso a paso, la guía
+
+[00:00:10]
+completa de la liquidez, el Turtle Hop o
+
+[00:00:13]
+el TS que le llamo yo y las
+
+[00:00:14]
+temporalidades que deberías de conocer o
+
+[00:00:16]
+las temporalidades en las que deberías
+
+[00:00:17]
+de estar entrando con la estrategia CRT,
+
+[00:00:20]
+que es una grandiosa metodología. O sea,
+
+[00:00:22]
+yo ya le diría más allá de una
+
+[00:00:24]
+estrategia, es un método. Y en este
+
+[00:00:26]
+video vamos a ir totalmente aclara, ¿no?
+
+[00:00:27]
+La estrategia CRT, el candle ranch
+
+[00:00:29]
+theory o qué significa CRT, teoría de
+
+[00:00:32]
+rango de velas o candle ranch theory en
+
+[00:00:34]
+inglés. Es una metodología que
+
+[00:00:36]
+básicamente lo que intenta hacer esta
+
+[00:00:39]
+metodología es que ver rangos, el rango
+
+[00:00:42]
+y el TS o el Turtle sub, que así es
+
+[00:00:44]
+donde le llamó, espero pronunciarlo bien
+
+[00:00:46]
+y si no lo pronuncio da igual. Eh, yo le
+
+[00:00:48]
+digo el la sopa de tortilla, la sopa de
+
+[00:00:51]
+tortuga, le puedes llamar como tú
+
+[00:00:53]
+quieras, pero básicamente fíjate por acá
+
+[00:00:55]
+es que el precio elimine un alto, un
+
+[00:00:57]
+extremo, un alto de la vela anterior, de
+
+[00:00:59]
+una vela anterior, tome liquidez o tome
+
+[00:01:02]
+el alto, como tú quieras llamarlo, y
+
+[00:01:03]
+cierre con cuerpo dentro del cuerpo de
+
+[00:01:05]
+la vela anterior. Eso para mí sería un
+
+[00:01:07]
+rango correcto, aunque algunas velas, ya
+
+[00:01:09]
+lo vamos a ver en el la parte de casos,
+
+[00:01:12]
+no cierran dentro del cuerpo de la vela
+
+[00:01:13]
+anterior y también pueden ser un rango,
+
+[00:01:15]
+¿no? Después de que ya se confirba el
+
+[00:01:17]
+rango en esta tercera vela, el precio
+
+[00:01:19]
+expande y este sería su objetivo que
+
+[00:01:21]
+sería el bajo. Eso así facilito. Es el
+
+[00:01:24]
+candle Ranch theory o la teoría de rango
+
+[00:01:26]
+de velas, el CRT. Y normalmente a
+
+[00:01:28]
+nosotros nos gusta mucho sobre otras
+
+[00:01:30]
+metodologías porque es bastante sencilla
+
+[00:01:33]
+y el TS y esta forma de ver el mercado
+
+[00:01:35]
+es bastante simple dentro de lo que la
+
+[00:01:38]
+complejidad del trading puede llegar a
+
+[00:01:39]
+ser. Entonces, es como bastante
+
+[00:01:41]
+sencilla. En este video he preparado
+
+[00:01:43]
+toda esta metodología resumida para que
+
+[00:01:46]
+tú la conozcas, para que tú la aprendas
+
+[00:01:47]
+y aún así, si eres una persona que estás
+
+[00:01:49]
+avanzada en el trading y estás avanzada
+
+[00:01:51]
+en el CRT, también vas a poder aprender
+
+[00:01:54]
+muchas cosas en este video. También he
+
+[00:01:56]
+preparado este ebook completamente
+
+[00:01:57]
+gratuito y más adelante en este video
+
+[00:01:59]
+quédate hasta el final porque te voy a
+
+[00:02:01]
+decir cómo te lo puedes llevar
+
+[00:02:02]
+totalmente gratis para que lo estudies,
+
+[00:02:04]
+hagas back testing y mejores tu trading
+
+[00:02:06]
+para siempre. Así como mis alumnos y yo
+
+[00:02:08]
+estamos haciendo de 1,000 a $3,000
+
+[00:02:10]
+consistentemente cada mes con el
+
+[00:02:12]
+trading. Dicho esto, vamos a pasar a la
+
+[00:02:14]
+segunda dispositiva y explicar un poco
+
+[00:02:17]
+qué es el CRT, ¿no? Vamos a explicar qué
+
+[00:02:19]
+es el CRT. El el CRT significa candle
+
+[00:02:21]
+Rise theory, una metodología que estudia
+
+[00:02:22]
+el rango de cada vela, la distancia
+
+[00:02:24]
+entre su máximo y su mínimo, lo que te
+
+[00:02:25]
+decía, ¿no? Entonces, realmente cada
+
+[00:02:27]
+vela es un rango, o sea, cada velita de
+
+[00:02:29]
+estas es como si fuera un rango cada
+
+[00:02:31]
+vela. Realmente no, la idea del CRT es
+
+[00:02:33]
+sencilla. Cada vela deja dos niveles
+
+[00:02:35]
+clave, en su alto y en su bajo. O sea,
+
+[00:02:37]
+que estudia el CRT los máximos y los
+
+[00:02:39]
+mínimos de cada vela, ¿no? Y dónde, que
+
+[00:02:43]
+es donde se acumula la liquidez o las
+
+[00:02:44]
+órdenes, dónde el mercado deberá barrer
+
+[00:02:46]
+o donde el mercado va a interactuar con
+
+[00:02:48]
+esos niveles y después girará, ¿no? Aquí
+
+[00:02:50]
+vendrá este nivel y aquí puede girar
+
+[00:02:52]
+hacia el lado opuesto. Aquí vendrá este
+
+[00:02:54]
+nivel y puede girar hacia el lado
+
+[00:02:56]
+opuesto. Básicamente eso es el CRT a
+
+[00:02:58]
+grandes rangos. Entonces, ¿funciona esta
+
+[00:03:00]
+metodología o simplemente es una moda?
+
+[00:03:02]
+La conclusión de de nosotros, la
+
+[00:03:04]
+conclusión mía desde el punto de vista
+
+[00:03:06]
+mío, bajo la experiencia que llevo más
+
+[00:03:07]
+de que éramos 3 años utilizando la
+
+[00:03:10]
+estrategia CRT, eh el CRT es una
+
+[00:03:12]
+herramienta que aporta una lectura y una
+
+[00:03:14]
+objetividad al análisis. O sea, que
+
+[00:03:16]
+precisamente a muchas personas nos gusta
+
+[00:03:17]
+porque aporta ese esa simplicidad dentro
+
+[00:03:20]
+de ver el precio, ¿no? No es una fórmula
+
+[00:03:22]
+mágica, simplemente es una forma más de
+
+[00:03:25]
+ver el mercado como las muchas que hay,
+
+[00:03:27]
+pero nos gusta mucho porque puede llegar
+
+[00:03:29]
+a aportar una simplicidad. Ahora vamos a
+
+[00:03:31]
+ver las cuatro modelos o los cuatro
+
+[00:03:33]
+tipos de CRT que existen normalmente,
+
+[00:03:35]
+que ya he traído muchos videos sobre
+
+[00:03:37]
+cada modelo, pero en este en este video
+
+[00:03:40]
+quiero resumírtelos también muy
+
+[00:03:41]
+rápidamente, que sería el modelo más
+
+[00:03:44]
+clásico, es el modelo de tres velas.
+
+[00:03:46]
+Este es el que más nos gusta a todos. No
+
+[00:03:48]
+quiere decir que simplemente se pueda
+
+[00:03:49]
+operar solamente este modelo, pero es el
+
+[00:03:51]
+más sencillo. Y aquí tenemos un ejemplo
+
+[00:03:54]
+que en este caso sería el precio. Toma
+
+[00:03:56]
+el alto de la vela anterior, cierra con
+
+[00:03:57]
+cuerpo. Esto es importante porque eh que
+
+[00:04:00]
+el precio solamente esté tomando
+
+[00:04:02]
+liquidez del máximo no quiere decir que
+
+[00:04:04]
+esté haciendo un que que esté haciendo
+
+[00:04:06]
+un un TS, no es simplemente un barrido
+
+[00:04:09]
+de liquidez. Cuando ya el precio cierra
+
+[00:04:10]
+con cuerpo dentro de la vela anterior,
+
+[00:04:13]
+ya nosotros se nos forma el rango, en
+
+[00:04:15]
+este caso del mínimo, y este sería el
+
+[00:04:17]
+objetivo en la tercera vela, aunque esto
+
+[00:04:20]
+en la realidad no siempre son tres
+
+[00:04:21]
+velas, a veces son cuatro, cinco. Este
+
+[00:04:24]
+sería el modelo más clásico de CRT.
+
+[00:04:26]
+Después nosotros tenemos el CRT de dos
+
+[00:04:28]
+velas, que es un modelo que lo que hace
+
+[00:04:30]
+es que toma liquidez y cierto que este
+
+[00:04:32]
+modelo es un poco no es tan seguro o es
+
+[00:04:35]
+un modelo más agresivo porque se forma
+
+[00:04:38]
+mucho cuando hay noticias y aparte no
+
+[00:04:40]
+tienes tanta confirmación porque el
+
+[00:04:42]
+precio no ha cerrado dentro del cuerpo
+
+[00:04:43]
+de la vela anterior y realmente no es
+
+[00:04:45]
+así. Es cuando hay mucha volatilidad y a
+
+[00:04:47]
+mí me gusta que ya haya para usar este
+
+[00:04:50]
+modelo que ya haya rangos alineados en
+
+[00:04:52]
+otras temporalidades para tener una
+
+[00:04:54]
+mejor seguridad. Después de esto,
+
+[00:04:56]
+nosotros tenemos el modelo de múltiples
+
+[00:04:58]
+velas. Como te digo, a veces el precio
+
+[00:04:59]
+no llega hacia su objetivo en tres
+
+[00:05:02]
+velas. 1 2 3. A veces tarda muchísimas
+
+[00:05:05]
+más velas. Y este modelo pues
+
+[00:05:07]
+prácticamente es como el de tres velas,
+
+[00:05:08]
+pero tarda mucho más en llegar. Y luego
+
+[00:05:11]
+después tenemos un eh modelo, el último
+
+[00:05:13]
+modelo es el de barra barra interna,
+
+[00:05:15]
+vela interior. Es este modelo lo que
+
+[00:05:18]
+hace es que esta vela no toma liquidez o
+
+[00:05:20]
+no toma el máximo, pero esta vela sí
+
+[00:05:22]
+toma el máximo de los dos. toma como
+
+[00:05:25]
+hace como el precio como un doble techo,
+
+[00:05:27]
+luego después viene, saca la liquidez y
+
+[00:05:29]
+baja. Este básicamente sería el modelo,
+
+[00:05:31]
+en este caso de vela interior que
+
+[00:05:33]
+también me gusta muchísimo y este modelo
+
+[00:05:35]
+es uno de los modelos más efectivos o
+
+[00:05:37]
+con más alta efectividad que existen.
+
+[00:05:38]
+Digamos que mi favorito es el de tres
+
+[00:05:40]
+velas, obviamente le llamo yo el
+
+[00:05:41]
+tridentre. Muchos de mis alumnos ya
+
+[00:05:43]
+saben, el tridente le llamo tres velas.
+
+[00:05:45]
+Después el modelo de vela interior
+
+[00:05:48]
+porque es el que más alta efectividad
+
+[00:05:49]
+tiene. Este modelo no me gusta mucho
+
+[00:05:51]
+porque a veces es cuando el precio está
+
+[00:05:52]
+muy lateral o el precio está muy tal lo
+
+[00:05:55]
+está haciendo. Pero en general estos son
+
+[00:05:56]
+los cuatro modelos de CRT para que tú
+
+[00:05:58]
+puedas estudiarlos. Y lo bueno del CRT
+
+[00:06:01]
+es que siempre mira lo mismo. Todo el
+
+[00:06:02]
+mundo está mirando lo mismo. Es un rango
+
+[00:06:04]
+no es un rango. A veces puede llegar a
+
+[00:06:06]
+variar en un broker o en otro, pero
+
+[00:06:08]
+generalmente va a ser todos estamos
+
+[00:06:10]
+mirando lo mismo. Antes de avanzar con
+
+[00:06:12]
+el video, quiero decirte que si tú
+
+[00:06:13]
+quieres conseguir la guía gratuita, esta
+
+[00:06:15]
+guía que estás viendo en esta pantalla,
+
+[00:06:17]
+para poder estudiar la teoría de CRT,
+
+[00:06:20]
+del rango de velas, puedes escribirme
+
+[00:06:22]
+abajo en la descripción o en el
+
+[00:06:23]
+comentario fijado. estaré eh leyendo en
+
+[00:06:27]
+mi WhatsApp personal para que yo te
+
+[00:06:28]
+pueda dar esta guía y obviamente es para
+
+[00:06:31]
+las personas que estén interesadas en
+
+[00:06:32]
+aprender más allá, que estén interesadas
+
+[00:06:34]
+en estudiar, te haré unas preguntas,
+
+[00:06:36]
+estaremos conversando y te daré esta
+
+[00:06:38]
+guía totalmente gratis para que me la
+
+[00:06:40]
+pidas. Abajo en la descripción, el
+
+[00:06:41]
+comentario fijado está mi WhatsApp para
+
+[00:06:43]
+que te unas por ahí. Entonces, vamos a
+
+[00:06:44]
+la formación de un rango. ¿Qué es un
+
+[00:06:46]
+rango? ¿Cómo se forma un rango? Pues
+
+[00:06:48]
+como les decía, miren, esto es una toma
+
+[00:06:50]
+de liquidez. Simplemente aquí no se ha
+
+[00:06:52]
+formado un rango, pero cuando el precio
+
+[00:06:54]
+viene, abre la vela, el precio ya una
+
+[00:06:56]
+vez que viene, abrió la vela, cerró, una
+
+[00:06:58]
+vez que la vela cerró dentro del cuerpo
+
+[00:07:00]
+de la vela anterior, ahí sí ya viene la
+
+[00:07:02]
+formación de un rango. Entonces sería el
+
+[00:07:04]
+la liquidez tomada, el precio purga
+
+[00:07:06]
+liquidez, después se crea el rango. ¿Por
+
+[00:07:08]
+qué se crea el rango? Porque la vela ya
+
+[00:07:10]
+cierra dentro del cuerpo de la vela
+
+[00:07:11]
+anterior y después nosotros tenemos
+
+[00:07:13]
+nuestra entrada en la tercera vela. Esto
+
+[00:07:15]
+es lo que la ejecución más simple y más
+
+[00:07:18]
+sencilla para poder ejecutar este
+
+[00:07:21]
+entradas con CRT. Es bastante sencillo y
+
+[00:07:24]
+simple de entender y muy muy pero muy
+
+[00:07:27]
+objetivo. Bueno, vamos con el siguiente
+
+[00:07:28]
+dispositiva para seguir abundando con lo
+
+[00:07:31]
+que es el CRT. El ¿Qué es el turtle sop
+
+[00:07:34]
+o qué sería el Turtle Shop? El Turtle
+
+[00:07:35]
+Shop sería la vela que caza la liquidez
+
+[00:07:37]
+o que toma la liquidez, que sería en
+
+[00:07:38]
+este caso la segunda vela. En este caso
+
+[00:07:41]
+el CRT es íntimamente ligado al Turtle
+
+[00:07:43]
+Shop o TS. Yo le digo así, le puedes
+
+[00:07:45]
+llamar como tú como tú quieras y es un
+
+[00:07:47]
+concepto que que explota las falsas
+
+[00:07:49]
+rupturas de soportes o resistencias
+
+[00:07:51]
+evidentes. El mercado rompe un nivel y
+
+[00:07:53]
+evidente importante que en este caso
+
+[00:07:55]
+siempre se va a ver con un máximo, con
+
+[00:07:57]
+un mínimo de alguna vela de cualquier
+
+[00:07:59]
+temporalidad. Activa los stops y las
+
+[00:08:01]
+entradas, salta los stop posicionados y
+
+[00:08:04]
+luego después revierte. Prácticamente la
+
+[00:08:07]
+forma de ver esto es cuando la vela ya
+
+[00:08:08]
+cerró, cuando ya tenemos un rango
+
+[00:08:10]
+confirmado en una otra temporalidad. La
+
+[00:08:12]
+la regla del del TS, ¿qué sería? El
+
+[00:08:14]
+precio toma el mínimo de una vela previa
+
+[00:08:16]
+a la ruptura, no logra sostenerse por
+
+[00:08:18]
+debajo y cierra de vuelta hacia la vela
+
+[00:08:20]
+anterior. Esa mecha queda por debajo. Es
+
+[00:08:22]
+una huella de trampa. Esto sería eh el
+
+[00:08:25]
+TS que es bien importante porque muchos
+
+[00:08:28]
+confunden el CRT, porque el CRT no es
+
+[00:08:30]
+una toma de liquidez. El CRT es cuando
+
+[00:08:32]
+ya se crean rangos. El CRT estudia los
+
+[00:08:34]
+rangos que se crean mediante las falsas
+
+[00:08:36]
+rupturas o las falsas tomas de liquidez
+
+[00:08:38]
+o una toma de liquidez, ¿no? Ahora vamos
+
+[00:08:40]
+a ver cuál es el punto óptimo de entrar
+
+[00:08:42]
+en una manipulación. Cuando la siguiente
+
+[00:08:44]
+vela abre y el precio genera la mecha, o
+
+[00:08:46]
+sea, nosotros tenemos aquí esta vela,
+
+[00:08:48]
+tenemos el TS, que sería, este es el que
+
+[00:08:50]
+les digo, el TS. Y cuando la siguiente
+
+[00:08:53]
+vela abre y genera la mecha en el en
+
+[00:08:56]
+contra, tú entras a favor de la
+
+[00:08:58]
+distribución que viene. O sea, que el
+
+[00:08:59]
+precio aquí tú tú ya te formó un rango
+
+[00:09:01]
+que el objetivo es este alto de arriba y
+
+[00:09:04]
+tú vas a estar entrando cuando el precio
+
+[00:09:06]
+venga cayendo, o sea, cuando el precio
+
+[00:09:08]
+venga formando la mecha de la vela.
+
+[00:09:10]
+Entonces, la vela abre, por ejemplo,
+
+[00:09:12]
+abre y define su punto de referencia, su
+
+[00:09:13]
+punto de entrada. El precio manipula
+
+[00:09:16]
+para abajo, en este caso porque estamos
+
+[00:09:17]
+viendo un rango alcista y cuando el
+
+[00:09:19]
+precio recupera la apertura, ahí es
+
+[00:09:20]
+donde tú entras, ¿no? Esto sería la
+
+[00:09:22]
+forma de entrar en la tercera vela del
+
+[00:09:25]
+CRT. Igualmente, ahorita vamos a ir a la
+
+[00:09:27]
+gráfica y te voy a hacer algunos
+
+[00:09:28]
+ejemplos totalmente claros para que tú
+
+[00:09:30]
+lo entiendas. Ahora vamos con el tema de
+
+[00:09:32]
+temporalidades, chicos. Para no agarte
+
+[00:09:34]
+en gráficos o en tantas temporalidades,
+
+[00:09:36]
+empieza solo con cuatro o con tres
+
+[00:09:38]
+temporalidades, cada una con un rol
+
+[00:09:40]
+claro. En este canal seguramente vas a
+
+[00:09:43]
+estar viendo videos del CRT de que te
+
+[00:09:45]
+enseño a usar dos, tres o una sola
+
+[00:09:48]
+temporalidad. Entonces, para que los
+
+[00:09:49]
+vayas a ver y decirte que se puede hacer
+
+[00:09:51]
+CRT. Y una de las críticas más grandes
+
+[00:09:54]
+que me han hecho siempre al CRT es,
+
+[00:09:56]
+"Gustavo, ¿tias tantas temporalidades?"
+
+[00:09:58]
+Me confundo. No es necesario utilizar
+
+[00:10:00]
+tantas temporalidades. Puedes usar una
+
+[00:10:02]
+temporalidad para contexto principal,
+
+[00:10:04]
+que sería la diaria, para ver hacia
+
+[00:10:06]
+dónde va el precio, hacia dónde podría
+
+[00:10:07]
+llegar el precio, para la dirección,
+
+[00:10:09]
+para el vías, una dirección de un un
+
+[00:10:11]
+intermedio de 4 horas para ver hacia
+
+[00:10:13]
+dónde va la sesión, la sesión, hacia
+
+[00:10:15]
+dónde puede llegar la sesión. O si tal
+
+[00:10:17]
+vez estamos alcistas en el diario, pero
+
+[00:10:19]
+en 4 horas estamos en un retroceso,
+
+[00:10:21]
+¿dónde deberíamos de completar ese
+
+[00:10:22]
+retroceso para seguir subiendo? y en una
+
+[00:10:24]
+hora la validación de la entrada o ya el
+
+[00:10:27]
+punto de entrada más refinado para
+
+[00:10:28]
+terminar gatillando en 15 minutos.
+
+[00:10:31]
+Entonces, usar pocas temporalidades
+
+[00:10:33]
+puede ser beneficioso, aunque a veces yo
+
+[00:10:35]
+utilizo muchas temporalidades
+
+[00:10:38]
+porque eh aunque a veces yo utilizo
+
+[00:10:40]
+muchas temporalidades porque me da
+
+[00:10:42]
+mejor, yo me gusta ver más
+
+[00:10:44]
+temporalidades para darme como más
+
+[00:10:45]
+visión del precio, aunque no es
+
+[00:10:47]
+necesario utilizar tantas.
+
+[00:10:49]
+Ahora vamos a un ejemplo de un paso a
+
+[00:10:51]
+paso con esto. En mi diario el precio
+
+[00:10:53]
+toma el máximo anterior y forma un rango
+
+[00:10:55]
+bajista, un CRT de tres velas en el
+
+[00:10:57]
+diario. Después dentro de ese rango
+
+[00:10:59]
+diario se forma un nuevo rango bajista
+
+[00:11:01]
+en 4 horas y en una hora tenemos un
+
+[00:11:03]
+rango que parece en contratendencia,
+
+[00:11:05]
+pero después eh es un retroceso para
+
+[00:11:08]
+después hacer solamente una distribución
+
+[00:11:10]
+y nuestra entrada en 15 minutos. Okay,
+
+[00:11:12]
+vamos a ver las entradas, dónde entrar y
+
+[00:11:14]
+dónde poner el stop loss. La entrada
+
+[00:11:16]
+lógica llega cuando el precio eh sería
+
+[00:11:18]
+abre, o sea, tras la manipulación y
+
+[00:11:21]
+después de la confirmación del TS,
+
+[00:11:22]
+nosotros vamos a colocarnos en el lado
+
+[00:11:24]
+de donde está el rango, o sea, ver el
+
+[00:11:27]
+rango y después colocarnos hacia la
+
+[00:11:29]
+dirección que esté el rango. No se
+
+[00:11:31]
+quieran meter cuando el precio está
+
+[00:11:33]
+tomando la liquidez del mínimo. ¿Por
+
+[00:11:35]
+qué? porque va a haber muchos errores.
+
+[00:11:37]
+Es preferible que se metan cuando ya hay
+
+[00:11:39]
+varios rangos confirmados, aunque se
+
+[00:11:41]
+puede entrar cuando el precio está
+
+[00:11:42]
+tomando liquidez, pero esas son entradas
+
+[00:11:44]
+bastante más riesgosas. Yo, a mí me
+
+[00:11:46]
+gusta entrar de esa manera solamente
+
+[00:11:48]
+cuando tengo un contexto de una alta
+
+[00:11:49]
+temporalidad. El stop loss siempre vamos
+
+[00:11:51]
+a dejar que respire el stop loss, un
+
+[00:11:53]
+stop loss grande, un stop loss eh
+
+[00:11:55]
+suficiente. Pueden ser 3 R, 2 R, una R,
+
+[00:11:59]
+depende lo que tú estés buscando.
+
+[00:12:00]
+[resoplido] El take profit siempre va a
+
+[00:12:01]
+definirse por el extremo opuesto del
+
+[00:12:04]
+rango. Una vez que nosotros tenemos
+
+[00:12:06]
+confirmado el rango, si nosotros
+
+[00:12:08]
+entramos aquí, pues obviamente vamos a
+
+[00:12:10]
+ir hasta el lado opuesto o también puede
+
+[00:12:12]
+ser tomado por un rango de una
+
+[00:12:14]
+temporalidad más alta, ¿no? Ahorita en
+
+[00:12:16]
+el en el les va a quedar bastante más
+
+[00:12:18]
+claro cuándo este haga más ejemplos
+
+[00:12:21]
+sobre eso. Entonces, el CRT es moda o
+
+[00:12:22]
+realmente funciona esta metodología.
+
+[00:12:24]
+Gustavo, la respuesta es, el CRT no es
+
+[00:12:27]
+ninguna magia, no es ni una novedad
+
+[00:12:28]
+absoluta, no es nada que tú digas del
+
+[00:12:31]
+otro mundo, simplemente lo que aporta es
+
+[00:12:33]
+tener una estrategia más mecánica, más
+
+[00:12:35]
+objetiva, tener un paso a paso más
+
+[00:12:37]
+claro, eh no dudar tanto en las
+
+[00:12:39]
+entradas, pero cierto que tú deberías de
+
+[00:12:41]
+tener un contexto, saber tener un
+
+[00:12:43]
+contexto del precio, saber cómo
+
+[00:12:45]
+funcionan cada uno de los rangos,
+
+[00:12:47]
+hacerle back testing, tener un paso a
+
+[00:12:49]
+paso claro, definir un plan de trader,
+
+[00:12:52]
+que esos todos los pasos que debe de
+
+[00:12:53]
+tener cualquier cualquier estrategia,
+
+[00:12:54]
+chicos. Entonces, no es algo mágico,
+
+[00:12:56]
+simplemente tú deberías de tener mejor
+
+[00:12:58]
+contexto sobre el mercado, eh, siguiendo
+
+[00:13:01]
+un paso a paso. Y sí, la estrategia CRT
+
+[00:13:03]
+no es simplemente una moda, es una muy
+
+[00:13:05]
+buena estrategia y se gana muy bien con
+
+[00:13:08]
+ella. Para esto vamos a ir entonces al
+
+[00:13:12]
+gráfico y te voy a enseñar cómo funciona
+
+[00:13:14]
+la estrategia SRT ya en una gráfica
+
+[00:13:16]
+después de toda esta teoría. Bueno,
+
+[00:13:17]
+chicos, por acá estamos en el gráfico
+
+[00:13:19]
+del Nasdaq 100. Es un activo que a mí me
+
+[00:13:21]
+gusta mucho, es el activo en el que yo
+
+[00:13:22]
+me especializo mucho, pero esta
+
+[00:13:24]
+estrategia ya saben que puede funcionar
+
+[00:13:26]
+en cualquier activo y puede funcionar en
+
+[00:13:29]
+cualquier temporalidad. Las personas que
+
+[00:13:31]
+me estén preguntando temporalidades, que
+
+[00:13:33]
+me estén preguntando este horarios, pues
+
+[00:13:35]
+simplemente es porque no llegaron al
+
+[00:13:37]
+final de este video. Entonces por aquí
+
+[00:13:40]
+si una persona en los comentarios estás
+
+[00:13:42]
+preguntando tema de horarios, respóndele
+
+[00:13:44]
+y dile, "No llegaste hasta el final del
+
+[00:13:45]
+video, por eso no sabes, porque en esta
+
+[00:13:47]
+parte de este video te voy a decir los
+
+[00:13:49]
+horarios. para que tú puedas utilizar la
+
+[00:13:51]
+estrategia CRT. Efectivamente,
+
+[00:13:53]
+obviamente, yo aquí me gusta utilizar
+
+[00:13:54]
+una temporalidad diaria para tener un
+
+[00:13:56]
+contexto del precio. Y yo te voy a decir
+
+[00:13:59]
+honestamente cuál es nuestro mejor
+
+[00:14:01]
+escenario y el escenario de más alta
+
+[00:14:02]
+probabilidad va a ser cuando el precio
+
+[00:14:04]
+nos forme, obviamente un rango que puede
+
+[00:14:06]
+ser de tres velas. Este rango, por
+
+[00:14:08]
+ejemplo, que que está aquí es bastante
+
+[00:14:10]
+claro, es un escenario de alta
+
+[00:14:11]
+probabilidad. No siempre el precio está
+
+[00:14:14]
+formando estos rangos y no siempre
+
+[00:14:16]
+podemos formar estos rangos, pero hay
+
+[00:14:18]
+muchas de las veces, como este día, que
+
+[00:14:20]
+el CRT también nos dice que si el precio
+
+[00:14:22]
+cerró por fuera, o sea, el precio sigue
+
+[00:14:25]
+cayendo, pues simplemente la dirección
+
+[00:14:26]
+sigue siendo bajista, no es necesario
+
+[00:14:28]
+que que esté formado un rango. Y nos
+
+[00:14:30]
+dice también lo opuesto que si el precio
+
+[00:14:32]
+sigue subiendo, o sea, que si esta vela
+
+[00:14:33]
+cierra alcista, el la próxima vela
+
+[00:14:35]
+seguramente sigue alcista, por lo menos
+
+[00:14:37]
+al máximo del alto de la vela anterior.
+
+[00:14:40]
+Pero en este escenario que te quiero
+
+[00:14:41]
+mostrar acá es usar mi temporalidad
+
+[00:14:43]
+diaria para ver el contexto, la
+
+[00:14:45]
+dirección del precio. En este caso aquí
+
+[00:14:47]
+vamos a tener una dirección de el precio
+
+[00:14:49]
+bajista. Una vez que nosotros tenemos
+
+[00:14:51]
+eso, vamos a utilizar nuestra
+
+[00:14:52]
+temporalidad intermedia, como bien te
+
+[00:14:54]
+decía en la teoría, que va a ser 4
+
+[00:14:56]
+horas. Aunque tú también puedes usar
+
+[00:14:58]
+para índices 3 horas, que ya lo estuve
+
+[00:15:00]
+enseñando en anteriores videos, pero 4
+
+[00:15:01]
+horas, 3 horas y después 1 hora y 15
+
+[00:15:04]
+minutos para nuestra entrada. 15 o 5
+
+[00:15:06]
+minutos también se puede hacer. te voy
+
+[00:15:08]
+diciendo algunas variantes según tú lo
+
+[00:15:10]
+puedes hacer porque esto no tiene que
+
+[00:15:11]
+ser estrictamente así como yo lo digo.
+
+[00:15:13]
+Después de esto, nosotros, fíjate, vamos
+
+[00:15:15]
+a ver algo muy importante. A mí me gusta
+
+[00:15:16]
+mucho usar y si tú andas batallando con
+
+[00:15:19]
+encontrar una metodología clara, una
+
+[00:15:21]
+metodología que esté que sea objetiva y
+
+[00:15:23]
+que sea bastante sencilla de ejecutar,
+
+[00:15:26]
+escríbeme abajo en la descripción o en
+
+[00:15:28]
+el comentario fijado vas a tener mi
+
+[00:15:29]
+WhatsApp para si quieres tomar clases de
+
+[00:15:31]
+uno a uno y ir más allá. Y además te voy
+
+[00:15:33]
+a estar regalando esta guía totalmente
+
+[00:15:35]
+gratis si estás viendo en este video
+
+[00:15:37]
+para que también puedas empezar a
+
+[00:15:38]
+estudiar el CRT hoy mismo. Este
+
+[00:15:40]
+indicador eh me gusta utilizando mucho
+
+[00:15:42]
+este indicador que te permite ver las
+
+[00:15:44]
+velas de atrás. Por ejemplo, aquí
+
+[00:15:45]
+estamos en 4 horas y fíjate que la
+
+[00:15:47]
+velita eh roja y verde son las velas
+
+[00:15:50]
+diarias, entonces te permite como ver
+
+[00:15:51]
+dos temporalidades en un solo gráfico.
+
+[00:15:53]
+Me lo puedes pedir por Instagram si no
+
+[00:15:54]
+lo tienes. Es muy útil para ver el CRT.
+
+[00:15:57]
+Y me gusta mucho pues para ver cuándo
+
+[00:15:59]
+cerró el precio, cuándo cerró la vela.
+
+[00:16:01]
+En este caso vamos a ver lo siguiente.
+
+[00:16:03]
+Cuando nosotros formamos este CRT de
+
+[00:16:04]
+tres velas, mira, mira n más en esta
+
+[00:16:07]
+sería la vela número uno. Lo voy a
+
+[00:16:08]
+explicar bastante sencillo. Uno. Esta
+
+[00:16:11]
+sería la vela número dos. Aquí nosotros
+
+[00:16:13]
+tenemos el TS. Mucha gente lo que hace
+
+[00:16:15]
+es que el precio toma liquidez y aquí eh
+
+[00:16:17]
+buscan un nuevo rango y entran. Y esto
+
+[00:16:19]
+sí se puede hacer, pero tú deberías de
+
+[00:16:21]
+tener un contexto antes de que la
+
+[00:16:24]
+dirección es bajista. Porque si tú
+
+[00:16:26]
+entras simplemente a ciegas cuando el
+
+[00:16:27]
+precio vaya tomando liquidez de
+
+[00:16:28]
+cualquier vela, vas a tener muchos stop
+
+[00:16:30]
+loss. A mí lo que me gusta más con el
+
+[00:16:32]
+CRT es que ya esté confirmado el rango,
+
+[00:16:35]
+como en este caso aquí, fíjate que la
+
+[00:16:36]
+vela cierra y ya está confirmado el
+
+[00:16:39]
+rango. ¿Por qué? Porque esto tomó
+
+[00:16:40]
+liquidez y cerró dentro del cuerpo de la
+
+[00:16:42]
+vela anterior. Por lo tanto, nosotros ya
+
+[00:16:43]
+tenemos dirección de que el precio
+
+[00:16:45]
+probablemente va a ir hacia este
+
+[00:16:47]
+extremo. Ahora sí, vamos con el tema
+
+[00:16:49]
+horarios. Gustavo, ¿qué horario puedo
+
+[00:16:51]
+ejecutar? Esta estrategia te va a
+
+[00:16:53]
+funcionar, escúchame muy bien, en
+
+[00:16:55]
+cualquier horario te va a funcionar,
+
+[00:16:58]
+pero principalmente va a estar yendo
+
+[00:17:00]
+mejor en las aperturas de la sesión, en
+
+[00:17:03]
+este caso de Nueva York y de Asia para
+
+[00:17:06]
+lo que son índices. Para Forex va a
+
+[00:17:08]
+estar funcionando mucho mejor para mi
+
+[00:17:10]
+gusto en Londres y Nueva York. Entonces
+
+[00:17:12]
+para índices yo te voy a estar
+
+[00:17:13]
+recomendando la apertura de Nueva York
+
+[00:17:15]
+es la mejor, es la más alta probabilidad
+
+[00:17:17]
+que va a ser las 9 de la mañana. Si anda
+
+[00:17:20]
+alguien preguntando en los comentarios,
+
+[00:17:22]
+los horarios que no dijiste, 9 de la
+
+[00:17:24]
+mañana, le dices, "Miérate el video
+
+[00:17:26]
+completo porque tal, no miraste el video
+
+[00:17:28]
+completo." 9 10 de la mañana. Estos van
+
+[00:17:31]
+a ser los dos los mejores horarios. No
+
+[00:17:33]
+quiere decir que no se pueda operar
+
+[00:17:34]
+fuera de ellos, simplemente estos son
+
+[00:17:37]
+los mejores horarios. Precisamente la
+
+[00:17:40]
+vela de 3 horas va a ser muy buena
+
+[00:17:42]
+porque ahí es donde abre eh la vela de
+
+[00:17:45]
+las 9 de la mañana. Pero no quiere
+
+[00:17:47]
+decir, que esto me lo han preguntado
+
+[00:17:48]
+muchas veces y lo digo públicamente, no
+
+[00:17:50]
+quiere decir que la vela de las 9 de la
+
+[00:17:51]
+mañana sea como infalible o que se
+
+[00:17:53]
+tengas que operar simplemente con la
+
+[00:17:55]
+vela de 3 horas. No, no, no se puede
+
+[00:17:57]
+usar 3 horas o 4 horas. Yo miro las dos
+
+[00:17:58]
+temporalidades, me gusta mirar. Aunque
+
+[00:18:01]
+eh vamos entonces a nuestra temporalidad
+
+[00:18:03]
+de 4 horas y nuestra temporalidad de 4
+
+[00:18:05]
+horas buscaremos un contexto en el
+
+[00:18:07]
+precio. Fíjate que aquí vamos a buscar
+
+[00:18:10]
+en este caso cercas del horario de de
+
+[00:18:13]
+Nueva York. Vamos a ir a una hora. Y
+
+[00:18:16]
+ahora a partir de aquí voy a poner una
+
+[00:18:18]
+línea para que lo veas bastante claro.
+
+[00:18:20]
+Aquí ya sería el CRT. En este caso, abre
+
+[00:18:23]
+el CRT. Ya, ya sería el diario. Ya está.
+
+[00:18:26]
+Ya tenemos el diario.
+
+[00:18:29]
+Entonces, por aquí ya tenemos nuestro
+
+[00:18:30]
+nuestra vela diaria y vamos a ir
+
+[00:18:32]
+nosotros ahora al horario específico que
+
+[00:18:34]
+podrías haber entrado. Voy a poner otra
+
+[00:18:35]
+línea. En este caso va a ser las 9 de la
+
+[00:18:39]
+mañana. En este caso, a las 9 de la
+
+[00:18:40]
+mañana, ahí es donde nosotros vamos a
+
+[00:18:42]
+estar intentando entrar en ventas.
+
+[00:18:45]
+Fíjate, el problema de esta entrada es
+
+[00:18:47]
+que esta entrada ya cumplió o completó
+
+[00:18:49]
+los objetivos. Por lo tanto, en este día
+
+[00:18:52]
+nosotros tendríamos que haber entrado en
+
+[00:18:54]
+la sesión de Asia. A veces te va a
+
+[00:18:56]
+pasar. Muchas de las veces también,
+
+[00:18:58]
+honestamente, el precio todavía no haber
+
+[00:19:00]
+llegado al objetivo. ¿Qué puedes hacer
+
+[00:19:02]
+aquí en este caso? Irte a un índice, a
+
+[00:19:04]
+otro índice que no hay completado el
+
+[00:19:06]
+objetivo y ahí lo puedes operar. Te voy
+
+[00:19:08]
+a dar un super tip aquí, aparte de darte
+
+[00:19:11]
+esto, que en este caso nosotros
+
+[00:19:13]
+podríamos haber ido, porque fíjate, aquí
+
+[00:19:14]
+son las 9 de la mañana, justo aquí, aquí
+
+[00:19:17]
+nosotros vamos a traer las 9 de la
+
+[00:19:19]
+mañana y fíjate que el recorrido es muy
+
+[00:19:20]
+pequeño. Si nosotros vemos que eso pasa
+
+[00:19:22]
+y no nos merece la pena, podremos
+
+[00:19:24]
+tradearlo en el SP500, que fíjate que le
+
+[00:19:27]
+faltaba bastante más recorrido a la
+
+[00:19:28]
+baja. O en este caso también podrías
+
+[00:19:31]
+haber tradeado en este caso en Asia,
+
+[00:19:33]
+¿no? Para naia vamos a nosotros poner en
+
+[00:19:37]
+este caso la vela de 4 horas por acá y
+
+[00:19:40]
+fíjate que en 4 horas nosotros tenemos
+
+[00:19:42]
+otro rango de confirmación aquí.
+
+[00:19:46]
+Aquí tenemos el rango de confirmación.
+
+[00:19:48]
+Fíjate que el precio toma la liquidez,
+
+[00:19:50]
+cierra dentro del cuerpo de la vela
+
+[00:19:51]
+anterior y nosotros estaríamos
+
+[00:19:52]
+ejecutando nuestra entrada aquí. Aquí
+
+[00:19:54]
+justo es donde el rango de 4 horas nos
+
+[00:19:56]
+te está confluyendo con el rango de una
+
+[00:19:58]
+hora y nosotros podemos ejecutar en una
+
+[00:20:01]
+hora justo acá a las 2 de la mañana a la
+
+[00:20:05]
+Bueno, más arriesgado sería a las a las
+
+[00:20:07]
+a las 2 ya casi en Londres, pero por
+
+[00:20:09]
+este punto nosotros podíamos haber
+
+[00:20:11]
+estado entrando. Ahora te voy a estar
+
+[00:20:13]
+mostrando para este video, aparte de
+
+[00:20:15]
+esto, te voy a estar mostrando en Nueva
+
+[00:20:17]
+York antes la la entrada que tuvimos en
+
+[00:20:20]
+3 horas, ¿no? Fíjate que aquí nosotros
+
+[00:20:22]
+no tenemos un rango creado, pero
+
+[00:20:23]
+nosotros vamos directamente hasta el
+
+[00:20:25]
+objetivo. Aquí, ¿qué vamos a estar
+
+[00:20:27]
+haciendo? Nos vamos a estar metiendo en
+
+[00:20:28]
+una temporalidad de 15 minutos.
+
+[00:20:31]
+Acuérdate que esto usamos diario 13
+
+[00:20:34]
+horas, 4 horas, 1 hora y 15 minutos.
+
+[00:20:37]
+Entonces, acá me voy a ir a una hora
+
+[00:20:38]
+para explicarte bien el contexto y te
+
+[00:20:41]
+voy a poner la vela de 3 horas justo
+
+[00:20:43]
+aquí. Okay. No tenemos un rango formado
+
+[00:20:45]
+a favor, Gustavo. Esto va a ser una
+
+[00:20:47]
+entrada de continuación. ¿Qué vamos?
+
+[00:20:48]
+¿Cómo vamos a entrar nosotros? En este
+
+[00:20:50]
+caso vamos a entrar de la manera
+
+[00:20:52]
+siguiente. Cuando el precio abra, venga
+
+[00:20:56]
+así, vamos a estar entrando nosotros
+
+[00:20:58]
+justo aquí. O sea, prácticamente vamos a
+
+[00:21:00]
+tener que esperar un retroceso, una
+
+[00:21:02]
+temporalidad menor para nosotros estar
+
+[00:21:04]
+entrando en 15 minutos, en 5 minutos, en
+
+[00:21:06]
+un retroceso. En la vela de 3 horas,
+
+[00:21:09]
+confluencias con la vela de una hora.
+
+[00:21:10]
+Gustavo, ¿y por qué una hora es
+
+[00:21:12]
+importante? Porque en una hora nosotros
+
+[00:21:14]
+queremos que el precio nos tome, en este
+
+[00:21:17]
+caso el bajo de la vela anterior, que
+
+[00:21:19]
+sería este, para que suba o nos tome en
+
+[00:21:22]
+este caso el máximo para que el precio
+
+[00:21:24]
+baje. Nosotros no vamos a estar entrando
+
+[00:21:26]
+en compras, vamos a estar entrando en
+
+[00:21:28]
+ventas. Entonces, esto lo vamos a
+
+[00:21:29]
+ignorar. Vamos a esperar que el precio
+
+[00:21:31]
+suba y estar entrando de esta manera. Y
+
+[00:21:34]
+ahora sí, vamos a bajarnos a una
+
+[00:21:36]
+temporalidad de 5 minutos y va a abrir
+
+[00:21:38]
+justo aquí a las 9 de la mañana nuestra
+
+[00:21:40]
+sesión. Entonces, vamos a estar
+
+[00:21:41]
+empezando a que el precio suba para
+
+[00:21:44]
+vender. Eso es una entrada en
+
+[00:21:45]
+continuación, no estamos entrando en un
+
+[00:21:47]
+patrón de tres velas. El patrón de tres
+
+[00:21:48]
+velas ya lo teníamos en diario y el
+
+[00:21:50]
+patrón de tres velas lo teníamos en 4
+
+[00:21:53]
+horas o en 3 horas también lo teníamos
+
+[00:21:56]
+confirmado en [carraspeo] la sesión
+
+[00:21:58]
+entre Asia y Londres. Fue ya más tirando
+
+[00:22:00]
+para Londres, pero tú me entiendes, ¿no?
+
+[00:22:02]
+En esa en esa en esa sesión para eh
+
+[00:22:05]
+Asia, yo te recomiendo la apertura de
+
+[00:22:07]
+Asia, que sería la vela de las 19.
+
+[00:22:10]
+de de Asia y para Nueva York te
+
+[00:22:12]
+recomiendo las 9 y las 10. En este caso
+
+[00:22:14]
+serían las 9 de la mañana la que vamos a
+
+[00:22:16]
+ejecutar. Entonces le damos aquí. Fíjate
+
+[00:22:18]
+que ya queda muy poco recorrido los
+
+[00:22:19]
+malos de este rango porque ya digamos
+
+[00:22:21]
+que todo ya se cocinó en en Londres, se
+
+[00:22:24]
+cocinó en Asia, pero aún así podemos
+
+[00:22:27]
+aprovechar a tener una muy buena entrada
+
+[00:22:28]
+porque sabíamos que el objetivo era
+
+[00:22:29]
+bajista. Una vez que el precio vaya
+
+[00:22:31]
+subiendo, fíjate que en H1 el precio
+
+[00:22:33]
+manipula el alto de la vela anterior de
+
+[00:22:36]
+H1 que te decía. Y fíjate que el precio
+
+[00:22:38]
+en este caso forma la mecha de la vela
+
+[00:22:41]
+de 3 horas. Aquí nosotros vamos a estar
+
+[00:22:43]
+entrando hacia este objetivo y ya ahí en
+
+[00:22:46]
+5 minutos tú puedes usar una
+
+[00:22:47]
+confirmación que tú quieras, un breaker,
+
+[00:22:50]
+un FBG inverso, el order block. El más
+
+[00:22:53]
+famoso que mucha gente le gusta utilizar
+
+[00:22:55]
+en el CRT como confirmación es el order
+
+[00:22:57]
+block, que en este sería, en este caso
+
+[00:22:59]
+sería cuando el precio rompiera este
+
+[00:23:00]
+nivel que está ahí, justo cuando el
+
+[00:23:02]
+precio rompiera esa vela, que la vela es
+
+[00:23:04]
+la vela contraria, esto parece más como
+
+[00:23:07]
+smart money con Pero a ver, así le dice
+
+[00:23:09]
+la muchos le dicen así el order block,
+
+[00:23:11]
+que es básicamente cuando el precio
+
+[00:23:12]
+viene haciendo esto, me forma una vela
+
+[00:23:14]
+contraria, la rompe hacia el lado
+
+[00:23:15]
+opuesto y nosotros entraríamos ahí. A mí
+
+[00:23:18]
+me gusta entrar a veces de esa forma o a
+
+[00:23:21]
+veces más agresivo cuando el precio está
+
+[00:23:22]
+tomando liquidez o simplemente a veces
+
+[00:23:24]
+lo que hago es esperar a que el precio
+
+[00:23:26]
+venga a reaccionar para abajo y cuando
+
+[00:23:27]
+estés reaccionando hacia abajo entras.
+
+[00:23:29]
+En 5 y en 15 minutos podrías entrar de
+
+[00:23:31]
+esa manera. En índices a veces no entren
+
+[00:23:33]
+tanto en 15, entren cinco en un minuto
+
+[00:23:36]
+porque lo que puede hacer el precio es
+
+[00:23:38]
+ir muy agresivo y eh ya cuando quieres
+
+[00:23:40]
+agarrar la entrada el precio ya va muy
+
+[00:23:42]
+abajo. Entonces vamos a poner nuestra
+
+[00:23:45]
+entrada final. Vamos a hacer un repaso
+
+[00:23:47]
+final con el Candle Ranch Theory para
+
+[00:23:49]
+que quede bastante bastante claro. Voy a
+
+[00:23:51]
+hacer un repaso para la parte final de
+
+[00:23:53]
+este video. Tenemos en nuestra
+
+[00:23:54]
+temporalidad diaria el precio bajista
+
+[00:23:57]
+con un patrón de tres velas. No logramos
+
+[00:23:59]
+agarrar el punto óptimo de entrada
+
+[00:24:01]
+porque salió en Asia, aunque podrías
+
+[00:24:03]
+haberlo operado Asia, pero para Nueva
+
+[00:24:05]
+York tenemos que el precio todavía le
+
+[00:24:07]
+faltaba un poquito para llegar a nuestra
+
+[00:24:09]
+eh destino o a nuestro objetivo que era
+
+[00:24:12]
+este rango de tres velas. Después de
+
+[00:24:14]
+eso, nosotros bajamos a nuestra
+
+[00:24:16]
+temporalidad de 4 horas o de 3 horas y
+
+[00:24:18]
+cuando vemos nuestra temporalidad, vemos
+
+[00:24:20]
+que ya se cocinó el pescado, ya está
+
+[00:24:22]
+cocinado todo, porque en la sesión entre
+
+[00:24:24]
+Asia y Londres el precio nos confirmó un
+
+[00:24:27]
+rango de tres de 3 horas y era el punto
+
+[00:24:30]
+de entrada justo aquí, pero aún así
+
+[00:24:32]
+nosotros podemos agarrar esta entrada de
+
+[00:24:34]
+continuación cuando el precio abra vaya
+
+[00:24:36]
+subiendo para nosotros vender en la
+
+[00:24:39]
+temporalidad de 3 horas. Para eso vamos
+
+[00:24:41]
+a bajar a nuestra temporalidad de 1
+
+[00:24:43]
+hora. Y después en una temporalidad de
+
+[00:24:45]
+una hora vamos a estar observando un
+
+[00:24:47]
+patrón de tres velas formado o vamos a
+
+[00:24:50]
+estar formando, lo ideal es que se forme
+
+[00:24:52]
+el patrón de tres velas como este, ¿no?
+
+[00:24:53]
+Y entrar nosotros aquí. Pero aún así
+
+[00:24:56]
+nosotros podemos entrar en una
+
+[00:24:57]
+manipulación de H1 en la vela de las 9
+
+[00:24:59]
+de la mañana y vamos a bajarnos a
+
+[00:25:02]
+nuestra temporalidad de 5 minutos. Y
+
+[00:25:03]
+nuestra temporalidad de 5 minutos vamos
+
+[00:25:06]
+a ver observar nuestra vela de 3 horas y
+
+[00:25:08]
+cuando pase justo nuestra vela de 3
+
+[00:25:10]
+horas, nosotros vamos a estar entrando
+
+[00:25:12]
+justo cuando el precio venga hacia
+
+[00:25:15]
+arriba, abre la vela de 3 horas, está
+
+[00:25:16]
+formando la mecha y nos quiebre para
+
+[00:25:19]
+abajo con el order block o cuando
+
+[00:25:22]
+simplemente el precio venga subiendo,
+
+[00:25:23]
+venga, quiebre para abajo, ahí vamos a
+
+[00:25:25]
+estar entrando nosotros justo ahí.
+
+[00:25:27]
+Podríamos haber esperado a que
+
+[00:25:28]
+manipulara también esto, pero el precio
+
+[00:25:30]
+ya no manipuló demasiado. Esto ocurre
+
+[00:25:32]
+justo en el Open de Nueva York y ese
+
+[00:25:34]
+sería el paso a paso. Para los que se
+
+[00:25:36]
+quedaron hasta la parte final de este
+
+[00:25:37]
+video, díganme en los comentarios. Yo me
+
+[00:25:40]
+quedé hasta la parte final, me vi todo
+
+[00:25:41]
+el video. Te voy a regalar este
+
+[00:25:43]
+indicador que me lo puedes pedir en mi
+
+[00:25:46]
+Instagram o me lo puedes pedir en mi
+
+[00:25:47]
+WhatsApp que va a estar abajo en la
+
+[00:25:48]
+descripción, que sería este indicador
+
+[00:25:50]
+que se llama Power of the 3. Este
+
+[00:25:52]
+indicador te va a indicar cuando tú
+
+[00:25:56]
+veas, en este caso, que abre la vela de
+
+[00:25:58]
+3 horas. Fíjate que aquí son las 9 de la
+
+[00:26:01]
+mañana, aquí justo aquí. Vamos a verlo.
+
+[00:26:04]
+Aquí justo son las 9 de la mañana, justo
+
+[00:26:05]
+aquí. Fíjate que aquí abre la siguiente
+
+[00:26:07]
+vela de las 9 de la mañana. viene el
+
+[00:26:09]
+precio va subiendo. Nosotros queremos
+
+[00:26:11]
+que que el precio entrar todo lo que
+
+[00:26:14]
+esté por encima porque somos vendedores,
+
+[00:26:15]
+queremos entrar en toda esta parte, pero
+
+[00:26:17]
+no sabemos hasta dónde puede subir el
+
+[00:26:19]
+precio, obviamente. Entonces, vamos a
+
+[00:26:20]
+esperar a que el precio suba, suba,
+
+[00:26:22]
+suba, sigue subiendo. Ahí el precio se
+
+[00:26:24]
+regresa. Fíjate que ahí justo nos hace
+
+[00:26:26]
+breakout y aquí en este punto o en este
+
+[00:26:28]
+punto más agresivo podríamos haber
+
+[00:26:30]
+entrado en el cierre de la vela o justo
+
+[00:26:32]
+en el en la ruptura. ¿Por qué? Porque
+
+[00:26:34]
+aquí el precio nos nos formó el famoso
+
+[00:26:36]
+order block. En el retesteo a mí no me
+
+[00:26:38]
+gusta entrar, me gusta más entrar en la
+
+[00:26:40]
+ruptura o entrar también aquí. Una vez
+
+[00:26:42]
+nosotros tenemos esto, pues nosotros
+
+[00:26:44]
+podemos colocar una entrada corta justo
+
+[00:26:46]
+en el cierre de vela. Aquí si les queda
+
+[00:26:50]
+el stop loss muy grande, lo pueden poner
+
+[00:26:51]
+al 50 60% de esta de este punto y
+
+[00:26:55]
+nosotros simplemente aquí le daríamos
+
+[00:26:56]
+hasta el bajo diario. Este podría haber
+
+[00:26:59]
+sido nuestra entrada, aunque podríamos
+
+[00:27:01]
+haber entrado más agresivo de esta
+
+[00:27:02]
+manera, más o menos así. Y le damos
+
+[00:27:05]
+también el mismo uno a dos. Yo lo voy a
+
+[00:27:07]
+poner en el cierre de vela, pero yo les
+
+[00:27:09]
+recomiendo que si van a usar cierre de
+
+[00:27:10]
+velas pueden usar velas de tres, de un
+
+[00:27:12]
+minuto más bajitas, porque a veces si se
+
+[00:27:15]
+esperan el cierre de la vela, el precio
+
+[00:27:16]
+como es muy volátil el Nasdaq los va les
+
+[00:27:19]
+va a reventar el, o sea, van a agarrar
+
+[00:27:21]
+la entrada ya muy avanzada, ¿no? Pero
+
+[00:27:23]
+igualmente vean cómo funciona esto a la
+
+[00:27:25]
+perfección. En este caso con la
+
+[00:27:27]
+estrategia CRT usamos diario, usamos 3
+
+[00:27:30]
+horas, una hora y 5 minutos. Bueno, ha
+
+[00:27:33]
+sido un video super bueno sobre la
+
+[00:27:35]
+estrategia CRT. Suscríbete a este canal,
+
+[00:27:37]
+sígueme en todas mis redes sociales que
+
+[00:27:39]
+están abajo en la descripción y si
+
+[00:27:40]
+quieres conocer más sobre un modelo de
+
+[00:27:43]
+entrada con la estrategia CRT o un
+
+[00:27:45]
+modelo de confirmación, te dejo este
+
+[00:27:47]
+video por aquí. Dale click a este video.
+```

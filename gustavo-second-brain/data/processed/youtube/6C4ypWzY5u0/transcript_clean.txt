@@ -1,0 +1,1535 @@
+[00:00:00]
+Ya estamos aquí en un nuevo video. El
+
+[00:00:02]
+día de hoy les voy a traer una
+
+[00:00:03]
+estrategia para US30 y NASDAQ basada en
+
+[00:00:07]
+los horarios de ICT, la estrategia de
+
+[00:00:10]
+silver bullet o de bala de plata. Hay un
+
+[00:00:12]
+indicador bastante bonito que encontré
+
+[00:00:14]
+en Trading View deux Algo, que es un
+
+[00:00:16]
+indicador donde te muestra esta sesión
+
+[00:00:19]
+donde suele ejecutarse la bala de plata.
+
+[00:00:21]
+y te voy a traer algunos ejemplos
+
+[00:00:23]
+concretamente en el par del NASDAQ para
+
+[00:00:25]
+que veas cómo funciona esta estrategia y
+
+[00:00:27]
+para que tú puedas operar esta
+
+[00:00:29]
+estrategia y para que pueda servirte
+
+[00:00:31]
+para pasar pruebas de fondeo o para que
+
+[00:00:33]
+puedas ser rentable en ella. Es bastante
+
+[00:00:35]
+bonita. Y denle like porque próximamente
+
+[00:00:38]
+también si quieren se las voy a traer en
+
+[00:00:40]
+US30 y en algún otro par que quieran
+
+[00:00:43]
+como eurodólar o o el oro. En principio
+
+[00:00:45]
+la voy a estar probando en Nasdaq.
+
+[00:00:48]
+Después les voy a traer más videos en
+
+[00:00:50]
+US30 o en Nasdaq, perdón, en US30 o en
+
+[00:00:53]
+el oro o en el euroólar si les gusta
+
+[00:00:55]
+mucho, ¿no? Vamos allá. Vámonos rápidos.
+
+[00:00:57]
+Vamos a Totalmente al grano y vamos a
+
+[00:00:59]
+pasar al gráfico. Aquí estamos ya en el
+
+[00:01:01]
+gráfico del Nasdaq, nuestro queridísimo
+
+[00:01:04]
+Nasdaq y estamos en el Nasdaq, ¿no?
+
+[00:01:08]
+Entonces, cosas importantes que tienen
+
+[00:01:10]
+que saber. Ahorita vamos a hacer un
+
+[00:01:11]
+poquito de back testing para que ustedes
+
+[00:01:12]
+vean la estrategia. Tengo aquí algunos
+
+[00:01:15]
+ejemplos de entradas y primero que
+
+[00:01:17]
+tienen que saber indicadores. Este es el
+
+[00:01:20]
+indicador bastante bonito de Luux algo,
+
+[00:01:22]
+se llama ICT Salber Ballet. Ojo, yo no
+
+[00:01:25]
+voy a estar utilizando concretamente
+
+[00:01:27]
+todas las reglas al 100% de ICT, sino
+
+[00:01:30]
+que mi razonamiento va a ser basado en
+
+[00:01:32]
+lo que mis conocimientos, no basado
+
+[00:01:34]
+estrictamente en la estrategia de de
+
+[00:01:36]
+Cyber Bullet o exactamente las reglas
+
+[00:01:39]
+que él tiene. Simplemente es la
+
+[00:01:40]
+estrategia basado en en la estrategia
+
+[00:01:43]
+que él tiene. Yo hice esta variante de
+
+[00:01:45]
+mi estrategia. Se parecen bastante, pero
+
+[00:01:48]
+puede ser que algunos me digan, "No, así
+
+[00:01:50]
+no se ejecuta o no es igual." No es lo
+
+[00:01:52]
+mismo. Yo estoy utilizando este
+
+[00:01:54]
+razonamiento. Ojo, Luxalgo Silbert
+
+[00:01:56]
+Ballet se llama ICT Serber Ballet se
+
+[00:01:58]
+llama el indicador de Luxo. Lo pueden
+
+[00:02:01]
+encontrar ahí en Trading View. Y yo le
+
+[00:02:03]
+configuré algunas cosas. Bueno, chicos,
+
+[00:02:04]
+los quería invitar también a que se
+
+[00:02:06]
+pasen por nuestras redes sociales, eh,
+
+[00:02:09]
+concretamente nuestro grupo privado de
+
+[00:02:11]
+Telegram. Nos sigan en nuestro Instagram
+
+[00:02:13]
+y nuestro grupo privado de WhatsApp
+
+[00:02:15]
+donde está toda la comunidad de traders.
+
+[00:02:18]
+Abajo en la descripción se encuentran
+
+[00:02:19]
+para que se pasen, chicos, se unan a
+
+[00:02:21]
+nuestra comunidad. Primero, tema de
+
+[00:02:23]
+horario, de 10 a 11 de Nueva York.
+
+[00:02:25]
+Puedes tú tradear de 3 a 4 o de 2 de 2 a
+
+[00:02:29]
+3 de la mañana, que acá sería lo que es
+
+[00:02:31]
+la sesión de Londres. Podrías esperar tú
+
+[00:02:33]
+la sesión de Londres también para poder
+
+[00:02:35]
+tradear, sesión de Londres y lo que es
+
+[00:02:37]
+la sesión de la tarde de lo que es New
+
+[00:02:39]
+York. Pero a mí me gusta la apertura.
+
+[00:02:42]
+Algo que me gusta bastante esta
+
+[00:02:43]
+estrategia es que deja pasar 30 minutos
+
+[00:02:45]
+después de la apertura de la bolsa de
+
+[00:02:47]
+valores y ahí te te puedes llegar a
+
+[00:02:50]
+quitar muchos manipulaciones que hace el
+
+[00:02:52]
+mercado en ese tiempo, ¿no? Entonces, me
+
+[00:02:55]
+encanta muchísimo. Y bueno, este es el
+
+[00:02:57]
+indicador. Yo tengo solamente sesión de
+
+[00:02:58]
+10 a 11 de la mañana, hora de New York.
+
+[00:03:01]
+Tengo aquí puesto todas estas
+
+[00:03:03]
+configuraciones igual para que me
+
+[00:03:04]
+muestre los la rupturas de estructura,
+
+[00:03:07]
+me muestre las resistencias, te muestra
+
+[00:03:09]
+los FGs o los imbalances y esto es lo
+
+[00:03:12]
+que tengo, ¿no? Vamos a explicar la
+
+[00:03:13]
+primera entradita, ¿verad? Vamos a pasar
+
+[00:03:15]
+primero a la primera entradita. Aquí
+
+[00:03:16]
+tenemos la primera entradita. Algo
+
+[00:03:18]
+también que quería mencionarles es que
+
+[00:03:20]
+esta estrategia yo la voy a utilizar en
+
+[00:03:22]
+un minuto, 1, 2, 3 o 4 minutos. Y vamos
+
+[00:03:26]
+a tener aquí nuestro indicador, nos va a
+
+[00:03:27]
+marcar la franja horaria. Estas dos
+
+[00:03:29]
+horas van a ser las horas que yo voy a
+
+[00:03:31]
+tener para tradear, ¿no? En este, bueno,
+
+[00:03:34]
+en esta hora no. Yo a veces le doy un
+
+[00:03:35]
+poquitito más, una media hora, una
+
+[00:03:37]
+horita más, pero ya van a ir ustedes
+
+[00:03:39]
+viendo con los ejemplos, ¿no? Otro
+
+[00:03:41]
+indicador que me gusta bastante, aparte
+
+[00:03:43]
+del ICT Ballet, es este 50% no body
+
+[00:03:47]
+candle. Este 50% no body candle es para
+
+[00:03:50]
+poderme marcar un poquitín mejor los
+
+[00:03:52]
+order blocks sensibles en el precio.
+
+[00:03:54]
+Quería mencionar el tema de que vamos a
+
+[00:03:56]
+tratar de ejecutar esta estrategia
+
+[00:03:58]
+siempre a favor de la tendencia. Para
+
+[00:04:00]
+ello también podemos poner una media
+
+[00:04:02]
+móvil, una media móvil para que nos
+
+[00:04:03]
+ayude a ver la tendencia en la que va el
+
+[00:04:05]
+mercado y a través de esta tendencia
+
+[00:04:07]
+pues nosotros podemos estar entrando,
+
+[00:04:09]
+¿no? Simplemente vamos a analizar la
+
+[00:04:11]
+tendencia con conceptos institucionales.
+
+[00:04:13]
+Por ejemplo, aquí tenemos un rompimiento
+
+[00:04:14]
+de estructura, tenemos la tendencia
+
+[00:04:16]
+completamente alcista, ¿no? Entonces
+
+[00:04:19]
+vamos a irnos a favor de la tendencia.
+
+[00:04:20]
+Pueden utilizar una media móvil si
+
+[00:04:22]
+quieren. Luego vamos a utilizar
+
+[00:04:23]
+imbalance Finder Dynamic si ustedes
+
+[00:04:25]
+quieren para ver los mejores los
+
+[00:04:27]
+imbalances. Y también podemos estar
+
+[00:04:29]
+llegando a utilizar el 50% no body
+
+[00:04:31]
+candle, que es para ver las velas más
+
+[00:04:34]
+sensibles en el mercado, ¿no? Igualmente
+
+[00:04:36]
+vamos aquí a ver esta entrada del día de
+
+[00:04:39]
+eh del día martes 10 de octubre que se
+
+[00:04:41]
+dio bastante bien y aquí, por ejemplo,
+
+[00:04:43]
+vamos a poner nuestra sesión, ¿no?
+
+[00:04:44]
+Entonces nosotros vamos a operar nuestro
+
+[00:04:46]
+horario, ¿no? Vamos a tratar de tradear
+
+[00:04:48]
+a favor de las de la tendencia, a favor
+
+[00:04:50]
+de la estructura y ahí nos vamos a ir
+
+[00:04:52]
+nos vamos a montar targets, amigos. Más
+
+[00:04:54]
+o menos. Fíjense, yo estoy hay varias
+
+[00:04:56]
+bastantes variantes de target. Fíjense,
+
+[00:04:58]
+ahí les va. Puedo tradear un uno a dos
+
+[00:05:01]
+si quiero. Esto sería una opción, un uno
+
+[00:05:03]
+a dos solamente. O también podemos
+
+[00:05:05]
+tradear un uno a tres limpio o un a cu.
+
+[00:05:09]
+¿Cuál es el que mejor me gusta a mí? A
+
+[00:05:11]
+mí me gusta más el uno a cu, pero tomo
+
+[00:05:13]
+un parcial en el uno a dos. O sea, que
+
+[00:05:15]
+aquí, por ejemplo, voy a uno a cu y en
+
+[00:05:17]
+el uno a dos, más o menos en el uno a
+
+[00:05:20]
+dos, espérame, dej pongo aquí uno a dos.
+
+[00:05:22]
+Aquí tomo un parcial. Puedo emplear un
+
+[00:05:24]
+riesgo, como vamos a traer todos los
+
+[00:05:26]
+días o casi todos los días, puedo
+
+[00:05:27]
+utilizar 1% de riesgo. Yo creo que está
+
+[00:05:29]
+bastante bien para utilizarla. Si
+
+[00:05:31]
+ganamos toda la operación, los dos
+
+[00:05:33]
+parciales, ganaríamos un 3% de la
+
+[00:05:35]
+cuenta. O aquí podríamos eh ganar un 3%
+
+[00:05:39]
+igualmente, pero este es toma de
+
+[00:05:41]
+parcial. O podríamos irnos al 1 a 2, un
+
+[00:05:43]
+2% de la cuenta. A mí me gusta el 1 a 4
+
+[00:05:45]
+con un parcial en el 1 a 2 y más o menos
+
+[00:05:47]
+al 1 a 1.5, más o menos en el uno en el
+
+[00:05:51]
+1 a 1.5 aproximadamente por aquí sobre
+
+[00:05:54]
+los 11.5 estoy yo poniendo un break even
+
+[00:05:58]
+ya asegurando mi posición. Y lo que otra
+
+[00:06:01]
+cosa que les había dicho, el stop loss,
+
+[00:06:03]
+el tema del stop loss, estoy calculando
+
+[00:06:04]
+un stop loss de entre 30 a este 40
+
+[00:06:08]
+puntos cuando mucho. Yo puedo jugar con
+
+[00:06:10]
+este rango entre 30 y 40 puntitos. Hay
+
+[00:06:12]
+veces que los rangos están un poquito
+
+[00:06:14]
+amplios y no me da chance de poner un
+
+[00:06:17]
+stoploss tan pequeño. La cosa aquí es
+
+[00:06:19]
+esperar bastante bien la sesión, que
+
+[00:06:21]
+pese la manipulación de la sesión. Ahí
+
+[00:06:23]
+esperamos la apertura, ta ta ta. Ahí,
+
+[00:06:25]
+por ejemplo, nos metemos, esperamos a
+
+[00:06:27]
+favor de la tendencia que el mercado
+
+[00:06:29]
+genere alguna ineficiencia. Por ejemplo,
+
+[00:06:31]
+aquí genera un imbalance bastante bueno,
+
+[00:06:33]
+viene a esta zona de breaker también.
+
+[00:06:35]
+Entonces aquí es donde nos podríamos
+
+[00:06:37]
+llegar a montar. También la media móvil,
+
+[00:06:39]
+como les dije, nos va a servir de
+
+[00:06:40]
+confluencias. Nos podríamos llegar a
+
+[00:06:42]
+montar en este imbalance o en este otro
+
+[00:06:44]
+imbalance que genera aquí el precio. De
+
+[00:06:45]
+hecho, aquí de hecho se los voy a mover
+
+[00:06:47]
+un poquito para que vean ustedes cómo
+
+[00:06:49]
+tendríamos esta primera entrada a favor
+
+[00:06:51]
+de la estructura. 30, 40 puntitos. Si te
+
+[00:06:53]
+sacan, no importa. Estamos hablando de
+
+[00:06:56]
+de una entrada al día, un horario
+
+[00:06:57]
+específico y es lo que me gusta a mí.
+
+[00:06:59]
+Acá rebalancea cualquier imbalance, por
+
+[00:07:02]
+ejemplo, aquí baja el precio un poquito
+
+[00:07:03]
+más a este imbalance. Cualquiera de los
+
+[00:07:05]
+dos está bien tomado, la verdad. Yo
+
+[00:07:07]
+hubiera tomado el de arriba, es el
+
+[00:07:08]
+primero que yo hubiera tomado y me
+
+[00:07:10]
+protejo aquí por debajo de este mínimo.
+
+[00:07:12]
+Si el precio viene y busca más
+
+[00:07:13]
+estructura, pues nos olvidamos, viene y
+
+[00:07:15]
+busca más cositas acá abajo, pues nos
+
+[00:07:16]
+olvidamos ya de eso, ¿no? Ahí va el
+
+[00:07:18]
+precio a respetar bastante bien.
+
+[00:07:20]
+Obviamente pues yo ya sé lo que lo que
+
+[00:07:21]
+pasó, ¿verdad? Pero yo en los próximos
+
+[00:07:23]
+días voy a estar probando o voy a estar
+
+[00:07:26]
+testeando en una cuenta demo y después
+
+[00:07:28]
+posteriormente puede ser que en una
+
+[00:07:30]
+prenta de futuros, en un challenge. Me
+
+[00:07:32]
+gustó bastante la estrategia y ya saben
+
+[00:07:34]
+que yo hago mucho swing, entonces voy a
+
+[00:07:36]
+estar también en una temporada tradeando
+
+[00:07:38]
+un poquito así. Vamos a probar la
+
+[00:07:40]
+estrategia bien para que ustedes vean
+
+[00:07:42]
+que sí funciona y en un futuro pues
+
+[00:07:44]
+puedan utilizarle bastante gente. Aquí
+
+[00:07:46]
+tocamos el uno a dos, esperamos a
+
+[00:07:48]
+nuestro 1 a cu. Aquí le vamos a dar un
+
+[00:07:49]
+poquito al por tres. Esperamos aquí a
+
+[00:07:51]
+nuestro 1 a cu. Normalmente este
+
+[00:07:54]
+ranguito te suele dar entre 100, 120
+
+[00:07:56]
+puntitos. Hay veces que te da 90 por ahí
+
+[00:07:59]
+anda, ¿no? Aquí también el indicador nos
+
+[00:08:01]
+causa, nos pone una bolita que esta
+
+[00:08:03]
+bolita es tiene el target de los de
+
+[00:08:05]
+previos highs anteriores o resistencias
+
+[00:08:08]
+anteriores. Cuando el precio toma
+
+[00:08:09]
+liquidez anterior es cuando ya te dice
+
+[00:08:11]
+que salgas. También aquí tú puedes salir
+
+[00:08:13]
+bajo el indicador si quieres, pero yo
+
+[00:08:15]
+más o menos estoy calculando este
+
+[00:08:16]
+ranguito. Si se fijan, aquí nos da
+
+[00:08:18]
+nuestro queridísimo uno a cuatro. Vamos
+
+[00:08:20]
+a ver ahorita otra otra entrada, otra
+
+[00:08:23]
+este ejemplo para que ustedes vean. Otro
+
+[00:08:24]
+ejemplo también bastante bonito. Está
+
+[00:08:26]
+muy bien. La verdad que me encanta mucho
+
+[00:08:28]
+el tema de que tiene un solo horario,
+
+[00:08:30]
+nos apegamos a estas entradas, si no nos
+
+[00:08:32]
+la da, no nos la da. Y yo trato de 30
+
+[00:08:34]
+minutitos, cuando mucho más del horario
+
+[00:08:37]
+ya no tradeo yo. Si veo que se pasa el
+
+[00:08:39]
+horario, ya no tradeo yo. Este, por
+
+[00:08:41]
+ejemplo, la sesión de Londres del día
+
+[00:08:43]
+martes, también podría haberse tradeado,
+
+[00:08:45]
+no más que esa no me gusta tanto. Y esta
+
+[00:08:46]
+es la sesión de la tarde de el día
+
+[00:08:50]
+lunes. Vamos a ver la entrada del día
+
+[00:08:52]
+lunes. La verdad, aquí tenemos un
+
+[00:08:55]
+poquito esta entrada es un poquito más
+
+[00:08:56]
+compleja, pero igualmente sigue
+
+[00:08:58]
+funcionando, ¿no? Entonces, aquí vamos a
+
+[00:09:00]
+ir para acá. Nosotros reconocemos aquí
+
+[00:09:03]
+básicamente el horario. Les voy a
+
+[00:09:05]
+minimizar poquito esto. Aquí vemos
+
+[00:09:07]
+nosotros que tenemos una estructura
+
+[00:09:09]
+completamente alcista aquí a la alza,
+
+[00:09:12]
+¿verdad? Tenemos una estructura alcista,
+
+[00:09:14]
+vemos un quiebre estructural antes,
+
+[00:09:16]
+vemos una manipulación, una toma de
+
+[00:09:17]
+liquidez aquí. Entonces podíamos pensar
+
+[00:09:20]
+en comprar. Fíjense que simplemente nos
+
+[00:09:22]
+vamos a basar en lo en lo que veamos
+
+[00:09:24]
+aquí cuando muchos dos tr días atrás
+
+[00:09:26]
+para tomar decisiones. Entonces, no se
+
+[00:09:28]
+compliquen mucho la cabeza, simplemente
+
+[00:09:30]
+ustedes vean y sigan la tendencia, ya
+
+[00:09:32]
+está, no es tan difícil tampoco, ¿no?
+
+[00:09:35]
+Entonces, simplemente traten de ir a
+
+[00:09:36]
+favor de la tendencia, eh, es algo muy
+
+[00:09:38]
+esencial para que les funcione. Por eso
+
+[00:09:40]
+yo no voy a estar tratando de buscar
+
+[00:09:41]
+ventas, aunque aquí me las dé, porque yo
+
+[00:09:43]
+mi idea era comprar este día porque
+
+[00:09:45]
+vemos una toma de liquidez, una ruptura
+
+[00:09:47]
+de estructura y vemos una tendencia a
+
+[00:09:49]
+favor, ¿no? Entonces, aquí tenemos el
+
+[00:09:50]
+día lunes. Podemos esperar aquí que la
+
+[00:09:52]
+acción de precio nos diga, se detenga.
+
+[00:09:54]
+Por ejemplo, aquí con nuestro 50% no
+
+[00:09:56]
+body candle detectamos una vela sensible
+
+[00:09:59]
+en el precio, una área sensible aquí en
+
+[00:10:01]
+el mercado. Tenemos esta zona de soporte
+
+[00:10:03]
+también. Entonces, esperamos que el
+
+[00:10:04]
+mercado reaccione. Ahí vemos un poquito
+
+[00:10:06]
+de reacción. Yo aquí, la verdad, yo
+
+[00:10:08]
+estaría entrando por aquí con 30
+
+[00:10:09]
+puntitos de stop loss. La verdad, yo me
+
+[00:10:12]
+yo podría haber estado entrando por ahí,
+
+[00:10:13]
+si te soy sincero. Yo no esperaría mucho
+
+[00:10:15]
+más. entraría por ahí, pero igualmente
+
+[00:10:17]
+ahorita van a ver como el precio va a
+
+[00:10:19]
+fallar en hacer un nuevo máximo. Aquí la
+
+[00:10:21]
+media móvil ya se empieza a poner para
+
+[00:10:22]
+arriba. Ustedes pueden estar rotando,
+
+[00:10:24]
+ciclando la temporalidad de 2 minutos,
+
+[00:10:26]
+de 3 minutos para estar viendo
+
+[00:10:28]
+confluencias. Yo ya la verdad no me
+
+[00:10:30]
+subiría más de 5 minutos porque ya es
+
+[00:10:32]
+demasiado rápido para el precio, verad,
+
+[00:10:34]
+ya es demasiado para para este horario,
+
+[00:10:37]
+¿no? Entonces están viendo que se está
+
+[00:10:38]
+dando la entrada en el horario, pum,
+
+[00:10:40]
+pum, pum, viene el mercado, se se lleva
+
+[00:10:43]
+ese mínimo. Acá como que nos nos nos
+
+[00:10:45]
+tira un susto, igualmente sigue
+
+[00:10:47]
+respetando esta zona. Fíjense la
+
+[00:10:49]
+importancia de protegerse por debajo de
+
+[00:10:51]
+puntos estructurales también
+
+[00:10:53]
+importantes. Aquí si querían ir un
+
+[00:10:55]
+poquito más a la segura, también se vale
+
+[00:10:57]
+unos 40 puntitos aquí un poquito ya más
+
+[00:10:59]
+de 40 puntos, la verdad no, porque ya no
+
+[00:11:01]
+nos sale el ratio riesgo beneficio, pero
+
+[00:11:03]
+podían arriesgar un poquitín más. Por
+
+[00:11:05]
+ejemplo, este día yo podía haber
+
+[00:11:07]
+arriesgado un poquitín más. unos 40
+
+[00:11:09]
+puntitos, no pasa nada, está bien.
+
+[00:11:11]
+Igualmente, no se pierdan una entrada
+
+[00:11:12]
+por eso. O esperarse un nuevo quiebre de
+
+[00:11:15]
+estructura, por ejemplo, si no entraron
+
+[00:11:16]
+aquí, esperar un nuevo quiebre de
+
+[00:11:18]
+estructura acá, por ejemplo, ahorita les
+
+[00:11:19]
+voy a decir ahí dónde hace un nuevo
+
+[00:11:21]
+quiebre de estructura al mercado. Y ahí
+
+[00:11:23]
+podrían ustedes haber entrado también.
+
+[00:11:25]
+Entonces, por ejemplo, aquí hace un
+
+[00:11:26]
+nuevo quiebre estructural el precio y
+
+[00:11:28]
+aquí podrían haber ejecutado otra
+
+[00:11:29]
+entrada. Por ejemplo, aquí en la en la
+
+[00:11:31]
+ruptura de esta estructura, aquí es
+
+[00:11:33]
+donde podíamos haber puesto otra nueva
+
+[00:11:35]
+entrada, ¿no? Y habernos protegido por
+
+[00:11:36]
+debajo de este mínimo, más o menos unos
+
+[00:11:38]
+40 puntitos igualmente también, y le
+
+[00:11:41]
+damos para arriba, ¿no? 30, 40 puntitos,
+
+[00:11:43]
+ya sabes que es lo lo ideal de stop
+
+[00:11:45]
+loss. Pueden utilizar un poquito más, un
+
+[00:11:47]
+poquito menos. Por ejemplo, aquí
+
+[00:11:48]
+tendríamos nuestro primer parcial y
+
+[00:11:51]
+nuestra salida en el uno a cu, ¿no? Y
+
+[00:11:53]
+ahí dejamos correr el mercado. La idea
+
+[00:11:55]
+es clara, ¿no? Estar comprando por la
+
+[00:11:57]
+estructura y estar tratando de ir a
+
+[00:11:59]
+favor de esa tendencia, simplemente
+
+[00:12:01]
+tratando de agarrarnos nuestros 100
+
+[00:12:03]
+puntitos, 120 puntitos aproximadamente
+
+[00:12:05]
+en el día. ¿Cuánto dejas correr después
+
+[00:12:07]
+de que ya pasó la sesión? Por ejemplo,
+
+[00:12:09]
+esta entrada o esta reentrada yo no la
+
+[00:12:11]
+hubiera tomado. ¿Por qué? Porque no está
+
+[00:12:12]
+en sesión. Pero más o menos yo les había
+
+[00:12:14]
+dicho que un rango de 30 de 30 minutos
+
+[00:12:17]
+después de las 10 de la de las 11 de la
+
+[00:12:19]
+mañana ahora en New York más o menos
+
+[00:12:21]
+aquí yo lo tengo configurado a mi
+
+[00:12:22]
+horario y en mi horario serían 8:30 pero
+
+[00:12:24]
+serían 11:30 de hora en New York. Aquí
+
+[00:12:27]
+yo estaría dejando correr al 1 a 2 y
+
+[00:12:29]
+pues poniendo break even y dejando que
+
+[00:12:31]
+la posición se vaya, no me puedo llegar
+
+[00:12:33]
+a esperar, ¿no? O sea, no no no pasa
+
+[00:12:36]
+nada, ¿no? No pasa nada. Yo dejo correr
+
+[00:12:37]
+una vez que estoy dentro de la
+
+[00:12:38]
+operación, ejecuto en este rango de
+
+[00:12:40]
+horarios aproximadamente, pero una vez
+
+[00:12:42]
+que estoy dentro, pues pongo mi break,
+
+[00:12:44]
+por ejemplo, en el 1 a1.5, por ejemplo,
+
+[00:12:46]
+aquí podremos esta, por ejemplo, nos
+
+[00:12:48]
+podía haber sacado en break even
+
+[00:12:50]
+también, o sea, son opciones, pero
+
+[00:12:52]
+igualmente se da bastante bien, ¿no?
+
+[00:12:53]
+Podía haber sacado en break even porque
+
+[00:12:55]
+en el 11 1.5 si pusimos break even pues
+
+[00:12:57]
+nos sacó en break even también y ahí
+
+[00:12:59]
+tendríamos nuestro 1 a cu. Van a ver que
+
+[00:13:01]
+ahorita el precio va a empujar un
+
+[00:13:02]
+poquito más y nos va a dar nuestro
+
+[00:13:04]
+entrada un 1 a cu. Y ahorita les voy a
+
+[00:13:06]
+enseñar otra entrada para que ustedes
+
+[00:13:08]
+tengan como más idea de lo que quieran.
+
+[00:13:10]
+Igualmente, no olviden unirse a nuestro
+
+[00:13:13]
+nuestro Telegram y nuestro WhatsApp y
+
+[00:13:16]
+nuestro Instagram para ahí vamos a hacer
+
+[00:13:18]
+sesiones de Zoom probando, haciendo back
+
+[00:13:20]
+testing a la estrategia. Entonces ahí
+
+[00:13:21]
+nos da nuestro A4. Finalmente les voy a
+
+[00:13:23]
+enseñar otro ejemplo para ya terminar el
+
+[00:13:25]
+video, que el video no se las haga
+
+[00:13:27]
+bastante largo. Y finalmente nosotros eh
+
+[00:13:30]
+yo les estaría eh estaríamos haciendo
+
+[00:13:33]
+algún back testing o algún zoom para
+
+[00:13:35]
+poder este algún zoom para poder hacer
+
+[00:13:37]
+back testing, ¿no? Aquí, por ejemplo, si
+
+[00:13:39]
+se fijan, la estructura es bajista,
+
+[00:13:41]
+¿verdad, Gustavo? Y tú dijiste que la
+
+[00:13:43]
+tendencia tendría que ser alcista. Sí,
+
+[00:13:45]
+pero en la que es de M1, las
+
+[00:13:47]
+temporalidades de M1 se nos empiezan a
+
+[00:13:49]
+alinear la alza y viendo que nosotros
+
+[00:13:52]
+probablemente podríamos ir a rellenar
+
+[00:13:54]
+este vacío de liquidez o entonces por
+
+[00:13:56]
+eso ahí es que decido tomar una una
+
+[00:13:58]
+entrada a la alza, ¿no? Entonces esto
+
+[00:14:00]
+fue el día viernes después de la MFP. Si
+
+[00:14:02]
+te fijan, el mercado lo que hace aquí es
+
+[00:14:04]
+venirnos a romper un poquito de
+
+[00:14:06]
+estructura. nos rompe esta estructura,
+
+[00:14:07]
+nos respeta bien esta zona y vamos a
+
+[00:14:09]
+esperar nuestro horario, ¿no? Esperamos
+
+[00:14:10]
+nuestro horario como el mercado está
+
+[00:14:12]
+respetando la alza y no importa eh un
+
+[00:14:15]
+poquito contratendencia, la verdad, pero
+
+[00:14:17]
+viendo esta estructura interior, por eso
+
+[00:14:19]
+es que yo decido ir a favor de las
+
+[00:14:21]
+compras en esta en este rango de
+
+[00:14:23]
+horarios. Entonces, viene el mercado, me
+
+[00:14:24]
+hace un pequeño choque y ahí podríamos
+
+[00:14:26]
+esperar que el mercado no rompa
+
+[00:14:27]
+estructura por la parte alta o que
+
+[00:14:29]
+viniera a meterse a un imbalance potente
+
+[00:14:32]
+como algunos de estos. Entonces, veamos
+
+[00:14:33]
+a ver cómo el mercado retrocede. Se mete
+
+[00:14:35]
+esta zona, nos respeta la media móvil y
+
+[00:14:37]
+aquí yo podía entrar. Esta sería mi
+
+[00:14:39]
+entrada con unos 30 40 puntitos. Si se
+
+[00:14:41]
+fijan, podemos poner 40 puntitos más o
+
+[00:14:44]
+menos para tener un poquito mejor de
+
+[00:14:45]
+rango. Podemos esperar que el mercado
+
+[00:14:47]
+rebalancee o respete esta zona también,
+
+[00:14:49]
+o sea, que empiece a formar eh impulso
+
+[00:14:51]
+alcista y ahí también podríamos entrar,
+
+[00:14:53]
+¿no? Y esta sería nuestra entrada del
+
+[00:14:55]
+día viernes. Entonces, bastante bien.
+
+[00:14:57]
+Nos da nuestro uno a cu. Nuestro da
+
+[00:14:59]
+nuestro uno a cuatro ahí también. Y creo
+
+[00:15:02]
+que aquí tengo otra de sé que les había
+
+[00:15:04]
+dicho que era la última, pero esta
+
+[00:15:05]
+también está bastante bonita. Fíjense,
+
+[00:15:07]
+fíjense esta que a favor de la tendencia
+
+[00:15:09]
+está bastante chévere también. Entonces,
+
+[00:15:10]
+aquí tenemos esta otra entrada. Venimos
+
+[00:15:12]
+ya con una toma de liquidez aquí arriba.
+
+[00:15:15]
+Venimos con una ruptura de estructura
+
+[00:15:16]
+aquí. Venimos con un chip de la
+
+[00:15:18]
+estructura aquí. Entonces la idea sería
+
+[00:15:20]
+esperar algún retesteo de algún fractal
+
+[00:15:22]
+pequeñito para poder entrar, montarnos a
+
+[00:15:24]
+favor de esa tendencia. Entonces,
+
+[00:15:25]
+fíjense, amigos, qué pasa aquí. Aquí
+
+[00:15:27]
+tenemos un retesteo. Vemos que ya abre
+
+[00:15:30]
+nuestro horario. Bien importante el tema
+
+[00:15:31]
+del horario con esta estrategia.
+
+[00:15:33]
+Respeten el horario, no se metan antes
+
+[00:15:35]
+ni después. Aunque el mercado se les
+
+[00:15:37]
+esté escapando, respeten el horario. Él
+
+[00:15:39]
+les va a dar su entrada en el horario
+
+[00:15:40]
+que tiene que ser. Entonces ahí sigue
+
+[00:15:41]
+cayendo. Por ejemplo, aquí nosotros
+
+[00:15:43]
+podíamos haber intentado vender aquí,
+
+[00:15:45]
+pero la verdad yo quiero que me forme
+
+[00:15:47]
+alguna estructura más chida, ¿no? Una
+
+[00:15:48]
+estructura más bonita, más clara, algo
+
+[00:15:51]
+como de este estilo, un retesteo, algún
+
+[00:15:53]
+quiebre, algo que me donde yo me pueda
+
+[00:15:56]
+montar ahí, no simplemente meternos
+
+[00:15:58]
+porque el mercado abrió la sesión, ¿no?
+
+[00:16:00]
+Es lo que a mí me gusta, ¿no? Yo creo
+
+[00:16:01]
+que me doy a entender. Entonces ahí, por
+
+[00:16:03]
+ejemplo, tenemos este imbalance. Aquí,
+
+[00:16:05]
+por ejemplo, yo había tomado este
+
+[00:16:06]
+pequeñito fractal de este punto a este
+
+[00:16:08]
+punto y también ustedes pueden utilizar
+
+[00:16:10]
+un Fibonacci para que les ayude a
+
+[00:16:12]
+confluir y meterse en un por encima de
+
+[00:16:14]
+un 50% alguna manipulación, una pequeña
+
+[00:16:17]
+toma de liquidez. Por ejemplo, aquí
+
+[00:16:18]
+tenemos que tenemos este fractal aquí,
+
+[00:16:20]
+acá hacia abajo. Tenemos un retesteo al
+
+[00:16:23]
+50, tenemos una pequeña toma de
+
+[00:16:25]
+liquidez. Ahí tenemos este imbalance por
+
+[00:16:27]
+aquí, este imbalance por aquí respetado.
+
+[00:16:29]
+Entonces ahí tendríamos nuestra entrada
+
+[00:16:31]
+y ahí yo estaría buscando igualmente mis
+
+[00:16:33]
+30 40 puntitos. Me podría proteger por
+
+[00:16:36]
+encima aquí unos 40 puntitos también, no
+
+[00:16:38]
+pasa nada. Igualmente respetando eso. Y
+
+[00:16:40]
+ahí tendríamos nuestra entrada a la
+
+[00:16:42]
+baja. Yo tomando un parcial aquí en el
+
+[00:16:44]
+uno a dos y luego tomando la el TP final
+
+[00:16:47]
+en un en el 1 a cu. O ya si quieren
+
+[00:16:49]
+ustedes, por ejemplo, aquí el indicador
+
+[00:16:51]
+nos avisa que ya tomamos la liquidez
+
+[00:16:53]
+importante, que en este caso era esta
+
+[00:16:55]
+liquidez importante, y aquí ustedes
+
+[00:16:57]
+pueden conseguir salirse, ¿no? Entonces
+
+[00:16:59]
+esto va a ser la entrada del día de hoy
+
+[00:17:01]
+o la estrategia del día de hoy, el video
+
+[00:17:02]
+del día de hoy, chicos. Entonces, espero
+
+[00:17:04]
+que les haya gustado, que les sirva, que
+
+[00:17:06]
+se puedan suscribir al canal, que nos
+
+[00:17:08]
+sigan por ahí por todas las redes
+
+[00:17:10]
+sociales y bueno, estamos aquí atentos
+
+[00:17:12]
+para lo próximo que estén ustedes ahí
+
+[00:17:16]
+comentando. Comenten el video de abajo y
+
+[00:17:18]
+nos vemos, chicos, hasta la próxima.
+
+[00:17:23]
+[música]
+
+[00:17:27]
+Oh.
+
+[00:17:31]
+[música]

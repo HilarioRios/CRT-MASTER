@@ -1,0 +1,721 @@
+---
+source_id: YT_CANAL_02__eSrCOZzsxY
+video_id: _eSrCOZzsxY
+channel: "Gustavom.Trader"
+published_at: 2024-03-15
+url: https://www.youtube.com/watch?v=_eSrCOZzsxY
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Funding Pips! como usar CTrader!
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=_eSrCOZzsxY)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Hola Hola a todos amigos el día de
+
+[00:00:02]
+hoy estoy con un nuevo ví tutorial de
+
+[00:00:04]
+cómo utilizar set Trader Cómo iniciar
+
+[00:00:07]
+con tu cuenta de funden pips recuerden
+
+[00:00:09]
+suscribirse darle like lo primero que
+
+[00:00:11]
+tenemos que hacer es comprar la cuenta
+
+[00:00:13]
+en funden pips yo ya la compré luego
+
+[00:00:17]
+tienen que entender que pueden iniciar
+
+[00:00:20]
+desde la plataforma principal pero yo no
+
+[00:00:24]
+recomiendo que lo hagan desde el panel
+
+[00:00:26]
+aquí aquí por ejemplo en cartas
+
+[00:00:28]
+credenciales te mandan tu cuenta y ahí
+
+[00:00:31]
+dice abrir c Trader yo no recomiendo que
+
+[00:00:34]
+hagan desde ahí qué van a hacer entonces
+
+[00:00:37]
+Esto es para el celular verdad si
+
+[00:00:40]
+quieren que les traiga un tutorial desde
+
+[00:00:42]
+su computadora Déjenme en los
+
+[00:00:44]
+comentarios si veo muchos comentarios
+
+[00:00:47]
+apoyando esta idea pues lo haré pero
+
+[00:00:50]
+desde el celular qué recomiendo yo que
+
+[00:00:52]
+se haga Bueno vamos a ir a la Play Store
+
+[00:00:54]
+Yo estoy en Android pueden ir a su
+
+[00:00:58]
+tienda de herramientas de de
+
+[00:01:00]
+aplicaciones y van a buscar c Trader y
+
+[00:01:02]
+van a descargar la aplicación te vas a
+
+[00:01:04]
+ir a tu correo una vez que obviamente ya
+
+[00:01:05]
+compraste la cuenta no inicias aquí sino
+
+[00:01:08]
+que te vas a tu correo y en tu correo no
+
+[00:01:11]
+ir a mi correo electrónico te van a
+
+[00:01:13]
+mandar primero un correo como este te
+
+[00:01:15]
+van a enviar este correo de gracias por
+
+[00:01:17]
+haber comprado tu cuenta y luego te van
+
+[00:01:20]
+a poner aquí que compraste su cuenta en
+
+[00:01:23]
+C Trader no te van a decir que el número
+
+[00:01:26]
+de la cuenta pero no te envían la
+
+[00:01:28]
+contraseña importante esto no está la
+
+[00:01:32]
+contraseña aquí Entonces qué vas a hacer
+
+[00:01:36]
+después te vas a ir a tus correos de
+
+[00:01:38]
+spam o te van a enviar un correo como
+
+[00:01:40]
+este que dice trading c Trader ha sido
+
+[00:01:42]
+creada tu cuenta y es importante que tú
+
+[00:01:46]
+tengas en cuenta el c Trader it es el
+
+[00:01:49]
+que vas a tener en cuenta no le vas a
+
+[00:01:51]
+dar la c Trader sino que vas a tener en
+
+[00:01:53]
+cuenta el c Trader it que está acá abajo
+
+[00:01:56]
+verdad ese c Trader it ese c Trader it
+
+[00:02:00]
+vas a copiarlo lo copias verdad Y te vas
+
+[00:02:04]
+a ir ahora sí a la aplicación de c
+
+[00:02:05]
+Trader Bueno ya una vez que estás en la
+
+[00:02:07]
+aplicación de c Trader te va a decir que
+
+[00:02:09]
+que si quieres hacerlo con correo
+
+[00:02:11]
+electrónico Pero tú lo vas a hacer tú le
+
+[00:02:13]
+vas a poner aquí abajito a mí ya no me
+
+[00:02:15]
+apece porque ya lo hice pero te va a
+
+[00:02:17]
+aparecer pon tu correo electrónico No
+
+[00:02:19]
+pongas el correo electrónico pones el c
+
+[00:02:22]
+Trader it
+
+[00:02:24]
+abajo abajo le pones ya tengo c Trader
+
+[00:02:27]
+it aquí abajo sale un un
+
+[00:02:30]
+un mensajito que dice ya tengo c Trader
+
+[00:02:33]
+it le pones ahí te va a llevar a esta
+
+[00:02:35]
+ventana en esta ventana pegas tu c
+
+[00:02:37]
+Trader it Pero ellos en teoría te dicen
+
+[00:02:40]
+en el mail que ya te que te van a mandar
+
+[00:02:43]
+la contraseña a a tu bandeja de entrada
+
+[00:02:46]
+pero si no te llega si te llega pues
+
+[00:02:49]
+copias la contraseña la pegas y ya
+
+[00:02:50]
+inicias aquí pero si no te llega seas
+
+[00:02:53]
+olvidado tu su contraseña Le vas a hacer
+
+[00:02:57]
+ahí y ahí te va a pedir el correo
+
+[00:02:59]
+electrón electónico aquí verad y le ha
+
+[00:03:03]
+pones el correo electrónico el que te el
+
+[00:03:05]
+que con el que te registraste obviamente
+
+[00:03:07]
+y le haces restablecer contraseña y
+
+[00:03:10]
+automáticamente te vas al correo de
+
+[00:03:12]
+nuevo y en el correo de nuevo te va a
+
+[00:03:14]
+aparecer tu contraseña ha sido cambiada
+
+[00:03:17]
+Y te van te van a la vas a poder cambiar
+
+[00:03:22]
+Pues cuando tú le haces ahí en C Trader
+
+[00:03:25]
+contraseña ahí te va a mandar una página
+
+[00:03:27]
+para que tú cambies la contraseña verdad
+
+[00:03:30]
+te va a mandar una página web para que
+
+[00:03:32]
+tú restablezcas tu contraseña y ya lo
+
+[00:03:34]
+que vas a hacer es poner el c Trader it
+
+[00:03:37]
+y tu contraseña y ya ahí automáticamente
+
+[00:03:39]
+estarías iniciando en C Trader ver y
+
+[00:03:43]
+aquí estaría tu cuenta ya por ejemplo
+
+[00:03:46]
+Esta es mi cuenta que compré yo de 5000
+
+[00:03:48]
+fundep demo y ahí te dice el número
+
+[00:03:52]
+Igualmente Ahora aquí pueden crear una
+
+[00:03:54]
+nueva watchlist en mi caso Quiero crear
+
+[00:03:56]
+una nueva wasl que se llame
+
+[00:03:58]
+Tabo aceptar y ya tienen su wasl de Tabo
+
+[00:04:03]
+y aquí en el lapicito pueden ir quitando
+
+[00:04:07]
+los pares que no les interese por
+
+[00:04:09]
+ejemplo a mí me interesa operar el
+
+[00:04:13]
+nasdaq y el eurod dólar entonces voy a
+
+[00:04:16]
+dejar solamente esos Igualmente si
+
+[00:04:18]
+quieren Añadir lo pueden Añadir aquí y
+
+[00:04:20]
+aquí pues ya le salen los pares que
+
+[00:04:22]
+ustedes quieran y ya no más le dan a la
+
+[00:04:24]
+estrellita y se añaden aquí por ejemplo
+
+[00:04:26]
+le damos aquí la ventanita de más y aquí
+
+[00:04:29]
+ustedes pueden ver los gráficos
+
+[00:04:31]
+avanzados esto se puede configurar aquí
+
+[00:04:33]
+en la ruedita aquí abajo Puedes
+
+[00:04:36]
+configurar igual el mismo si Trader te
+
+[00:04:38]
+va enseñando Cómo puedes hacer las cosas
+
+[00:04:41]
+es cuestión de que se pongan a leer y
+
+[00:04:43]
+pongan a ver eh bien cómo se puede este
+
+[00:04:47]
+operar Pero no es muy difícil tampoco
+
+[00:04:49]
+verad Entonces ya Igualmente le les digo
+
+[00:04:53]
+que es de la ruedita aquí ya tú Puedes
+
+[00:04:55]
+configurar la línea de precio las
+
+[00:04:57]
+órdenes las posiciones volumen del Tic
+
+[00:05:00]
+por ejemplo a mí no me gusta eso volumen
+
+[00:05:02]
+del Tic aquí pueden ir moviendo la
+
+[00:05:03]
+temporalidad por ejemplo una hora 4
+
+[00:05:05]
+horas Igualmente también aquí pueden
+
+[00:05:08]
+ustedes ponerle en Estrellita las que
+
+[00:05:10]
+quieren yo por ejemplo Quiero una hora
+
+[00:05:13]
+eh 15 minutos 4 horas me gusta y diario
+
+[00:05:18]
+no y ya ese es el que quieres y ya lo le
+
+[00:05:20]
+haces para atrás sé que es un poco
+
+[00:05:21]
+olioso pero no lo es en verdad no es tan
+
+[00:05:24]
+difícil solamente es adaptarse para
+
+[00:05:26]
+arriba y para abajo estiras el gráfico
+
+[00:05:28]
+para arriba y para abajo y para los
+
+[00:05:30]
+lados lo estiras para los lados eso es
+
+[00:05:32]
+desde el celular parece lioso pero no lo
+
+[00:05:35]
+es la verdad es que es una plataforma
+
+[00:05:37]
+amigable y este aquí por ejemplo con
+
+[00:05:40]
+este pues va regresando el gráfico hasta
+
+[00:05:42]
+donde está no y aquí te puedes regresar
+
+[00:05:45]
+ahora las órdenes para poner órdenes
+
+[00:05:48]
+aquí abajo está la tablita sacas esa
+
+[00:05:51]
+tablita y aquí en la tablita pues puedes
+
+[00:05:54]
+poner tu lotaje no puedes poner cuánto
+
+[00:05:56]
+lotaje quieres poner por ejemplo
+
+[00:06:02]
+1.01.02 etcétera puedes poner órdenes
+
+[00:06:04]
+límite aquí stop limit limit por acá
+
+[00:06:08]
+puedes ver tus símbolos tus posiciones
+
+[00:06:10]
+Cuántas tienes tus órdenes t puedes
+
+[00:06:12]
+poner alertas tu historial por ejemplo
+
+[00:06:15]
+esta cuenta es nueva la acabo de comprar
+
+[00:06:16]
+no tiene historial y aquí puedes ver tus
+
+[00:06:19]
+transacciones también aquí Toda la parte
+
+[00:06:22]
+del panel de arriba Ah desde acá puedes
+
+[00:06:25]
+poner una nueva orden lo que les decía
+
+[00:06:27]
+anteriormente para si lo quieres hacer
+
+[00:06:30]
+manual verdad Take profit stop loss aquí
+
+[00:06:33]
+puedes agregar tu Take profit tu stop
+
+[00:06:35]
+loss etcétera etcétera vamos por ejemplo
+
+[00:06:38]
+en el en el vamos a ver el eurod dólar y
+
+[00:06:41]
+en el eurod dólar por ejemplo Quiero
+
+[00:06:43]
+poner Voy a poner una orden aquí en
+
+[00:06:47]
+punto 01 no más para hacer una un calix
+
+[00:06:50]
+solicitud de orden ahí pusiste tu orden
+
+[00:06:52]
+a punto 01 verdad y aquí ya puedes ir
+
+[00:06:56]
+arrastrando el Stop los por ejemplo ya
+
+[00:06:58]
+puedes arrastrando te va a decir lo que
+
+[00:07:00]
+vas a perder y lo que puedes llegar a
+
+[00:07:02]
+ganar los pips que son aquí por ejemplo
+
+[00:07:05]
+ya pongo mi stop loss y puedo poner mi
+
+[00:07:07]
+Take profit por aquí más o menos y me va
+
+[00:07:10]
+a decir lo que voy a ganar obviamente
+
+[00:07:11]
+pues es01 no voy a ganar nada pero es de
+
+[00:07:15]
+esa manera que funcionaría o Entonces ya
+
+[00:07:17]
+te irías acá tu posiciones y te fijas
+
+[00:07:20]
+ahí está tu posición corriendo órdenes
+
+[00:07:22]
+no tengo porque no he puesto ni un limit
+
+[00:07:24]
+y en historial cuando cierre la
+
+[00:07:26]
+operación se va a salir ahí en el
+
+[00:07:27]
+historial verad aparte desde aquí tú las
+
+[00:07:30]
+puedes cerrar dándole la tachita le das
+
+[00:07:32]
+a la tachita y puedes cerrar la
+
+[00:07:33]
+operación aparte acá abajo te va
+
+[00:07:35]
+diciendo si tú lo cambias te va diciendo
+
+[00:07:38]
+eh Cómo se está moviendo tu operación
+
+[00:07:40]
+verdad el margen empleado etcétera
+
+[00:07:44]
+etcétera la hora la sesión de Nueva York
+
+[00:07:46]
+etcétera etcétera este de blotter Son
+
+[00:07:48]
+creo para noticias y el de dep es para
+
+[00:07:51]
+si quieres depositar pero aquí en este
+
+[00:07:54]
+caso no aplica entonces aquí estaría tu
+
+[00:07:56]
+cuenta tu correo tu contraseña para
+
+[00:07:58]
+crear eh todo lo que tú quieras
+
+[00:08:01]
+administrar
+
+[00:08:02]
+eh cuentas de operaciones etcétera
+
+[00:08:06]
+etcétera la verdad es que es muy
+
+[00:08:07]
+sencillo no es tiene como mucho misterio
+
+[00:08:09]
+ya por ejemplo si tú tienes una orden
+
+[00:08:11]
+pues ahí te va a aparecer uno una
+
+[00:08:13]
+tablita un simbolito de uno ahí le picas
+
+[00:08:16]
+te vas al gráfico y ya en el gráfico
+
+[00:08:18]
+Pues ahí está saliendo tu orden verdad
+
+[00:08:20]
+eso es como lo más básico aquí puedes
+
+[00:08:23]
+poner indicadores en la f eh Y aquí pues
+
+[00:08:26]
+hay diferentes indicadores Si tú deseas
+
+[00:08:28]
+usar indicadores eh aquí Este puedes
+
+[00:08:33]
+dibujar como pues poner líneas canales
+
+[00:08:38]
+lo básico en en el este que es como una
+
+[00:08:43]
+serpenti y ya está este es como para ver
+
+[00:08:48]
+como como un cursor como un cursor para
+
+[00:08:51]
+ver este el punto Exacto en que quieres
+
+[00:08:54]
+por ejemplo este alto Ah okay Este alto
+
+[00:08:56]
+está exactamente aquí entonces es como
+
+[00:08:59]
+un cursor para que tú veas también tiene
+
+[00:09:01]
+el triangulito este para poder ir
+
+[00:09:03]
+midiendo los pips con este triangulito
+
+[00:09:06]
+que está acá abajo puedes ir midiendo
+
+[00:09:07]
+los pips en general es una plataforma
+
+[00:09:10]
+bastante intuitiva y no creo que
+
+[00:09:11]
+deberían de tener mucho problema para
+
+[00:09:13]
+adaptarse no les voy a a decir mucho más
+
+[00:09:17]
+Solamente eso Bueno aquí desde la tabla
+
+[00:09:20]
+de posiciones puedes también cerrar tus
+
+[00:09:22]
+órdenes puedes aumentar el doble de
+
+[00:09:25]
+lotaje O puedes hacer un inverso un
+
+[00:09:27]
+inverso es si estás vendiendo puedes
+
+[00:09:29]
+cambiarte a compras con la misma orden
+
+[00:09:32]
+no más le haces en inverso y se cambia a
+
+[00:09:34]
+en este caso estoy vendiendo se cambia a
+
+[00:09:36]
+compras y ya está puedes proteger aquí
+
+[00:09:40]
+Ah okay Aquí está lo que les decía aquí
+
+[00:09:42]
+puedes mover también le puedes poner
+
+[00:09:44]
+trading de stop loss para que se vaya
+
+[00:09:47]
+moviendo tu orden solita si tú activas
+
+[00:09:49]
+training de stop loss se va moviendo tu
+
+[00:09:51]
+orden solita cada Por ejemplo si estás
+
+[00:09:53]
+vendiendo y el precio se va a tu favor
+
+[00:09:55]
+cada cu 4.7 pips se va moviendo a tu
+
+[00:09:58]
+favor
+
+[00:09:59]
+eh puedes hacer muchas cosas en general
+```

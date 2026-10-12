@@ -1,0 +1,823 @@
+---
+source_id: YT_CANAL_02_vLQ9OgfrURk
+video_id: vLQ9OgfrURk
+channel: "Gustavom.Trader"
+published_at: 2023-03-29
+url: https://www.youtube.com/watch?v=vLQ9OgfrURk
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# mi EXPERIENCIA CON ROBOTS de TRADING l PASAN PRUEBAS DE FONDEO? #trading  #forex
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=vLQ9OgfrURk)
+
+## Transcript
+
+```
+[00:00:00]
+los que yo probé le algunos iban bien
+
+[00:00:03]
+algún tiempo pero después para abajo
+
+[00:00:12]
+[Música]
+
+[00:00:14]
+Pues a todos amigos de YouTube ya
+
+[00:00:17]
+estamos aquí en un nuevo vídeo para el
+
+[00:00:19]
+canal de chatsuters mi comunidad bella
+
+[00:00:22]
+cómo estamos estamos excelentes el día
+
+[00:00:25]
+de hoy con un nuevo video nuevo sobre mi
+
+[00:00:28]
+experiencia utilizando robots de trading
+
+[00:00:30]
+ya saben que desde que salí poquito
+
+[00:00:32]
+antes de que salía de vacaciones el año
+
+[00:00:34]
+pasado desde diciembre noviembre por ahí
+
+[00:00:38]
+finales de noviembre estuve adentrándome
+
+[00:00:41]
+al mundo de los robots un poquito los
+
+[00:00:42]
+robots de que pasan pruebas de fondeo y
+
+[00:00:45]
+también los robots que operan
+
+[00:00:47]
+normalmente los mercados reales Tratando
+
+[00:00:49]
+de buscar principalmente un robot que me
+
+[00:00:52]
+llevara a pasar cuentas de fondeo en My
+
+[00:00:54]
+Forest o ftmo que son las empresas más
+
+[00:00:56]
+mejores para mí lo personalmente y
+
+[00:00:59]
+Ahorita les voy a explicar mi
+
+[00:01:01]
+experiencia qué tal me fue con esos
+
+[00:01:03]
+robots qué es lo que pienso sirven no
+
+[00:01:06]
+sirven me estafaron no me estafaron
+
+[00:01:08]
+ahorita le voy a contar
+
+[00:01:10]
+Antes que nada decirles o recalcarles
+
+[00:01:13]
+que todo lo dicho aquí es bajo mi
+
+[00:01:15]
+experiencia utilizando robots en este
+
+[00:01:17]
+periodo de tiempo alrededor de diciembre
+
+[00:01:19]
+parte de noviembre Diciembre enero
+
+[00:01:22]
+febrero y marzo juntos a tocar o cosas
+
+[00:01:26]
+que quiero Resaltar he probado muchos
+
+[00:01:28]
+tipos de robots en cuenta reales y en
+
+[00:01:30]
+empresas de fondeo O sea no crea que
+
+[00:01:32]
+puso un robot en demo jalar nomás
+
+[00:01:36]
+probamos diferentes tipos de robots con
+
+[00:01:39]
+diferentes estrategias en diferentes
+
+[00:01:42]
+compañías y de todo los robots de alta
+
+[00:01:46]
+frecuencia quisiera de diferenciarlos un
+
+[00:01:48]
+poquito con los robots normales robot de
+
+[00:01:52]
+alta frecuencia robots ya saben de puede
+
+[00:01:54]
+ser de tickets calping de alta son los
+
+[00:01:58]
+que meten un montón de operaciones al
+
+[00:02:00]
+día en una sesión en una hora te puedes
+
+[00:02:02]
+meter un montón de robots estos robots
+
+[00:02:04]
+normalmente no son permitidos en las
+
+[00:02:06]
+empresas de fondeo y suelen los
+
+[00:02:08]
+servidores esos robots obviamente van
+
+[00:02:10]
+muy bien pero no hay muchas empresas que
+
+[00:02:12]
+permitan que se pueda operar ahí en esos
+
+[00:02:16]
+tipos de robots no funcionan o no jalan
+
+[00:02:19]
+en todas las empresas de fondeo ya saben
+
+[00:02:21]
+a veces te pueden llegar a romper los
+
+[00:02:23]
+servidores
+
+[00:02:24]
+etcétera etcétera
+
+[00:02:26]
+Ah el nombre era robots de arbitraje
+
+[00:02:29]
+estos robots de arbitraje también no son
+
+[00:02:31]
+permitidos de muchas empresas etcétera
+
+[00:02:33]
+etcétera mi experiencia con ese tipo de
+
+[00:02:35]
+robots son buenos pasamos empresas
+
+[00:02:38]
+cuentas de fondeo en un día en dos días
+
+[00:02:41]
+problema no todas son la mayoría o
+
+[00:02:44]
+ninguna empresa lo permite funcionan
+
+[00:02:46]
+solamente tipo de servidores funcionan
+
+[00:02:49]
+solamente con cierto tipo de spread con
+
+[00:02:51]
+cierto tipo de deslizamiento
+
+[00:02:54]
+en lo personal yo recomiendo no lo
+
+[00:02:57]
+recomiendo mucho yo lo recomiendo al día
+
+[00:02:59]
+de hoy después de todo el revuelo que
+
+[00:03:01]
+pasó con Roque y todo ese rollo pues
+
+[00:03:03]
+leve la hábitat y todas esas empresas yo
+
+[00:03:04]
+no recomiendo me quedo con esa
+
+[00:03:07]
+experiencia más negativa que positiva
+
+[00:03:09]
+voz del robot normal que tú lo puedes
+
+[00:03:13]
+que hay muchos en allá afuera hay muchos
+
+[00:03:17]
+ahí en en internet hay otros que tú
+
+[00:03:19]
+también los puedes programar qué estar
+
+[00:03:22]
+ahí hay muchos robots que venden gratis
+
+[00:03:24]
+y que están por ahí Dónde está gratis
+
+[00:03:26]
+Pues en en Google en YouTube en
+
+[00:03:31]
+Telegram grupos hay muchos robots gratis
+
+[00:03:33]
+te puedo ir diciendo mi experiencia el
+
+[00:03:36]
+95 96 o 97% de los robots que están ahí
+
+[00:03:39]
+no sirven para un tengo carpetas
+
+[00:03:42]
+llenas de 200 de A lo mejor cien 200
+
+[00:03:45]
+robots no sirven ni uno sirve
+
+[00:03:48]
+los hay Entonces esto nos lleva a decir
+
+[00:03:51]
+hay robos rentables y creo que hay robot
+
+[00:03:54]
+rentables pero el robot que hay
+
+[00:03:56]
+rentables entiendo que existen y son muy
+
+[00:03:59]
+robustos con proyecciones a ganar con
+
+[00:04:02]
+proyecciones a ganar entre tres a un
+
+[00:04:03]
+cuatro por ciento mensual aparte otra
+
+[00:04:06]
+cosa que tengo que decirles el robot no
+
+[00:04:09]
+es de que yo llego lo pongo y ya solito
+
+[00:04:13]
+me voy a la playa en un yate y me pongo
+
+[00:04:15]
+así me recargo me echo a dormir y ya sé
+
+[00:04:18]
+profit no hay que estarlo cuidando hay
+
+[00:04:20]
+que tenerlo en un servidor bps para que
+
+[00:04:22]
+tenga bajar latencia
+
+[00:04:24]
+son muchas cosas otra cosa importante
+
+[00:04:27]
+muchas veces el robot puede llegar a
+
+[00:04:29]
+funcionar pero tiene un mal set que es
+
+[00:04:32]
+el set Gustavo el set es la
+
+[00:04:34]
+configuración que puede llegar a tener
+
+[00:04:35]
+tu robot el sl el cuándo va a tener las
+
+[00:04:40]
+operaciones la configuración hay un set
+
+[00:04:42]
+de configuración ese muchas veces no lo
+
+[00:04:45]
+traen los robots y ese set es el bueno
+
+[00:04:47]
+el creador solamente sabe cuál es el ser
+
+[00:04:50]
+mejor y puede ser que no funcione ni
+
+[00:04:53]
+siquiera con el cero los que yo probé le
+
+[00:04:56]
+algunos iban bien algún tiempo pero
+
+[00:04:58]
+después para abajo por ejemplo algunos
+
+[00:05:01]
+robots que me llegaron a hacer tres
+
+[00:05:02]
+cuatro cinco seis por ciento pero
+
+[00:05:04]
+después se venían abajo por qué porque
+
+[00:05:07]
+no tienen a la mejor Esperanza
+
+[00:05:08]
+matemática positiva o porque no rentable
+
+[00:05:11]
+en lo personal lo que yo pienso según mi
+
+[00:05:14]
+experiencia a largo plazo no son
+
+[00:05:16]
+consistentes los robots se pueden llegar
+
+[00:05:18]
+a funcionar en un lado tiempo del
+
+[00:05:20]
+mercado pero cuando el mercado se te
+
+[00:05:22]
+ponga de otra forma ahí te van a llegar
+
+[00:05:24]
+a por ejemplo hay robots para
+
+[00:05:26]
+mercados laterales el robot para
+
+[00:05:28]
+aperturas el robot para brincados hay
+
+[00:05:31]
+robots incluso proveer robots de smart
+
+[00:05:33]
+Money de todo tipo de robots y algunos
+
+[00:05:36]
+funcionaban un tiempo y otros dejaban de
+
+[00:05:39]
+funcionar Esa es mi experiencia existen
+
+[00:05:41]
+robots para pasar pruebas de fondeo Sí
+
+[00:05:43]
+pero
+
+[00:05:45]
+A lo mejor de 10 te pasan una una o dos
+
+[00:05:49]
+o tres cuentas de fondeo y las demás te
+
+[00:05:51]
+la revientan eso es lo que hay la
+
+[00:05:53]
+mayoría de los servicios que te venden
+
+[00:05:54]
+para pasar pruebas de fondeo te
+
+[00:05:56]
+revientan las cuentas eso es lo que hay
+
+[00:05:59]
+de mi experiencia se los digo como es tu
+
+[00:06:02]
+experiencia Gustavo que amamos una
+
+[00:06:03]
+cuenta de ftmo de 100 mil dólares que
+
+[00:06:06]
+amamos una cuenta de Diez mil dólares de
+
+[00:06:08]
+My Forest quemamos una cuenta de veinte
+
+[00:06:10]
+mil dólares de My Forest phone que vamos
+
+[00:06:12]
+una cuenta de 100 mil dólares de Truth
+
+[00:06:14]
+forex utilizando robots entonces
+
+[00:06:16]
+experiencia si tengo que amamos una
+
+[00:06:19]
+cuenta de freeze class de democlass
+
+[00:06:22]
+Real que se pasó con alta frecuencia de
+
+[00:06:25]
+con robots
+
+[00:06:28]
+pasamos alguna cuenta
+
+[00:06:30]
+llegamos a estar cerca de pasar alguna
+
+[00:06:33]
+cuenta pero no logramos pasar una cuenta
+
+[00:06:35]
+utilizando solamente robots ya saben que
+
+[00:06:37]
+yo sea operar entonces quería Yo
+
+[00:06:41]
+solamente utilizar robots para ver qué
+
+[00:06:43]
+tan viable era eso y la verdad no logré
+
+[00:06:45]
+conseguir nada sólido si tú me dices por
+
+[00:06:47]
+ahí bueno yo Gustavo Tengo este robot
+
+[00:06:49]
+que funciona bueno eres tú Ese es mi
+
+[00:06:51]
+experiencia yo siempre le estoy contando
+
+[00:06:53]
+de mi experiencia la mayoría robots como
+
+[00:06:55]
+les digo se comportan bien durante un
+
+[00:06:57]
+tiempo y después Paz Ese es el
+
+[00:07:00]
+comportamiento que ustedes ven qué
+
+[00:07:02]
+recomiendo yo si tú quieres de plano
+
+[00:07:03]
+irte al robot de plano estás necio el
+
+[00:07:06]
+robot probarlo buen tiempo vas a perder
+
+[00:07:08]
+bastante tiempo
+
+[00:07:10]
+es una buena decisión comprar un robot
+
+[00:07:14]
+importante amigos compramos ciertos
+
+[00:07:16]
+robots que una lo compramos y luego
+
+[00:07:20]
+estaban por allá gratis
+
+[00:07:22]
+Esta es una luego compramos ciertos
+
+[00:07:24]
+robots que de un funcionaban que no
+
+[00:07:26]
+funcionaban unos de martingala
+
+[00:07:28]
+diferentes estrategias a lo mejor no
+
+[00:07:30]
+llegas a entender el robot hay que
+
+[00:07:32]
+informarse bien en lo personal yo no
+
+[00:07:35]
+recomiendo comprar ningún tipo de robots
+
+[00:07:36]
+para mí en lo personal pero he visto
+
+[00:07:38]
+tengo Hay personas que xico que a simple
+
+[00:07:42]
+vista se ve que su robot sirve pero todo
+
+[00:07:46]
+mundo publica sus ganancias del robot y
+
+[00:07:48]
+que va muy bien y después ya no hablan
+
+[00:07:50]
+nada del robot eso es lo que yo veo
+
+[00:07:51]
+entonces en lo personal A mí no me llega
+
+[00:07:53]
+a convencer bajo mi experiencia
+
+[00:07:55]
+el bacteristico en el robot operandoles
+
+[00:07:58]
+muy subjetivo muchas veces tú haces un
+
+[00:08:00]
+bacteristico en el robot lo montas acá
+
+[00:08:03]
+lo operas en demo haces el backtesting o
+
+[00:08:05]
+lo que sea en la plataforma en el
+
+[00:08:07]
+probador y es muy subjetivo te sale muy
+
+[00:08:09]
+bien pero en cuenta real Es otro rollo
+
+[00:08:13]
+Y eso es un poquito mis puntos que yo
+
+[00:08:14]
+quería darle sobre el robot por acá
+
+[00:08:16]
+tengo otra experiencia mi experiencia o
+
+[00:08:19]
+mi conclusión es un poquito agridulce
+
+[00:08:21]
+Respecto a los robots que compré y
+
+[00:08:23]
+encontré nunca puede encontrar uno
+
+[00:08:25]
+sólido Qué significa sólido consistente
+
+[00:08:28]
+hay robots ganan dinero te lo puedo
+
+[00:08:31]
+decir yo hay robots que ganan dinero
+
+[00:08:33]
+pero no hay consistentes Qué significa
+
+[00:08:36]
+consistente que yo lo pueda que yo pueda
+
+[00:08:38]
+pasar varias cuentas de mejores fona la
+
+[00:08:40]
+mejor
+
+[00:08:42]
+durante el mes hay robots que es con
+
+[00:08:45]
+buena gestión de riesgo a ti te pueden
+
+[00:08:47]
+hacer para cuenta Live un tres o cuatro
+
+[00:08:49]
+por ciento eso es lo que yo recomiendo
+
+[00:08:51]
+para cuenta light un tres un cuatro por
+
+[00:08:54]
+ciento está bien con bajo riesgo
+
+[00:08:56]
+tranquilito y siempre irlo tanteando el
+
+[00:09:00]
+robot se puede llegar a hacer pero para
+
+[00:09:02]
+pruebas de fondeo o tratar de
+
+[00:09:03]
+proyectarse ocho diez por ciento que te
+
+[00:09:05]
+pide una empresa de fondeo no
+
+[00:09:07]
+yo no lo veo mucho para cuentas pequeñas
+
+[00:09:09]
+la verdad hacerte un tres cuatro por
+
+[00:09:12]
+ciento una cuenta de menos de Diez mil
+
+[00:09:14]
+dólares lo veo inútil en lo personal lo
+
+[00:09:16]
+veo perder tiempo ya el puro bps te
+
+[00:09:19]
+cuesta 20 dólares 25 dólares que la
+
+[00:09:21]
+renta mensual Entonces no lo veo y la
+
+[00:09:24]
+mayoría funciona en un rato y después
+
+[00:09:27]
+para mí es desgastarte demasiado tiempo
+
+[00:09:29]
+y perder mucho el tiempo es lo que es mi
+
+[00:09:32]
+opinión
+
+[00:09:34]
+ojo que tú puedes tener un robot súper
+
+[00:09:36]
+rentable y que digas este que la leche
+
+[00:09:38]
+El Cordero y acá adelante Hazte
+
+[00:09:41]
+millonario con ese Esta es mi
+
+[00:09:43]
+experiencia conclusión amigos recomiendo
+
+[00:09:46]
+no perder el tiempo mejor enfocarte en
+
+[00:09:48]
+estudiar y aprender y desarrollar la
+
+[00:09:50]
+habilidad la habilidad es trading a
+
+[00:09:52]
+diferencia del robot que a la mejor va a
+
+[00:09:55]
+dejar de funcionar o puede ser que
+
+[00:09:57]
+después te levantes y esté perdiendo la
+
+[00:09:59]
+madre es que tú puedes tener
+
+[00:10:04]
+puedes controlar 100% la operativa y tú
+
+[00:10:08]
+puedes si tú obtienes esas Kill puedes
+
+[00:10:10]
+llegar a tener una consistencia en el
+
+[00:10:12]
+tiempo lo sé porque he visto traders en
+
+[00:10:14]
+el tiempo se mantienen se mantienen yo
+
+[00:10:16]
+llevo poco y me he mantenido ahí con mis
+
+[00:10:19]
+subidas y bajones pero me he mantenido
+
+[00:10:21]
+con consistencia muchos de los robots se
+
+[00:10:23]
+mantienen un mes dos meses o una semana
+
+[00:10:26]
+y se van para abajo vive tu proceso y no
+
+[00:10:30]
+trates de tomar atajos puede ser que
+
+[00:10:32]
+algún robot funcione pero yo realmente
+
+[00:10:33]
+no encontré ni perdería más mi tiempo y
+
+[00:10:36]
+dinero Espero que mi experiencia les sea
+
+[00:10:38]
+totalmente útil a todos ustedes y ya
+
+[00:10:40]
+saben que sí
+
+[00:10:42]
+y ahí estamos exactamente amigos y yo
+
+[00:10:47]
+creo que eso es todo y Les traigo mi
+
+[00:10:50]
+experiencia desde mi fondo de mi corazón
+
+[00:10:53]
+desde mi experiencia Espero que les sea
+
+[00:10:55]
+útil que les guste y yo creo que nada
+
+[00:10:57]
+más amigos
+
+[00:10:58]
+[Música]
+```

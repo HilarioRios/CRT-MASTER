@@ -1,0 +1,961 @@
+---
+source_id: YT_CANAL_02_jwMdVd8A5Wo
+video_id: jwMdVd8A5Wo
+channel: "Gustavom.Trader"
+published_at: 2022-08-09
+url: https://www.youtube.com/watch?v=jwMdVd8A5Wo
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 8
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# DOMINA US30 con INDICADOR SECRETO para tus ORDER BLOCKS l SHARP SHOOTERS #trading #smartmoney #forex
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=jwMdVd8A5Wo)
+
+## Transcript
+
+```
+[00:00:00]
+común y fiel a este hogar y de fiesta
+
+[00:00:04]
+hoy o que esté o no
+
+[00:00:07]
+de 8 a 9
+
+[00:00:10]
+tenemos el precio del west 31 y le voy a
+
+[00:00:14]
+explicar ahorita cómo podríamos tomar
+
+[00:00:16]
+una entrada posiblemente acá cosa estar
+
+[00:00:18]
+abriendo una sala de trading en vivo va
+
+[00:00:22]
+a ser una sala vip claro para los que
+
+[00:00:24]
+entren con nosotros y un canal de
+
+[00:00:26]
+señales para demostrar que efectivamente
+
+[00:00:29]
+lo que estamos diciendo funciona y
+
+[00:00:31]
+también para los que se quieran unir
+
+[00:00:32]
+vamos a estar en el grupo de telegram
+
+[00:00:35]
+operando próximamente en vivo también
+
+[00:00:38]
+vamos a abrir una sala para todos
+
+[00:00:40]
+entonces los próximamente se van a venir
+
+[00:00:43]
+todos los conceptos institucionales y se
+
+[00:00:45]
+va a venir la sala de trading en vivo
+
+[00:00:47]
+ahorita de momento va a estar lleras el
+
+[00:00:49]
+indicador se llama 50% body camps se
+
+[00:00:53]
+llama si se llama por ahí me dice
+
+[00:00:55]
+50 modifican del le ponen así 50% bodies
+
+[00:00:59]
+kánter le ponen el color que ustedes
+
+[00:01:01]
+quieran y te va a indicar las velas con
+
+[00:01:03]
+el 50% modifican there aquí les voy a
+
+[00:01:05]
+enseñar primeramente que nada en la
+
+[00:01:07]
+teoría como el que funciona la teoría y
+
+[00:01:10]
+ahorita vamos a ir a la práctica para
+
+[00:01:13]
+que ustedes lo puedan aplicar en el
+
+[00:01:14]
+mercado concretamente en el 230 porque
+
+[00:01:16]
+yo sé que les encantan los 30 y quieren
+
+[00:01:19]
+destrozar en los 30 da buenos
+
+[00:01:21]
+movimientos la sesión de nueva york se
+
+[00:01:22]
+mueve muy bien entonces por eso les
+
+[00:01:24]
+traigo el gráfico de 30 pero funciona
+
+[00:01:27]
+también en pares de pobres lo que estén
+
+[00:01:28]
+operando el euro dólar la libra y el yen
+
+[00:01:31]
+lo que ustedes quieran puesto funciona
+
+[00:01:33]
+para todos los mercados entonces vidente
+
+[00:01:35]
+tenemos
+
+[00:01:37]
+[Música]
+
+[00:01:38]
+tenemos una vela que es que la vamos a
+
+[00:01:41]
+ubicar posiblemente como un bloque de
+
+[00:01:43]
+orden es un bloque de órdenes que ha
+
+[00:01:45]
+dejado el precio igualmente en el canal
+
+[00:01:47]
+tienen un vídeo de que es un bloque de
+
+[00:01:49]
+orden es explicado de manera muy
+
+[00:01:51]
+sencilla para que puedan ir a verlo los
+
+[00:01:53]
+que no sepan exactamente pero un bloque
+
+[00:01:55]
+de orden es donde los institucionales
+
+[00:01:57]
+dejan sus órdenes pendientes
+
+[00:01:59]
+órdenes que no han sido mitigadas y
+
+[00:02:01]
+donde probablemente el precio pueda a
+
+[00:02:03]
+partir de ahí revertir revertir su
+
+[00:02:06]
+situación si está cayendo por revertir
+
+[00:02:08]
+al alza si está subiendo por revertir
+
+[00:02:10]
+completamente al abajo entonces tenemos
+
+[00:02:14]
+un bloque de órdenes creado por acá y
+
+[00:02:16]
+tenemos también un balance un vacío en
+
+[00:02:18]
+el precio entre esta vela y ésta y esta
+
+[00:02:22]
+otra vela entonces el precio deja un
+
+[00:02:24]
+balance y con nuestro indicador de
+
+[00:02:27]
+50% novo bild
+
+[00:02:30]
+vela del 50% lo podemos llamar que lo
+
+[00:02:33]
+tengamos marcado por ahí vamos a estar
+
+[00:02:36]
+ubicando nuestro bloque con más alta
+
+[00:02:39]
+probabilidad entonces que tenemos que
+
+[00:02:41]
+tener para que esto sea de mayor
+
+[00:02:43]
+funcionalidad o para que sea de mayor
+
+[00:02:45]
+probabilidad tenemos que tener un
+
+[00:02:47]
+balance en el precio cerca del bloque
+
+[00:02:49]
+que queremos tomar o que probablemente
+
+[00:02:52]
+podamos tomar y luego vamos a tener la
+
+[00:02:54]
+confirmación con nuestra vela del 50 por
+
+[00:02:57]
+ciento aparte nos vamos a fijar que sea
+
+[00:03:01]
+realmente un blog este este este
+
+[00:03:03]
+indicador nos va a ayudar
+
+[00:03:06]
+a tener una mayor confirmación en
+
+[00:03:08]
+nuestros bloques o a encontrarlos de
+
+[00:03:10]
+manera más facilita para así que más
+
+[00:03:13]
+fácil ya no puede ser entonces siguiente
+
+[00:03:15]
+gráfico de h1 del west 30 movimiento que
+
+[00:03:18]
+se dio el 22 de junio entonces el 22 de
+
+[00:03:22]
+junio eficiente que el precio viene
+
+[00:03:26]
+exactamente
+
+[00:03:27]
+[Música]
+
+[00:03:28]
+y nos deja acá por acá perdón esto fue
+
+[00:03:33]
+en h4 la gente que eran h h 1 también se
+
+[00:03:38]
+ve pero se ve más claramente en la
+
+[00:03:40]
+equipación fíjense como yo lo tengo en
+
+[00:03:42]
+blanco
+
+[00:03:44]
+déjame tengo el indicador en blanco lo
+
+[00:03:48]
+vamos a poner por ejemplo rojo para que
+
+[00:03:49]
+ustedes lo vean mucho más esto nos
+
+[00:03:52]
+indica exactamente las velas que tenemos
+
+[00:03:55]
+cerca del precio por acá un bloque citó
+
+[00:03:58]
+que se pinta del otro colorcito que es
+
+[00:04:01]
+un body un 50% de vela o de cuerpo de
+
+[00:04:06]
+vela y tenemos también un balance cerca
+
+[00:04:08]
+que dice gustavo y ha sido mitigado en
+
+[00:04:11]
+balance de un poquitín porque había
+
+[00:04:14]
+quedado todavía un pedacito ahorita ya
+
+[00:04:16]
+ha sido mitigado pero no antes no había
+
+[00:04:18]
+sido mitigado piense como yo le doy para
+
+[00:04:21]
+cada de pronto y vean que era un balance
+
+[00:04:23]
+que estaba up o que estaba ahí ya ahí
+
+[00:04:28]
+estaba el inba lanzó entonces tenemos un
+
+[00:04:29]
+balance cerca de nuestro 50 por ciento
+
+[00:04:33]
+de vela tenemos un balance cerca del 50
+
+[00:04:36]
+por ciento de vela y tenemos por acá el
+
+[00:04:39]
+bloque entonces éste sería un bloque que
+
+[00:04:43]
+no va a tener una alta probabilidad
+
+[00:04:46]
+ser
+
+[00:04:47]
+detener
+
+[00:04:49]
+de que cuando el precio llegue a y en un
+
+[00:04:51]
+futuro llegue por acá y reaccione aquí
+
+[00:04:54]
+no necesariamente puede seguir subiendo
+
+[00:04:56]
+fuerte a veces tiene una cierta reacción
+
+[00:04:58]
+a veces otra ya depende de lo que el
+
+[00:05:01]
+algoritmo bancario quiere hacer pero en
+
+[00:05:03]
+un punto en primera instancia va a
+
+[00:05:06]
+reaccionar probablemente en esa zona ya
+
+[00:05:08]
+quiero que centren solamente sus ojos en
+
+[00:05:11]
+que el precio forma estos bloques de
+
+[00:05:13]
+órdenes y que con este indicador lo
+
+[00:05:14]
+podemos ubicar de manera más sencilla es
+
+[00:05:17]
+importante que
+
+[00:05:20]
+fíjense que el indicador marca muchos
+
+[00:05:22]
+bloques nos marca a todos pero es
+
+[00:05:23]
+importante que el bloque tenga un
+
+[00:05:25]
+balance cerca para que funcione de
+
+[00:05:28]
+manera más correcta o para que tenga más
+
+[00:05:30]
+probabilidad estos bloques que tienen en
+
+[00:05:33]
+balance lo conocemos como beam
+
+[00:05:36]
+o bing bloque con un balance y estos
+
+[00:05:39]
+bloques van a ser con mayor van a ser de
+
+[00:05:42]
+mayor probabilidad
+
+[00:05:44]
+para tomarlo fíjense que el canijo
+
+[00:05:49]
+si tomo fines de gustavo o si tomo un
+
+[00:05:51]
+poquito en balance tomo el 50% pero
+
+[00:05:54]
+todavía había en balance por mitigar por
+
+[00:05:57]
+eso tenemos que ser muy observadores con
+
+[00:05:59]
+el precio entonces tenía esa zona aparte
+
+[00:06:03]
+esta zona me logra romper después
+
+[00:06:06]
+vamos a darle un poquito de play para
+
+[00:06:08]
+acá para que vean como el precio me
+
+[00:06:11]
+amagá llegando a esa zona
+
+[00:06:14]
+aquí genera liquidez
+
+[00:06:17]
+también vamos a tocar el tema de
+
+[00:06:18]
+liquidez
+
+[00:06:19]
+pero quiero ver dónde exactamente entrar
+
+[00:06:22]
+entra ahí entra ahí siguiente con qué
+
+[00:06:25]
+precisión entre exactamente entra
+
+[00:06:27]
+exactamente al bloque al 50% en el zinc
+
+[00:06:31]
+lo rosso rosso pero entró exactamente al
+
+[00:06:34]
+bloque que nosotros queríamos y aquí
+
+[00:06:36]
+podríamos haber entrado nosotros en una
+
+[00:06:39]
+posición larga gustado pero yo la verdad
+
+[00:06:41]
+no me gusta el h 4 y es y como podría
+
+[00:06:45]
+haber entrado pues vamos a entrar en una
+
+[00:06:47]
+temporalidad menor vamos a ubicar
+
+[00:06:49]
+nuestra zona aquí y vamos a ubicar
+
+[00:06:52]
+nuestro bloque nuestro body body como
+
+[00:06:56]
+podemos llamarle nuestro 50% cuerpo
+
+[00:07:02]
+este este bloque poderoso rellena el
+
+[00:07:05]
+balance y aquí vamos a ubicar una
+
+[00:07:07]
+temporalidad menor nuestra estructura de
+
+[00:07:10]
+mercado sabíamos que por ejemplo el
+
+[00:07:12]
+precio ya había roto toda esta
+
+[00:07:14]
+estructura para gam
+
+[00:07:16]
+y probablemente podría subir a partir de
+
+[00:07:19]
+ahí fíjense que tendríamos si nosotros
+
+[00:07:21]
+hubiéramos tomado en entrada hacia la
+
+[00:07:22]
+brava en h4 podríamos tener una entrada
+
+[00:07:25]
+a un 1 a 7 bastante buena o incluso al
+
+[00:07:28]
+último alto podríamos tomar un 1 a 5
+
+[00:07:30]
+pero a mí no me gusta entrar aquí de
+
+[00:07:32]
+esta forma entonces lo vamos a bajar de
+
+[00:07:34]
+temporalidad que espero que por aquí me
+
+[00:07:37]
+dé de chanza
+
+[00:07:42]
+y nos bajamos del temporal y vamos a
+
+[00:07:44]
+borrar un poquitito esto por acá
+
+[00:07:52]
+y en temporalidad es más bajas
+
+[00:07:55]
+vemos cómo el precio perfectamente hace
+
+[00:07:58]
+un rompimiento
+
+[00:08:00]
+si rompe esta estructura nos rompe para
+
+[00:08:04]
+acá otras pequeñas estructuras y
+
+[00:08:05]
+nosotros podríamos haberle entrado ahí
+
+[00:08:08]
+dice alexis exactamente va a este bloque
+
+[00:08:12]
+citó estaba por altas
+
+[00:08:15]
+en mi blog
+
+[00:08:19]
+entonces nuestra entrada hubiera estado
+
+[00:08:22]
+acá también me dicen gustavo también
+
+[00:08:25]
+tenía este blog que tenía este otro
+
+[00:08:28]
+tenía este otro tenía este otro y tenía
+
+[00:08:31]
+este otro pero este blogger si se fijan
+
+[00:08:34]
+era el último por el que había provocado
+
+[00:08:36]
+que me rompiera está estructura y me
+
+[00:08:40]
+había provocado que me rompiera está
+
+[00:08:42]
+estructura también
+
+[00:08:45]
+este bloque es el que había generado
+
+[00:08:47]
+todo ese movimiento por eso el precio
+
+[00:08:49]
+regresa y la posición larga en el
+
+[00:08:52]
+comienzo de nuestro bloque
+
+[00:08:56]
+en este caso en esa vela no teníamos un
+
+[00:08:59]
+balance me hubiera gustado que
+
+[00:09:01]
+tuviéramos un pequeño y en bebé por acá
+
+[00:09:03]
+no teníamos un balance
+
+[00:09:07]
+pero igualmente funcionó correctamente
+
+[00:09:09]
+no tenían balance pero igualmente
+
+[00:09:11]
+funciona nuestro pp nuestros establos
+
+[00:09:14]
+donde lo podríamos haber ubicado
+
+[00:09:15]
+podríamos haber ubicado el stop loss
+
+[00:09:17]
+debajo del mínimo y yo lo hubiera puesto
+
+[00:09:19]
+también debajo del blog simplemente
+
+[00:09:22]
+debajo de este bloque y si el precio
+
+[00:09:24]
+regresaba a estas zonas de acá abajo
+
+[00:09:26]
+tomar la entrada igualmente ahí ya
+
+[00:09:28]
+teníamos una buena confirmación porque
+
+[00:09:30]
+el precio había roto dónde podría haber
+
+[00:09:32]
+tomado yo milité permite profes pues
+
+[00:09:35]
+podría haber tomado en este último alto
+
+[00:09:37]
+o también lo podría haber tomado en el
+
+[00:09:40]
+último alto que teníamos por acá y
+
+[00:09:42]
+aparte aquí teníamos un triple techo que
+
+[00:09:45]
+es conocido por los retails como en la
+
+[00:09:47]
+resistencia entonces la resistencia de
+
+[00:09:49]
+los retail gigante a instalar listo así
+
+[00:09:52]
+se ponen los retail y muy probablemente
+
+[00:09:54]
+en un futuro el precio los
+
+[00:09:57]
+los rompa por ahí podríamos haber tomado
+
+[00:10:00]
+nuestra entrada o ser un poco
+
+[00:10:01]
+conservadores e ir hacia ahí si
+
+[00:10:03]
+entrábamos a partir de ahí teníamos una
+
+[00:10:05]
+entrada 11 aun que les parecería a tomar
+
+[00:10:08]
+un nombre
+
+[00:10:09]
+arriesgando 0.5 por ciento
+
+[00:10:13]
+tenemos
+
+[00:10:15]
+si las matemáticas no me fallan bueno la
+
+[00:10:18]
+calculadora 11
+
+[00:10:20]
+arriesgando
+
+[00:10:22]
+1.5 por ciento de la cuenta tendríamos
+
+[00:10:25]
+un 5.5 por ciento en una sola operación
+
+[00:10:27]
+casi nuestro chal en sí tenemos y
+
+[00:10:30]
+arreglamos un 1 por ciento de la cuenta
+
+[00:10:32]
+pues tendríamos un 11 por ciento tomando
+
+[00:10:35]
+parciales o por ahí en estas estructuras
+
+[00:10:37]
+a lo mejor en de este último alto
+
+[00:10:39]
+podremos tomar un parcial por acá
+
+[00:10:42]
+también podríamos haber tomado otro
+
+[00:10:43]
+parcial a lo mejor sería un poquito
+
+[00:10:45]
+menos pero tenemos un porcentaje
+
+[00:10:47]
+bastante alto simplemente conociendo
+
+[00:10:49]
+esta información
+
+[00:10:50]
+podríamos tener unas entradas de mayor
+
+[00:10:53]
+precisión entradas muy muy muy buenas
+
+[00:10:56]
+esta es una entrada que les quería
+
+[00:10:58]
+enseñar el día de hoy no sé si tengan
+
+[00:11:00]
+dudas a partir de de esto porque no
+
+[00:11:04]
+solamente vamos a tocar estos temas
+
+[00:11:06]
+también en un futuro vamos a tocar temas
+
+[00:11:08]
+de más alta probabilidad incluso esta
+
+[00:11:10]
+entrada si usted están esperando tipo
+
+[00:11:11]
+swing podemos entrar a sacar
+
+[00:11:18]
+simplemente si nos damos conservadores
+
+[00:11:20]
+teníamos siguiente un 111 si nos vamos
+
+[00:11:22]
+un poco más hacia arriba donde está el
+
+[00:11:24]
+soporte los retails 11 a 16 vamos a
+
+[00:11:27]
+darle play para que vean ustedes qué
+
+[00:11:28]
+pasó
+
+[00:11:30]
+perdón el soporte ya hasta los conjuntos
+
+[00:11:33]
+la resistencia a la retail gigante que
+
+[00:11:35]
+les hicieron la resistencia a los retail
+
+[00:11:37]
+tronados estaban en ventas que el triple
+
+[00:11:40]
+techo y que no se quede que por acá y
+
+[00:11:43]
+para al suelo porque porque el precio
+
+[00:11:45]
+había venido a un punto de interés
+
+[00:11:47]
+institucional donde nosotros podríamos
+
+[00:11:50]
+haber estado entrando conociendo todos
+
+[00:11:52]
+estos conceptos que tenemos por acá
+
+[00:11:54]
+incluso ya sabiendo que el precio rompió
+
+[00:11:56]
+por acá
+
+[00:11:58]
+hizo un voz por ahí nosotros podemos
+
+[00:12:01]
+igualmente tomar una entrada hasta el
+
+[00:12:04]
+último alto que está por acá
+
+[00:12:07]
+y el precio finalmente lo hizo
+
+[00:12:11]
+hay un pequeño retroceso brusco y luego
+
+[00:12:13]
+sobre tenemos una entrada a 126 desde
+
+[00:12:17]
+ahí obviamente tardo algo de tiempo
+
+[00:12:20]
+desde el 14 pero esto ya podemos tomarlo
+
+[00:12:22]
+más como tipo swing si nos podríamos
+
+[00:12:25]
+haber quedado en la sesión pues
+
+[00:12:26]
+hubiéramos tomado un 18 a lo mejor un 1
+
+[00:12:29]
+a 10 solamente en la sesión ya esas
+
+[00:12:32]
+entradas son aguantar las más tiempo
+
+[00:12:35]
+todavía pero fíjense cómo de entrar en
+
+[00:12:37]
+una de tener un concepto podemos tomar
+
+[00:12:40]
+un entradas que no te las va a dar en
+
+[00:12:43]
+nada no trasladar ningún no conozco no
+
+[00:12:47]
+conozco este
+
+[00:12:48]
+metodología que esté dando estos ratios
+
+[00:12:50]
+tan brutales como la de smart money
+
+[00:12:54]
+entonces tienen algún hombre el
+
+[00:12:56]
+indicador 50% nobody cando bueno dije
+
+[00:13:01]
+50 por su interna bodic bueno 50 bodil
+
+[00:13:04]
+campbell lo puedes asimismo como está
+
+[00:13:07]
+por acá te ayuda a identificar los
+
+[00:13:09]
+bloques de manera más correcta esto
+
+[00:13:11]
+simplemente te pinta de color las velas
+
+[00:13:14]
+que tienen 50 por ciento
+
+[00:13:16]
+[Música]
+
+[00:13:23]
+cómo
+
+[00:13:28]
+e
+
+[00:13:29]
+[Música]
+```

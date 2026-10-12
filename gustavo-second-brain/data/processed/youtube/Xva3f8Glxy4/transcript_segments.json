@@ -1,0 +1,1382 @@
+[
+  {
+    "start_sec": 0.04,
+    "end_sec": 1.8,
+    "text": "estamos en un nuevo video esta vez"
+  },
+  {
+    "start_sec": 1.8,
+    "end_sec": 4.4,
+    "text": "mentoría gratuita 2024 nuestra última"
+  },
+  {
+    "start_sec": 4.4,
+    "end_sec": 7.08,
+    "text": "clase de módulo número tres espero que"
+  },
+  {
+    "start_sec": 7.08,
+    "end_sec": 10.0,
+    "text": "la estén llevando bastante bien si no te"
+  },
+  {
+    "start_sec": 10.0,
+    "end_sec": 11.64,
+    "text": "has visto cada uno de los videos te"
+  },
+  {
+    "start_sec": 11.64,
+    "end_sec": 14.04,
+    "text": "recomiendo que los veas link abajo de"
+  },
+  {
+    "start_sec": 14.04,
+    "end_sec": 15.84,
+    "text": "toda la Playlist en la descripción de"
+  },
+  {
+    "start_sec": 15.84,
+    "end_sec": 17.92,
+    "text": "este video y vamos a empezar con nuestra"
+  },
+  {
+    "start_sec": 17.92,
+    "end_sec": 21.12,
+    "text": "clase número cco mapeo para swing o"
+  },
+  {
+    "start_sec": 21.12,
+    "end_sec": 22.96,
+    "text": "estrategia para swing Cómo podemos hacer"
+  },
+  {
+    "start_sec": 22.96,
+    "end_sec": 24.36,
+    "text": "swing cóm podemos tener una buena"
+  },
+  {
+    "start_sec": 24.36,
+    "end_sec": 26.0,
+    "text": "entrada en swing Cómo podemos"
+  },
+  {
+    "start_sec": 26.0,
+    "end_sec": 28.28,
+    "text": "identificar los fractales para swing"
+  },
+  {
+    "start_sec": 28.28,
+    "end_sec": 31.48,
+    "text": "Cómo podemos hacer una buena estrategia"
+  },
+  {
+    "start_sec": 31.48,
+    "end_sec": 33.32,
+    "text": "una buena entrada en swing Bueno pues"
+  },
+  {
+    "start_sec": 33.32,
+    "end_sec": 35.56,
+    "text": "vamos allá con la simplificación"
+  },
+  {
+    "start_sec": 35.56,
+    "end_sec": 37.68,
+    "text": "nuestros pasos objetivo es crear un mapa"
+  },
+  {
+    "start_sec": 37.68,
+    "end_sec": 39.24,
+    "text": "para poder trabajar en operaciones a"
+  },
+  {
+    "start_sec": 39.24,
+    "end_sec": 40.96,
+    "text": "largo plazo aprender identificar"
+  },
+  {
+    "start_sec": 40.96,
+    "end_sec": 42.84,
+    "text": "fractales zonas de interés y formas de"
+  },
+  {
+    "start_sec": 42.84,
+    "end_sec": 45.32,
+    "text": "trabajo para swing Pues en swing existe"
+  },
+  {
+    "start_sec": 45.32,
+    "end_sec": 47.32,
+    "text": "lo que es swing corto un día una semana"
+  },
+  {
+    "start_sec": 47.32,
+    "end_sec": 50.72,
+    "text": "que es lo que yo hago swing eh Un día 3"
+  },
+  {
+    "start_sec": 50.72,
+    "end_sec": 53.4,
+    "text": "días 4 días 5 días operaciones en ese"
+  },
+  {
+    "start_sec": 53.4,
+    "end_sec": 57.28,
+    "text": "tipo de eh contexto es lo que yo suelo"
+  },
+  {
+    "start_sec": 57.28,
+    "end_sec": 59.28,
+    "text": "hacer y los van a ser los ejemplos que"
+  },
+  {
+    "start_sec": 59.28,
+    "end_sec": 60.48,
+    "text": "les voy a poner"
+  },
+  {
+    "start_sec": 60.48,
+    "end_sec": 64.28,
+    "text": "diario y h4 tendencia h4 y h2 patrón h1"
+  },
+  {
+    "start_sec": 64.28,
+    "end_sec": 67.04,
+    "text": "y m30 refine puede ser también 15"
+  },
+  {
+    "start_sec": 67.04,
+    "end_sec": 68.96,
+    "text": "minutos Aunque mí no me gusta refinar"
+  },
+  {
+    "start_sec": 68.96,
+    "end_sec": 70.44,
+    "text": "tanto pero ustedes lo pueden hacer si"
+  },
+  {
+    "start_sec": 70.44,
+    "end_sec": 73.96,
+    "text": "quieren t medio más de una semana en"
+  },
+  {
+    "start_sec": 73.96,
+    "end_sec": 77.6,
+    "text": "tendencia en en semanal patrón en diario"
+  },
+  {
+    "start_sec": 77.6,
+    "end_sec": 81.16,
+    "text": "y refin en h4 y swing muy muy muy pero"
+  },
+  {
+    "start_sec": 81.16,
+    "end_sec": 84.68,
+    "text": "muy largo es tendencia mensual patrón en"
+  },
+  {
+    "start_sec": 84.68,
+    "end_sec": 87.52,
+    "text": "s1 y refine en lo que es nuestra"
+  },
+  {
+    "start_sec": 87.52,
+    "end_sec": 90.12,
+    "text": "temporalidad diaria pero yo les voy a a"
+  },
+  {
+    "start_sec": 90.12,
+    "end_sec": 92.16,
+    "text": "explicar el día de hoy ejemplos con sin"
+  },
+  {
+    "start_sec": 92.16,
+    "end_sec": 94.84,
+    "text": "corto que es lo que yo hago y donde más"
+  },
+  {
+    "start_sec": 94.84,
+    "end_sec": 97.32,
+    "text": "puedo llegar a dar aportarles valor"
+  },
+  {
+    "start_sec": 97.32,
+    "end_sec": 100.08,
+    "text": "gráficos de diario y de h4 buscar la"
+  },
+  {
+    "start_sec": 100.08,
+    "end_sec": 102.0,
+    "text": "dirección inmediata fractales a partir"
+  },
+  {
+    "start_sec": 102.0,
+    "end_sec": 104.44,
+    "text": "de ahí revisar altos y bajos sesiones"
+  },
+  {
+    "start_sec": 104.44,
+    "end_sec": 108.36,
+    "text": "diarios y semanales patrón de h4 h2 car"
+  },
+  {
+    "start_sec": 108.36,
+    "end_sec": 110.12,
+    "text": "fractal a trabajar y son a favor de"
+  },
+  {
+    "start_sec": 110.12,
+    "end_sec": 111.52,
+    "text": "nuestra entrada o de dirección"
+  },
+  {
+    "start_sec": 111.52,
+    "end_sec": 113.48,
+    "text": "encontrada previamente también medir el"
+  },
+  {
+    "start_sec": 113.48,
+    "end_sec": 116.4,
+    "text": "tamaño de la zona en h1 Buscar nuestro"
+  },
+  {
+    "start_sec": 116.4,
+    "end_sec": 118.4,
+    "text": "patrón de cambio estructural y entrar"
+  },
+  {
+    "start_sec": 118.4,
+    "end_sec": 120.68,
+    "text": "verdad estos son los pasos bastante"
+  },
+  {
+    "start_sec": 120.68,
+    "end_sec": 122.28,
+    "text": "sencillos para poder nosotros hacer"
+  },
+  {
+    "start_sec": 122.28,
+    "end_sec": 124.68,
+    "text": "swing tenemos pasos de la estrategia de"
+  },
+  {
+    "start_sec": 124.68,
+    "end_sec": 125.92,
+    "text": "swing corto"
+  },
+  {
+    "start_sec": 125.92,
+    "end_sec": 129.08,
+    "text": "eh igual de nuevo identificamos nuestro"
+  },
+  {
+    "start_sec": 129.08,
+    "end_sec": 132.2,
+    "text": "fractal en en tendencia igual de nuevo"
+  },
+  {
+    "start_sec": 132.2,
+    "end_sec": 134.04,
+    "text": "tenemos la tendencia en diario en h4"
+  },
+  {
+    "start_sec": 134.04,
+    "end_sec": 135.6,
+    "text": "nuestro último fractal que queremos"
+  },
+  {
+    "start_sec": 135.6,
+    "end_sec": 138.72,
+    "text": "trabajar eh ver si vamos a poder comprar"
+  },
+  {
+    "start_sec": 138.72,
+    "end_sec": 140.52,
+    "text": "o vender aplicamos nuestra teoría de"
+  },
+  {
+    "start_sec": 140.52,
+    "end_sec": 143.24,
+    "text": "Premium y descuento identificamos en h4"
+  },
+  {
+    "start_sec": 143.24,
+    "end_sec": 145.8,
+    "text": "y en h2 el último punto fractal"
+  },
+  {
+    "start_sec": 145.8,
+    "end_sec": 148.12,
+    "text": "importante y nuestro cambio en h1 y en"
+  },
+  {
+    "start_sec": 148.12,
+    "end_sec": 150.52,
+    "text": "m30 la verdad es que es muy sencillo lo"
+  },
+  {
+    "start_sec": 150.52,
+    "end_sec": 152.44,
+    "text": "mismo que le estaba explicando para lo"
+  },
+  {
+    "start_sec": 152.44,
+    "end_sec": 155.84,
+    "text": "que es eh intrad Y scalping lo mismo que"
+  },
+  {
+    "start_sec": 155.84,
+    "end_sec": 158.16,
+    "text": "hacemos en swing recomendaciones finales"
+  },
+  {
+    "start_sec": 158.16,
+    "end_sec": 161.48,
+    "text": "para eh swing mejores horarios Nueva"
+  },
+  {
+    "start_sec": 161.48,
+    "end_sec": 163.48,
+    "text": "York y Londres aperturas y cierres no"
+  },
+  {
+    "start_sec": 163.48,
+    "end_sec": 165.68,
+    "text": "hay horario específico para swing puedes"
+  },
+  {
+    "start_sec": 165.68,
+    "end_sec": 168.12,
+    "text": "encontrar entradas cuando tú las tengas"
+  },
+  {
+    "start_sec": 168.12,
+    "end_sec": 170.68,
+    "text": "es lo bonito de swing y simplemente"
+  },
+  {
+    "start_sec": 170.68,
+    "end_sec": 173.04,
+    "text": "estar esperando la temporalidad grande"
+  },
+  {
+    "start_sec": 173.04,
+    "end_sec": 175.64,
+    "text": "pero siempre pues nuestras sesiones de"
+  },
+  {
+    "start_sec": 175.64,
+    "end_sec": 177.32,
+    "text": "Londres y de Nueva York van a ser donde"
+  },
+  {
+    "start_sec": 177.32,
+    "end_sec": 178.88,
+    "text": "vamos a tener mejores probabilidades de"
+  },
+  {
+    "start_sec": 178.88,
+    "end_sec": 181.28,
+    "text": "entrada centrarte en la dirección Macro"
+  },
+  {
+    "start_sec": 181.28,
+    "end_sec": 183.0,
+    "text": "en swing te tienes que centrar en"
+  },
+  {
+    "start_sec": 183.0,
+    "end_sec": 185.92,
+    "text": "dirección no es eh No es una reacción en"
+  },
+  {
+    "start_sec": 185.92,
+    "end_sec": 188.16,
+    "text": "el precio estás buscando reacciones en"
+  },
+  {
+    "start_sec": 188.16,
+    "end_sec": 190.4,
+    "text": "el precio estás buscando movimientos más"
+  },
+  {
+    "start_sec": 190.4,
+    "end_sec": 193.92,
+    "text": "extendidos estás buscando dirección eh"
+  },
+  {
+    "start_sec": 193.92,
+    "end_sec": 195.68,
+    "text": "conclusión esperar su entrada tienes que"
+  },
+  {
+    "start_sec": 195.68,
+    "end_sec": 197.68,
+    "text": "ser muy paciente para esperar entradas"
+  },
+  {
+    "start_sec": 197.68,
+    "end_sec": 200.0,
+    "text": "muy pacientes para dejar correr también"
+  },
+  {
+    "start_sec": 200.0,
+    "end_sec": 202.4,
+    "text": "la entrada saber esperar su Target"
+  },
+  {
+    "start_sec": 202.4,
+    "end_sec": 205.12,
+    "text": "aguantar su l su stop loss y tu Take"
+  },
+  {
+    "start_sec": 205.12,
+    "end_sec": 207.96,
+    "text": "profit y mucha paciencia para swing en"
+  },
+  {
+    "start_sec": 207.96,
+    "end_sec": 209.92,
+    "text": "lo que necesitas pero vas a estar muy"
+  },
+  {
+    "start_sec": 209.92,
+    "end_sec": 212.2,
+    "text": "tranquilo porque vas a poder no estar"
+  },
+  {
+    "start_sec": 212.2,
+    "end_sec": 214.68,
+    "text": "pegado ahí tanto a la pantalla no estar"
+  },
+  {
+    "start_sec": 214.68,
+    "end_sec": 217.84,
+    "text": "ahí tantísimo tiempo mirando una entrada"
+  },
+  {
+    "start_sec": 217.84,
+    "end_sec": 220.08,
+    "text": "entonces tiene sus pros y sus contras"
+  },
+  {
+    "start_sec": 220.08,
+    "end_sec": 221.88,
+    "text": "entender siempre las debilidades y"
+  },
+  {
+    "start_sec": 221.88,
+    "end_sec": 224.8,
+    "text": "fortalezas de nuestra estrategia Vamos"
+  },
+  {
+    "start_sec": 224.8,
+    "end_sec": 227.16,
+    "text": "allá con los ejemplos de swin cord Bueno"
+  },
+  {
+    "start_sec": 227.16,
+    "end_sec": 229.08,
+    "text": "chicos este caso Les voy a poner algunos"
+  },
+  {
+    "start_sec": 229.08,
+    "end_sec": 231.4,
+    "text": "ejemplos en el nasac esta vez de unas"
+  },
+  {
+    "start_sec": 231.4,
+    "end_sec": 233.84,
+    "text": "operaciones que yo tomé para pasar ftm"
+  },
+  {
+    "start_sec": 233.84,
+    "end_sec": 237.2,
+    "text": "challenge de $200,000 esta semana para"
+  },
+  {
+    "start_sec": 237.2,
+    "end_sec": 239.08,
+    "text": "que ustedes vean Cómo identifiqué cómo"
+  },
+  {
+    "start_sec": 239.08,
+    "end_sec": 240.8,
+    "text": "hice para tomar esas operaciones que"
+  },
+  {
+    "start_sec": 240.8,
+    "end_sec": 243.24,
+    "text": "tomé en vivo chicos tomé operaciones en"
+  },
+  {
+    "start_sec": 243.24,
+    "end_sec": 246.0,
+    "text": "vivo tuvimos buena ganancia y pasamos ft"
+  },
+  {
+    "start_sec": 246.0,
+    "end_sec": 247.0,
+    "text": "challenge de"
+  },
+  {
+    "start_sec": 247.0,
+    "end_sec": 249.32,
+    "text": "0000,000 a partir de ahí empiezo desde"
+  },
+  {
+    "start_sec": 249.32,
+    "end_sec": 251.0,
+    "text": "mi gráfico semanal me gusta comenzar"
+  },
+  {
+    "start_sec": 251.0,
+    "end_sec": 253.2,
+    "text": "desde mi gráfico semanal entendiendo el"
+  },
+  {
+    "start_sec": 253.2,
+    "end_sec": 255.48,
+    "text": "contexto de que este precio está to the"
+  },
+  {
+    "start_sec": 255.48,
+    "end_sec": 258.28,
+    "text": "moon alcista simplemente está alcista No"
+  },
+  {
+    "start_sec": 258.28,
+    "end_sec": 260.76,
+    "text": "necesito tener tanto contexto"
+  },
+  {
+    "start_sec": 260.76,
+    "end_sec": 262.52,
+    "text": "simplemente está alcista y voy"
+  },
+  {
+    "start_sec": 262.52,
+    "end_sec": 266.28,
+    "text": "identificar nuestros zonas de interés en"
+  },
+  {
+    "start_sec": 266.28,
+    "end_sec": 269.84,
+    "text": "este caso eh la semana que yo traé mape"
+  },
+  {
+    "start_sec": 269.84,
+    "end_sec": 271.56,
+    "text": "Aba este High importante que lo vamos a"
+  },
+  {
+    "start_sec": 271.56,
+    "end_sec": 274.36,
+    "text": "marcar por ahí yo los me suele gustar"
+  },
+  {
+    "start_sec": 274.36,
+    "end_sec": 276.16,
+    "text": "ponerlo siempre con líneas de este"
+  },
+  {
+    "start_sec": 276.16,
+    "end_sec": 277.68,
+    "text": "estilo Pero ustedes lo pueden marcar"
+  },
+  {
+    "start_sec": 277.68,
+    "end_sec": 279.8,
+    "text": "como ustedes se les pegue su gana A mí"
+  },
+  {
+    "start_sec": 279.8,
+    "end_sec": 281.88,
+    "text": "me encanta así porque así es como me"
+  },
+  {
+    "start_sec": 281.88,
+    "end_sec": 284.52,
+    "text": "gusta irlo viendo entonces aquí tenemos"
+  },
+  {
+    "start_sec": 284.52,
+    "end_sec": 288.52,
+    "text": "este liquidez High y low de eh nuestra"
+  },
+  {
+    "start_sec": 288.52,
+    "end_sec": 291.12,
+    "text": "gráfico semanal también vamos a ir"
+  },
+  {
+    "start_sec": 291.12,
+    "end_sec": 294.28,
+    "text": "marcando estos de aquí para que ustedes"
+  },
+  {
+    "start_sec": 294.28,
+    "end_sec": 296.64,
+    "text": "vayan teniendo un poquito más de"
+  },
+  {
+    "start_sec": 296.64,
+    "end_sec": 299.04,
+    "text": "experiencia con estos bajos y altos"
+  },
+  {
+    "start_sec": 299.04,
+    "end_sec": 301.4,
+    "text": "canales vayan viendo cómo funcionan Cómo"
+  },
+  {
+    "start_sec": 301.4,
+    "end_sec": 304.44,
+    "text": "van entre sí tomándose la liquidez y"
+  },
+  {
+    "start_sec": 304.44,
+    "end_sec": 306.84,
+    "text": "etcétera etcétera entonces Bueno chicos"
+  },
+  {
+    "start_sec": 306.84,
+    "end_sec": 308.48,
+    "text": "a partir de ahí me bajo a mi gráfico"
+  },
+  {
+    "start_sec": 308.48,
+    "end_sec": 310.96,
+    "text": "diario mi gráfico diario voy a igual"
+  },
+  {
+    "start_sec": 310.96,
+    "end_sec": 313.48,
+    "text": "estar marcando bajos y altos relevantes"
+  },
+  {
+    "start_sec": 313.48,
+    "end_sec": 315.84,
+    "text": "y estar viendo cómo funcionan en este"
+  },
+  {
+    "start_sec": 315.84,
+    "end_sec": 318.04,
+    "text": "caso ya los que son semanales pues no es"
+  },
+  {
+    "start_sec": 318.04,
+    "end_sec": 320.04,
+    "text": "importante tenerlos en cuenta en este"
+  },
+  {
+    "start_sec": 320.04,
+    "end_sec": 324.08,
+    "text": "caso Este es el semanal y acá tenemos el"
+  },
+  {
+    "start_sec": 324.08,
+    "end_sec": 326.52,
+    "text": "el low semanal que era Esto entonces ya"
+  },
+  {
+    "start_sec": 326.52,
+    "end_sec": 328.68,
+    "text": "no es importante tener en cuenta tanto"
+  },
+  {
+    "start_sec": 328.68,
+    "end_sec": 330.56,
+    "text": "porque ya tenemos los gráficos semanales"
+  },
+  {
+    "start_sec": 330.56,
+    "end_sec": 332.08,
+    "text": "que son un poquito más relevantes de los"
+  },
+  {
+    "start_sec": 332.08,
+    "end_sec": 336.0,
+    "text": "diarios pero ya este a partir de ahí lo"
+  },
+  {
+    "start_sec": 336.0,
+    "end_sec": 337.4,
+    "text": "que voy a hacer yo"
+  },
+  {
+    "start_sec": 337.4,
+    "end_sec": 342.64,
+    "text": "es marcarles este low diario loow diario"
+  },
+  {
+    "start_sec": 342.64,
+    "end_sec": 346.08,
+    "text": "esto van a hacer low diario y este vamos"
+  },
+  {
+    "start_sec": 346.08,
+    "end_sec": 348.32,
+    "text": "a dejar también este último low diario"
+  },
+  {
+    "start_sec": 348.32,
+    "end_sec": 350.8,
+    "text": "esto no más para tener contexto ya ahora"
+  },
+  {
+    "start_sec": 350.8,
+    "end_sec": 353.84,
+    "text": "sí nuestra temporalidad mayor verdad los"
+  },
+  {
+    "start_sec": 353.84,
+    "end_sec": 355.28,
+    "text": "aquí qué estoy haciendo simplemente"
+  },
+  {
+    "start_sec": 355.28,
+    "end_sec": 357.92,
+    "text": "mapeando highs y lows diarios y"
+  },
+  {
+    "start_sec": 357.92,
+    "end_sec": 360.16,
+    "text": "semanales temporalidad que me voy a ir"
+  },
+  {
+    "start_sec": 360.16,
+    "end_sec": 362.08,
+    "text": "para hacer este su corto va a ser 4"
+  },
+  {
+    "start_sec": 362.08,
+    "end_sec": 365.2,
+    "text": "horas Entonces ahora sí el contexto de 4"
+  },
+  {
+    "start_sec": 365.2,
+    "end_sec": 367.44,
+    "text": "horas es el va a ser el principal que yo"
+  },
+  {
+    "start_sec": 367.44,
+    "end_sec": 369.72,
+    "text": "va a estar tomando para mi tendencia o"
+  },
+  {
+    "start_sec": 369.72,
+    "end_sec": 373.4,
+    "text": "para mis operaciones en estos gráficos"
+  },
+  {
+    "start_sec": 373.4,
+    "end_sec": 376.12,
+    "text": "de 4 horas para mis operaciones Ahora sí"
+  },
+  {
+    "start_sec": 376.12,
+    "end_sec": 377.6,
+    "text": "el contexto que voy a estar tomando"
+  },
+  {
+    "start_sec": 377.6,
+    "end_sec": 379.92,
+    "text": "principalmente va a ser en 4 horas para"
+  },
+  {
+    "start_sec": 379.92,
+    "end_sec": 382.32,
+    "text": "mis operaciones un poquito de swing voy"
+  },
+  {
+    "start_sec": 382.32,
+    "end_sec": 384.44,
+    "text": "a estar tomando en cuenta este High voy"
+  },
+  {
+    "start_sec": 384.44,
+    "end_sec": 386.24,
+    "text": "a estar tomando en cuenta este low voy a"
+  },
+  {
+    "start_sec": 386.24,
+    "end_sec": 387.36,
+    "text": "estar tomando en cuenta todo este"
+  },
+  {
+    "start_sec": 387.36,
+    "end_sec": 390.2,
+    "text": "fractal el precio que hace un nuevo"
+  },
+  {
+    "start_sec": 390.2,
+    "end_sec": 392.56,
+    "text": "impulso al alza no logra hacer un nuevo"
+  },
+  {
+    "start_sec": 392.56,
+    "end_sec": 396.32,
+    "text": "alto me deja todo este último fractal"
+  },
+  {
+    "start_sec": 396.32,
+    "end_sec": 400.12,
+    "text": "aquí l High low High no High y ya"
+  },
+  {
+    "start_sec": 400.12,
+    "end_sec": 401.84,
+    "text": "tenemos descifrada la estructura a"
+  },
+  {
+    "start_sec": 401.84,
+    "end_sec": 403.76,
+    "text": "partir de ahí que tenemos un bajo diario"
+  },
+  {
+    "start_sec": 403.76,
+    "end_sec": 407.04,
+    "text": "importante vead y ya a partir de aquí"
+  },
+  {
+    "start_sec": 407.04,
+    "end_sec": 409.44,
+    "text": "tenemos este otro bajo importante y ya"
+  },
+  {
+    "start_sec": 409.44,
+    "end_sec": 412.28,
+    "text": "para gatillar mi entrada ya me voy a h1"
+  },
+  {
+    "start_sec": 412.28,
+    "end_sec": 414.92,
+    "text": "para gatillar el la entrada ahora ya sé"
+  },
+  {
+    "start_sec": 414.92,
+    "end_sec": 416.8,
+    "text": "que el contexto está alcista que hemos"
+  },
+  {
+    "start_sec": 416.8,
+    "end_sec": 419.2,
+    "text": "tomado nuevo bajo que hemos tomado el"
+  },
+  {
+    "start_sec": 419.2,
+    "end_sec": 421.72,
+    "text": "bajo semanal también Y a partir de ahí"
+  },
+  {
+    "start_sec": 421.72,
+    "end_sec": 423.4,
+    "text": "yo digo que mi dirección Sigue estando"
+  },
+  {
+    "start_sec": 423.4,
+    "end_sec": 426.04,
+    "text": "alcista pero en h1 voy a ver un poquito"
+  },
+  {
+    "start_sec": 426.04,
+    "end_sec": 428.2,
+    "text": "mejor el contexto y voy a ver"
+  },
+  {
+    "start_sec": 428.2,
+    "end_sec": 430.0,
+    "text": "exactamente les voy a enseñar Cuándo"
+  },
+  {
+    "start_sec": 430.0,
+    "end_sec": 432.36,
+    "text": "gatilla mi entrada de swing porque la"
+  },
+  {
+    "start_sec": 432.36,
+    "end_sec": 434.68,
+    "text": "dejamos correr hasta ahí y todo Bueno ya"
+  },
+  {
+    "start_sec": 434.68,
+    "end_sec": 437.04,
+    "text": "estoy en h1 y en h1 si se fijan se ve un"
+  },
+  {
+    "start_sec": 437.04,
+    "end_sec": 439.48,
+    "text": "poquito mejor ver es está un poquito más"
+  },
+  {
+    "start_sec": 439.48,
+    "end_sec": 442.16,
+    "text": "desglosado yo me encontraba exactamente"
+  },
+  {
+    "start_sec": 442.16,
+    "end_sec": 444.6,
+    "text": "queriendo tomar después de que el precio"
+  },
+  {
+    "start_sec": 444.6,
+    "end_sec": 447.36,
+    "text": "eh tomó todo este impulso a la alza todo"
+  },
+  {
+    "start_sec": 447.36,
+    "end_sec": 449.72,
+    "text": "este movimiento a la alza encontraba por"
+  },
+  {
+    "start_sec": 449.72,
+    "end_sec": 452.0,
+    "text": "aquí más o menos el día domingo esta"
+  },
+  {
+    "start_sec": 452.0,
+    "end_sec": 454.76,
+    "text": "semana del del primero de julio la"
+  },
+  {
+    "start_sec": 454.76,
+    "end_sec": 456.64,
+    "text": "primera semana de Julio me encontraba"
+  },
+  {
+    "start_sec": 456.64,
+    "end_sec": 458.2,
+    "text": "por aquí queriendo tomar una entrada a"
+  },
+  {
+    "start_sec": 458.2,
+    "end_sec": 460.68,
+    "text": "la alza o a la baja verdad el precio me"
+  },
+  {
+    "start_sec": 460.68,
+    "end_sec": 463.2,
+    "text": "hace ruptura estructura a la alza bueno"
+  },
+  {
+    "start_sec": 463.2,
+    "end_sec": 465.16,
+    "text": "el precio hizo un nuevo alto que no pudo"
+  },
+  {
+    "start_sec": 465.16,
+    "end_sec": 467.68,
+    "text": "romper este nuevo High Okay perfecto el"
+  },
+  {
+    "start_sec": 467.68,
+    "end_sec": 469.2,
+    "text": "precio Lo que hace es venir de nuevo"
+  },
+  {
+    "start_sec": 469.2,
+    "end_sec": 471.6,
+    "text": "hacia abajo deja ese mínimo diario abre"
+  },
+  {
+    "start_sec": 471.6,
+    "end_sec": 474.6,
+    "text": "la sesión de Asia rompe ese mínimo Okay"
+  },
+  {
+    "start_sec": 474.6,
+    "end_sec": 476.4,
+    "text": "perfecto qué tienes que hacer precio"
+  },
+  {
+    "start_sec": 476.4,
+    "end_sec": 478.16,
+    "text": "tienes que venir a hacer un nuevo mínimo"
+  },
+  {
+    "start_sec": 478.16,
+    "end_sec": 480.52,
+    "text": "ya tienes que irte hacia abajo verad ya"
+  },
+  {
+    "start_sec": 480.52,
+    "end_sec": 482.52,
+    "text": "está Gustavo ya está aquí con estructura"
+  },
+  {
+    "start_sec": 482.52,
+    "end_sec": 484.64,
+    "text": "a la baja Ya me rompió la estructura Sí"
+  },
+  {
+    "start_sec": 484.64,
+    "end_sec": 486.96,
+    "text": "ya te rompió la estructura ya está para"
+  },
+  {
+    "start_sec": 486.96,
+    "end_sec": 489.96,
+    "text": "abajo Okay perfecto Qué hace el precio"
+  },
+  {
+    "start_sec": 489.96,
+    "end_sec": 492.68,
+    "text": "pega un mechaz Ah aquí es lo donde"
+  },
+  {
+    "start_sec": 492.68,
+    "end_sec": 494.6,
+    "text": "muchos se confunden dice Gustavo Cómo sé"
+  },
+  {
+    "start_sec": 494.6,
+    "end_sec": 497.52,
+    "text": "que es un cambio de estructura cóm s que"
+  },
+  {
+    "start_sec": 497.52,
+    "end_sec": 500.84,
+    "text": "realmente el precio eh cambió estructura"
+  },
+  {
+    "start_sec": 500.84,
+    "end_sec": 503.08,
+    "text": "y me hizo un rompimiento de estructura a"
+  },
+  {
+    "start_sec": 503.08,
+    "end_sec": 506.12,
+    "text": "la baja Cómo sé eso y que realmente el"
+  },
+  {
+    "start_sec": 506.12,
+    "end_sec": 508.56,
+    "text": "precio no me hizo un falso quiebre pues"
+  },
+  {
+    "start_sec": 508.56,
+    "end_sec": 510.6,
+    "text": "muy fácil Fíjate que aquí toma la"
+  },
+  {
+    "start_sec": 510.6,
+    "end_sec": 512.24,
+    "text": "liquidez del bajo diario toma la"
+  },
+  {
+    "start_sec": 512.24,
+    "end_sec": 514.64,
+    "text": "liquidez de este mínimo a partir de ahí"
+  },
+  {
+    "start_sec": 514.64,
+    "end_sec": 516.6,
+    "text": "pega un mechaz hacia arriba y algo"
+  },
+  {
+    "start_sec": 516.6,
+    "end_sec": 518.76,
+    "text": "importante empieza a romper estructuras"
+  },
+  {
+    "start_sec": 518.76,
+    "end_sec": 521.2,
+    "text": "internas a la Alfa a partir de ahí yo"
+  },
+  {
+    "start_sec": 521.2,
+    "end_sec": 523.6,
+    "text": "identifico toda esta zona como mi último"
+  },
+  {
+    "start_sec": 523.6,
+    "end_sec": 525.12,
+    "text": "fractal inmediato donde voy a estar"
+  },
+  {
+    "start_sec": 525.12,
+    "end_sec": 528.2,
+    "text": "refinando h1 ya un fractal alineado El"
+  },
+  {
+    "start_sec": 528.2,
+    "end_sec": 530.64,
+    "text": "Alfa me olvido de esto ya por qué me"
+  },
+  {
+    "start_sec": 530.64,
+    "end_sec": 533.88,
+    "text": "olvido de eso Gustavo porque ya tenemos"
+  },
+  {
+    "start_sec": 533.88,
+    "end_sec": 538.44,
+    "text": "estructuras alineadas aún así para mayor"
+  },
+  {
+    "start_sec": 538.44,
+    "end_sec": 540.96,
+    "text": "confirmación yo lo que hice en vivo es"
+  },
+  {
+    "start_sec": 540.96,
+    "end_sec": 543.44,
+    "text": "tomar la ruptura de esa estructura en"
+  },
+  {
+    "start_sec": 543.44,
+    "end_sec": 545.24,
+    "text": "cuanto vi que el precio tomó la ruptura"
+  },
+  {
+    "start_sec": 545.24,
+    "end_sec": 547.08,
+    "text": "de esa estructura pegó un pequeño mechaz"
+  },
+  {
+    "start_sec": 547.08,
+    "end_sec": 551.04,
+    "text": "para abajo me monté a la alza para tener"
+  },
+  {
+    "start_sec": 551.04,
+    "end_sec": 553.16,
+    "text": "mejor confirmación todavía pero ya a"
+  },
+  {
+    "start_sec": 553.16,
+    "end_sec": 554.84,
+    "text": "partir de aquí de este retroceso que el"
+  },
+  {
+    "start_sec": 554.84,
+    "end_sec": 557.12,
+    "text": "precio falló aquí ya teníamos un"
+  },
+  {
+    "start_sec": 557.12,
+    "end_sec": 560.16,
+    "text": "contexto alcista a partir de aquí yo"
+  },
+  {
+    "start_sec": 560.16,
+    "end_sec": 562.52,
+    "text": "puse mi posición larga aún así que yo me"
+  },
+  {
+    "start_sec": 562.52,
+    "end_sec": 564.8,
+    "text": "preferí estar un poquito más confirmado"
+  },
+  {
+    "start_sec": 564.8,
+    "end_sec": 568.24,
+    "text": "me protegía de este mínimo importante y"
+  },
+  {
+    "start_sec": 568.24,
+    "end_sec": 570.6,
+    "text": "me tomé una entrada a este nuevo High"
+  },
+  {
+    "start_sec": 570.6,
+    "end_sec": 572.92,
+    "text": "más o menos yo tomé por aquí un poquito"
+  },
+  {
+    "start_sec": 572.92,
+    "end_sec": 575.64,
+    "text": "más arriba de ese nuevo High y tomé una"
+  },
+  {
+    "start_sec": 575.64,
+    "end_sec": 578.56,
+    "text": "posición en swing Gustavo quise haber"
+  },
+  {
+    "start_sec": 578.56,
+    "end_sec": 581.4,
+    "text": "refinado un poco más y este y quiero"
+  },
+  {
+    "start_sec": 581.4,
+    "end_sec": 584.04,
+    "text": "tener un ratio más grande un 1 a se un 1"
+  },
+  {
+    "start_sec": 584.04,
+    "end_sec": 586.24,
+    "text": "a c Cómo hago pues tienes que refinar un"
+  },
+  {
+    "start_sec": 586.24,
+    "end_sec": 588.52,
+    "text": "poquito más o haber entrado en el punto"
+  },
+  {
+    "start_sec": 588.52,
+    "end_sec": 590.56,
+    "text": "de entrada un poquito más riesgoso"
+  },
+  {
+    "start_sec": 590.56,
+    "end_sec": 592.32,
+    "text": "haberte protegido a lo mejor por aquí"
+  },
+  {
+    "start_sec": 592.32,
+    "end_sec": 594.96,
+    "text": "por de abajo y haber tenido una entrada"
+  },
+  {
+    "start_sec": 594.96,
+    "end_sec": 596.8,
+    "text": "a este nuevo High o este nuevo High"
+  },
+  {
+    "start_sec": 596.8,
+    "end_sec": 598.48,
+    "text": "Fíjate que aquí ya tenemos un poquito de"
+  },
+  {
+    "start_sec": 598.48,
+    "end_sec": 600.52,
+    "text": "una entrada un poquito más al alza o"
+  },
+  {
+    "start_sec": 600.52,
+    "end_sec": 602.08,
+    "text": "inclusive podrías haber dejado correr un"
+  },
+  {
+    "start_sec": 602.08,
+    "end_sec": 604.52,
+    "text": "poquito más ya se pueden hacer"
+  },
+  {
+    "start_sec": 604.52,
+    "end_sec": 606.92,
+    "text": "muchísimas cosas se pueden refinar 15"
+  },
+  {
+    "start_sec": 606.92,
+    "end_sec": 610.08,
+    "text": "minutos también y en el punto entrada h1"
+  },
+  {
+    "start_sec": 610.08,
+    "end_sec": 612.36,
+    "text": "entras pero yo no necesito complicarme"
+  },
+  {
+    "start_sec": 612.36,
+    "end_sec": 614.24,
+    "text": "tanto para tomar entradas porque no"
+  },
+  {
+    "start_sec": 614.24,
+    "end_sec": 616.4,
+    "text": "quiero estar ahí en ese gráfico tanto"
+  },
+  {
+    "start_sec": 616.4,
+    "end_sec": 618.88,
+    "text": "tiempo cazando el punto exacto de"
+  },
+  {
+    "start_sec": 618.88,
+    "end_sec": 620.52,
+    "text": "entrada entonces por eso es que lo hago"
+  },
+  {
+    "start_sec": 620.52,
+    "end_sec": 622.92,
+    "text": "de esta manera pero fíjense que esta"
+  },
+  {
+    "start_sec": 622.92,
+    "end_sec": 625.76,
+    "text": "posición que tomamos en ftmo eh nos"
+  },
+  {
+    "start_sec": 625.76,
+    "end_sec": 628.16,
+    "text": "llevó a pasar el challenge de ftmo por"
+  },
+  {
+    "start_sec": 628.16,
+    "end_sec": 632.36,
+    "text": "aquí fue un cubriéndolos aquí y esta"
+  },
+  {
+    "start_sec": 632.36,
+    "end_sec": 633.96,
+    "text": "simple entrada en swing es la que nos"
+  },
+  {
+    "start_sec": 633.96,
+    "end_sec": 636.96,
+    "text": "llevó a tomar eh a ganar ese ftmo"
+  },
+  {
+    "start_sec": 636.96,
+    "end_sec": 638.8,
+    "text": "challenge Entonces está bastante bien"
+  },
+  {
+    "start_sec": 638.8,
+    "end_sec": 640.4,
+    "text": "Bueno chicos Yo espero que les haya"
+  },
+  {
+    "start_sec": 640.4,
+    "end_sec": 642.36,
+    "text": "ayudado les haya servido cada uno de los"
+  },
+  {
+    "start_sec": 642.36,
+    "end_sec": 644.08,
+    "text": "consejitos que les di para poder hacer"
+  },
+  {
+    "start_sec": 644.08,
+    "end_sec": 645.92,
+    "text": "swing De todas manera si tienes"
+  },
+  {
+    "start_sec": 645.92,
+    "end_sec": 647.48,
+    "text": "bastantes dudas me los puedes dejar en"
+  },
+  {
+    "start_sec": 647.48,
+    "end_sec": 650.44,
+    "text": "los comentarios si no entendiste algo o"
+  },
+  {
+    "start_sec": 650.44,
+    "end_sec": 653.36,
+    "text": "lo que sea me puedes escribir a Gustavo"
+  },
+  {
+    "start_sec": 653.36,
+    "end_sec": 655.4,
+    "text": "Trader en instagram Mándame un mensaje"
+  },
+  {
+    "start_sec": 655.4,
+    "end_sec": 657.24,
+    "text": "también a WhatsApp si deseas una"
+  },
+  {
+    "start_sec": 657.24,
+    "end_sec": 659.04,
+    "text": "mentoría personalizada y nos vamos a"
+  },
+  {
+    "start_sec": 659.04,
+    "end_sec": 663.72,
+    "text": "estar viendo en un siguiente video adiós"
+  }
+]

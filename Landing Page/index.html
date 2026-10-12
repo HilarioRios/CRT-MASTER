@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Estrategia CRT, paso a paso · Gustavo Trading</title>
+    <meta name="description" content="La estrategia CRT explicada paso a paso: cómo leer el rango de una vela, dónde está la entrada y cómo armar un plan para ejecutarla." />
+    <meta name="robots" content="index, follow" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_419" />
+    <meta property="og:title" content="Estrategia CRT, paso a paso · Gustavo Trading" />
+    <meta property="og:description" content="Mira el video y continúa en la CRT School: las clases en orden, con su material." />
+    <meta name="twitter:card" content="summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://cdn.loom.com" />
+    <link rel="preconnect" href="https://www.loom.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+    <!-- Config del deploy. El Pixel ID es público (va en el HTML de cualquier
+         sitio que lo use). Vacíos, ni el pixel ni PostHog cargan: el dev no
+         ensucia los datos de la campaña. -->
+    <script>
+      window.SITE_PIXEL_ID = '';
+      window.SITE_POSTHOG_KEY = '';
+    </script>
+
+    <!-- Meta Pixel -->
+    <script>
+      (function () {
+        if (!window.SITE_PIXEL_ID) return;
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', window.SITE_PIXEL_ID);
+        fbq('track', 'PageView');
+      })();
+    </script>
+
+    <!-- PostHog: el embudo por pasos sin configurar nada. -->
+    <script>
+      (function () {
+        if (!window.SITE_POSTHOG_KEY) return;
+        !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){
+        function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]);t[e]=function(){
+        t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",
+        p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);
+        var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){
+        var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){
+        return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag".split(" "),
+        n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+        posthog.init(window.SITE_POSTHOG_KEY, { api_host: 'https://us.i.posthog.com' });
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <div style="padding:40px 24px;text-align:center;font-family:system-ui">
+        <h1>Necesitas JavaScript activado para ver esta página.</h1>
+      </div>
+    </noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

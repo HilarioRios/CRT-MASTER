@@ -1,0 +1,1557 @@
+[
+  {
+    "start_sec": 0.0,
+    "end_sec": 1.72,
+    "text": "Hola Qué pasa a todos amigos estamos en"
+  },
+  {
+    "start_sec": 1.72,
+    "end_sec": 4.12,
+    "text": "un nuevo video esta vez módulo número"
+  },
+  {
+    "start_sec": 4.12,
+    "end_sec": 6.32,
+    "text": "cinco ya de nuestra mentoría gratuita"
+  },
+  {
+    "start_sec": 6.32,
+    "end_sec": 9.52,
+    "text": "2024 estamos ya los últimos dos módulos"
+  },
+  {
+    "start_sec": 9.52,
+    "end_sec": 11.96,
+    "text": "por terminar esta vez la clase número"
+  },
+  {
+    "start_sec": 11.96,
+    "end_sec": 14.68,
+    "text": "uno que va a ser formas de hacer Back"
+  },
+  {
+    "start_sec": 14.68,
+    "end_sec": 17.52,
+    "text": "testing verdad entonces en esta clase"
+  },
+  {
+    "start_sec": 17.52,
+    "end_sec": 20.28,
+    "text": "vamos a estudiar o quiero enfocarme en"
+  },
+  {
+    "start_sec": 20.28,
+    "end_sec": 22.6,
+    "text": "Cuáles son las principales o las tres"
+  },
+  {
+    "start_sec": 22.6,
+    "end_sec": 24.72,
+    "text": "principales formas de hacer Back testing"
+  },
+  {
+    "start_sec": 24.72,
+    "end_sec": 27.0,
+    "text": "Para yo poder validar toda mi estrategia"
+  },
+  {
+    "start_sec": 27.0,
+    "end_sec": 28.64,
+    "text": "para poder validar todo lo que les he"
+  },
+  {
+    "start_sec": 28.64,
+    "end_sec": 30.52,
+    "text": "dicho a lo largo de toda esta mentoría"
+  },
+  {
+    "start_sec": 30.52,
+    "end_sec": 33.16,
+    "text": "verdad Entonces es bien importante"
+  },
+  {
+    "start_sec": 33.16,
+    "end_sec": 35.72,
+    "text": "chicos que usted ustedes sepan hacer"
+  },
+  {
+    "start_sec": 35.72,
+    "end_sec": 37.52,
+    "text": "Back testing de manera correcta para que"
+  },
+  {
+    "start_sec": 37.52,
+    "end_sec": 39.28,
+    "text": "puedan validar cada uno de los"
+  },
+  {
+    "start_sec": 39.28,
+    "end_sec": 41.88,
+    "text": "resultados que tenemos acá nosotros o de"
+  },
+  {
+    "start_sec": 41.88,
+    "end_sec": 44.88,
+    "text": "las formas de de estudiar el precio"
+  },
+  {
+    "start_sec": 44.88,
+    "end_sec": 46.56,
+    "text": "verdad Y para que ustedes también"
+  },
+  {
+    "start_sec": 46.56,
+    "end_sec": 48.76,
+    "text": "agarren confianza a la hora de estudiar"
+  },
+  {
+    "start_sec": 48.76,
+    "end_sec": 51.0,
+    "text": "estos mercados financieros a la hora de"
+  },
+  {
+    "start_sec": 51.0,
+    "end_sec": 53.52,
+    "text": "tener una estrategia sepan que lo que"
+  },
+  {
+    "start_sec": 53.52,
+    "end_sec": 55.52,
+    "text": "ustedes están haciendo funciona"
+  },
+  {
+    "start_sec": 55.52,
+    "end_sec": 57.84,
+    "text": "realmente verdad Entonces vamos a"
+  },
+  {
+    "start_sec": 57.84,
+    "end_sec": 60.16,
+    "text": "empezar con los puntos primero vamos air"
+  },
+  {
+    "start_sec": 60.16,
+    "end_sec": 62.04,
+    "text": "ir Qué es el Back testing Entonces el"
+  },
+  {
+    "start_sec": 62.04,
+    "end_sec": 63.88,
+    "text": "Back testing en trading es el proceso de"
+  },
+  {
+    "start_sec": 63.88,
+    "end_sec": 66.12,
+    "text": "evaluar una estrategia de trading"
+  },
+  {
+    "start_sec": 66.12,
+    "end_sec": 68.32,
+    "text": "utilizando datos históricos verad"
+  },
+  {
+    "start_sec": 68.32,
+    "end_sec": 70.76,
+    "text": "utilizando el gráfico pasado vamos a"
+  },
+  {
+    "start_sec": 70.76,
+    "end_sec": 73.36,
+    "text": "evaluar una estrategia de trading para"
+  },
+  {
+    "start_sec": 73.36,
+    "end_sec": 75.56,
+    "text": "determinar Cómo habría funcionado en el"
+  },
+  {
+    "start_sec": 75.56,
+    "end_sec": 77.68,
+    "text": "pasado Cómo Cuáles son los resultados"
+  },
+  {
+    "start_sec": 77.68,
+    "end_sec": 80.08,
+    "text": "que habríamos podido tener nosotros"
+  },
+  {
+    "start_sec": 80.08,
+    "end_sec": 82.64,
+    "text": "mediante este Back testing verdad este"
+  },
+  {
+    "start_sec": 82.64,
+    "end_sec": 84.72,
+    "text": "método permite a los trades probar la"
+  },
+  {
+    "start_sec": 84.72,
+    "end_sec": 87.36,
+    "text": "viabilidad de una estrategia antes de"
+  },
+  {
+    "start_sec": 87.36,
+    "end_sec": 90.12,
+    "text": "aplicarla en un mercado totalmente real"
+  },
+  {
+    "start_sec": 90.12,
+    "end_sec": 92.44,
+    "text": "verdad Entonces el Back testing implica"
+  },
+  {
+    "start_sec": 92.44,
+    "end_sec": 95.76,
+    "text": "los siguientes pasos primero Definir la"
+  },
+  {
+    "start_sec": 95.76,
+    "end_sec": 97.6,
+    "text": "estrategia bien importante tener una"
+  },
+  {
+    "start_sec": 97.6,
+    "end_sec": 99.44,
+    "text": "estrategia si no no le puedes hacer Back"
+  },
+  {
+    "start_sec": 99.44,
+    "end_sec": 100.84,
+    "text": "testing verdad Entonces tienes que tener"
+  },
+  {
+    "start_sec": 100.84,
+    "end_sec": 102.96,
+    "text": "una serie de pasos de reglas y"
+  },
+  {
+    "start_sec": 102.96,
+    "end_sec": 104.76,
+    "text": "parámetros de tu estrategia que quieres"
+  },
+  {
+    "start_sec": 104.76,
+    "end_sec": 107.8,
+    "text": "evaluar lo segundo que vamos a hacer es"
+  },
+  {
+    "start_sec": 107.8,
+    "end_sec": 110.28,
+    "text": "recopilar datos históricos obtener datos"
+  },
+  {
+    "start_sec": 110.28,
+    "end_sec": 112.2,
+    "text": "de precios volúmenes históricos del"
+  },
+  {
+    "start_sec": 112.2,
+    "end_sec": 115.08,
+    "text": "mercado en el que se planea operar"
+  },
+  {
+    "start_sec": 115.08,
+    "end_sec": 117.92,
+    "text": "horarios Dónde temporalidades donde los"
+  },
+  {
+    "start_sec": 117.92,
+    "end_sec": 120.16,
+    "text": "voy a analizar En qué pares lo voy a I"
+  },
+  {
+    "start_sec": 120.16,
+    "end_sec": 121.88,
+    "text": "ar bien importante tener ya bien en"
+  },
+  {
+    "start_sec": 121.88,
+    "end_sec": 124.0,
+    "text": "claro qué datos históricos quieres"
+  },
+  {
+    "start_sec": 124.0,
+    "end_sec": 126.4,
+    "text": "recopilar luego ya por último tercero"
+  },
+  {
+    "start_sec": 126.4,
+    "end_sec": 128.72,
+    "text": "tenemos la simulación que sería aplicar"
+  },
+  {
+    "start_sec": 128.72,
+    "end_sec": 130.48,
+    "text": "la estrategia a los datos históricos"
+  },
+  {
+    "start_sec": 130.48,
+    "end_sec": 132.08,
+    "text": "ejecutando operaciones como Si"
+  },
+  {
+    "start_sec": 132.08,
+    "end_sec": 134.68,
+    "text": "estuvieran realizando en tiempo real"
+  },
+  {
+    "start_sec": 134.68,
+    "end_sec": 137.48,
+    "text": "verad ya una vez eh la retrospectiva de"
+  },
+  {
+    "start_sec": 137.48,
+    "end_sec": 139.44,
+    "text": "las velas Pero hay otro tipo de Back"
+  },
+  {
+    "start_sec": 139.44,
+    "end_sec": 141.0,
+    "text": "testing también que yo le quiero enseñar"
+  },
+  {
+    "start_sec": 141.0,
+    "end_sec": 143.0,
+    "text": "el día de hoy que no solamente es así"
+  },
+  {
+    "start_sec": 143.0,
+    "end_sec": 144.68,
+    "text": "que me parece también bastante"
+  },
+  {
+    "start_sec": 144.68,
+    "end_sec": 147.96,
+    "text": "importante Entonces el número cuatro es"
+  },
+  {
+    "start_sec": 147.96,
+    "end_sec": 150.08,
+    "text": "evaluar los resultados analizar los"
+  },
+  {
+    "start_sec": 150.08,
+    "end_sec": 151.56,
+    "text": "resultados obtenidos de la simulación"
+  },
+  {
+    "start_sec": 151.56,
+    "end_sec": 153.48,
+    "text": "incluyendo métricas de rendimiento como"
+  },
+  {
+    "start_sec": 153.48,
+    "end_sec": 156.4,
+    "text": "la ganancia pérdida neta el ratio riesgo"
+  },
+  {
+    "start_sec": 156.4,
+    "end_sec": 158.16,
+    "text": "beneficio la tasa de aciertos El drw"
+  },
+  {
+    "start_sec": 158.16,
+    "end_sec": 160.6,
+    "text": "down entre otros o sea analizar Cómo"
+  },
+  {
+    "start_sec": 160.6,
+    "end_sec": 162.56,
+    "text": "hubiera podido salir con un ratio de una"
+  },
+  {
+    "start_sec": 162.56,
+    "end_sec": 164.32,
+    "text": "dos con un ratio de una un un ratio de"
+  },
+  {
+    "start_sec": 164.32,
+    "end_sec": 166.96,
+    "text": "una tres un ratio de una cuatro analizar"
+  },
+  {
+    "start_sec": 166.96,
+    "end_sec": 169.64,
+    "text": "qué gestión de riesgos mejor con cuánto"
+  },
+  {
+    "start_sec": 169.64,
+    "end_sec": 171.88,
+    "text": "draw down tiene tu estrategia analizar"
+  },
+  {
+    "start_sec": 171.88,
+    "end_sec": 174.36,
+    "text": "Cuántas veces falla tu estrategia"
+  },
+  {
+    "start_sec": 174.36,
+    "end_sec": 177.0,
+    "text": "seguidas Cuál es la racha máxima de"
+  },
+  {
+    "start_sec": 177.0,
+    "end_sec": 179.16,
+    "text": "seguidas de pérdida de tu estrategia"
+  },
+  {
+    "start_sec": 179.16,
+    "end_sec": 181.56,
+    "text": "todo estos tipo de datos y detalles lo"
+  },
+  {
+    "start_sec": 181.56,
+    "end_sec": 183.6,
+    "text": "tenemos que evaluar y tener resultados"
+  },
+  {
+    "start_sec": 183.6,
+    "end_sec": 185.92,
+    "text": "de ellos verdad el cinco ya vamos a"
+  },
+  {
+    "start_sec": 185.92,
+    "end_sec": 188.32,
+    "text": "tener ajustes y optimización ajustar la"
+  },
+  {
+    "start_sec": 188.32,
+    "end_sec": 189.96,
+    "text": "estrategia según los resultados del Back"
+  },
+  {
+    "start_sec": 189.96,
+    "end_sec": 191.92,
+    "text": "testing para mejorar su rendimiento"
+  },
+  {
+    "start_sec": 191.92,
+    "end_sec": 194.32,
+    "text": "Entonces el objetivo de esto del Back"
+  },
+  {
+    "start_sec": 194.32,
+    "end_sec": 196.08,
+    "text": "testing va a ser identificar si una"
+  },
+  {
+    "start_sec": 196.08,
+    "end_sec": 197.76,
+    "text": "estrategia tiene un potencial de ser"
+  },
+  {
+    "start_sec": 197.76,
+    "end_sec": 200.0,
+    "text": "rentable y evaluar su comportamiento eh"
+  },
+  {
+    "start_sec": 200.0,
+    "end_sec": 203.08,
+    "text": "bien importante entender bien Qué es el"
+  },
+  {
+    "start_sec": 203.08,
+    "end_sec": 205.76,
+    "text": "Back testing para qué se necesita y"
+  },
+  {
+    "start_sec": 205.76,
+    "end_sec": 207.4,
+    "text": "saber qué se tiene que hacer muchas"
+  },
+  {
+    "start_sec": 207.4,
+    "end_sec": 209.88,
+    "text": "personas quieren así usar una estrategia"
+  },
+  {
+    "start_sec": 209.88,
+    "end_sec": 212.68,
+    "text": "la primera y y luego luego en cuanto ve"
+  },
+  {
+    "start_sec": 212.68,
+    "end_sec": 214.24,
+    "text": "una estrategia en YouTube utilizarla y"
+  },
+  {
+    "start_sec": 214.24,
+    "end_sec": 216.08,
+    "text": "ya meterse con esa estrategia y empezar"
+  },
+  {
+    "start_sec": 216.08,
+    "end_sec": 218.0,
+    "text": "a operar y hacer una prueba de fondeo y"
+  },
+  {
+    "start_sec": 218.0,
+    "end_sec": 220.96,
+    "text": "se alocan y van así superrápido y es"
+  },
+  {
+    "start_sec": 220.96,
+    "end_sec": 223.92,
+    "text": "Cálmate tranquilízate evalúa tu"
+  },
+  {
+    "start_sec": 223.92,
+    "end_sec": 226.28,
+    "text": "estrategia bien escribe qué métricas"
+  },
+  {
+    "start_sec": 226.28,
+    "end_sec": 228.84,
+    "text": "tiene Cuánto gana cuánto pierde dónde es"
+  },
+  {
+    "start_sec": 228.84,
+    "end_sec": 232.08,
+    "text": "mejor dónde peor es mejor en un Mercado"
+  },
+  {
+    "start_sec": 232.08,
+    "end_sec": 234.16,
+    "text": "tendencial o es mejor en un mercado de"
+  },
+  {
+    "start_sec": 234.16,
+    "end_sec": 236.92,
+    "text": "Rango es mejor en un mercado este"
+  },
+  {
+    "start_sec": 236.92,
+    "end_sec": 240.44,
+    "text": "cíclico depende de eso entonces Entonces"
+  },
+  {
+    "start_sec": 240.44,
+    "end_sec": 242.96,
+    "text": "al tú tener todo este tipo de datos lo"
+  },
+  {
+    "start_sec": 242.96,
+    "end_sec": 245.6,
+    "text": "que consigues es ganar confianza en tu"
+  },
+  {
+    "start_sec": 245.6,
+    "end_sec": 247.8,
+    "text": "estrategia porque sabes que funciona y"
+  },
+  {
+    "start_sec": 247.8,
+    "end_sec": 249.32,
+    "text": "tener todos los datos de el"
+  },
+  {
+    "start_sec": 249.32,
+    "end_sec": 251.32,
+    "text": "comportamiento para cuando tu estrategia"
+  },
+  {
+    "start_sec": 251.32,
+    "end_sec": 254.16,
+    "text": "se esté comportando de una manera es"
+  },
+  {
+    "start_sec": 254.16,
+    "end_sec": 256.28,
+    "text": "saber que se está comportando de una"
+  },
+  {
+    "start_sec": 256.28,
+    "end_sec": 258.0,
+    "text": "manera normal porque tú ya tienes los"
+  },
+  {
+    "start_sec": 258.0,
+    "end_sec": 260.72,
+    "text": "datos muchas personas fallan y se ponen"
+  },
+  {
+    "start_sec": 260.72,
+    "end_sec": 263.48,
+    "text": "mal con sentimientos pero realmente no"
+  },
+  {
+    "start_sec": 263.48,
+    "end_sec": 265.76,
+    "text": "es que fallaste tú a lo mejor falló tu"
+  },
+  {
+    "start_sec": 265.76,
+    "end_sec": 267.52,
+    "text": "estrategia Pero simplemente como tú no"
+  },
+  {
+    "start_sec": 267.52,
+    "end_sec": 270.16,
+    "text": "tienes los datos históricos de eso pues"
+  },
+  {
+    "start_sec": 270.16,
+    "end_sec": 273.2,
+    "text": "entonces no no no sabes no sabes"
+  },
+  {
+    "start_sec": 273.2,
+    "end_sec": 275.56,
+    "text": "realmente y te pones triste porque tú"
+  },
+  {
+    "start_sec": 275.56,
+    "end_sec": 277.36,
+    "text": "crees que fallaste o perdiste pero"
+  },
+  {
+    "start_sec": 277.36,
+    "end_sec": 278.8,
+    "text": "realmente es que tu estrategia está"
+  },
+  {
+    "start_sec": 278.8,
+    "end_sec": 280.96,
+    "text": "fallando verdad Entonces Vámonos con los"
+  },
+  {
+    "start_sec": 280.96,
+    "end_sec": 283.88,
+    "text": "tipos de Back Back testing que yo"
+  },
+  {
+    "start_sec": 283.88,
+    "end_sec": 286.56,
+    "text": "utilizo lo vamos a poner en tres tipos"
+  },
+  {
+    "start_sec": 286.56,
+    "end_sec": 288.6,
+    "text": "el primero va a ser el tipo uno que es"
+  },
+  {
+    "start_sec": 288.6,
+    "end_sec": 290.48,
+    "text": "con retrospectiva Pero me gusta estar"
+  },
+  {
+    "start_sec": 290.48,
+    "end_sec": 292.16,
+    "text": "mirando la acción de precio en ningún"
+  },
+  {
+    "start_sec": 292.16,
+    "end_sec": 294.8,
+    "text": "momento está oculta este tipo solo uso"
+  },
+  {
+    "start_sec": 294.8,
+    "end_sec": 296.72,
+    "text": "para analizar mejoras y fallos de"
+  },
+  {
+    "start_sec": 296.72,
+    "end_sec": 298.68,
+    "text": "diversos escenarios o ajustes de la"
+  },
+  {
+    "start_sec": 298.68,
+    "end_sec": 301.32,
+    "text": "estrategia o sea que con el gráfico"
+  },
+  {
+    "start_sec": 301.32,
+    "end_sec": 303.6,
+    "text": "abierto sin regresar las velas para"
+  },
+  {
+    "start_sec": 303.6,
+    "end_sec": 306.0,
+    "text": "atrás sin esconder nada simplemente lo"
+  },
+  {
+    "start_sec": 306.0,
+    "end_sec": 308.96,
+    "text": "que hago es ir en el tiempo hacia atrás"
+  },
+  {
+    "start_sec": 308.96,
+    "end_sec": 311.36,
+    "text": "pero no muevo las velas hacia atrás"
+  },
+  {
+    "start_sec": 311.36,
+    "end_sec": 313.96,
+    "text": "simplemente voy observando cada punto"
+  },
+  {
+    "start_sec": 313.96,
+    "end_sec": 316.48,
+    "text": "del del precio verdad esto para qué me"
+  },
+  {
+    "start_sec": 316.48,
+    "end_sec": 319.56,
+    "text": "sirve me sirve para analizar porque qu"
+  },
+  {
+    "start_sec": 319.56,
+    "end_sec": 321.56,
+    "text": "el precio reacciona en una situación"
+  },
+  {
+    "start_sec": 321.56,
+    "end_sec": 323.36,
+    "text": "reacciona en una zona reacciona en otra"
+  },
+  {
+    "start_sec": 323.36,
+    "end_sec": 326.2,
+    "text": "zona porque se regresa porque eh llega"
+  },
+  {
+    "start_sec": 326.2,
+    "end_sec": 328.56,
+    "text": "el 1o a uno y se va etcétera etcétera"
+  },
+  {
+    "start_sec": 328.56,
+    "end_sec": 331.32,
+    "text": "entonces me sirve mucho para un análisis"
+  },
+  {
+    "start_sec": 331.32,
+    "end_sec": 334.12,
+    "text": "crítico de mi estrategia más que nada el"
+  },
+  {
+    "start_sec": 334.12,
+    "end_sec": 336.52,
+    "text": "tipo dos es la más clásica que es la"
+  },
+  {
+    "start_sec": 336.52,
+    "end_sec": 338.4,
+    "text": "retrospectiva de las velas o sea ahora"
+  },
+  {
+    "start_sec": 338.4,
+    "end_sec": 340.52,
+    "text": "sí aquí lo que hago es echar las velas"
+  },
+  {
+    "start_sec": 340.52,
+    "end_sec": 343.32,
+    "text": "para atrás verad le hago para atrás lo"
+  },
+  {
+    "start_sec": 343.32,
+    "end_sec": 346.32,
+    "text": "pueden usar ustedes en FX Replay o en"
+  },
+  {
+    "start_sec": 346.32,
+    "end_sec": 347.6,
+    "text": "trading View yo lo suelo hacer en"
+  },
+  {
+    "start_sec": 347.6,
+    "end_sec": 350.56,
+    "text": "trading View pero dicen que FX Replay"
+  },
+  {
+    "start_sec": 350.56,
+    "end_sec": 353.4,
+    "text": "están bastante bueno y tiro las velas"
+  },
+  {
+    "start_sec": 353.4,
+    "end_sec": 355.76,
+    "text": "para atrás y lo que hago es ejecutar"
+  },
+  {
+    "start_sec": 355.76,
+    "end_sec": 357.88,
+    "text": "entradas en mi horario principalmente de"
+  },
+  {
+    "start_sec": 357.88,
+    "end_sec": 360.08,
+    "text": "ejecución y analizar el contexto del"
+  },
+  {
+    "start_sec": 360.08,
+    "end_sec": 362.0,
+    "text": "mercado Y a partir de ahí ir ejecutando"
+  },
+  {
+    "start_sec": 362.0,
+    "end_sec": 364.92,
+    "text": "pero ahí sí voy recolectando más Data en"
+  },
+  {
+    "start_sec": 364.92,
+    "end_sec": 366.28,
+    "text": "todas las en todos los tipos de"
+  },
+  {
+    "start_sec": 366.28,
+    "end_sec": 367.96,
+    "text": "backtesting voy recolectando más Data"
+  },
+  {
+    "start_sec": 367.96,
+    "end_sec": 370.68,
+    "text": "pero aquí mucho más porque aquí estoy"
+  },
+  {
+    "start_sec": 370.68,
+    "end_sec": 372.72,
+    "text": "poniéndole la variante de que yo puedo"
+  },
+  {
+    "start_sec": 372.72,
+    "end_sec": 374.64,
+    "text": "equivocarme al ejecutar la estrategia"
+  },
+  {
+    "start_sec": 374.64,
+    "end_sec": 376.84,
+    "text": "Entonces al hacer este Back testing yo"
+  },
+  {
+    "start_sec": 376.84,
+    "end_sec": 379.28,
+    "text": "digo ejecuté bien mi estrategia Okay Sí"
+  },
+  {
+    "start_sec": 379.28,
+    "end_sec": 381.52,
+    "text": "salió bien ejecuté bien mi estrategia Sí"
+  },
+  {
+    "start_sec": 381.52,
+    "end_sec": 384.6,
+    "text": "salió mal la ejecuté mal salió iba a"
+  },
+  {
+    "start_sec": 384.6,
+    "end_sec": 386.52,
+    "text": "salir bien entonces Estos tipos de datos"
+  },
+  {
+    "start_sec": 386.52,
+    "end_sec": 388.64,
+    "text": "son los que a mí me interesan y el tipo"
+  },
+  {
+    "start_sec": 388.64,
+    "end_sec": 391.2,
+    "text": "número tres chicos va a ser eh pruebo la"
+  },
+  {
+    "start_sec": 391.2,
+    "end_sec": 392.64,
+    "text": "estrategia en un mercado real con"
+  },
+  {
+    "start_sec": 392.64,
+    "end_sec": 396.44,
+    "text": "pruebas o cuentas de fondeo Ahora sí voy"
+  },
+  {
+    "start_sec": 396.44,
+    "end_sec": 398.32,
+    "text": "a probar mi estrategia pero no la voy a"
+  },
+  {
+    "start_sec": 398.32,
+    "end_sec": 401.72,
+    "text": "probar en un mercado real ya estoy"
+  },
+  {
+    "start_sec": 401.72,
+    "end_sec": 403.32,
+    "text": "poniendo mercado real Cuando me refiero"
+  },
+  {
+    "start_sec": 403.32,
+    "end_sec": 405.88,
+    "text": "a mercado real Es que yo voy a perar Por"
+  },
+  {
+    "start_sec": 405.88,
+    "end_sec": 407.56,
+    "text": "ejemplo si mi estrategia me dice que"
+  },
+  {
+    "start_sec": 407.56,
+    "end_sec": 409.16,
+    "text": "todos los días a las 8 de la mañana"
+  },
+  {
+    "start_sec": 409.16,
+    "end_sec": 411.2,
+    "text": "Nueva York voy a operar y voy a hacer"
+  },
+  {
+    "start_sec": 411.2,
+    "end_sec": 413.56,
+    "text": "tales cosas ya lo voy a hacer antes de"
+  },
+  {
+    "start_sec": 413.56,
+    "end_sec": 415.16,
+    "text": "que suceda o sea voy a meter las"
+  },
+  {
+    "start_sec": 415.16,
+    "end_sec": 417.16,
+    "text": "operaciones yo en vivo a mi metatrader"
+  },
+  {
+    "start_sec": 417.16,
+    "end_sec": 418.72,
+    "text": "verdad aquí yo voy a meter las"
+  },
+  {
+    "start_sec": 418.72,
+    "end_sec": 420.88,
+    "text": "operaciones a mi metatrader y lo que voy"
+  },
+  {
+    "start_sec": 420.88,
+    "end_sec": 423.24,
+    "text": "a hacer es estar recolectando Data pero"
+  },
+  {
+    "start_sec": 423.24,
+    "end_sec": 425.08,
+    "text": "lo voy a hacer en cuentas de pueden"
+  },
+  {
+    "start_sec": 425.08,
+    "end_sec": 427.56,
+    "text": "hacerlo en cuentas de fondeo pequeñas"
+  },
+  {
+    "start_sec": 427.56,
+    "end_sec": 429.72,
+    "text": "eso yo lo que llamo Back testing activo"
+  },
+  {
+    "start_sec": 429.72,
+    "end_sec": 432.76,
+    "text": "o un Back testing estoy haciendo una"
+  },
+  {
+    "start_sec": 432.76,
+    "end_sec": 434.76,
+    "text": "cuenta de fondeo Pero no mi finalidad no"
+  },
+  {
+    "start_sec": 434.76,
+    "end_sec": 436.36,
+    "text": "es pasar la cuenta de fondeo sino hacer"
+  },
+  {
+    "start_sec": 436.36,
+    "end_sec": 438.84,
+    "text": "el Back testing de la estrategia ya o lo"
+  },
+  {
+    "start_sec": 438.84,
+    "end_sec": 440.68,
+    "text": "pueden hacer en cuentas demo también o"
+  },
+  {
+    "start_sec": 440.68,
+    "end_sec": 444.4,
+    "text": "cuentas free Trail también de de ftmo de"
+  },
+  {
+    "start_sec": 444.4,
+    "end_sec": 447.2,
+    "text": "fenex cuentas de prueba de eh de"
+  },
+  {
+    "start_sec": 447.2,
+    "end_sec": 449.8,
+    "text": "empresas de fondeo y luego vamos a hacer"
+  },
+  {
+    "start_sec": 449.8,
+    "end_sec": 451.72,
+    "text": "un mercado en vivo para Back testear mis"
+  },
+  {
+    "start_sec": 451.72,
+    "end_sec": 454.6,
+    "text": "emociones no solo los datos verdad"
+  },
+  {
+    "start_sec": 454.6,
+    "end_sec": 458.0,
+    "text": "Entonces eh Para eso me sirve este tipo"
+  },
+  {
+    "start_sec": 458.0,
+    "end_sec": 460.32,
+    "text": "de Back testing Para yo poder eh Back"
+  },
+  {
+    "start_sec": 460.32,
+    "end_sec": 462.48,
+    "text": "testear eh Mis comportamientos frente a"
+  },
+  {
+    "start_sec": 462.48,
+    "end_sec": 465.8,
+    "text": "mi estrategia yaad pero ya no estoy eh"
+  },
+  {
+    "start_sec": 465.8,
+    "end_sec": 468.12,
+    "text": "viendo la acción de precio pasada en"
+  },
+  {
+    "start_sec": 468.12,
+    "end_sec": 470.08,
+    "text": "como en los casos anteriores que estoy"
+  },
+  {
+    "start_sec": 470.08,
+    "end_sec": 471.84,
+    "text": "utilizando acción de precio pasada sino"
+  },
+  {
+    "start_sec": 471.84,
+    "end_sec": 473.88,
+    "text": "aquí ya estoy Back testeando con acción"
+  },
+  {
+    "start_sec": 473.88,
+    "end_sec": 475.64,
+    "text": "de precio que no ha sucedido no ha"
+  },
+  {
+    "start_sec": 475.64,
+    "end_sec": 477.72,
+    "text": "ocurrido verdad pero no estoy tomando"
+  },
+  {
+    "start_sec": 477.72,
+    "end_sec": 480.64,
+    "text": "Todavía este no mi finalidad no es ganar"
+  },
+  {
+    "start_sec": 480.64,
+    "end_sec": 482.8,
+    "text": "dinero sino Back testear Cuáles son los"
+  },
+  {
+    "start_sec": 482.8,
+    "end_sec": 484.36,
+    "text": "pros y los contras de mi estrategia"
+  },
+  {
+    "start_sec": 484.36,
+    "end_sec": 486.8,
+    "text": "verdad Entonces tenemos Back testing más"
+  },
+  {
+    "start_sec": 486.8,
+    "end_sec": 488.56,
+    "text": "completo vamos a para hacer un Back"
+  },
+  {
+    "start_sec": 488.56,
+    "end_sec": 490.52,
+    "text": "testing más completo lo que hago es"
+  },
+  {
+    "start_sec": 490.52,
+    "end_sec": 493.4,
+    "text": "seguir los pasos eh conjugar todos los"
+  },
+  {
+    "start_sec": 493.4,
+    "end_sec": 495.64,
+    "text": "pasos o los tipos de Back testing para"
+  },
+  {
+    "start_sec": 495.64,
+    "end_sec": 497.6,
+    "text": "yo tener un Back testing super completo"
+  },
+  {
+    "start_sec": 497.6,
+    "end_sec": 500.16,
+    "text": "conjugo los tres tipos de Back testing o"
+  },
+  {
+    "start_sec": 500.16,
+    "end_sec": 502.12,
+    "text": "utilizo los tres tipos de Back testing y"
+  },
+  {
+    "start_sec": 502.12,
+    "end_sec": 504.28,
+    "text": "hago estos tres pasos primero el paso"
+  },
+  {
+    "start_sec": 504.28,
+    "end_sec": 506.84,
+    "text": "uno voy a utilizar el tipo de"
+  },
+  {
+    "start_sec": 506.84,
+    "end_sec": 509.52,
+    "text": "recopilación uno Data con la acción de"
+  },
+  {
+    "start_sec": 509.52,
+    "end_sec": 512.72,
+    "text": "prcio visible verad acuérdense aquí es"
+  },
+  {
+    "start_sec": 512.72,
+    "end_sec": 516.28,
+    "text": "el gráfico visible Y no cambio nada más"
+  },
+  {
+    "start_sec": 516.28,
+    "end_sec": 518.96,
+    "text": "que la acción de precio de hecho les voy"
+  },
+  {
+    "start_sec": 518.96,
+    "end_sec": 521.52,
+    "text": "a dar un ejemplo ahorita les voy a dar"
+  },
+  {
+    "start_sec": 521.52,
+    "end_sec": 523.84,
+    "text": "unos ejemplos verad paso dos uso el tipo"
+  },
+  {
+    "start_sec": 523.84,
+    "end_sec": 526.12,
+    "text": "dos para recopilar una Data más avanzada"
+  },
+  {
+    "start_sec": 526.12,
+    "end_sec": 528.44,
+    "text": "y paso tres uso el tipo tres para Back"
+  },
+  {
+    "start_sec": 528.44,
+    "end_sec": 531.12,
+    "text": "testear emociones formas Y ya teniendo"
+  },
+  {
+    "start_sec": 531.12,
+    "end_sec": 534.12,
+    "text": "una una base previa de los demás Back"
+  },
+  {
+    "start_sec": 534.12,
+    "end_sec": 536.4,
+    "text": "testing entonces chicos aquí el tipo uno"
+  },
+  {
+    "start_sec": 536.4,
+    "end_sec": 538.6,
+    "text": "el Back testing tipo un es yo agarro un"
+  },
+  {
+    "start_sec": 538.6,
+    "end_sec": 541.72,
+    "text": "gráfico y yo designo mis pasos de mi"
+  },
+  {
+    "start_sec": 541.72,
+    "end_sec": 544.4,
+    "text": "estrategia No pues lo que quiero ver eh"
+  },
+  {
+    "start_sec": 544.4,
+    "end_sec": 545.88,
+    "text": "rompimiento de"
+  },
+  {
+    "start_sec": 545.88,
+    "end_sec": 548.36,
+    "text": "estructura liquidez lo que quiero ver"
+  },
+  {
+    "start_sec": 548.36,
+    "end_sec": 551.44,
+    "text": "verad y aquí analizo Ah okay Digo el día"
+  },
+  {
+    "start_sec": 551.44,
+    "end_sec": 553.64,
+    "text": "lunes Okay voy a testear el día lunes"
+  },
+  {
+    "start_sec": 553.64,
+    "end_sec": 555.4,
+    "text": "por ejemplo Aquí está el día lunes Qué"
+  },
+  {
+    "start_sec": 555.4,
+    "end_sec": 557.2,
+    "text": "hubiera pasado aquí y lo que hago es"
+  },
+  {
+    "start_sec": 557.2,
+    "end_sec": 559.4,
+    "text": "analizar No pues ya voy a marcar"
+  },
+  {
+    "start_sec": 559.4,
+    "end_sec": 561.76,
+    "text": "correctamente la estructura un low un"
+  },
+  {
+    "start_sec": 561.76,
+    "end_sec": 564.16,
+    "text": "High un low aquí había liquidez aquí el"
+  },
+  {
+    "start_sec": 564.16,
+    "end_sec": 566.24,
+    "text": "precio Boom se pudo haber dado una"
+  },
+  {
+    "start_sec": 566.24,
+    "end_sec": 569.92,
+    "text": "compra aquí algunas ventas o sea es el"
+  },
+  {
+    "start_sec": 569.92,
+    "end_sec": 572.24,
+    "text": "análisis del gráfico como tal así pero"
+  },
+  {
+    "start_sec": 572.24,
+    "end_sec": 575.0,
+    "text": "no hago retrospectiva de velas aquí me"
+  },
+  {
+    "start_sec": 575.0,
+    "end_sec": 577.64,
+    "text": "gusta a mí ir poniéndole textos aquí"
+  },
+  {
+    "start_sec": 577.64,
+    "end_sec": 581.36,
+    "text": "anclados y le voy poniendo aquí rompió"
+  },
+  {
+    "start_sec": 581.36,
+    "end_sec": 584.36,
+    "text": "rompió tomó"
+  },
+  {
+    "start_sec": 584.36,
+    "end_sec": 587.68,
+    "text": "liquidez y bajo un decir verdad esto"
+  },
+  {
+    "start_sec": 587.68,
+    "end_sec": 590.0,
+    "text": "solamente es un ejemplo voy poniéndole"
+  },
+  {
+    "start_sec": 590.0,
+    "end_sec": 592.0,
+    "text": "yo textit me gusta poner ir poniéndole"
+  },
+  {
+    "start_sec": 592.0,
+    "end_sec": 594.4,
+    "text": "textos aquí a cada uno de estos y los"
+  },
+  {
+    "start_sec": 594.4,
+    "end_sec": 596.04,
+    "text": "voy marcando y todo esto lo voy"
+  },
+  {
+    "start_sec": 596.04,
+    "end_sec": 598.92,
+    "text": "registrando en una vitá corona libreta"
+  },
+  {
+    "start_sec": 598.92,
+    "end_sec": 600.68,
+    "text": "donde tú quieras pero voy voy yo"
+  },
+  {
+    "start_sec": 600.68,
+    "end_sec": 602.36,
+    "text": "marcando este tipo de cosas o de"
+  },
+  {
+    "start_sec": 602.36,
+    "end_sec": 605.2,
+    "text": "situaciones Y a partir de ahí voy eh"
+  },
+  {
+    "start_sec": 605.2,
+    "end_sec": 607.72,
+    "text": "pasando por más cositas como por acá"
+  },
+  {
+    "start_sec": 607.72,
+    "end_sec": 610.2,
+    "text": "abajo y voy Back testeando durante"
+  },
+  {
+    "start_sec": 610.2,
+    "end_sec": 612.6,
+    "text": "bastante tiempo pero con el gráfico"
+  },
+  {
+    "start_sec": 612.6,
+    "end_sec": 615.68,
+    "text": "prendido como quien dice o o sin"
+  },
+  {
+    "start_sec": 615.68,
+    "end_sec": 617.84,
+    "text": "recorrer las velas en el segundo tipo de"
+  },
+  {
+    "start_sec": 617.84,
+    "end_sec": 619.8,
+    "text": "Back testing fíjense este es"
+  },
+  {
+    "start_sec": 619.8,
+    "end_sec": 621.84,
+    "text": "reproducción de velas más o menos de"
+  },
+  {
+    "start_sec": 621.84,
+    "end_sec": 623.48,
+    "text": "este estilo agarro la reproducción de"
+  },
+  {
+    "start_sec": 623.48,
+    "end_sec": 625.04,
+    "text": "Vela entonces aquí ya por ejemplo"
+  },
+  {
+    "start_sec": 625.04,
+    "end_sec": 626.84,
+    "text": "ustedes van a analizar que tenían este"
+  },
+  {
+    "start_sec": 626.84,
+    "end_sec": 629.32,
+    "text": "punto este punto tenían tal día van a"
+  },
+  {
+    "start_sec": 629.32,
+    "end_sec": 631.36,
+    "text": "realizar que aquí tenía una zona Y a"
+  },
+  {
+    "start_sec": 631.36,
+    "end_sec": 633.6,
+    "text": "partir de ahí van a decir este va a ser"
+  },
+  {
+    "start_sec": 633.6,
+    "end_sec": 635.92,
+    "text": "mi voy a analizar mis pasos de entrada"
+  },
+  {
+    "start_sec": 635.92,
+    "end_sec": 637.52,
+    "text": "voy a tener mi plan de trading en mano"
+  },
+  {
+    "start_sec": 637.52,
+    "end_sec": 639.64,
+    "text": "voy a nacar mis pasos de entrada y lo"
+  },
+  {
+    "start_sec": 639.64,
+    "end_sec": 641.52,
+    "text": "que voy a hacer es dándole Play a las"
+  },
+  {
+    "start_sec": 641.52,
+    "end_sec": 643.28,
+    "text": "velas verad voy a ir dándole Play a las"
+  },
+  {
+    "start_sec": 643.28,
+    "end_sec": 645.84,
+    "text": "velas Y a partir de ir dándole Play a"
+  },
+  {
+    "start_sec": 645.84,
+    "end_sec": 647.88,
+    "text": "las velas voy a ir aprendiendo de ese"
+  },
+  {
+    "start_sec": 647.88,
+    "end_sec": 650.4,
+    "text": "Back testing Pero ahora sí que no es no"
+  },
+  {
+    "start_sec": 650.4,
+    "end_sec": 652.08,
+    "text": "estoy viendo la acción de precio que"
+  },
+  {
+    "start_sec": 652.08,
+    "end_sec": 654.2,
+    "text": "sucede de este lado verdad no estoy"
+  },
+  {
+    "start_sec": 654.2,
+    "end_sec": 655.84,
+    "text": "viendo nada de la acción de precio que"
+  },
+  {
+    "start_sec": 655.84,
+    "end_sec": 658.56,
+    "text": "sucede de este lado En el anterior Back"
+  },
+  {
+    "start_sec": 658.56,
+    "end_sec": 660.8,
+    "text": "testin o tipo de Back testing Eh sí"
+  },
+  {
+    "start_sec": 660.8,
+    "end_sec": 662.76,
+    "text": "estaba viendo la acción de precio que"
+  },
+  {
+    "start_sec": 662.76,
+    "end_sec": 665.0,
+    "text": "sucedía para los dos lados verad tanto"
+  },
+  {
+    "start_sec": 665.0,
+    "end_sec": 667.64,
+    "text": "para acá como para acá ese sería mis"
+  },
+  {
+    "start_sec": 667.64,
+    "end_sec": 671.52,
+    "text": "formas de hacer Back testing y el por"
+  },
+  {
+    "start_sec": 671.52,
+    "end_sec": 673.8,
+    "text": "último es ejecución en tiempos reales"
+  },
+  {
+    "start_sec": 673.8,
+    "end_sec": 676.08,
+    "text": "verad ejecución antes de que el precio"
+  },
+  {
+    "start_sec": 676.08,
+    "end_sec": 678.64,
+    "text": "esté formando Válgame que yo me pongo"
+  },
+  {
+    "start_sec": 678.64,
+    "end_sec": 680.16,
+    "text": "por ejemplo en esta acción de precio el"
+  },
+  {
+    "start_sec": 680.16,
+    "end_sec": 682.52,
+    "text": "precio todavía no ha hecho nada aquí ta"
+  },
+  {
+    "start_sec": 682.52,
+    "end_sec": 684.96,
+    "text": "ta ta analizo esta sesión Okay ta ta ta"
+  },
+  {
+    "start_sec": 684.96,
+    "end_sec": 687.28,
+    "text": "y voy todos los días Eh ejecutando mi"
+  },
+  {
+    "start_sec": 687.28,
+    "end_sec": 689.6,
+    "text": "estrategia pero en cuenta demo pruebas"
+  },
+  {
+    "start_sec": 689.6,
+    "end_sec": 691.88,
+    "text": "de fondeo pequeñas voy haciéndolo Pero"
+  },
+  {
+    "start_sec": 691.88,
+    "end_sec": 694.04,
+    "text": "antes de que suceda antes de que suceda"
+  },
+  {
+    "start_sec": 694.04,
+    "end_sec": 696.16,
+    "text": "y y sin retrospectiva verlas ni nada lo"
+  },
+  {
+    "start_sec": 696.16,
+    "end_sec": 698.2,
+    "text": "voy ejecutando en mi metatrader como tal"
+  },
+  {
+    "start_sec": 698.2,
+    "end_sec": 699.36,
+    "text": "Bueno chicos Yo espero que se haya"
+  },
+  {
+    "start_sec": 699.36,
+    "end_sec": 701.08,
+    "text": "atendido bastante bien pero aún así si"
+  },
+  {
+    "start_sec": 701.08,
+    "end_sec": 702.76,
+    "text": "tienes alguna duda o pregunta te leo en"
+  },
+  {
+    "start_sec": 702.76,
+    "end_sec": 704.92,
+    "text": "los comentarios si deseas una ment"
+  },
+  {
+    "start_sec": 704.92,
+    "end_sec": 707.04,
+    "text": "mentoría personalizada conmigo Puedes"
+  },
+  {
+    "start_sec": 707.04,
+    "end_sec": 708.96,
+    "text": "mandarme un mensaje de Whatsapp o de"
+  },
+  {
+    "start_sec": 708.96,
+    "end_sec": 710.64,
+    "text": "Instagram que se encuentra abajo en la"
+  },
+  {
+    "start_sec": 710.64,
+    "end_sec": 714.12,
+    "text": "descripción Gustavo Gustavo Trader y nos"
+  },
+  {
+    "start_sec": 714.12,
+    "end_sec": 718.52,
+    "text": "vemos pues en un siguiente video adiós"
+  }
+]

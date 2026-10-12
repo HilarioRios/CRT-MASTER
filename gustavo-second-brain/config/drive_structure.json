@@ -1,0 +1,39 @@
+{
+  "dest_root_id": "1OCPpwwGtRmIgAXfhFNmJ9WL9uBSP-OXU",
+  "created_at": "2026-10-01T20:54:00Z",
+  "sections": {
+    "00_ADMIN": "1kwFTRNQ-I9L7_bMrUAC1vn58-p3Pfg5Y",
+    "01_YOUTUBE": "1UjKSBVZRuAgC1GkmFlBYtqdhTxPA45v8",
+    "02_RECURSOS": "1lhYTgiWVLGTb8QQ9rnKrJo9CXNFmExSk",
+    "03_CLASES_Y_MENTORIAS": "1RjTO0liiD7V9MoG9OAzWqQVgPSkpEztt",
+    "04_TESTIMONIOS": "1HYUkbpI9AeZ8ztS4BjtZu8czGrfv-OBc",
+    "05_CONTENIDO_MARKETING": "11EUQwtA7d_rxgJDnXu2UCG4sFJX6tXp9",
+    "06_CONOCIMIENTO_NEGOCIO": "1ZCHQbGqJFL8od-V4-fggu7yf9HyWJ864",
+    "07_LLAMADAS": "1OBXcHtihwuC_qR1KcJnhYMU6rjHoAOhk",
+    "08_AVATAR_Y_CLIENTE": "1RWDjG3gSyZtpn21_Erq_ZhpFjTZ2yQND",
+    "90_SEARCH_INDEX": "1pO7v3kqG2Zxfq6G7uYZXIsVfmPn0Avan",
+    "99_SYSTEM_LOGS": "1bcAIwDu0peJm-cCo5_I98WAR_TxZzlSr"
+  },
+  "youtube_channels": {
+    "canal_01": {
+      "folder_id": "1cwtuzu44833M0svcpHNDFBc6NV007bJb",
+      "title": "CANAL_01_MENTOTRADINGCLUB",
+      "subfolders": {
+        "00_INDEX": "1Nj1gdjX5xl7uTEcLXuX5cKgb66gQPeJA",
+        "01_RAW": "1Knjgf8qL0cfL0LgNYz4falKcQiTNOx5g",
+        "02_PROCESSED": "1fW_22JHOyoPTbNU6esmjgtpAULxHHYw_",
+        "03_METADATA": "1NvTkrezdpf3yOacXX98Ny4Fpl8mN9KN_"
+      }
+    },
+    "canal_02": {
+      "folder_id": "1huadlCo6MocHaqMGdHq5OJ9OLrhhOXuo",
+      "title": "CANAL_02_GUSTAVOMTRADER",
+      "subfolders": {
+        "00_INDEX": "1niX-_Xgg-FfmVxlUulqCZ6SfqgD2ha1N",
+        "01_RAW": "1k56l8ZTh7k4G2BR0vlChOL6giHJ9fGYU",
+        "02_PROCESSED": "1mrwcdx6Ks_8LzUAx3H0hacitQrDIYrJ5",
+        "03_METADATA": "1m9fqrLPjCo8Wya9t8l8cQDNfOxuJtCJq"
+      }
+    }
+  }
+}

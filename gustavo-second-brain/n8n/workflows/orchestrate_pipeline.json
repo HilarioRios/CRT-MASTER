@@ -1,0 +1,93 @@
+{
+  "id": "gustavo-pipeline-orchestration-draft",
+  "name": "Gustavo Second Brain - Pipeline Orchestration (DRAFT, inactive)",
+  "active": false,
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "days",
+              "daysInterval": 1,
+              "triggerAtHour": 6
+            }
+          ]
+        }
+      },
+      "id": "a1a1a1a1-0001-4000-8000-000000000001",
+      "name": "Schedule (placeholder - review before enabling)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "command": "cd \"/Users/hilario/Downloads/Claude/Gustavo Tradinf/gustavo-second-brain\" && .venv/bin/python scripts/discover_videos_api.py"
+      },
+      "id": "a1a1a1a1-0002-4000-8000-000000000002",
+      "name": "1. Check for new videos",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [220, 0]
+    },
+    {
+      "parameters": {
+        "command": "cd \"/Users/hilario/Downloads/Claude/Gustavo Tradinf/gustavo-second-brain\" && .venv/bin/python scripts/run_pipeline.py"
+      },
+      "id": "a1a1a1a1-0003-4000-8000-000000000003",
+      "name": "2. Run pipeline (fetch, transcribe, chunk, index, sync Drive)",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [440, 0]
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "id": "a1a1a1a1-0004-4000-8000-000000000004",
+      "name": "3. Done (n8n execution log is the run log)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [660, 0]
+    }
+  ],
+  "connections": {
+    "Schedule (placeholder - review before enabling)": {
+      "main": [
+        [
+          {
+            "node": "1. Check for new videos",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "1. Check for new videos": {
+      "main": [
+        [
+          {
+            "node": "2. Run pipeline (fetch, transcribe, chunk, index, sync Drive)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "2. Run pipeline (fetch, transcribe, chunk, index, sync Drive)": {
+      "main": [
+        [
+          {
+            "node": "3. Done (n8n execution log is the run log)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

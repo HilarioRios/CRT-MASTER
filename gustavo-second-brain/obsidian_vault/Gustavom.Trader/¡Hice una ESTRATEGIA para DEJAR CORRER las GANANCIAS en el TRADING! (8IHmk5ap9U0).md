@@ -1,0 +1,3763 @@
+---
+source_id: YT_CANAL_02_8IHmk5ap9U0
+video_id: 8IHmk5ap9U0
+channel: "Gustavom.Trader"
+published_at: 2024-05-05
+url: https://www.youtube.com/watch?v=8IHmk5ap9U0
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 31
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# ¡Hice una ESTRATEGIA para DEJAR CORRER las GANANCIAS en el TRADING!
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=8IHmk5ap9U0)
+
+## Transcript
+
+```
+[00:00:00]
+uno de los de los temas que muchas
+
+[00:00:03]
+personas Tenían un cierto grado de miedo
+
+[00:00:05]
+a la hora de poner sus trades y dejarlos
+
+[00:00:08]
+llegar a un Target
+
+[00:00:10]
+ver entonces le quería ayudar ahora con
+
+[00:00:15]
+el el tema entender el tema psicológico
+
+[00:00:18]
+detrás
+
+[00:00:18]
+de dónde tengo que dejar correr una
+
+[00:00:21]
+operación o dónde debería dejar llegar
+
+[00:00:23]
+una operación y la otra es entender por
+
+[00:00:27]
+qué lo debería hacer de esa forma o de
+
+[00:00:29]
+otra forma y cóm yo voy a dejar correr
+
+[00:00:33]
+mis beneficios o voy a dejar correr un
+
+[00:00:36]
+Trade a largo plazo uno de los grandes
+
+[00:00:39]
+errores que hace muchas personas sobre
+
+[00:00:42]
+todo que hacía yo y antes me pasaba era
+
+[00:00:46]
+que yo ponía una posición supongamos una
+
+[00:00:49]
+posición larga aquí un 1 a 2 64 y lo que
+
+[00:00:53]
+pasaba es que pues el precio a veces
+
+[00:00:56]
+Pues cuando se van stop bloss Pues no
+
+[00:00:58]
+hay ningún problema no también pasa no
+
+[00:01:01]
+bueno pasaba antes pero sobre todo ya
+
+[00:01:03]
+los muy novatos no los que somos un
+
+[00:01:05]
+poquito más experimentados no nos pasa
+
+[00:01:07]
+pero de que el precio se va al stop loss
+
+[00:01:09]
+y lo que hacen es recorrer el Stop loss
+
+[00:01:12]
+para tratar de aguantar más en ese
+
+[00:01:14]
+movimiento verad y al final y al cabo lo
+
+[00:01:17]
+que hacen es perder más de lo que Dean
+
+[00:01:19]
+de haber
+
+[00:01:20]
+perdido la mayoría de nosotros que ya
+
+[00:01:22]
+somos un poquito más experimentados yo
+
+[00:01:24]
+creo que ya no nos sucede eso ya lo
+
+[00:01:26]
+controlamos y Ya dejamos que el precio
+
+[00:01:27]
+toque el Stop loss normal no y ahora sí
+
+[00:01:31]
+que si se va al stop loss Pues que se
+
+[00:01:34]
+vaya al stop loss y si se va O sea que
+
+[00:01:37]
+ya ya lo controlamos eh bastante mejor
+
+[00:01:41]
+pero luego existe la Otra condición que
+
+[00:01:44]
+tengo por acá que es cuando el precio
+
+[00:01:46]
+arranca hacia el Take profit entonces
+
+[00:01:49]
+muchas veces Ya va llegando a un Target
+
+[00:01:51]
+designado que tú tenías esto si tienes
+
+[00:01:54]
+tú un Target designado porque ahorita
+
+[00:01:56]
+voy a hablar de otro de los problemas
+
+[00:01:57]
+que hay aparte de esto va llegando y lo
+
+[00:02:00]
+que haces aquí es cerrar antes de que
+
+[00:02:03]
+cuando el precio se gira cerrar antes y
+
+[00:02:05]
+finalmente una operación que era 265
+
+[00:02:07]
+termina haciendo un 1 1.5 porque
+
+[00:02:10]
+cerraste es porque te dio miedo entonces
+
+[00:02:12]
+Precisamente es lo que vamos a estudiar
+
+[00:02:14]
+hoy Cómo
+
+[00:02:15]
+realmente somos profesionales o maestros
+
+[00:02:18]
+en dejar correr el precio hacia nuestro
+
+[00:02:20]
+hacia nuestro Target verdad y Eso sin
+
+[00:02:24]
+contar que hay personas que cuando
+
+[00:02:26]
+entran al al TR yo lo veo muy seguido De
+
+[00:02:29]
+hecho fácilmente detecto una persona que
+
+[00:02:32]
+está empezando en el trading porque
+
+[00:02:34]
+cuando entran a un Trade no saben hasta
+
+[00:02:38]
+dónde puede llegar su Trade no saben lo
+
+[00:02:41]
+que van a potencialmente ganar entonces
+
+[00:02:44]
+este
+
+[00:02:45]
+recorrido no lo
+
+[00:02:47]
+conocen por qué Porque no lo no se han
+
+[00:02:50]
+puesto a estudiarlo y realmente están
+
+[00:02:53]
+pensando que van a salir donde el
+
+[00:02:55]
+mercado les dé o les indique y realmente
+
+[00:02:58]
+el mercado no te ind nada mercado sube y
+
+[00:03:01]
+baja el que tú el que tú debes de
+
+[00:03:03]
+indicarle al mercado eres tú por qué
+
+[00:03:07]
+porque esto viene esto de dejar de que
+
+[00:03:11]
+tu Target es aquí y luego vienes acá y
+
+[00:03:14]
+el precio se regresa Y cierras esto
+
+[00:03:16]
+viene por el miedo y este miedo radica
+
+[00:03:22]
+en
+
+[00:03:26]
+incertidumbre este miedo principalmente
+
+[00:03:29]
+radica la incertidumbre la incertidumbre
+
+[00:03:32]
+que tú tienes o sea en los mercados
+
+[00:03:35]
+financieros nosotros tenemos
+
+[00:03:36]
+incertidumbre normalmente Qué es
+
+[00:03:39]
+incertidumbre pues que no sabemos lo que
+
+[00:03:41]
+va a suceder o lo que va a pasar al no
+
+[00:03:43]
+saber lo que va a suceder y lo que va a
+
+[00:03:45]
+pasar nosotros lo único que tenemos que
+
+[00:03:48]
+hacer es controlar lo que podemos
+
+[00:03:51]
+controlar Válgame que en un mercado si
+
+[00:03:54]
+tú entras en una posición larga tú no
+
+[00:03:56]
+sabes si el mercado realmente va a darte
+
+[00:03:59]
+tu larga O se va a regresar o inclusive
+
+[00:04:02]
+va a subir un poco y luego se va a
+
+[00:04:03]
+regresar Tú no conoces nada no conoces
+
+[00:04:06]
+ni siquiera si va a irse a profit o a
+
+[00:04:09]
+stop loss y tampoco conoces cómo lo va a
+
+[00:04:11]
+hacer entonces de calle de calle lo
+
+[00:04:15]
+primero es conocer lo que de dónde
+
+[00:04:18]
+radica ese ese miedo y ese miedo que
+
+[00:04:21]
+tenemos radica de la
+
+[00:04:22]
+incertidumbre Entonces lo primero que
+
+[00:04:25]
+debemos de hacer para poder controlar
+
+[00:04:27]
+eso Debemos entender
+
+[00:04:30]
+que no podemos controlar para controlar
+
+[00:04:33]
+ese miedos Debemos entender que no
+
+[00:04:35]
+podemos controlar lo que el mercado hace
+
+[00:04:37]
+nadie de los que estamos acá podemos
+
+[00:04:39]
+controlar lo que el mercado
+
+[00:04:41]
+hace ninguna persona ni tampoco somos
+
+[00:04:44]
+adivinos y podemos saber antes de que
+
+[00:04:46]
+suceda Entonces el secreto está en
+
+[00:04:51]
+controlar lo que si podemos controlar
+
+[00:04:54]
+qué es lo que podemos controlar nuestros
+
+[00:04:57]
+parámetros de entrada y nuestros
+
+[00:04:58]
+parámetros de salida y nuestros
+
+[00:05:01]
+parámetros de gestión del
+
+[00:05:03]
+Trade cómo lo vamos a hacer parece sobre
+
+[00:05:07]
+el papel fácil pero lo primero que
+
+[00:05:10]
+tenemos que
+
+[00:05:12]
+definir reglas más
+
+[00:05:16]
+plan para ello lo que tenemos que
+
+[00:05:19]
+definir para poder controlar lo que sí
+
+[00:05:21]
+podemos controlar vamos a definir una
+
+[00:05:23]
+serie de reglas con un plan entonces
+
+[00:05:25]
+normalmente cuando un Trader que no
+
+[00:05:28]
+tiene una experi tan buena en el mercado
+
+[00:05:31]
+entra aquí no los más novatos no saben
+
+[00:05:35]
+ni siquiera dónde van a salir eso ya de
+
+[00:05:38]
+calle es un error para mí no sabes ni
+
+[00:05:40]
+siquiera dónde vas a llegar a
+
+[00:05:42]
+salir ya que muchos de los traders bueno
+
+[00:05:45]
+s yo voy a salir mi un a dos mi un TR y
+
+[00:05:48]
+mi un cu lo que hace lo que sucede en el
+
+[00:05:51]
+mercado es que cuando el mercado va
+
+[00:05:52]
+llegando cerca de tu Take profit se
+
+[00:05:54]
+regresa se voltea luego sales donde no
+
+[00:05:57]
+debes de salir eso porque Qué es porque
+
+[00:06:00]
+realmente no tienes un plan pero este
+
+[00:06:03]
+plan se debe de qué este plan se debe de
+
+[00:06:06]
+adaptar emocionalmente a ti el plan y
+
+[00:06:10]
+aparte las reglas que tú
+
+[00:06:13]
+tienes ojo primero que primero tienes lo
+
+[00:06:16]
+primero que tienes que encargarte son
+
+[00:06:18]
+reglas objetivas de entrada y reglas
+
+[00:06:21]
+objetivas de parada de stop loss pero
+
+[00:06:23]
+ahorita no estamos hablando de la
+
+[00:06:25]
+entrada no estamos hablando de la salida
+
+[00:06:27]
+lo único entender que lo único que nos
+
+[00:06:29]
+paga en este mercado es la salida la
+
+[00:06:32]
+entrada no nos paga nada hay muchos
+
+[00:06:34]
+traders muy buenos para para para entrar
+
+[00:06:37]
+son buenísimos para entrar pero no saben
+
+[00:06:39]
+ganar dinero entonces a la hora de que
+
+[00:06:42]
+el precio te da un take profit no sabes
+
+[00:06:45]
+aprovecharlo al máximo o Entonces tienes
+
+[00:06:48]
+que definir reglas y plan pero estas
+
+[00:06:52]
+reglas y este plan se define previamente
+
+[00:06:54]
+de meter el tradeo de estar adentro del
+
+[00:06:56]
+mercado porque si lo haces dentro del
+
+[00:06:58]
+mercado al final y al cabo vas a vas a
+
+[00:07:01]
+un día hacer una cosa otro día hacer
+
+[00:07:03]
+otra y vas a tener muy subjetivo la
+
+[00:07:06]
+forma de hacerlo entonces para ello nos
+
+[00:07:09]
+tenemos que adelantar nosotros y poner
+
+[00:07:11]
+nuestras reglas de salida verad y
+
+[00:07:14]
+nuestra gestión de nuestra operación en
+
+[00:07:16]
+base a qué en base primero lo que yo
+
+[00:07:20]
+considero más importante y lo que todo
+
+[00:07:21]
+el mundo no hace en base a
+
+[00:07:27]
+qué en base a a mi psicología eso es lo
+
+[00:07:31]
+primero que tenemos que hacerlo en base
+
+[00:07:33]
+a nuestra propia psicología y a nuestra
+
+[00:07:36]
+forma de actuar es que nosotros podemos
+
+[00:07:39]
+definir Cuáles van a ser mis mi Mis
+
+[00:07:43]
+salidas en mi en mi Trade yo yo tengo un
+
+[00:07:46]
+concepto que le llamo
+
+[00:07:48]
+eh un le llamo Max potential Trade que
+
+[00:07:52]
+tú deberías de definir Cuál va a ser tu
+
+[00:07:55]
+máximo potencial de Trade hasta dónde tú
+
+[00:07:58]
+vas a querer agarrar el
+
+[00:08:01]
+mercado Cuál va a ser tu porción en el
+
+[00:08:04]
+mercado cada que tú entras eso va a ser
+
+[00:08:07]
+tu tu definición de Max potential Trade
+
+[00:08:10]
+es lo primero que tú tienes que tener en
+
+[00:08:12]
+cuenta Cuántos puntos por ejemplo aquí
+
+[00:08:14]
+tenemos 1263 puntos en el nasdaq Cuánto
+
+[00:08:17]
+es lo que tú vas a estar determinando
+
+[00:08:19]
+tomar siempre en el mercado como tú Max
+
+[00:08:24]
+potencial Trade tú donde tú vas a ser lo
+
+[00:08:27]
+máximo que vas a poder aguantar
+
+[00:08:30]
+ese TR esto en base a qué en base a tu
+
+[00:08:34]
+psicología a cómo tú eres que ahorita
+
+[00:08:36]
+voy a entrar más a detalle eso y también
+
+[00:08:39]
+en
+
+[00:08:42]
+base a tu carácter y tiempo en base a a
+
+[00:08:48]
+tu carácter y a tu tiempo por qué tiene
+
+[00:08:50]
+que ver el carácter en esto y por qué
+
+[00:08:52]
+tiene que ver tu tiempo porque el tiempo
+
+[00:08:56]
+mío no es el mismo de cada una de las
+
+[00:08:58]
+personas que están aquí y el carácter
+
+[00:09:00]
+que tiene cada persona aquí no es el
+
+[00:09:02]
+mismo Entonces como no es el mismo va a
+
+[00:09:05]
+haber unas personas que sean mejores en
+
+[00:09:08]
+una situación o que sean peores en otra
+
+[00:09:10]
+eso es lo que tenemos que detectar Por
+
+[00:09:13]
+ejemplo yo detecté a a esto esto en el
+
+[00:09:17]
+pasar de los años no fue Ahorita fue con
+
+[00:09:19]
+el pasar de los años siendo Trader
+
+[00:09:21]
+detecté que yo soy mucho más bueno
+
+[00:09:24]
+dejando correr un Trade a largo plazo
+
+[00:09:28]
+que Tom beneficios luego luego por qué
+
+[00:09:32]
+Porque mi carácter de ser una persona un
+
+[00:09:34]
+poquito Válgame aferrada o o o de una
+
+[00:09:39]
+manera así como que más dura a la hora
+
+[00:09:42]
+de yo cambiar de opinión me
+
+[00:09:46]
+permite fácilmente dejar correr un Trade
+
+[00:09:49]
+Entonces yo ya sé que mis mi Max
+
+[00:09:52]
+potencial Trade va a ser mucho mucho más
+
+[00:09:54]
+amplio que la media de personas
+
+[00:09:57]
+normalmente es al contrario
+
+[00:09:59]
+en base a eso Entonces nuestro carácter
+
+[00:10:02]
+y también el tiempo el tiempo de qué el
+
+[00:10:04]
+tiempo de que tú quieres estar en el
+
+[00:10:05]
+Trade valgame aquí puedes definir al
+
+[00:10:09]
+final el caso al cabo todos somos
+
+[00:10:11]
+traders pero si vas a definir más o
+
+[00:10:13]
+menos
+
+[00:10:14]
+aproximadamente Qué tipo de Trader Estás
+
+[00:10:17]
+siendo tú verdad Qué tipo de Trader
+
+[00:10:21]
+eres y en base a esto es que tú vas a
+
+[00:10:24]
+detectar Cuál va a ser tu Max potencial
+
+[00:10:26]
+Trade No se preocupen porque ahorita
+
+[00:10:28]
+vamos a ir a la gráfica que vamos a
+
+[00:10:29]
+hacer un ejercicio para que ustedes lo
+
+[00:10:31]
+entiendan más fácil
+
+[00:10:33]
+verdad en base a eso a mi psicología
+
+[00:10:36]
+como Trader a mi carácter y a mi tiempo
+
+[00:10:39]
+ya yo definiré mi salida ahora en base a
+
+[00:10:44]
+mi salida es como yo voy a poner mis
+
+[00:10:47]
+reglas verad Ahorita les voy a decir
+
+[00:10:50]
+como a través de los años yo llegué a mi
+
+[00:10:52]
+estilo de trading que tengo ahorita que
+
+[00:10:54]
+puede ser mejor o peor que el de muchos
+
+[00:10:57]
+pero que pienso yo que va muy de acorde
+
+[00:11:00]
+con con como yo soy verad y algo que si
+
+[00:11:04]
+hago yo muy bien podré perder mucho
+
+[00:11:07]
+podré quemar Muchas cuentas podré ser
+
+[00:11:09]
+como sea pero algo que sí hago yo muy
+
+[00:11:12]
+bien es dejar que mis trads corran hasta
+
+[00:11:15]
+su Target nunca me vas a mirar saliendo
+
+[00:11:17]
+antes de tiempo ni nada por el estilo es
+
+[00:11:20]
+algo que ya Domino muy bien ver quisiera
+
+[00:11:22]
+dominar otras cosas mejor pero esto sí
+
+[00:11:24]
+lo Domino bien y es por la psicología
+
+[00:11:27]
+empleada dentro de ese Trade en Sí
+
+[00:11:30]
+verdad Entonces ya definiste vas a
+
+[00:11:33]
+definir unas reglas y un plan en base a
+
+[00:11:35]
+tu psicología tu carácter y tu tiempo o
+
+[00:11:37]
+entonces acá lo que vas a tener
+
+[00:11:40]
+posteriormente es
+
+[00:11:42]
+que tú
+
+[00:11:44]
+sabrás tú vas a saber tus objetivos de
+
+[00:11:47]
+ganancias en todo tiempo entonces al
+
+[00:11:50]
+saber tus objetivos de ganancia en todo
+
+[00:11:52]
+tiempo Esto es lo que te decía al
+
+[00:11:55]
+principio que tú sí puedes controlar que
+
+[00:11:58]
+va a ser tu t objetivos de ganancia Esto
+
+[00:12:01]
+sí lo puedes controlar que finalmente el
+
+[00:12:04]
+precio llega a tus objetivos no lo
+
+[00:12:06]
+puedes controlar o Entonces tienes que
+
+[00:12:08]
+empezar a luchar contra la incertidumbre
+
+[00:12:11]
+de no saber si el precio realmente va a
+
+[00:12:13]
+llegar ahí o no va a
+
+[00:12:14]
+llegar pero que tú puedas controlar tus
+
+[00:12:18]
+objetivos de ganancias Eso sí puedes
+
+[00:12:21]
+controlarlo
+
+[00:12:23]
+siempre muchas personas se centran en
+
+[00:12:26]
+querer controlar lo incontrolable Pero
+
+[00:12:29]
+lo que sí pueden controlar no lo
+
+[00:12:31]
+controlan que en este caso Qué es Pues
+
+[00:12:34]
+mis objetivos de ganancia yo le pregunto
+
+[00:12:37]
+a cualquier persona de ustedes si
+
+[00:12:38]
+ahorita yo meto una compra en el
+
+[00:12:41]
+cualquier activo del mercado yo puedo
+
+[00:12:44]
+salir donde se me pegue mi regalada gana
+
+[00:12:46]
+sí o
+
+[00:12:48]
+no donde quiera yo puedo
+
+[00:12:53]
+cerrar Así es donde yo quiera puedo
+
+[00:12:56]
+cerrar y salirme es algo que yo puedo
+
+[00:12:59]
+controlar de hecho eh en esto
+
+[00:13:03]
+Precisamente en esto es donde nosotros
+
+[00:13:05]
+vamos podría decir que tenemos una
+
+[00:13:08]
+ventaja sobre el institucional que
+
+[00:13:10]
+maneja muchos miles y millones de
+
+[00:13:12]
+dólares Porque si Ustedes sabrán Bueno
+
+[00:13:14]
+una de las teorías es yo no tengo la
+
+[00:13:16]
+verdad absoluta que los institucionales
+
+[00:13:19]
+no pueden salir este donde quieran Por
+
+[00:13:23]
+qué Porque no hay si si está mucha si
+
+[00:13:26]
+hay mucha venta y ellos quieren salir en
+
+[00:13:28]
+venta no hay demanda o no hay oferta el
+
+[00:13:31]
+mercado no hay suficiente para que ellos
+
+[00:13:33]
+puedan salir ellos tienen que salir de
+
+[00:13:35]
+una manera diferente a la de nosotros
+
+[00:13:37]
+nosotros no nosotros podemos salir
+
+[00:13:39]
+cuando queramos a la hora que queramos
+
+[00:13:41]
+podemos dejar el Trade corriendo lo que
+
+[00:13:43]
+queramos o entonces precisamente este
+
+[00:13:47]
+plan se va a basar en controlar lo que
+
+[00:13:49]
+podemos controlar qué puedo controlar
+
+[00:13:51]
+aquí de un Trade puedo controlar mi
+
+[00:13:54]
+entrada que eso es motivo de entrada
+
+[00:13:56]
+estrategia mi estrategia cuándo voy a
+
+[00:13:59]
+Por qué parámetros puedo controlar dónde
+
+[00:14:01]
+voy a poner mi stop loss y puedo
+
+[00:14:04]
+controlar mi salida en eso nos vamos a
+
+[00:14:06]
+centrar aparte voy a poder controlar lo
+
+[00:14:09]
+que yo llamo gestión de la operación la
+
+[00:14:12]
+gestión de la operación es todo el
+
+[00:14:14]
+camino que que que recorre el precio
+
+[00:14:16]
+hasta llegar a nuestro Trade qué voy a
+
+[00:14:19]
+hacer ahí Hay muchísimas formas de
+
+[00:14:22]
+hacerlo pero yo te voy a platicar una de
+
+[00:14:24]
+las que yo hago no quiere decir que sea
+
+[00:14:26]
+la mejor o la peor pero es la que me ha
+
+[00:14:28]
+fun I ad para poder dejar correr mis trs
+
+[00:14:31]
+hacia su objetivo no y que me me que es
+
+[00:14:36]
+sobre la que al día de hoy es algo podré
+
+[00:14:39]
+mover muchas cosas en mi trading Pero
+
+[00:14:41]
+esto Casi casi nunca lo muevo al menos
+
+[00:14:44]
+esta forma de hacerlo por qué porque es
+
+[00:14:46]
+lo que me funciona me funcionado muy
+
+[00:14:48]
+bien y me dio buenos resultados o
+
+[00:14:51]
+entonces iremos a un gráfico para yo
+
+[00:14:54]
+enseñarles los tres estilos diferentes
+
+[00:14:56]
+que yo Considero que puedes hacer Y cómo
+
+[00:14:59]
+tú podrías atacar ese problema de raíz
+
+[00:15:02]
+para que ya de una vez por todas No
+
+[00:15:05]
+tengas miedo en dejar correr el precio a
+
+[00:15:08]
+tus objetivos y ahora puedes empezar a
+
+[00:15:11]
+trabajar en una de las otras cosas que
+
+[00:15:14]
+puedes controlar que es mejorar tus
+
+[00:15:16]
+entradas o tu estrategia tu Win rate
+
+[00:15:21]
+verdad Pero ya no estás trabajando en
+
+[00:15:24]
+mejorar tu salida porque tú ya lo tienes
+
+[00:15:27]
+claro eso ya lo lo puedes tener bien
+
+[00:15:29]
+cubierto y ya no puedes estar flaque
+
+[00:15:31]
+sobre esto primero que nada les digo que
+
+[00:15:34]
+esto lleva un proceso no se coide de la
+
+[00:15:36]
+noche a la mañana yo no llegué a esto
+
+[00:15:38]
+tan rápido pero es cosa de probar y
+
+[00:15:41]
+probar y probar y probar y también tiene
+
+[00:15:44]
+que ver les digo mucho la psicología del
+
+[00:15:45]
+Trader y mucho el tiempo que tú tengas
+
+[00:15:48]
+el carácter que tú tengas Y la cosa o La
+
+[00:15:52]
+idea es que nos aprovechemos de nuestras
+
+[00:15:56]
+fortalezas y de que nuestras debilidades
+
+[00:15:59]
+estén totalmente cubiertas o o tratemos
+
+[00:16:02]
+de mejorar ahí y nuestras fortalezas nos
+
+[00:16:05]
+aprovechemos verad o entonces para ello
+
+[00:16:07]
+vamos a ir un gráfico x aquí ahorita no
+
+[00:16:11]
+importa el motivo de la entrada y no
+
+[00:16:13]
+importa la bueno la temporalidad si
+
+[00:16:15]
+importa un poco pero no importa el
+
+[00:16:17]
+motivo de la entrada no importa nada
+
+[00:16:20]
+este de eso
+
+[00:16:23]
+supongamos que yo entré vamos a ponerlo
+
+[00:16:27]
+aquí en esta zona aquí en este cuadrito
+
+[00:16:30]
+supongamos que yo ejecuté una entrada
+
+[00:16:33]
+Aquí entonces en base a qué ejecuté una
+
+[00:16:37]
+entrada en base al motivo que sea no mi
+
+[00:16:39]
+estrategia me dio entrada ahí este había
+
+[00:16:41]
+un bloque de órdenes había un imbalance
+
+[00:16:44]
+lo que tú más te guste eso sería como tu
+
+[00:16:49]
+motivo de la entrada motivo de la
+
+[00:16:51]
+entrada Entonces cómo es que yo consigo
+
+[00:16:54]
+ahora distinguir o decir hasta dónde va
+
+[00:16:58]
+llega el precio y hasta dónde quiero
+
+[00:17:00]
+salir pues lo primero que tienes que
+
+[00:17:02]
+hacer es un Back testing de tu
+
+[00:17:04]
+estrategia Y definir unos objetivos que
+
+[00:17:07]
+tú vas a querer estar los objetivos en
+
+[00:17:10]
+cuanto a tiempo para medir los objetivos
+
+[00:17:13]
+en cuanto a tiempo tú vas a a a Yo aquí
+
+[00:17:18]
+con la reglita tengo una forma de
+
+[00:17:19]
+hacerlo con la reglita tú vas a empezar
+
+[00:17:23]
+a a a este a Back testear o o a tirar
+
+[00:17:27]
+trades por ejemplo vamos V a tirar un
+
+[00:17:29]
+Trade aquí posición larga bien bonito
+
+[00:17:32]
+bien facilito vas a poder tirar Trade y
+
+[00:17:35]
+vas a poder definir hasta dónde más o
+
+[00:17:38]
+menos aproximadamente vas a tú estar
+
+[00:17:41]
+aguantando un Trade en base a tu
+
+[00:17:42]
+estrategia no cada estrategia de cada
+
+[00:17:45]
+persona es completamente diferente unos
+
+[00:17:47]
+operan por ict otros por bloque de
+
+[00:17:49]
+órdenes sarmon
+
+[00:17:52]
+imbalance liquidez este
+
+[00:17:55]
+fibonacci análisis técnico patrones de
+
+[00:17:58]
+Vela Hay muchísimas estrategias
+
+[00:18:00]
+diferentes pero la forma de que yo les
+
+[00:18:03]
+estoy explicando para dejar correr el
+
+[00:18:04]
+Trade es la misma para cualquier
+
+[00:18:06]
+estrategia tú lo puedes hacer para
+
+[00:18:08]
+cualquier estrategia entonces en base a
+
+[00:18:11]
+eso tú vas a ubicar primero tu Max
+
+[00:18:12]
+potencial Trade Cuál va a ser mi máximo
+
+[00:18:14]
+potencial de Trade dependiendo de la
+
+[00:18:16]
+temporalidad que estés entrando
+
+[00:18:18]
+dependiendo
+
+[00:18:19]
+eh la zona que estés trabajando va a ser
+
+[00:18:23]
+el tamaño que vas a estar usando tú
+
+[00:18:25]
+primero que nada de de de recorrido ya
+
+[00:18:29]
+supongamos para un gráfico de 15 minutos
+
+[00:18:30]
+del nasdaq yo voy a medir por ejemplo
+
+[00:18:34]
+mis objetivos supongamos que quiero
+
+[00:18:36]
+llegar a los imbalances de arriba Pues
+
+[00:18:38]
+voy a estar midiendo mis objetivos en
+
+[00:18:40]
+torno a 280 puntos
+
+[00:18:42]
+ya pero este Max potential Trade este
+
+[00:18:46]
+Max potential Trade que yo determiné
+
+[00:18:48]
+aquí lo tengo que replicar en diferentes
+
+[00:18:51]
+escenarios del precio en mi estrategia
+
+[00:18:54]
+vgame cuando tú haces Back testing tú
+
+[00:18:57]
+dices Ah aquí se cumple mi estrategia
+
+[00:18:59]
+acá se cumple otra vez acá se cumple
+
+[00:19:01]
+otra vez Entonces yo voy a estar viendo
+
+[00:19:03]
+Cuánto es cuánto potencial de recorrido
+
+[00:19:05]
+tiene mi Trade máximo yaad pero que ese
+
+[00:19:09]
+potencial máximo se cumpla muchas veces
+
+[00:19:13]
+o la o la mayor parte de las veces
+
+[00:19:16]
+verdad puede ser que se cumpla un poco
+
+[00:19:18]
+menos pero digas tú este va a ser el
+
+[00:19:20]
+máximo recorrido que yo puedo dar Y a
+
+[00:19:23]
+partir de ahí tú defines Ese ese número
+
+[00:19:26]
+pero ese número es por un Back testing
+
+[00:19:28]
+que tú tú estás haciendo supongamos que
+
+[00:19:30]
+tú dices Bueno yo aquí tengo otra
+
+[00:19:31]
+entrada y vas a medir lo mismo Bueno mi
+
+[00:19:34]
+estrategia me dice que yo salga en la
+
+[00:19:37]
+liquidez Entonces ese es mi Trade
+
+[00:19:39]
+entonces tú te vas a ir y vas a estar
+
+[00:19:41]
+midiendo cuál sería tu potencial de
+
+[00:19:43]
+salida Bueno aquí son 186 puntos Y eso
+
+[00:19:46]
+vas a ir haciendo durante mucho tiempo
+
+[00:19:49]
+en tu Back testing
+
+[00:19:51]
+verad ojo esto es la forma que tú de tu
+
+[00:19:55]
+estrategia la forma de entrada de tu
+
+[00:19:56]
+estrategia y también en pase que eres no
+
+[00:19:59]
+eres swing intradía
+
+[00:20:01]
+scalper Por ejemplo si yo quiero
+
+[00:20:04]
+trabajar 4 horas Pues no va a ser lo
+
+[00:20:05]
+mismo No quiero trabajar 4 horas
+
+[00:20:08]
+probablemente fíjense el tamaño de los
+
+[00:20:10]
+fractales de 4 horas verad 440 puntos
+
+[00:20:14]
+acá acá tenemos fractales de 600 puntos
+
+[00:20:20]
+acá tenemos un fractal de
+
+[00:20:22]
+525 los impulsos y los retrocesos donde
+
+[00:20:25]
+tú vas a estar entrando Según tu
+
+[00:20:26]
+estrategia Válgame si final tú vendiste
+
+[00:20:29]
+aquí por fibonacci por estrategia de
+
+[00:20:32]
+liquidez por order block por lo que sea
+
+[00:20:35]
+el el recorrido es el
+
+[00:20:38]
+mismo el que vendió por ict y el que
+
+[00:20:41]
+vendió por liquidez y el que vendió por
+
+[00:20:43]
+fibonacci el el potencial del movimiento
+
+[00:20:47]
+que podría haber agarrado es totalmente
+
+[00:20:48]
+el mismo no no puedes decir Ah yo uso
+
+[00:20:52]
+smar y yo voy yo voy a ganar más
+
+[00:20:55]
+aquí no pu llegar a ganar más con el
+
+[00:20:59]
+ratio riesgo beneficio y con el riesgo
+
+[00:21:02]
+que emplees verad pero por el el
+
+[00:21:05]
+movimiento en sí el tamaño del
+
+[00:21:06]
+movimiento es el mismo entonces en base
+
+[00:21:09]
+a eso tú ya determinas Cuál va a ser el
+
+[00:21:13]
+recorrido potencial en mi caso los que
+
+[00:21:16]
+ya me conozcan de hace mucho tiempo
+
+[00:21:18]
+saben que yo hago trades de este estilo
+
+[00:21:21]
+de hecho aquí lo debo de tener hasta
+
+[00:21:23]
+guardado aquí está
+
+[00:21:31]
+Bueno aquí se va es que Este es otro
+
+[00:21:34]
+broker es porque es otro broker pero
+
+[00:21:38]
+bueno en realidad no serían 3000 en
+
+[00:21:41]
+realidad Bueno sería menos Creo que es
+
+[00:21:44]
+un cero
+
+[00:21:45]
+menos así es es el estilo de mis TR
+
+[00:21:48]
+actualmente A veces pongo Bueno ahorita
+
+[00:21:51]
+estoy poniendo 60 pero anteriormente
+
+[00:21:53]
+eran 50 puntos Entonces yao determin mi
+
+[00:21:59]
+verad vamos a decir Gustavo este yo soy
+
+[00:22:02]
+scalper yo la verdad voy en un
+
+[00:22:05]
+minuto Entonces en un minuto tú vas a ir
+
+[00:22:08]
+viendo Según tu estrategia este eh qué s
+
+[00:22:13]
+yo me la voy a inventar aquí aquí había
+
+[00:22:15]
+un imbalance y ahí es mi entrada y esa
+
+[00:22:17]
+es mi estrategia Entonces vas a poder ir
+
+[00:22:19]
+midiendo con tu reglita cuál serían tus
+
+[00:22:21]
+salidas Ah pues son 20 puntos Ah pues
+
+[00:22:24]
+son 40 son 50 Qué s yo depende de cada
+
+[00:22:28]
+estrategia ahorita no estamos viendo el
+
+[00:22:30]
+motivo de entrada ni ni de estrategia
+
+[00:22:33]
+nos da totalmente igual Ahorita lo que
+
+[00:22:35]
+estamos es midiendo la salida óptima lo
+
+[00:22:38]
+que nos paga el lo que nos da el dinero
+
+[00:22:40]
+que es la salida y lo que muchos no no
+
+[00:22:43]
+saben aguantar su Trade hasta donde
+
+[00:22:45]
+llegue ojo que esto tú lo vas a definir
+
+[00:22:48]
+a tu antojo como se te pegue tu regalada
+
+[00:22:51]
+gana pero otro factor que debe de
+
+[00:22:54]
+cumplir es que en el tiempo tiene que
+
+[00:22:55]
+ser rentable obviamente tiene que
+
+[00:22:57]
+funcionar si en el tiempo no funciona
+
+[00:23:00]
+pues no es imposible no entonces ya
+
+[00:23:03]
+definiste tú tanto para un scalper puede
+
+[00:23:05]
+ser 20 puntos como para mí son 300
+
+[00:23:08]
+cualquiera de dependiendo tu tu forma de
+
+[00:23:11]
+hacer trading y ahora lo que vas a
+
+[00:23:13]
+definir es el ratio riesgo
+
+[00:23:17]
+beneficio el ratio riesgo beneficio es
+
+[00:23:20]
+Cuántas veces cuánto vas a arriesgar tú
+
+[00:23:24]
+por cada
+
+[00:23:25]
+dólar que ganes ejemplo aquí por ejemplo
+
+[00:23:29]
+yo tengo un ratio 1 a c anteriormente yo
+
+[00:23:33]
+utilizaba 50 y tenía un ratio 1 a se
+
+[00:23:36]
+verad entonces que para para qué va a
+
+[00:23:39]
+afectar este recorrido supongamos que yo
+
+[00:23:42]
+ya soy scalper verdad cuánto dijimos 20
+
+[00:23:45]
+puntos era mi máximo tamaño No scalper
+
+[00:23:48]
+aquí 20 puntos creo que era 20 20
+
+[00:23:52]
+puntitos fíjense Que chiquitito 20
+
+[00:23:54]
+puntitos 21 20 ver ahora qué vas a
+
+[00:23:57]
+buscar el tamaño de del stop loss con el
+
+[00:24:00]
+tamaño del stop loss es como a ti te va
+
+[00:24:03]
+a dar el ratio riesgo beneficio
+
+[00:24:06]
+óptimo que deberías de tener este tamaño
+
+[00:24:09]
+del stop loss se calcula Exactamente
+
+[00:24:11]
+igual dependiendo obviamente la
+
+[00:24:13]
+estrategia de cada persona va a ser más
+
+[00:24:16]
+o menos yo recomiendo empezar con stop
+
+[00:24:19]
+loss grandes y a medida que ya seas un
+
+[00:24:21]
+poquito más Pro puedes ir haciendo los
+
+[00:24:23]
+stop loss un poquito más
+
+[00:24:25]
+pequeños pero el Stop loss para a m Yo
+
+[00:24:29]
+cuando empecé en en el mundo del trading
+
+[00:24:32]
+a m a mí se me enseñó el smartmic que
+
+[00:24:35]
+todo el mundo nos enseñan que que el
+
+[00:24:38]
+Stop l Debería ser en el blo sniping de
+
+[00:24:41]
+órdenes no un blo ahí una mechita y el
+
+[00:24:44]
+Stop loss de dos pips y esa vaina
+
+[00:24:48]
+no el Stop así super refinado bien
+
+[00:24:51]
+chiquito y una
+
+[00:24:53]
+entrada Pero a medida que yo fui
+
+[00:24:55]
+avanzando como Trader me di cuenta que
+
+[00:24:57]
+esto no al menos a mí no me funcionó si
+
+[00:25:00]
+hay alguna persona que le funcionó o le
+
+[00:25:03]
+funciona de esa manera Está bien pero yo
+
+[00:25:06]
+estuve haciendo trading no durante mucho
+
+[00:25:08]
+tiempo durante muchos años y nunca me
+
+[00:25:11]
+sirvió Esto entonces al día de hoy llego
+
+[00:25:13]
+yo a la conclusión que el Stop loss ni
+
+[00:25:16]
+tiene que ser muy grande ni tiene que
+
+[00:25:18]
+ser pequeño el Stop loss tiene que ser
+
+[00:25:20]
+suficiente y donde tú te sientas cómodo
+
+[00:25:24]
+ten en cuenta que entre el Stop sea más
+
+[00:25:26]
+mayor tu r riesgo beneficio va a ser
+
+[00:25:30]
+menor Por ejemplo yo aquí tengo mi Max
+
+[00:25:32]
+potencial Trade que son 300 puntos
+
+[00:25:37]
+aproximadamente aquí y mi stop loss es
+
+[00:25:41]
+actualmente bueno 60 50 verad vamos a
+
+[00:25:44]
+poner 50 para dejarlo cerrado ya que
+
+[00:25:47]
+esto es un 1 a se
+
+[00:25:48]
+aproximadamente Entonces este tamaño del
+
+[00:25:51]
+stop los t tienes que ir en base a tu
+
+[00:25:53]
+estrategia y
+
+[00:25:54]
+determinarlo yo te recomiendo como les
+
+[00:25:56]
+digo que sea un stop ni ni tan grande ni
+
+[00:25:59]
+tan pequeño que te dé la libertad de qué
+
+[00:26:02]
+la libertad de decir que te
+
+[00:26:06]
+equivocaste obviamente va a haber muchas
+
+[00:26:08]
+ocasiones el que el precio nos va a
+
+[00:26:09]
+sacar nos va a votar y se va a ir pero
+
+[00:26:12]
+si tú estás batallando probablemente con
+
+[00:26:14]
+que te está sacando muchas entradas es
+
+[00:26:16]
+porque tú tienes un stop loss demasiado
+
+[00:26:19]
+pequeño ojo las personas que tienen
+
+[00:26:22]
+mayor precisión pueden gozar del
+
+[00:26:26]
+privilegio de poner un ST más pequeño
+
+[00:26:29]
+las personas que no tenemos tanta
+
+[00:26:31]
+precisión como yo yo por ejemplo soy una
+
+[00:26:33]
+persona que no tiene tanta precisión
+
+[00:26:36]
+tengo que poner un stbl más grande soy
+
+[00:26:39]
+más malo entrando
+
+[00:26:41]
+Válgame porque soy más impaciente a la
+
+[00:26:44]
+hora de entrar las personas que son
+
+[00:26:47]
+pacientes para esperar una confirmación
+
+[00:26:49]
+ahí en el precio esas personas pueden
+
+[00:26:51]
+poner el Stop loss por eso les digo
+
+[00:26:54]
+chico pequeño por eso les digo que esto
+
+[00:26:57]
+tiene que ver también mucho la
+
+[00:26:58]
+psicología del ser humano la psicología
+
+[00:27:00]
+tuya Yo por ejemplo no soy capaz de
+
+[00:27:03]
+esperar una confirmación o entonces lo
+
+[00:27:05]
+que hago es poner un stbl grande y
+
+[00:27:07]
+entrar a
+
+[00:27:10]
+mercado Pero porque psicológicamente yo
+
+[00:27:12]
+no estoy hecho para eso al menos ahora
+
+[00:27:14]
+en el momento en que me
+
+[00:27:16]
+encuentro entonces sacrifico la
+
+[00:27:19]
+precisión y pongo un stop l más grande
+
+[00:27:22]
+pero no me importa tanto tú como yo
+
+[00:27:24]
+podemos ganar Igual tú teniendo un stop
+
+[00:27:27]
+loss pequeño y yo un stop loss grande
+
+[00:27:29]
+los dos podemos ganar de la misma
+
+[00:27:32]
+manera inclusive ahora estoy pensando en
+
+[00:27:35]
+hacer un stop loss mucho más grande y
+
+[00:27:37]
+trabajar Marcos de tiempo más
+
+[00:27:39]
+grandes cada persona se puede adaptar o
+
+[00:27:43]
+puede decir bueno Gustavo yo voy a
+
+[00:27:45]
+trabajar un stop loss menor que tuyo y
+
+[00:27:48]
+voy a trabajar la misma salida en base a
+
+[00:27:51]
+eso ya
+
+[00:27:55]
+localices goo a beneficio ojo qu pasos
+
+[00:27:58]
+para los que llegaron un poquito tarde
+
+[00:28:01]
+lo primero que hicimos es Localizar mi
+
+[00:28:02]
+Max potential Trade Qué es mi Max
+
+[00:28:05]
+potential Trade mi máximo potencial de
+
+[00:28:08]
+Trade Ahí estamos hablando de cómo dejar
+
+[00:28:12]
+correr un Trade de manera efectiva Cómo
+
+[00:28:14]
+ser un maestro en dejar correr el
+
+[00:28:17]
+Trade con plan y psicología en base a mi
+
+[00:28:21]
+psicología a mi carácter y a mi
+
+[00:28:24]
+estrategia yo voy a determinar dónde voy
+
+[00:28:27]
+a dejar correr el
+
+[00:28:28]
+ojo muchas personas me van a decir
+
+[00:28:30]
+Gustavo es que yo no salgo así yo salgo
+
+[00:28:33]
+por el imbalance que hay aquí en esta
+
+[00:28:35]
+zona y aquí había un bloque y yo salgo
+
+[00:28:38]
+en el último High Okay está bien esa es
+
+[00:28:42]
+otra manera de hacerlo por el gráfico yo
+
+[00:28:45]
+no lo hago por el gráfico a mí no me
+
+[00:28:47]
+importa si aquí hay un imbalance un
+
+[00:28:49]
+bloque de órdenes o está Power vendiendo
+
+[00:28:53]
+a mí no me interesa yo lo hago por mi
+
+[00:28:55]
+Back testing previo en base a hago mi
+
+[00:28:58]
+salida pero si tú quieres hacerlo porque
+
+[00:29:00]
+había un alto del día un semanal o
+
+[00:29:03]
+liquidez o lo que qué sé yo está bien
+
+[00:29:06]
+pero debes determinar unas reglas
+
+[00:29:09]
+objetivas que Esas reglas sean
+
+[00:29:12]
+respetadas
+
+[00:29:13]
+siempre Válgame lo que mucho sucede es
+
+[00:29:16]
+que mucha gente dice Bueno yo salgo en
+
+[00:29:18]
+los altos eso me pasaba a mí por eso yo
+
+[00:29:20]
+ya no lo hago de esa manera yo salgo en
+
+[00:29:22]
+ese alto y después antes de que el
+
+[00:29:25]
+precio llegue hae alto ya te quieres
+
+[00:29:27]
+salir
+
+[00:29:29]
+o el precio llega al order block no se
+
+[00:29:31]
+lleva al alto y se regresa y te quiere
+
+[00:29:35]
+salir entonces ahí estás fallando lo que
+
+[00:29:38]
+dijiste Entonces entonces no chico
+
+[00:29:41]
+Entonces no te sales en el alto te vas a
+
+[00:29:44]
+salir en otro lado Pero en el alto no te
+
+[00:29:46]
+sales o no Yo me salgo en el imbalance
+
+[00:29:50]
+el precio llega toca el imbalance se
+
+[00:29:52]
+regresa y te sales
+
+[00:29:54]
+antes entonces por eso es bien
+
+[00:29:56]
+importante Definir la reglas adecuadas
+
+[00:29:59]
+para cada persona para mí verad en mi
+
+[00:30:02]
+caso a mí me importa un si una
+
+[00:30:04]
+resistencia un lo que sea yo me voy a
+
+[00:30:06]
+salir donde mismo por qué porque yo soy
+
+[00:30:10]
+una persona que eh le cuesta mucho a la
+
+[00:30:14]
+hora de de de de de tener este tipo de
+
+[00:30:18]
+reglas de que salgo en el alto salgo en
+
+[00:30:20]
+el bloque lo que hago es formular muchos
+
+[00:30:23]
+escenarios diferentes y querer inventar
+
+[00:30:26]
+que aquí había no sé qué y salirme antes
+
+[00:30:29]
+y eso me lleva a no cumplir mi plan de
+
+[00:30:31]
+trading pero ese soy yo cada persona
+
+[00:30:34]
+funciona de una manera totalmente
+
+[00:30:36]
+distinta entonces a la hora que tú ya
+
+[00:30:38]
+localizaste eso ahora vas a decidir una
+
+[00:30:41]
+de las cosas de la primera forma de
+
+[00:30:43]
+salida que aquí lo voy a
+
+[00:30:49]
+poner esa Esa es la primera forma de
+
+[00:30:52]
+salida salir directo la segunda
+
+[00:30:59]
+salir con descarga de presión esta
+
+[00:31:02]
+descarga de presión le llamo yo a los
+
+[00:31:05]
+parciales ahora que tú ya tienes tu Max
+
+[00:31:08]
+potencial Trade tú puedes definir dos
+
+[00:31:10]
+cosas también puedes decir bueno mis TR
+
+[00:31:12]
+Max potencial pueden llegar a 300 puntos
+
+[00:31:15]
+pero yo voy a ser conservador y en todos
+
+[00:31:17]
+mi Trade voy a tomar
+
+[00:31:19]
+200 para que sí o sí llegue má con más
+
+[00:31:23]
+facilidad tenga más frecuencia de golpeo
+
+[00:31:26]
+El Take profit
+
+[00:31:28]
+Ah Okay pero prefiero mejor tener más
+
+[00:31:31]
+ganancias un poquito menos frecuencia de
+
+[00:31:33]
+golpeo del Take profit pero cuando gano
+
+[00:31:36]
+gano bien Yo por ejemplo
+
+[00:31:38]
+psicológicamente a mí me gusta cuando
+
+[00:31:41]
+gano ganar bien cuando ya cuando yo digo
+
+[00:31:44]
+cuando hablo de ganar bien es ganarme un
+
+[00:31:46]
+4% para arriba a mí no me gusta ganarme
+
+[00:31:50]
+un uno pero es soy yo eh No s no me
+
+[00:31:54]
+confundan en que en que lo que yo digo
+
+[00:31:56]
+tiene que ser así es yo psicológicamente
+
+[00:31:59]
+Tú puedes ser diferente hay personas que
+
+[00:32:01]
+digan eh yo con 1% que me gane el día
+
+[00:32:04]
+está bien con 0,5 que me gana el día
+
+[00:32:06]
+está bien a mí no a mí me gusta ganarme
+
+[00:32:10]
+un un un anteriormente cuando estuve en
+
+[00:32:12]
+mi Prime me ganaba un seis por
+
+[00:32:15]
+Trade Eso es lo que me gusta me gusta
+
+[00:32:18]
+esperar pero cuando gano ganar
+
+[00:32:20]
+bien obviamente tengo que tener un
+
+[00:32:23]
+recorrido más largo para eso no puedo
+
+[00:32:25]
+tener un recorrido tan corto qué
+
+[00:32:28]
+sacrifico que muchas veces el precio se
+
+[00:32:30]
+va a
+
+[00:32:31]
+devolver Gustavo se te devolvió ahí I va
+
+[00:32:35]
+muy bien y se te devolvió está bien
+
+[00:32:37]
+sacrifico eso pero psicológicamente yo
+
+[00:32:40]
+soy bueno para hacer eso a mí se me
+
+[00:32:43]
+devuelve el precio y no ando llorando No
+
+[00:32:45]
+pasa nada pero hay personas que se le
+
+[00:32:47]
+devuelve el precio y tienen líos tienen
+
+[00:32:50]
+problemas con eso cómo es que tú eres
+
+[00:32:53]
+Con qué tienes más problemas entonces en
+
+[00:32:55]
+base a eso ya determinamos nuestros to
+
+[00:32:58]
+determinamos nuestro Max potential Trade
+
+[00:33:01]
+voy a determinar ahora si voy a salir de
+
+[00:33:03]
+manera directa que es de manera directa
+
+[00:33:06]
+desde que entro hasta que el máximo
+
+[00:33:09]
+recorrido del
+
+[00:33:11]
+Trade pero yo definí mis
+
+[00:33:14]
+reglas previamente y después voy a
+
+[00:33:18]
+definir si voy a salir con descarga de
+
+[00:33:20]
+presión si descarga de presión en mi
+
+[00:33:23]
+caso los que me conozcan saben que yo
+
+[00:33:25]
+tengo mis parciales yo yo tengo tres
+
+[00:33:28]
+descargas de presión la primera descarga
+
+[00:33:31]
+de presión que esta la pueden también
+
+[00:33:33]
+tener esto también es otra cosa que
+
+[00:33:35]
+tienen que definir los que van a salir
+
+[00:33:37]
+de manera directa eh van a tener su si
+
+[00:33:41]
+quieren tener descarga de presión si no
+
+[00:33:42]
+la quieren tener Está bien es aceptable
+
+[00:33:45]
+pero tienes que pagar el precio de ello
+
+[00:33:47]
+y vas a definir tu primera descarga de
+
+[00:33:49]
+presión que
+
+[00:33:51]
+es esta primera descarga de presión es
+
+[00:33:54]
+el lo que llevamos el B o en inglés es
+
+[00:33:58]
+el break even en español creo que es el
+
+[00:34:01]
+punto de parada o de tención el break
+
+[00:34:03]
+even es cuando tu posición ya se fue a
+
+[00:34:05]
+favor Y tú ya no deseas que si se
+
+[00:34:08]
+regresa pierdas el Stop
+
+[00:34:11]
+loss esto primero Para qué sirve sirve
+
+[00:34:14]
+para muchas cosas una de las primeras
+
+[00:34:16]
+cosas es para que emocionalmente tú te
+
+[00:34:18]
+sientas más tranquilo va subiendo el
+
+[00:34:21]
+precio ahí Uno nunca sabe Ese nasda es
+
+[00:34:24]
+muy es muy loco y se regresa de repente
+
+[00:34:27]
+y tú dices ya aquí yo
+
+[00:34:29]
+deseo ya no deseo asumir el Stop loss
+
+[00:34:33]
+Pero eso se convierte en regla a partir
+
+[00:34:36]
+de cuandoo tú deseas hacer eso y hay
+
+[00:34:39]
+personas que dicen bueno Gustavo A mí me
+
+[00:34:42]
+importa un si se devuelva porque
+
+[00:34:44]
+no me gusta que se devuelva me saque y
+
+[00:34:46]
+luego se vaya a take profit en mi caso
+
+[00:34:50]
+no me gusta que se devuelva y me saquen
+
+[00:34:53]
+stop yo prefiero poner Dr es mi primera
+
+[00:34:58]
+descarga de presión mi primera descarga
+
+[00:35:00]
+de presión son en 80 puntos un 1 a 1.5
+
+[00:35:03]
+resumidas cuentas Esa es mi primera
+
+[00:35:06]
+descarga de presión break even esto qué
+
+[00:35:09]
+esto también se b testea De acuerdo a tu
+
+[00:35:11]
+estrategia Hay personas que en lugar de
+
+[00:35:14]
+tener break ev También tienen lo que se
+
+[00:35:16]
+llama tcl también es válido Yo también
+
+[00:35:19]
+lo hago tcl se llama training stop loss
+
+[00:35:23]
+que es deir subiendo el Stop loss
+
+[00:35:25]
+conforme va avanzando tu posición verad
+
+[00:35:28]
+vas subiendo ahí 50 puntos subes 10
+
+[00:35:30]
+subes 20 subes 30 vas como como
+
+[00:35:33]
+correteando el
+
+[00:35:34]
+precio y hasta donde te dé la ganancia
+
+[00:35:37]
+es donde tú sales verad eso también es
+
+[00:35:41]
+válido también se puede hacer Ahorita
+
+[00:35:42]
+les voy a explicar que yo hago las dos
+
+[00:35:43]
+formas en mi estrategia para yo dejar
+
+[00:35:47]
+correr el precio Hasta por acá arriba ya
+
+[00:35:50]
+okay Esta es mi primera descarga de
+
+[00:35:52]
+presión ahora tú vas a definir si
+
+[00:35:53]
+quieres break even o no quieres cada
+
+[00:35:55]
+persona es diferente
+
+[00:35:57]
+yo por ejemplo le puedo preguntar a
+
+[00:35:59]
+alguien de los que están aquí quieres
+
+[00:36:01]
+break even o no quieres break even con
+
+[00:36:04]
+Break even o sin break even en base a
+
+[00:36:05]
+qué se define el break even en base a tu
+
+[00:36:07]
+estrategia hay estrategias que les hace
+
+[00:36:10]
+daño el break even eh Aunque no lo
+
+[00:36:12]
+crean tienen que tener cuidado con esto
+
+[00:36:15]
+hay estrategias que ganan más sin break
+
+[00:36:17]
+even y hay estrategias que ganan menos
+
+[00:36:20]
+con el break even tienes que Back
+
+[00:36:22]
+testear y decir bueno esta misma
+
+[00:36:25]
+operación puse break o no break No me
+
+[00:36:27]
+salió s de cuero que de acuerdo al
+
+[00:36:30]
+precio y de acuerdo a tu estilo de
+
+[00:36:31]
+entrada
+
+[00:36:33]
+no puede ser que tu estilo de entrada
+
+[00:36:35]
+sea que cuando el precio ya las
+
+[00:36:37]
+probabilidades cuando el precio ya te
+
+[00:36:38]
+dio la confirmación las probabilidades
+
+[00:36:40]
+de que si se regresa te saque son altas
+
+[00:36:43]
+de que pierdas Okay entonces ahí vas a
+
+[00:36:45]
+poner break even Okay ahora vas a
+
+[00:36:48]
+definir tu Target para los que son
+
+[00:36:50]
+directos yo recomiendo ojo aquí va va va
+
+[00:36:54]
+otra parte para los que les gusta salir
+
+[00:36:56]
+directo yo recomiendo que salgas directo
+
+[00:36:59]
+sin parciales estos ratios riesgo
+
+[00:37:02]
+beneficio uno a
+
+[00:37:04]
+uno uno a dos y uno a tres para mí esos
+
+[00:37:09]
+serían los ratios riesgo beneficio que
+
+[00:37:11]
+yo no tomaría parciales hay personas que
+
+[00:37:14]
+lo hacen pero para mí no no le veo
+
+[00:37:17]
+sentido tomar parciales en el uno a uno
+
+[00:37:19]
+si vo a salir en el uno a uno tomar
+
+[00:37:21]
+parciales abajo del uno a uno o si vo a
+
+[00:37:24]
+saliro en el uno a dos tomar parciales
+
+[00:37:26]
+en el uno a uno porque al final y al
+
+[00:37:28]
+cabo cuando tú tomas parciales yo por
+
+[00:37:31]
+ejemplo tomo tomo esta posición en el un
+
+[00:37:34]
+a se realmente esta posición no es uno a
+
+[00:37:37]
+se mucha gente dice No yo tengo un 1 a
+
+[00:37:40]
+20 pero tomaste el 80% de beneficio en
+
+[00:37:43]
+el un a tres esa madre no es una 20 no
+
+[00:37:46]
+te estés engañando eso no es una 20
+
+[00:37:49]
+tomases el 80% del volumen acá y luego
+
+[00:37:52]
+lo dejaste correr 1 20 eso no es una a
+
+[00:37:54]
+20 te estás engañando solito yo por
+
+[00:37:57]
+ejemplo aquí Te mentiría si yo tengo un
+
+[00:37:59]
+1 a se eso no es un a se porque yo tengo
+
+[00:38:02]
+tres
+
+[00:38:03]
+parciales si yo Por ejemplo divido yo
+
+[00:38:06]
+salgo en un a dos un a cu un a se lo
+
+[00:38:09]
+divido entre tres realmente mi salida o
+
+[00:38:11]
+mi ratoo riesg beneficio es un a cuatro
+
+[00:38:13]
+no es uno a
+
+[00:38:15]
+se porque tengo tres parciales entonces
+
+[00:38:18]
+si tú tienes un un a dos y dices que
+
+[00:38:20]
+tienes un uno a dos y tomas parciales
+
+[00:38:23]
+antes en el uno a un realmente tú no
+
+[00:38:25]
+tienes un uno a dos tú tienes es un
+
+[00:38:31]
+1.5 porque tienes al menos que tomes
+
+[00:38:35]
+beneficios menores o mayores ahí cambia
+
+[00:38:38]
+un poquito la cosa estd ahí hablando si
+
+[00:38:39]
+tomas
+
+[00:38:40]
+eh Si tomas beneficios ahorita voy a
+
+[00:38:43]
+hablar también de cuánto sacar que
+
+[00:38:45]
+también es importante cuánto saco aquí
+
+[00:38:48]
+Gustavo en el parcial Okay ahorita
+
+[00:38:50]
+también voy a hablar de
+
+[00:38:52]
+eso pero entonces el un a un el un a dos
+
+[00:38:55]
+y el uno a TR Considero que son
+
+[00:38:58]
+que no ocupan
+
+[00:38:59]
+parciales porque le vas a cortar los
+
+[00:39:02]
+parciales disminuyen las
+
+[00:39:04]
+ganancias pero permiten dejar correr el
+
+[00:39:06]
+TR a rti riesgo beneficios más
+
+[00:39:09]
+altos ojo cuando tú tienes un un a dos
+
+[00:39:12]
+un un a un un 3 la frecuencia de golpeo
+
+[00:39:14]
+del Take profit va a ser mayor Sí o sí
+
+[00:39:18]
+en cualquier casi en la mayoría de
+
+[00:39:20]
+estrategia Entonces ahora tú tienes que
+
+[00:39:23]
+decir Quiero una mayor frecuencia de
+
+[00:39:25]
+golpeo o quiero una frencia de golpeo yo
+
+[00:39:29]
+combiné las dos cosas mi primer parcial
+
+[00:39:32]
+tiene una frecuencia de golpeo muy alta
+
+[00:39:33]
+es en el un a dos en 100 puntos aquí Ese
+
+[00:39:38]
+es mi primer parcial uno a dos si tú
+
+[00:39:41]
+quieres Ahora yo recomiendo los
+
+[00:39:43]
+parciales cómo yo recomiendo los
+
+[00:39:45]
+parciales que sean eh Por ejemplo pueden
+
+[00:39:48]
+ser cada dos dos de ratio puede ser uno
+
+[00:39:52]
+a dos por ejemplo si tú vas a si tú vas
+
+[00:39:55]
+por encima del uno A tres ya puedes ya
+
+[00:39:58]
+recomendaría que te plantearas tomar
+
+[00:40:01]
+parciales ojo hay personas que dicen no
+
+[00:40:04]
+quiero salir directo hasta el 1 cu el
+
+[00:40:05]
+una c el una se perfecto pero ten en
+
+[00:40:08]
+cuenta que muchas veces el precio se te
+
+[00:40:10]
+va a devolver y se te va a devolver
+
+[00:40:12]
+completa La ganancia porque tú no estás
+
+[00:40:14]
+tomando ningún parcial verdad vas en uno
+
+[00:40:19]
+a c con 1% ganando 5% y tú quieres dejar
+
+[00:40:23]
+correr hasta el 1 a 6 sin parciales que
+
+[00:40:25]
+te va a devolver 5%
+
+[00:40:28]
+estás dispuesto emocionalmente a pagar
+
+[00:40:30]
+ese precio yo en mi caso te digo que yo
+
+[00:40:33]
+no al menos yo no estoy dispuesto a
+
+[00:40:35]
+pagar ese precio o Entonces yo
+
+[00:40:38]
+recomiendo que para que vayas tomando
+
+[00:40:41]
+parciales más o menos uno a dos Bueno
+
+[00:40:44]
+aquí me equivoqué uno a dos luego uno a
+
+[00:40:46]
+cuatro y luego uno a seis y del uno A se
+
+[00:40:51]
+uno a o y uno a 10 ratio riesgo
+
+[00:40:57]
+beneficio que yo recomendaría como
+
+[00:40:59]
+máximo uno a 10 yo no jugaría posiciones
+
+[00:41:03]
+de un a 20 un a 25 y todo eso se puede
+
+[00:41:07]
+hacer pero yo la verdad no le hao mucho
+
+[00:41:10]
+sentido a hacer eso se puede ser más
+
+[00:41:11]
+rentable con un uno a dos uno a TR uno a
+
+[00:41:14]
+cu uno a se hasta uno a 10 Si tú quieres
+
+[00:41:17]
+ser una persona que deja correr más tus
+
+[00:41:20]
+trades eso es lo que yo recomiendo no
+
+[00:41:22]
+quiere decir que sea lo correcto ni que
+
+[00:41:25]
+mi palabra sea lo lo que tiene que ser
+
+[00:41:28]
+correcto verdad Entonces a partir de eso
+
+[00:41:32]
+vas a definir cuánto número de parciales
+
+[00:41:34]
+vas a querer tomar hasta tu Target si
+
+[00:41:37]
+vas a tomar parciales si no vas a tomar
+
+[00:41:39]
+parciales pues vas a decidir qué ratio
+
+[00:41:41]
+riesgo beneficio quieres utilizar un uno
+
+[00:41:43]
+a uno uno a dos uno a tres o inclusive
+
+[00:41:45]
+puede ser hasta uno a cuatro directo
+
+[00:41:48]
+pero del uno A tres para arriba yo
+
+[00:41:49]
+Considero que puedes tomar parciales en
+
+[00:41:51]
+mi caso como yo lo hago pues yo tomo
+
+[00:41:53]
+parciales en el uno a dos luego voy a
+
+[00:41:55]
+tomar parciales en el uno a cuatro Esa
+
+[00:41:58]
+es mi segunda salida en 200 puntos
+
+[00:42:00]
+Aproximadamente en el uno a cuatro y mi
+
+[00:42:03]
+salida final es en el uno a se en 300
+
+[00:42:06]
+puntos actualmente yo me siento muy
+
+[00:42:07]
+cómodo así aunque esté perdiendo
+
+[00:42:10]
+quemando cuentas esta esto no lo
+
+[00:42:12]
+cambio porque me siento muy cómodo aquí
+
+[00:42:15]
+ahora tú vas a buscar en qué Qué es
+
+[00:42:18]
+donde te sientes más cómodo donde
+
+[00:42:19]
+obtienes mejor comodidad y en base a eso
+
+[00:42:22]
+tú vas a determinar tu
+
+[00:42:24]
+salida ahora cómo con sigo Bueno antes
+
+[00:42:28]
+de eso cuánto tomo de beneficio Gustavo
+
+[00:42:31]
+en en los parciales yo recomiendo que
+
+[00:42:34]
+pueden ser toma de beneficios en tus
+
+[00:42:37]
+parciales puede ser la
+
+[00:42:40]
+mitad
+
+[00:42:42]
+o eh un
+
+[00:42:45]
+tercio esto Esto es lo que yo recomiendo
+
+[00:42:48]
+no no me hace mucho sentido eh tomar más
+
+[00:42:53]
+de la mitad porque no tiene sentido
+
+[00:42:56]
+dejar correr o tomar un 80% y dejar
+
+[00:42:58]
+correr o un 60 un 70 y dejar correr lo
+
+[00:43:01]
+demás porque realmente lo demás no te va
+
+[00:43:04]
+a pagar demasiado en ese caso si voy a
+
+[00:43:07]
+tomar un parcial aquí en el un a dos de
+
+[00:43:10]
+un 80% en ese caso tomo todo mejor
+
+[00:43:13]
+verdad no tiene No a mí al menos a mí no
+
+[00:43:16]
+me hace sentido Entonces yo recomiendo
+
+[00:43:18]
+que tomes la mitad o un tercio en mi
+
+[00:43:20]
+caso yo tomo un tercio un tercio de la
+
+[00:43:23]
+operación en este caso yo divido mi
+
+[00:43:25]
+posición en tres yo no meto una sola
+
+[00:43:28]
+posición yo meto por ejemplo si son
+
+[00:43:31]
+punto TR de lote yo meto tres
+
+[00:43:34]
+operaciones de punto un y las pongo a
+
+[00:43:37]
+take profit 1 Take profit 2 en el 1 cu y
+
+[00:43:41]
+Take profit 3 en el en el último profit
+
+[00:43:45]
+Pero tú puedes tomar dos parciales por
+
+[00:43:47]
+ejemplo si tú dices Gustavo Yo quiero ir
+
+[00:43:48]
+al 1 cuat perfecto puedes tener un
+
+[00:43:51]
+primer parcial en el 1 a dos y y tu
+
+[00:43:54]
+salida final en el 1 a cu
+
+[00:43:57]
+esto al final sería un 1 a
+
+[00:44:01]
+3 4 + 2 6 entre dos parciales que tomas
+
+[00:44:05]
+es tres por eso les digo que para
+
+[00:44:08]
+operaciones menores a uno a tres o
+
+[00:44:12]
+posiciones menores a un a TR no tiene
+
+[00:44:15]
+mucho sentido tomar parciales porque
+
+[00:44:17]
+mejor dejo correr un un a TR solito pero
+
+[00:44:20]
+cada persona tiene una estrategia
+
+[00:44:22]
+diferente y puede llegar a servirle de
+
+[00:44:24]
+una forma de u
+
+[00:44:26]
+otra ahora ya que tengo definido todo
+
+[00:44:29]
+voy a hacer mis reglas mis siguientes
+
+[00:44:31]
+reglas mis siguientes reglas van a ser
+
+[00:44:33]
+de gestión de la
+
+[00:44:35]
+operación ya por ejemplo yo ya metí mi
+
+[00:44:39]
+Trade aquí en esta posición y el precio
+
+[00:44:42]
+va a corriendo mi primera regla tendría
+
+[00:44:45]
+que ser si voy a poner break o no break
+
+[00:44:47]
+even Y dónde va a ser el break en mi
+
+[00:44:49]
+caso yo pongo break even siempre y es en
+
+[00:44:52]
+80 puntos en un a
+
+[00:44:54]
+1.5 Por qué Porque ahí me siento
+
+[00:44:56]
+realmente muy cómodo Y ahí ya no deseo
+
+[00:44:58]
+perder ni capital
+
+[00:45:01]
+verad antes Lo ponía en el Take profit 1
+
+[00:45:03]
+pero hay veces yo notaba que hay veces
+
+[00:45:05]
+que llegaba al precio muy cerca del Take
+
+[00:45:07]
+profit 1 y se regresaba y me sacaba en
+
+[00:45:10]
+stop loss Entonces ahora lo que hago es
+
+[00:45:12]
+ponerlo en el en 80 puntos en un 1.5
+
+[00:45:16]
+luego en 100 puntos tengo mi salida mi
+
+[00:45:18]
+primera salida verad ese ser tendría que
+
+[00:45:21]
+ser esa sería tu primera regla de take
+
+[00:45:24]
+profit a partir de acá con el volumen
+
+[00:45:27]
+que quedó qué quieres hacer con ese
+
+[00:45:29]
+volumen puedes hacer muchas
+
+[00:45:32]
+cosas una de las cosas podría ser es
+
+[00:45:35]
+poner un trailing stop loss ir subiendo
+
+[00:45:38]
+el Stop loss o simplemente mantenerlo en
+
+[00:45:40]
+break even
+
+[00:45:42]
+verdad pero tienes que tener una gestión
+
+[00:45:44]
+de esa operación Qué vas a hacer con
+
+[00:45:46]
+ello vamos a poner un caso de que x
+
+[00:45:49]
+persona quiere hacer el uno a cuatro y
+
+[00:45:51]
+tiene una salida en el uno a dos más o
+
+[00:45:53]
+menos aquí en el centro Entonces ya le
+
+[00:45:55]
+toca el precio su primer Take profit qué
+
+[00:45:57]
+va a hacer con la siguiente posición yo
+
+[00:45:59]
+siempre les digo a mis alumnos o les les
+
+[00:46:02]
+les este les digo esto Bueno tú quieres
+
+[00:46:04]
+salir aquí Qué pasa si el precio llega
+
+[00:46:07]
+aquí y se regresa Qué vas a hacer tú eso
+
+[00:46:13]
+pasa
+
+[00:46:14]
+muchísimo para que tú estés tranquilo y
+
+[00:46:17]
+cubras todas las casuísticas que puede
+
+[00:46:18]
+hacer el
+
+[00:46:20]
+precio y seas capaz de cumplir el plan
+
+[00:46:23]
+de dejar correr tu Trade hasta tu
+
+[00:46:25]
+objetivo
+
+[00:46:27]
+por eso esto Esto es bien importante que
+
+[00:46:28]
+además de que funcione en estrategia
+
+[00:46:31]
+funcione eh de manera psicológica para
+
+[00:46:34]
+ti o sea que estés cómodo con
+
+[00:46:38]
+esto es importante que que que seas de
+
+[00:46:41]
+esa manera que estés muy cómodo con esto
+
+[00:46:44]
+que tengas una comodidad enorme pero que
+
+[00:46:46]
+también potencialice tus beneficios a la
+
+[00:46:49]
+hora de que ganas
+
+[00:46:51]
+verad entonces aquí ya viene la segunda
+
+[00:46:55]
+parte que es la gestión de la operación
+
+[00:46:56]
+Que vas a hacer con la siguiente
+
+[00:46:58]
+siguiente Trade en mi caso te voy a
+
+[00:46:59]
+decir como yo lo hago yo por ejemplo
+
+[00:47:01]
+dejo correr hasta los 300
+
+[00:47:12]
+puntotech esa sería mi gestión de
+
+[00:47:14]
+operación cuando llega al Take profit 1
+
+[00:47:16]
+100 puntos saco mi primer parcial cuando
+
+[00:47:19]
+llega el precio al 1 a 3 ojo y va el
+
+[00:47:22]
+precio el precio llega al 1 a
+
+[00:47:24]
+TR aquí adamente lo que yo hago yo es
+
+[00:47:29]
+poner mi operación en más 50
+
+[00:47:32]
+puntos va que esto sería el uno a uno
+
+[00:47:37]
+aproximadamente mis dos operaciones
+
+[00:47:39]
+restantes las pongo en un uno a uno y le
+
+[00:47:42]
+doy una chance al precio más o menos de
+
+[00:47:45]
+100 puntos por ejemplo aquí en esta
+
+[00:47:48]
+casuística esta operación Te hubiera
+
+[00:47:49]
+sacado Gustavo sí me hubiera sacado aquí
+
+[00:47:51]
+en
+
+[00:47:52]
+beneficio y después se hubiera ido a tu
+
+[00:47:54]
+favor efectivamente
+
+[00:47:57]
+Yo sé que esto puede llegar a suceder
+
+[00:47:59]
+Claro que sé que puedo llegar a suceder
+
+[00:48:02]
+ojo que lo estoy viendo con anticipación
+
+[00:48:04]
+lo puedo controlar que el mercado vaay
+
+[00:48:07]
+ir a hacerlo de esta manera No lo
+
+[00:48:10]
+sé puede que sí puede que no a veces que
+
+[00:48:13]
+el precio se va a pura vela verde va a
+
+[00:48:15]
+tu Take profit y hay veces que hace unos
+
+[00:48:17]
+retrocesos bien
+
+[00:48:20]
+feos pero yo digo muchas de las veces en
+
+[00:48:23]
+lugar de que suceda eso lo que va a
+
+[00:48:24]
+hacer el precio es irse para abajo me va
+
+[00:48:29]
+a romper el el el el el el Stop loss en
+
+[00:48:32]
+ese caso yo deseo en los casos que que
+
+[00:48:36]
+el precio se va para abajo yo deseo
+
+[00:48:38]
+salir con Este parcial de acá abajo es
+
+[00:48:40]
+un Segundo parcial ojo si el precio
+
+[00:48:43]
+avanza no me saca y avanza hasta mi
+
+[00:48:46]
+segundo Take profit pues tomo ahí mis
+
+[00:48:47]
+ganancias en mi segundo Take profit y mi
+
+[00:48:50]
+última operación que tengo corriendo la
+
+[00:48:52]
+pongo en más 100
+
+[00:48:54]
+puntos verdad
+
+[00:48:58]
+y dejo correr hasta 250 puntos en 250
+
+[00:49:05]
+puntos lo que lo que hago yo es volver a
+
+[00:49:07]
+capturar 150 puntos para que tú me
+
+[00:49:09]
+entiendas le voy dando una distancia de
+
+[00:49:11]
+100 puntos aproximadamente al precio
+
+[00:49:13]
+para que me saque si quiere sacar muchas
+
+[00:49:16]
+operaciones me llegan a 250 puntos Y qué
+
+[00:49:19]
+creen que pasa el precio se regresa y me
+
+[00:49:21]
+saca aquí en más 150
+
+[00:49:24]
+puntos en lugar de ganar un cuatro yo
+
+[00:49:27]
+termino ganando un uno a tres pero
+
+[00:49:29]
+también muchas posiciones también se van
+
+[00:49:31]
+al al uno al al te profit
+
+[00:49:34]
+final pero si te fijas con esto yo tengo
+
+[00:49:37]
+cubierto todos los escenarios que puede
+
+[00:49:40]
+haber de que el precio se me vaya en
+
+[00:49:43]
+contra o a favor todos los
+
+[00:49:46]
+escenarios Entonces cuando yo entro a
+
+[00:49:48]
+una
+
+[00:49:49]
+posición Yo sé que va a Yo sé que va a
+
+[00:49:52]
+pasar con mi Trade si se va a
+
+[00:49:55]
+favor Y qué crees que pasa estoy muy
+
+[00:49:59]
+tranquilo porque yo ya asumí todas las
+
+[00:50:01]
+casas que puede llegar a ser el
+
+[00:50:03]
+precio y si se regresa no me importa me
+
+[00:50:07]
+vale No me importa me vale un
+
+[00:50:09]
+porque yo ya definí mi plan Ahora yo
+
+[00:50:13]
+puedo controlar a eso
+
+[00:50:15]
+eso yo no voy a estar intranquilo o voy
+
+[00:50:20]
+a estar gastando mis energías y mi
+
+[00:50:22]
+tiempo en
+
+[00:50:23]
+esto esto no lo puedo controlar
+
+[00:50:27]
+no lo puedo controlar
+
+[00:50:30]
+Definitivamente hay veces que el mercado
+
+[00:50:32]
+lo va a hacer Hay veces que el mercado
+
+[00:50:33]
+no lo va a hacer lo puedes llegar a
+
+[00:50:35]
+predecir Sí pero no lo vas a predecir
+
+[00:50:38]
+siempre entonces yo no me desgasto en
+
+[00:50:40]
+esto yo me desgasto en lo que puedo
+
+[00:50:43]
+controlar que si puedo controlar mis
+
+[00:50:45]
+reglas de
+
+[00:50:46]
+salida eso es lo único que yo sí puedo
+
+[00:50:49]
+controlar entonces de manera profesional
+
+[00:50:51]
+tranquila entro a mi Trade y el precio
+
+[00:50:54]
+Yo sé que se me va se me puede regresar
+
+[00:50:57]
+en cualquier
+
+[00:50:58]
+momento como es más existe la
+
+[00:51:01]
+probabilidad más alta que el precio se
+
+[00:51:03]
+me regrese en cualquier momento a que me
+
+[00:51:05]
+llegue al te profit final porque yo
+
+[00:51:07]
+estoy hablando de de 300
+
+[00:51:10]
+puntos ahora dices Gustavo pero yo no
+
+[00:51:13]
+quiero eso yo no quiero sufrir en que se
+
+[00:51:15]
+me regrese entonces tú tienes que
+
+[00:51:17]
+reducir tu frecuencia de golpeo pero tu
+
+[00:51:19]
+Win rate tiene que ser más
+
+[00:51:22]
+alto tienes que acertar más veces yo no
+
+[00:51:25]
+tengo que acertar tanto veces yo me
+
+[00:51:27]
+puedo equivocar cuatro veces seguidas y
+
+[00:51:30]
+con una sola operación que se me va del
+
+[00:51:31]
+Take profit final pago las cuatro
+
+[00:51:34]
+seguidas Cuántas veces tú deseas
+
+[00:51:36]
+equivocarte para recuperar las veces que
+
+[00:51:39]
+Cuántas veces tú deseas tener un Take
+
+[00:51:41]
+profit para recuperar las veces que te
+
+[00:51:43]
+equivocaste tú dices un uno a dos
+
+[00:51:45]
+Gustavo bueno con dos operaciones que te
+
+[00:51:47]
+equivoques si ya te equivocas una
+
+[00:51:49]
+tercera y ganas una una cuarta ya no no
+
+[00:51:53]
+recuperas te quedas
+
+[00:51:54]
+negativo Entonces es es un balance y un
+
+[00:51:57]
+equilibrio y también depende el estilo
+
+[00:51:58]
+del Trader y del de la persona el estilo
+
+[00:52:02]
+del Trader de cada de cada quien Pues y
+
+[00:52:06]
+también depende mucho qué tu psicología
+
+[00:52:09]
+depende tú cómo eres si tú eres más
+
+[00:52:13]
+fácil que dejes correr el precio tienes
+
+[00:52:14]
+que aprovecharte de eso y estirar tus
+
+[00:52:18]
+tus tus ganancias si eres una persona
+
+[00:52:21]
+que que tienes más miedo en dejar correr
+
+[00:52:24]
+ese ese mercado pues vas a tiene que
+
+[00:52:26]
+tener más frecuencia de Take profit para
+
+[00:52:29]
+que agarres más
+
+[00:52:31]
+confianza depende de muchas cosas y y y
+
+[00:52:34]
+eso son los principales factores que hay
+
+[00:52:37]
+Y entonces de esta manera cuando tú
+
+[00:52:39]
+entres a un Trade tú ya no vas a estar
+
+[00:52:41]
+pensando en dónde debo de salir ni estás
+
+[00:52:44]
+pensando en cuánto voy a Oy cuánto será
+
+[00:52:47]
+que el mercado me dé o cuánto será que
+
+[00:52:49]
+gane tú ya sabes cuánto vas a ganar vas
+
+[00:52:53]
+a saber dónde vas a salir dónde vas a
+
+[00:52:55]
+salir tus
+
+[00:52:57]
+dónde vas a salar tu breakeven dónde V
+
+[00:53:01]
+va a estar toda tu salida todo ahora que
+
+[00:53:04]
+tú ya dominas esto ya lo único que te
+
+[00:53:06]
+tienes que centrar es en dominar en
+
+[00:53:09]
+tener una mejor entrada o perfeccionar
+
+[00:53:11]
+la estrategia para qué Para que te dé
+
+[00:53:14]
+más frecuencia de de operaciones
+
+[00:53:17]
+ganadoras pero ya no te tienes que
+
+[00:53:19]
+centrar en esto porque tú ya lo tienes
+
+[00:53:21]
+totalmente cubierto tanto el precio
+
+[00:53:23]
+puede hacer esto tanto el precio puede
+
+[00:53:26]
+hacer esto esto
+
+[00:53:27]
+verdad Entonces mucha gente se trata de
+
+[00:53:30]
+centrar en esto y se frustra porque aquí
+
+[00:53:32]
+lo sacó y a veces va a ser el precio
+
+[00:53:34]
+esto fíjate apura vela verde se fue para
+
+[00:53:36]
+arriba y aquí no y es el mismo recorrido
+
+[00:53:40]
+parecido pero fíjate lo que dice
+
+[00:53:43]
+aquí aquí aquí no gana ni el
+
+[00:53:49]
+Mira dio para arriba para abajo
+
+[00:53:53]
+para arriba para abajo hizo un para
+
+[00:53:56]
+arriba para abajo para arriba para abajo
+
+[00:53:58]
+una manipula es una manipulación Claro
+
+[00:54:01]
+que sí es una manipulación Entonces si
+
+[00:54:03]
+tú entrastes acá qu tienes que tener
+
+[00:54:07]
+cubierto
+
+[00:54:08]
+eso y asumir Ah bueno Gustavo Yo quiero
+
+[00:54:12]
+dejar correr el precio Hasta AC ribota y
+
+[00:54:14]
+a mí no me hables de poner parciales
+
+[00:54:17]
+Okay asumes eso qué va a pasar cuando el
+
+[00:54:20]
+precio de aquí la haga así por abajo o
+
+[00:54:23]
+de aquí la haga Así para abajo o de aquí
+
+[00:54:26]
+le haga Así para
+
+[00:54:27]
+abajo yo he tenido escenarios de Hasta
+
+[00:54:30]
+que por un pip o por un punto me deja
+
+[00:54:34]
+ahí colgado el Take profit y no me
+
+[00:54:37]
+saca pero yo dejo yo tengo mis reglas de
+
+[00:54:41]
+salida y no me importa si el precio se
+
+[00:54:43]
+va a llegar o no va a llegar que yo ya
+
+[00:54:46]
+lo tengo cubierto si llegas o no llegas
+
+[00:54:48]
+me da
+
+[00:54:50]
+igual yo ya tengo cubierto dónde voy a
+
+[00:54:52]
+salir me da totalmente igual si llegas o
+
+[00:54:55]
+no llegas
+
+[00:54:56]
+ya tengo previsto que me hagas este tipo
+
+[00:54:58]
+de
+
+[00:55:00]
+mañanas ya lo sé yo
+
+[00:55:04]
+y ojo la persona que deja que no cierra
+
+[00:55:08]
+y que se va directo pues va a tener
+
+[00:55:10]
+también de estas pero cuántas de estas
+
+[00:55:13]
+vas a tener Cuánta frecuencia vas a
+
+[00:55:15]
+tener de golpeo de te
+
+[00:55:17]
+profit eso tiene que ver
+
+[00:55:20]
+también entonces ahora yo Les recomiendo
+
+[00:55:23]
+que hagan un plan los que no lo tengan
+
+[00:55:26]
+los que que ya lo tengan los pueden
+
+[00:55:27]
+perfeccionar si quieren si gustan si les
+
+[00:55:29]
+espero que les sirva de de de mucha
+
+[00:55:32]
+ayuda que ya no va tín con esto y que ya
+
+[00:55:35]
+no ande hayaa personas preguntando dónde
+
+[00:55:38]
+voy a salir Gustavo
+```

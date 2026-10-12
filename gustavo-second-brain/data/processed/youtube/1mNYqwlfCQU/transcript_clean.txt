@@ -1,0 +1,1370 @@
+[00:00:00]
+Hey, ¿qué pasa a todos amigos de
+
+[00:00:01]
+YouTube? Estamos en un nuevo video, esta
+
+[00:00:03]
+vez, claro que sí, trayéndoles un
+
+[00:00:04]
+contenido superbonito. Espero que les
+
+[00:00:06]
+estén encantando todos los videos. Si es
+
+[00:00:08]
+así, todos los videos que se están
+
+[00:00:09]
+viniendo en este canal. Si es así,
+
+[00:00:11]
+suscríbete, deja tu me gusta que estamos
+
+[00:00:14]
+empujando hacia los 10,000 suscriptores,
+
+[00:00:16]
+deja tu like, sígueme en todas mis redes
+
+[00:00:18]
+sociales que se encuentran abajo en la
+
+[00:00:19]
+descripción de este video, en la más
+
+[00:00:21]
+importante Instagram. Sígueme en
+
+[00:00:23]
+Instagram. Y bueno, vamos a estar
+
+[00:00:24]
+empezando ahora con el CRT. Vamos a
+
+[00:00:26]
+estar hablando del CRT más este modelo
+
+[00:00:28]
+de entrada que le llamo CISD
+
+[00:00:31]
+Order Block o un modelo de entrada por
+
+[00:00:33]
+cambio de entrega del precio. La verdad
+
+[00:00:35]
+es que da igual un poco el tecnicismo,
+
+[00:00:37]
+pero pues siempre le tenemos que llamar
+
+[00:00:39]
+un poco de alguna manera las cosas. Este
+
+[00:00:41]
+modelo es un modelo que se usa para
+
+[00:00:44]
+entrar en el CRT con eh un order block o
+
+[00:00:48]
+el famoso order block. Pero hoy te vengo
+
+[00:00:49]
+a explicar cómo exactamente vamos a
+
+[00:00:52]
+entrar exactamente por aquí o cómo
+
+[00:00:54]
+podemos utilizarlo. Ya sabes que siempre
+
+[00:00:56]
+te traigo lo que es la teoría y luego la
+
+[00:00:57]
+práctica para que tú puedas emplearlo en
+
+[00:01:00]
+tus gráficos, le hagas back testing y si
+
+[00:01:02]
+te sirve mucho, pues bueno, eh, mejores
+
+[00:01:05]
+en tu trading para siempre. En CRT
+
+[00:01:07]
+Candle Ranch Theory o teoría de rango de
+
+[00:01:09]
+velas, el CISD es una forma rápida y
+
+[00:01:12]
+objetiva de confirmar el cambio de
+
+[00:01:13]
+intención del mercado. O sea, nosotros
+
+[00:01:16]
+no vamos a entrar luego luego cuando el
+
+[00:01:17]
+precio esté tomando la liquidez.
+
+[00:01:19]
+Nosotros vamos a esperar una
+
+[00:01:20]
+confirmación, un modelo de entrada. Por
+
+[00:01:22]
+ejemplo, precio está tomando la
+
+[00:01:23]
+liquidez, nosotros no vamos a estar
+
+[00:01:25]
+entrando inmediatamente, sino que en una
+
+[00:01:26]
+temporalidad baja vamos a esperar la
+
+[00:01:28]
+confirmación. Se llama cambio interno de
+
+[00:01:31]
+estructura direccional. Esta sería la
+
+[00:01:32]
+definición. o cambio de entrega del
+
+[00:01:34]
+precio o rompimiento de de estructura,
+
+[00:01:38]
+como tú lo quieras llamar. Dicho más
+
+[00:01:39]
+simple es cuando el mercado deja de
+
+[00:01:41]
+hacer lo que venía haciendo, subir o
+
+[00:01:42]
+bajar, y demuestra con velas, no con con
+
+[00:01:45]
+opiniones o con una simple reacción.
+
+[00:01:47]
+¿Cómo se ve en la práctica, el precio
+
+[00:01:49]
+rompe el último bajo o el último alto
+
+[00:01:51]
+relevante? Cierra más allá de ese nivel
+
+[00:01:53]
+y eso indica que los que mandan ya no ya
+
+[00:01:54]
+no mandan. No es que parece que va a
+
+[00:01:56]
+girar, sino que el mercado ya lo
+
+[00:01:57]
+demostró. Bueno, aquí les decía, tenemos
+
+[00:02:00]
+ya el CRT aquí. Aquí el precio toma
+
+[00:02:02]
+liquidez o tiene el CRT. Después de ese
+
+[00:02:05]
+CRT, el precio lo que hace es venir,
+
+[00:02:08]
+manipular, ¿no? Y aquí nosotros, por
+
+[00:02:10]
+ejemplo, si esto es H4 en una
+
+[00:02:12]
+temporalidad de tal vez H1, nosotros
+
+[00:02:14]
+vamos a estar viendo que el precio
+
+[00:02:16]
+cambie de dirección. ¿Cómo vamos a estar
+
+[00:02:18]
+viendo? más o menos visualmente es la
+
+[00:02:20]
+vela contraria a en este caso la vela
+
+[00:02:23]
+contraria aquí visualmente se ve. Y
+
+[00:02:25]
+cuando el precio venga y cierre con
+
+[00:02:27]
+cuerpo, por ejemplo, aquí no sería la
+
+[00:02:29]
+entrada, es hasta que el precio cierre
+
+[00:02:30]
+con cuerpo. Ya cuando cierra con cuerpo
+
+[00:02:32]
+de por fuera de esta vela, esta vela que
+
+[00:02:35]
+sería el famoso order block le llaman
+
+[00:02:36]
+también, es cuando nosotros vamos a
+
+[00:02:38]
+tener una entrada. En este caso aquí hay
+
+[00:02:40]
+veces que también el precio testea y
+
+[00:02:42]
+aquí tenemos una reentrada, pero no
+
+[00:02:44]
+siempre, ¿no? En una continuación, tal
+
+[00:02:45]
+vez por aquí, en esta parte de aquí
+
+[00:02:47]
+también una continuación, pero la
+
+[00:02:49]
+mayoría de las veces va a ser así este
+
+[00:02:51]
+modelo entra. La verdad es que es muy
+
+[00:02:52]
+simple, muy sencillo, no tiene mucho
+
+[00:02:53]
+misterio y mucha gente pues lo utiliza
+
+[00:02:55]
+en 15 minutos con una hora, 4 horas.
+
+[00:02:58]
+Pero si tú no lo has utilizado y no lo
+
+[00:02:59]
+conoces, pues bueno, este va a ser un
+
+[00:03:01]
+video donde te voy a explicar bien bien
+
+[00:03:03]
+cómo se utiliza y cómo puedes tú
+
+[00:03:04]
+aprovecharte esto. Yo creo que esto
+
+[00:03:06]
+sería lo más simple posible que puedo
+
+[00:03:08]
+traerles y ahorita como siempre voy a ir
+
+[00:03:11]
+a darles ejemplos en el mercado para que
+
+[00:03:13]
+tú lo puedas aplicar si no lo estás
+
+[00:03:14]
+aplicando, para que le puedas hacer back
+
+[00:03:16]
+testing, etc., etc.
+
+[00:03:18]
+Bueno, chicos, por aquí les voy a tener
+
+[00:03:20]
+un ejemplo de lo que les estoy hablando
+
+[00:03:22]
+y cómo ustedes podrían usar este modelo.
+
+[00:03:24]
+Este voy a poner ejemplo de 4 horas con
+
+[00:03:26]
+15 minutos, pero ya saben que ustedes
+
+[00:03:28]
+pueden usar todas las temporalidades o
+
+[00:03:29]
+múltiples temporalidades. Ya le traje
+
+[00:03:31]
+una guía o si no se las he traído, va a
+
+[00:03:33]
+salir un video sobre una guía de
+
+[00:03:34]
+temporalidades. Pero miren como aquí,
+
+[00:03:36]
+por ejemplo, ocurre el famoso CRT y cómo
+
+[00:03:39]
+tú eh puedes saber que aquí el precio va
+
+[00:03:41]
+a subir. Miren que voy a usar 4 horas y
+
+[00:03:43]
+15 minutos, ¿no? Vamos a bajarnos a
+
+[00:03:45]
+nuestra vela de 15 minutos. ¿Y dónde
+
+[00:03:47]
+está? va a estar el cambio de entrega
+
+[00:03:48]
+del precio. Mira, voy a poner por detrás
+
+[00:03:51]
+el la vela de 4 horas en este caso.
+
+[00:03:56]
+Y mira, aquí tú tienes la vela de 4
+
+[00:03:57]
+horas. Fíjate que puedes tú entrar en
+
+[00:04:00]
+dos por aquí, ¿no? Una vez que antes de
+
+[00:04:02]
+que esté confirmado el CRT, ¿no? Antes
+
+[00:04:04]
+de que la vela esté confirmada.
+
+[00:04:06]
+Realmente tú todavía no tienes
+
+[00:04:07]
+confirmado, pero esto es una entrada un
+
+[00:04:08]
+poco más agresiva. Para entrar en esa
+
+[00:04:10]
+entrada más agresiva, tú puedes entrar
+
+[00:04:13]
+cuando el precio hace el cambio de
+
+[00:04:14]
+entrega del precio. Miren, va a haber
+
+[00:04:15]
+dos formas, ¿no? Estamos entrando,
+
+[00:04:17]
+acuérdense, antes de que se confirme el
+
+[00:04:19]
+rango de 4 horas, antes de es de manera
+
+[00:04:22]
+más agresiva porque el precio está
+
+[00:04:24]
+sacando la liquidez, pero supuestamente
+
+[00:04:26]
+como el precio purgó la liquidez aquí
+
+[00:04:28]
+nosotros nos vamos a dar cuenta de que
+
+[00:04:30]
+va a cambiar de dirección, no nos vamos
+
+[00:04:31]
+a meter luego luego en la reacción,
+
+[00:04:33]
+vamos a esperar a que cambie de
+
+[00:04:35]
+dirección. Para eso nosotros entonces
+
+[00:04:38]
+vamos a eh buscar el cambio de entrega
+
+[00:04:40]
+del precio.
+
+[00:04:42]
+Bueno, entonces chicos, aquí está el
+
+[00:04:44]
+rango, ¿no? Aquí está el rango, les
+
+[00:04:45]
+decía, miren, pongan mucha atención y
+
+[00:04:48]
+denme el seguimiento para que no se
+
+[00:04:49]
+pierdan. Miren, aquí vamos a tener el
+
+[00:04:51]
+range de 4 horas. Estoy utilizando 4
+
+[00:04:54]
+horas y 15 minutos, pero tú puedes
+
+[00:04:55]
+utilizar varias temporalidades. Ahora,
+
+[00:04:58]
+¿cuál va a ser tu confirmación? Una
+
+[00:04:59]
+entrada aquí agresiva en este punto de
+
+[00:05:01]
+acá. agresivo porque todavía no has
+
+[00:05:03]
+cerrado la vela y no ha confirmado. Eso
+
+[00:05:05]
+va a ser tu primera entrada, tu primer
+
+[00:05:07]
+entry y vas a buscar el cambio de
+
+[00:05:09]
+entrega del precio o el cambio de
+
+[00:05:10]
+dirección del precio. ¿Dónde ocurre el
+
+[00:05:12]
+cambio de dirección del precio? Vamos
+
+[00:05:14]
+allá. Entonces, mira, voy a hacer un
+
+[00:05:16]
+pequeño back testing. Fíjate que ahí el
+
+[00:05:17]
+precio purga la liquidez o saca el
+
+[00:05:20]
+mínimo de la vela anterior. Ya se lleva
+
+[00:05:22]
+la el la vela anterior. Y fíjate que
+
+[00:05:25]
+aquí no existe todavía cambio de entrega
+
+[00:05:27]
+del precio. Acá sí. ¿Qué tiene que hacer
+
+[00:05:29]
+la vela? La vela tiene que cerrar por
+
+[00:05:31]
+encima de la apertura de o del cuerpo de
+
+[00:05:35]
+la vela anterior. Aquí, justo aquí.
+
+[00:05:37]
+Nosotros hasta este punto podemos entrar
+
+[00:05:40]
+de dos maneras. Directamente entrar
+
+[00:05:42]
+cuando la vela cierra o esperar un
+
+[00:05:43]
+retroceso aquí, esperar un pequeño
+
+[00:05:45]
+retroceso más o menos a este punto y
+
+[00:05:47]
+entrar. Cualquiera de las dos opciones
+
+[00:05:49]
+es correcta. Yo puedo decirles que
+
+[00:05:51]
+ustedes pueden entrar aquí. Lo único
+
+[00:05:53]
+malo de este modelo que a veces se usa
+
+[00:05:54]
+mucho es stop loss. Miren, es un stop
+
+[00:05:56]
+loss como muy grande. Entonces, pueden
+
+[00:05:58]
+hacer dos cosas. entrar directamente,
+
+[00:06:00]
+tener un stop loss grande o refinar su
+
+[00:06:03]
+entrada al 50% aproximadamente. Por
+
+[00:06:05]
+ejemplo, miren, aquí el tamaño son 127
+
+[00:06:07]
+puntos. Vamos a poner más o menos 65
+
+[00:06:10]
+puntos, 62, 64, 65. No la refinen tanta
+
+[00:06:14]
+porque el precio les digo que puede
+
+[00:06:15]
+venir a retestear. Eso sería cómo
+
+[00:06:18]
+nosotros entraríamos. Aquí está, por
+
+[00:06:20]
+ejemplo, el cambio de entrega del
+
+[00:06:21]
+precio, justo aquí. O ustedes pueden
+
+[00:06:23]
+esperar el retroceso. Miren, hay veces
+
+[00:06:27]
+que el precio no da retroceso y se va,
+
+[00:06:29]
+pero fíjense que aquí sí dio retroceso,
+
+[00:06:31]
+pero miren, casi fue en la misma punto
+
+[00:06:33]
+de entrada. Y ahora ustedes pueden
+
+[00:06:35]
+apuntar directamente hasta el máximo de
+
+[00:06:37]
+4 horas, ¿no? O hasta el rango que estén
+
+[00:06:38]
+buscando y así tendrían una entrada. O
+
+[00:06:40]
+pueden poner un SL un poquito más
+
+[00:06:42]
+grande, como ustedes se sientan. Ahora
+
+[00:06:44]
+vamos a poner aquí la vela de 4 horas.
+
+[00:06:46]
+En la vela de 4 horas nosotros vamos a
+
+[00:06:50]
+esperar que cierre la vela de 4 horas.
+
+[00:06:51]
+Ya tenemos confirmada la dirección. Ay,
+
+[00:06:53]
+se me fue. Ya tenemos confirmada la
+
+[00:06:55]
+dirección y vamos a esperar el cambio de
+
+[00:06:56]
+entrega del precio. Miren, esta va a ser
+
+[00:06:58]
+nuestro segundo modelo de entrada. Ya
+
+[00:07:00]
+tenemos confirmado el rango de 4 horas.
+
+[00:07:02]
+El do, el objetivo está arriba. Ya lo
+
+[00:07:04]
+vimos confirmado. Fíjense que primero
+
+[00:07:05]
+entré aquí, ahora voy a entrar acá y
+
+[00:07:07]
+vamos a esperar el cambio de entrega del
+
+[00:07:09]
+precio una vez que el precio abra debajo
+
+[00:07:13]
+de la apertura de la siguiente vela.
+
+[00:07:14]
+Entonces, miren, ¿hay cambio entrega del
+
+[00:07:16]
+precio? No, no hay cambio de entrega del
+
+[00:07:18]
+precio. El precio tiene que venir
+
+[00:07:19]
+bajista. Aquí, por ejemplo, esta vela
+
+[00:07:21]
+tiene que romper o cerrar con cuerpo por
+
+[00:07:24]
+encima de esta vela, por encima de aquí.
+
+[00:07:27]
+Esta vela, por ejemplo, no lo hace. Sí
+
+[00:07:29]
+que que por aquí podría usted entrar o
+
+[00:07:32]
+podríamos nosotros entrar, pero para mí
+
+[00:07:34]
+esa vela no me termina de convencer
+
+[00:07:36]
+demasiado, ¿no? Podríamos esperar a
+
+[00:07:39]
+veces también ustedes pueden esperar dos
+
+[00:07:40]
+velas o tres velas, depende de, pero a
+
+[00:07:43]
+mí me gusta que cierre con cuerpo fuerte
+
+[00:07:45]
+y también si puede ser que la vela toma
+
+[00:07:47]
+el bajo de la vela anterior, pues mejor,
+
+[00:07:49]
+¿no? Por ejemplo, como esta vela, ¿no?
+
+[00:07:51]
+Que tome el bajo de la vela anterior.
+
+[00:07:52]
+También ustedes pueden como 15 minutos a
+
+[00:07:55]
+veces es muy mentiroso. Ustedes pueden
+
+[00:07:57]
+esperar una hora o pueden esperar este
+
+[00:08:00]
+40 minutos, una temporalidad un poco más
+
+[00:08:02]
+alta si les da confianza, porque miren,
+
+[00:08:04]
+por ejemplo, este podría haber sido un
+
+[00:08:05]
+cambio de entrega del precio, pero
+
+[00:08:07]
+realmente también el retroceso que había
+
+[00:08:09]
+tenido el precio no es tan elegante o
+
+[00:08:10]
+tan bueno. Entonces, miren, por ejemplo,
+
+[00:08:12]
+aquí esta vela no es esta vela porque no
+
+[00:08:15]
+se ve que el precio sobrepase de manera
+
+[00:08:18]
+categórica el order block aquí, por
+
+[00:08:20]
+ejemplo, y cierre por fuera. Esta vela
+
+[00:08:22]
+te voy a dar sinceridad, sí podría haber
+
+[00:08:24]
+sido esa vela, pero el retroceso también
+
+[00:08:27]
+que había tenido el precio era bastante
+
+[00:08:28]
+pequeñito, o sea, es subjetivo, ¿no? Eh,
+
+[00:08:31]
+puede llegar a ser subjetivo. Esto lo
+
+[00:08:33]
+único ahora que ustedes van a ayudarse
+
+[00:08:35]
+para tener mejores entradas con este
+
+[00:08:37]
+tipo de metodología es la hora del
+
+[00:08:39]
+[música] la hora de entrada, ¿no? Esta,
+
+[00:08:41]
+por ejemplo, es una hora de entrada en
+
+[00:08:42]
+Asia y aquí fíjense que les va a estar
+
+[00:08:44]
+dando la hora de entrada más en la
+
+[00:08:46]
+sección de Londres. Entonces va a ser
+
+[00:08:48]
+mejor en la sección de Londres. Esto ya
+
+[00:08:50]
+sería con confirmación. También hay
+
+[00:08:51]
+veces que ustedes pueden esperar dos
+
+[00:08:53]
+barras, dos velas y no les convence una
+
+[00:08:55]
+sola vela, por ejemplo, aquí que no les
+
+[00:08:57]
+convenzca una sola vela y van a ustedes
+
+[00:08:59]
+poder entrar también ahí. Miren que aquí
+
+[00:09:01]
+va a dar otra reentrada, por ejemplo,
+
+[00:09:03]
+aquí,
+
+[00:09:05]
+aquí da otra reentrada. Cambio, entrega
+
+[00:09:06]
+del precio ahí, ahí pueden entrar. Y
+
+[00:09:09]
+aquí tenemos, podríamos decir que esta
+
+[00:09:11]
+posición larga de aquí, aquí fíjense que
+
+[00:09:13]
+es un SL enorme, más o menos, calculen
+
+[00:09:15]
+un SL al 50%, un SL así, dos o tres RS
+
+[00:09:19]
+en base a los objetivos y pueden tirar
+
+[00:09:21]
+para arriba. Aquí por ejemplo lo mismo,
+
+[00:09:23]
+¿no? En este punto, ¿no? Aquí nos va a
+
+[00:09:25]
+volver a dar otra entrada. Este cambio
+
+[00:09:27]
+entrega el precio por aquí. Fíjense que
+
+[00:09:29]
+aquí pegó un mechazo para abajo, por eso
+
+[00:09:30]
+a veces hay que poner un stop loss pues
+
+[00:09:33]
+decente, no tan pequeño. Pero la idea
+
+[00:09:34]
+sería esta. Miren que voy a ir poniendo
+
+[00:09:36]
+la vela de 4 horas para que ustedes
+
+[00:09:37]
+vayan viendo, ¿no?, oportunidades de
+
+[00:09:39]
+entrar aquí y estamos usando 4 horas y
+
+[00:09:42]
+15 minutos. Voy a ponerles unos ejemplos
+
+[00:09:44]
+bajistas para terminar con broche de oro
+
+[00:09:47]
+este video y que les quede muy claro el
+
+[00:09:48]
+patrón. Igualmente voy a traer este
+
+[00:09:51]
+primer video introductorio de este
+
+[00:09:53]
+modelo y después ustedes déjenme en los
+
+[00:09:55]
+comentarios si quieren que haga back
+
+[00:09:56]
+testing o si quieren que traiga más
+
+[00:09:58]
+ejemplos. Bueno, chicos, por acá estamos
+
+[00:10:00]
+en un gráfico de 8 horas. Voy a usar 8
+
+[00:10:02]
+horas y una hora para explicarles esto.
+
+[00:10:04]
+Lo malo de usar alta temporalidad con
+
+[00:10:06]
+este modelo es que a veces vas a agarrar
+
+[00:10:08]
+muy avanzado el precio, no es lo que no
+
+[00:10:10]
+me gusta, pero ustedes pueden combinar
+
+[00:10:12]
+su una hora con 15 minutos y tal. Miren
+
+[00:10:14]
+que aquí tenemos también un K level, que
+
+[00:10:16]
+es un es un video que ya he traído y no
+
+[00:10:19]
+al canal principal, al canal secundario,
+
+[00:10:21]
+pero ya lo debo de haber traído y si no
+
+[00:10:23]
+va a salir pronto. Aquí tenemos un nivel
+
+[00:10:24]
+importante. Tenemos el CRT, por ejemplo,
+
+[00:10:27]
+aquí en 8 horas y mira como aquí vas a
+
+[00:10:29]
+buscar tu cambio entrega del precio en
+
+[00:10:31]
+una hora o en 15 minutos. En este caso,
+
+[00:10:34]
+fíjate como el precio, el cambio entrega
+
+[00:10:36]
+el precio. Eh, aquí está una barra. Esta
+
+[00:10:38]
+barra no la daría yo como válida. Es
+
+[00:10:41]
+también un rango, Gustavo. También es un
+
+[00:10:43]
+rango, pero bueno, para ver el cambio de
+
+[00:10:44]
+entrega al precio sería aquí, justo
+
+[00:10:46]
+aquí. Lo único que te digo es que, por
+
+[00:10:49]
+ejemplo, ya cuando agarras el cambio de
+
+[00:10:50]
+entrega aquí a veces es mucho SL. Puedes
+
+[00:10:53]
+esperar un retesteo o lo que sea, pero
+
+[00:10:55]
+así sería la entrada, ¿no? Para abajo,
+
+[00:10:56]
+¿no? O buscar tus dos o tres RS o a lo
+
+[00:10:58]
+mejor a buscar este low. Miren que si es
+
+[00:11:01]
+mucho SL ustedes pueden usar un stoplot
+
+[00:11:03]
+más cortito así y tener una entrada más
+
+[00:11:06]
+o menos de este nivel. Pueden buscar 15
+
+[00:11:08]
+minutos también, por ejemplo, cambio de
+
+[00:11:10]
+entrega del precio en 15 minutos. ¿Dónde
+
+[00:11:12]
+sería? Sería cuando el precio pasa por
+
+[00:11:15]
+de por esta vela, por ejemplo, esta vela
+
+[00:11:17]
+bajista aquí, esta vela aquí. Justo ahí
+
+[00:11:20]
+pueden entrar, justo cuando el precio
+
+[00:11:22]
+hizo la manipulación, pero les digo yo
+
+[00:11:24]
+que pueden ir ciclando entre 15 minutos
+
+[00:11:26]
+y una hora, pueden ir bajando o
+
+[00:11:27]
+moviéndose de temporalidad. Y entre esas
+
+[00:11:30]
+temporalidades es que tal, por ejemplo,
+
+[00:11:32]
+mira, aquí si ustedes ustedes ven la
+
+[00:11:35]
+manipulación, ven un CRT, por ejemplo,
+
+[00:11:37]
+que estamos contra la tendencia o contra
+
+[00:11:38]
+la dirección que está llevando ahora el
+
+[00:11:40]
+precio, pero por ejemplo aquí ya tienen
+
+[00:11:41]
+el cambio de entrega del precio. Aquí ya
+
+[00:11:43]
+ustedes, fíjate cómo va a funcionar esto
+
+[00:11:45]
+igualmente aquí, a pesar de que va el
+
+[00:11:48]
+precio en forma de retroceso, a
+
+[00:11:50]
+retroceder 50% o a retroceder un poco,
+
+[00:11:52]
+¿no? Después va a caer. Fíjate que si
+
+[00:11:54]
+cayó porque la dirección del precio ya
+
+[00:11:56]
+era bajista, pero fíjate como igualmente
+
+[00:11:58]
+la confirmación, que es lo que estamos
+
+[00:12:00]
+discutiendo acá, si funciona bastante
+
+[00:12:02]
+bien aquí porque pues me metí en contra
+
+[00:12:04]
+de la dirección principal, ¿no? Que
+
+[00:12:05]
+venía en contra del doll principal.
+
+[00:12:09]
+Aquí, por ejemplo, mira, tú puedes irte,
+
+[00:12:11]
+por ejemplo, también usarlo con una hora
+
+[00:12:13]
+y puedes esperar una vez que el precio
+
+[00:12:15]
+líquidó, puedes esperar a 15 minutos.
+
+[00:12:17]
+Una vez que el precio liquidó y esperas
+
+[00:12:19]
+a 15 minutos y puedes entrar aquí, mira,
+
+[00:12:21]
+justo aquí. Es como entrar en el order
+
+[00:12:23]
+block, justo justo ahí en el order
+
+[00:12:26]
+block, en el order block que se forma.
+
+[00:12:27]
+Por ejemplo, acá, mira, estoy poniendo
+
+[00:12:30]
+ejemplos más así para que ustedes vayan
+
+[00:12:31]
+entendiendo la idea. Cuando el precio
+
+[00:12:33]
+cierra con cuerpo d y entramos en el
+
+[00:12:35]
+order block, por ejemplo, en este
+
+[00:12:37]
+movimiento bajista, ¿no? Aquí el precio
+
+[00:12:39]
+cierra por en ventas y entramos justo
+
+[00:12:43]
+cuando el precio cierre con cuerpo de
+
+[00:12:44]
+aquí, fíjate que no se podría haber
+
+[00:12:46]
+anticipado porque ningún cuerpo cierra,
+
+[00:12:47]
+podríamos que habernos metido más
+
+[00:12:49]
+agresivo. Hay casos así, por ejemplo,
+
+[00:12:51]
+aquí tú dirías, Gustavo, pues para
+
+[00:12:54]
+esperar a que la vela tierra ya va hasta
+
+[00:12:55]
+acá. Sí, pero aquí te tienes que meter
+
+[00:12:57]
+mientras la vela ya está haciendo close
+
+[00:13:00]
+o está cerrando, ¿no? Aquí, por ejemplo,
+
+[00:13:03]
+mira que esta vela cumple porque cierra
+
+[00:13:05]
+por debajo del cuerpo. Acuérdate que
+
+[00:13:07]
+aquí en el cambio entrega del precio
+
+[00:13:09]
+consideramos el cuerpo. Mira, aquí en el
+
+[00:13:11]
+cuerpo tú puedes entrar directamente
+
+[00:13:13]
+cuando el precio está cerrando con
+
+[00:13:15]
+cuerpo a poquito antes de que la vela
+
+[00:13:17]
+cierre o puedes esperarte a que la que
+
+[00:13:19]
+la vela cierre o puedes esperarte a que
+
+[00:13:21]
+la el precio te esté a esta zona y ahí
+
+[00:13:23]
+puedes entrar. Esto sería un cambio de
+
+[00:13:25]
+entrega del precio de alcista a bajista,
+
+[00:13:27]
+¿no? Hay veces que va a haber estas
+
+[00:13:28]
+velas como en medio de que pueden
+
+[00:13:30]
+llegarte a confundir, pero si ya te
+
+[00:13:31]
+traes tu dirección bajista o altista, no
+
+[00:13:34]
+creo que o no deberías de tener muchos
+
+[00:13:36]
+muchos problemas para para las entradas.
+
+[00:13:39]
+Yo espero que les haya gustado y que lo
+
+[00:13:41]
+hayan entendido. Miren, por ejemplo,
+
+[00:13:43]
+aquí tengo un rango de 4 horas. Miren,
+
+[00:13:45]
+tengo un rango de 4 horas. Aquí yo puedo
+
+[00:13:48]
+entrar cuando el precio está liquidando
+
+[00:13:50]
+el máximo de la vela anterior de 4 horas
+
+[00:13:52]
+o puedo entrar en la confirmación. Mira,
+
+[00:13:54]
+vamos a hacer el ejercicio antes de irme
+
+[00:13:56]
+por aquí y vamos a ir a nuestros 15
+
+[00:13:58]
+minutos, ¿no? Y en nuestros 15 minutos,
+
+[00:14:00]
+fíjate que yo voy a entrar en el cambio
+
+[00:14:01]
+entrega del precio. Mira, sinceramente,
+
+[00:14:03]
+aquí si tú esperas a que la vela cierre,
+
+[00:14:05]
+ya lo agarras muy continuado el precio,
+
+[00:14:07]
+ya lo agarras como que ah, ya lo agarras
+
+[00:14:09]
+demasiado continuado, ya lo agarras
+
+[00:14:11]
+hasta aquí. Entonces, hay veces que
+
+[00:14:12]
+tienes que entrar más agresivo porque
+
+[00:14:14]
+esto toma liquidez y tienes que entrar
+
+[00:14:16]
+más agresivo cuando ves que está el
+
+[00:14:17]
+precio, en este caso cerrando por
+
+[00:14:19]
+debajo. Sería de el puro cuerpo, no de
+
+[00:14:21]
+la mecha. Cuenta el cuerpo, no más, no
+
+[00:14:23]
+de la mecha. Y aquí, Gustavo, ¿cómo me
+
+[00:14:25]
+meto en continuación? Buena pregunta.
+
+[00:14:28]
+Aquí vas a esperar a que la vela de 4
+
+[00:14:29]
+horas cierre, la siguiente vela abra y
+
+[00:14:32]
+cuando la siguiente vela de 4 horas abra
+
+[00:14:35]
+el mismo modelo por debajo del cuerpo de
+
+[00:14:37]
+Mira que aquí, por ejemplo, estas velas
+
+[00:14:39]
+no están como muy claras, pero esta vela
+
+[00:14:41]
+negra sí está como muy clara. Esta
+
+[00:14:42]
+velita negra que está más a la izquierda
+
+[00:14:44]
+aquí sería como la más clara esta
+
+[00:14:46]
+velita. Y aquí tendríamos la entrada. En
+
+[00:14:48]
+este caso cierra perfecto. Y aquí
+
+[00:14:49]
+tendríamos la siguiente entrada en
+
+[00:14:50]
+venta. ¿Listo? Bueno, yo espero que se
+
+[00:14:53]
+haya entendido bastante. Si no, déjame
+
+[00:14:55]
+en los comentarios si lo entendiste o no
+
+[00:14:57]
+lo entendiste. Y si no es así, si es
+
+[00:15:00]
+así, este, yo estaré trayendo más videos
+
+[00:15:02]
+sobre esto, ¿no? Estaré trayendo más
+
+[00:15:04]
+videos sobre esto y estaré enseñándote,
+
+[00:15:06]
+mira, aquí hay cambios de entrega del
+
+[00:15:08]
+precio. Cambio de entrega del precio,
+
+[00:15:10]
+cambio de entrega del precio para que lo
+
+[00:15:12]
+vayas reconociendo, ¿no? Cambios de
+
+[00:15:14]
+entrega del precio, ¿no? Entonces,
+
+[00:15:16]
+bueno, yo espero que les haya gustado
+
+[00:15:17]
+bastante. Si es así, pues déjame en los
+
+[00:15:19]
+comentarios qué te parece y nos vamos a
+
+[00:15:20]
+estar viendo en un siguiente video.
+
+[00:15:22]
+Hasta la próxima.

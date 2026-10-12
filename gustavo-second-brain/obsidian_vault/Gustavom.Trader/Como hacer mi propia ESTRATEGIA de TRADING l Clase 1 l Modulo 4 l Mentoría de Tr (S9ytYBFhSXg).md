@@ -1,0 +1,820 @@
+---
+source_id: YT_CANAL_02_S9ytYBFhSXg
+video_id: S9ytYBFhSXg
+channel: "Gustavom.Trader"
+published_at: 2024-09-21
+url: https://www.youtube.com/watch?v=S9ytYBFhSXg
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Como hacer mi propia ESTRATEGIA de TRADING l Clase 1 l Modulo 4 l Mentoría de Trading Gratis
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=S9ytYBFhSXg)
+
+## Transcript
+
+```
+[00:00:00]
+pues Hola a todos chicos Bienvenidos a
+
+[00:00:01]
+un nuevo episodio de nuestra mentoría
+
+[00:00:04]
+gratuita 2024 ya estamos en el módulo 4
+
+[00:00:07]
+esta vez con la clase número uno para
+
+[00:00:09]
+todos ustedes y es parámetros de una
+
+[00:00:13]
+estrategia Qué es lo que tiene que tener
+
+[00:00:15]
+mi estrategia Cuáles son los puntos más
+
+[00:00:17]
+importantes para que ustedes puedan
+
+[00:00:19]
+desarrollar su propia estrategia y para
+
+[00:00:22]
+que tengan una estrategia sobre todo
+
+[00:00:24]
+objetiva que te digan todo tiempo cuando
+
+[00:00:26]
+entrar cuando salir criterios
+
+[00:00:27]
+principales que tomaremos en cuenta a la
+
+[00:00:30]
+hora de tener una estrategia motivo de
+
+[00:00:33]
+entrada principal el motivo de entrada
+
+[00:00:36]
+Qué es Gustavo el motivo de entrada va a
+
+[00:00:38]
+ser lo que nos lleva a nosotros a
+
+[00:00:40]
+ejecutar una entrada Cuál es qué tiene
+
+[00:00:43]
+que hacer el precio qué tiene que hacer
+
+[00:00:45]
+el precio para poder tomar una entrada
+
+[00:00:48]
+el rci tiene que estar sobrevendido en
+
+[00:00:50]
+70 y luego romper estructura y luego
+
+[00:00:54]
+este eso es el motivo de entrada es es
+
+[00:00:57]
+un ejemplo no más verad eh cuáles son
+
+[00:01:00]
+Los criterios que tú vas a tomar para
+
+[00:01:02]
+poder tener una entrada algo muy
+
+[00:01:05]
+importante con lo que es la lógica de la
+
+[00:01:07]
+estrategia es que una estrategia tiene
+
+[00:01:09]
+que ser siempre lo mayor objetivo que se
+
+[00:01:12]
+pueda si tú no tienes objetividad en tu
+
+[00:01:15]
+estrategia vas a fallar objetividad es
+
+[00:01:18]
+no dejar nada suelto O sea no dejar nada
+
+[00:01:21]
+puede ser o no puede ser es un uno a dos
+
+[00:01:24]
+o es un uno a tres no puedes decir
+
+[00:01:27]
+algunas veces uno a dos o algunas veces
+
+[00:01:29]
+es uno a tres bueno es uno a dos cuando
+
+[00:01:31]
+hace esto es uno a tres cuando hace esto
+
+[00:01:33]
+pero es objetivo no está ahí al aire no
+
+[00:01:37]
+más luego después es dónde colocar tu
+
+[00:01:39]
+stop loss siempre cuando al menos yo
+
+[00:01:42]
+siempre enseño a usar stop loss yo no
+
+[00:01:44]
+tengo estrategia eh para no usar stop
+
+[00:01:46]
+loss si hay alguien que le gusta no usar
+
+[00:01:48]
+stop loss pues puede hacerlo Pero al
+
+[00:01:50]
+menos yo siempre eh tradeo con stop loss
+
+[00:01:53]
+dónde colocar el Stop loss dónde colocas
+
+[00:01:55]
+el Take profit cuando poner o no break
+
+[00:01:59]
+even vas a poner no vas a poner break
+
+[00:02:00]
+even a tus operaciones vas a hacer la
+
+[00:02:03]
+gestión de un Trade Cómo vas a gestionar
+
+[00:02:05]
+ese Trade es bien importante cuándo
+
+[00:02:08]
+entrar y cuándo no entrar es bien
+
+[00:02:10]
+importante también que sea objetivo
+
+[00:02:12]
+cuándo no debes de estar dentro del
+
+[00:02:14]
+mercado Y cuándo debes de estar dentro
+
+[00:02:16]
+luego tenemos El séptimo paso que es lo
+
+[00:02:18]
+que yo llamo frecuencia de golpeo Qué
+
+[00:02:21]
+significa esto frecuencia de golpeo
+
+[00:02:23]
+Cuántos trads vas a estar haciendo al
+
+[00:02:25]
+día la semana en la sesión es Cuántas
+
+[00:02:29]
+veces vas a estar bateando tú la pelota
+
+[00:02:32]
+cuántos tiros tienes Cuántas
+
+[00:02:33]
+oportunidades eso lo tienes que decidir
+
+[00:02:35]
+tú antes de una semana de trading antes
+
+[00:02:39]
+de un día de trading todos est tipo de
+
+[00:02:41]
+reglas tú las tienes que tener ya
+
+[00:02:43]
+predichas
+
+[00:02:44]
+preestablecidas antes de entrar un Trade
+
+[00:02:47]
+no puedo andar inventándome nada a la
+
+[00:02:49]
+hora de que ya entré en el Trade no
+
+[00:02:51]
+puedo inventarme el Stop loss el Take
+
+[00:02:53]
+profit eso es un error s super grave eh
+
+[00:02:57]
+luego por último tenemos Horizonte
+
+[00:02:59]
+temporal Qué tipo de operativa quiero
+
+[00:03:01]
+hacer qué parte en el mercado quiero
+
+[00:03:03]
+hacer yo les siempre les digo a mis
+
+[00:03:05]
+alumnos enfóquense en una sola cosa no
+
+[00:03:08]
+puedes estar para allá para allá para
+
+[00:03:10]
+acá para allá agarro hago swing un día
+
+[00:03:12]
+hago intradía otro día hago scalping
+
+[00:03:14]
+otro día no puedes estar haciendo eso sí
+
+[00:03:17]
+Hay traders que lo hacen y se puede
+
+[00:03:19]
+llegar a hacer pero cuando tú estás
+
+[00:03:21]
+comenzando lo mejor es enfocarte en una
+
+[00:03:24]
+sola forma de hacer trading scalping
+
+[00:03:26]
+swing intradía la mayoría de los traders
+
+[00:03:28]
+profesionales que ustedes vayan a ver
+
+[00:03:30]
+van a estar enfocados en un solo modelo
+
+[00:03:32]
+de trading luego después tenemos rasgos
+
+[00:03:35]
+principales de una estrategia al
+
+[00:03:36]
+desarrollar una estrategia de trading es
+
+[00:03:38]
+crucial considerar varios parámetros que
+
+[00:03:41]
+pueden influir en su eficacia y
+
+[00:03:43]
+rentabilidad lo primer punto que
+
+[00:03:45]
+considero importante tipo de estrategia
+
+[00:03:47]
+o tipo de trading que quiero hacer
+
+[00:03:49]
+intradía operaciones abiertas y cerradas
+
+[00:03:51]
+dentro del mismo día corto plazo
+
+[00:03:53]
+operaciones mantenidas por días a
+
+[00:03:55]
+semanas mediano plazo operaciones
+
+[00:03:57]
+mantenidas por semanas a meses un largo
+
+[00:04:00]
+plazo operaciones mantenidas por meses a
+
+[00:04:03]
+años Okay este es el tipo de trading o
+
+[00:04:06]
+una idea del tipo de trading que tú
+
+[00:04:08]
+quisieras hacer tienes que identificarte
+
+[00:04:10]
+con el modelo de trading que tú quieres
+
+[00:04:12]
+hacer yo actualmente Les comparto hago
+
+[00:04:13]
+swing swing trading operaciones
+
+[00:04:16]
+mantenidas por días a semanas un corto
+
+[00:04:19]
+plazo tampoco hago un swing trading tan
+
+[00:04:21]
+largo como hay alguna gente que hace un
+
+[00:04:23]
+swing muy larguísimo Yo no yo soy como
+
+[00:04:26]
+que mis operaciones suelen durar entre
+
+[00:04:28]
+un a TR días cu días 5co días como
+
+[00:04:31]
+máximo verdad por qué Porque me
+
+[00:04:33]
+identifiqué con ese modelo de trading
+
+[00:04:35]
+verdad hay personas que se van a
+
+[00:04:36]
+identificar con un modelo de trading más
+
+[00:04:38]
+corto menos corto cada una de estas
+
+[00:04:40]
+modalidades tienen sus pros y sus
+
+[00:04:43]
+contras y es importante que las estudies
+
+[00:04:45]
+y que veas Cuáles fortalezas y
+
+[00:04:47]
+debilidades tienen hacer cada tipo de
+
+[00:04:49]
+operativa la otra es selección de El
+
+[00:04:52]
+activo qué vas a estar tradeando yo
+
+[00:04:55]
+siempre Les recomiendo a las personas
+
+[00:04:56]
+que se enfoquen en un solo activo aunque
+
+[00:04:59]
+no tiene que ser así he visto gente
+
+[00:05:00]
+rentable que tradea muchos activos y le
+
+[00:05:02]
+va bien pero yo siempre les digo Quédate
+
+[00:05:05]
+con algo eh recomendable que te quedes
+
+[00:05:08]
+con algo para que a partir de ahí te
+
+[00:05:09]
+puedas especializar puedes seleccionar
+
+[00:05:12]
+acciones empresas específicas forex pare
+
+[00:05:14]
+de Divisas futuros contrato sobre
+
+[00:05:16]
+commodities índices que es lo que yo
+
+[00:05:18]
+hago actualmente Por ejemplo yo hago
+
+[00:05:19]
+nasdaq eh que es un índice criptomonedas
+
+[00:05:22]
+como bitcoin ethereum eh acá están los
+
+[00:05:24]
+índices sp500 nasdaq us30 ya hay
+
+[00:05:28]
+muchísimos activos el que más te guste
+
+[00:05:30]
+el que más se adapte a tu personalidad
+
+[00:05:32]
+el que veas que te va mejor en ese
+
+[00:05:35]
+enfócate en el que tu estrategia también
+
+[00:05:37]
+sea mejor tres tenemos el tipo de
+
+[00:05:39]
+análisis Conocer bien mi metodología y
+
+[00:05:42]
+no mezclarla con otras es bien
+
+[00:05:45]
+importante Conocer bien la metodología y
+
+[00:05:47]
+no estar mezclándola con otras
+
+[00:05:48]
+metodologías enfocarse en una sola
+
+[00:05:50]
+estrategia enfocarse en un solo método
+
+[00:05:54]
+luego tenemos cuatro el análisis
+
+[00:05:56]
+fundamental que aunque Considero que no
+
+[00:05:58]
+es necesario para poder ser rentable en
+
+[00:06:00]
+el trading siempre que tú estudies
+
+[00:06:02]
+análisis fundamental te va a ayudar te
+
+[00:06:04]
+va a sumar en lugar de restarte ya no es
+
+[00:06:07]
+necesario para ser rentable pero siempre
+
+[00:06:10]
+suma más o ayuda más que restar que te
+
+[00:06:12]
+vaya a restar datos financieros ingresos
+
+[00:06:15]
+de beneficios ratios financieros
+
+[00:06:17]
+estadística eventos económicos noticias
+
+[00:06:19]
+sentimiento del mercado es importante
+
+[00:06:21]
+que tú tengas una noción por lo menos de
+
+[00:06:24]
+lo que de lo que puede hacer el los
+
+[00:06:26]
+fundamentales yo actualmente fíjense que
+
+[00:06:29]
+no tengo tanto conocimiento en
+
+[00:06:30]
+fundamentales pero sí me me interesa
+
+[00:06:33]
+este ir aprendiendo un poco más y estoy
+
+[00:06:36]
+día con día estudiando más análisis
+
+[00:06:39]
+fundamental porque creo que está
+
+[00:06:41]
+ayudando bastante a mi trading Aunque yo
+
+[00:06:43]
+Considero que no necesitas un análisis
+
+[00:06:45]
+fundamental para poder este operar 100%
+
+[00:06:49]
+Pero sí te va a ayudar más gestión de
+
+[00:06:51]
+riesgos tamaño de tu posición proporción
+
+[00:06:53]
+del capital invertido en cada operación
+
+[00:06:55]
+el Stop loss nivel de precio en el que
+
+[00:06:57]
+se cierra una operación para limitar
+
+[00:06:59]
+pérdidas Take profit nivel de beneficio
+
+[00:07:01]
+en el que se cierra una operación para
+
+[00:07:02]
+asegurar ganancias y la relación riesgo
+
+[00:07:05]
+beneficio evaluar si es posible ganancia
+
+[00:07:07]
+Just justifica el riesgo asumido si la
+
+[00:07:09]
+ganancia justifica el riesgo asumido es
+
+[00:07:11]
+bien importante que tú vayas midiendo tu
+
+[00:07:13]
+estrategia con un stop los más grande un
+
+[00:07:16]
+stop loss más pequeño un Take profit más
+
+[00:07:18]
+grande un Take profit más pequeño si vas
+
+[00:07:21]
+a arriesgar más si vas a arriesgar menos
+
+[00:07:24]
+es bien importante que estés testeando
+
+[00:07:26]
+todo eso en tu estrategia y tienes que
+
+[00:07:28]
+tirarte muchas horas probando probando
+
+[00:07:31]
+diferentes parámetros que te vayan bien
+
+[00:07:33]
+que te vayan mejor vas a poder estar
+
+[00:07:35]
+tradeando después te voy a enseñar Cómo
+
+[00:07:37]
+vas hacer el proceso de analizar cada
+
+[00:07:39]
+uno de estos datos En las siguientes
+
+[00:07:41]
+clases y al analizar todos esos datos
+
+[00:07:43]
+vas a poder estar testeando todos estos
+
+[00:07:45]
+parámetros que te estoy diciendo por acá
+
+[00:07:47]
+luego ya tenemos lo que es la psicología
+
+[00:07:49]
+del trading o del Trader es bien
+
+[00:07:51]
+importante también la psicología del
+
+[00:07:53]
+trading disciplina en seguir
+
+[00:07:55]
+estrictamente las reglas de trading un
+
+[00:07:57]
+control correcto un control emocional de
+
+[00:07:59]
+un Trader profesional no andar con miedo
+
+[00:08:01]
+a la hora que tú entras a una operación
+
+[00:08:03]
+no andar ahí nervioso Entonces es
+
+[00:08:05]
+importante que te estudies En dónde
+
+[00:08:07]
+tienes miedo En dónde tienes exceso de
+
+[00:08:09]
+confianza cada una de las emociones que
+
+[00:08:11]
+en tienes mantener la calma bajo presión
+
+[00:08:13]
+evitando decisiones impulsivas paciencia
+
+[00:08:15]
+y persistencia no esperar resultados
+
+[00:08:17]
+inmediatos y aprender de los errores
+
+[00:08:20]
+luego tenemos estrategias específicas
+
+[00:08:22]
+Bueno aquí enumero un poquito más
+
+[00:08:24]
+específico lo que es cada una que es el
+
+[00:08:26]
+scalp muchas operaciones pequeñas
+
+[00:08:28]
+buscando aprovechar movi minúsculos
+
+[00:08:30]
+Aunque aquí hago un paréntesis porque el
+
+[00:08:32]
+scalping no es sinónimo de Buscar muchas
+
+[00:08:35]
+operaciones puedes tú hacer un Trade al
+
+[00:08:38]
+día o dos trades al día en forma de
+
+[00:08:40]
+scalping y también te puede ir bastante
+
+[00:08:42]
+bien acá lo que tienes que hacer es
+
+[00:08:43]
+probar probar esto es probar y probar
+
+[00:08:46]
+hasta que veas lo que mejor te viene a
+
+[00:08:48]
+ti tn trading capturar movimientos de
+
+[00:08:50]
+precio intermedios a un periodo de
+
+[00:08:52]
+varios días a semanas trading de
+
+[00:08:54]
+tendencia seguir la dirección general eh
+
+[00:08:56]
+de Mercado en un periodo prolongado esto
+
+[00:08:58]
+también tienes que estudiar tu
+
+[00:08:59]
+estrategia es mejor en tendencias es
+
+[00:09:01]
+mejor contratendencias es mejor en
+
+[00:09:03]
+rangos es peor tienes que estudiar cada
+
+[00:09:06]
+uno de este tipo de parámetros
+
+[00:09:08]
+contratendencia como les decía operar
+
+[00:09:09]
+contratendencia principal buscando
+
+[00:09:11]
+reversiones y ya tenemos Por último el
+
+[00:09:14]
+ocho evaluación y mejora continua
+
+[00:09:16]
+registro de operaciones documentar todas
+
+[00:09:17]
+las operaciones por análisis posterior
+
+[00:09:20]
+el Back testing probar la estrategia en
+
+[00:09:22]
+datos históricos evaluar su rendimiento
+
+[00:09:24]
+y luego ya después por último tendríamos
+
+[00:09:26]
+ajustes y optimización modificar
+
+[00:09:27]
+parámetros en función de los ados de un
+
+[00:09:30]
+Back testing y la experiencia tuya que
+
+[00:09:33]
+vamos a hablar en las siguientes clases
+
+[00:09:34]
+que es bien importante que no te las
+
+[00:09:36]
+pierdas sobre la evaluación de una
+
+[00:09:38]
+estrategia Cómo vas a ir tú midiendo
+
+[00:09:40]
+cada uno de estos resultados gracias por
+
+[00:09:42]
+haber estado aquí gracias por escucharme
+
+[00:09:43]
+si tienes alguna duda o pregunta te leo
+
+[00:09:45]
+en los comentarios de este video si
+
+[00:09:47]
+quieres una asesoría personalizada me
+
+[00:09:49]
+puedes mandar un mensaje en WhatsApp que
+
+[00:09:51]
+se encuentra en la descripción o también
+
+[00:09:52]
+me puedes mandar un mensaje por
+
+[00:09:53]
+Instagram Gustavo m. Trader Sígueme por
+
+[00:09:56]
+allá y nos vemos en un próximo video
+
+[00:09:57]
+Adiós chicos
+```

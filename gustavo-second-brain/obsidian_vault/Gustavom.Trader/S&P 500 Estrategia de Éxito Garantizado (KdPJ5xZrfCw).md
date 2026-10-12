@@ -1,0 +1,805 @@
+---
+source_id: YT_CANAL_02_KdPJ5xZrfCw
+video_id: KdPJ5xZrfCw
+channel: "Gustavom.Trader"
+published_at: 2024-03-06
+url: https://www.youtube.com/watch?v=KdPJ5xZrfCw
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# S&P 500: Estrategia de Éxito Garantizado
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=KdPJ5xZrfCw)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Qué pasa a todos amigos de YouTube
+
+[00:00:02]
+estamos aquí en un nuevo video el día de
+
+[00:00:04]
+hoy Les vengo a traer estrategia para el
+
+[00:00:07]
+sp500 estrategia intradía Vamos allá con
+
+[00:00:11]
+las reglas y todo lo que tienes que
+
+[00:00:12]
+saber sobre esta estrategia Pues bueno
+
+[00:00:15]
+tenemos un poquito de reglas para esta
+
+[00:00:18]
+estrategia horario de 10 a 11 en New
+
+[00:00:21]
+York en índices principalmente funciona
+
+[00:00:23]
+así en otros pares ya les había dicho
+
+[00:00:25]
+que también los eh las sesiones o los
+
+[00:00:28]
+horarios alternativos en este caso de
+
+[00:00:31]
+Londres también funciona bastante bien
+
+[00:00:32]
+pero en este caso en sp5500 Funciona muy
+
+[00:00:35]
+bien de 10 a 11 que son los ejemplos que
+
+[00:00:37]
+vamos a estar viendo indicador cber
+
+[00:00:39]
+Bullet o ict Cyber Bullet de lux algo
+
+[00:00:43]
+temporalidades h1 y m15 Aunque ustedes
+
+[00:00:46]
+van a ver que principalmente utilizo las
+
+[00:00:48]
+temporalidades de m5 y d M1 identificar
+
+[00:00:51]
+o tratar de ir a favor de la tendencia
+
+[00:00:53]
+aunque no siempre se puede pero de
+
+[00:00:54]
+preferencia esto identificar puntos de
+
+[00:00:57]
+interés y liquidez y buscar en entrada
+
+[00:01:00]
+en M1 y m5 y a través de un order Flow
+
+[00:01:04]
+confirmaciones A través de un order Flow
+
+[00:01:06]
+e imbalances cómo funciona entonces
+
+[00:01:09]
+modelo para vender Esperamos que el
+
+[00:01:12]
+mercado diseñe liquidez en este caso
+
+[00:01:14]
+diseñe la forme y después la tome o la
+
+[00:01:17]
+purgue o se la lleva o barra saque la
+
+[00:01:19]
+escobita y después de eso nosotros vamos
+
+[00:01:22]
+a estar buscando un order Flow en contra
+
+[00:01:25]
+o a favor de esa estructura contraria a
+
+[00:01:28]
+tomar la liquidez que tenía que o o la
+
+[00:01:31]
+liquidez que forme en la parte contraria
+
+[00:01:33]
+del gráfico en este caso también para
+
+[00:01:35]
+compras Esperamos que el mercado tome
+
+[00:01:37]
+esta liquidez o la diseñe y Estamos
+
+[00:01:40]
+buscando que el mercado haga un reversal
+
+[00:01:42]
+con confirmaciones de order Flow en las
+
+[00:01:44]
+temporalidades menores para ir a tratar
+
+[00:01:47]
+de romper o Buscar esa liquidez facilito
+
+[00:01:51]
+muy facilito muy sencilla la estrategia
+
+[00:01:53]
+Vamos allá con ejemplos Pues bueno
+
+[00:01:56]
+chicos ya estamos aquí en el gráfico del
+
+[00:01:59]
+sp500 tenemos horario de 10 a 11 am hora
+
+[00:02:02]
+de New York gráfico de un minuto
+
+[00:02:04]
+principalmente no me estoy moviendo yo a
+
+[00:02:06]
+gráficos mayores porque a veces no no lo
+
+[00:02:09]
+necesito eh pero ustedes se pueden estar
+
+[00:02:12]
+moviendo entre 15 una hora 5 y M1 qué
+
+[00:02:15]
+vemos aquí pues vemos facilito la
+
+[00:02:17]
+formación de toda esta liquidez que
+
+[00:02:19]
+estaba por esta parte toda esta liquidez
+
+[00:02:22]
+el mercado ha hecho una purga de esa
+
+[00:02:24]
+liquidez nosotros vamos a estar buscando
+
+[00:02:26]
+un retroceso que nos lleve a tar nuestra
+
+[00:02:30]
+entrada con un ratio riesgo beneficio de
+
+[00:02:31]
+uno a dos uno a tres uno a uno está
+
+[00:02:34]
+bastante bien tenemos la toma de
+
+[00:02:35]
+liquidez ahí tenemos un pequeño
+
+[00:02:37]
+retroceso no es suficiente tenemos que
+
+[00:02:39]
+formar un order Flow el mercado Qué hace
+
+[00:02:41]
+tomar de nuevo esta liquidez y romperme
+
+[00:02:44]
+este punto estructural
+
+[00:02:58]
+creándole rechazó este nivel Yo podría
+
+[00:03:01]
+haber estado entrando en la ruptura de
+
+[00:03:03]
+ese nivel Okay entrada a en la ruptura
+
+[00:03:06]
+de esta estructura interna acá nos
+
+[00:03:09]
+protegemos y tomamos esta entrada a la
+
+[00:03:12]
+alza en este caso a buscar la B
+
+[00:03:16]
+liquidity que era esta liquidez que
+
+[00:03:18]
+estaba en esta parte ahí podríamos haber
+
+[00:03:20]
+tomado esa entrada esto que nos quedaba
+
+[00:03:22]
+1
+
+[00:03:22]
+2.66 o podríamos haber entrado en la
+
+[00:03:25]
+ruptura de esta estructura de este nivel
+
+[00:03:28]
+estructural de acá mayor y nos
+
+[00:03:30]
+hubiéramos protegido por debajo de este
+
+[00:03:32]
+mínimo está bastante bien y hubiéramos
+
+[00:03:34]
+tomado una entrada más o menos un uno a
+
+[00:03:35]
+dos también igualmente eso Podrían haber
+
+[00:03:37]
+sido los dos modelos de entrada de ese
+
+[00:03:40]
+día después de barrer esa liquidez
+
+[00:03:43]
+acuérdense que eh También pueden usar
+
+[00:03:46]
+patrones de Vela algún indicador extra
+
+[00:03:49]
+no sé yo uso order Flow simplemente y
+
+[00:03:52]
+espero que el mercado se empiece
+
+[00:03:53]
+configurar a la alza de nuevo para estar
+
+[00:03:55]
+buscando esa reversión eh vamos con otro
+
+[00:03:59]
+ejemplo miren chicos lo que tenemos para
+
+[00:04:02]
+este día día 08 o 8 de diciembre del
+
+[00:04:06]
+2023 vemos que el mercado ha pulgado ha
+
+[00:04:09]
+tomado toda esta liquidez nos hizo un
+
+[00:04:10]
+pequeño inducement aquí lo que lo cual
+
+[00:04:13]
+nos dejaría esta zona como un punto de
+
+[00:04:15]
+interés ya está configurado alcista y
+
+[00:04:18]
+podríamos haber estado tomando la
+
+[00:04:20]
+reversión después de la toma de liquidez
+
+[00:04:22]
+o también la compra tanto la compra como
+
+[00:04:24]
+la venta estaba bastante bien este día
+
+[00:04:26]
+qué esperamos entonces en este día que
+
+[00:04:28]
+el mercado nos deje un inbalance en este
+
+[00:04:31]
+caso una ineficiencia para los
+
+[00:04:33]
+compradores el mercado que hace es
+
+[00:04:35]
+rompernos estas pequeñas estructuras en
+
+[00:04:37]
+este caso esas estructuras internas y
+
+[00:04:39]
+luego nos da una venta ahí pero no
+
+[00:04:42]
+estaba tan confirmada Gustavo verdad no
+
+[00:04:44]
+estaba está bien pero no está tan bien
+
+[00:04:47]
+porque tenemos simplemente un impulso
+
+[00:04:49]
+una ruptura un retroceso pero yo hubiera
+
+[00:04:52]
+podido esperar otro nuevo retroceso en
+
+[00:04:55]
+este caso para intentar venderlo verdad
+
+[00:04:58]
+Entonces eh Cuál cualquiera tanto si
+
+[00:05:00]
+Hubieras entrado un poquito de riesgo en
+
+[00:05:02]
+esta ruptura o como si hubieras esperado
+
+[00:05:04]
+un nuevo retroceso estaba bastante bien
+
+[00:05:06]
+aunque el mercado no lo dio Okay eso
+
+[00:05:09]
+sería la venta y la compra en este caso
+
+[00:05:12]
+ya que el mercado purgo esa liquidez me
+
+[00:05:14]
+dejó este punto de interés y vamos a
+
+[00:05:17]
+estar buscando una compra en ese punto
+
+[00:05:19]
+de ahí es igual de nuevo Esperamos que
+
+[00:05:22]
+el precio me haga un nuevo impulso
+
+[00:05:24]
+retroceso y estaríamos buscando nuestra
+
+[00:05:27]
+entrada al alza impulso retroceso
+
+[00:05:30]
+impulso retroceso y ahí estaríamos
+
+[00:05:32]
+buscando nuestra entrada a la alza en
+
+[00:05:34]
+este caso Yo estaría entrando en el
+
+[00:05:36]
+segundo a mí me gusta que sean dos
+
+[00:05:38]
+rupturas de Estructura No me gusta
+
+[00:05:40]
+entrar tan tan ajustado tan sí tan
+
+[00:05:44]
+ajustado en este caso eh Porque luego eh
+
+[00:05:49]
+No entramos tan confirmados en este caso
+
+[00:05:51]
+como aquí hice un impulso retroceso me
+
+[00:05:53]
+haba gustado que hiciera otro otro
+
+[00:05:54]
+retroceso para poder entrar aquí por
+
+[00:05:56]
+ejemplo hizo dos y aquí sí me gustó un
+
+[00:05:58]
+poquito mejor es ese día sería tanto
+
+[00:06:01]
+ventas como compras en ese horario
+
+[00:06:03]
+Porque nos dio la toma de liquidez acá y
+
+[00:06:05]
+aquí simplemente por un retroceso en un
+
+[00:06:08]
+punto de interés verdad pero también
+
+[00:06:10]
+pues teníamos la la toma de liquidez
+
+[00:06:13]
+eh interna pero lo mejor es tomar
+
+[00:06:16]
+liquidez de este lado y después de tomar
+
+[00:06:18]
+liquidez de ese lado es entrar vamos con
+
+[00:06:21]
+un ejemplo un poquito diferente Pues
+
+[00:06:24]
+bueno chicos estamos aquí el día jueves
+
+[00:06:26]
+7 de diciembre del 2023 horario de 4m
+
+[00:06:30]
+New York sesión de London okay Para que
+
+[00:06:33]
+ustedes vean que también funciona la
+
+[00:06:35]
+sesión de London fíjense qué hacemos
+
+[00:06:37]
+liquidamos ahí esos niveles y también
+
+[00:06:40]
+acá qué hacemos liquidamos acá estos
+
+[00:06:43]
+niveles y nos da una entrada tanto a la
+
+[00:06:45]
+alza como a la baja eh o Entonces vamos
+
+[00:06:49]
+a ver precisamente este en este caso
+
+[00:06:51]
+este Rango asiático el precio toma los
+
+[00:06:53]
+lows y se impulsa la alza aunque esta
+
+[00:06:56]
+entrada fue un poquito después del
+
+[00:06:58]
+horario verdad pero la que sí estuvo
+
+[00:07:01]
+dentro del horario fue esta qué hacemos
+
+[00:07:04]
+el precio Qué hace el precio tomar esta
+
+[00:07:06]
+liquidez después de tomar esta liquidez
+
+[00:07:08]
+qué viene y hace rompe estructuras
+
+[00:07:11]
+después de romper esas estructuras se
+
+[00:07:13]
+impulsa de nuevo hace un retroceso acá
+
+[00:07:15]
+la alta y aquí en la generación de estos
+
+[00:07:18]
+imbalances en este caso en estos
+
+[00:07:19]
+imbalances es donde yo hubiera buscado
+
+[00:07:22]
+mi order Flow bajista porque ya sé que
+
+[00:07:24]
+el precio dejó de entregar a la alza
+
+[00:07:27]
+porque esto no es una es simplemente una
+
+[00:07:29]
+toma de liquidez Y si dejó de entrar a
+
+[00:07:31]
+la alza Y tenemos un marker structure
+
+[00:07:33]
+chif o una roptura de estructura
+
+[00:07:35]
+posiblemente el mercado distribuya hacia
+
+[00:07:37]
+la liquidez previa que tenía capa acá
+
+[00:07:40]
+abajo entonces ya tendríamos esta
+
+[00:07:42]
+liquidez por la parte baja y tendríamos
+
+[00:07:44]
+esta distribución qué vemos entonces ahí
+
+[00:07:46]
+les voy a marcar aquí vemos este fractal
+
+[00:07:49]
+este fractal vemos un impulso un
+
+[00:07:51]
+retroceso un nuevo retroceso un nuevo
+
+[00:07:55]
+retroceso y para abajo en este caso ya
+
+[00:07:58]
+saben que a mí me gusta encontrar un
+
+[00:08:00]
+order Flow ya formadito aquí simplemente
+
+[00:08:02]
+tenemos un impulso in retroceso pero
+
+[00:08:04]
+aquí ya tenemos un nuevo order Flow
+
+[00:08:06]
+formadito donde podríamos haber estado
+
+[00:08:08]
+entrando a la baja en esta parte y aquí
+
+[00:08:10]
+yo hubiera puesto mi posición en short
+
+[00:08:14]
+después de ese retroceso me protejo por
+
+[00:08:16]
+encima del último High y buscamos que el
+
+[00:08:18]
+mercado liquide toda esa liquidity acá
+
+[00:08:22]
+como íbamos un poquito bueno Estaba bien
+
+[00:08:24]
+para vender no estaba mal me hubiera
+
+[00:08:26]
+quedado con esta 1 2.45 en esa
+
+[00:08:29]
+maravillosa entrada vamos con otro
+
+[00:08:31]
+ejemplo mira mira qué bonito es lo
+
+[00:08:34]
+bonito horario de 10 a 11 de New York
+
+[00:08:37]
+sesión de New York miércoles 6 de
+
+[00:08:39]
+diciembre del 2023 qué vemos por aquí
+
+[00:08:43]
+vemos la purga de esa liquidez después
+
+[00:08:46]
+de la purga de esa liquidez no Estamos
+
+[00:08:48]
+en horario no podemos tradear eso pero
+
+[00:08:51]
+después de nuestro horario que vemos que
+
+[00:08:53]
+el precio toma liquidez por acá arriba
+
+[00:08:55]
+la toma y después de la toma nos rompe
+
+[00:08:58]
+la estructura después de rompernos la
+
+[00:09:00]
+estructura ubicamos nuestro target de
+
+[00:09:02]
+liquidez en este caso sería este low que
+
+[00:09:04]
+sería un Target claro aquí teníamos un
+
+[00:09:06]
+poquito de liquidez más abajo pero
+
+[00:09:08]
+estaba un poquito más lejos y después de
+
+[00:09:11]
+nuestro horario fíjate muy bien Qué
+
+[00:09:13]
+tenemos por ahí para que tú puedas ver
+
+[00:09:15]
+varios ejemplos un poquito distintos la
+
+[00:09:17]
+toma de liquidez de esta liquidez
+
+[00:09:20]
+interna que había tenido el precio el
+
+[00:09:22]
+precio que hace toma esa liquidez
+
+[00:09:24]
+interna y ahí tenemos un nueva entrada a
+
+[00:09:27]
+la baja perfecto
+
+[00:09:29]
+donde yo hubiera esperado un order Flow
+
+[00:09:31]
+bajista como no nos hizo un nuevo order
+
+[00:09:33]
+Flow bajista el precio distribuye así
+
+[00:09:37]
+Sencillamente hubiera esperado a que el
+
+[00:09:39]
+precio hiciera esta ruptura de
+
+[00:09:41]
+estructura en esta parte de aquí y en el
+
+[00:09:44]
+próximo imbalance la próxima
+
+[00:09:46]
+ineficiencia o en el próximo retroceso
+
+[00:09:48]
+nos podríamos haber montado a la baja en
+
+[00:09:51]
+este caso yo me hubiera montado en esta
+
+[00:09:54]
+parte de aquí a la baja mi posición en
+
+[00:09:57]
+corto en este retroceso de aquí y stop
+
+[00:10:00]
+loss un poquito ubicado ahí nos hubiera
+
+[00:10:02]
+dado una entrada un un a2s Aquí más o
+
+[00:10:05]
+menos si tiene un stop loss muy grande
+
+[00:10:07]
+pueden ayudarse un fibonacci y este
+
+[00:10:09]
+fibonacci ustedes ya pueden colocar su
+
+[00:10:11]
+stop l más o menos al 50% para que les
+
+[00:10:14]
+dé un rati riesgo beneficio bastante
+
+[00:10:16]
+bastante bueno para ese día y está
+
+[00:10:19]
+perfectísima esa entrada maravillosa se
+
+[00:10:22]
+hubiera podido tomar también después de
+
+[00:10:23]
+que el mercado liquidó esa liquidez
+
+[00:10:25]
+liquidó esa liquidez Válgame la
+
+[00:10:27]
+redundancia sí se hubiera podido tomar
+
+[00:10:29]
+una entrada de riesgo también de este
+
+[00:10:31]
+lado un poquito de riesgo y a lo mejor
+
+[00:10:34]
+tal vez cuando el mercado empezó a
+
+[00:10:35]
+romper esas pequeñas estructuras huía
+
+[00:10:37]
+podido haber tomado esa entrada también
+
+[00:10:39]
+de riesgo aquí es totalmente válida y
+
+[00:10:42]
+también de nuevo hubiéramos ido a buscar
+
+[00:10:43]
+este target de liquidez o este target de
+
+[00:10:46]
+liquidez más abajo que aquí ya nos da un
+
+[00:10:48]
+poquito más un a
+
+[00:10:50]
+3.55 excelente amigos
+```

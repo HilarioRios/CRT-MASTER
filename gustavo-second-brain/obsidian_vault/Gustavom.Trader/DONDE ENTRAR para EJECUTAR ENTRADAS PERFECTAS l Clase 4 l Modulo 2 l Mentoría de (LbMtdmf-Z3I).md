@@ -1,0 +1,661 @@
+---
+source_id: YT_CANAL_02_LbMtdmf-Z3I
+video_id: LbMtdmf-Z3I
+channel: "Gustavom.Trader"
+published_at: 2024-08-23
+url: https://www.youtube.com/watch?v=LbMtdmf-Z3I
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 5
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# DONDE ENTRAR para EJECUTAR ENTRADAS PERFECTAS l Clase 4 l Modulo 2 l Mentoría de Trading Gratis
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=LbMtdmf-Z3I)
+
+## Transcript
+
+```
+[00:00:00]
+pu h a todos estamos en un nuevo video
+
+[00:00:01]
+esta vez con nuestro módulo dos clase
+
+[00:00:04]
+número cuatro el día de hoy vamos a ver
+
+[00:00:06]
+puntos de interés punto de interés de
+
+[00:00:08]
+alta calidad Cómo podemos tener un punto
+
+[00:00:11]
+de interés en el que tengamos un buen
+
+[00:00:14]
+movimiento en el que tengamos una muy
+
+[00:00:16]
+buena operación vamos a empezar con la
+
+[00:00:18]
+definición algunos puntos a considerar
+
+[00:00:21]
+para tener un buen punto de interés
+
+[00:00:23]
+donde tener un Trade de alta calidad de
+
+[00:00:26]
+mayor preferencia ir con eh la tendencia
+
+[00:00:31]
+o a favor de la estructura de high time
+
+[00:00:33]
+frame siempre para tener un buen punto
+
+[00:00:35]
+de interés o que sea respetado la
+
+[00:00:36]
+estructura de high time frame nos va a
+
+[00:00:38]
+decir que ese punto de interés es mejor
+
+[00:00:41]
+o peor verad eh se pueden tomar tres
+
+[00:00:44]
+contra tendencia pero los puntos de
+
+[00:00:46]
+interés de mayor probabilidad siempre
+
+[00:00:49]
+van a ser los que están a favor de esa
+
+[00:00:50]
+estructura mayor estar en Premium o
+
+[00:00:53]
+descuento estar en una zona de compras o
+
+[00:00:56]
+de ventas de alta probabilidad significa
+
+[00:00:58]
+estar en Premium o descuento que es un
+
+[00:01:01]
+concepto que ya debe de haber explicado
+
+[00:01:03]
+no
+
+[00:01:03]
+eh tener liquidez inducida ese También
+
+[00:01:07]
+buen puede ser un buen punto un bloque
+
+[00:01:09]
+de alta probabilidad un buen bloque de
+
+[00:01:11]
+alta probabilidad zonas o t decisión a
+
+[00:01:15]
+lo extremo tomadores de liquidez o
+
+[00:01:17]
+rompedores de estructuras y por último
+
+[00:01:20]
+confirmarlo con el segundo motivo verdad
+
+[00:01:23]
+entonces aquí vamos a ver ejemplos Por
+
+[00:01:26]
+qué funcionan cumplen con Los criterios
+
+[00:01:28]
+básicos para hacer un buen punto de
+
+[00:01:29]
+interés de alta probabilidad zonas de
+
+[00:01:32]
+oferta y demanda Premio no descuento
+
+[00:01:34]
+Bloque con imbalance bloque bloques que
+
+[00:01:36]
+causan rupturas de estructura Entonces
+
+[00:01:39]
+qué tenemos por acá chicos eh el precio
+
+[00:01:42]
+tenía una zona si se fijan una zona de
+
+[00:01:45]
+oferta en este caso aquí en este punto
+
+[00:01:48]
+luego qué tenemos tenemos imbalances
+
+[00:01:51]
+hacer rellenados todos estos imbalances
+
+[00:01:53]
+que teníamos para aquí en el precio
+
+[00:01:55]
+luego aparte si se fijan aquí yo les
+
+[00:01:57]
+tengo marcado Premium y descuento
+
+[00:01:59]
+estábamos en en una zona Premium
+
+[00:02:01]
+probablemente en niveles muy muy
+
+[00:02:03]
+importantes como un nivel ot pueden ser
+
+[00:02:06]
+del punto 79 pun 80% aproximadamente de
+
+[00:02:09]
+fibo luego aparte qué tenemos tenemos ya
+
+[00:02:12]
+eh poder cumplir con un buen bloque de
+
+[00:02:15]
+órdenes que probablemente en eh 4 horas
+
+[00:02:19]
+en diario era un buen bloque toda esta
+
+[00:02:21]
+zona eh aparte había roto estas
+
+[00:02:24]
+estructuras que teníamos por la parte
+
+[00:02:26]
+baja Entonces si se fijan entre más
+
+[00:02:29]
+entre más má este criterios cumpla más
+
+[00:02:31]
+probabilidades va a tener ese punto de
+
+[00:02:33]
+interés de funcionar entonces así de
+
+[00:02:35]
+sencillo verdad Entonces Aparte ya nos
+
+[00:02:37]
+vamos a nuestro segundo motivo y ya
+
+[00:02:39]
+cuando vemos quiebres de estructura
+
+[00:02:41]
+vemos que el precio se empieza a girar a
+
+[00:02:42]
+la baja es cuando ya tenemos la
+
+[00:02:44]
+validación de una mejor probabilidad de
+
+[00:02:46]
+esa zona de interés verdad Ahora qué
+
+[00:02:48]
+tenemos también por esta parte un un
+
+[00:02:51]
+ciclo alcista verdad en este caso qué
+
+[00:02:53]
+tenemos que el precio viene me rompe
+
+[00:02:55]
+esas estructuras luego después tenemos
+
+[00:02:57]
+un buen Bloque con imbalance tenemos
+
+[00:03:00]
+todo una zona que está en una zona de
+
+[00:03:02]
+compras en este caso Y a partir de ahí
+
+[00:03:05]
+este bloque con imbalance zona de compra
+
+[00:03:08]
+zona de de descuento causante de
+
+[00:03:10]
+rupturas de estructuras imbalances
+
+[00:03:12]
+rellenados y ahí Tenemos una gran
+
+[00:03:14]
+probabilidad así en sencillo chicos no
+
+[00:03:17]
+se quebren mucho la cabeza con esto
+
+[00:03:19]
+simplemente entre más criterios de estos
+
+[00:03:21]
+cumpla el precio más probabilidad hay de
+
+[00:03:24]
+que tengamos un bloque de órdenes un
+
+[00:03:28]
+punto de interés que nos vaya respetar
+
+[00:03:30]
+esas zonas Bueno pues por eso también
+
+[00:03:32]
+tenemos decisión al extremo van a ser
+
+[00:03:34]
+zonas que causaron rupturas de
+
+[00:03:35]
+estructura y el mayor volumen
+
+[00:03:37]
+suficientes para romper los fractales
+
+[00:03:39]
+nuestro decisional es siempre el primer
+
+[00:03:41]
+encargado de romper con eh una zona o
+
+[00:03:44]
+hacer una inducción y sacar un nivel
+
+[00:03:45]
+importante lo encuentras principalmente
+
+[00:03:47]
+en las zonas del 70 o al 88 por y el
+
+[00:03:51]
+extremo es el que originó el fractal y
+
+[00:03:53]
+rompió estructuras menores lo vas a
+
+[00:03:54]
+encontrar en la zona entre 88.6 al 100%
+
+[00:03:58]
+esto para cubrir lo que es de decisional
+
+[00:04:00]
+y extremo cuando el precio viene aquí
+
+[00:04:01]
+hacia abajo viene aquí hacia arriba
+
+[00:04:03]
+viene acá me rompe estas estructuras
+
+[00:04:05]
+siempre voy a tener un decisional en
+
+[00:04:07]
+esta zona de aquí que se va a encontrar
+
+[00:04:09]
+Entre el 70 al 88 por y siempre voy a
+
+[00:04:13]
+tener un punto extremo que va a ser el
+
+[00:04:14]
+primero que decidió romper esas
+
+[00:04:16]
+estructuras y este decisional el primero
+
+[00:04:18]
+que decidió romper las estructuras
+
+[00:04:20]
+menores Y a partir de ahí tendría esta
+
+[00:04:22]
+zona validada de compras y esta segunda
+
+[00:04:24]
+zona de compras No validada hoja ojo
+
+[00:04:27]
+perdón porque la tenemos que validar con
+
+[00:04:29]
+nuestro segundo motivo cuando el precio
+
+[00:04:31]
+rompa esas estructuras al alza de nuevo
+
+[00:04:33]
+ahí es donde podemos decir que está
+
+[00:04:35]
+validado este punto de interés Pues
+
+[00:04:36]
+bueno aquí tengo algún ejemplo bastante
+
+[00:04:39]
+bastante sencillo para que ustedes me
+
+[00:04:40]
+entiendan con lo que son puntos de
+
+[00:04:42]
+interés y podamos tener todavía más
+
+[00:04:44]
+claridad sobre esto teníamos un punto de
+
+[00:04:46]
+origen aquí a partir de aquí abajo luego
+
+[00:04:49]
+tenemos un rompimiento de la de la
+
+[00:04:51]
+estructura luego tenemos un nuevo máximo
+
+[00:04:55]
+después giramos a la baja y si se fijan
+
+[00:04:58]
+Este es el decisional porque este
+
+[00:05:00]
+decidió romper esta estructura que
+
+[00:05:02]
+estaba acá y esta otra estructura que
+
+[00:05:04]
+estaba acá pero mi extremo va a ser este
+
+[00:05:07]
+porque a partir de este se originó el
+
+[00:05:09]
+primer movimiento o el origen de todo
+
+[00:05:12]
+este fractal que llevamos de este punto
+
+[00:05:14]
+a este punto entonces Este es mi fractal
+
+[00:05:17]
+mayor Y a partir de este decisional
+
+[00:05:19]
+rompimos esta estructura y rompimos la
+
+[00:05:21]
+segunda estructura facilito chicos
+
+[00:05:24]
+concéntrense en ver cuáles son los los
+
+[00:05:27]
+últimos causantes de la ruptura de ura
+
+[00:05:30]
+eh Por ejemplo interna en este caso
+
+[00:05:32]
+interna interna interna y que generan un
+
+[00:05:35]
+gran desplazamiento en el precio un gran
+
+[00:05:38]
+movimiento y el extremo va a ser el que
+
+[00:05:40]
+originó nuestro punto fractal verdad así
+
+[00:05:44]
+de sencillo luego que tenemos en nuestro
+
+[00:05:47]
+otro ciclo bajista tenemos Este primer
+
+[00:05:49]
+extremo luego el precio que hace aquí
+
+[00:05:52]
+venir a hacer un pequeño Rango que
+
+[00:05:54]
+muchas veces lo hace el precio y este
+
+[00:05:56]
+decisional si se fijan es el encargado
+
+[00:05:59]
+de romperme esas estructuras Ahora
+
+[00:06:00]
+cuando ya tenemos todo este punto
+
+[00:06:02]
+fractal de aquí hasta acá pues tengo
+
+[00:06:04]
+decisional aquí y tengo el extremo por
+
+[00:06:06]
+la parte alta Bueno chicos aquí estamos
+
+[00:06:09]
+con un ejemplo pequeño ejemplo para que
+
+[00:06:11]
+ustedes me entiendan aquí tenemos el
+
+[00:06:12]
+origen de este fractal tenemos el final
+
+[00:06:14]
+de todo este ciclo o fractal y vamos a
+
+[00:06:17]
+ver lo que es decisión al extremo Bueno
+
+[00:06:20]
+aquí tengo este fractal de este punto a
+
+[00:06:22]
+este punto tengo también la zona de
+
+[00:06:23]
+Premium ni descuento si se fijan eh
+
+[00:06:25]
+rompe aquí las estructuras algo
+
+[00:06:28]
+importante A ver es Cuál es mi extremo
+
+[00:06:31]
+realmente mi extremo va a ser toda esta
+
+[00:06:33]
+zona que es la encargada de originar ese
+
+[00:06:36]
+punto fractal a partir de ahí se origina
+
+[00:06:38]
+todo ese movimiento y el decisional cuál
+
+[00:06:41]
+va a ser Gustavo sencillo va algo básico
+
+[00:06:44]
+básico es el último encargado de romper
+
+[00:06:47]
+las estructuras a la alza en este caso
+
+[00:06:50]
+fíjense que aquí rompimos esta
+
+[00:06:53]
+estructura y después acá rompimos esta
+
+[00:06:56]
+otra estructura Entonces mi decisional
+
+[00:06:58]
+va a ser toda esta zona si se fijan
+
+[00:07:00]
+cuando el precio retrocede de nuevo lo
+
+[00:07:02]
+que hace es venir a este decisional no
+
+[00:07:05]
+llega al extremo viene el decisional Y a
+
+[00:07:07]
+partir de ahí se va entonces bien
+
+[00:07:09]
+importante chicos solamente observar eso
+
+[00:07:11]
+con solo observar eso tú vas a poder
+
+[00:07:13]
+tener una muy buena zona de interés ya
+
+[00:07:16]
+aparte si refin y ves el bloque que
+
+[00:07:18]
+tiene imbalance te agrega más
+
+[00:07:20]
+confluencias pues vas a ser mejor
+
+[00:07:22]
+todavía no Bueno si se fijan acá
+
+[00:07:24]
+confluyendo un poco teníamos un order
+
+[00:07:26]
+block con imbalance en esta zona
+
+[00:07:28]
+teníamos una buena una zona también de
+
+[00:07:30]
+demanda que estaba en una zona de
+
+[00:07:32]
+descuento entonces son confluencias que
+
+[00:07:34]
+le puedes ir dando tu punto de interés
+
+[00:07:36]
+más aparte aquí en este otro punto
+
+[00:07:38]
+cumples el segundo motivo bueno si aquí
+
+[00:07:41]
+cumples el segundo motivo en este caso
+
+[00:07:42]
+gráfico de 15 minutos qué tenemos
+
+[00:07:45]
+tenemos un rompimiento de estructura un
+
+[00:07:47]
+reteste y el precio se va aparte de eso
+
+[00:07:50]
+puedes eh estar haciendo eso y con eso
+
+[00:07:53]
+vas a tener eh mejores puntos de interés
+
+[00:07:56]
+de alta probabilidad o zonas de interés
+
+[00:07:59]
+de alta probabilidad Bueno chicos Yo
+
+[00:08:01]
+espero que se haya entendido bastante
+
+[00:08:03]
+bien si tienes alguna pregunta te leo en
+
+[00:08:05]
+los comentarios si deseas una mentoría
+
+[00:08:06]
+personalizada conmigo Me puedes mandar
+
+[00:08:08]
+un mensaje de Whatsapp o un mensaje en
+
+[00:08:11]
+instagram Gustavo Trader sígueme también
+
+[00:08:13]
+por allá contenido de valor importante y
+
+[00:08:15]
+nos vamos a estar viendo en un próximo
+
+[00:08:17]
+video de mentoría 2024 con Gustavo adiós
+```

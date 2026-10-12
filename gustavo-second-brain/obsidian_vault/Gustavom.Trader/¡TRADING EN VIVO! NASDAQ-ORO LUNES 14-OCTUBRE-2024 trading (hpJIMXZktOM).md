@@ -1,0 +1,6619 @@
+---
+source_id: YT_CANAL_02_hpJIMXZktOM
+video_id: hpJIMXZktOM
+channel: "Gustavom.Trader"
+published_at: 2024-10-15
+url: https://www.youtube.com/watch?v=hpJIMXZktOM
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 59
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# ¡TRADING EN VIVO! NASDAQ-ORO LUNES 14-OCTUBRE-2024 #trading
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=hpJIMXZktOM)
+
+## Transcript
+
+```
+[00:00:17]
+tu vida buena pero con quién la vas a
+
+[00:00:23]
+pasar prefiero tres que sean 10 se van a
+
+[00:00:26]
+traicionar
+
+[00:00:30]
+un punto malo es que no tengo nadie para
+
+[00:00:34]
+hablar cambiando el juego desde que
+
+[00:00:37]
+tengo
+
+[00:00:40]
+memoria si no la saco es porque estoy
+
+[00:00:43]
+fuera de mi
+
+[00:00:46]
+lugar y como estoy adelantado quieren
+
+[00:00:50]
+anular
+
+[00:00:52]
+eh A veces velo ya no tengo remedio ya
+
+[00:00:55]
+son las estoy volando por mis cielos
+
+[00:00:58]
+fando de esa plum
+
+[00:01:00]
+que me pone un poco escribiendo
+
+[00:01:02]
+canciones y Buscando otro nuevo dejando
+
+[00:01:05]
+todo de lado todo lado pasado Ya no
+
+[00:01:08]
+tengo tiempo para con estos malos esos
+
+[00:01:11]
+que hablan mucho que son un poco
+
+[00:01:12]
+antiguos hago lo que quiero como quiero
+
+[00:01:15]
+y
+
+[00:01:23]
+sin de Instagram ya estamos aquí en vivo
+
+[00:01:25]
+por YouTube operando en vivo El nasdaq
+
+[00:01:29]
+ororo
+
+[00:01:32]
+paraa voyar el ahí para que caigan
+
+[00:01:53]
+alvo reparto tanta experiencia no vas a
+
+[00:01:56]
+aprender pasando noches como días y
+
+[00:01:58]
+viceversa
+
+[00:02:00]
+son dorados eso para M es Mier no
+
+[00:02:03]
+comparto mis sueños con la gente que es
+
+[00:02:05]
+normal son las 12:22 y no puedo
+
+[00:02:08]
+convencerte las otras noches c y fue
+
+[00:02:11]
+diferente construimos sol fuerte y
+
+[00:02:20]
+no hola hola hola
+
+[00:02:23]
+hola dej bajo la música un
+
+[00:02:28]
+poco dis estamos mejorando a veces y
+
+[00:02:32]
+constantemente en tu conciencia mi
+
+[00:02:34]
+constancia es tu hecho de muerte pero en
+
+[00:02:36]
+la disciplina lo que nos hizo
+
+[00:02:38]
+exel tenemos
+
+[00:02:46]
+es Hola qué tal Charlie Sí sí ya ahí
+
+[00:02:50]
+está ahí está en pantalla Charlie la
+
+[00:02:52]
+entrada que tenía yo
+
+[00:03:12]
+creo que ahí voy bien Creo que ahí se
+
+[00:03:15]
+escucha bien mi
+
+[00:03:18]
+gente Déjenme hago cositas de comp
+
+[00:03:53]
+m gente de YouTube estamos en vivo
+
+[00:03:55]
+estamos en vivo Déjenme Estoy
+
+[00:03:57]
+compartiendo aquí el directo voy a
+
+[00:03:58]
+aprender en tiktok también ando haciendo
+
+[00:04:00]
+aquí cosas pero ya estamos en
+
+[00:04:02]
+vivo ya estamos en vivo y en directo que
+
+[00:04:06]
+dice la people dice la
+
+[00:04:09]
+gente Déjenme lo comparto por acá por
+
+[00:04:12]
+todos lados les pongo también
+
+[00:04:15]
+el comparto por WhatsApp les pongo
+
+[00:04:18]
+también este el tiktok
+
+[00:04:24]
+ahorita tambén lo comparto aquí por
+
+[00:04:27]
+tiktok estamos ahí viendo el nazda
+
+[00:04:30]
+tremenda subida que tuvo ya lo
+
+[00:04:31]
+esperábamos
+
+[00:04:32]
+y ahorita vamos a ver los demás pares el
+
+[00:04:35]
+oro vamos a analizar también más para
+
+[00:04:37]
+las siguientes días la semana para la
+
+[00:04:42]
+siguiente semana pues para los
+
+[00:04:43]
+siguientes
+
+[00:04:44]
+días Este Entonces ahorita vamos a estar
+
+[00:04:48]
+ahí a tope viendo viendo el mercado no
+
+[00:04:50]
+más que Denme chance creo que la
+
+[00:04:53]
+transmisión va bien Buenos días Buenos
+
+[00:04:55]
+días Este a Pedro buenos días Gustavo
+
+[00:04:58]
+bendiciones Qué tal Dani Cómo
+
+[00:05:01]
+estás estoy mostrando ya la pantalla
+
+[00:05:04]
+verdad del Ya ven el trading vic
+
+[00:05:09]
+verdad estoy aquí configurando todo mi
+
+[00:05:13]
+gente ya ven el tring vi Okay perfecto
+
+[00:05:17]
+Déjenme aquí pongo a ver el tremendo
+
+[00:05:22]
+tiktok tremendo
+
+[00:05:25]
+tiktok Okay esto lo dejamos Igual vamos
+
+[00:05:29]
+a cambiar la
+
+[00:05:32]
+min estamos ya al lunes 14 de octubre Ya
+
+[00:05:36]
+se está yendo el año
+
+[00:05:38]
+gente 14 de octubre del
+
+[00:05:45]
+2024
+
+[00:05:47]
+Okay creo que cargué algo que no
+
+[00:05:55]
+es a ver Déjenme ponga el chat acá por
+
+[00:05:58]
+el móvil gente para para
+
+[00:06:00]
+verlos estamos aquí chill bendiciones
+
+[00:06:04]
+para todos agradecen sus likes también
+
+[00:06:07]
+gente acuérdense los likes son
+
+[00:06:10]
+importantes para llegar a más gente
+
+[00:06:13]
+estamos aquí si quieren analizar ver
+
+[00:06:15]
+alguna otra cosaa pues me dicen yo estoy
+
+[00:06:19]
+aquí de chile ahorita estoy intentando
+
+[00:06:21]
+transmitir en
+
+[00:06:23]
+tiktok Okay
+
+[00:06:25]
+aprende en vivo okay creo que ya
+
+[00:06:31]
+a ver creo que ya estamos en vivo en Tic
+
+[00:06:37]
+Tac estamos en vivo en
+
+[00:06:40]
+tiktok estamos en vivo y en directo en
+
+[00:06:43]
+tiktok vamos por acá vamos compartirlo
+
+[00:06:46]
+También acá en las redes
+
+[00:06:51]
+sociales comparto por acá Buenos días
+
+[00:06:54]
+para todos gente estamos el lunes Ya
+
+[00:06:55]
+pónganse las pilas
+
+[00:07:01]
+Pónganse las pilas
+
+[00:07:04]
+gente vamos acá con todo ya
+
+[00:07:11]
+iniciando
+
+[00:07:13]
+[Música]
+
+[00:07:22]
+vivo creo que ya está todo gente ya
+
+[00:07:24]
+quedó por acá tengo bueno por acá tengo
+
+[00:07:27]
+el chat de tiktok salud Saludos a la
+
+[00:07:29]
+gente de
+
+[00:07:34]
+tiktok Ya creo que ya estamos en vivo de
+
+[00:07:38]
+poco se escucha la música bien verad el
+
+[00:07:41]
+audio bien verad gente Todo bien Leo ya
+
+[00:07:45]
+los Leo tanto en tiktok como en YouTube
+
+[00:07:47]
+déjame Pongo aquí el chat de YouTube por
+
+[00:07:50]
+aquí poquito por aquí mientras estamos
+
+[00:07:53]
+viendo La tremenda subida del nasda por
+
+[00:07:55]
+ahí les compartí mi entrada en una de
+
+[00:07:56]
+mis cuentas en Telegram
+
+[00:07:59]
+para que vean
+
+[00:08:00]
+que pues que estamos metiendo ahí las
+
+[00:08:03]
+entradas también sobre todo nasdaq No
+
+[00:08:06]
+nasda es lo que siempre nos gusta el oro
+
+[00:08:10]
+también ya voy a empezar a operar el oro
+
+[00:08:11]
+ya ya este tengo otra cuenta en otra PR
+
+[00:08:15]
+en otra empresa de
+
+[00:08:16]
+fondeo ahí me compré una cuenta
+
+[00:08:20]
+de 100k y voy a estar tradeando el oro
+
+[00:08:25]
+también qué tal Todo excelente todo muy
+
+[00:08:29]
+bien qué tal gente Gracias se agradecen
+
+[00:08:31]
+los likes gente agradecen los likes Sé
+
+[00:08:34]
+que soy pesadillo a veces con los likes
+
+[00:08:35]
+Pero la única forma que tenemos de
+
+[00:08:38]
+llevar a más gente Bienvenidos a todos
+
+[00:08:40]
+Feliz lunes es que nada Feliz lunes
+
+[00:08:43]
+feliz inicio de semana eh estamos sobre
+
+[00:08:46]
+ya la segunda semana de octubre este
+
+[00:08:50]
+ánimo a todos estamos acá con todo con
+
+[00:08:54]
+toda la actitud hoy lunes se ha ido
+
+[00:08:56]
+bastante rápido el fin de semana hoy es
+
+[00:08:59]
+no dura nada el fin de semana a veces
+
+[00:09:00]
+cuando uno se divierte
+
+[00:09:02]
+eh Pero bueno ya estamos acá con todo
+
+[00:09:05]
+ayer me la pasé descansando
+
+[00:09:07]
+totalmente este y bueno el el otro el el
+
+[00:09:11]
+sábado los que me vieron por ahí en
+
+[00:09:13]
+instagram no descansamos tanto
+
+[00:09:16]
+va los que me vieron en
+
+[00:09:19]
+instagram los que no los que no saben de
+
+[00:09:22]
+qué hablo pues vamos a dejar con la duda
+
+[00:09:25]
+solo a los que los que me vieron en
+
+[00:09:27]
+instagram no más Pero bueno gente ya
+
+[00:09:30]
+estamos acá totalmente en vivo en vivo
+
+[00:09:32]
+mientras teníamos el nasdaq subiendo
+
+[00:09:35]
+completamente hasta estos niveles de acá
+
+[00:09:37]
+que ya lo veíamos gráfico les vo a poner
+
+[00:09:40]
+el gráfico diario ahorita vamos a
+
+[00:09:42]
+analizar un poquito mejor este en el
+
+[00:09:44]
+gráfico diario Vimos una inducción de
+
+[00:09:46]
+este punto que estaba aquí este y
+
+[00:09:50]
+después de ese retroceso tuvimos un
+
+[00:09:52]
+movimiento alcista veíamos este este
+
+[00:09:55]
+punto de aquí
+
+[00:09:56]
+decisional después de tocar ese punto
+
+[00:09:58]
+decisional os una inducción yo esperaba
+
+[00:10:00]
+que cayera un poquito más desde acá pero
+
+[00:10:02]
+sí cayó bien o sea precio finalmente lo
+
+[00:10:06]
+que lo que quería er a rebalancear este
+
+[00:10:08]
+punto de aquí este bloque como quien
+
+[00:10:10]
+dice y ya tiene su movimiento alcista
+
+[00:10:13]
+que que posiblemente pueda ser que
+
+[00:10:16]
+vuelva a inducir el extremo que es este
+
+[00:10:19]
+alto mensual que es el histórico puede
+
+[00:10:22]
+ser que induzca de nuevo y tengamos otro
+
+[00:10:24]
+retroceso o que ya de plano nos vayamos
+
+[00:10:27]
+con todo hacia máximos históricos es
+
+[00:10:29]
+completamente normal estamos a finales
+
+[00:10:31]
+de segunda semana de octubre precio ya
+
+[00:10:34]
+debe de empezar a subir el Rally alcista
+
+[00:10:36]
+de Navidad el Rally alcista lo
+
+[00:10:39]
+pronosticamos desde que el precio estaba
+
+[00:10:40]
+por aquí
+
+[00:10:42]
+17824 lo puse en mis redes sociales y
+
+[00:10:45]
+ahí va la tendencia no ahí va ahí va y
+
+[00:10:47]
+va y va para arriba no
+
+[00:10:50]
+este y bueno en intradía viendo mal lo
+
+[00:10:54]
+en corto plazo pues
+
+[00:10:56]
+estuvimos Estuvimos este
+
+[00:10:59]
+pronosticando una subida desde desde por
+
+[00:11:03]
+acá desde los
+
+[00:11:05]
+20.133 después de que el precio sube
+
+[00:11:07]
+hasta este extremo induce el extremo y
+
+[00:11:11]
+rebalance un poquito aquí a este Breaker
+
+[00:11:14]
+desde aquí teníamos este movimiento
+
+[00:11:16]
+alcista luego después el viernes
+
+[00:11:18]
+Estuvimos viendo una entrada en vivo que
+
+[00:11:20]
+es esta que está aquí entrada esta
+
+[00:11:21]
+entrada la vimos en el Stream del
+
+[00:11:23]
+viernes directo del viernes muy temprano
+
+[00:11:27]
+la verdad fue eh fue como una reentrada
+
+[00:11:30]
+la misma entrada que yo que yo ya había
+
+[00:11:31]
+visto el día jueves entrada en largo el
+
+[00:11:35]
+precio por ahí estuvo como lateral como
+
+[00:11:37]
+no queriendo pero ya es normal que
+
+[00:11:39]
+después de de que el precio sacara toda
+
+[00:11:42]
+esta liquidez interna fíjense Cómo
+
+[00:11:44]
+sacamos toda esta liquidez interna que
+
+[00:11:45]
+tenía el precio aquí ya después de que
+
+[00:11:48]
+sacamos toda esa liquidez interna gente
+
+[00:11:51]
+Pues es normal de que el precio as haa
+
+[00:11:53]
+tomado su decisión porque la tendencia
+
+[00:11:56]
+como les digo es para arriba no es para
+
+[00:11:57]
+abajo y y Ahorita les voy a decir pues
+
+[00:12:00]
+que que posiblemente sigue Aunque pues
+
+[00:12:03]
+eso es lo que ha venido pasando en el en
+
+[00:12:05]
+el nasda en los últimos horas déjame
+
+[00:12:09]
+ponga acá el chat de tiktok saludos a
+
+[00:12:11]
+toda la gente de tiktok quién le sigue
+
+[00:12:14]
+se unió Okay toda la gente de tiktok
+
+[00:12:16]
+gracias a la gente que está uniéndose y
+
+[00:12:18]
+está dejando su me
+
+[00:12:20]
+gusta Gracias gente por dejar su me
+
+[00:12:22]
+gusta se pueden dejar su me gusta toda
+
+[00:12:27]
+la gente que se esté uniendo
+
+[00:12:29]
+también es completamente gratis seguirme
+
+[00:12:31]
+Pueden seguir completamente gratis gente
+
+[00:12:35]
+estamos aquí esta entrada la tomamos el
+
+[00:12:37]
+día viernes en vivo desde mi tiktok y
+
+[00:12:40]
+desde el YouTube también verdad
+
+[00:12:42]
+eh Entonces como les decía en el oro en
+
+[00:12:46]
+el oro estábamos viendo eh esta esta
+
+[00:12:50]
+última entrada que tuvimos
+
+[00:12:53]
+este y tenemos este punto de resistencia
+
+[00:12:56]
+que el precio lo pasó después les decía
+
+[00:12:58]
+yo que posiblemente se podían venir unas
+
+[00:13:00]
+ventas desde este punto de acá arriba
+
+[00:13:03]
+era el punto más alto de ese fractalidad
+
+[00:13:06]
+y este el precio el viernes el domingo
+
+[00:13:10]
+Perdón vino agresivo un poco agresivo
+
+[00:13:12]
+hasta el punto de acá luego volvió a
+
+[00:13:16]
+subir ahorita más que nada está haciendo
+
+[00:13:18]
+un Rango lo que yo veo más que nada está
+
+[00:13:20]
+haciendo un Rango pero sí ya Se podrían
+
+[00:13:23]
+venir los shorts
+
+[00:13:25]
+Aunque a ver y ya ya ya se podían venir
+
+[00:13:30]
+los
+
+[00:13:31]
+shorts venir los shorts Aunque desde
+
+[00:13:34]
+este punto puede ser que vuelva y suba
+
+[00:13:36]
+otra
+
+[00:13:38]
+vez esta entrada de aquí la voy a poner
+
+[00:13:40]
+ya un poquito
+
+[00:13:43]
+minimizarla Igual me Igualmente Me
+
+[00:13:46]
+gustaría hacer un análisis nuevo del Oro
+
+[00:13:48]
+Ahorita tenemos tiempo vamos a estar un
+
+[00:13:49]
+buen rato acá entonces probablemente
+
+[00:13:51]
+habamos a hacer análisis nuevo del Oro
+
+[00:13:54]
+pero yo probablemente probablemente suba
+
+[00:13:57]
+otra vez aquí un poquito y aquí ya
+
+[00:13:59]
+podamos vender oro pero todava no está
+
+[00:14:03]
+nada confirmado saludos a toda la gente
+
+[00:14:06]
+saludos a toda la gente que está
+
+[00:14:07]
+llegando nueva estamos aquí ya en vivo
+
+[00:14:09]
+estamos puesto las pilas ya en YouTube y
+
+[00:14:11]
+en
+
+[00:14:12]
+tiktok saludos a todos estamos aquí
+
+[00:14:15]
+analizando el oro vamos a analizar el
+
+[00:14:17]
+nasdaq nasda ya les analicé un poco el
+
+[00:14:21]
+nasdaq vamos a esperar un próximo
+
+[00:14:23]
+retroceso Y compraremos de nuevo
+
+[00:14:25]
+el de momento está todas las temporadas
+
+[00:14:28]
+alcistas
+
+[00:14:30]
+4 horas una hora este diario también
+
+[00:14:34]
+alcista
+
+[00:14:36]
+este entonces esperaríamos un retroceso
+
+[00:14:39]
+para
+
+[00:14:40]
+comprar pero este un buen retroceso
+
+[00:14:45]
+probablemente puede ser esta zona de
+
+[00:14:46]
+aquí de los
+
+[00:14:49]
+20300 yo sinceramente creo que vayamos a
+
+[00:14:52]
+caer hasta aquí hasta los 360 y no creo
+
+[00:14:56]
+que
+
+[00:14:57]
+bajemos pero scp intradía
+
+[00:15:00]
+gente después del retroceso
+
+[00:15:04]
+pueden el oro más o menos es mi idea
+
+[00:15:08]
+pero aún no tengo
+
+[00:15:12]
+confirmado En el oro estamos en el
+
+[00:15:14]
+diario en un Rango desde este punto un
+
+[00:15:17]
+Rango más o menos Rango
+
+[00:15:22]
+caída Entonces igual Ahorita lo vamos a
+
+[00:15:25]
+analizar más profundamente
+
+[00:15:27]
+los poquito forex porque en forex tenía
+
+[00:15:31]
+una cidas de Trade que les dije que se
+
+[00:15:33]
+las iba se las iba a dejar probablemente
+
+[00:15:36]
+para para hoy para
+
+[00:15:41]
+Oy Hoy entonces quería ver un poquito
+
+[00:15:43]
+forex a ver cómo va el
+
+[00:15:45]
+euro les tenía Estas ideas de Trade
+
+[00:15:48]
+Aunque les dije que nos íbamos a esperar
+
+[00:15:50]
+para el lunes porque el el el euro y la
+
+[00:15:54]
+libra tiene todavía tendencia bajista
+
+[00:15:57]
+aún este no hay no hay un cambio de
+
+[00:16:00]
+tendencia entonces tendría tenemos que
+
+[00:16:03]
+esperar que el precio haga un cambio de
+
+[00:16:04]
+tendencia verdadero
+
+[00:16:06]
+No el precio siga subiendo a partir de
+
+[00:16:09]
+aquí así pues va a seguir cayendo no
+
+[00:16:12]
+pero ya posiblemente o o en este punto
+
+[00:16:17]
+yo creo en este punto o debajito de ese
+
+[00:16:20]
+punto Ya vamos a tener compras el euro
+
+[00:16:23]
+de toda esta tendencia que tuvimos
+
+[00:16:26]
+bajista pero t no
+
+[00:16:30]
+idea es comprar Ya de por ahí
+
+[00:16:34]
+pero les dije que nos íbamos a esperar
+
+[00:16:36]
+un poco a ver cómo habría la libra está
+
+[00:16:38]
+un poquito mejor ya la libra puede
+
+[00:16:40]
+aventarse el fallo de estructura por
+
+[00:16:42]
+aquí subir pero ya habría que esperar un
+
+[00:16:47]
+poco habría que esperar un poco el
+
+[00:16:48]
+cambio de estructura pero igual son
+
+[00:16:51]
+pares de forex bitcoin ahí lo tenemos
+
+[00:16:53]
+está por todas el
+
+[00:16:55]
+bitcoin la
+
+[00:16:57]
+flechita vamos a ver si el bitcoin es
+
+[00:17:00]
+capaz de romper este punto debería de
+
+[00:17:02]
+por los
+
+[00:17:03]
+66000 el bitcoin es para arriba en en
+
+[00:17:06]
+una hora va va a volver a hacer un
+
+[00:17:08]
+retroceso probablemente por aquí no es
+
+[00:17:10]
+por aquí o por aquí arriba y ahí va a
+
+[00:17:13]
+ser de nuevo para comprar
+
+[00:17:16]
+más al
+
+[00:17:20]
+s Bueno es es un poquito el resumen de
+
+[00:17:23]
+esos pares mientras los saludo por acá
+
+[00:17:26]
+gente gente YouTube gente tiktok
+
+[00:17:29]
+gracias a la gente de YouTube por los
+
+[00:17:31]
+likes pueden dejar sus likes gente es
+
+[00:17:33]
+completamente
+
+[00:17:34]
+gratis estamos aquí analizando el
+
+[00:17:37]
+mercado ahorita vamos a hacer un
+
+[00:17:38]
+análisis profundo al oro y al nasdaq es
+
+[00:17:41]
+lo que va a seguir primero vamos a ir
+
+[00:17:44]
+con nasdaq análisis profundo vamos a
+
+[00:17:47]
+borrar ya la entrada que tuvimos la
+
+[00:17:48]
+semana pasada ya pasó este para poder
+
+[00:17:53]
+tradear de manera profesional para las
+
+[00:17:55]
+siguientes días Este vamos a hacer un
+
+[00:17:59]
+análisis muy muy detallado del nasdaq
+
+[00:18:01]
+Quiero bajar de temporalidades subir ver
+
+[00:18:04]
+los niveles importantes en Macro
+
+[00:18:08]
+este y vamos a hacer lo mismo con el oro
+
+[00:18:12]
+gente lo mismo con el oro probablemente
+
+[00:18:15]
+el oro pongamos un short eh
+
+[00:18:16]
+probablemente pongamos un short en vivo
+
+[00:18:19]
+pero aún no aún vamos a tomarlo con
+
+[00:18:22]
+calma Si no lo pongo hoy se los pasaré
+
+[00:18:25]
+por el por el
+
+[00:18:29]
+por el Telegram por el Telegram muy
+
+[00:18:31]
+seguramente gracias a toda la gente de
+
+[00:18:33]
+tiktok por los likes se les agradece
+
+[00:18:35]
+mucho gente que esté dando su like me
+
+[00:18:37]
+pueden seguir también es completamente
+
+[00:18:40]
+gratis les interesa todo el mundillo de
+
+[00:18:42]
+trading Pues acá estamos activos
+
+[00:18:45]
+operando los mercados financieros
+
+[00:18:47]
+haciendo trading siguiendo subiendo
+
+[00:18:49]
+contenido sobre trading Entonces al que
+
+[00:18:52]
+le interese coné quieren empezar gente
+
+[00:18:54]
+con el oro o con el nasda vamos a hacer
+
+[00:18:56]
+un análisis profundo vamos a borrar
+
+[00:18:58]
+líneas que sobren vamos a hacer algo
+
+[00:19:02]
+bonito algo bonito que quieren empezar
+
+[00:19:05]
+con el oro con el
+
+[00:19:07]
+n los dos están interesantes eh hoy hoy
+
+[00:19:10]
+están muy interesantes no antes también
+
+[00:19:13]
+decirles que no hay noticias tan
+
+[00:19:14]
+relevantes esta semana las noticias más
+
+[00:19:17]
+relevantes están el día jueves entonces
+
+[00:19:18]
+el precio se moverá con mayor
+
+[00:19:21]
+naturalidad para tantas manipulaciones
+
+[00:19:23]
+esta semana porque esta semana es una
+
+[00:19:25]
+semana muy tranquila para los mercados
+
+[00:19:27]
+en tanto a Macro noticias
+
+[00:19:29]
+macroeconómicas no tenemos nada
+
+[00:19:31]
+importante solo el jueves hay algunas
+
+[00:19:33]
+noticias ahí ya de ahí ya no hay más
+
+[00:19:37]
+noticias este interesantes para los para
+
+[00:19:39]
+estos pares
+
+[00:19:41]
+No gracias a toda la gente que me está
+
+[00:19:43]
+siguiendo por tiktok por ejemplo
+
+[00:19:45]
+Mauricio a Carlos Gracias por seguirme
+
+[00:19:48]
+gracias gracias se les agradece bastante
+
+[00:19:52]
+este estamos aquí esta entrada la
+
+[00:19:54]
+tomamos el día viernes gente como les
+
+[00:19:55]
+decía esta no esta la mandé por mi
+
+[00:19:57]
+Instagram día jueves el jueves también
+
+[00:20:01]
+vimos este el mercado alcista en el
+
+[00:20:04]
+nasdaq hoy la velita Pues quedó fuerte y
+
+[00:20:08]
+ahorita vamos a analizar para los
+
+[00:20:09]
+próximos días No porque pues esto ya
+
+[00:20:11]
+pasó queremos tomar decisiones para los
+
+[00:20:14]
+próximos días ent les voy a dejar mi
+
+[00:20:16]
+idea
+
+[00:20:17]
+Aunque este el mercado Pues siempre va
+
+[00:20:19]
+evolucionando siempre va cambiando
+
+[00:20:21]
+Entonces igual podemos tener una idea
+
+[00:20:25]
+Este ahí de lo que puede hacer el
+
+[00:20:27]
+mercado en los próximos próximos
+
+[00:20:31]
+días próximos próximos
+
+[00:20:33]
+días OK Vamos empezaremos a analizar
+
+[00:20:38]
+Bueno aquí Este es el gráfico de
+
+[00:20:42]
+futuros gráfico de
+
+[00:20:45]
+futuros el precio ha llegado al
+
+[00:20:48]
+decisional
+
+[00:20:49]
+apenas induci el fbg
+
+[00:20:53]
+este fue el último fg que tuvimos ahí
+
+[00:20:56]
+inducción
+
+[00:20:59]
+y ahorita vamos por el bloque est en
+
+[00:21:04]
+el yo creo que subimos un poquito más no
+
+[00:21:08]
+ya lo estamos induciendo
+
+[00:21:15]
+Ah que no quería marcar este punto
+
+[00:21:24]
+exactamente Perdón gente perdón
+
+[00:21:29]
+es muy temprano aún Y estoy
+
+[00:21:32]
+aquí me perdí me perdí gente perdí este
+
+[00:21:37]
+Okay este es futuros futuros fense en
+
+[00:21:41]
+futuros furos analizando aquí tenemos
+
+[00:21:46]
+este esta
+
+[00:21:48]
+soporte y luego tuvimos este
+
+[00:21:55]
+soporte poniendo un Tex
+
+[00:21:58]
+ustedes vayan agarrando el
+
+[00:22:00]
+rollo
+
+[00:22:03]
+porte los
+
+[00:22:05]
+dos precio vino hacia abajo a este se
+
+[00:22:09]
+apoyó sobre este y vino vino de nuevo es
+
+[00:22:13]
+lo que teníamos luego teníamos este
+
+[00:22:16]
+nivel de acá Este nivel es este nivel lo
+
+[00:22:19]
+tenemos que dejar porque es un nivel
+
+[00:22:20]
+bastante bastante
+
+[00:22:22]
+importante era el último nivel donde
+
+[00:22:24]
+está el precio como que con
+
+[00:22:26]
+resistencia y
+
+[00:22:29]
+un
+
+[00:22:32]
+Level me gustaría hasta ponerlo con
+
+[00:22:36]
+dos y teníamos estos dos
+
+[00:22:41]
+puntos 4
+
+[00:22:43]
+horas luego Déjenme veo el bloque
+
+[00:22:50]
+diario
+
+[00:22:52]
+tiene en el punto donde yo espero que
+
+[00:22:54]
+suba suba
+
+[00:23:02]
+nivel va a ser bastante
+
+[00:23:07]
+importante lo podríamos poner como este
+
+[00:23:11]
+nivel
+
+[00:23:14]
+exactamente de nivel estamos analizando
+
+[00:23:17]
+futuros Ahorita estamos marcando algunos
+
+[00:23:19]
+niveles y Ahorita les voy a hacer un
+
+[00:23:21]
+análisis detallado en
+
+[00:23:23]
+cfd má más a corto plazo
+
+[00:23:27]
+puesto este es el mismo nivel que
+
+[00:23:29]
+podríamos volver a testear
+
+[00:23:32]
+ahora de
+
+[00:23:34]
+hecho por aquí se los marcaría sobre el
+
+[00:23:37]
+Breaker este más o menos Y es que el
+
+[00:23:40]
+mercado quiere caer si no pues
+
+[00:23:43]
+seguiríamos dejando lo que
+
+[00:23:45]
+suba de momento tenemos esos niveles en
+
+[00:23:48]
+el nasdaq ese punto de ahí y este punto
+
+[00:23:52]
+de acá
+
+[00:23:55]
+también ahora ha en 4
+
+[00:23:59]
+yo creo que ahí está bien Ahora gente
+
+[00:24:01]
+vamos a irnos a lo bueno que son
+
+[00:24:04]
+cfds irnos a lo bueno en
+
+[00:24:08]
+cfds vamos a irnos aquí a una
+
+[00:24:11]
+hora vamos
+
+[00:24:14]
+a Aunque últimamente este estaba
+
+[00:24:18]
+pensando en dejar las entradas para en
+
+[00:24:20]
+un futuro
+
+[00:24:22]
+estudiarlas entonces estaba pensando en
+
+[00:24:25]
+dejarla ya no borrarlas normalmente las
+
+[00:24:27]
+borraba
+
+[00:24:29]
+pero para hacer Back testing viene
+
+[00:24:32]
+bien esta entrada fue la que tomamos
+
+[00:24:34]
+bien en
+
+[00:24:35]
+vivo Entonces la voy a dejar la voy a
+
+[00:24:41]
+minimizar y vuelvo cuando vuelva a tomar
+
+[00:24:43]
+ot entrada la voy a volver a poner y la
+
+[00:24:45]
+voy a minimizar no más
+
+[00:24:48]
+[Música]
+
+[00:24:49]
+que me gustaría Ese fue el punto del
+
+[00:24:52]
+viernes
+
+[00:24:54]
+[Música]
+
+[00:24:55]
+pero me gustaría poner el punto
+
+[00:24:58]
+Exacto punto
+
+[00:25:01]
+Exacto más que nada a ver est que 60
+
+[00:25:05]
+minutos por ahí por por Telegram les
+
+[00:25:08]
+mandé como el punto
+
+[00:25:10]
+Exacto creo que lo agarré un poquito
+
+[00:25:14]
+arriba lo agarré como por
+
+[00:25:20]
+aquí pero es del esta fue del jueves
+
+[00:25:28]
+cerca como de esta última
+
+[00:25:33]
+Mecha una chorrada mía gente pero lo
+
+[00:25:36]
+quiero lo quiero como guardar para mí
+
+[00:25:39]
+para poder hacer Back testing igual
+
+[00:25:42]
+había dos entradas tanto la que le pasé
+
+[00:25:44]
+yo en vivo y tanto la del jueves más que
+
+[00:25:47]
+yo en en unas cuentas las tomé el vi el
+
+[00:25:49]
+jueves y en otras el
+
+[00:25:53]
+viernes pero es es muy parecido el punto
+
+[00:25:57]
+punto de entrada es como muy
+
+[00:26:00]
+parecido Entonces lo voy a minimizar
+
+[00:26:04]
+aquí haré así
+
+[00:26:07]
+yo ver de manera que
+
+[00:26:10]
+nobe bloquearemos para que no
+
+[00:26:13]
+corre Okay gente Entonces ya este
+
+[00:26:18]
+fíjense vamos a empezar desde como me
+
+[00:26:20]
+gusta a mí desde arriba el que Level que
+
+[00:26:22]
+tienes eh marcado en línea Qué es es un
+
+[00:26:25]
+nivel institucional es un nivel bastante
+
+[00:26:28]
+importante un nivel
+
+[00:26:31]
+importante tú tú te refieres a por
+
+[00:26:33]
+ejemplo
+
+[00:26:35]
+este un nivel institucional importante
+
+[00:26:38]
+Por qué es un nivel importante te
+
+[00:26:40]
+explico porque aquí habíamos tenido una
+
+[00:26:44]
+resistencia de aquí este punto Mira
+
+[00:26:48]
+Fíjate en el pasado tuvimos un nivel
+
+[00:26:50]
+este punto fue un nivel de rechazo
+
+[00:26:52]
+Fíjate que el el Viernes 28 de junio
+
+[00:26:56]
+podríamos decir en junio
+
+[00:26:58]
+estuvo el mercado rechazando aquí este
+
+[00:27:00]
+nivel de aquí históricamente en junio de
+
+[00:27:02]
+2024 y estuvimos también rechazando este
+
+[00:27:04]
+nivel en 18 de junio ahora lo que es
+
+[00:27:08]
+septiembre ese nivel es donde el percado
+
+[00:27:11]
+empezó a hacer su retroceso fijas acá te
+
+[00:27:14]
+lo estoy poniendo verad
+
+[00:27:17]
+y ahora que el mercado regresó otra vez
+
+[00:27:21]
+hacia arriba Fíjate que aquí hicimos una
+
+[00:27:23]
+inducción que fue este Rango que ves
+
+[00:27:25]
+aquí por eso es es un nivel bastante
+
+[00:27:27]
+importante
+
+[00:27:28]
+y le llamo K Level son nieles niveles
+
+[00:27:32]
+importantes donde en el pasado han sido
+
+[00:27:36]
+soportes resistencias
+
+[00:27:39]
+importantes pero para mí el precio
+
+[00:27:41]
+históricamente tenía que haber hecho
+
+[00:27:43]
+algo importante Por ejemplo si si este
+
+[00:27:45]
+de acá también es un K Level no más que
+
+[00:27:47]
+yo lo estoy marcando con un cuadrito
+
+[00:27:48]
+pero también podríamos poner una línea
+
+[00:27:51]
+parecida como
+
+[00:27:53]
+esta nivel de acá abajo
+
+[00:27:58]
+acá abajo porque si te fijas fíjate como
+
+[00:28:03]
+Aunque podría ser está entre entre este
+
+[00:28:07]
+entre esta línea fíjate entre los
+
+[00:28:12]
+19982 y más o
+
+[00:28:15]
+menos los
+
+[00:28:18]
+19000 este
+
+[00:28:20]
+884 inclusive un poquito más
+
+[00:28:23]
+abajo por aquí fate que te lo voy a
+
+[00:28:26]
+marcar de este lado
+
+[00:28:30]
+te fijas este lo mismo cuando el precio
+
+[00:28:33]
+regresó ahí el el 19 el 24 de junio
+
+[00:28:39]
+menos 24 de junio
+
+[00:28:43]
+eh déjame por acá me pongo mi
+
+[00:28:46]
+chat Cuando regresó el verio el 24 de
+
+[00:28:49]
+junio pues tocó este nivel de los
+
+[00:28:52]
+19985 Este es el gráfico de futuros y
+
+[00:28:56]
+luego después tocamos acá esta inducción
+
+[00:28:58]
+en los
+
+[00:29:00]
+19919 tuvimos est otro rebalanceo en los
+
+[00:29:05]
+19931 y luego Aquí en esta estructura
+
+[00:29:07]
+que teníamos por este lado tocamos los
+
+[00:29:11]
+19,900 o menos 16 900 que fue un nivel
+
+[00:29:15]
+de liquidez y de resistencia cuando
+
+[00:29:18]
+volvimos de nuevo acá hacia arriba
+
+[00:29:20]
+fíjate como rechazamos este nivel de los
+
+[00:29:24]
+19856 una vez que vinimos por encima nos
+
+[00:29:27]
+apoyamos en en ese mismo nivel y subimos
+
+[00:29:29]
+de nuevo después cuando el precio toca
+
+[00:29:32]
+el nivel de arriba venimos
+
+[00:29:34]
+19875 de nuevo fíjate comoo ha sido un
+
+[00:29:37]
+nivel bastante importante y por eso este
+
+[00:29:40]
+se consideraría como un nivel muy muy
+
+[00:29:42]
+importante acá tenemos algo parecido
+
+[00:29:45]
+pero este nivel no es tan fuerte Porque
+
+[00:29:47]
+solo hemos tenido unas pequeñas
+
+[00:29:48]
+inducciones y unos pequeños toques o sea
+
+[00:29:51]
+este nivel de los 20,000 no ha sido tan
+
+[00:29:53]
+relevante pero este nivel de acá abajo
+
+[00:29:55]
+Sí y este nivel de acá ahorita
+
+[00:29:58]
+actualmente Sí este actualmente no es un
+
+[00:30:01]
+K Level porque esto es una zona de
+
+[00:30:02]
+oferta no se considera un K Level pero
+
+[00:30:06]
+para que más o menos me vayas
+
+[00:30:07]
+entendiendo la idea que tengo con con
+
+[00:30:10]
+estas zonas esto solamente para mí son
+
+[00:30:12]
+zonas no quiere decir que yo voy a
+
+[00:30:13]
+comprar o vender ahí pero cuando el
+
+[00:30:16]
+precio esté haciendo algo interesante
+
+[00:30:17]
+ahí pues ya lo tendré en cuenta Por eso
+
+[00:30:20]
+en el gráfico futuro solamente lo marco
+
+[00:30:23]
+como líneas
+
+[00:30:25]
+cuadros hablando más un poquito más en
+
+[00:30:28]
+corto plazo pues este nivel también
+
+[00:30:29]
+sería bastante importante si dias nivel
+
+[00:30:34]
+qué porque ahí Tuvimos una inducción y
+
+[00:30:36]
+este y cuando el precio venga por ahí va
+
+[00:30:39]
+a
+
+[00:30:39]
+ser y este es el último el más relevante
+
+[00:30:43]
+donde podemos ir en el corto plazo
+
+[00:30:45]
+no Okay siguiendo con esto Entonces
+
+[00:30:49]
+fíjense cómo vamos a irnos
+
+[00:30:53]
+semanal el gráfico semanal que ven gente
+
+[00:30:56]
+estamos totalmente alcistas
+
+[00:30:58]
+precio vino hasta esta zona de
+
+[00:31:02]
+demanda esta zona de demanda vino por
+
+[00:31:05]
+los 17000 aproximadamente Y a partir de
+
+[00:31:09]
+ahí nos fuimos para arriba lo induci mos
+
+[00:31:11]
+el decisional que fue era todo este fbg
+
+[00:31:14]
+deses de sacar es último alto semanal
+
+[00:31:16]
+que está aquí y caímos caímos fallamos
+
+[00:31:20]
+en hacer un nuevo mínimo y ahora tenemos
+
+[00:31:22]
+un bullrun alcista este ahora Estamos en
+
+[00:31:25]
+una tendencia alcista en semanal en
+
+[00:31:28]
+semanal también lo que nos concierne
+
+[00:31:31]
+esta semana pues tendríamos este low
+
+[00:31:34]
+este otro low que ya la verdad se miran
+
+[00:31:36]
+que están lejos ya se miran lejos los
+
+[00:31:38]
+voy a dejar por por esta semana pero ya
+
+[00:31:41]
+no creo que volvamos ahí en el corto
+
+[00:31:43]
+plazo y ahora tenemos que sacamos este
+
+[00:31:46]
+semanal como sacamos este semanal que
+
+[00:31:49]
+también era un diario no Aunque el
+
+[00:31:52]
+diario lo podemos ya omitir la verdad
+
+[00:31:54]
+porque el más relevante es el semanal no
+
+[00:31:56]
+sacamos este nivel semanal esto es
+
+[00:31:59]
+importante para que para ir viendo
+
+[00:32:03]
+este para ir viendo los niveles del
+
+[00:32:06]
+precio en Macro es importante que tengas
+
+[00:32:08]
+la dirección o los niveles en precio
+
+[00:32:11]
+Macro para poder bien ir viendo la
+
+[00:32:14]
+liquidez y ir viendo cómo se está
+
+[00:32:16]
+formando la dirección o la tendencia por
+
+[00:32:20]
+eso es importante Estar mirando estos
+
+[00:32:21]
+gráficos hemos tenido a partir de de
+
+[00:32:25]
+septiembre este una dos 3 cu 5 se
+
+[00:32:29]
+semanas alcistas y probablemente podamos
+
+[00:32:33]
+tener más después de un retroceso
+
+[00:32:35]
+importante podemos tener más yo creo que
+
+[00:32:38]
+el retroceso se va a venir sobre el por
+
+[00:32:40]
+encima del máximo histórico es donde
+
+[00:32:41]
+podemos tener un retroceso Pues al menos
+
+[00:32:44]
+como esto no una vela de esta semanal
+
+[00:32:47]
+bajista o dos o tres velas de estas pero
+
+[00:32:51]
+de momento en semanal se ve bastante
+
+[00:32:53]
+alcista el precio gráfico del nasdaq
+
+[00:32:57]
+entonces
+
+[00:32:59]
+también pues decirles que teníamos
+
+[00:33:01]
+acumulados este diario este otro diario
+
+[00:33:04]
+y acá tenemos este otro
+
+[00:33:07]
+semanal es el último que tenemos aquí el
+
+[00:33:10]
+semanal el mensual es el que nos queda
+
+[00:33:12]
+ya hemos tomado los dos diarios que era
+
+[00:33:15]
+el target que yo tenía en el intradía
+
+[00:33:18]
+hemos tomado ya esos dos niveles ya aquí
+
+[00:33:21]
+esos niveles nos sirvan para análisis
+
+[00:33:24]
+pasado pero ahorita ya no nos sirven
+
+[00:33:26]
+para nada entonces lo que hago yo es
+
+[00:33:28]
+limpiar el gráfico me gusta tenerlo
+
+[00:33:31]
+limpio porque ya el precio ha tomado
+
+[00:33:34]
+sabemos que puede venir un retroceso
+
+[00:33:36]
+porque Obviamente el precio ha tomado
+
+[00:33:37]
+como esos de
+
+[00:33:39]
+ahí una vez que el precio toma liquidez
+
+[00:33:42]
+pues pueden venir
+
+[00:33:43]
+retrocesos pero como la idea es seguir
+
+[00:33:47]
+operando a favor de la tendencia Pues
+
+[00:33:49]
+los retrocesos no me sirven a mí para
+
+[00:33:51]
+hacer nada solamente para intentar
+
+[00:33:53]
+comprar si hace un retroceso
+
+[00:33:55]
+suficientemente bueno pero para a vender
+
+[00:33:58]
+no que yo quiero tradear a favor de la
+
+[00:34:00]
+tendencia y ahora sí que en el punto que
+
+[00:34:03]
+estoy yo ya no suelo tradear contra
+
+[00:34:05]
+tendencia es muy raro ya es muy muy raro
+
+[00:34:10]
+que yo vaya a querer vender Aquí ya yo
+
+[00:34:13]
+en este tipo de tendencias ya no intento
+
+[00:34:15]
+vender
+
+[00:34:16]
+Aquí ya lo que intento es esperar que el
+
+[00:34:19]
+precio retroceda y lo compro
+
+[00:34:24]
+no
+
+[00:34:26]
+entonces viendo desde ese punto Ya vimos
+
+[00:34:29]
+los diarios semanales
+
+[00:34:31]
+e vemos este High para mí el punto un
+
+[00:34:36]
+punto bastante importante va a ser
+
+[00:34:39]
+este el punto más alto Ahí estamos
+
+[00:34:42]
+formando actualmente un fbg puede
+
+[00:34:45]
+formarse Entre hoy y mañana va a ser un
+
+[00:34:47]
+imbalance que Próximamente podríamos si
+
+[00:34:51]
+el precio hace su su debido retroceso
+
+[00:34:53]
+podríamos venir a rellenar
+
+[00:34:56]
+imbalance ya en 4 horas fate que nos
+
+[00:34:59]
+queda de esta manera 4
+
+[00:35:04]
+horas queda de esta manera esos diarios
+
+[00:35:08]
+los dejaremos ahí este punto lo
+
+[00:35:10]
+dejaremos
+
+[00:35:13]
+y acá bonito entonces para mí pues este
+
+[00:35:17]
+va a ser un
+
+[00:35:19]
+nivelante que puede llegar el precio
+
+[00:35:22]
+quiere decir que vaya a llegar Pero
+
+[00:35:24]
+puede venir a
+
+[00:35:26]
+llegar vamos a quitar la
+
+[00:35:29]
+x más para tenerlo en consideración en 4
+
+[00:35:34]
+horas este en una hora pues esperaríamos
+
+[00:35:39]
+lo mismo esperaríamos retroc este estilo
+
+[00:35:42]
+y compraríamos ha acá pues mejor no si
+
+[00:35:46]
+no llega Igualmente está bien pero le
+
+[00:35:48]
+tendemos que dar tiempo de momento no
+
+[00:35:50]
+hay nada y todo es alcista No yo no
+
+[00:35:55]
+vendería para nada para para nada
+
+[00:35:57]
+vendería o lo que lo que hay ahí son
+
+[00:36:01]
+movimiento un movimiento completamente
+
+[00:36:04]
+alcista en 4 horas en una hora en diario
+
+[00:36:07]
+y en semanal tenemos movimiento
+
+[00:36:10]
+alcista gracias a toda la gente que me
+
+[00:36:12]
+est siguiendo por tiktok hoy somos menos
+
+[00:36:15]
+personas estamos al lunes gente feliz
+
+[00:36:17]
+lunes para todos y este se agradece
+
+[00:36:21]
+mucho este la gente que me está
+
+[00:36:23]
+siguiendo por tiktok y está dejando su
+
+[00:36:25]
+me gusta gente somos muy poquitos me
+
+[00:36:27]
+gusta
+
+[00:36:28]
+tanto en YouTube como en tiktok gente
+
+[00:36:30]
+piquen al me gusta es completamente
+
+[00:36:32]
+gratis llegamos recuérdense que llegamos
+
+[00:36:34]
+a más gente si dan like vamos a mucho
+
+[00:36:37]
+más personas se agradece
+
+[00:36:41]
+bastante entonces este va a ser el nivel
+
+[00:36:43]
+importante incluso yo lo marcaría con
+
+[00:36:45]
+una línea y vamos a ser sobre los
+
+[00:36:49]
+20319 Pero bueno yo se los dejo así y
+
+[00:36:52]
+mantenemos nuestro gráfico totalmente
+
+[00:36:54]
+limpio Cuál es la idea gente la idea
+
+[00:36:58]
+para el nasdaq yo me voy a desconectar
+
+[00:37:01]
+me voy a ir este probablemente ya no lo
+
+[00:37:04]
+veamos no sé si mañana pasado pero
+
+[00:37:06]
+ustedes ya saben la idea va a ser tener
+
+[00:37:09]
+un retroceso y después del retroceso
+
+[00:37:12]
+intentar volver a comprar para venir
+
+[00:37:16]
+probablemente por el alto semanal que es
+
+[00:37:18]
+este que está acá o por el alto mensual
+
+[00:37:22]
+que es este que está acá es la idea se
+
+[00:37:25]
+venir por esos dos de ahí entonces La
+
+[00:37:28]
+idea es este eso el retroc no sé cuándo
+
+[00:37:32]
+lo vaya a dar el precio
+
+[00:37:34]
+Este pero yo creo que pronto 5 minutos
+
+[00:37:40]
+que minutos sigue con
+
+[00:37:44]
+sucia fense que aquí está esta zona zona
+
+[00:37:48]
+es la la que veo que está buenaa de aquí
+
+[00:37:52]
+Entonces ya ya ustedes saben me gustaría
+
+[00:37:55]
+que rebalancear todo
+
+[00:37:58]
+perfectamente y ahí se
+
+[00:38:00]
+viniera vamos a marcar la estructura
+
+[00:38:03]
+gente para que para tenerla Clara con la
+
+[00:38:06]
+estructura también
+
+[00:38:08]
+para Solamente vamos a marcar la última
+
+[00:38:11]
+estructura nos bajaría a 15 minutos y
+
+[00:38:13]
+marcaría la estructura como más
+
+[00:38:15]
+interesante para ver la fractalidad
+
+[00:38:17]
+estbamos trabajando fíjense
+
+[00:38:22]
+que vamos a hacer un poquito
+
+[00:38:24]
+de este aquí
+
+[00:38:28]
+esto que está aquí un pequeño repaso
+
+[00:38:32]
+eliminamos esto que está aquí dejamos
+
+[00:38:34]
+este High este low el precio venía a
+
+[00:38:37]
+rebalancear esto que está aquí teníamos
+
+[00:38:39]
+ahora este High que fue inducción Y esta
+
+[00:38:42]
+es la última inducción entonces este es
+
+[00:38:44]
+el último low que nos queda importante y
+
+[00:38:46]
+este es actualmente tendríamos esta
+
+[00:38:49]
+fractalidad la fractalidad que estamos
+
+[00:38:52]
+trabajando es bien importante que la
+
+[00:38:54]
+estructura siempre la tengan ustedes
+
+[00:38:56]
+Clara cuando cambie de dirección o de
+
+[00:38:58]
+estructura pues sepan Por qué no aparte
+
+[00:39:02]
+de poner niveles Tenemos que tener Clara
+
+[00:39:04]
+la dirección del mercado para estar
+
+[00:39:06]
+tradeando a favor de ella entonces este
+
+[00:39:09]
+último se metió en zona Premium este lo
+
+[00:39:11]
+vi ayer ayer domingo la última entrada
+
+[00:39:15]
+me dieron ganas de entrar en otra cuenta
+
+[00:39:17]
+que tengo por ahí de funding pero como
+
+[00:39:20]
+ya iba bastante cargado no quise
+
+[00:39:22]
+arriesgar de
+
+[00:39:24]
+más bastante cargado en una cuenta una
+
+[00:39:27]
+entrada la hicimos el jueves otra el
+
+[00:39:29]
+viernes entonces ya el domingo no quise
+
+[00:39:34]
+reentraron de Premium cuento cuando
+
+[00:39:38]
+llegó a esa zona de descuento Entonces
+
+[00:39:40]
+ya no es necesario marcar toda esta
+
+[00:39:42]
+estructura porque ya quedó en el pasado
+
+[00:39:44]
+Solamente podemos marcar la última
+
+[00:39:46]
+estura que llevamos Este es el último
+
+[00:39:49]
+low y este es el último High y este es
+
+[00:39:51]
+el último es el último
+
+[00:39:54]
+fractal que tenemos ahí
+
+[00:39:57]
+este el último el último fractal y
+
+[00:40:00]
+estamos trabajando ese fractalidad
+
+[00:40:01]
+entonces la idea gente
+
+[00:40:07]
+es ya lo vimos en Macro estamos viendo
+
+[00:40:19]
+frame La idea es
+
+[00:40:23]
+tener próximas compras Pues de el
+
+[00:40:33]
+retroc a ponerlo aquí bonito
+
+[00:40:36]
+gente gusta hacer las cosas bien si las
+
+[00:40:39]
+voy a hacer entonces estoy hace un
+
+[00:40:42]
+análisis correspondiente al a la zona de
+
+[00:40:45]
+trabajo para los próximos
+
+[00:40:48]
+días entonces gente ahí estamos en 15
+
+[00:40:51]
+minutos da Ya les puse todo el contexto
+
+[00:40:53]
+Macro y la idea que tenemos la idea es
+
+[00:40:57]
+venir aquí a hacer un próximo retroceso
+
+[00:41:01]
+Ya en cuanto nosotros nos metamos esta
+
+[00:41:03]
+área de Aquí más o menos precio de cfd
+
+[00:41:06]
+capital.com
+
+[00:41:09]
+2053 ya se pone bueno para comprar la
+
+[00:41:12]
+zona más óptima serían los
+
+[00:41:14]
+[Música]
+
+[00:41:16]
+20.320
+
+[00:41:18]
+aproximadamente pero a mí me encantaría
+
+[00:41:21]
+que el precio viniera por lo
+
+[00:41:23]
+menos ya en cuanto se meta esta área ya
+
+[00:41:27]
+está gustando bastante para
+
+[00:41:32]
+comprar ya no escuché si nas tenía un
+
+[00:41:36]
+retroceso para meter a operación ahorita
+
+[00:41:38]
+no estamos hablando para próximos días
+
+[00:41:43]
+Estamos hablando para los
+
+[00:41:45]
+próximos horas cuando lo haga cuando se
+
+[00:41:48]
+le pegue su gana hacerlo si lo hace
+
+[00:41:51]
+ahorita en 10 minutos pues puede ser que
+
+[00:41:53]
+en 10
+
+[00:41:54]
+minutos
+
+[00:41:56]
+pero creo que lo vaya a hacer ahorita
+
+[00:41:58]
+ahorita está muy alcista lo va a hacer
+
+[00:42:01]
+en unos próximos días no entonces
+
+[00:42:04]
+este la idea gente Entonces como les
+
+[00:42:08]
+decía es esperar el retroceso para
+
+[00:42:11]
+comprar de preferencia que se meta la z
+
+[00:42:14]
+a la zona de descuento en en esa
+
+[00:42:16]
+fractalidad que estamos
+
+[00:42:18]
+trabajando Qué pasa si aquí sigue
+
+[00:42:20]
+subiendo Gustavo y se va tu de Moon Pues
+
+[00:42:22]
+bueno este seguiríamos esperando el
+
+[00:42:24]
+retroceso y ya está
+
+[00:42:27]
+Yo ya salí de mis compras toqué Take
+
+[00:42:29]
+profit les mostré Acá está la entrada en
+
+[00:42:31]
+tp y pues vamos a esperar a seguir
+
+[00:42:34]
+trendo a favor de la tendencia pero una
+
+[00:42:36]
+vez que el precio retroceda no vamos a
+
+[00:42:37]
+comprar ahí ahí no se compra No qué tal
+
+[00:42:41]
+Johnson Cómo estás Cómo estás perfecto
+
+[00:42:45]
+estamos aquí analizando
+
+[00:42:47]
+nasdaq saludos a toda la gente de tikt
+
+[00:42:50]
+gente tikt se pueden unir a este en vivo
+
+[00:42:54]
+siguiéndome estamos también en YouTube
+
+[00:42:57]
+trer también pueden dejar su me gusta
+
+[00:42:59]
+para que más gente recomiende nuestro en
+
+[00:43:02]
+vivo La verdad es que se agradece mucho
+
+[00:43:05]
+agradece mucho los me gustas el récord
+
+[00:43:08]
+se quedó como en 13200 no entonces hay
+
+[00:43:11]
+que echarle ganitas gente échenle
+
+[00:43:12]
+ganitas estamos 165 me gustas gente muy
+
+[00:43:16]
+poco denle
+
+[00:43:18]
+ganitas yo voy en el siete perfecto
+
+[00:43:21]
+también la gente de YouTube puede dejar
+
+[00:43:22]
+su me gusta gente de YouTube es
+
+[00:43:24]
+completamente gratis no sé por qué la
+
+[00:43:25]
+gente no deja su me estamos dando aquí
+
+[00:43:27]
+contenido gratis no no hay no te estamos
+
+[00:43:30]
+cobrando nada por por nada completamente
+
+[00:43:35]
+gratis y si te gusta el contenido pues
+
+[00:43:37]
+le estás
+
+[00:43:38]
+Eh Qué estás comprando vendiendo salimos
+
+[00:43:41]
+de una compra este David salimos de una
+
+[00:43:44]
+compra esta la vimos en vivo el día
+
+[00:43:46]
+jueves y el día bueno el día jueves no
+
+[00:43:48]
+el día viernes salimos de un tap profit
+
+[00:43:51]
+de una de una compra este
+
+[00:43:55]
+y estamos esperando a que el mercado
+
+[00:43:58]
+estoy diciéndoles la idea para los
+
+[00:44:00]
+próximos días para volver a comprar
+
+[00:44:05]
+no vamos a volver a intentar a volver a
+
+[00:44:07]
+comprar Pero una vez que el mercado
+
+[00:44:09]
+retroceda Esta es la última fractalidad
+
+[00:44:11]
+que estamos manejando el último punto
+
+[00:44:14]
+entonces la idea les digo es que el
+
+[00:44:16]
+precio retroceda y comprar no
+
+[00:44:18]
+básicamente que caiga y compramos es la
+
+[00:44:20]
+idea ya está es así de sencillo no hay
+
+[00:44:24]
+más misterio estamos analizando pues
+
+[00:44:27]
+analizando para los próximos Por qué
+
+[00:44:29]
+Porque Acabamos de salir de un Take
+
+[00:44:31]
+profit Take profit por acá fue una
+
+[00:44:34]
+entrada un un a dos que se dio el día
+
+[00:44:37]
+jueves y luego se dio el día viernes el
+
+[00:44:39]
+viernes se las mandé en vivo cuando el
+
+[00:44:41]
+mercado estaba apenas abriendo y
+
+[00:44:44]
+estuvimos por ahí este discutiendo la
+
+[00:44:47]
+velita y ese rollo no este y la idea es
+
+[00:44:51]
+esa fíjense que se va uniendo más gente
+
+[00:44:52]
+Gracias a la gente que se está uniendo
+
+[00:44:54]
+me pueden seguir también fíjense que en
+
+[00:44:56]
+cuanto me gust G la más gente se une
+
+[00:44:58]
+entonces agradece agradece mucho sus sus
+
+[00:45:01]
+me gusta sus tap tap dqu como locos ahí
+
+[00:45:04]
+el dedo píquenle como locos si llegamos
+
+[00:45:07]
+creo que ya cuando llegamos a 1000 2000
+
+[00:45:10]
+ya el tikton nos empieza a recomendar un
+
+[00:45:12]
+poco más entonces pues como la idea del
+
+[00:45:15]
+nasdaq gente Este es el nasdaq 100 pues
+
+[00:45:18]
+compramos nosotros jueves viernes el
+
+[00:45:21]
+precio se tocó tp entonces la idea ahora
+
+[00:45:23]
+es intentar comprar una vez que tengamos
+
+[00:45:25]
+un retroceso eso es básica ente lo que
+
+[00:45:28]
+estoy esperando para los próximos días
+
+[00:45:30]
+activo es es el nasdaq 100 nasdaq
+
+[00:45:35]
+100 el nasdaq Entonces el nasdaq lo
+
+[00:45:38]
+podemos dejar ahí este igual cualquier
+
+[00:45:42]
+duda lo que sea me pueden escribir por
+
+[00:45:44]
+el Telegram ya les respondo por el
+
+[00:45:46]
+Telegram o por el WhatsApp o lo que sea
+
+[00:45:48]
+vamos a ver el oro porque el oro se pone
+
+[00:45:51]
+interesante para una posible venta loro
+
+[00:45:54]
+el oro Igualmente gente tuvimos esta
+
+[00:45:58]
+entrada est entrada
+
+[00:46:01]
+en por aquí las voy a dejar las entradas
+
+[00:46:05]
+ya marcadas ya no las voy a ir
+
+[00:46:06]
+eliminando porque también me van a
+
+[00:46:08]
+servir de Back testing a mí la última
+
+[00:46:11]
+que yo tenía aquí en ventas la eliminé
+
+[00:46:13]
+muy mal yo tomé una entrada en ventas
+
+[00:46:15]
+por aquí y la eliminé Pero ya voy a
+
+[00:46:18]
+empezar a ponerlas puedes checar el aud
+
+[00:46:21]
+yen sí lo podemos utilizar qué br que
+
+[00:46:24]
+utilizas para operar amigo yo utilizo
+
+[00:46:26]
+pruebas de fondo no utilizo broker opero
+
+[00:46:28]
+en empresas de fondeo ahorita estoy
+
+[00:46:30]
+operando en
+
+[00:46:31]
+ftmo y funding pips estoy fondeado con
+
+[00:46:35]
+los dos y Próximamente voy a operar
+
+[00:46:38]
+también funden
+
+[00:46:39]
+next utilizo empresas de
+
+[00:46:42]
+fondeo checar ahorita checamos el
+
+[00:46:46]
+aud ever ever este no más dame chancita
+
+[00:46:50]
+vamos a hacer un análisis profundo del
+
+[00:46:53]
+oro y el nasda ya saben gente que yo
+
+[00:46:55]
+solamente opero oro y nasdaq no no meto
+
+[00:46:58]
+entradas en otros activos que no sean
+
+[00:47:00]
+estos Mis cuentas reales o entonces por
+
+[00:47:04]
+eso los analizo más
+
+[00:47:06]
+profundamente pero analizo también si
+
+[00:47:09]
+quieren ustedes operan otras cosas pues
+
+[00:47:11]
+las analizo también pares de forex este
+
+[00:47:14]
+alguna otra cosa que no el us30 el sp500
+
+[00:47:17]
+otra cosa
+
+[00:47:18]
+ya cuando puedas el Us 30 okay le damos
+
+[00:47:22]
+ahorita también el Us 30 vamos a
+
+[00:47:24]
+analizar en profundidad el oro este
+
+[00:47:27]
+y igual tenemos bastante tiempo ahorita
+
+[00:47:29]
+gente estamos de chill acabamos de
+
+[00:47:31]
+comenzar Stream prácticamente vamos a
+
+[00:47:33]
+estar un buen ratito aquí Entonces
+
+[00:47:36]
+estamos aquí tranquis Vamos a darle una
+
+[00:47:39]
+buena analizada al oro porque les digo
+
+[00:47:41]
+que ya tuvimos esta entren a la alza
+
+[00:47:43]
+tocamos tp y ahora pues posibles ventas
+
+[00:47:46]
+desde esta zona que les decía y vamos a
+
+[00:47:49]
+analizar de manera profunda el el profe
+
+[00:47:53]
+tengo una duda Cuáles son los
+
+[00:47:55]
+sintéticos los índices sintéticos son el
+
+[00:47:58]
+Boom 500 el Crash 100 y todos esos lo
+
+[00:48:03]
+puedes encontrar como db
+
+[00:48:06]
+db trading View creo que es o derby
+
+[00:48:10]
+trading View así así lo encuentras si lo
+
+[00:48:13]
+googleas en en Google sale Pero yo
+
+[00:48:17]
+índices sintéticos no analizo no los he
+
+[00:48:21]
+operado también una vez los operé hace
+
+[00:48:23]
+muchos años en demo pero la verdad es
+
+[00:48:26]
+que no
+
+[00:48:27]
+pues no me llamaron tanto la atención
+
+[00:48:30]
+llamaron tanto la atención Pero hay
+
+[00:48:32]
+gente que le da esos sobre todo la gente
+
+[00:48:34]
+que no tiene tiempo de operar la sesión
+
+[00:48:36]
+de Nueva York la sesión de Londres y va
+
+[00:48:39]
+como más limitada de tiempo pues operan
+
+[00:48:43]
+esos esos índices son exclusivos del
+
+[00:48:48]
+broker con v entonces ahí tú puedes
+
+[00:48:52]
+operarlos igual si le pones
+
+[00:48:56]
+salen ahí todos las pues las gráficas
+
+[00:48:58]
+iguales como en trading View pero de los
+
+[00:49:01]
+sintéticos yo la verdad te digo que ni
+
+[00:49:03]
+los miro ni los opero ni nada por el
+
+[00:49:05]
+estilo Pero sí los conozco hace muchos
+
+[00:49:08]
+años los intenté operar Pero pero nunca
+
+[00:49:11]
+me interesaron en los que el que los
+
+[00:49:13]
+operaba eraa
+
+[00:49:16]
+gerald pero yo no voy aquí borrar mis
+
+[00:49:20]
+gráficos unas cosillas gente Vamos a
+
+[00:49:23]
+ponernos serios con el oro nos vamos a
+
+[00:49:25]
+poner muy serios con con el oro Entonces
+
+[00:49:27]
+los que les operen oro y les interese se
+
+[00:49:30]
+va a poner
+
+[00:49:31]
+interesante vamos a eliminar cosas que
+
+[00:49:34]
+no nos gusten esta entrada de aquí la
+
+[00:49:36]
+vamos a poner un poquito para que ya no
+
+[00:49:39]
+estorbe a la vista las voy a ir dejando
+
+[00:49:41]
+por aquí para poder tener un Back
+
+[00:49:43]
+testing después esta zona ya aquí no nos
+
+[00:49:48]
+importa ya va a poner bastante bastante
+
+[00:49:51]
+interesante AC gracias a la gente que
+
+[00:49:53]
+está dando su me gusta somos eh gente de
+
+[00:49:56]
+dejen su me gusta en tiktok y en YouTube
+
+[00:49:58]
+Recuerden que los algoritmos los
+
+[00:50:01]
+recomiendan entre más gente Deje su me
+
+[00:50:04]
+gusta pues el algoritmo dice Ah pues a
+
+[00:50:05]
+la gente le está gustando
+
+[00:50:09]
+esto era el último alto tomábamos
+
+[00:50:13]
+este por aquí est es la última
+
+[00:50:17]
+zona vamos a poner aquí empezar desde
+
+[00:50:21]
+arriba Vamos a eliminar también esta
+
+[00:50:23]
+flecha podemos de hecho
+
+[00:50:27]
+todo
+
+[00:50:31]
+eh tenemos el gráfico totalmente limpio
+
+[00:50:34]
+Entonces vamos a analizar el el las
+
+[00:50:37]
+señales ofreces algún servicio no
+
+[00:50:38]
+Armando es totalmente gratis todo todo
+
+[00:50:41]
+el contenido es totalmente gratis no
+
+[00:50:43]
+tengo canal de señales de momento me lo
+
+[00:50:45]
+han pedido mucho pero de momento no
+
+[00:50:47]
+puede ser que el próximo año sí pero de
+
+[00:50:49]
+momento no tenemos canal de Señales es
+
+[00:50:51]
+totalmente gratis todo el contenido las
+
+[00:50:54]
+estrategias y todo están en mi canal de
+
+[00:50:56]
+de YouTube Gustavo m. Trader me pueden
+
+[00:50:59]
+seguir por allá también Gustavo m.
+
+[00:51:01]
+Trader es completamente gratis todo de
+
+[00:51:04]
+momento lo que sí doy son mentorías uno
+
+[00:51:06]
+a uno pero solamente pues no es de huevo
+
+[00:51:09]
+no es la gente que le interese llevar su
+
+[00:51:12]
+trading a otro nivel pero no es que ande
+
+[00:51:15]
+yo todo el día vendiéndolas cosas la
+
+[00:51:18]
+gente ya sabe que yo doy clases y pues
+
+[00:51:21]
+los que les interesa me escriben me
+
+[00:51:23]
+escriben ahí al WhatsApp o al o al
+
+[00:51:25]
+Instagram o lo que sea
+
+[00:51:27]
+pero no la finalidad no es venderte nada
+
+[00:51:31]
+completamente gratis ahora sí que
+
+[00:51:33]
+somamos un Trader yo soy un Trader en
+
+[00:51:35]
+crecimiento una comunidad en crecimiento
+
+[00:51:36]
+y lo que más me interesa pues es que
+
+[00:51:39]
+ustedes este se la pasen bien que
+
+[00:51:42]
+aprendan de manera gratuita que vayan
+
+[00:51:45]
+ahí este mejorando como traders darles
+
+[00:51:50]
+herramientas aprender una estrategia Esa
+
+[00:51:53]
+es la finalidad eh Cuál es el costo del
+
+[00:51:56]
+un a uno yo he dado un a uno desde hace
+
+[00:51:59]
+más de 2 años llevo dando la mentoría
+
+[00:52:02]
+y la gente ya pues sabe este y si
+
+[00:52:07]
+quieres saber más información sobre eso
+
+[00:52:09]
+pues me escribes al mensaje a me mandas
+
+[00:52:11]
+un mensaje privado tanto puede ser en
+
+[00:52:14]
+instagram o puede ser en en WhatsApp
+
+[00:52:17]
+este me Cómo encuentras esa red sociales
+
+[00:52:21]
+Pues a través de mi YouTube estamos
+
+[00:52:23]
+ahorita actualmente fense voy a mostrar
+
+[00:52:27]
+por acá no Se los voy a mostrar tanto
+
+[00:52:28]
+gente de tiktok porque luego me banean
+
+[00:52:31]
+la última vez me banearon pero estamos
+
+[00:52:33]
+acá en en YouTube Gustavo m. Trader
+
+[00:52:36]
+fíjense igual así Gustavo m. Trader por
+
+[00:52:40]
+allá me pueden seguir la gente de tiktok
+
+[00:52:43]
+me puede seguir por allá y ya en
+
+[00:52:45]
+cualquier Por ejemplo ahorita estamos en
+
+[00:52:47]
+vivo También acá en la descripción de
+
+[00:52:49]
+cualquier eh en vivo van a encontrar
+
+[00:52:53]
+pues mi comunidad de Telegram mi
+
+[00:52:55]
+comunidad de WhatsApp y hasta abajo está
+
+[00:52:57]
+mi mi link también de WhatsApp para que
+
+[00:53:00]
+me puedan contactar y escribir los que
+
+[00:53:02]
+le interese pues tomar clases o algo así
+
+[00:53:05]
+más personalizado les digo no es de a
+
+[00:53:08]
+huevo y tampoco me la paso diciendo todo
+
+[00:53:10]
+el día eso porque la finalidad es pues
+
+[00:53:14]
+mi único pago para mí es que dejen su me
+
+[00:53:16]
+gusta que me sigan que se suscriban al
+
+[00:53:19]
+YouTube que me sigan también en
+
+[00:53:21]
+instagram pero pues ya al que le
+
+[00:53:23]
+interese pues mucha gente le interesa ir
+
+[00:53:25]
+más a por todas no interesa ir como más
+
+[00:53:28]
+rápido les interesa hacer algo más serio
+
+[00:53:31]
+quieren hacer ya este aprender de manera
+
+[00:53:34]
+más profesional pues pueden inscribir
+
+[00:53:38]
+escriben y ahí ya nos ponemos de acuerdo
+
+[00:53:41]
+no ya ahí vemos qué onda no este También
+
+[00:53:45]
+estamos en instagram este me me gustaría
+
+[00:53:47]
+mucho que me siguieran por allá estamos
+
+[00:53:49]
+subiendo también de Seguidores por ahí
+
+[00:53:51]
+les Estoy compartiendo un montón de
+
+[00:53:52]
+contenido de valor igual se los pongo
+
+[00:53:55]
+aquí un ratito Gustavo pun Trader porque
+
+[00:53:57]
+luego me banea el
+
+[00:53:59]
+tiktok
+
+[00:54:02]
+este cómo ves el oro dice Pablo Ahorita
+
+[00:54:05]
+vamos con el oro Pablo Ya vamos con el
+
+[00:54:07]
+oro vamos a hacer un análisis bien
+
+[00:54:08]
+detallado del oro Entonces si quiere ver
+
+[00:54:11]
+el oro aquí quédese lo vamos a hacer un
+
+[00:54:13]
+análisis muy detallado Ya hicimos nasdaq
+
+[00:54:15]
+Ahorita vamos con oro y luego vamos a ir
+
+[00:54:17]
+con algunos otros pares que ustedes me
+
+[00:54:19]
+pidan pero aquí estamos también Gustavo
+
+[00:54:21]
+trer en instagram por ahí pues pueden
+
+[00:54:24]
+ver cositas
+
+[00:54:27]
+Como por ejemplo esto pueden ver cositas
+
+[00:54:30]
+y todo eso no al que le interese pues
+
+[00:54:33]
+puede pasarse por allá lo quito porque
+
+[00:54:35]
+luego me me banea el tiktok Cuánto
+
+[00:54:39]
+cuesta la del 1 a un el que le interese
+
+[00:54:41]
+el mentoría 1 a un escriban por
+
+[00:54:43]
+Instagram o por o por Whatsapp y ahí nos
+
+[00:54:46]
+ponemos de acuerdo ahí les digo toda la
+
+[00:54:48]
+información cómo funciona ahí me pueden
+
+[00:54:51]
+preguntar
+
+[00:54:54]
+eh vamos con el oro Entonces gente vamos
+
+[00:54:58]
+por el oro el que no le interesa no va a
+
+[00:55:00]
+escribir el que le interesa va a
+
+[00:55:01]
+escribir y ya está así es sencillo así
+
+[00:55:05]
+funciona la funciona la vida que le
+
+[00:55:09]
+interese escribe el que no le interese
+
+[00:55:11]
+no
+
+[00:55:12]
+escribe
+
+[00:55:14]
+este Okay este este es el último alto
+
+[00:55:18]
+que tomamos lo estoy marcando para que
+
+[00:55:20]
+ustedes lo tengan en cuenta estamos en
+
+[00:55:22]
+un gráfico semanal tienes costo de
+
+[00:55:24]
+mentoría eh les digo los que interes
+
+[00:55:26]
+mentoría un a un gente me pueden
+
+[00:55:29]
+escribir por WhatsApp por Instagram cómo
+
+[00:55:32]
+me buscan en WhatsApp o en instagram van
+
+[00:55:34]
+a mi canal de
+
+[00:55:36]
+youtube.
+
+[00:55:37]
+Trader digo porque me están preguntando
+
+[00:55:41]
+varios van a mi canal de YouTube Gustavo
+
+[00:55:45]
+estamos en vivo te suscribes de paso al
+
+[00:55:47]
+canal de
+
+[00:55:49]
+YouTube de paso y en la descripción de
+
+[00:55:51]
+cualquier video que tú mires o cualquier
+
+[00:55:54]
+directo lo que sea encuentras mis redes
+
+[00:55:57]
+sociales Telegram mi Whatsapp o hasta
+
+[00:56:01]
+abajo encuentras mi WhatsApp personal
+
+[00:56:02]
+para que me escribas directamente a mí
+
+[00:56:04]
+hasta mero abajo siempre en cualquier
+
+[00:56:07]
+directo video lo que sea de YouTube lo
+
+[00:56:09]
+vas a encontrar en la biografía de este
+
+[00:56:13]
+tiktok ahí encuentras mi YouTube y mi
+
+[00:56:16]
+Instagram si estás desde móvil estás
+
+[00:56:19]
+desde PC pues está mi Telegram entonces
+
+[00:56:22]
+por ahí me puedes contactar puedes ir
+
+[00:56:24]
+ahí vas a la descripción de cualquier
+
+[00:56:26]
+video te suscribes de paso a mi canal de
+
+[00:56:28]
+YouTube que está bastante Bueno tengo un
+
+[00:56:30]
+montón de contenido gratis sobre trading
+
+[00:56:32]
+estamos subiendo actualmente una guía de
+
+[00:56:35]
+cómo hacer trading gratuito eh la mucha
+
+[00:56:39]
+gente me pregunta por mi estrategia la
+
+[00:56:40]
+estrategia está gratis en YouTube está
+
+[00:56:43]
+gratis ahí la puedes aprender gratis y
+
+[00:56:47]
+este y ahí me puedes en cualquier
+
+[00:56:49]
+descripción de cualquier video pues ahí
+
+[00:56:51]
+me contactas puedes mandar un WhatsApp
+
+[00:56:53]
+contesto o me puedes mandar un mensaje
+
+[00:56:56]
+privado de instagam de preferencia
+
+[00:56:58]
+WhatsApp solo contestar más rápido por
+
+[00:57:00]
+WhatsApp eh Estoy totalmente atento por
+
+[00:57:03]
+allá Eh bueno semanal tomamos este alto
+
+[00:57:06]
+gente y vamos a marcar lows y highs
+
+[00:57:10]
+importantes Me gustaría saber cuál es el
+
+[00:57:12]
+mensual porque la verdad no lo tengo muy
+
+[00:57:15]
+en cuenta
+
+[00:57:17]
+Okay a marcar primero el rango mensual
+
+[00:57:19]
+gente también este tipo de análisis cómo
+
+[00:57:22]
+lo hago de paso a paso y por qué lo hago
+
+[00:57:25]
+así de esa manera
+
+[00:57:26]
+está en mi YouTube está gratis YouTube
+
+[00:57:31]
+La
+
+[00:57:32]
+estrategia los que no sepan analizar
+
+[00:57:34]
+paso a paso y y les cueste tomar
+
+[00:57:38]
+decisiones frente al gráfico pues en mi
+
+[00:57:41]
+YouTube está gente solamente es que les
+
+[00:57:44]
+interese
+
+[00:57:46]
+aprender interesa aprender Pues ahí está
+
+[00:57:48]
+el canal
+
+[00:57:50]
+aprendas gratis y al que le interese ir
+
+[00:57:54]
+a por todas porque hay mucha gente Pues
+
+[00:57:55]
+que y dice no quiero quieren acelerar su
+
+[00:58:00]
+crecimiento que la verdad pues que el 1
+
+[00:58:02]
+a un estoy yo aquí de uno a uno
+
+[00:58:05]
+diciéndote Mira tienes que hacer esto
+
+[00:58:06]
+paso a paso si aceleras tu crecimiento
+
+[00:58:09]
+no pero no es de huevo gente porque
+
+[00:58:11]
+obviamente eso tiene un costo Porque mi
+
+[00:58:13]
+tiempo Pues vale vale un
+
+[00:58:16]
+costo pero hombre que el 85 90 o más el
+
+[00:58:22]
+contenido Es
+
+[00:58:24]
+gratis la gente que l años Incluso en
+
+[00:58:29]
+mi Este es el rango mensual gente el
+
+[00:58:33]
+Este es el fractal que estamos
+
+[00:58:34]
+trabajando mensualmente y en semanal
+
+[00:58:37]
+pues tomamos ese último High y de a
+
+[00:58:40]
+partir de ahí rechazamos vamos a dejar
+
+[00:58:43]
+aquí para recordatorio del l Time
+
+[00:58:47]
+frame luego venimos este cc1 semanal y
+
+[00:58:52]
+acá abajo también Hicimos lo mismo abajo
+
+[00:58:55]
+hicimos lo mismo tomamos este y
+
+[00:58:59]
+tomamos este que está
+
+[00:59:02]
+dos
+
+[00:59:06]
+ahí Creo que ya está gente ya está Okay
+
+[00:59:12]
+el que todavía está abierto el que
+
+[00:59:14]
+todavía está como como Open es este que
+
+[00:59:17]
+está acá
+
+[00:59:19]
+abajo es el el último que está Open es
+
+[00:59:22]
+el último que está abierto
+
+[00:59:26]
+vamos ir
+
+[00:59:28]
+[Música]
+
+[00:59:34]
+con es el último semanal gente que
+
+[00:59:38]
+estamos haciendo un análisis detallado
+
+[00:59:40]
+del ororo ehan nuevos Llegando gracias
+
+[00:59:43]
+también me pueden seguir toda la gente
+
+[00:59:45]
+nueva haciendo un análisis detallado del
+
+[00:59:47]
+l que pasa es que vamos por
+
+[00:59:53]
+pasos vamos por pasos
+
+[00:59:56]
+entonces Este era el último alto el oro
+
+[01:00:00]
+no es como el nasda que la liquidez la
+
+[01:00:02]
+toma muy fácilmente
+
+[01:00:03]
+el el oro suele dejar la liquidez más
+
+[01:00:07]
+viva más rato fense que este nivel va a
+
+[01:00:09]
+ser un nivel también bastante bastante
+
+[01:00:12]
+importante Ahí ya y este es el último
+
+[01:00:17]
+Rango semanal que estamos trabajando de
+
+[01:00:19]
+punto a este punto hablando ahorita ya
+
+[01:00:22]
+de 4
+
+[01:00:23]
+horas Perdón diario me diario no sé por
+
+[01:00:27]
+qué diario Este era el último también
+
+[01:00:30]
+alto diario que tomamos y este tenemos
+
+[01:00:35]
+este Rango diario que estamos trabajando
+
+[01:00:38]
+por está vivo todavía está vivito gente
+
+[01:00:42]
+está vivo por acá en tiktok puede ser
+
+[01:00:45]
+que se mire un poco mal gente este estoy
+
+[01:00:48]
+tratando de
+
+[01:00:50]
+hacerlo más fácil posible ya te en un
+
+[01:00:53]
+mensaje por ig te contesta al ratito que
+
+[01:00:56]
+termine Stream también puedes mandarme
+
+[01:00:59]
+por WhatsApp
+
+[01:01:03]
+también pero pero por ahí les respondo
+
+[01:01:06]
+gente yo les respondo ustedes tranqu no
+
+[01:01:10]
+solamente lo que lo que ustedes quieran
+
+[01:01:12]
+saber al mensaje privado por ahí
+
+[01:01:17]
+les Okay mensual semanal Este es el
+
+[01:01:21]
+último diario es el último semanal
+
+[01:01:23]
+fíjense que borramos la liquidez
+
+[01:01:25]
+entonces este este va a ser un Point muy
+
+[01:01:28]
+importante va a ser un Point muy
+
+[01:01:29]
+importante porque fíjense que borramos
+
+[01:01:31]
+la liquidez y luego después subimos
+
+[01:01:33]
+entonces este va a ser un po importante
+
+[01:01:36]
+este de aquí y este otro de acá estos
+
+[01:01:40]
+dos eliminarlos pero estos los vamos a
+
+[01:01:43]
+dejar como K
+
+[01:01:44]
+Level
+
+[01:01:49]
+Level este acá
+
+[01:01:54]
+también K lev ties un K
+
+[01:01:59]
+Level
+
+[01:02:01]
+okay
+
+[01:02:03]
+Y este es la zona
+
+[01:02:08]
+diara tenemos inbalance hasta acá hasta
+
+[01:02:12]
+aquí tenemos imbalance hasta aquí
+
+[01:02:15]
+podríamos cerrar el imbalance diario
+
+[01:02:19]
+ahí ustedes están viendo solamente
+
+[01:02:21]
+líneas pero va va a tomar más sentido
+
+[01:02:24]
+cuando trabajemos el Over frame ahorita
+
+[01:02:26]
+qué estamos haciendo pues marcando
+
+[01:02:28]
+niveles imp como estos altos semanales
+
+[01:02:31]
+este alto mensual mensual ya queda muy
+
+[01:02:34]
+lejos pero ahí lo dejamos Este es el
+
+[01:02:37]
+último como como
+
+[01:02:41]
+bajo este semanal bajo semanal alto y
+
+[01:02:47]
+estamos marcando diarios de diarios
+
+[01:02:49]
+tenemos este último low último low los
+
+[01:02:52]
+highs ya ha sido tomados todos fíjense
+
+[01:02:54]
+que el diario hemos tomado todo gente a
+
+[01:02:57]
+la alza este este este último No pero lo
+
+[01:03:01]
+tenemos tomado podemos marcar Igualmente
+
+[01:03:04]
+también se podría marcar la verdad es
+
+[01:03:06]
+que sí está cerca del y este es diario
+
+[01:03:11]
+solamente para tener en cuenta los altos
+
+[01:03:13]
+a partir de ahí ya nos podemos a bajar a
+
+[01:03:15]
+4 horas e en 4
+
+[01:03:19]
+horas fíjense que lo último detallado
+
+[01:03:22]
+que tenemos es que
+
+[01:03:24]
+Tom 10
+
+[01:03:27]
+esa liquidez es una liquidez interna
+
+[01:03:30]
+bueno es esta en realidad es esta estos
+
+[01:03:34]
+dos puntos de acá ya son estos dos
+
+[01:03:37]
+puntos de acá pero aquí pues es cuando
+
+[01:03:39]
+venimos a tomar relevantemente ese punto
+
+[01:03:41]
+de ahí ya tenemos una vela buena que me
+
+[01:03:44]
+gusta esta vela es bastante buena es una
+
+[01:03:47]
+vela de rechazo de la zona aquí fíjense
+
+[01:03:49]
+que no teníamos esta confirmación de
+
+[01:03:51]
+esta vela que aquí no teníamos un
+
+[01:03:53]
+rechazo pero aquí tenemos una vela de
+
+[01:03:54]
+indecisión con rechazo
+
+[01:03:56]
+y ahí está está más interesante para se
+
+[01:04:01]
+ve más interesante para apoyar la idea
+
+[01:04:03]
+de ventas ahora en general la tendencia
+
+[01:04:06]
+del Oro es alcista tenemos que tener en
+
+[01:04:09]
+cuenta que posiblemente si caemos la
+
+[01:04:12]
+zona que vengamos a visitar caemos más
+
+[01:04:17]
+profundamente la zona que vengamos a
+
+[01:04:18]
+visitar va a estar sobre
+
+[01:04:23]
+Aquí esta área así buen ojo de buen
+
+[01:04:26]
+cubero eh estoy marcando ni siquiera
+
+[01:04:28]
+Pero como estamos muy lejos no es tan
+
+[01:04:30]
+relevante marcar exactamente la como la
+
+[01:04:33]
+zona más inmediata o la zona como más la
+
+[01:04:37]
+zona más este específica no pero a buen
+
+[01:04:40]
+ojo de buen cubero si caemos vamos a
+
+[01:04:42]
+venir por ahí sobre los 2580 270 y
+
+[01:04:47]
+caemos la tendencia general sigue siendo
+
+[01:04:49]
+alcista hecho nosotros un Complex
+
+[01:04:52]
+pullback y este a partir de ahí a ver
+
+[01:04:56]
+cómo está ahora
+
+[01:04:58]
+sí probablemente ya podamos hacer un
+
+[01:05:00]
+Rango caída en una hora en en 4 horas
+
+[01:05:04]
+Perdón en una hora vamos bajistas y en
+
+[01:05:07]
+diario estamos en un
+
+[01:05:08]
+Rango
+
+[01:05:11]
+Entonces ya aquí ya se pone interesante
+
+[01:05:14]
+porque una hora ya tenemos refinada la
+
+[01:05:17]
+área de aquí era esta vela deje refino
+
+[01:05:20]
+esta
+
+[01:05:22]
+oferta refino esta zona de oferta
+
+[01:05:28]
+ito gente fense como ya hemos rechazado
+
+[01:05:32]
+esa área de ahí que les decía el día
+
+[01:05:34]
+viernes que probablemente podríamos
+
+[01:05:36]
+tener unas ventas desde ahí pero el día
+
+[01:05:38]
+viernes no estaba tan claro Porque
+
+[01:05:40]
+todavía
+
+[01:05:41]
+este por no estaba tan claro Porque
+
+[01:05:43]
+todavía le faltaba bastante bastante
+
+[01:05:45]
+bastante tiempo
+
+[01:05:48]
+ya profe tengo una duda Cuáles son Okay
+
+[01:05:51]
+mil gracias Okay perfecto ahí en YouTube
+
+[01:05:55]
+han escrito nada
+
+[01:05:56]
+que los Estoy leyendo recuerden en
+
+[01:05:58]
+YouTube y en tiktok eh gente Gracias por
+
+[01:06:00]
+los likes en tiktok 1.4k de me gustas le
+
+[01:06:03]
+pueden picar también a los me gusta los
+
+[01:06:04]
+que sean nuevos me pueden seguir es
+
+[01:06:07]
+completamente gratis también me pueden
+
+[01:06:08]
+seguir en YouTube el link se encuentra
+
+[01:06:10]
+en mi biografía de de
+
+[01:06:13]
+tiktok YouTube estamos también en vivo
+
+[01:06:15]
+pantalla completa los que quieran los
+
+[01:06:17]
+que les guste el YouTube pues ahí
+
+[01:06:18]
+estamos pantalla completa en YouTube acá
+
+[01:06:21]
+en tiktok ya saben que el formato es
+
+[01:06:22]
+vertical este bueno entonces en el oro
+
+[01:06:26]
+tomamos ese ese último alto induci mos
+
+[01:06:29]
+un poco vinimos hacia arriba y mi idea
+
+[01:06:32]
+Entonces es esperar el quiebre de
+
+[01:06:35]
+estructura
+
+[01:06:36]
+o No necesariamente el quiebre puede ser
+
+[01:06:39]
+que regresemos por ahí pero me gustaría
+
+[01:06:42]
+que quebremos que que quebremos la
+
+[01:06:44]
+estructura en el
+
+[01:06:47]
+oro aría una posibilidad de que el
+
+[01:06:50]
+precio se vaya sin varanda que sin
+
+[01:06:52]
+baranda pues que no haga nada
+
+[01:06:54]
+simplemente que haga así
+
+[01:06:57]
+es el primer escenario una posibilidad
+
+[01:06:58]
+que el precio haga Así hasta abajo ya
+
+[01:07:01]
+vengamos a la zona de K Level o hay otra
+
+[01:07:03]
+probabilidad de que si
+
+[01:07:05]
+rompamos hagamos el retest
+
+[01:07:09]
+caigamos Entonces yo en dado en dado
+
+[01:07:13]
+caso para tomar ventas en el oro
+
+[01:07:16]
+este esperaría que el precio quebrara la
+
+[01:07:19]
+estructura regresara y aquí vendería
+
+[01:07:23]
+vender desde aquí no interesa tanto
+
+[01:07:27]
+ahora cuál qué entrada más o menos yo
+
+[01:07:29]
+pondría Pues bueno una entrada parecida
+
+[01:07:31]
+a la que está acá
+
+[01:07:34]
+abajo parecida piense que vamos a poner
+
+[01:07:38]
+una entrada
+
+[01:07:43]
+Aquí un
+
+[01:07:44]
+cero para
+
+[01:07:47]
+otro entonces fense gente que mi idea
+
+[01:07:52]
+es que
+
+[01:07:55]
+estoy poniendo
+
+[01:07:58]
+34
+
+[01:08:10]
+44
+
+[01:08:14]
+417 má que el tp nos queda un poquito
+
+[01:08:18]
+abajo por eso entre más Arribita lo
+
+[01:08:20]
+podamos agarrar
+
+[01:08:26]
+podíamos ir a 15 minut de
+
+[01:08:30]
+pronto si entro me gustaría
+
+[01:08:33]
+[Música]
+
+[01:08:35]
+protegerme entro Entonces mi idea más o
+
+[01:08:38]
+menos sería esa
+
+[01:08:40]
+gente a partir de ahí ya
+
+[01:08:43]
+podramos de plano venir a rebalancear
+
+[01:08:46]
+este este imbalance es esta zona de
+
+[01:08:51]
+aquí poner est un poquito más
+
+[01:08:56]
+punto importante
+
+[01:09:00]
+eso el extremo bastante importante
+
+[01:09:02]
+aunque no no ha provocado un nu solo ha
+
+[01:09:05]
+roto estructuras internas Pero igual
+
+[01:09:07]
+este punto esta zona de aquí va a ser
+
+[01:09:10]
+importante el mercado regrese
+
+[01:09:13]
+ahí entonces este
+
+[01:09:17]
+aquí sabemos que va rebalancear el
+
+[01:09:19]
+diario
+
+[01:09:21]
+rebalancear
+
+[01:09:24]
+Enton accionar
+
+[01:09:26]
+probablemente área de
+
+[01:09:28]
+aquí ha provocado un nuevo High
+
+[01:09:32]
+High esa zona ahí una zona de demanda yo
+
+[01:09:37]
+no vendería
+
+[01:09:39]
+ahí
+
+[01:09:42]
+Entonces el esperar el retroceso y del
+
+[01:09:46]
+retroceso
+
+[01:09:49]
+vendemos 4
+
+[01:09:51]
+horas gusta bastante
+
+[01:09:57]
+4 horas ya me gusta
+
+[01:10:05]
+bastante ya está bueno ahora ya está per
+
+[01:10:10]
+el retroceso ahora dónde
+
+[01:10:17]
+más tal vez
+
+[01:10:28]
+por ahí se va a dar la venta gente
+
+[01:10:30]
+último fractal actualmente pi que
+
+[01:10:34]
+llevamos este High vamos
+
+[01:10:39]
+[Música]
+
+[01:10:45]
+a y dentro de esa subestructura lamos
+
+[01:10:50]
+Este como los vamos a ver la última
+
+[01:10:54]
+fractalidad de gente importante mirar la
+
+[01:10:58]
+tima este fense que en una hora en la
+
+[01:11:02]
+estructura
+
+[01:11:03]
+Mayor estura
+
+[01:11:06]
+Mayor estura Mayor estamos trabajando
+
+[01:11:10]
+este este
+
+[01:11:12]
+fractal no logró causar estructura es el
+
+[01:11:17]
+decisional
+
+[01:11:19]
+extremo el extremo Este es el decisional
+
+[01:11:22]
+vamos Igualmente marcar porque
+
+[01:11:24]
+reaccionado bastante bien Este era el
+
+[01:11:26]
+último mínimo aquí donde tengo la zona
+
+[01:11:28]
+de K Level es donde ya habíamos roto la
+
+[01:11:32]
+estructura aquí ya hicimos un break of
+
+[01:11:36]
+destructor Level vamos a dejar así
+
+[01:11:39]
+porque es
+
+[01:11:40]
+un
+
+[01:11:42]
+importante acá no lo tan
+
+[01:11:45]
+relevante dado caso que si se ve más
+
+[01:11:49]
+como K Level este
+
+[01:11:56]
+pero fíjense que va a serc
+
+[01:12:02]
+esta viendo rompimiento de est estamos
+
+[01:12:06]
+un poquito mapeando Ahora la estructura
+
+[01:12:08]
+después de ver las zonas ya igual tengo
+
+[01:12:10]
+la idea de Trade ya la idea de Trade la
+
+[01:12:13]
+tengo más un poquito Clara pero lo lo
+
+[01:12:16]
+estamos estamos haciendo algo más
+
+[01:12:18]
+detallado les dije que íbamos a hacer
+
+[01:12:19]
+algo detallado
+
+[01:12:21]
+gente
+
+[01:12:24]
+detallado
+
+[01:12:26]
+Entonces ya está esta zona Igualmente la
+
+[01:12:29]
+tendría que extender porque esa zona va
+
+[01:12:31]
+a ser importante después de liquidar ese
+
+[01:12:33]
+bajo diario va a ser una zona de de K
+
+[01:12:36]
+Level gente Entonces esta zona hay que
+
+[01:12:39]
+tenerla muy en cuenta porque
+
+[01:12:40]
+posiblemente el oro reaccione por ahí el
+
+[01:12:43]
+tp nos quedaría cerca de ahí Pero bueno
+
+[01:12:45]
+ya cada
+
+[01:12:46]
+uno entran
+
+[01:12:50]
+este ya cada uno le va Le va a quedar el
+
+[01:12:53]
+tp más grande Ya
+
+[01:12:56]
+dep ual esto es un stop loss demasiado
+
+[01:12:59]
+hay gente que podría usar menos stop
+
+[01:13:01]
+loss stop loss depende pues su Estilo de
+
+[01:13:05]
+trading como yo tradeo en 4 horas y una
+
+[01:13:07]
+hora por eso tengo este estilo de
+
+[01:13:10]
+entradas y me gustaría ya aquí vimos
+
+[01:13:14]
+todo entonces vimos el K Level vimos el
+
+[01:13:17]
+la liquidez diaria eh Por encima no
+
+[01:13:20]
+tenemos liquidez porque hemos tomado
+
+[01:13:21]
+todo tenemos el la último alto diario
+
+[01:13:23]
+estos últimos dos altos diarios tanto a
+
+[01:13:25]
+la Baja como la alza tenemos a arriba e
+
+[01:13:29]
+tenemos esta zona de de oferta que el
+
+[01:13:31]
+mercado está reaccionando bastante bien
+
+[01:13:33]
+y en vamos a bajarnos ahora así Quiero
+
+[01:13:37]
+bajar mucho minutos para ver
+
+[01:13:44]
+ex el último
+
+[01:13:48]
+High est reaccionando ahí
+
+[01:13:56]
+de preferencia a mí me gustaría que
+
+[01:13:58]
+hiciera esto gente para el Trade de
+
+[01:14:00]
+preferencia gente me gustaría a mí que
+
+[01:14:02]
+hiciera
+
+[01:14:03]
+esto el oro hiciera esto rompiera despés
+
+[01:14:07]
+de rompera aquí hacia arriba y aquí ya
+
+[01:14:10]
+me gusta para
+
+[01:14:11]
+vender lo que lo
+
+[01:14:13]
+ideal pero si no rompe Igualmente aquí
+
+[01:14:18]
+se podría intentar vender o acá
+
+[01:14:21]
+arriba pero de preferencia es como me da
+
+[01:14:24]
+como mejor seguridad que rompa este me
+
+[01:14:28]
+gustaría que pero yo en los dos casos
+
+[01:14:31]
+tengo idea de ventas caso no de compras
+
+[01:14:34]
+por qué de ventas porque para mí esta
+
+[01:14:38]
+estructura que llevamos aquí es
+
+[01:14:40]
+interesante para para
+
+[01:14:42]
+vendera y caer hasta un poquito más
+
+[01:14:46]
+abajo la tendencia general cierto que es
+
+[01:14:48]
+alcista pero la la la estructura de una
+
+[01:14:51]
+hora de 15 minutos pues ya está está
+
+[01:14:55]
+bien para para las ventas después de
+
+[01:14:58]
+haber tomado todo este impulso alcista
+
+[01:14:59]
+que nosotros Eh pues se pone interesante
+
+[01:15:03]
+para para ventas por ahí ahí es una zona
+
+[01:15:07]
+que parece que el precio que está
+
+[01:15:08]
+respetando bastante va respetaba en el
+
+[01:15:12]
+pasado
+
+[01:15:13]
+2670 más o menos aquí fíjense que
+
+[01:15:16]
+rechazó 2670 por acá
+
+[01:15:19]
+2 ahora
+
+[01:15:22]
+2665 el nivel de ahí Entonces ya
+
+[01:15:26]
+hablando más en m5 Pues yo lo dejaría
+
+[01:15:29]
+por
+
+[01:15:32]
+ahí pero en cuanto el precio por
+
+[01:15:35]
+aquí ya se ve interesante para venta
+
+[01:15:38]
+Entonces yo dejaría la entrada por ahí
+
+[01:15:42]
+así y vamos a intentar vender por ahí
+
+[01:15:46]
+pero de momento no momento nada comento
+
+[01:15:50]
+nada Por qué en venta y no en compra
+
+[01:15:55]
+porque estoy buscando un movimiento
+
+[01:15:58]
+interesante
+
+[01:16:00]
+movimiento lower frame minuto 5 minutos
+
+[01:16:04]
+tú puedes vender y comprar no pero yo
+
+[01:16:07]
+estoy buscando movimiento
+
+[01:16:10]
+importante cuando les hablo de un
+
+[01:16:11]
+movimiento importante gente hablo de una
+
+[01:16:14]
+subida como Esto fue lo último que
+
+[01:16:17]
+agarramos hablando de un movimiento de
+
+[01:16:20]
+este movimiento importante para m
+
+[01:16:24]
+estamos hablando de una subidita de 3
+
+[01:16:28]
+minutos 5 minutos estamos hablando de
+
+[01:16:30]
+algo mejor en qué temporalidad usas bro
+
+[01:16:34]
+vamos todas las temporalidades Jesús
+
+[01:16:36]
+todas las temporalidades Cómo estás biri
+
+[01:16:38]
+Cómo
+
+[01:16:39]
+estás Cómo
+
+[01:16:42]
+estás estamos acá bien gracias a la
+
+[01:16:44]
+gente de tiktok que está dejando su me
+
+[01:16:46]
+gusta y que me está siguiendo Gracias
+
+[01:16:48]
+gente de tiktok también a la gente de
+
+[01:16:50]
+YouTube Se le quiere bastante gente de
+
+[01:16:52]
+YouTube tenemos s likes no más
+
+[01:16:55]
+qué está pasando gente por qué no da
+
+[01:16:57]
+like la gente tanto cuesta es muy
+
+[01:16:59]
+difícil picarle al me gusta es muy y no
+
+[01:17:03]
+no nunca lo entendé a mí por ejemplo
+
+[01:17:05]
+cuando estoy viendo un video o a veces
+
+[01:17:07]
+yo me pongo a ver videos o me meto un
+
+[01:17:09]
+tiktok Live y me gusta le pico Me gusta
+
+[01:17:13]
+sin miedo el éxito eso ayuda al creador
+
+[01:17:15]
+de contenido motivarse hombre si tú
+
+[01:17:18]
+estás haciendo un en vivo en YouTube y
+
+[01:17:19]
+miras dos me gustas tres me gustas no te
+
+[01:17:22]
+da que no dan ganas no lo que da ganas
+
+[01:17:25]
+es de cortar y irse irse al eso
+
+[01:17:28]
+es lo que dan ganas gente dan ganas de
+
+[01:17:31]
+de cortar el directo e irse no y no no
+
+[01:17:33]
+más lo digo conmigo con cualquier
+
+[01:17:35]
+creador de contenido que ustedes les
+
+[01:17:37]
+guste y digan Ah este vato me cae muy
+
+[01:17:39]
+bien Me gusta Su contenido de lo que sea
+
+[01:17:42]
+del contenido que haga pues regálele el
+
+[01:17:45]
+me gusta regalen el me gusta porque eso
+
+[01:17:47]
+motiva que te suscribas que le des like
+
+[01:17:50]
+eso motiva a la persona a seguir creando
+
+[01:17:52]
+contenido
+
+[01:17:53]
+no y hicimos todo un análisis bien
+
+[01:17:56]
+perrón del Oro gente bien perrón
+
+[01:18:00]
+Entonces estamos esperando los
+
+[01:18:03]
+shorts a ver si se da el short la venta
+
+[01:18:06]
+en 4 horas ya se mira bien 4 horas y una
+
+[01:18:09]
+hora lo que pasa es
+
+[01:18:13]
+como el el sl me queda muy mal ahí donde
+
+[01:18:18]
+está yo no esperaría venderlo ahí
+
+[01:18:21]
+esperaría en el
+
+[01:18:22]
+retroceso esperaría en el retroceso esa
+
+[01:18:25]
+es una zona de soporte gente Eh el oro
+
+[01:18:28]
+la velita y en una en un minuto y eso
+
+[01:18:31]
+probablemente
+
+[01:18:32]
+suba
+
+[01:18:35]
+suba ahí es
+
+[01:18:37]
+una Bueno pues s probablemente suba yo
+
+[01:18:42]
+quiero que suba de hecho pero si si lo
+
+[01:18:45]
+saca mejor rompe la estructura
+
+[01:18:50]
+mejor que yo cuando estoy esperando pues
+
+[01:18:52]
+ya no estoy intentando hacer nada
+
+[01:18:55]
+Simplemente estoy esperando a que el
+
+[01:18:56]
+mercado haga algo y ya
+
+[01:18:59]
+está entonces ventas en el oro después
+
+[01:19:03]
+de un retroceso si cae y no se dan las
+
+[01:19:07]
+ventas vaya bien ya buscaremos otra
+
+[01:19:10]
+oportunidad igual lo iremos actualizando
+
+[01:19:12]
+en la semana gente por Telegram lo iré
+
+[01:19:23]
+actualizando Sí igual este probablemente
+
+[01:19:26]
+vamos a hacer zoom por Telegram gente
+
+[01:19:28]
+hacer por zoom por Telegram
+
+[01:19:31]
+amente un por
+
+[01:19:33]
+Telegram la gente de eh únanse al
+
+[01:19:36]
+Telegram los que no quieran perderse
+
+[01:19:38]
+nada más ya muy probablemente haga hoy
+
+[01:19:41]
+mañana y ya lo demás días esté por
+
+[01:19:45]
+Telegram gracias gracias gracias gracias
+
+[01:19:49]
+gracias y luego no sé por qué las
+
+[01:19:51]
+personas lo lo lo que es gratis no lo
+
+[01:19:55]
+no lo valoran tanto como lo que no s
+
+[01:19:58]
+Pero
+
+[01:20:00]
+bueno Vámonos me habían pedido el 30 y
+
+[01:20:03]
+el
+
+[01:20:04]
+aud no Cuál era el que me habían pedido
+
+[01:20:08]
+me peron un par de
+
+[01:20:11]
+forex aud yen vamos a a ver el a y
+
+[01:20:17]
+primero lo vos
+
+[01:20:19]
+el3 lo tengo por
+
+[01:20:22]
+aquí un par un poquito más raro
+
+[01:20:25]
+de
+
+[01:20:28]
+jpy
+
+[01:20:31]
+todos lo
+
+[01:20:33]
+tengo lo quieres ver O anda Quieres ver
+
+[01:20:37]
+no quieren
+
+[01:20:39]
+ver ver No anda vieron este par
+
+[01:20:49]
+aquí Ya sé ya sé ya sé vamos a ver este
+
+[01:20:53]
+par me pon este par raro a ver ahorita
+
+[01:20:56]
+vamos a sacar la
+
+[01:20:59]
+dirección Hol alto semanal tomó el alto
+
+[01:21:04]
+semanal semanal esta para arriba Eh
+
+[01:21:08]
+semal va para arriba fíjense que ya
+
+[01:21:09]
+eliminó toda la
+
+[01:21:12]
+liquidez pulso retroceso Esto es para
+
+[01:21:15]
+arriba en
+
+[01:21:16]
+semanal
+
+[01:21:18]
+diario diario también para arriba
+
+[01:21:21]
+subimos
+
+[01:21:26]
+inducción inducción aquí para
+
+[01:21:30]
+arriba cierto que estamos como en una
+
+[01:21:32]
+especie de Rango ya estamos llegando a
+
+[01:21:34]
+la parte alta
+
+[01:21:36]
+pero ya tenemos el
+
+[01:21:38]
+fallo aquí con la estructura te das
+
+[01:21:40]
+cuenta fácil l High fallo estructura Lu
+
+[01:21:45]
+tenemos el rompimiento de la
+
+[01:21:48]
+estructura viendo el aud y gente que me
+
+[01:21:50]
+lo pidieron por acá por tiktok
+
+[01:21:59]
+en 4
+
+[01:22:02]
+horas para arriba te diré para
+
+[01:22:07]
+arriba qué te
+
+[01:22:10]
+diré el último
+
+[01:22:11]
+[Música]
+
+[01:22:16]
+High este se queda como es el último
+
+[01:22:19]
+punto de inducción que rompió estructura
+
+[01:22:21]
+se queda como el último low relevante
+
+[01:22:25]
+punto de aquí
+
+[01:22:27]
+gente punto aquí ind las ventas y luego
+
+[01:22:30]
+quebró la estructura por acá
+
+[01:22:33]
+arriba y dejó ese
+
+[01:22:37]
+último que se convierte en una trampita
+
+[01:22:40]
+por ahí pequeñita est manejando esta
+
+[01:22:47]
+estructura Cómo para
+
+[01:22:51]
+arriba
+
+[01:22:53]
+arriba pares para arriba no sé si sea
+
+[01:22:55]
+mucho stop bloss o
+
+[01:22:57]
+poco verdad no sé nunca lo he trabajado
+
+[01:23:01]
+Entonces no me atado poner una entrada
+
+[01:23:03]
+así no más pero te dejaré la
+
+[01:23:05]
+flecha la flechita no miente ya saben
+
+[01:23:10]
+gente que m me gustan las
+
+[01:23:11]
+flechas este canal no andamos con que
+
+[01:23:13]
+puede subir o que puede bajar gente ya
+
+[01:23:16]
+aunque nos equivoquemos siempre la
+
+[01:23:18]
+tenemos Clara 4.2k de me gustas gracias
+
+[01:23:21]
+a toda la gente que está dejando tu me
+
+[01:23:23]
+gusta Ya fui dej mi me gusta Gracias
+
+[01:23:26]
+gracias gracias a todos agradece mucho
+
+[01:23:29]
+los que no hayan dejado su me gusta
+
+[01:23:30]
+pueden dejar su me gusta ahí pero ahí
+
+[01:23:34]
+está la flechita a la ud yen que me lo
+
+[01:23:37]
+pidió
+
+[01:23:38]
+arriba inclusive ya se mira bien ya te
+
+[01:23:42]
+podrías meter a la
+
+[01:23:45]
+alza Lo único malo que tienes es que
+
+[01:23:47]
+como eliminado este doble
+
+[01:23:50]
+alto doble alto fíate que te eliminó ese
+
+[01:23:54]
+doble alto
+
+[01:23:55]
+ahí entonces hay que esperarse el
+
+[01:23:58]
+retroceso parecido al nasdaq parecido de
+
+[01:24:01]
+hecho al nasdaq des de que se haga su
+
+[01:24:04]
+retroceso ya te puedes
+
+[01:24:08]
+comprar el último fractal que tienes es
+
+[01:24:11]
+este eliminó ese doble techo de
+
+[01:24:14]
+ahí por eso tienes que tener como más
+
+[01:24:16]
+cuidado para las compras No como ya no
+
+[01:24:19]
+como ya eliminó toda la liquidez
+
+[01:24:21]
+arriba Entonces como ya eliminó externa
+
+[01:24:25]
+pues es probable que venga por liquidez
+
+[01:24:26]
+interna pero la dirección
+
+[01:24:30]
+es después del retroceso ese Aquí más o
+
+[01:24:34]
+menos Mira marca te va a poner la zita
+
+[01:24:37]
+por aquí más
+
+[01:24:38]
+menos ahí más o menos lo vas a poder
+
+[01:24:44]
+comprar Ya está ya acabé con esto con el
+
+[01:24:48]
+Us
+
+[01:24:49]
+30 ya no son análisis detallados esto ya
+
+[01:24:51]
+es más por todas no
+
+[01:24:54]
+el oro y el el nasda porque son los
+
+[01:24:58]
+consentidos Dios de
+
+[01:25:01]
+papá pues el Luis 30 ahí está qué te
+
+[01:25:04]
+diré esperamos el retroceso no lo dio
+
+[01:25:07]
+tan
+
+[01:25:08]
+profundo pero ahí está el
+
+[01:25:11]
+análisis la flecha que le dejé la última
+
+[01:25:15]
+ve Se la podemos poner así
+
+[01:25:18]
+más ahí está
+
+[01:25:22]
+Terminamos ya terminamos
+
+[01:25:25]
+ya terminamos con el 30 para
+
+[01:25:28]
+arriba este qué quies después de algún
+
+[01:25:32]
+retroceso importante pues
+
+[01:25:35]
+comprar uso estos retrocesos de este
+
+[01:25:38]
+estilo
+
+[01:25:40]
+compras Yo no vendería los 30 para
+
+[01:25:44]
+nada Aunque a partir de aquí Gustavo
+
+[01:25:47]
+salga una velita y caiga 10000 puntos no
+
+[01:25:50]
+pero pues yo no soy adivino yo tradeo en
+
+[01:25:53]
+base lo que estoy mirando
+
+[01:25:55]
+estoy mirando una tendencia alcista no
+
+[01:25:57]
+hay por yo meterme en ventas y ahorita
+
+[01:26:00]
+le caiga una bomba no sé qué a no sé
+
+[01:26:03]
+quién y caiga el precio Sí pero
+
+[01:26:06]
+eso eso no estaba en tu probabilidad Al
+
+[01:26:10]
+menos que tú tengas información
+
+[01:26:11]
+extraoficial
+
+[01:26:13]
+noes información más oficial que todo el
+
+[01:26:16]
+mundo pues ahí si te puedes dar cuenta
+
+[01:26:17]
+no como yo la información que tengo es
+
+[01:26:21]
+la que estoy viendo en el gráfico pues
+
+[01:26:22]
+lo que estoy viendo Yo es que es para
+
+[01:26:23]
+arriba y no hoy desde antes fíate
+
+[01:26:27]
+análisis Ya tiene tiempo y lo seguimos
+
+[01:26:30]
+manteniendo sp500 me dicen qué tal anan
+
+[01:26:35]
+también si ustedes quieren ver Recuerden
+
+[01:26:37]
+que yo analizo dirección del mercado
+
+[01:26:39]
+tendencia edes quieren ver en un minuto
+
+[01:26:42]
+en 5 minutos en la velita pues ustedes
+
+[01:26:44]
+pueden pedírmelo la temporalidad que
+
+[01:26:46]
+ustedes quieran ehden
+
+[01:26:48]
+eso pues ahí está el análisis también
+
+[01:26:52]
+500
+
+[01:26:57]
+hay Qué más obviamente ahí no te vas a
+
+[01:27:00]
+meter muy alto después de un retroceso
+
+[01:27:04]
+te
+
+[01:27:07]
+incorporas Recuerden que el trading es
+
+[01:27:10]
+sencillo si quieres comprar pues esperas
+
+[01:27:13]
+a que caiga y compras si quieres vender
+
+[01:27:15]
+esperas a que suba y venda
+
+[01:27:17]
+V pero cuando ven ustedes un movimiento
+
+[01:27:20]
+así de este movimiento alcista así pues
+
+[01:27:23]
+obviamente no a estar tú comprando Al
+
+[01:27:25]
+menos que vayas en un minuto o
+
+[01:27:28]
+cosa un minuto ya se ve que va a ser un
+
+[01:27:30]
+retroceso va a ser probablemente un
+
+[01:27:32]
+Complex pullback ya puede ser que haga
+
+[01:27:35]
+el retroceso que esperamos
+
+[01:27:37]
+en pero de momento
+
+[01:27:40]
+alista llegó el Breaker Uy se quedó
+
+[01:27:45]
+cerca hay veces hace eso hace eso pero
+
+[01:27:48]
+está bien Este es el último punto mínimo
+
+[01:27:50]
+que ha dejado important y ya
+
+[01:27:53]
+probablemente ha haga un rebalanceo de
+
+[01:27:55]
+15 10 15 minutos aproximadamente y ahí
+
+[01:27:59]
+compramos este va a ser el K Level o la
+
+[01:28:02]
+zona importante para el sp500 en
+
+[01:28:05]
+realidad va a tener esta zona más o
+
+[01:28:07]
+menos para que ustedes lo
+
+[01:28:08]
+vean poito más
+
+[01:28:11]
+abajo y luego va a
+
+[01:28:19]
+tener por ahí probablemente se ven unos
+
+[01:28:22]
+nuevos
+
+[01:28:23]
+longs momento pues alcista para arriba y
+
+[01:28:27]
+gente ya me está dando hambre gente ya
+
+[01:28:29]
+me está dando hambre y aparte tengo que
+
+[01:28:31]
+entrenar gente
+
+[01:28:33]
+Eh Cómo ven alguien más quiere ver
+
+[01:28:36]
+cositas si no nos vamos a
+
+[01:28:39]
+ver escríbanme por acá por el chat
+
+[01:28:42]
+Estamos igual al lunes el mercado está a
+
+[01:28:44]
+su ritmo está tranquilo el mercado
+
+[01:28:47]
+entonces tómenselo con tranquilidad
+
+[01:28:49]
+estamos a plenas lunes hemos visto
+
+[01:28:52]
+bastant cosas antes de ir me quiero
+
+[01:28:54]
+analizar el
+
+[01:28:55]
+dx a ver el dxy sigue alcista les decía
+
+[01:29:00]
+yo de esperar un retroceso como les
+
+[01:29:01]
+decía fíjense fíjense lo mismo va para
+
+[01:29:05]
+todas las tendencias que ustedes vean
+
+[01:29:07]
+índices o El Mercado que esté
+
+[01:29:10]
+tendencial yo les decía posiblemente
+
+[01:29:13]
+aquí se puede venir un retroceso en el
+
+[01:29:15]
+en el en el en el en el dólar para poder
+
+[01:29:20]
+comprar el euro dólar y la libra dólar
+
+[01:29:23]
+pero la tendencia sigue siendo alcista
+
+[01:29:26]
+tú nunca vas a saber si a partir de aquí
+
+[01:29:28]
+o a partir de aquí o a partir de aquí va
+
+[01:29:31]
+a caer Bueno al menos yo no tengo
+
+[01:29:33]
+estrategia para saber eso el que tenga
+
+[01:29:35]
+estrategia para saber eso pues bueno
+
+[01:29:36]
+está bien perfecto pero yo no pues yo
+
+[01:29:39]
+les digo Aquí yo qué hago
+
+[01:29:41]
+nada yo espero a que caiga y luego ya
+
+[01:29:44]
+después compro no O tomo decisiones pero
+
+[01:29:47]
+mientras el mercado no lo haya hecho yo
+
+[01:29:49]
+me espero fíjense ahorita Gustavo no
+
+[01:29:52]
+cayó como tú habías dicho Bueno pues es
+
+[01:29:54]
+que esperamos a que caiga pero no quiere
+
+[01:29:57]
+decir que estamos diciendo que vaya a
+
+[01:29:58]
+caer ahí y acá se mantiene lo mismo
+
+[01:30:02]
+algún momento el mercado va a hacer su
+
+[01:30:04]
+retroceso Por qué sabemos eso porque las
+
+[01:30:06]
+tendencias aceleradas en algún momento
+
+[01:30:10]
+se terminan se agotan pero no estamos
+
+[01:30:12]
+intentando adivinar vamos a esperar que
+
+[01:30:15]
+el mercado haga su proceso de retroceso
+
+[01:30:17]
+Y a partir de ahí ya lo veríamos igual
+
+[01:30:20]
+por eso les dije que nos esperábamos
+
+[01:30:21]
+estuvieran atentos en el euro
+
+[01:30:24]
+que no que ya posiblemente desde esta
+
+[01:30:27]
+zona no iba a venir el movimiento
+
+[01:30:29]
+alcista pero les dije que nos
+
+[01:30:31]
+esperáramos a que la tendencia pues
+
+[01:30:34]
+cambie eso es lo que estamos tratando de
+
+[01:30:36]
+hacer Aunque la flecha la sigo
+
+[01:30:38]
+manteniendo para arriba Eh pero vamos a
+
+[01:30:40]
+esperar a que el dólar haga su proceso y
+
+[01:30:43]
+a que el eurod dólar haga su el intradía
+
+[01:30:47]
+pues sigue siendo bajista Noa sigue
+
+[01:30:50]
+siendo
+
+[01:30:51]
+baj qué hay que hacer Pues solamente
+
+[01:30:53]
+esperar pacientemente cuándo lo va a
+
+[01:30:56]
+hacer gente cuándo lo V a
+
+[01:31:06]
+hacer entonces este me dicen puedes
+
+[01:31:09]
+analizar el Sí ahorita lo analizamos la
+
+[01:31:11]
+libra contra el yen Libra contra el yen
+
+[01:31:14]
+ahorita lo vemos vos Libra contra el yen
+
+[01:31:17]
+pueden pedir sus pares de forex o lo que
+
+[01:31:19]
+sea porque estamos por irnos gente ya me
+
+[01:31:21]
+dio hambre ya tengo que entrenar a parte
+
+[01:31:24]
+hoy tengo que correr hay que hacer
+
+[01:31:27]
+ejercicio mi
+
+[01:31:32]
+gente entonces pues vamos a esperar el
+
+[01:31:35]
+el el euro qué esperas Gustavo en el
+
+[01:31:38]
+euro pues esperamos un cambio
+
+[01:31:41]
+estructural y aquí nos montamos a la en
+
+[01:31:45]
+la libra mismo la libra se ve mejor eh
+
+[01:31:48]
+la libra se ve mejor pero ya
+
+[01:31:52]
+posiblemente la libra ya tenga el fallo
+
+[01:31:53]
+estructura
+
+[01:31:54]
+aquí
+
+[01:31:57]
+gente la libra posiblemente tenga el
+
+[01:32:00]
+fallo de estructura a ver si lo podemos
+
+[01:32:02]
+agarrar en vivo a ver si lo podemos
+
+[01:32:04]
+agarrar en vivo este par de
+
+[01:32:06]
+forex a ver qué
+
+[01:32:09]
+tal estaría bien la libra y el euro pero
+
+[01:32:12]
+pues qué esperamos de nuevo aquí ya
+
+[01:32:14]
+Esperamos que haya fallado que rompa que
+
+[01:32:17]
+te esté vamos para arriba lo que
+
+[01:32:21]
+esperamos par de forex
+
+[01:32:24]
+igual Pues viendo el dxy ya nos vamos a
+
+[01:32:27]
+dar como más cuenta lorito como que
+
+[01:32:30]
+quiere ir bajando Sí el orito ya se ve
+
+[01:32:32]
+bien pero estamos esperando el retroceso
+
+[01:32:35]
+para vender y el oro Casi casi nos
+
+[01:32:38]
+entramos eh Casi casi entramos
+
+[01:32:41]
+ahorita una divergencia alcista en 15
+
+[01:32:44]
+minutos hay que esperar que pase el
+
+[01:32:45]
+tiempo Que
+
+[01:32:46]
+suba y y para vender
+
+[01:32:55]
+hay que esperar en el oro hay que
+
+[01:32:57]
+esperar gente el oro hay que esperar un
+
+[01:32:59]
+poco más vamos vender así
+
+[01:33:03]
+el la libra contra el yen me dijiste
+
+[01:33:06]
+verad Libra contra el y contra la libra
+
+[01:33:10]
+contra el y la libra contra el yen es
+
+[01:33:13]
+alcista tiene parecido al aud yen de
+
+[01:33:16]
+hecho es el mis es lo mismo Fíjate que
+
+[01:33:18]
+tienes este
+
+[01:33:20]
+impulso low High l ya tienes el fallo
+
+[01:33:25]
+estructural
+
+[01:33:27]
+en Ah pues está igual que el otro par no
+
+[01:33:30]
+está igual
+
+[01:33:33]
+que si sean sean primos hermanos o algo
+
+[01:33:37]
+por el estilo Pero están
+
+[01:33:43]
+igual están
+
+[01:33:46]
+igualitos igualitos ahí
+
+[01:33:49]
+gente igualitos si están igualitos
+
+[01:33:52]
+gracias a la gente de tiktok está
+
+[01:33:54]
+dejando su me gusta también me pueden
+
+[01:33:55]
+seguir en YouTube estamos como gustav
+
+[01:33:58]
+Trader agradecería mucho que me puedan
+
+[01:34:01]
+seguir por allá estamos como Gustavo m.
+
+[01:34:05]
+triler también por YouTube
+
+[01:34:07]
+eh Entonces por acá me pueden seguir
+
+[01:34:09]
+También estamos a punto de llegar a los
+
+[01:34:11]
+2000 suscriptores en YouTube entonces
+
+[01:34:14]
+agradecería que me puedan seguir por
+
+[01:34:15]
+allá y por allá este también les estoy
+
+[01:34:18]
+subiendo un montón de videos sobre
+
+[01:34:19]
+trading verdad tenemos un curso gratis
+
+[01:34:21]
+sobre trading al que le interesa
+
+[01:34:23]
+aprender mi mi estrategia Pues ahí está
+
+[01:34:24]
+aire gratis está solamente lo único que
+
+[01:34:27]
+tienes que hacer es verte los videos y
+
+[01:34:29]
+ya está no tienes que hacer nada más ahí
+
+[01:34:32]
+está mi puedes aprender mi estrategia de
+
+[01:34:34]
+manera
+
+[01:34:35]
+gratis
+
+[01:34:37]
+eh También estamos en instagram gente lo
+
+[01:34:40]
+digo porque ya estoy a punto de irme o
+
+[01:34:42]
+entonces pues al que le interese
+
+[01:34:44]
+seguirme por acá Pueden seguir También
+
+[01:34:46]
+estamos en instagram como Gustavo m.
+
+[01:34:48]
+Trader díganme por allá también que
+
+[01:34:50]
+también estamos impartiendo un montón de
+
+[01:34:52]
+contenido de valor
+
+[01:34:54]
+vamos ya terminando
+
+[01:34:56]
+este qué te puedo decir 4 horas 4 horas
+
+[01:35:01]
+alcista una hora alcista también pues
+
+[01:35:05]
+alcista qué te digo cómo te lo puedo
+
+[01:35:08]
+dejar
+
+[01:35:10]
+l Esto no es una divergencia que tú así
+
+[01:35:14]
+que tú digas
+
+[01:35:16]
+arriba estructuralmente
+
+[01:35:19]
+lo único que sí es que estamos dejando
+
+[01:35:21]
+much liqu acá
+
+[01:35:24]
+pero en tendencia Fíjate que en
+
+[01:35:26]
+tendencia tenemos este High
+
+[01:35:30]
+low High es low la en estructura Ah es
+
+[01:35:35]
+el low tuvimos un smt por acá una
+
+[01:35:38]
+inducción aquí y luego tenemos otro smt
+
+[01:35:42]
+acá en el extremo es el último punto
+
+[01:35:45]
+este último punto No rompe la pero ya es
+
+[01:35:48]
+es el último punto como del low y este
+
+[01:35:52]
+de acá que dejamos
+
+[01:35:54]
+este Parece que va a ser el que va a
+
+[01:35:56]
+romper lo único es que ya una vez que
+
+[01:36:00]
+rompa la liquidez tier cuidado
+
+[01:36:03]
+cuidado cuidado ahí la liquide porque
+
+[01:36:07]
+eso es una es un chimbolo es una
+
+[01:36:09]
+figurita ahí que les gusten las
+
+[01:36:12]
+figuritas ya
+
+[01:36:16]
+saben
+
+[01:36:18]
+no
+
+[01:36:20]
+pollito piquito Ahí está El piquito de
+
+[01:36:22]
+un de un pollito entonces estas
+
+[01:36:26]
+figuritas el mercado suele manipular
+
+[01:36:29]
+arriba abajo norment la figurita se la
+
+[01:36:34]
+no este es la libra Este es el GP yen el
+
+[01:36:37]
+oro ya lo vimos hace ratito Martín Pero
+
+[01:36:39]
+ahorita lo vamos a volver a ver antes de
+
+[01:36:41]
+irnos estamos por irnos porque ya tengo
+
+[01:36:44]
+hambre gente ya meio
+
+[01:36:46]
+hambre ya meio Entonces
+
+[01:36:50]
+este pues tener cuidado ahí tener
+
+[01:36:54]
+cuidado ahí de hecho te lo voy a poner
+
+[01:36:56]
+así Lu te voy a poner una flechita ya tú
+
+[01:36:59]
+sabes la flechita
+
+[01:37:03]
+roja es un chimbolo es de hecho la zona
+
+[01:37:07]
+importante ya está acá la
+
+[01:37:17]
+zona la
+
+[01:37:20]
+zona de oferta Perdón ya que ya tengo
+
+[01:37:23]
+hambre gente ando desvariando
+
+[01:37:29]
+hambre ahita vemos el oro gente lo vamos
+
+[01:37:32]
+a ver por última vez el oro y vamos a
+
+[01:37:34]
+ver el nasdaq también antes de
+
+[01:37:37]
+irnos gracias por sus likes gente se
+
+[01:37:40]
+aprecia muchísimo este me pueden seguir
+
+[01:37:44]
+en Telegram también gente por allá les
+
+[01:37:45]
+estaré actualizando cositas te digo
+
+[01:37:49]
+porque muy probablemente estemos en vivo
+
+[01:37:50]
+ya hoy y mañana ya después ya no pero
+
+[01:37:53]
+por Telegram pues ahí me pueden seguir
+
+[01:37:55]
+ahí estamos totalmente activos gente los
+
+[01:37:58]
+links se encuentran en cualquier video
+
+[01:38:00]
+de mi canal de YouTube en la descripción
+
+[01:38:01]
+se encuentran los links para que se unan
+
+[01:38:03]
+a Telegram o a WhatsApp Si no les gusta
+
+[01:38:05]
+el Telegram se pueden unir a a
+
+[01:38:07]
+WhatsApp a mis grupos privados y por ahí
+
+[01:38:10]
+les estoy haciendo clases en vivo
+
+[01:38:12]
+cosillas no pero bueno esa es la libra
+
+[01:38:16]
+básicamente vamos a ver el oro y nos
+
+[01:38:19]
+vamos vemos el oro y nos vamos vemos un
+
+[01:38:21]
+poquito el nasda a ver qué ha hecho
+
+[01:38:26]
+ha retrocedido
+
+[01:38:30]
+bastante se le puede
+
+[01:38:35]
+meter llegó a donde yo
+
+[01:38:43]
+dije meter un long
+
+[01:38:46]
+ya se pone interesante para
+
+[01:38:49]
+comprar esperaría un poquito que pase
+
+[01:38:51]
+este ciclo m15 voye meter un long A lo
+
+[01:38:55]
+mejor yo entro Eh Al
+
+[01:38:57]
+ratito gustaría que terminara la
+
+[01:39:00]
+sesión y
+
+[01:39:05]
+entrar único malo es que como ha tomado
+
+[01:39:07]
+toda la liquidez está peligroso ve está
+
+[01:39:11]
+mitigando este punto a ver llego
+
+[01:39:13]
+exactamente son estos niveles de acá son
+
+[01:39:17]
+estos niveles de este de este de
+
+[01:39:21]
+aquí que está aquí 200 282 y
+
+[01:39:26]
+20528 los niveles como que está
+
+[01:39:28]
+mitigando
+
+[01:39:29]
+ahí este entonces
+
+[01:39:35]
+y y por ahí se va a venir
+
+[01:39:39]
+un seen un long en
+
+[01:39:43]
+el Casi
+
+[01:39:47]
+casi posible que yo entre en un ratillo
+
+[01:39:52]
+más más pero ahorita todavía no va ser
+
+[01:39:56]
+después de que me
+
+[01:39:58]
+vaya no esperaría un poco más ciclo m15
+
+[01:40:03]
+a ver qué
+
+[01:40:04]
+sucede si se mete este Breaker mejor
+
+[01:40:07]
+gente porque aquí rebalance todo el
+
+[01:40:09]
+imbalance
+
+[01:40:10]
+diario que no Bueno realmente no se ha
+
+[01:40:13]
+formado el imbalance diario
+
+[01:40:15]
+porque porque no ha cerrado la vela
+
+[01:40:17]
+diaria pero
+
+[01:40:19]
+en l Time frame está
+
+[01:40:26]
+ahora por ahí entonces se pone
+
+[01:40:28]
+interesante vamos a ver el oro gente y
+
+[01:40:30]
+nos vamos porque hay cosas que hacer
+
+[01:40:33]
+hoy seguirles grabando también la guía
+
+[01:40:36]
+de ict que se va a subir Próximamente a
+
+[01:40:38]
+nuestro canal de YouTube la gente que
+
+[01:40:40]
+les interese o les guste el
+
+[01:40:42]
+ict pues vamos a estarle subiendo la
+
+[01:40:46]
+guía de ict Pues el oro qué te diré pues
+
+[01:40:49]
+esperar al rebote o que rompa las dos
+
+[01:40:52]
+opción esperar que el precio llegue acá
+
+[01:40:55]
+vender opción B esperar que el precio
+
+[01:40:56]
+rompa y regrese en en las dos casos voy
+
+[01:40:59]
+a esperar el rebote para vender ahí yo
+
+[01:41:02]
+no vendo y se va pues que le vaya
+
+[01:41:06]
+bien esperaría eso la estructura
+
+[01:41:09]
+gustaría que limpiara eso de ahía que
+
+[01:41:13]
+limpiara eso de ahí Eso lo que más me
+
+[01:41:16]
+gust y ya una vez que limpie eso de ahí
+
+[01:41:19]
+pues
+
+[01:41:20]
+vender después de la de la compra
+
+[01:41:23]
+Recuerden que es fácil caro
+
+[01:41:26]
+vender
+
+[01:41:29]
+este barato comprar me piden por acá por
+
+[01:41:34]
+YouTube buenos días cómo ves el usd
+
+[01:41:39]
+yen debe de seguir para arriba no se ha
+
+[01:41:43]
+confirmado las compras
+
+[01:41:50]
+enes les dije que para vender tenía que
+
+[01:41:53]
+haber hecho esto el precio era la idea
+
+[01:41:55]
+que teníamos de ventas momento pues para
+
+[01:41:58]
+arriba acá igual va a ser lo
+
+[01:42:08]
+mismo tenemos que
+
+[01:42:10]
+esperar qué esperas Pues que el precio
+
+[01:42:13]
+venga te rompa
+
+[01:42:16]
+la venga te rompa la estructura
+
+[01:42:19]
+te casí para abajo y
+
+[01:42:24]
+de momento sigue alcista alcista de
+
+[01:42:27]
+momento el yen sigue siendo
+
+[01:42:30]
+alcista por acá ya puedes intuir dónde
+
+[01:42:33]
+se van a venir las ventas japoneses
+
+[01:42:36]
+tienen la zona están
+
+[01:42:39]
+parecidos podrías intuir
+
+[01:42:47]
+que y más o menos
+
+[01:42:54]
+vamos hablando buen ojo de buen cubero
+
+[01:42:56]
+inclusive esta zona también está
+
+[01:42:58]
+interesante más arriba no más que eso
+
+[01:43:00]
+tendría que subir una barbaridad al
+
+[01:43:02]
+mercado de momento alcista en 4 horas
+
+[01:43:05]
+diario seguimos alcistas en diario ya
+
+[01:43:07]
+estamos con el ciclo pendiente pendiente
+
+[01:43:10]
+porque ya se puede en cualquier momento
+
+[01:43:12]
+cambiar el ciclo Pero sigue alcista
+
+[01:43:16]
+ahora lo voy a dibujar bastante más
+
+[01:43:20]
+bonito esto ya no más es esperar es en
+
+[01:43:24]
+el intradiario Pues seguimos se sigue
+
+[01:43:27]
+comprando en el intradiario en el en el
+
+[01:43:31]
+Macro le estoy hablando para un
+
+[01:43:33]
+movimiento direccional cuando estoy
+
+[01:43:35]
+hablando para un movimiento más
+
+[01:43:38]
+potente over Time frame ya saben que la
+
+[01:43:40]
+velita sube y baja no es es el último
+
+[01:43:43]
+fractal que llevamos de hecho Pues
+
+[01:43:46]
+básicamente que haga el precio puede ser
+
+[01:43:48]
+que haga
+
+[01:43:50]
+as luego t vas a ver cómo es la móvil
+
+[01:43:59]
+est dónde vendes tú pues puedes vender
+
+[01:44:03]
+el fallo de estructura la primera o el
+
+[01:44:06]
+que más me gusta a mí es una vez que
+
+[01:44:07]
+haga el
+
+[01:44:09]
+break es que haga el break del
+
+[01:44:12]
+test ahí está el dibujito más o menos
+
+[01:44:15]
+pues eso es lo que habría que esperar
+
+[01:44:18]
+todao una acción de precio para para
+
+[01:44:20]
+vender ya una vez que tú tienes toda una
+
+[01:44:23]
+acción de precio ya más consolidada que
+
+[01:44:25]
+te da más análisis pues ya intentarías
+
+[01:44:28]
+vender una vez que la tendencia cambie
+
+[01:44:31]
+gente va a ser un retroceso potente habl
+
+[01:44:34]
+un retroceso potente es mínimo mínimo
+
+[01:44:37]
+venir aquí por los
+
+[01:44:39]
+147 219 más o menos retroceso más o
+
+[01:44:46]
+menos más o menos un
+
+[01:44:49]
+ret
+
+[01:44:50]
+Okay entonces eso esperaría yo yo para
+
+[01:44:53]
+el yen de momento alcista y este a
+
+[01:44:58]
+esperar ya está gente me voy a despedir
+
+[01:45:01]
+por hoy Gracias a toda la gente que me
+
+[01:45:02]
+está siguiendo la gente que me siguió
+
+[01:45:04]
+los que no me han seguido pues me pueden
+
+[01:45:06]
+seguir por vamos a cortar primero por
+
+[01:45:08]
+tiktok gente de tiktok me pueden seguir
+
+[01:45:11]
+por YouTube Gustavo m. Trader estamos
+
+[01:45:14]
+por YouTube eh me pueden seguir acá
+
+[01:45:16]
+también fíjense que estamos acá en
+
+[01:45:18]
+YouTube gustav Trader en cualquier
+
+[01:45:20]
+descripción de cualquier video también
+
+[01:45:21]
+se encuentra mi Telegram o mi WhatsApp
+
+[01:45:23]
+para que se puedan unir si le caen acá
+
+[01:45:25]
+por YouTube se pueden unir en cualquier
+
+[01:45:27]
+descripción de cualquier video de mi
+
+[01:45:29]
+canal de YouTube gustav Trader por allá
+
+[01:45:32]
+me pueden seguir este y estamos por allá
+
+[01:45:36]
+se pueden suscribir También estamos en
+
+[01:45:38]
+instagram gente También estamos en
+
+[01:45:40]
+instagram en instagram como Gustavo
+
+[01:45:43]
+Trader agradecería también bastante que
+
+[01:45:45]
+me puedan seguir por allá gracias a la
+
+[01:45:47]
+gente que me estuvo siguiendo el día de
+
+[01:45:49]
+hoy eh Gustavo m. Trader por acá para
+
+[01:45:52]
+los que me quieran conocer más de fondo
+
+[01:45:54]
+quieran saber más cositas sobre cómo
+
+[01:45:56]
+hago trading mi estrategia si me estoy
+
+[01:45:58]
+fondeado si trabajo con capital propios
+
+[01:46:01]
+y trabajo con no sé qué Lo que ustedes
+
+[01:46:04]
+quieran Allá está mi Instagram también y
+
+[01:46:06]
+se pueden unir al Telegram Porque allá
+
+[01:46:09]
+en Telegram Pues estamos completamente
+
+[01:46:10]
+activos nos vamos a despedir por hoy de
+
+[01:46:13]
+acá de tiktok gracias por sus likes
+
+[01:46:14]
+Gracias por seguirme también por acá
+
+[01:46:16]
+igual en en la descripción de mi
+
+[01:46:18]
+biografía o en mi biografía de este
+
+[01:46:21]
+tiktok se encuentran mis redes sociales
+
+[01:46:23]
+para que me sigan por allá está el
+
+[01:46:25]
+Instagram y el YouTube y nos vamos a
+
+[01:46:27]
+estar viendo gente de tiktok nos vemos
+
+[01:46:33]
+Adiós nos fuimos por tiktok seguimos acá
+
+[01:46:36]
+en YouTube gente YouTube también nos
+
+[01:46:39]
+vamos a a pasar a retirar Muchas gracias
+
+[01:46:41]
+por sus likes gracias por haber estado
+
+[01:46:43]
+acá con El aguante este y nos vamos a
+
+[01:46:46]
+estar viendo el próximo día que va a ser
+
+[01:46:49]
+mañana mañana seguramente sea el último
+
+[01:46:51]
+Live que hagamos Porque después ya voy a
+
+[01:46:53]
+estar bastante ocupado Entonces nos
+
+[01:46:55]
+vamos a estar viendo Próximamente
+
+[01:46:58]
+también por el YouTube Gracias a toda la
+
+[01:47:01]
+gente de YouTube por el aguante y nos
+
+[01:47:02]
+vemos gente de YouTube adiós
+```

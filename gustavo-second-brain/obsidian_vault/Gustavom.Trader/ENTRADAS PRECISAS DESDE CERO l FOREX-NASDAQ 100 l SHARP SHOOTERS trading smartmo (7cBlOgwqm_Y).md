@@ -1,0 +1,886 @@
+---
+source_id: YT_CANAL_02_7cBlOgwqm_Y
+video_id: 7cBlOgwqm_Y
+channel: "Gustavom.Trader"
+published_at: 2022-08-04
+url: https://www.youtube.com/watch?v=7cBlOgwqm_Y
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 9
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# ENTRADAS PRECISAS DESDE CERO l FOREX-NASDAQ 100 l SHARP SHOOTERS #trading #smartmoney #forex
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=7cBlOgwqm_Y)
+
+## Transcript
+
+```
+[00:00:01]
+excelente entonces bienvenidos a la
+
+[00:00:04]
+clase de hoy
+
+[00:00:05]
+una clase común
+
+[00:00:09]
+contenido
+
+[00:00:12]
+que no solemos subir
+
+[00:00:14]
+al youtube
+
+[00:00:16]
++ 0 y una clase
+
+[00:00:20]
+qué bueno que están algunos de los
+
+[00:00:22]
+muchachos que le va a servir de
+
+[00:00:26]
+desde paz porque empezamos creo que la
+
+[00:00:30]
+mayoría tienen
+
+[00:00:32]
+claro el concepto de lo que es liquidez
+
+[00:00:36]
+liquidez es dinero en el mercado
+
+[00:00:40]
+dinero en el mercado
+
+[00:00:46]
+tanto mayorista
+
+[00:00:51]
+como minorista
+
+[00:00:56]
+noris
+
+[00:00:59]
+dt
+
+[00:01:02]
+liquidez minorista
+
+[00:01:04]
+stop-loss de trader retail que se
+
+[00:01:08]
+posicionan en los altos anteriores
+
+[00:01:12]
+ok
+
+[00:01:14]
+soy liquidez minorista liquidez
+
+[00:01:16]
+mayorista vamos a ver ahora por ejemplo
+
+[00:01:20]
+el mercado crea un movimiento
+
+[00:01:25]
+qué produce
+
+[00:01:28]
+un supuesto veo es
+
+[00:01:32]
+veo es break of destructor lo son sus
+
+[00:01:36]
+siglas en inglés mucha confusión en veo
+
+[00:01:39]
+en internet que dicen que es
+
+[00:01:43]
+ch ser un coach george es cambio de
+
+[00:01:47]
+carácter
+
+[00:01:48]
+change of cárter y veo ese break
+
+[00:01:52]
+obstructor lo usan para lo mismo pero
+
+[00:01:55]
+para que no vayan a confundir
+
+[00:01:59]
+dicho esto aquí se produce un entre
+
+[00:02:03]
+comillas vos
+
+[00:02:05]
+pero luego vemos que se produce un
+
+[00:02:07]
+movimiento a la baja
+
+[00:02:10]
+y nosotros
+
+[00:02:12]
+en el momento no sabemos qué pasó nos
+
+[00:02:15]
+damos cuenta no teníamos información
+
+[00:02:17]
+pero
+
+[00:02:20]
+con tiempo de estudio y práctica nos
+
+[00:02:23]
+fuimos dando cuenta de que esto que
+
+[00:02:25]
+estaba aquí
+
+[00:02:26]
+ese movimiento
+
+[00:02:28]
+era una manipulación
+
+[00:02:31]
+que se confirmaba
+
+[00:02:35]
+una manipulación que se confirmaba con
+
+[00:02:39]
+un siguiente bajo más bajo
+
+[00:02:43]
+al producirse se va más bajo
+
+[00:02:45]
+identificamos que esto se trata de una
+
+[00:02:48]
+manipulación
+
+[00:02:50]
+pregunta a quienes manipulan
+
+[00:02:54]
+las grasas las grandes instituciones
+
+[00:03:00]
+o vamos a ponerle los institucionales en
+
+[00:03:04]
+general los
+
+[00:03:05]
+instintos
+
+[00:03:08]
+[Música]
+
+[00:03:09]
+beber
+
+[00:03:11]
+los institucionales por tanto esa
+
+[00:03:14]
+liquidez que queda expuesta ahí es
+
+[00:03:18]
+liquidez
+
+[00:03:21]
+mayorista
+
+[00:03:25]
+liquidez mayorista
+
+[00:03:31]
+entonces nosotros identificando
+
+[00:03:36]
+esa liquidez mayor y está podemos tener
+
+[00:03:39]
+entradas óptimas basado en esos
+
+[00:03:43]
+conceptos ya lo que es un bloque y el
+
+[00:03:46]
+refino ya ese concepto lo bueno lo hemos
+
+[00:03:51]
+hecho del bid ya lo manejan pero en la
+
+[00:03:54]
+mayoría tienen un concepto claro de lo
+
+[00:03:56]
+que es un orden blog
+
+[00:03:59]
+la liquidez mayorista es el bloque que
+
+[00:04:03]
+queda aquí luego de la manipulación
+
+[00:04:09]
+que crea ese falso voz
+
+[00:04:13]
+en este instante lo teníamos como un
+
+[00:04:15]
+posible boss entre comillas pero luego
+
+[00:04:18]
+de romperse aquí ese bajo nos da la
+
+[00:04:22]
+confirmación de que esto fue una
+
+[00:04:25]
+manipulación por tanto ese va a ser un
+
+[00:04:27]
+punto de interés al momento de nosotros
+
+[00:04:30]
+retornar a esa zona vamos a tomar ese
+
+[00:04:33]
+punto como una zona de interés y por
+
+[00:04:37]
+ejemplo vamos a ver un ejemplo aquí en
+
+[00:04:38]
+el mismo ahora si quieren le pueden
+
+[00:04:42]
+tirar un captura de pantalla
+
+[00:04:47]
+vemos aquí
+
+[00:04:50]
+los mismos que les estaba explicando
+
+[00:04:52]
+tiene una estructura
+
+[00:04:55]
+bajista
+
+[00:04:59]
+y aquí se produce un falso voz
+
+[00:05:03]
+que su intención es reducir o inducir a
+
+[00:05:08]
+los
+
+[00:05:11]
+minoristas o rip trader clásicos a
+
+[00:05:15]
+entrar ahí en ese testeo de ese de se
+
+[00:05:18]
+quiebre que yo le forman
+
+[00:05:22]
+con el éxito como grande
+
+[00:05:26]
+le crean ese falso voz entonces al crear
+
+[00:05:28]
+ese veo es
+
+[00:05:30]
+el retail automáticamente se posiciona
+
+[00:05:34]
+se halla por simon así sea por otro por
+
+[00:05:38]
+favor del blog o lo que sea
+
+[00:05:44]
+se posiciona
+
+[00:05:47]
+en compras aquí
+
+[00:05:50]
+para poner que usan el 61 8 número que
+
+[00:05:52]
+usa mucho se posiciona aquí el sl lo
+
+[00:05:56]
+pondrían ahí abajo del 88 más o menos
+
+[00:06:03]
+entonces
+
+[00:06:05]
+se van en estadios vemos entonces que se
+
+[00:06:09]
+forma un bajo más bajo lo cual no la
+
+[00:06:12]
+confirmación de que esto fue una
+
+[00:06:15]
+manipulación
+
+[00:06:16]
+entonces que nos toca nos toca localizar
+
+[00:06:20]
+el dinero mayorista el dinero mayorista
+
+[00:06:25]
+aquí
+
+[00:06:27]
+teóricamente como enseña general
+
+[00:06:29]
+generalmente
+
+[00:06:31]
+tomaría en este bloque completo pero ya
+
+[00:06:34]
+por el tema de refino y experiencia ya
+
+[00:06:37]
+yo sé ya yo conozco y diferentes
+
+[00:06:41]
+patrones de vela y bloques que me dan la
+
+[00:06:44]
+certeza de que será ese refiere por lo
+
+[00:06:48]
+menos él
+
+[00:06:50]
+el punto de interés porque aquí adentro
+
+[00:06:53]
+puede llegar y formarse algo algún
+
+[00:06:55]
+patrón en micro y entonces toman la
+
+[00:06:58]
+entrada perfecta
+
+[00:07:00]
+solo más perfecta posible
+
+[00:07:07]
+aquí podemos ver que se rompe un swing
+
+[00:07:11]
+point confirmando el fractal ya es desde
+
+[00:07:15]
+aquí hasta aquí entonces ya aquí
+
+[00:07:17]
+podemos trazar un fibonacci para más
+
+[00:07:21]
+confirmaciones
+
+[00:07:24]
+aunque perfección 85
+
+[00:07:36]
+en la zona óptima de entrada justo en 85
+
+[00:07:43]
+entonces
+
+[00:07:45]
+a partir de ahí entonces llega el pp que
+
+[00:07:49]
+sería el próximo bajo porque se lo
+
+[00:07:52]
+pongan h4 pero en toda la temporalidad
+
+[00:07:54]
+de suceda porque es un concepto general
+
+[00:07:57]
+un concepto fractal por ejemplo miren
+
+[00:08:00]
+aquí
+
+[00:08:02]
+yo tengo
+
+[00:08:05]
+mercado cayendo bien él me da un último
+
+[00:08:09]
+impulso
+
+[00:08:13]
+mantengo el pulso
+
+[00:08:15]
+que me crea un bajo más bajo aquí
+
+[00:08:19]
+entonces yo identifico que dentro de ese
+
+[00:08:23]
+impulso puedo ver un patrón de
+
+[00:08:26]
+manipulación miren como un pulso
+
+[00:08:28]
+retroceso impulso retroceso impulso un
+
+[00:08:32]
+falso voz y luego cae entonces con lo
+
+[00:08:36]
+cual
+
+[00:08:37]
+seleccione esta zona o este bloque
+
+[00:08:40]
+completo como el punto de interés
+
+[00:08:43]
+para un posible retroceso ya en ese caso
+
+[00:08:46]
+no hay que usar un hacha o no lo uso en
+
+[00:08:48]
+ese caso porque ya yo sé a la zona que
+
+[00:08:51]
+él va a ir yo sería yo localicé el
+
+[00:08:53]
+dinero mayorista ahí
+
+[00:08:55]
+ya no necesito a mi amigo fibonacci
+
+[00:09:03]
+estamos hablando de 5 minutos y en los
+
+[00:09:06]
+mismos
+
+[00:09:07]
+y seguramente dejar este padre porque es
+
+[00:09:10]
+lo mismo
+
+[00:09:12]
+porque un concepto basado en la liquidez
+
+[00:09:14]
+vienen aquí otras
+
+[00:09:16]
+verán como crea un falso vos otra vez
+
+[00:09:21]
+champagne planta viene confirma que fue
+
+[00:09:24]
+una manipulación entonces aquí ya por
+
+[00:09:28]
+tema de
+
+[00:09:29]
+experiencia yo conozco esos bloques
+
+[00:09:33]
+strong ice
+
+[00:09:36]
+con wise
+
+[00:09:39]
+vettel
+
+[00:09:41]
+y me voy a ir
+
+[00:09:44]
+con un trade excelente
+
+[00:09:48]
+solamente usando ese concepto y
+
+[00:09:51]
+dejándome llevar de la tendencia que
+
+[00:09:53]
+sabía que era bajista
+
+[00:09:55]
+vamos a cambiar a otro plan
+
+[00:09:59]
+lo que le gusta el nasdaq como el nasdaq
+
+[00:10:03]
+en h4 vélez
+
+[00:10:06]
+[Música]
+
+[00:10:11]
+difícil
+
+[00:10:15]
+en las siete se fijan venía en una
+
+[00:10:19]
+tendencia bajista al impulso de esos
+
+[00:10:22]
+impulsos es en curso
+
+[00:10:25]
+aquí se forma un falso quiere y vemos
+
+[00:10:28]
+aquí la confirmación
+
+[00:10:31]
+de la manipulación
+
+[00:10:39]
+entonces ya tienen un fractal ubicado a
+
+[00:10:42]
+partir de que yo veo que se rompe mi
+
+[00:10:45]
+último swing coin
+
+[00:10:47]
+y entonces ya yo tomo como referencia
+
+[00:10:50]
+desde este alto hasta este último bajo
+
+[00:10:55]
+va a ser y fractal a trabajar entonces
+
+[00:10:58]
+ahora lo que vamos es a ubicar
+
+[00:11:01]
+por ejemplo yo tenía una zona clara ahí
+
+[00:11:05]
+pero vamos a la tribuna
+
+[00:11:08]
+85 75
+
+[00:11:11]
+pero es más un poco más refinado yo
+
+[00:11:15]
+tenía este bloque aquí
+
+[00:11:18]
+y otros blogs
+
+[00:11:21]
+refinado al 50%
+
+[00:11:26]
+efe
+
+[00:11:29]
+refinado al 50
+
+[00:11:34]
+y esa era mi zona de interés
+
+[00:11:40]
+ya llegó aquí ya a nosotros en es a
+
+[00:11:45]
+partir de la zona
+
+[00:11:47]
+vamos a buscar confirmaciones
+
+[00:11:49]
+para vender yo de aquí en adelante voy a
+
+[00:11:53]
+vender porque aquí hay mucha liquidez
+
+[00:11:58]
+pero voy a vender hasta aquí abajo
+
+[00:12:02]
+con mi confirmación es que me puede
+
+[00:12:05]
+sacar si
+
+[00:12:07]
+por ejemplo aquí hay un extremo aquí
+
+[00:12:10]
+arriba
+
+[00:12:14]
+podría sacarnos aquí venir aquí y de ahí
+
+[00:12:16]
+caer
+
+[00:12:19]
+[Música]
+
+[00:12:21]
+pero ese es el lo que yo veo ahí en
+
+[00:12:25]
+lhasa
+
+[00:12:29]
+basado en la estructura patrones de
+
+[00:12:32]
+engaño
+
+[00:12:34]
+liquidez gran calidad
+
+[00:12:39]
+ya solo es buscar las confirmaciones
+
+[00:12:41]
+micro y gatillar
+
+[00:12:46]
+en la temporalidad que tú entra por
+
+[00:12:48]
+ejemplo yo entro en el 51
+
+[00:12:53]
+y luego textil
+
+[00:12:56]
+porque ya tuvo hace un análisis del
+
+[00:12:59]
+gráfico para la dirección en macro en h1
+
+[00:13:02]
+noche 4 como quiera vamos a captura de
+
+[00:13:05]
+interés pero al final tú entra en el 5
+
+[00:13:08]
+en me uno
+
+[00:13:09]
+entonces ahí es donde yo recomiendo el
+
+[00:13:12]
+análisis cultural a simular
+
+[00:13:15]
+una entrada
+
+[00:13:18]
+a simular la entrada de entonces lo
+
+[00:13:21]
+mejor es hacerlo testing en la en la
+
+[00:13:23]
+temporalidad que tú
+
+[00:13:25]
+ingresa nunca
+
+[00:13:27]
+en lo personal yo hago mucho arte sin m
+
+[00:13:31]
+ya lo de temporalidad grande no que ya
+
+[00:13:34]
+es algo común como muy macro ya sabe
+
+[00:13:38]
+para la dirección solamente no para
+
+[00:13:41]
+buscar el punto de entrada a comentar
+
+[00:13:46]
+este si rompe
+
+[00:13:50]
+y ahí lo que habría que esperar un
+
+[00:13:52]
+retroceso y seguir a lanza ya sería una
+
+[00:13:55]
+confirmación de un mercado alcista
+
+[00:13:59]
+porque ahí en esa zona hay un candado
+
+[00:14:05]
+ya de por qué el pulso se candados y en
+
+[00:14:07]
+caso de que ya rompa aquí se cierra el
+
+[00:14:10]
+candado y ya no va a caer más de ahí
+
+[00:14:12]
+se vaya al alza más en una tendencia
+
+[00:14:15]
+alcista
+
+[00:14:17]
+pero mi escenario es 20
+
+[00:14:23]
+el fractal toro marca y enfrentar
+
+[00:14:26]
+solamente el precio va a entrar en dos
+
+[00:14:28]
+zonas de interés en un decisión al un
+
+[00:14:30]
+extremo
+
+[00:14:32]
+por ejemplo mira ayer lo toda la lista
+
+[00:14:36]
+estaba viendo con un número mucho menor
+
+[00:14:37]
+y le decía que ahí en eso pero llama la
+
+[00:14:42]
+resistencia estaba haciendo un indios me
+
+[00:14:46]
+mira estaba formando y
+
+[00:14:50]
+está formando en la patrones muchos
+
+[00:14:53]
+patrones de
+
+[00:14:54]
+reversión e incluso hizo un miniquiebre
+
+[00:14:57]
+ahí y de poco un para arriba
+
+[00:15:01]
+esos son otras confirmaciones de que el
+
+[00:15:03]
+precio va a caer
+
+[00:15:04]
+[Música]
+
+[00:15:06]
+ante toda la liquidez que bajo aquí
+
+[00:15:10]
+pero eso en mi escenario yo no yo no
+
+[00:15:14]
+tengo el 100% las gentes de mercado pero
+
+[00:15:18]
+y creo que hay mucha probabilidad de que
+
+[00:15:20]
+se viene en cosa positiva vamos vamos a
+
+[00:15:24]
+agregar algunos cositas más al canal son
+
+[00:15:27]
+sesiones de análisis vigo o canadá de
+
+[00:15:30]
+señales
+
+[00:15:33]
+una cuanta cosita más estamos trabajando
+
+[00:15:37]
+y vamos a darle con todo
+
+[00:15:40]
+sea lento pasen bueno entonces muchachos
+
+[00:15:42]
+ya ustedes saben nos vemos la próxima
+```

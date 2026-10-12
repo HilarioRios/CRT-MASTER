@@ -1,0 +1,851 @@
+[00:00:00]
+Hola, ¿qué pasa a todos amigos de
+
+[00:00:01]
+YouTube? Esta vez trayéndoles un nuevo
+
+[00:00:03]
+video. Esta vez muy contento de traerles
+
+[00:00:05]
+el video de un indicador de CRT que
+
+[00:00:08]
+encontré por ahí por Trading View.
+
+[00:00:10]
+Buenísimo está el indicador, pero antes
+
+[00:00:12]
+de nada decirte que estamos haciendo un
+
+[00:00:14]
+rally alcista como en las gráficas rumbo
+
+[00:00:17]
+a los 5,000 suscriptores. Quiero que
+
+[00:00:20]
+todo el mundo se suscriba a este bello y
+
+[00:00:22]
+hermoso canal que les estoy trayendo un
+
+[00:00:24]
+montón de contenido super bueno de CRT.
+
+[00:00:26]
+Suscríbete y pon en los comentarios. Yo
+
+[00:00:29]
+estuve aquí antes de los 5,000
+
+[00:00:31]
+suscriptores. Claro que sí. Vamos a
+
+[00:00:33]
+empujar ese rally alcista que tenemos a
+
+[00:00:35]
+los 5,000 suscriptores. Y también
+
+[00:00:37]
+decirte que me sigas en mi Instagram, en
+
+[00:00:40]
+mi comunidad de Telegram y comunidad de
+
+[00:00:42]
+WhatsApp. También decirte este indicador
+
+[00:00:44]
+voy a poner el link de este indicador en
+
+[00:00:46]
+mi WhatsApp y en mi Telegram. Abajo en
+
+[00:00:48]
+la descripción y en el comentario fijado
+
+[00:00:50]
+vas a encontrar el link para que puedas
+
+[00:00:53]
+entrar o puedas adicionar este indicador
+
+[00:00:55]
+a tus gráficos y seguro que te va a ser
+
+[00:00:57]
+muy muy pero muy útil. Bueno, ya estamos
+
+[00:01:00]
+por acá en la parte del Trading View.
+
+[00:01:02]
+Este es el indicador. Como te digo, te
+
+[00:01:03]
+dejaré el link en abajo en la
+
+[00:01:05]
+descripción, el comentario fijado, para
+
+[00:01:06]
+que puedas ir directamente y no te
+
+[00:01:08]
+compliques en buscarlo ni nada. vas a
+
+[00:01:10]
+tener el link, solo le das aquí donde
+
+[00:01:11]
+dice utilizar el gráfico, utilizar en el
+
+[00:01:13]
+gráfico y te va a lanzar directamente a
+
+[00:01:15]
+este indicador. Este indicador tiene una
+
+[00:01:17]
+sección donde te muestra el CRT high y
+
+[00:01:19]
+el CRT low. No es perfecto el indicador,
+
+[00:01:22]
+pero te ayuda mucho, sobre todo a las
+
+[00:01:23]
+personas que son nuevas en esto del
+
+[00:01:25]
+trading o en esto del CRT y se les
+
+[00:01:27]
+dificulta bastante lo que es el CRT,
+
+[00:01:29]
+pueden usar este indicador para
+
+[00:01:30]
+ayudarse. Miren que aquí trae una
+
+[00:01:32]
+pequeña descripción de lo que es el
+
+[00:01:33]
+indicador, pero básicamente ya ustedes
+
+[00:01:36]
+conocen la estrategia de CRT que he
+
+[00:01:37]
+estado hablando en este canal. También
+
+[00:01:39]
+tiene una tablita de del vallas, pero la
+
+[00:01:41]
+tablita a mí no me gusta demasiado, no
+
+[00:01:44]
+es como la veo muy útil, tiene alertas
+
+[00:01:46]
+también de CR cuando detecta un CRT. Y
+
+[00:01:48]
+ahorita vamos a ir a la gráfica a ver un
+
+[00:01:50]
+poquito de este indicador. Voy a ir a la
+
+[00:01:52]
+gráfica a ver un par de ejemplos para
+
+[00:01:54]
+que ustedes vean cómo se utiliza y
+
+[00:01:56]
+seguramente les va a ser de muchísima,
+
+[00:01:58]
+pero muchísima ayuda en su gráfico o a
+
+[00:02:01]
+la gente que esté aprendiendo CRT.
+
+[00:02:03]
+Bueno, chicos, decirles que aquí está el
+
+[00:02:05]
+indicador, se llama CRT+ Daily BAS. Eh,
+
+[00:02:07]
+no se compliquen, van a tener este en la
+
+[00:02:09]
+sección de el comentario fijado y en la
+
+[00:02:11]
+descripción de este video eh para que
+
+[00:02:12]
+entren a ver el indicador directamente,
+
+[00:02:14]
+lo pongan en su gráfico y lo pueden
+
+[00:02:16]
+ustedes estar probando. Aquí tiene
+
+[00:02:17]
+varias configuraciones que tú puedes
+
+[00:02:19]
+estar poniendo, pero yo lo tengo así. Le
+
+[00:02:21]
+quité la tablita del Daily Vas por aquí
+
+[00:02:23]
+está en la parte sección de una tiene
+
+[00:02:25]
+como una tabla. Esta vez yo se la quité
+
+[00:02:27]
+porque a mí no me gustó, pero aquí te se
+
+[00:02:29]
+supone que aquí te muestra como el vayas
+
+[00:02:31]
+o la dirección, pero lo que sí me gusta
+
+[00:02:33]
+mucho es que sí te muestra el CRT
+
+[00:02:35]
+bastante bien. He estado probándolo y
+
+[00:02:37]
+haciendo un poco de back testing con el
+
+[00:02:39]
+indicador y sí tiene sus fallillos,
+
+[00:02:41]
+tiene sus ciertos errores, pero en
+
+[00:02:43]
+general va bastante bien, sobre todo, yo
+
+[00:02:44]
+creo, a las personas que les cuesta como
+
+[00:02:46]
+identificar el CRT les va a ayudar
+
+[00:02:48]
+mucho. Por ejemplo, ahorita estamos en
+
+[00:02:49]
+el Euro en la temporalidad de 3 días.
+
+[00:02:51]
+Miren como nos muestra a ti como con
+
+[00:02:53]
+verde la parte donde hizo el precio del
+
+[00:02:55]
+turtle stop y miren, ya nos nos muestra
+
+[00:02:57]
+el crt el low, el bajo y el objetivo que
+
+[00:03:00]
+tenemos actualmente en el eurodólar. Si
+
+[00:03:02]
+me voy a una temporalidad semanal,
+
+[00:03:04]
+fíjense que me lo muestra igual,
+
+[00:03:05]
+semanal, 3 días, diario. Fíjense que en
+
+[00:03:08]
+diario, por ejemplo, ahorita no tenemos
+
+[00:03:09]
+ningún CRT bajista ni nada y nos muestra
+
+[00:03:11]
+el anterior. Hay veces que te está dando
+
+[00:03:13]
+un CRT por aquí y el y tarda como en
+
+[00:03:16]
+mostrártelo el indicador, eso se los
+
+[00:03:18]
+tengo que decir, pero en general va
+
+[00:03:19]
+bastante bien a las personas que se les
+
+[00:03:21]
+dificulta en encontrar como el vas, la
+
+[00:03:23]
+dirección o lo que sea. Es va bastante
+
+[00:03:25]
+bien. Por ejemplo, ahorita estamos
+
+[00:03:27]
+bullish. Hay veces que algunos RT como
+
+[00:03:29]
+que los muestra raros, raros, porque yo
+
+[00:03:31]
+no los tomaría en cuenta algunos y
+
+[00:03:33]
+algunos otros sí, pero ya ustedes vayan
+
+[00:03:34]
+a hacerle su propio back testing.
+
+[00:03:36]
+Díganme en los comentarios qué les
+
+[00:03:37]
+parece. Fíjense que podemos ir a varias
+
+[00:03:39]
+temporalidades, inclusive ahorita voy a
+
+[00:03:41]
+ir, no sé, al NASDAQ 100. Este era el de
+
+[00:03:43]
+Eurodólar. Vamos a ir a la parte del
+
+[00:03:45]
+NASDAQ. Y si se fijan, un decir en
+
+[00:03:47]
+diario, por ejemplo, en diario me
+
+[00:03:48]
+muestra este CRT. Miren que aquí es lo
+
+[00:03:51]
+que les quería mostrar. Aquí, por
+
+[00:03:52]
+ejemplo, este CRT es el CRT bajista que
+
+[00:03:56]
+hay. Y actualmente te mostró también
+
+[00:03:58]
+este, te actualizó y te mostró también
+
+[00:04:00]
+este es como que va cada ciertas velas
+
+[00:04:03]
+te va mostrando más RTs, pero ya los que
+
+[00:04:06]
+tenemos experiencia sabemos que el, por
+
+[00:04:08]
+ejemplo, el CRT más importante ahorita
+
+[00:04:10]
+en diario en el Nasdaq es este punto de
+
+[00:04:12]
+que está aquí. Este es como lo el más
+
+[00:04:13]
+importante es SRT. Pero bueno, para que
+
+[00:04:15]
+lo sepan, es simplemente para ayudarte
+
+[00:04:18]
+un poco más en tu gráfica. Tampoco es la
+
+[00:04:20]
+idea que te vuelvas como muy dependiente
+
+[00:04:22]
+de él. Ahorita estaba viendo uno en 4
+
+[00:04:23]
+horas. Miren, en 4 horas, por ejemplo,
+
+[00:04:25]
+él te está mostrando ya este este SRT,
+
+[00:04:28]
+que eso también pasa con el indicador
+
+[00:04:30]
+para que vean que no es color de rosa. Y
+
+[00:04:31]
+yo creo, yo estaba viendo, bueno, en
+
+[00:04:33]
+esta temporalidad no, no era en esta
+
+[00:04:35]
+gráfico, en este gráfico te lo muestran,
+
+[00:04:37]
+era otro broker, era el broker de, por
+
+[00:04:38]
+ejemplo, Skilling, ¿no? El broker de
+
+[00:04:40]
+Skilling, fíjate que en el broker de
+
+[00:04:42]
+Skilling, si quito los dibujos, te está
+
+[00:04:44]
+mostrando este que les decía y realmente
+
+[00:04:46]
+el CRT anterior era este, por ejemplo,
+
+[00:04:49]
+este CRT, pero igualmente te muestra, te
+
+[00:04:51]
+te lo deja como guardado también. Miren
+
+[00:04:53]
+aquí como te deja como guardado esto te
+
+[00:04:55]
+lo deja como guardado, entonces no hay
+
+[00:04:57]
+ningún problema porque si se fijan
+
+[00:04:58]
+ustedes el CRT que es actualmente es
+
+[00:05:02]
+esta vela con esta vela, por ejemplo,
+
+[00:05:04]
+este es el que tomamos porque es el más
+
+[00:05:06]
+más el de la izquierda, la vela de la
+
+[00:05:07]
+izquierda es la más importante. No sé si
+
+[00:05:09]
+me voy a a entender o a explicar. Vaya,
+
+[00:05:12]
+que el CRT importante, por ejemplo, es
+
+[00:05:13]
+esta vela negra, ¿no? Aquí está el
+
+[00:05:15]
+Tortel sop. Este es el importante, pero
+
+[00:05:17]
+él ya te está mostrando este, pero
+
+[00:05:18]
+igualmente te tiene guardado o te guardó
+
+[00:05:20]
+esta parte del este este CRT también te
+
+[00:05:22]
+lo tiene como guardado aquí con esta
+
+[00:05:24]
+línea punteado y esto verde, pero para
+
+[00:05:25]
+que lo sepan cómo funciona más o menos
+
+[00:05:27]
+es un indicador que les va a ayudar
+
+[00:05:29]
+mucho a encontrar el CRT a los que se
+
+[00:05:30]
+les dificulte, a las personas que están
+
+[00:05:32]
+empezando. Ya las que estamos un poco
+
+[00:05:34]
+más avanzados, yo creo que no tiene
+
+[00:05:35]
+tanto sentido utilizarlo, pero sí que
+
+[00:05:37]
+les va a ayudar bastante a a identificar
+
+[00:05:39]
+el CRT. Por ejemplo, aquí veíamos uno
+
+[00:05:41]
+bajista, el precio reinició, miren cómo
+
+[00:05:43]
+reinició este y luego subió. Entonces,
+
+[00:05:45]
+aquí podríamos haber estado tomando
+
+[00:05:46]
+largos, pero bueno, en general va
+
+[00:05:48]
+bastante bien. Lo puedo mostrar si
+
+[00:05:50]
+quieren en la libra, por ejemplo. Miren
+
+[00:05:51]
+que actualmente, por ejemplo, en la
+
+[00:05:52]
+temporalidad de una hora tenemos este
+
+[00:05:54]
+CRT, que es el que está buscando el
+
+[00:05:55]
+precio. Si nos vamos a 4 horas, ya
+
+[00:05:57]
+ustedes ahí pueden ir haciendo las
+
+[00:05:59]
+confluencias de de su de su análisis.
+
+[00:06:01]
+Miren que en 4 horas tenemos este
+
+[00:06:03]
+bajista, que es el retroceso que ese que
+
+[00:06:05]
+teníamos en 6 horas. En 6 horas, por
+
+[00:06:07]
+ejemplo, tenemos este alcista. Miren
+
+[00:06:10]
+como aquí te lo muestra este alcista. En
+
+[00:06:12]
+este caso, en temporalidad de 6 horas,
+
+[00:06:14]
+te muestra este CRT alcista. Miren que
+
+[00:06:16]
+tenía anteriormente este este CRT, por
+
+[00:06:20]
+así decirlo, tenía este CRT de aquí, era
+
+[00:06:24]
+como el más importante. Reiniciamos y
+
+[00:06:26]
+luego formamos este que el indicador te
+
+[00:06:28]
+lo estuvo mostrando, pero es como que él
+
+[00:06:30]
+se va actualizando, no te va a mostrar
+
+[00:06:32]
+este pues, pero él él se va actualizando
+
+[00:06:34]
+como muy muy cada tres, cuatro velas se
+
+[00:06:37]
+va actualizando igual. Creo que ese se
+
+[00:06:38]
+puede modificar. Eso se puede modificar
+
+[00:06:40]
+lo de las velas que se actualice él.
+
+[00:06:42]
+Creo que por aquí debe de tener para que
+
+[00:06:44]
+él creo que lo puedes poner de menos
+
+[00:06:46]
+velas. Lo puedes poner a lo mejor de
+
+[00:06:47]
+tres, creo. No sé si impacte en o dos
+
+[00:06:51]
+velas, por ejemplo, o una. Ah, no, esta
+
+[00:06:53]
+es la longitud. Esto no es. Bueno, este
+
+[00:06:55]
+es el tamaño de las líneas para que lo
+
+[00:06:56]
+sepan, es el tamaño de las líneas estas.
+
+[00:06:58]
+Pero bueno, ya me entienden la idea,
+
+[00:07:00]
+¿no? La idea es que te ayude el
+
+[00:07:01]
+indicador, no de que te hagas totalmente
+
+[00:07:03]
+dependiente del indicador, sino que te
+
+[00:07:05]
+ayude no más y te ayude a identificar
+
+[00:07:07]
+mejor la dirección, el vallas. Y también
+
+[00:07:09]
+lo que me gusta es que te deja como unas
+
+[00:07:12]
+marcas que te van diciendo como los
+
+[00:07:14]
+anteriores RT o los que están más cercas
+
+[00:07:16]
+del precio. Vamos a, por ejemplo, ver el
+
+[00:07:18]
+oro, que es un par que también a ustedes
+
+[00:07:20]
+les gusta muchísimo. Yo ya tenía un
+
+[00:07:22]
+análisis ahí en el oro alcista o
+
+[00:07:24]
+bullish. Vemos un análisis alcista. Eh,
+
+[00:07:27]
+aquí miren como te estuvo mostrando, por
+
+[00:07:29]
+ejemplo, este CRT bajista. El precio
+
+[00:07:31]
+reinicia este CRT y luego sube después
+
+[00:07:34]
+de que reinició. No sé si este de 8
+
+[00:07:35]
+horas que había marcado yo también lo
+
+[00:07:37]
+tenga el precio. A ver, vamos a ver el
+
+[00:07:39]
+de 8 horas. En este caso
+
+[00:07:43]
+hm no. Él te marca este, te marca este
+
+[00:07:46]
+bajista. Pero bueno, ya me entienden más
+
+[00:07:48]
+o menos la idea que les quiero dar con
+
+[00:07:50]
+lo con el indicador. Tampoco es que
+
+[00:07:52]
+digas que es es muy bueno, pero tampoco
+
+[00:07:54]
+es que digas que es mágico y me gusta
+
+[00:07:57]
+muchísimo. Miren, por ejemplo, ahorita
+
+[00:07:58]
+te está marcando este que está aquí que
+
+[00:08:01]
+ya está el precio reiniciando, pero bajo
+
+[00:08:03]
+mi punto de vista podría, bueno, no hay
+
+[00:08:06]
+ningún CRT. Este, por ejemplo, en la
+
+[00:08:08]
+temporalidad de 5 horas, no sé si en 4
+
+[00:08:10]
+horas haiga algo. Miren que la
+
+[00:08:11]
+temporalidad de 4 horas no ha marcado
+
+[00:08:13]
+nada, pero sí te va a ir ayudando, te va
+
+[00:08:15]
+a ir ayudando a ver un poquito mejor el
+
+[00:08:17]
+CRT. Miren, en la temporalidad de una
+
+[00:08:19]
+hora está perfecto, como hay veces como
+
+[00:08:21]
+que es muy perfecto, pero también porque
+
+[00:08:22]
+el precio genera los CRTs muy perfectos
+
+[00:08:25]
+y a veces como que está para arriba. Un
+
+[00:08:26]
+puede pasar en los rangos que algunos
+
+[00:08:28]
+rangos puede estar para arriba, otros
+
+[00:08:29]
+para abajo, reinicia. Son cositas que tú
+
+[00:08:31]
+tienes que manejar en el CRT bajo tu
+
+[00:08:33]
+experiencia o bajo la experiencia, pero
+
+[00:08:35]
+miren que este sí es perfecto. Este me
+
+[00:08:36]
+encanta porque miren cómo tomó el low,
+
+[00:08:38]
+tomó el máximo, reinició y miren cómo
+
+[00:08:41]
+está subiendo ahora de nuevo el oro en
+
+[00:08:43]
+este caso, ¿no? Pero bueno, esto es lo
+
+[00:08:44]
+que les quería traer el día de hoy.
+
+[00:08:46]
+Espero que les guste mucho. Déjenme el
+
+[00:08:47]
+feedback en los comentarios de qué les
+
+[00:08:49]
+parece el indicador. Yo lo estoy
+
+[00:08:50]
+utilizando y para ciertos casos sí que
+
+[00:08:52]
+lo estoy utilizando, pero tampoco es que
+
+[00:08:55]
+digas que me voy a hacer dependiente del
+
+[00:08:56]
+indicador. solamente para ayudar a las
+
+[00:08:58]
+personas que todavía les cuesta un poco
+
+[00:09:00]
+más en identificar el CRT de los
+
+[00:09:02]
+mercados y para que les para que
+
+[00:09:04]
+empiecen a familiarizarse con el patrón.
+
+[00:09:06]
+Espero que les haya gustado mucho.
+
+[00:09:07]
+Comenten ahí en los comentarios qué les
+
+[00:09:09]
+parece y también comenten si estuvieron
+
+[00:09:11]
+antes de los 5000 suscriptores. Vamos,
+
+[00:09:13]
+suscríbanse que estamos trayendo
+
+[00:09:15]
+contenido bellísimo de CRT y de esta
+
+[00:09:18]
+estrategia. Ya saben que los amo y los
+
+[00:09:19]
+quiero muchísimo y nos vemos en un
+
+[00:09:21]
+siguiente video.

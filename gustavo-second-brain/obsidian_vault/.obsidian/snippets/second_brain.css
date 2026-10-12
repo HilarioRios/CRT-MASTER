@@ -1,0 +1,88 @@
+/* Gustavo Second Brain — snippet visual.
+   Se activa solo en este vault (ver appearance.json -> enabledCssSnippets).
+   Togglear en Settings -> Appearance -> CSS snippets si lo queres apagar. */
+
+:root {
+  --sb-purple: #8b5cf6;
+  --sb-green: #22c55e;
+  --sb-orange: #f97316;
+  --sb-blue: #3b82f6;
+  --sb-pink: #ec4899;
+}
+
+/* Titulos de nota mas marcados, con un leve subrayado de acento */
+.markdown-preview-view h1, .markdown-source-view.mod-cm6 .cm-header-1 {
+  color: var(--sb-purple);
+  border-bottom: 2px solid var(--sb-purple);
+  padding-bottom: 0.2em;
+}
+
+.markdown-preview-view h2, .markdown-source-view.mod-cm6 .cm-header-2 {
+  color: var(--sb-blue);
+}
+
+/* Wikilinks internos como "pills" en vez de subrayado plano */
+.internal-link, .cm-hmd-internal-link {
+  background: color-mix(in srgb, var(--sb-purple) 14%, transparent);
+  padding: 0.05em 0.45em;
+  border-radius: 999px;
+  text-decoration: none !important;
+  font-weight: 500;
+}
+.internal-link:hover, .cm-hmd-internal-link:hover {
+  background: color-mix(in srgb, var(--sb-purple) 28%, transparent);
+}
+
+/* Tags como chips de color segun su prefijo (status/, year/) */
+a.tag {
+  border-radius: 999px;
+  font-weight: 600;
+}
+a.tag[href^="#status/synced"] {
+  background: color-mix(in srgb, var(--sb-green) 22%, transparent);
+  color: var(--sb-green);
+}
+a.tag[href^="#status/pending"] {
+  background: color-mix(in srgb, var(--sb-orange) 22%, transparent);
+  color: var(--sb-orange);
+}
+a.tag[href^="#year/"] {
+  background: color-mix(in srgb, var(--sb-blue) 18%, transparent);
+  color: var(--sb-blue);
+}
+
+/* Transcripts (bloques de codigo): scroll propio para que una nota de
+   2 horas de video no sea un scroll infinito, tipografia mas legible */
+.markdown-preview-view pre {
+  max-height: 520px;
+  overflow-y: auto;
+  border-left: 3px solid var(--sb-purple);
+  background: var(--background-secondary);
+  border-radius: 8px;
+  padding: 1em;
+}
+.markdown-preview-view pre code {
+  font-size: 0.85em;
+  line-height: 1.6;
+}
+
+/* Callout de "Sin contenido" (los 30 pendientes de membresia) mas visible */
+.callout[data-callout="warning"] {
+  border-color: var(--sb-orange);
+  background: color-mix(in srgb, var(--sb-orange) 8%, transparent);
+}
+
+/* Grafo: fondo levemente distinto para que los nodos de color resalten */
+.graph-view.view-content {
+  background: radial-gradient(circle at 50% 30%, rgba(139,92,246,0.06), transparent 60%);
+}
+
+/* File explorer: carpetas de canal con icono visual via color de texto */
+.nav-folder-title[data-path="Gustavom.Trader"] .nav-folder-title-content {
+  color: var(--sb-blue);
+  font-weight: 600;
+}
+.nav-folder-title[data-path="MentoTrading"] .nav-folder-title-content {
+  color: var(--sb-pink);
+  font-weight: 600;
+}

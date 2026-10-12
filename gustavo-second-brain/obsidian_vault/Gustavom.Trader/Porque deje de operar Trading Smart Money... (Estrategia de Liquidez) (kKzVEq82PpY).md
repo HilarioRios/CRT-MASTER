@@ -1,0 +1,1813 @@
+---
+source_id: YT_CANAL_02_kKzVEq82PpY
+video_id: kKzVEq82PpY
+channel: "Gustavom.Trader"
+published_at: 2024-10-30
+url: https://www.youtube.com/watch?v=kKzVEq82PpY
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 14
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Porque deje de operar Trading Smart Money... (Estrategia de Liquidez)
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=kKzVEq82PpY)
+
+## Transcript
+
+```
+[00:00:00]
+en este video te traigo una estrategia
+
+[00:00:01]
+super buena con liquidez avanzada con la
+
+[00:00:04]
+que vas a poder obtener muy buenos
+
+[00:00:06]
+resultados rentables y consistentes con
+
+[00:00:09]
+las que vas a poder pasar tus pruebas de
+
+[00:00:11]
+fondeo o Subir tus cuentas reales
+
+[00:00:13]
+quédate en este video para obtener esa
+
+[00:00:16]
+estrategia paso a paso en la segunda
+
+[00:00:18]
+parte de este video te voy a traer
+
+[00:00:20]
+conceptos de liquidez avanzada para que
+
+[00:00:22]
+puedas avanzar con tu trading y para que
+
+[00:00:24]
+puedas llevar ese trading al siguiente
+
+[00:00:26]
+nivel recuerda darle me gusta a este
+
+[00:00:28]
+video y suscribirte a este este bello y
+
+[00:00:30]
+hermoso canal dentro video cómo va a
+
+[00:00:32]
+funcionar es para bajos externos pero
+
+[00:00:35]
+también se pueden bajos internos pero
+
+[00:00:37]
+tengan más cuidado con los bajos
+
+[00:00:38]
+internos porque te van a dar una
+
+[00:00:40]
+reacción menos menos larga lo único que
+
+[00:00:43]
+tú tienes que esperar es Es que el
+
+[00:00:45]
+mercado purgue liquidez o tome liquidez
+
+[00:00:48]
+de preferencia liquidez externa ya saben
+
+[00:00:50]
+que externa es la que está por fuera de
+
+[00:00:52]
+los fractales de preferencia a partir de
+
+[00:00:54]
+ahí tú vas a ver de este lado de est de
+
+[00:00:58]
+donde viene el precio vas a Buscar un
+
+[00:01:01]
+ibg también puedes buscar cambio
+
+[00:01:04]
+estructural pero yo recomiendo que sea
+
+[00:01:06]
+un fbg Ahora aquí puede ser en m15 si m5
+
+[00:01:11]
+no se ve tan tan claro en este caso por
+
+[00:01:14]
+ejemplo aquí en la alza cuando teníamos
+
+[00:01:15]
+est fuerte movimiento a la alza dejamos
+
+[00:01:17]
+este imbalance entonces este lo vamos a
+
+[00:01:19]
+extender hacia tu lado derecho ahí
+
+[00:01:22]
+Entonces qué se hace Gustavo esperas que
+
+[00:01:23]
+tome la liquidez el precio cierra esta
+
+[00:01:25]
+vela y esperas a que el precio vaya
+
+[00:01:27]
+cerrando con cuerpo de vela ahí o que
+
+[00:01:32]
+vaya formando una estructura bajista en
+
+[00:01:35]
+forma de order Flow order Flow es este
+
+[00:01:38]
+sí o esperas a que el precio cierre por
+
+[00:01:41]
+debajo de te voy a dejar que tú B esté
+
+[00:01:44]
+si es con cuerpo de Vela con Mecha Se
+
+[00:01:46]
+los voy a dejar a su gusto yo prefiero
+
+[00:01:48]
+con cuerpo de Vela pero muchas veces el
+
+[00:01:50]
+precio se te va muy abajo la
+
+[00:01:53]
+entrada puede ser que cierre con cuerpo
+
+[00:01:55]
+de Vela A lo mejor una temporalidad como
+
+[00:01:57]
+un minuto 3 minutos 5 minutos
+
+[00:02:00]
+una temporalidad menor pero con que tú
+
+[00:02:03]
+veas que el precio ya está cayendo por
+
+[00:02:05]
+debajo del ibg ya es una es una posible
+
+[00:02:08]
+entrada en este caso yo hubiera colocado
+
+[00:02:12]
+por por experiencia después del cierre
+
+[00:02:15]
+de esa vela que tomó liquidez y vino acá
+
+[00:02:17]
+porque me dejó estos dos bajos iguales
+
+[00:02:20]
+por
+
+[00:02:21]
+eso Entonces ya en cuanto me dejas dos
+
+[00:02:24]
+bajos iguales ya me indica que la
+
+[00:02:26]
+dirección va a ser probablemente hacia
+
+[00:02:27]
+abajo y aquí coloco mi entrada
+
+[00:02:30]
+te proteges por encima del punto alto de
+
+[00:02:32]
+liquidez si es muy grande lo puedes
+
+[00:02:34]
+dividir al 50% y le das hacia hacia el
+
+[00:02:37]
+otro lado donde tengamos liquidez que
+
+[00:02:39]
+eran estos doble piso í tienes una
+
+[00:02:42]
+entrada Se puede refinar también por
+
+[00:02:45]
+ejemplo te hubieras podido en esta
+
+[00:02:47]
+entrada proteger por encima de ese punto
+
+[00:02:48]
+alto te puedes ir a M1 ver el order Flow
+
+[00:02:52]
+que te digo por ejemplo Dónde está el
+
+[00:02:54]
+lord de flog aquí bueno tienes el precio
+
+[00:02:56]
+que te genera esta liquidez aquí
+
+[00:02:58]
+inducida te te genera este alto te
+
+[00:03:00]
+genera este mínimo también te genera
+
+[00:03:02]
+aquí te genera el retroceso y aquí
+
+[00:03:05]
+tienes la ruptura de estructura y aquí
+
+[00:03:07]
+ya identificas la estructura Ahora sí
+
+[00:03:09]
+aquí sí aplicas tus conceptos de shock
+
+[00:03:13]
+de BOSS y toda esa vaina Por qué Porque
+
+[00:03:15]
+tenemos la toma de liquidez cuando tú
+
+[00:03:17]
+ves la toma de liquidez ahí sí aplicas
+
+[00:03:18]
+eso tienes un nuevo alto un nuevo mínimo
+
+[00:03:20]
+el precio rompe estructura rebalance ya
+
+[00:03:23]
+si quieres tener mejor confluencia pues
+
+[00:03:25]
+te puedes esperar a que el precio rompa
+
+[00:03:26]
+este punto de aquí y te proteges por
+
+[00:03:28]
+debajo de ese mínimo y le das para
+
+[00:03:30]
+arriba hacia dónde hasta tu última
+
+[00:03:32]
+liquidez ahí tienes una entrada uno a
+
+[00:03:34]
+dos Esta es una entrada por ejemplo que
+
+[00:03:35]
+a mí me gusta muchísimo pasos tomar la
+
+[00:03:37]
+liquidez interna luego crear El
+
+[00:03:39]
+imbalance vendedor pasar por encima del
+
+[00:03:42]
+imbalance Y fíjate que ya inclusive nos
+
+[00:03:43]
+apoyamos ahí yo me hubiera podido
+
+[00:03:45]
+posicionar inclusive en el cierre de esa
+
+[00:03:47]
+vela ahí me podría haber posicionado me
+
+[00:03:49]
+protejo por debajo de Y le doy para
+
+[00:03:51]
+arriba Ya dependiendo del rato y riesgo
+
+[00:03:53]
+beneficio que ustedes quieran tener
+
+[00:03:55]
+pueden ir a tarjetear esa liquidez si
+
+[00:03:56]
+quieren ahí tienen un Modesto dos un a
+
+[00:04:00]
+2.38 fíjense que el precio llega al
+
+[00:04:03]
+imbalance de nuevo y y no cae a partir
+
+[00:04:05]
+de ahí lo lo aguanta o tenían hasta
+
+[00:04:07]
+hasta este punto que los podría haber
+
+[00:04:09]
+hecho sufrir no lo sacó bien hasta este
+
+[00:04:11]
+punto un un a tres bueno Hoy les voy a
+
+[00:04:13]
+hablar chicos de la liquidez liquidez
+
+[00:04:15]
+avanzada vamos a ver los conceptos de
+
+[00:04:17]
+liquidez vamos a ir a eh la liquidez la
+
+[00:04:20]
+liquidez más básica que todo el mundo
+
+[00:04:22]
+conoce básicamente doble piso doble
+
+[00:04:25]
+techo
+
+[00:04:26]
+eh triple techo triple piso lo otro son
+
+[00:04:30]
+figuras chartistas técnicas como
+
+[00:04:33]
+triángulos un triangulito aquí patrones
+
+[00:04:36]
+como hombro cabeza hombro todo eso son
+
+[00:04:38]
+liquidez la otra es líneas de tendencia
+
+[00:04:41]
+trending Lines eso es muy típico
+
+[00:04:44]
+canales cuñas etcétera etcétera algo
+
+[00:04:48]
+bien importante que ustedes tienen que
+
+[00:04:50]
+saber es que el algoritmo interbancario
+
+[00:04:52]
+va creando estructura de Mercado va
+
+[00:04:54]
+formando una estructura de Mercado y en
+
+[00:04:57]
+ese transcurso va a ir diseñando
+
+[00:04:59]
+liquidez creo que ya todo el mundo sabe
+
+[00:05:01]
+lo que es liquidez externa e interna
+
+[00:05:03]
+pero si no se los explico rápidamente la
+
+[00:05:05]
+liquidez interna es todo lo que se
+
+[00:05:07]
+encuentra dentro de un fractal de una de
+
+[00:05:09]
+una pierna del mercado verad de una
+
+[00:05:11]
+parte de del mercado esa liquidez
+
+[00:05:14]
+interna son bajos y altos que se
+
+[00:05:16]
+encuentran dentro de que van a ser
+
+[00:05:18]
+manipulados con la única finalidad de ir
+
+[00:05:21]
+por la liquidez externa que van a ser
+
+[00:05:24]
+las partes altas de los fractales las
+
+[00:05:26]
+partes bajas de los fractales el nasdaq
+
+[00:05:28]
+tenía este
+
+[00:05:30]
+este punto fractal esto es un alto
+
+[00:05:32]
+interno fíjense que como deja un alto
+
+[00:05:35]
+interno y después el precio lo toma aquí
+
+[00:05:39]
+Entonces eso es la liquidez interna
+
+[00:05:40]
+Dentro de este fractal Entonces siempre
+
+[00:05:43]
+la liquidez interna van a ser puntos de
+
+[00:05:46]
+donde el precio va a ir a tomarlos
+
+[00:05:48]
+cuando tú interpretas de manera correcta
+
+[00:05:51]
+la liquidez más la estructura vas a
+
+[00:05:53]
+poder tener un análisis mejor ahora
+
+[00:05:55]
+liquidez importante para mí la más
+
+[00:05:58]
+importante la Y es que se encuentran los
+
+[00:06:00]
+high time frames semanal mensual y
+
+[00:06:04]
+diaria esto le vamos a llamar yo le
+
+[00:06:06]
+llamo Mayor Mayor liquidity o liquidez
+
+[00:06:09]
+mayor luego después tenemos lo que es la
+
+[00:06:12]
+liquidez menor que van a ser fractales
+
+[00:06:15]
+internos
+
+[00:06:17]
+h4 h1 principalmente liquidez
+
+[00:06:21]
+interna cada una de estas liquidez
+
+[00:06:23]
+también nos va a confluir O sea que
+
+[00:06:26]
+puede tener un alto h4 que también sea
+
+[00:06:28]
+un alto diario alto semanal etcétera
+
+[00:06:30]
+etcétera Pero no siempre luego después
+
+[00:06:33]
+tenemos esto es mayor esto es medium Y
+
+[00:06:36]
+esto es Minor o menor la Minor van a ser
+
+[00:06:39]
+la liquidez de las temporalidades
+
+[00:06:41]
+menores Pero principalmente Aquí van a
+
+[00:06:43]
+ser sesiones va a ser Asia London y
+
+[00:06:47]
+Nueva York Entonces vamos a tener es
+
+[00:06:50]
+importante que tú entiendas la jerarquía
+
+[00:06:52]
+de la de la liquidez porque luego ven
+
+[00:06:56]
+que toma un alto semanal o un bajo
+
+[00:06:58]
+semanal y esperan que el precio
+
+[00:07:00]
+reaccione en un punto de interés de 4
+
+[00:07:02]
+horas o de una hora y la y les hace
+
+[00:07:05]
+mucho engaño a la gente sube en 5
+
+[00:07:06]
+minutos 15 minutos pero en 4 horas
+
+[00:07:08]
+diario estaba bajista y pum se va
+
+[00:07:11]
+solamente sube a tomar liquidez interna
+
+[00:07:14]
+el mercado va constantemente haciendo
+
+[00:07:16]
+diseño de liquidez y formación de
+
+[00:07:18]
+estructura forma la estructura diseña la
+
+[00:07:21]
+liquidez después de que diseña la
+
+[00:07:23]
+liquidez la toma y sigue y sigue y va
+
+[00:07:25]
+constantemente diseñando Por qué Porque
+
+[00:07:29]
+neces liquidez para subir entonces lo
+
+[00:07:31]
+que mueve al mercado va a ser la
+
+[00:07:33]
+liquidez principalmente por ejemplo el
+
+[00:07:35]
+día de hoy en el nasdaq tuvimos que
+
+[00:07:38]
+limpiamos la liquidez de este alto
+
+[00:07:39]
+diario alto diario aquí tuvimos que
+
+[00:07:42]
+limpiamos la liquidez de esos dos bajos
+
+[00:07:44]
+diarios de que están ahí entonces tener
+
+[00:07:47]
+en cuenta siempre los altos y bajos
+
+[00:07:49]
+diarios bastante importante y los
+
+[00:07:52]
+semanales los mensuales etcétera
+
+[00:07:54]
+etcétera ahora con un indicador de
+
+[00:07:57]
+sesiones lo pueden hacer yo no yo no lo
+
+[00:08:00]
+utilizo porque no lo necesito ya lo veo
+
+[00:08:02]
+con mis propios ojos pero ustedes van a
+
+[00:08:05]
+observar que van el mercado ir tomando
+
+[00:08:08]
+la liquidez Minor también que es la
+
+[00:08:10]
+liquidez de Londres ascia Nueva York por
+
+[00:08:14]
+ejemplo aquí tenemos eh un bajo de de
+
+[00:08:17]
+Asia asiático fíjense Este es un bajo
+
+[00:08:19]
+asiático Ahí está cómo lo sé por el
+
+[00:08:22]
+horario ya tomamos el bajo asiático y
+
+[00:08:25]
+luego fíjense cómo rever temos una vez
+
+[00:08:27]
+que tomamos el bajo asiático
+
+[00:08:29]
+ya ahí dejamos un doble techo que ese
+
+[00:08:32]
+doble techo lo provoca Londres justo en
+
+[00:08:34]
+la apertura de Londres y fíjense cuando
+
+[00:08:36]
+vamos a la sesión de Nueva York la
+
+[00:08:39]
+sesión de Nueva York limpia todos esos
+
+[00:08:41]
+bajos y luego viene por el doble techo
+
+[00:08:43]
+que había dejado Londres y el algoritmo
+
+[00:08:46]
+interbancario es un constante toma y
+
+[00:08:48]
+dame de liquidez por eso es que tú
+
+[00:08:50]
+tienes que utilizar la liquidez a tu
+
+[00:08:53]
+favor ahora principalmente muchas veces
+
+[00:08:56]
+ustedes van a ver que el percado deja
+
+[00:08:58]
+liquidez suelta
+
+[00:09:00]
+o pendiente Yo le llamo esa liquidez
+
+[00:09:03]
+porque se deja pendiente muchas veces
+
+[00:09:05]
+Gustavo ahí dejó un triple alto y no lo
+
+[00:09:07]
+tomó Por qué Porque depende la dirección
+
+[00:09:10]
+que lleve el precio la estructura que
+
+[00:09:11]
+esté formando cuando el precio llegue a
+
+[00:09:14]
+un punto importante va a tomar la
+
+[00:09:16]
+liquidez ejemplo tenemos un Point aquí
+
+[00:09:19]
+de high time frame precio cae aquí de
+
+[00:09:24]
+una alta temporalidad el precio muy
+
+[00:09:27]
+probablemente vaya a hacer esto formar
+
+[00:09:29]
+una línea de tendencia y tú vas a ver
+
+[00:09:31]
+que está dejando la liquidez ahí no la
+
+[00:09:32]
+toma Gustavo Qué onda y luego te hace
+
+[00:09:36]
+Incluso un doble piso y se va para
+
+[00:09:38]
+arriba por qué Porque Viene saliendo de
+
+[00:09:41]
+un punto de interés mayor y no siempre
+
+[00:09:44]
+va a tomar la liquidez inmediatamente
+
+[00:09:46]
+Hasta que el precio venga a tarjetear la
+
+[00:09:48]
+liquidez que tenía por este lado es
+
+[00:09:51]
+donde sí viene y toma la liquidez que
+
+[00:09:53]
+tenía pendiente y así se van formando
+
+[00:09:55]
+las tendencias esto es la teoría chicos
+
+[00:09:59]
+30 por ejemplo el día de hoy ejemplos
+
+[00:10:01]
+prácticos y básicos el precio Qué hace
+
+[00:10:04]
+me deja tenía este punto de interés este
+
+[00:10:08]
+po aquí reacciona y fíjense como en el
+
+[00:10:10]
+transcurso de va formando toda esta
+
+[00:10:13]
+línea de tendencia que esta línea de
+
+[00:10:14]
+tendencia La marqué en la mañana yo
+
+[00:10:16]
+precio estaba por aquí y ya me doy
+
+[00:10:19]
+cuenta cómo el mercado podría eh
+
+[00:10:21]
+intentar caer y cómo forma la línea de
+
+[00:10:24]
+tendencia y luego pum cae después de que
+
+[00:10:27]
+liquida o saca toda esa Liz que tenía
+
+[00:10:30]
+ahí fíjense có revierte ahora el precio
+
+[00:10:33]
+véanlo constantemente como lo está
+
+[00:10:35]
+haciendo Aunque no vaya a cambiar su
+
+[00:10:37]
+tendencia pero
+
+[00:10:39]
+reacciona obviamente preferiblemente es
+
+[00:10:42]
+que tomamos una liquidez hacia arriba y
+
+[00:10:45]
+luego nos devolvamos para para seguir
+
+[00:10:49]
+cayendo por ejemplo el el el sp500 el
+
+[00:10:52]
+día de hoy Estos son ejemplos claros del
+
+[00:10:54]
+día de hoy fíjense como también nos
+
+[00:10:56]
+forma toda esta tipo línea de tendencia
+
+[00:10:59]
+varios
+
+[00:11:00]
+mínimos Y cómo fíjense que
+
+[00:11:02]
+constantemente van a ver ustedes las
+
+[00:11:04]
+tomas de liquidez acá las tomas de
+
+[00:11:07]
+liquidez acá y la reversión y luego cómo
+
+[00:11:09]
+vamos por toda la línea de tendencia
+
+[00:11:12]
+está constantemente
+
+[00:11:14]
+diseñando y tomándolo qué hace aquí el
+
+[00:11:17]
+mercado avanza avanza avanza diseña los
+
+[00:11:20]
+mínimos los toma diseña otros dos doble
+
+[00:11:23]
+mínimo diseña los altos los toma diseña
+
+[00:11:26]
+diseñó los bajos los toma y así
+
+[00:11:29]
+constantemente y a su vez va diseñando
+
+[00:11:31]
+líneas de tendencia Qué quiere decir que
+
+[00:11:34]
+cada estructura que el mercado tenga es
+
+[00:11:36]
+para diseñar liquidez grábate eso en la
+
+[00:11:40]
+cabeza cada estructura es provocada para
+
+[00:11:42]
+diseño de liquidez y así se mueve el
+
+[00:11:45]
+algoritmo interbancario en cada activo
+
+[00:11:48]
+que tú veas vas a ver la formación de
+
+[00:11:50]
+liquidez liquidez constante verad
+
+[00:11:53]
+fíjense liqu es constante
+
+[00:11:56]
+aquí arriba fíjense que formamos esto es
+
+[00:12:00]
+toda la liquidez interna que teníamos
+
+[00:12:02]
+acá Aquí teníamos estos lows los sacamos
+
+[00:12:05]
+venimos a un punto de interés y
+
+[00:12:08]
+constantemente el algoritmo va aquí ya
+
+[00:12:10]
+tiene otra liquidez pendiente va
+
+[00:12:13]
+constantemente sacando sacando sacando
+
+[00:12:16]
+ya este doble piso también lo dejó
+
+[00:12:18]
+pendiente en algún momento va a venir
+
+[00:12:20]
+otra
+
+[00:12:21]
+vez pero a favor de la tendencia
+
+[00:12:24]
+principalmente viene y me Toma este low
+
+[00:12:28]
+y este Low diario y me reacciona en este
+
+[00:12:31]
+punto de aquí regresa no me toma ningún
+
+[00:12:34]
+High pero luego fíjense la siguiente
+
+[00:12:36]
+vela como toma la liquidez ahí de estos
+
+[00:12:39]
+dos puntos y
+
+[00:12:41]
+regresa después de haber tomado este
+
+[00:12:44]
+reacciona toma esos tres puntos toma el
+
+[00:12:47]
+punto de acá y reacciona de nuevo y
+
+[00:12:49]
+luego de nuevo cae para tomar los puntos
+
+[00:12:51]
+de acá y lo ahora reacciona y se lleva
+
+[00:12:54]
+estos dos
+
+[00:12:55]
+puntos aquí reaccionó también un poco no
+
+[00:12:58]
+se llevó nada pero sí reaccionó y se y
+
+[00:13:01]
+cayó y fíjense cómo constantemente van
+
+[00:13:04]
+tomando tomando tomando Quiero saber
+
+[00:13:06]
+eurod que sé que a muchos les gusta
+
+[00:13:08]
+fíjense el eurod dólar Cómo va haciendo
+
+[00:13:11]
+el diseño de liquidez qué ven ustedes
+
+[00:13:13]
+aquí en el eurod dólar dos tres altos
+
+[00:13:18]
+acumulados ahí fíjense como teníamos
+
+[00:13:20]
+toma de liquidez toma de liquidez
+
+[00:13:22]
+tomamos los dos altos inmediatamente
+
+[00:13:25]
+vamos por toda la liquidez interna de
+
+[00:13:28]
+ahí Y es que el algoritmo va
+
+[00:13:30]
+constantemente y una vez que se la acaba
+
+[00:13:33]
+va a diseñar más liquidez va a venir por
+
+[00:13:35]
+este va a diseñar o va a dejar otro alto
+
+[00:13:38]
+y bajo del día y va a volver a tomarlos
+
+[00:13:40]
+porque constantemente lo va haciendo
+
+[00:13:42]
+aquí igual Teníamos dos bajos iguales
+
+[00:13:45]
+fíjense como el algoritmo viene por el
+
+[00:13:48]
+bajo igual se lo lleva y inmediatamente
+
+[00:13:51]
+viene por los que están acá de este lado
+
+[00:13:53]
+viene por este viene por este por este
+
+[00:13:55]
+viene por este lado y constantemente va
+
+[00:13:57]
+tomando liquidez y liquidez y liquidez
+
+[00:14:00]
+la libra dólar lo mismo fíjense que
+
+[00:14:02]
+estoy viendo pares diferentes para que
+
+[00:14:04]
+ustedes vean los ejemplos con pares
+
+[00:14:06]
+diferentes Cómo teníamos estos dos lows
+
+[00:14:09]
+iguales los tomamos aquí luego tomamos
+
+[00:14:12]
+este venimos hacia abajo venimos hacia
+
+[00:14:15]
+abajo pero ya de repente hay una
+
+[00:14:17]
+acumulación de altos aquí arriba que el
+
+[00:14:20]
+algoritmo en cuanto ve que se acumulan
+
+[00:14:22]
+estos altos de aquí rápidamente en
+
+[00:14:24]
+cuanto tomó la mayoría de liquidez acá
+
+[00:14:26]
+abajo va a venir por el alto y la
+
+[00:14:29]
+anterior por el alto y aquí ya está
+
+[00:14:30]
+diseñando de nuevo liquidez que en algún
+
+[00:14:33]
+momento tome este alto o tome este y ahí
+
+[00:14:37]
+cambie de dirección o siga su dirección
+
+[00:14:39]
+dependiendo de Y esto es en la mayoría
+
+[00:14:42]
+de spares por eso es importante que tú
+
+[00:14:44]
+te aprendas a identificar la liquidez
+
+[00:14:47]
+Igualmente vamos a ir a temporalidades
+
+[00:14:49]
+cortas para que ustedes vean ejemplos
+
+[00:14:51]
+prácticos con
+
+[00:14:53]
+temporalidades más cortas en este caso
+
+[00:14:56]
+vamos a ir por ejemplo a eurod dólar
+
+[00:14:58]
+para que vean como el mercado es una
+
+[00:15:00]
+constante toma y dame de liquidez y
+
+[00:15:03]
+liquidez y liquidez estamos en la
+
+[00:15:05]
+temporalidad de M1 fíjense como tenemos
+
+[00:15:07]
+una Smart Money trap aquí una trampa de
+
+[00:15:10]
+liquidez fíjense como la
+
+[00:15:14]
+tomamos tomamos la liquidez tenemos
+
+[00:15:17]
+diseño de liquidez acá
+
+[00:15:19]
+abajo esto que está aquí es un
+
+[00:15:21]
+inducement el precio induce a esos dos
+
+[00:15:24]
+bajos iguales fíjense induce cae de
+
+[00:15:28]
+nuevo una vez que purga toda la liquidez
+
+[00:15:31]
+que tenía por debajo fíjense una vez que
+
+[00:15:33]
+purga toda la liquidez Qué hace pum y
+
+[00:15:36]
+nada ya ya ya de este lado nada nada ya
+
+[00:15:39]
+no ya no no reacciona fíjense Cómo se va
+
+[00:15:41]
+para arriba con todo porque es constante
+
+[00:15:44]
+tod y dame liquidez fíjense en esta
+
+[00:15:46]
+estructura tan sencilla toma la liquidez
+
+[00:15:48]
+arriba viene abajo toma todo y lo pum
+
+[00:15:52]
+pum pum y a su vez va diseñando nueva
+
+[00:15:54]
+liquidez tal vez ustedes ahorita no la
+
+[00:15:56]
+puedan ver pero fíjense cómo va
+
+[00:15:57]
+diseñando nueva liquidez esa trending
+
+[00:15:59]
+Line línea de tendencia est también es
+
+[00:16:02]
+un canal para los que les gusta
+
+[00:16:04]
+ahí y fíjense cómo viene pum por el
+
+[00:16:07]
+canal pero a su vez va a seguir
+
+[00:16:09]
+diseñando el algoritmo con fue a tomar
+
+[00:16:12]
+este canal y no paró de diseñar liquidez
+
+[00:16:15]
+fíjense como diseña otra línea de
+
+[00:16:17]
+tendencia ahora por la parte de allá por
+
+[00:16:19]
+aquí también tenía un triángulo verad
+
+[00:16:22]
+Este es un triángulo ahí
+
+[00:16:25]
+triangulito y constantemente es un
+
+[00:16:27]
+diseño de liqu es un toma y dame de
+
+[00:16:29]
+liquidez luego el mercado viene y lo
+
+[00:16:31]
+saca Saca los altos saca la liquidez que
+
+[00:16:34]
+estaba de este lado y
+
+[00:16:37]
+regresa regresa fíjense como generamos
+
+[00:16:41]
+estos dobles saltos de
+
+[00:16:43]
+ahí vean como el algoritmo en todas las
+
+[00:16:45]
+temporalidades va toma toma toma toma
+
+[00:16:48]
+toma fíjense esto que está aquí
+
+[00:16:51]
+también y fíjense ahora como el
+
+[00:16:54]
+algoritmo lo diseñó y lo
+
+[00:16:56]
+sacó fíjense Cómo diseña la liquidez acá
+
+[00:17:00]
+paso uno creamos Este alto creamos este
+
+[00:17:04]
+low aquí sacamos también liquidez
+
+[00:17:07]
+creamos el el doble techo ojo creamos
+
+[00:17:12]
+este mínimo para luego crear el doble
+
+[00:17:14]
+techo vean como el algoritmo está
+
+[00:17:16]
+diseñando la liquidez y luego después
+
+[00:17:18]
+creamos el doble
+
+[00:17:20]
+piso entonces ya tenemos liquidez acá
+
+[00:17:23]
+arriba y liquidez acá abajo
+
+[00:17:24]
+posteriormente venimos hacia arriba
+
+[00:17:27]
+engañando al público de la compras y
+
+[00:17:30]
+luego pum sacamos la liquidez y ahora
+
+[00:17:33]
+por la liquidez pendiente que estaba acá
+
+[00:17:35]
+aparte que aquí tendría un pequeños
+
+[00:17:37]
+pequeñas formaciones de liquidez
+
+[00:17:39]
+pequeñas formaciones de liquidez y ahora
+
+[00:17:41]
+pum venimos a sacar la liquidez Y esto
+
+[00:17:44]
+es una temporalidad de un
+
+[00:17:46]
+minuto acá de nuevo También estamos
+
+[00:17:49]
+diseñando liquidez la sacamos atacamos
+
+[00:17:51]
+fíjense como diseñamos más liquidez aquí
+
+[00:17:54]
+triple piso rompemos la estructura
+
+[00:17:58]
+reaccionamos a la ruptura de estructura
+
+[00:18:00]
+y luego fum la atacamos Lu Hacemos como
+
+[00:18:02]
+un tipo zigzag para venir a purgar más
+
+[00:18:06]
+liquidez porque el algoritmo se mueve
+
+[00:18:09]
+por liquidez no se mueve por bloques de
+
+[00:18:12]
+órdenes ni balances si te dijeron eso te
+
+[00:18:16]
+han mentido toda tu vida el algoritmo se
+
+[00:18:18]
+mueve por liquidez oferta y demanda
+
+[00:18:20]
+cierto que sí Pero principalmente por
+
+[00:18:23]
+liquidez aquí ya estamos diseñando más
+
+[00:18:25]
+liquidez que posiblemente la tomemos
+
+[00:18:27]
+fíjense como tenía diseño de liquidez
+
+[00:18:29]
+dos saltos iguales ahí como el precio
+
+[00:18:32]
+pum viene y lo saca acá anteriormente
+
+[00:18:34]
+fíjense como diseñamos línea de
+
+[00:18:37]
+tendencia y lo pum sacábamos la línea de
+
+[00:18:40]
+tendencia a su vez que sacamos la línea
+
+[00:18:42]
+de tendencia fíjate sacamos la línea de
+
+[00:18:45]
+tendencia y diseñamos los dos salos
+
+[00:18:47]
+iguales y luego para posteriormente
+
+[00:18:48]
+irlos a sacar a su vez voy diseñando una
+
+[00:18:51]
+línea de tendencia por acá abajo aquí
+
+[00:18:53]
+qué teníamos el Alto fíjense Como
+
+[00:18:56]
+diseñamos el alto lo sacamos sacamos acá
+
+[00:18:59]
+ya y constantemente lo va haciendo el
+
+[00:19:01]
+precio Obviamente si tú sabes la
+
+[00:19:04]
+dirección Real del mercado pues mucho
+
+[00:19:06]
+mejor por qué Porque vas a poder ir
+
+[00:19:09]
+viendo las tomas de liquidez en contra
+
+[00:19:10]
+para dónde es la tendencia esa alcista
+
+[00:19:13]
+entonces que tengo que ver tomas de
+
+[00:19:15]
+liquidez contrarias ojo les voy a pasar
+
+[00:19:18]
+unos tips aquí Cómo se mueve el
+
+[00:19:20]
+algoritmo que el algoritmo alcista verad
+
+[00:19:23]
+Entonces qué tengo que ver yo tomas de
+
+[00:19:25]
+liquidez a la a la baja y cuando haga
+
+[00:19:28]
+las tomas de liquidez a la baja comprar
+
+[00:19:30]
+de bajos en este caso bajos porque pues
+
+[00:19:33]
+queremos comprar internos o externos
+
+[00:19:36]
+también pueden ser aunque principalmente
+
+[00:19:38]
+internos y compro compro ya me forma una
+
+[00:19:41]
+línea de tendencia una vez que vea la
+
+[00:19:42]
+saque compro hasta que tenga un cambio
+
+[00:19:45]
+de tendencia real Cuándo es un cambio de
+
+[00:19:47]
+tendencia real Gustavo cuando tengo un
+
+[00:19:49]
+order Flow bajista o alcista que se vea
+
+[00:19:52]
+claramente no me No no estoy hablando de
+
+[00:19:55]
+un bz o un shock estoy hablando de una
+
+[00:19:57]
+tendencia real qué vemos aquí toma de
+
+[00:20:01]
+liquidez ahí toma de liquidez acá cuá
+
+[00:20:04]
+veo la toma de liquidez ahí compras
+
+[00:20:06]
+Fíjate cómo generamos una línea de
+
+[00:20:09]
+tendencia ahí si quisiera haber comprado
+
+[00:20:11]
+ahí qué tendría que haber esperado que
+
+[00:20:13]
+el mercado atacara la línea de tendencia
+
+[00:20:15]
+esa una vez que veo que se gira por aquí
+
+[00:20:17]
+pues ya sé que son compras el mercado
+
+[00:20:19]
+Sube Sube Sube Sube sube sube y fíjate
+
+[00:20:21]
+Dónde están tus oportunidades de entrada
+
+[00:20:23]
+Aquí me hubiera gustado que bajara un
+
+[00:20:25]
+poquito más pero bueno está bien porque
+
+[00:20:27]
+es una liquidez muy interna Sube Sube
+
+[00:20:29]
+sube sube de nuevo sube de nuevo Gustavo
+
+[00:20:31]
+Qué onda Dónde están mis oportunidades
+
+[00:20:33]
+aquí toma liquidez va y ataca esta
+
+[00:20:36]
+liquidez interna sube de nuevo regresa
+
+[00:20:39]
+deja la liquidez esta que estaba acá que
+
+[00:20:41]
+era un doble alto esto yo lo estuve
+
+[00:20:43]
+tradeando en vivo de hecho una vez que
+
+[00:20:45]
+veas las tomas de liquidez a su tu
+
+[00:20:46]
+dirección contraria te
+
+[00:20:48]
+metes aquí por ejemplo si yo quisiera
+
+[00:20:51]
+comprar qué tengo que ver pues por lo
+
+[00:20:52]
+menos que el precio venga a sacar este
+
+[00:20:54]
+doble piso cuando veas que viene a sacar
+
+[00:20:57]
+el doble piso y se pone se posiciona en
+
+[00:21:00]
+un poi de por aquí en un poi de por aquí
+
+[00:21:04]
+compras y si te toca la mala suerte que
+
+[00:21:07]
+cambia la tendencia pues cambió qué
+
+[00:21:09]
+generamos aquí canal yo ya sé que
+
+[00:21:11]
+probablemente Mi dirección era alcista
+
+[00:21:14]
+porque fíjense que tomamos de este
+
+[00:21:16]
+lado tomamos liquidez y venimos a un
+
+[00:21:20]
+punto de acá también tomamos liquidez de
+
+[00:21:21]
+este mínimo y venimos a este punto de
+
+[00:21:23]
+acá que high time frame era una zona
+
+[00:21:26]
+importante donde la recesión no se
+
+[00:21:29]
+desploma la recesión toma tu recesión va
+
+[00:21:31]
+generamos esa línea de tendencia una vez
+
+[00:21:33]
+que liquidamos todos los bajos internos
+
+[00:21:35]
+venimos al punto de interés y ahí
+
+[00:21:37]
+compras esta liquidez Por qué no la
+
+[00:21:39]
+tomamos que la dirección ya es compras
+
+[00:21:41]
+la dejamos pendiente para otro día verad
+
+[00:21:45]
+y ahora el mercado va a venir a tomar la
+
+[00:21:47]
+liquidez de este lado una vez que
+
+[00:21:49]
+nosotros vimos que todo el mundo estaba
+
+[00:21:51]
+alcista alcista alcista nosotros decimos
+
+[00:21:54]
+ventas
+
+[00:21:56]
+aquí por qué porque hemos tomado la
+
+[00:21:58]
+liquidez la liquidez nos da la dirección
+
+[00:22:00]
+que tengo que esperar yo pues que la
+
+[00:22:02]
+tendencia cambie y efectivamente
+
+[00:22:04]
+cambiamos o volteamos la estructura
+
+[00:22:06]
+ahora qué tengo que esperar yo para
+
+[00:22:07]
+vender Pues que el mercado tome liquidez
+
+[00:22:10]
+por la parte alta ejemplo
+
+[00:22:12]
+aquí si tu dirección es bajista tú
+
+[00:22:15]
+esperas a que el mercado tome liquidez
+
+[00:22:17]
+hacia el lado contrario una vez que ves
+
+[00:22:19]
+la toma de liquidez del lado contrario
+
+[00:22:22]
+vendes que era lo que yo quería aquí en
+
+[00:22:24]
+este punto no más que el mercado No no
+
+[00:22:26]
+es perfecto no subió como y esperaba
+
+[00:22:29]
+pero yo esperaba que el mercado subiera
+
+[00:22:30]
+por encima de esta liquidez y vender
+
+[00:22:32]
+aquí por ejemplo hoy si hubieras querido
+
+[00:22:34]
+vender a favor de la tendencia Qué
+
+[00:22:37]
+esperabas mercado tomará liquidez hacia
+
+[00:22:39]
+arriba fíjate para luego
+
+[00:22:42]
+girar fácil tienes que hacer No más lo
+
+[00:22:46]
+contrario es lo único que tienes que
+
+[00:22:47]
+hacer pero es que la gente se paniquea
+
+[00:22:50]
+la tendencia es bajita ven la vela azul
+
+[00:22:52]
+y e nos vamos con todo el mercado te
+
+[00:22:54]
+toma un alto del día y pum se revierte
+
+[00:22:56]
+porque es un algoritmo
+
+[00:22:58]
+y hace eso
+
+[00:23:00]
+constantemente Mira qué bonito diseño de
+
+[00:23:03]
+liquidez aquí en
+
+[00:23:04]
+lucat qué bonito esto hermoso
+
+[00:23:08]
+fíjate No es que el bloque de ordenes
+
+[00:23:12]
+Gustavo es que el imbalance cuál déjate
+
+[00:23:16]
+de cosas mercado no se mueve por bloques
+
+[00:23:19]
+de órdenes por eso la gente pone sus
+
+[00:23:20]
+órdenes en límite en el bloque de
+
+[00:23:22]
+órdenes y no los
+
+[00:23:24]
+joden es tan popular el smarton que que
+
+[00:23:29]
+la gente Sigue perdiendo sus pruebas de
+
+[00:23:31]
+fondeo yo no estoy diciendo que no se
+
+[00:23:33]
+usa que no puede servir pero te estoy
+
+[00:23:35]
+diciendo que la jerarquía de los
+
+[00:23:37]
+conceptos Qué hace kcat para que
+
+[00:23:40]
+entiendan esta estructura que llevamos
+
+[00:23:41]
+dej este alto dej este low la tendencia
+
+[00:23:45]
+es alcista toma algunos bajos me genera
+
+[00:23:49]
+estos altos de aquí Me genera también
+
+[00:23:51]
+estos altos de ahí me genera este doble
+
+[00:23:54]
+piso vi el precio perfecto funciona en
+
+[00:23:57]
+ventas por qué Porque teníamos liquidez
+
+[00:23:58]
+en este punto de aquí y este punto de
+
+[00:24:00]
+interés estaba bien lo diseñamos un poco
+
+[00:24:04]
+de liquidez aquí la tomamos venimos
+
+[00:24:06]
+hasta este punto que este punto es
+
+[00:24:09]
+inducido Por qué es inducido porque
+
+[00:24:11]
+tiene liquidez después el precio toma su
+
+[00:24:14]
+liquidez y venga papá a sacar el alto y
+
+[00:24:17]
+a sacar el otro alto porque su trabajo
+
+[00:24:19]
+estaba hecho del algoritmo si se fijaron
+
+[00:24:23]
+como diseñó toda la liquidez arriba
+
+[00:24:25]
+diseñó toda la liquidez abajo y luego la
+
+[00:24:27]
+fue a sacar
+
+[00:24:28]
+esto es más parecido un Rango
+
+[00:24:30]
+constantemente lo va haciendo
+```

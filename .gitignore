@@ -1,0 +1,30 @@
+# Secretos y credenciales
+.env
+.env.*
+!.env.example
+credentials/
+tokens/
+secrets/
+*.token
+client_secret*.json
+oauth*.json
+
+# Dependencias y archivos generados
+node_modules/
+.venv/
+venv/
+dist/
+.vercel/
+.netlify/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+logs/*.log
+data/raw/
+data/state/
+
+.DS_Store

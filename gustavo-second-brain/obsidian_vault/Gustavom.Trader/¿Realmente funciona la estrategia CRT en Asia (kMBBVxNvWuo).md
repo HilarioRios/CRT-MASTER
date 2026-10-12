@@ -1,0 +1,1069 @@
+---
+source_id: YT_CANAL_02_kMBBVxNvWuo
+video_id: kMBBVxNvWuo
+channel: "Gustavom.Trader"
+published_at: 2025-12-31
+url: https://www.youtube.com/watch?v=kMBBVxNvWuo
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 7
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# ¿Realmente funciona la estrategia CRT en Asia?
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=kMBBVxNvWuo)
+
+## Transcript
+
+```
+[00:00:00]
+Hola, ¿qué pasa a todos amigos de
+
+[00:00:01]
+YouTube? Estamos en un nuevo video.
+
+[00:00:03]
+Estoy trayéndoles estrategia CRT en
+
+[00:00:05]
+Asia. Muchas personas me han preguntado,
+
+[00:00:08]
+Gustavo, yo no tengo tiempo de tradear
+
+[00:00:09]
+Nueva York, no tengo tiempo de tradear
+
+[00:00:11]
+de tradear Londres. ¿Qué alternativas
+
+[00:00:13]
+podría haber? Yo les diría Asia. Y me
+
+[00:00:16]
+preguntaron si esta estrategia funciona
+
+[00:00:19]
+en Asia. Y la estrategia de CRT se da
+
+[00:00:21]
+muy bien en en varias sesiones, en todas
+
+[00:00:23]
+las sesiones, pero yo les voy a traer
+
+[00:00:25]
+mis recomendaciones mejores para que
+
+[00:00:27]
+ustedes puedan entrar o tener buenas
+
+[00:00:29]
+entradas en esta sesión para que ya no
+
+[00:00:32]
+haya pretexto personas que no pueden
+
+[00:00:33]
+tradear Londres, que no pueden tradear
+
+[00:00:35]
+Nueva York y que lleguen la tarde del
+
+[00:00:37]
+trabajo y se quieran sentar a trabajar,
+
+[00:00:39]
+sobre todo en Latinoamérica, y quieran
+
+[00:00:41]
+hacer trading. Dicho esto, te invito a
+
+[00:00:43]
+que te suscribas a este video, que le
+
+[00:00:45]
+des me gusta, que me sigas en mi
+
+[00:00:47]
+Instagram que está abajo en la
+
+[00:00:48]
+descripción y vamos dentro de este
+
+[00:00:51]
+video. Bueno, ya estamos por aquí en la
+
+[00:00:53]
+gráfica, esta vez el activo que les
+
+[00:00:55]
+vengo a recomendar para Asia, porque
+
+[00:00:57]
+este es un activo que se mueve muy bien
+
+[00:00:59]
+en todas las sesiones. No quiere decir
+
+[00:01:01]
+que no pueda funcionar otros activos,
+
+[00:01:03]
+pero creo que el oro es un activo que se
+
+[00:01:05]
+mueve bien en todas las sesiones. Puse
+
+[00:01:07]
+un indicador yo de secciones que se
+
+[00:01:08]
+llama TD MXwl
+
+[00:01:12]
+Sessions. Te pone también el volumen de
+
+[00:01:14]
+la sesiones. Aquí, por ejemplo, pueden
+
+[00:01:16]
+ver el precio Nueva York, Londres, Asia,
+
+[00:01:20]
+pero yo quitaré Nueva York y Londres
+
+[00:01:22]
+porque no vamos a verlo el día de hoy.
+
+[00:01:24]
+Nos vamos a centrar principalmente en la
+
+[00:01:26]
+sesión asiática. También este indicador
+
+[00:01:28]
+te pone el volumen de las sesiones de en
+
+[00:01:31]
+este caso de las sesiones, pero nos da
+
+[00:01:32]
+igual el volumen, solo lo quiero para
+
+[00:01:34]
+que me indique dónde es la sesión
+
+[00:01:36]
+asiática. Horario de Nueva York serían
+
+[00:01:39]
+las 20 horas o las, creo que son las 8
+
+[00:01:41]
+de la noche, las 20 horas en horario de
+
+[00:01:44]
+Nueva York. Entonces vamos a empezar a
+
+[00:01:46]
+hacer back testing. Ahorita vamos a
+
+[00:01:47]
+pasar a la parte donde les voy a mostrar
+
+[00:01:49]
+ejemplos de cómo podrían tradear con
+
+[00:01:51]
+esta sesión. Las primeras principales 2
+
+[00:01:54]
+a 4 horas de Asia e son las que yo
+
+[00:01:56]
+recomiendo que tradeen. Entonces voy a
+
+[00:01:58]
+ponerles un par de ejemplos para cómo
+
+[00:02:00]
+podrían ustedes aplicar el CRT en la
+
+[00:02:02]
+sesión asiática. Recuerda que este video
+
+[00:02:04]
+está patrocinado por Funden Next, una de
+
+[00:02:07]
+las empresas más top en el mundo del
+
+[00:02:09]
+fondeo, donde puedes adquirir tu prueba
+
+[00:02:11]
+desde 32.99
+
+[00:02:13]
+9 s super barato, una de las empresas
+
+[00:02:15]
+más top y vas a tener mi link en la
+
+[00:02:18]
+descripción y el comentario fijado
+
+[00:02:19]
+seguramente para que puedas registrarte
+
+[00:02:22]
+en esta empresa y me apoyes, apoyes mi
+
+[00:02:24]
+contenido si te gusta mucho, puedas
+
+[00:02:26]
+registrarte aquí y puedas comprar
+
+[00:02:28]
+también tu cuentita de fondeo. También
+
+[00:02:30]
+decirte que vas a poder acceder también
+
+[00:02:33]
+a los sorteos que estaré haciendo sobre
+
+[00:02:35]
+cuentas de fondeo en esta empresa.
+
+[00:02:37]
+Entonces, gracias a Funden Next por
+
+[00:02:39]
+patrocinar este video, una de las
+
+[00:02:40]
+empresas más top en el mundo del fondeo,
+
+[00:02:43]
+con pagos en menos de 24 horas y si no
+
+[00:02:47]
+te dan un bono o te aseguran que te van
+
+[00:02:49]
+a pagar en menos de 24 horas. A mí me
+
+[00:02:51]
+encanta muchísimo la empresa y gracias a
+
+[00:02:53]
+Funden Next por patrocinar este
+
+[00:02:56]
+maravilloso video. Bueno, chicos,
+
+[00:02:58]
+estamos aquí por el gráfico del oro
+
+[00:03:00]
+enseñándoles un poquito de ejemplos.
+
+[00:03:01]
+Miren, justo en lo que es la sesión
+
+[00:03:04]
+asiática que estamos viendo por aquí,
+
+[00:03:06]
+miren cómo se forma esta bonita R de una
+
+[00:03:07]
+hora que acabo de marcar por aquí. Vamos
+
+[00:03:09]
+a hacer un pequeño back testing. Fíjense
+
+[00:03:11]
+que aquí podríamos tener buenas
+
+[00:03:13]
+entradas. En este caso se forma la R
+
+[00:03:16]
+esta de una hora por debajo de la
+
+[00:03:17]
+apertura de la siguiente vela podríamos
+
+[00:03:19]
+haber entrado y a estos máximos
+
+[00:03:22]
+podríamos haber atacado o podríamos
+
+[00:03:24]
+haber atacado inclusive estos máximos
+
+[00:03:26]
+que están aquí bastante claros. Se mueve
+
+[00:03:27]
+bastante el precio del oro en la sesión
+
+[00:03:30]
+asiática. Aquí podemos refinar un poco,
+
+[00:03:32]
+refinar a 15 minutos. Fíjense justo que
+
+[00:03:34]
+en la sesión de asiática, en este caso,
+
+[00:03:36]
+para este ejemplo, justo en la sesión
+
+[00:03:38]
+asiática, el precio nos confirma también
+
+[00:03:41]
+una R o un rango de 15 minutos. En este
+
+[00:03:43]
+caso aquí, ¿dónde lo confirma? Fíjense
+
+[00:03:46]
+que aquí este el rango de 15 minutos.
+
+[00:03:48]
+Aquí el precio toma el mínimo. Aquí
+
+[00:03:50]
+cierra esta vela y nos confirma este
+
+[00:03:52]
+rango de 15 minutos que también acá
+
+[00:03:54]
+tiene otro chiquitito. Justo en la
+
+[00:03:55]
+sesión asiática, miren, en la sesión
+
+[00:03:57]
+asiática tiene este chiquitito. Y este
+
+[00:04:00]
+aquí vamos a ver la vela de una hora
+
+[00:04:02]
+para ir vigilando. Bueno, podemos ir
+
+[00:04:04]
+dándole un vistazo a varias velas.
+
+[00:04:05]
+Fíjense que también la de 4 horas
+
+[00:04:07]
+intenta reiniciar esta este rango de
+
+[00:04:10]
+este caso este que está aquí. Podría
+
+[00:04:12]
+decir que mínimos iguales. En otras
+
+[00:04:13]
+temporalidades tal vez tomó la liquidez.
+
+[00:04:16]
+en en otro broker tomó la liquidez. Tal
+
+[00:04:18]
+vez fíjense que en una hora lo que
+
+[00:04:20]
+tenemos es que también justo el precio
+
+[00:04:23]
+ha confirmado la R aquí. Aquí es donde
+
+[00:04:26]
+ya justo ha confirmado la R. Déjenme
+
+[00:04:27]
+quito un poco el indicador para que no
+
+[00:04:29]
+moleste, pero fíjense como aquí justo en
+
+[00:04:32]
+esta vela de 15 minutos aquí es donde
+
+[00:04:34]
+confirmó la R de una hora también. Ahí
+
+[00:04:36]
+sí que confirmó la R de una hora y ahí
+
+[00:04:39]
+termina aquí termina confirmando la R de
+
+[00:04:41]
+15 minutos también. Entonces tenemos
+
+[00:04:43]
+como que todo alineado ahí en en todas
+
+[00:04:46]
+las temporalidades, en una hora, en 15
+
+[00:04:48]
+minutos, en en 4 horas también está
+
+[00:04:52]
+alineado hacia arriba. Entonces ahí
+
+[00:04:54]
+justo en la sesión asiática tenemos esta
+
+[00:04:57]
+entradita. Yo hubiera entrado justo en
+
+[00:05:01]
+abrió a las 20, se formó la nueva R
+
+[00:05:03]
+alcista, en este caso aquí cuando se
+
+[00:05:05]
+llegó el mínimo de la de esta vela y
+
+[00:05:07]
+entramos aquí justo en esta en esta
+
+[00:05:10]
+siguiente vela de 15 minutos. Aquí
+
+[00:05:11]
+hubiéramos podido entrar. Fíjense que si
+
+[00:05:14]
+yo le doy para atrás y hago un pequeño
+
+[00:05:16]
+back testing, fíjense como estoy aquí en
+
+[00:05:18]
+15 minutos, no abre todavía, no ha
+
+[00:05:20]
+abierto la sesión asiática, el precio no
+
+[00:05:22]
+ha tomado nada en una hora, no ha
+
+[00:05:25]
+confirmado ninguna R en una hora. dice
+
+[00:05:27]
+que para cuando abre la sesión asiática,
+
+[00:05:29]
+el precio lo que hace es con esta vela
+
+[00:05:31]
+de una hora eh me toma la liquidez y
+
+[00:05:33]
+cierra dentro ya o ya va para arriba, ya
+
+[00:05:36]
+no ha cerrado todavía de hecho, la vela,
+
+[00:05:39]
+pero sí que ya está posiblemente
+
+[00:05:41]
+queriendo cerrar dentro. Entonces, justo
+
+[00:05:43]
+cuando abre la sesión les digo que el
+
+[00:05:44]
+precio lo que hace es manipular el low
+
+[00:05:47]
+de esto, crear el rango de una hora y
+
+[00:05:49]
+fíjense cómo crea el rango de 15 minutos
+
+[00:05:51]
+y ahí es donde se va para arriba. La
+
+[00:05:53]
+segunda opción, bueno, aquí poner el
+
+[00:05:55]
+stop loss más o menos por aquí de
+
+[00:05:57]
+acuerdo a los targets. Este tienen los
+
+[00:05:59]
+targets muy obvios, podríamos nosotros
+
+[00:06:01]
+haber apuntado un poquito más arriba si
+
+[00:06:03]
+es hacia por aquí, yo creo que está
+
+[00:06:04]
+bastante bien un uno a dos y a partir de
+
+[00:06:06]
+ahí abre. Podríamos haber entrado
+
+[00:06:08]
+también, miren ustedes, chicos, podrían
+
+[00:06:11]
+haber entrado también. Vamos a mutear
+
+[00:06:12]
+los indicadores un poco para que solo es
+
+[00:06:14]
+como guía del horario. Podríamos haber
+
+[00:06:16]
+entrado también una vez que cerró esta
+
+[00:06:18]
+vela por debajo de la apertura de esta
+
+[00:06:20]
+vela de una hora. También se podría
+
+[00:06:22]
+haber entrado en este caso aquí en esta,
+
+[00:06:25]
+justo en esta vela, pero aquí ustedes
+
+[00:06:27]
+tienen que refinar un poco el SL porque
+
+[00:06:29]
+sí que el SL les queda un poquito
+
+[00:06:31]
+grande. Entonces, yo lo hubiera puesto
+
+[00:06:33]
+por debajo de esta barra de 15 minutos y
+
+[00:06:35]
+le damos más o menos el mismo TP, un 1 a
+
+[00:06:38]
+1.9, vamos a ponerlo uno a dos y ahí se
+
+[00:06:40]
+hubiera dado la entrada, ¿no? Entonces
+
+[00:06:42]
+sí que se dan entradas en Asia, es
+
+[00:06:45]
+bastante buena la estrategia también en
+
+[00:06:47]
+Asia. Vamos a ver si puedo e mostrarles
+
+[00:06:50]
+otra entrada supercara en la sesión
+
+[00:06:52]
+asiática. Bueno, chicos, estamos aquí
+
+[00:06:54]
+otro ejemplo en la sesión asiática. Esta
+
+[00:06:57]
+vez este viendo un rango formado en 4
+
+[00:07:00]
+horas. Vamos a quitar ahorita el
+
+[00:07:01]
+indicador no más para mostrarles que
+
+[00:07:03]
+justo estamos en la sesión asiática. Si
+
+[00:07:04]
+nos vamos a nuestro 4 horas, fíjense
+
+[00:07:06]
+como el precio está formando, formó esa
+
+[00:07:10]
+R de 4 horas, este rango de 4 horas ya
+
+[00:07:13]
+confirmado. Antes de que abriera la
+
+[00:07:15]
+sesión asiática está confirmado también
+
+[00:07:17]
+el precio sacó este rango bajista, este
+
+[00:07:20]
+rango bajista que estaba aquí arriba.
+
+[00:07:22]
+Ese es el contexto que tenemos ahí.
+
+[00:07:23]
+Podemos ver inclusive, miren, 6 horas se
+
+[00:07:26]
+está formando una R. Ya saben que pueden
+
+[00:07:28]
+usar varias temporalidades si ustedes
+
+[00:07:29]
+quieren 8 horas, pero aquí vamos a ver a
+
+[00:07:31]
+una hora para hacer una simple entrada,
+
+[00:07:34]
+en este caso en una hora para ver
+
+[00:07:36]
+exactamente el punto óptimo de entrada
+
+[00:07:39]
+justo en la sesión asiática. Miren que
+
+[00:07:41]
+aquí el precio no da esta R bajista que
+
+[00:07:44]
+reinicia aquí mismo. Aquí da bajista
+
+[00:07:46]
+bajista. Vamos a poner otra vez la
+
+[00:07:48]
+sesión para que ustedes vayan viendo.
+
+[00:07:49]
+Fíjense que aquí en el open sí que no da
+
+[00:07:51]
+nada, justo en el open, pero ya aquí
+
+[00:07:54]
+poniendo la vela de 4 horas por por
+
+[00:07:56]
+detrás, a poner la vela de 4 horas.
+
+[00:07:57]
+Fíjense que poniendo la vela de 4 horas
+
+[00:07:59]
+el precio no da nada porque justo la
+
+[00:08:01]
+barra la barra de 4 horas cierra aquí.
+
+[00:08:04]
+Aquí es donde ya confirma mi rango de 4
+
+[00:08:08]
+horas. Automáticamente dentro de la
+
+[00:08:09]
+sesión asiática, cuando ya confirma mi
+
+[00:08:11]
+rango, me confirma un nueva R, en este
+
+[00:08:14]
+caso aquí de una hora. Y fíjense que ya
+
+[00:08:16]
+aquí está confirmado la R de una hora,
+
+[00:08:18]
+justo también en la sesión asiática.
+
+[00:08:20]
+Entonces, todavía estamos dentro de la
+
+[00:08:22]
+sesión asiática. Vamos a avanzar un
+
+[00:08:24]
+poquito. Quiero entrar, bueno, me fui,
+
+[00:08:25]
+me fui muy rápido. Quiero entrar por
+
+[00:08:27]
+debajo de la apertura a la siguiente
+
+[00:08:29]
+vela. En este caso, ya cuando confirmo
+
+[00:08:30]
+una hora. Aquí pongo mi posición larga.
+
+[00:08:33]
+Seguimos en Asia. Estamos en las
+
+[00:08:34]
+primeras una, 2, 3, cu en la en la
+
+[00:08:37]
+quinta hora. Bueno, yo recomiendo 4
+
+[00:08:39]
+horas, pero bueno, ahí está. Nos
+
+[00:08:41]
+protegemos por debajo del torter y vamos
+
+[00:08:44]
+a la R. En este caso, como la R estaba
+
+[00:08:46]
+bastante clara, yo iría hacia esa R,
+
+[00:08:48]
+¿no? Esta sería mi entrada en Asia,
+
+[00:08:50]
+justo en la sesión asiática, en este
+
+[00:08:53]
+caso para el orito. Vamos a ver si
+
+[00:08:56]
+encontramos otra entrada en en esta
+
+[00:08:58]
+sesión asiática para mostrarles más
+
+[00:09:00]
+ejemplos y para demostrarles que sí
+
+[00:09:02]
+funciona la estrategia CRT en la sesión
+
+[00:09:04]
+asiática, en este caso en el oro, pero
+
+[00:09:06]
+ya ustedes podrán hacer su debido back
+
+[00:09:07]
+testing. Yo estoy viendo así a la rápida
+
+[00:09:10]
+porque en un video tan cortito no puedo
+
+[00:09:12]
+cubrir tanto, pero lo estoy haciendo más
+
+[00:09:14]
+o menos rápido para que ustedes vayan
+
+[00:09:16]
+viendo que sí que funciona la estrategia
+
+[00:09:18]
+de CRT en la sesión asiática. Vamos con
+
+[00:09:21]
+otro ejemplo. Bueno, chicos, para este
+
+[00:09:23]
+ejemplo vamos a ver una entrada un poco
+
+[00:09:24]
+distinta porque va a ser una entrada en
+
+[00:09:26]
+continuación. Aquí fíjense que ya está
+
+[00:09:28]
+el rango confirmado de 4 horas y vamos a
+
+[00:09:30]
+ver la continuación o cómo podrían
+
+[00:09:32]
+haberse entrado en continuación en este
+
+[00:09:34]
+caso en nuestro sesión de Asia. Ya ahí
+
+[00:09:38]
+confirmada nuestra barra de 4 horas.
+
+[00:09:40]
+Vamos a avanzar poquito. Aquí ya estamos
+
+[00:09:41]
+en la sesión asiática. Avanzaremos un
+
+[00:09:44]
+poquito y vamos a ver la barra de 4
+
+[00:09:46]
+horas para ver que la barra de 4 horas
+
+[00:09:48]
+esté confirmada. En este caso ponemos la
+
+[00:09:51]
+barra de 4 horas y fíjense como ya justo
+
+[00:09:53]
+cuando la barra de 4 horas ya confirmó
+
+[00:09:56]
+el precio me formó también un rango de
+
+[00:09:58]
+una hora que es el que usaremos para
+
+[00:10:00]
+entrar. Fíjense como ya me confirmó, me
+
+[00:10:02]
+confirmó también el rango de una hora.
+
+[00:10:04]
+Entonces, aquí la barra de 4 horas me
+
+[00:10:06]
+confirma justo aquí que es cuando la
+
+[00:10:09]
+barra de una hora cierra. Entonces se
+
+[00:10:11]
+sincroniza en este caso 4 horas con una
+
+[00:10:13]
+hora. Y fíjense que aquí podríamos estar
+
+[00:10:15]
+nosotros a ver entrado. Justo aquí.
+
+[00:10:18]
+Ustedes pueden bajarse a refinar más
+
+[00:10:20]
+también y esperar el bloque y refinar un
+
+[00:10:23]
+poco más. También pueden hacerlo
+
+[00:10:24]
+ustedes, pero yo les digo que no es
+
+[00:10:27]
+tampoco necesario, ¿no? Inclusive
+
+[00:10:29]
+podrían haber sido osados y adelantarse
+
+[00:10:32]
+un poco más cuando el precio rompió. por
+
+[00:10:34]
+ejemplo, aquí, pero yo les enseñaré
+
+[00:10:36]
+aquí, por ejemplo, ahí me gustó y la
+
+[00:10:38]
+salida ahí. Si les el stop loss les
+
+[00:10:40]
+queda demasiado grande, porque esta es
+
+[00:10:42]
+una entrada más como en continuación,
+
+[00:10:45]
+ustedes lo que pueden hacer es ajustarlo
+
+[00:10:47]
+más o menos al 50% para que les queden
+
+[00:10:49]
+sus dos o tres RS, ¿no? Aquí era la R de
+
+[00:10:52]
+4 horas, aunque podrían haber dejado
+
+[00:10:54]
+correr más. Yo lo dejaré más o menos al
+
+[00:10:55]
+1 a dos porque era la salida más óptima,
+
+[00:10:57]
+¿no? También podrían haberse esperado a
+
+[00:10:59]
+que el precio tomara el alto de la vela
+
+[00:11:01]
+anterior y haber salido ahí. Y esta es
+
+[00:11:03]
+una entrada rapidita, en este caso en
+
+[00:11:05]
+continuación en la sesión de Asia,
+
+[00:11:08]
+¿verdad? Miren, le voy a quitar aquí el
+
+[00:11:10]
+indicador. Justo entramos 4 horas cuando
+
+[00:11:13]
+el precio confirmó este rango de 4
+
+[00:11:15]
+horas. Usamos la vela de una hora
+
+[00:11:17]
+también para como confirmación extra.
+
+[00:11:20]
+Vamos a quitar el indicador para que no
+
+[00:11:21]
+moleste. Y aquí fíjense cómo vemos que
+
+[00:11:24]
+se forma un nuevo rango a favor de mi
+
+[00:11:26]
+rango de 4 horas. Ya se forma el nuevo
+
+[00:11:27]
+rango. En la siguiente vela entramos
+
+[00:11:29]
+nosotros, nos protegemos más o menos al
+
+[00:11:31]
+50% porque el stopls nos queda demasiado
+
+[00:11:34]
+grande. Nos protegemos aquí para que
+
+[00:11:36]
+justo en la salida de 4 horas nos dé
+
+[00:11:38]
+nuestras dos RS o inclusive no sé si
+
+[00:11:41]
+vaya a dar 3 Rs. Vamos a ver si da TR
+
+[00:11:43]
+RS. Creo que sí. Si las da. A ver. Ah,
+
+[00:11:46]
+bueno, sí, sí que da TR RS también, pero
+
+[00:11:49]
+pues la salida estaba ahí. Entonces,
+
+[00:11:51]
+fíjense que la estrategia ahorita la he
+
+[00:11:53]
+podido resumir lo mejor posible porque
+
+[00:11:56]
+tampoco es como que puede explicar todo
+
+[00:11:58]
+superdallado en un solo video, pero sí
+
+[00:12:01]
+que la estrategia funciona bien.
+
+[00:12:03]
+Recuerden que ustedes pueden usar aparte
+
+[00:12:05]
+pues ya su sesión asiática y pueden
+
+[00:12:07]
+estar su diario, su 12 horas, sus 8, sus
+
+[00:12:11]
+6, su cu, su entrada en una hora, su
+
+[00:12:15]
+refine en 15 minutos. Pueden estarlo
+
+[00:12:17]
+haciendo así. Yo lo hice un poco rápido
+
+[00:12:20]
+por cuestiones del video, pero para
+
+[00:12:21]
+demostrarles que sí que se dan buenas
+
+[00:12:23]
+entradas en la sesión asiática, sobre
+
+[00:12:25]
+todo en este par que me gusta mucho que
+
+[00:12:27]
+es el oro. Bueno, espero que les haya
+
+[00:12:29]
+gustado mucho. Nos vamos a estar viendo
+
+[00:12:31]
+por este video y nos vemos en un
+
+[00:12:33]
+siguiente video. Dar like, suscribirse y
+
+[00:12:36]
+integrarse a mis redes sociales también
+
+[00:12:38]
+que están abajo en la descripción de
+
+[00:12:40]
+este video. Adiós.
+```

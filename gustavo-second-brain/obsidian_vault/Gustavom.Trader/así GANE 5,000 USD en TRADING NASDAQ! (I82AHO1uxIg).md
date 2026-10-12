@@ -1,0 +1,1345 @@
+---
+source_id: YT_CANAL_02_I82AHO1uxIg
+video_id: I82AHO1uxIg
+channel: "Gustavom.Trader"
+published_at: 2023-06-02
+url: https://www.youtube.com/watch?v=I82AHO1uxIg
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 10
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# así GANE 5,000 USD en TRADING NASDAQ!
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=I82AHO1uxIg)
+
+## Transcript
+
+```
+[00:00:03]
+Hola Hola a todos amigos estamos en un
+
+[00:00:06]
+nuevo video como les había dicho les iba
+
+[00:00:08]
+a traer el Market recap de lo que ha
+
+[00:00:11]
+sido esta semana que ya casi está por
+
+[00:00:13]
+terminarse y vamos el día de hoy a
+
+[00:00:16]
+estudiar los movimientos de los tres o
+
+[00:00:19]
+el Trade concretamente que hemos tomado
+
+[00:00:21]
+esta semana atrapando este movimiento a
+
+[00:00:24]
+la baja en el gráfico del nasdaq
+
+[00:00:26]
+ya saben que me pueden seguir en
+
+[00:00:28]
+Telegram donde le estoy dando
+
+[00:00:29]
+actualizaciones constantes sobre el
+
+[00:00:31]
+precio y sobre algunas entradas que
+
+[00:00:33]
+estoy tomando y como estoy gestionando
+
+[00:00:35]
+la operación ahí en Telegram les estoy
+
+[00:00:37]
+mandando el día que hicimos la entrada y
+
+[00:00:39]
+también les estuve mandando
+
+[00:00:42]
+un poco las actualizaciones sobre el
+
+[00:00:44]
+precio también les voy a explicar un
+
+[00:00:47]
+poquito como el precio está el día de
+
+[00:00:49]
+hoy para que ustedes puedan tener
+
+[00:00:52]
+entendimiento también como tomamos
+
+[00:00:54]
+confirmaciones de este movimiento y me
+
+[00:00:57]
+gustaría partir sobre un gráfico Diario
+
+[00:00:59]
+del nasdaq tenemos una tendencia
+
+[00:01:01]
+claramente alcista
+
+[00:01:03]
+pero el precio se encontraba después de
+
+[00:01:06]
+haber tomado esta liquidez que está acá
+
+[00:01:08]
+que es este alto que está aquí se
+
+[00:01:11]
+encontraba en una buena área de ventas
+
+[00:01:13]
+después también de haber tomado liquidez
+
+[00:01:16]
+bueno se encuentra todavía en el área de
+
+[00:01:19]
+ventas después de haber tomado liquidez
+
+[00:01:20]
+Aquí también adicional a eso se
+
+[00:01:23]
+encuentra en este order block o en esta
+
+[00:01:26]
+zona de ventas para mí que es bastante
+
+[00:01:30]
+bastante buena esta zona de ventas de de
+
+[00:01:33]
+un gráfico diario Entonces yo al día de
+
+[00:01:35]
+hoy tengo toda esta zona para estar
+
+[00:01:38]
+vendiendo para estar vendiendo Y eso es
+
+[00:01:41]
+la zona donde las donde he estado
+
+[00:01:43]
+trabajando el precio esta semana Ahora
+
+[00:01:45]
+vamos a ver la acción de precio para ver
+
+[00:01:47]
+qué nos nos estuvo mostrando y porque
+
+[00:01:51]
+decimos tomar una entrada en ese punto
+
+[00:01:53]
+de interés a la baja
+
+[00:01:55]
+y porque creo que el precio puede llegar
+
+[00:01:58]
+a caer un poco más todavía a partir de
+
+[00:02:00]
+ahí Entonces nosotros partimos de que el
+
+[00:02:03]
+día que arrancamos el día domingo
+
+[00:02:06]
+El precio abrió con un capa la alza este
+
+[00:02:09]
+Gap que está aquí creo que en futuros
+
+[00:02:11]
+también en todas partes abrió con este
+
+[00:02:13]
+Gap luego el precio en la sesión de del
+
+[00:02:16]
+día lunes que fue día festivo estuve
+
+[00:02:20]
+haciendo este Rango y les dije que no me
+
+[00:02:22]
+interesaba vender a mí hicimos un
+
+[00:02:24]
+análisis en Telegram de nuevo los que
+
+[00:02:26]
+quieran ver análisis discursivos clases
+
+[00:02:29]
+etcétera etcétera pueden unirse a
+
+[00:02:32]
+Telegram de hecho el día estábamos está
+
+[00:02:33]
+teniendo una clase también exclusiva
+
+[00:02:34]
+para todos ustedes en Telegram vamos a
+
+[00:02:37]
+estar mandando el link del zoom para que
+
+[00:02:40]
+se puedan conectar entonces
+
+[00:02:41]
+identificamos que yo les había dicho que
+
+[00:02:43]
+no me gustaba
+
+[00:02:45]
+este tomar una compra ahí porque pensaba
+
+[00:02:49]
+que esa liquidez la iban a expulsar
+
+[00:02:50]
+finalmente fue lo que sucedió teníamos
+
+[00:02:54]
+también otra cosa que era el alto
+
+[00:02:56]
+semanal de esa semana que era este alto
+
+[00:03:00]
+semanal que ya saben que son liquidez
+
+[00:03:03]
+fuerte y que es fuerte la liquidez
+
+[00:03:05]
+semanal tomado tomado con ese Gap
+
+[00:03:08]
+tomamos el alto semanal entonces podría
+
+[00:03:10]
+haber por lo menos un retroceso y
+
+[00:03:12]
+podríamos pensar en vender el precio
+
+[00:03:14]
+después el precio sube fuerte el día
+
+[00:03:17]
+martes concretamente sobre Londres y
+
+[00:03:21]
+cuando yo me levanto más o menos sobre
+
+[00:03:23]
+seis y medio cinco y media seis de la
+
+[00:03:25]
+mañana de aquí que es 30 minutos antes
+
+[00:03:28]
+de la apertura de las facciones de New
+
+[00:03:31]
+York básicamente o en la apertura de
+
+[00:03:33]
+Nueva York
+
+[00:03:34]
+nos encontramos el precio acá arriba y
+
+[00:03:37]
+nos genera este movimiento a la baja
+
+[00:03:39]
+Cómo es que yo Determine que podría
+
+[00:03:42]
+vender a partir de ahí y que podría
+
+[00:03:44]
+tener un potencial bajista fuerte
+
+[00:03:47]
+entonces yendo los un poco a la acción
+
+[00:03:50]
+de precio en concretamente Yo me puedo
+
+[00:03:53]
+ir bajando 15 minutos
+
+[00:03:55]
+cinco minutos y un minuto vamos a ir
+
+[00:03:59]
+bajándonos a tres tres minutos para irlo
+
+[00:04:01]
+viendo y para que podamos estar
+
+[00:04:04]
+estudiando la acción de precio justo
+
+[00:04:06]
+cabe recalcar que aquí nos encontrábamos
+
+[00:04:08]
+en horario de Nueva York el alto se hace
+
+[00:04:10]
+exactamente el alto se hace Aquí lo
+
+[00:04:14]
+tengo en Nueva York si el alto se hace a
+
+[00:04:16]
+las ocho de la mañana de Nueva York en
+
+[00:04:18]
+la manipulación se hace a las 9:30 lo
+
+[00:04:21]
+voy a poner un poquito en mi horario
+
+[00:04:22]
+para ubicarme yo en mi horario estábamos
+
+[00:04:25]
+aquí por ejemplo
+
+[00:04:26]
+exactamente apertura en Nueva York
+
+[00:04:28]
+generamos un máximo después de haber
+
+[00:04:31]
+generado ese máximo
+
+[00:04:32]
+lo que ocurre aquí en el precio
+
+[00:04:35]
+cabe recalcar que los que quieran ver
+
+[00:04:37]
+mis entradas que tomé que este yo vendí
+
+[00:04:40]
+aquí mis entradas que tomé que las mandé
+
+[00:04:42]
+totalmente en Telegram les Estoy
+
+[00:04:45]
+actualizando les estuve mandando las
+
+[00:04:47]
+fotos del meta Trader y todas las
+
+[00:04:48]
+entradas que hicimos O sea que es algo
+
+[00:04:50]
+real no es algo que yo me estoy
+
+[00:04:52]
+inventando no teníamos este rompimiento
+
+[00:04:55]
+la cultura en este marco de estructura
+
+[00:04:57]
+chef después de tener este Market de
+
+[00:04:59]
+shift que incluso llega a tomar liquidez
+
+[00:05:02]
+de este bajo o a romper este bajo
+
+[00:05:04]
+estructural que ya sabe que a mí los
+
+[00:05:06]
+bajos estructurales rotos me gustan no
+
+[00:05:10]
+no los marcas de destructor chef de
+
+[00:05:12]
+intradía
+
+[00:05:13]
+los tomo no importa si sea con Mecha o
+
+[00:05:16]
+con cuerpo de Vela Entonces teníamos
+
+[00:05:18]
+estos dos rompimientos de estructura o
+
+[00:05:19]
+marcas de shift después el precio aquí
+
+[00:05:23]
+debería de venir a un balance y
+
+[00:05:25]
+concretamente el precio vino exactamente
+
+[00:05:27]
+aquí para ser sinceros y yo estuve
+
+[00:05:29]
+entrando por esta área me gusta mucho
+
+[00:05:32]
+tomar en balances de de quince y de
+
+[00:05:34]
+cinco minutos Entonces concretamente les
+
+[00:05:37]
+voy a enseñar el embalance de 15 minutos
+
+[00:05:39]
+que yo estuve tomando para que ustedes
+
+[00:05:41]
+me vayan nos vayamos entendiendo no
+
+[00:05:44]
+entonces aquí viene el precio rompe
+
+[00:05:46]
+estructura le decía que yo por aquí
+
+[00:05:49]
+estuve tomando la entrada exactamente
+
+[00:05:52]
+exactamente por aquí por aquí por aquí
+
+[00:05:55]
+por esta área por esta zona la verdad no
+
+[00:05:57]
+le puse
+
+[00:05:58]
+a querer tomar la entrada tan Sniper
+
+[00:06:02]
+y ya saben que yo tengo stop loss
+
+[00:06:04]
+grandecitos entonces me protegí por
+
+[00:06:08]
+encima de este alto y tomé una entrada
+
+[00:06:10]
+por aquí más o menos cuando el precio
+
+[00:06:11]
+iba regresando Exactamente para que
+
+[00:06:14]
+ustedes lo puedan ver en un minuto en M1
+
+[00:06:16]
+otra vez de nuevo en M1 para que usted
+
+[00:06:20]
+lo vean ya aquí se ve un poquito mejor
+
+[00:06:21]
+fíjense cómo tenemos la manipulación
+
+[00:06:24]
+abajo y la manipulación arriba y el
+
+[00:06:28]
+precio viene exactamente al casi el
+
+[00:06:31]
+originador exactamente a estos a este
+
+[00:06:34]
+order block que tenemos por aquí que
+
+[00:06:36]
+serían estas tres velas serían nuestro
+
+[00:06:39]
+orden blog nuestro punto de interés yo
+
+[00:06:41]
+concretamente
+
+[00:06:42]
+no recuerdo Realmente si lo tomé cuando
+
+[00:06:45]
+el precio en cuanto regresó creo que
+
+[00:06:46]
+aquí en una de mis cuentas lo tomé
+
+[00:06:49]
+Cuando regresó el precio después cayó y
+
+[00:06:52]
+volvió a regresar a mitigar esta parte
+
+[00:06:54]
+de acá arriba y a tomar la liquidez de
+
+[00:06:57]
+este De esta zona y de este punto
+
+[00:06:59]
+también de acá y ahí con lo tomé en mi
+
+[00:07:03]
+otra cuenta estuve entrando aquí en esta
+
+[00:07:06]
+en este en esta zona y para abajo
+
+[00:07:08]
+después el precio cayó fuerte rápido y
+
+[00:07:12]
+estuvo consolidando un rato Realmente si
+
+[00:07:15]
+tú te pones a analizar la estructura del
+
+[00:07:17]
+mercado nunca te dio entradas a la alza
+
+[00:07:19]
+de hecho generó más liquidez aquí o esto
+
+[00:07:22]
+o inducción es para los compradores el
+
+[00:07:24]
+precio generó más inducciones siguió
+
+[00:07:26]
+cayendo
+
+[00:07:28]
+volvió a caer luego genera un Gap a la
+
+[00:07:32]
+alza y volvió y siguió cayendo acá en el
+
+[00:07:36]
+día miércoles concreto se dio una
+
+[00:07:38]
+entrada también bastante bastante buena
+
+[00:07:40]
+muy muy buena de hecho esta entrada está
+
+[00:07:43]
+bellísima Fíjate lo que hace el precio
+
+[00:07:46]
+el precio más o menos sobre las
+
+[00:07:48]
+aperturas de Nueva York se encontraba
+
+[00:07:51]
+por aquí lo que había hecho era tomar el
+
+[00:07:55]
+de estos bajos tenía esta liquidez
+
+[00:07:58]
+totalmente abierta por acá por esta
+
+[00:08:00]
+parte esto ya yo ya venía en ventas aquí
+
+[00:08:03]
+no quise volver a entrar realmente
+
+[00:08:05]
+porque mi plan de trading no me marca
+
+[00:08:07]
+volver a entrar otra vez pero se podría
+
+[00:08:11]
+volver a haber entrado de hecho algunos
+
+[00:08:12]
+de los muchachos de la comunidad
+
+[00:08:14]
+estuvieron entrando en ventas aquí y te
+
+[00:08:17]
+voy a enseñar la acción de precio
+
+[00:08:18]
+bellísima que hizo el mercado en este
+
+[00:08:22]
+movimiento lo que hace más o menos sobre
+
+[00:08:24]
+la apertura de Bueno sobre Nueva York
+
+[00:08:28]
+hace un movimiento de este estilo
+
+[00:08:31]
+fíjense aquí ocurre una toma de liquidez
+
+[00:08:34]
+acá abajo ocurre un destructor shift el
+
+[00:08:37]
+precio viene y rellena este en balance o
+
+[00:08:40]
+mitiga Story block luego ahora sí ya ya
+
+[00:08:44]
+después ya había hecho aquí el Market
+
+[00:08:45]
+Street aquí hace el rompimiento de
+
+[00:08:47]
+estructura y se lleva toda esta liquidez
+
+[00:08:49]
+interna que habíamos generado estos
+
+[00:08:51]
+también eran altos de si no me equivoco
+
+[00:08:53]
+de la sesión
+
+[00:08:55]
+Del día anterior del concretamente de
+
+[00:08:58]
+Londres del día miércoles de ese mismo
+
+[00:09:00]
+día entonces serán altos de Londres
+
+[00:09:02]
+estábamos ya bajistas y sabemos que el
+
+[00:09:05]
+potencial bajista podría seguir
+
+[00:09:06]
+continuando a la baja Entonces no habría
+
+[00:09:08]
+porque
+
+[00:09:09]
+pensar en que el precio se iba a ir
+
+[00:09:12]
+todavía a la alza a partir de ahí pero
+
+[00:09:14]
+siempre dejamos que el precio nos vaya
+
+[00:09:16]
+indicando a ver cuál es la acción de
+
+[00:09:18]
+precio que está tomando Yo tenía mi stop
+
+[00:09:21]
+loss para esto de las ventas que había
+
+[00:09:24]
+tomado de esta área yo ya había tomado
+
+[00:09:25]
+un parcial en este bajo que estaba aquí
+
+[00:09:27]
+en en esta toma de liquidez había tomado
+
+[00:09:30]
+un parcial si no me equivoco yo tenía
+
+[00:09:32]
+otro parcial un poquito más abajo creo
+
+[00:09:34]
+si no me equivoco a ver más o menos para
+
+[00:09:36]
+no mentirte por aquí yo miento yo saqué
+
+[00:09:40]
+un parcial por esta área por aquí saqué
+
+[00:09:42]
+un parcial y por acá más o menos en
+
+[00:09:45]
+estos bajos que estaban aquí yo saqué
+
+[00:09:47]
+otro parcial ya tenía dos parciales y
+
+[00:09:49]
+tenía corriendo el último el último
+
+[00:09:51]
+parcial concretamente yo lo tenía por
+
+[00:09:54]
+encima de este High protegiendo más o
+
+[00:09:56]
+menos 100 puntos de de del ya de la
+
+[00:09:59]
+tercera posición que traía porque sabía
+
+[00:10:01]
+que el precio podía hacer una
+
+[00:10:03]
+manipulación ahí y seguir a la baja
+
+[00:10:05]
+Entonces me interesaba ver la acción de
+
+[00:10:07]
+precio antes de salirme de esa posición
+
+[00:10:09]
+y Fíjate lo que ocurre aquí qué ocurre
+
+[00:10:12]
+aquí el precio intenta subir hace una
+
+[00:10:15]
+trap como ya lo venía
+
+[00:10:17]
+lo he venido enseñando en otras clases
+
+[00:10:19]
+después de hacer una trap el precio hace
+
+[00:10:22]
+un Market stree otro chip aquí de esta
+
+[00:10:25]
+de esta estructura interna luego vuelve
+
+[00:10:28]
+y
+
+[00:10:29]
+quiebra estas estructuras después de
+
+[00:10:32]
+haber quebrado esas estructuras viene
+
+[00:10:34]
+exactamente de nuevo Bueno aparte del
+
+[00:10:38]
+inbalance que era si no me equivoco
+
+[00:10:41]
+Este que era el en balance viene al
+
+[00:10:44]
+inbalance y aquí tenemos nuestra entrada
+
+[00:10:46]
+bellísima a la baja esto es una entrada
+
+[00:10:48]
+hermosa a la baja exactamente aquí se
+
+[00:10:52]
+podría ver entrado desde este marco
+
+[00:10:54]
+streator chip realmente desde aquí se
+
+[00:10:57]
+podría haber entrado a la baja pero ya
+
+[00:10:59]
+mucho más confirmado era este que estaba
+
+[00:11:01]
+acá Este bajo que era un quiebre ya
+
+[00:11:03]
+estructura muy muy bueno en el punto de
+
+[00:11:07]
+interés que realmente era este 130 por
+
+[00:11:10]
+ciento esto es un stop home recuerda que
+
+[00:11:13]
+entre el 100 entre 10 a 30% después de
+
+[00:11:17]
+los la liquidez de Londres podríamos
+
+[00:11:19]
+estar pensando en vender sí la acción
+
+[00:11:21]
+del precio no lo permite si la acción
+
+[00:11:23]
+del precio sigue siendo alcista nos
+
+[00:11:24]
+olvidamos de las ventas y exactamente
+
+[00:11:27]
+ahí el precio empieza a caer fuertísimo
+
+[00:11:29]
+lo después sigue cayendo y el día
+
+[00:11:33]
+de empezó a la materializar un poquito
+
+[00:11:37]
+cayó un poquito más bueno aquí todavía
+
+[00:11:39]
+vino
+
+[00:11:40]
+lo vamos a ver en 15 minutos para que
+
+[00:11:42]
+para ir viendo todos los marcos de
+
+[00:11:44]
+tiempo y para que me vayan entendiendo
+
+[00:11:46]
+la princess o la acción de precio
+
+[00:11:48]
+fíjense como el precio también de nuevo
+
+[00:11:51]
+hace un Market destructor shift en 15
+
+[00:11:53]
+minutos y de nuevo viene a esta zona que
+
+[00:11:56]
+también se les estoy mandando por los
+
+[00:11:58]
+grupos de WhatsApp viene a esta zona de
+
+[00:12:01]
+nuevo el precio intenta volver a caer
+
+[00:12:03]
+Qué pasa que aquí había dos saltos
+
+[00:12:04]
+iguales toma simplemente la liquidez
+
+[00:12:07]
+esta entrada yo no la tomé pero miré la
+
+[00:12:10]
+acción del precio
+
+[00:12:11]
+Y dije voy a protegerme por encima de
+
+[00:12:14]
+este High para poder salir con
+
+[00:12:17]
+beneficios si el precio este no sé si
+
+[00:12:20]
+este High o este de acá Para saber por
+
+[00:12:23]
+beneficios y el precio no sigue cayendo
+
+[00:12:25]
+y efectivamente el precio Lo que hace
+
+[00:12:28]
+acá es tomar la liquidez de estos bajos
+
+[00:12:30]
+este bajo luego lo que hace es venir acá
+
+[00:12:34]
+y dejar un doble techo doble techo y ya
+
+[00:12:37]
+se veía claramente casi claramente una
+
+[00:12:40]
+acumulación de welcoff luego el precio
+
+[00:12:42]
+en algunos Brokers tombón liquidez en
+
+[00:12:45]
+otros Brokers simplemente vino y mitigó
+
+[00:12:47]
+esto después de ya haber hecho un chip
+
+[00:12:50]
+aquí lo hizo muy apenitas pero lo hizo
+
+[00:12:53]
+marca extructor chifa o también puedes
+
+[00:12:56]
+tomarlo como un doble techo o liquidez
+
+[00:12:58]
+en ese esquema de acumulativo que estaba
+
+[00:13:01]
+el precio aquí concretamente vino a esta
+
+[00:13:03]
+parte más baja de aquí que es este voy o
+
+[00:13:06]
+esta vela con esta red después igual de
+
+[00:13:10]
+nuevo si no te montaste ahí Fíjate lo
+
+[00:13:13]
+que hace la acción del precio acá vamos
+
+[00:13:15]
+a ver en un minuto para que se vea un
+
+[00:13:17]
+poquito más claro exactamente ese
+
+[00:13:19]
+movimiento que es el que yo estuve
+
+[00:13:20]
+visualizando en M1 fíjate de nuevo Si tú
+
+[00:13:25]
+no pudiste entrar o no te fiabas de ese
+
+[00:13:27]
+marco de otro chip o este rompimiento de
+
+[00:13:29]
+estructura el precio viene hacia abajo
+
+[00:13:31]
+toma la liquidez de esta trendy Line que
+
+[00:13:33]
+había formado en M1 esta liquidez
+
+[00:13:35]
+interna después intenta ir a la alza
+
+[00:13:37]
+hace una inducción a los vendedores o
+
+[00:13:40]
+dejarle que es interna de nuevo la toma
+
+[00:13:42]
+mitiga abajo y después lo que hace es un
+
+[00:13:45]
+Market destructor chip de nuevo viene a
+
+[00:13:47]
+este punto decisional Y a partir de ahí
+
+[00:13:50]
+ahora sí se va la alza con todo ya aquí
+
+[00:13:52]
+ya no dio reentradas ni tampoco opciones
+
+[00:13:54]
+de venta por aquí yo he estado cazando
+
+[00:13:57]
+al día de hoy las ventas porque me
+
+[00:13:59]
+parece que este si lo vemos desde una
+
+[00:14:02]
+perspectiva de h1 al día de hoy vemos
+
+[00:14:05]
+que el precio en h1 nos ha hecho un
+
+[00:14:07]
+claro Market structure shift acá Aquí en
+
+[00:14:12]
+esta zona aunque esta línea que está
+
+[00:14:14]
+aquí la voy a borrar para que se
+
+[00:14:16]
+entienda bien Okay entonces el precio
+
+[00:14:19]
+puede llegar a bajar todavía aquí nos
+
+[00:14:24]
+está formando qué feo quedó les voy a
+
+[00:14:27]
+poner mejor una flecha que me gusta más
+
+[00:14:28]
+nos está formando Maker shift en una
+
+[00:14:31]
+hora
+
+[00:14:32]
+yo estaba vigilando este decisional que
+
+[00:14:34]
+está aquí para ver si podíamos vender
+
+[00:14:36]
+pero no nos dio buenas confirmaciones
+
+[00:14:38]
+por ahí en M1 yo traté de venderlo por
+
+[00:14:42]
+esta área que estaba por aquí
+
+[00:14:44]
+concretamente creo que era este de aquí
+
+[00:14:47]
+había un pequeño rompimiento de
+
+[00:14:49]
+estructura pero no llegó a romper si te
+
+[00:14:52]
+fijas no llegó a romper esta estructura
+
+[00:14:54]
+que está acá abajo Entonces nada No hubo
+
+[00:14:56]
+nada ahí por ahí el Stop los era
+
+[00:14:58]
+demasiado cortito yo estuve vendiendo
+
+[00:15:00]
+realmente por aquí y tenía el Stop los
+
+[00:15:02]
+aquí fueron como veinte puntos de stop
+
+[00:15:05]
+loss entonces fue un punto 10 un punto
+
+[00:15:08]
+veinte por ciento que perdí por ahí
+
+[00:15:11]
+pero realmente después lo analicé y no
+
+[00:15:14]
+hubo ningún rompimiento claro válido
+
+[00:15:16]
+estábamos buscando las ventas en este
+
+[00:15:19]
+decisional que se encuentra por este
+
+[00:15:21]
+lado y al día del cierre del día de hoy
+
+[00:15:24]
+de hoy jueves que les estoy grabando eso
+
+[00:15:27]
+tuvimos ahora sí este Market destructor
+
+[00:15:30]
+shift y en concretamente en m5 ya se ve
+
+[00:15:33]
+mucho mejor fíjense cómo tenemos este
+
+[00:15:36]
+Market structure shift Ahora sí
+
+[00:15:38]
+confirmado y Estamos buscando
+
+[00:15:41]
+probablemente También tenemos la ruptura
+
+[00:15:43]
+de horas y este mínimo Estamos buscando
+
+[00:15:46]
+vender en el in balance que el precio
+
+[00:15:48]
+ahorita al día de hoy está formando
+
+[00:15:50]
+lateralizando un poco
+
+[00:15:52]
+pero estamos buscando vender en este
+
+[00:15:55]
+balance que está aquí concretamente o en
+
+[00:15:59]
+esta zona de aquí y nos estamos
+
+[00:16:01]
+protegiendo por encima de estos highs
+
+[00:16:04]
+entonces la proyección que tengo aquí es
+
+[00:16:07]
+a ir a rellenar parte de estos sin
+
+[00:16:09]
+balances en la primera zona donde podría
+
+[00:16:12]
+llegar el precio y topar sería este
+
+[00:16:14]
+Breaker o esta zona de Breaker podría
+
+[00:16:16]
+venir el precio aquí a esta zona de
+
+[00:16:18]
+Breaker que más o menos es un 50% de de
+
+[00:16:22]
+este del precio Pero concretamente si el
+
+[00:16:26]
+precio reacciona aquí puede hacer dos
+
+[00:16:28]
+movimientos
+
+[00:16:29]
+probables que yo veo un tipo de
+
+[00:16:33]
+movimiento que yo puedo llegar a ver es
+
+[00:16:36]
+que el precio Obviamente si aquí no me
+
+[00:16:39]
+dan la razón y sigue subiendo pues ya
+
+[00:16:41]
+olvidamos eso no Pero si me da la razón
+
+[00:16:43]
+puede hacer un movimiento así y se y
+
+[00:16:46]
+romper o sacar esta liquidez y seguir
+
+[00:16:49]
+subiendo hacer uno máximo o lo que pueda
+
+[00:16:51]
+hacer
+
+[00:16:52]
+máximo no ha hecho un nuevo Bueno este
+
+[00:16:55]
+este bajo no ha hecho un nuevo alto
+
+[00:16:56]
+Entonces venga Ahora sí y nos rompa la
+
+[00:16:59]
+estructura acá eso es lo que puede
+
+[00:17:01]
+suceder después el precio caiga aún más
+
+[00:17:03]
+regrese y empieza a formar una
+
+[00:17:05]
+estructura bajista de un retroceso un
+
+[00:17:07]
+poco más profundo tal vez a rellenar
+
+[00:17:10]
+todo este en balance que está acá y ya
+
+[00:17:12]
+sacar o a tomar toda esta liquidez que
+
+[00:17:15]
+está por aquí es lo que más o menos
+
+[00:17:17]
+estoy previniendo ya si el precio cae
+
+[00:17:20]
+mucho mucho demasiado por aquí más o
+
+[00:17:22]
+menos por esta zona a la mejor rebota a
+
+[00:17:25]
+través del nuevo al Alfa ya estaríamos
+
+[00:17:26]
+viendo la acción de precio y bueno eso
+
+[00:17:29]
+es un poquito lo que ha sucedido con el
+
+[00:17:30]
+gráfico
+
+[00:17:31]
+les voy a estar dejando en la
+
+[00:17:34]
+descripción el grupo de Telegram y de
+
+[00:17:36]
+WhatsApp para que no se pierdan las
+
+[00:17:38]
+entradas que estamos obteniendo en el
+
+[00:17:39]
+gráfico el NASA concretamente y también
+
+[00:17:42]
+para que vean las entradas que tomamos
+
+[00:17:44]
+el día de hoy ahí están en el Telegram
+
+[00:17:46]
+para que se lo lo vean y vean que sí
+
+[00:17:50]
+estuvimos vendiendo aquí Esa es la única
+
+[00:17:52]
+entrada que tomé pero vean como
+
+[00:17:54]
+desciframos toda la acción de precio de
+
+[00:17:56]
+esta semana y concretamente yo creo que
+
+[00:17:58]
+también de mañana y el lunes a lo mejor
+
+[00:18:01]
+el día martes estaremos haciendo de
+
+[00:18:03]
+nuevo un análisis para ir actualizando
+
+[00:18:05]
+Este mercado entonces Gracias por estar
+
+[00:18:08]
+aquí gracias por estar viendo y nos
+
+[00:18:09]
+vemos en la próxima
+```

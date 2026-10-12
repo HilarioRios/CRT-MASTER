@@ -1,0 +1,49 @@
+{
+  "source_id": "YT_CANAL_01_9s6He7I1wcs",
+  "video_id": "9s6He7I1wcs",
+  "metadata": {
+    "channel": "MentoTrading",
+    "title": "El Paso a paso Estrategia CRT (Will Street & Cluti Fx)",
+    "url": "https://www.youtube.com/watch?v=9s6He7I1wcs",
+    "published_at": "2025-08-03",
+    "duration_sec": 1373,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "livestream_trading_en_vivo"
+  },
+  "topics": ["crt", "gestion_de_riesgo", "liquidez", "bias_diario"],
+  "concepts": ["DOL mensual/semanal", "Turtle Soup", "salida basada en tiempo", "riesgo 1%", "toma de parciales"],
+  "key_ideas": [
+    {"timestamp_sec": 0, "title": "Alinear objetivo mensual con confirmaciones menores", "text": "Identifica un alto mensual como DOL que explica el retroceso, luego confirma en 3H y temporalidades menores.", "deep_link": "https://www.youtube.com/watch?v=9s6He7I1wcs&t=0s"},
+    {"timestamp_sec": 193, "title": "La salida basada en tiempo", "text": "Cuando la vela de 4H toma el nivel esperado dentro de la ventana de tiempo, esa es la senal de salida.", "deep_link": "https://www.youtube.com/watch?v=9s6He7I1wcs&t=193s"},
+    {"timestamp_sec": 557, "title": "Siempre 1% de riesgo por operacion", "text": "Usa 1% de riesgo fijo, a diferencia de otros que usan 2%.", "deep_link": "https://www.youtube.com/watch?v=9s6He7I1wcs&t=557s"},
+    {"timestamp_sec": 1261, "title": "Gestion de parciales para proteger capital", "text": "Toma beneficios parciales y protege capital dejando correr el resto hacia el objetivo final.", "deep_link": "https://www.youtube.com/watch?v=9s6He7I1wcs&t=1261s"}
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 0, "text": "Buscar siempre el objetivo (DOL) en la temporalidad mas alta posible antes de operar las menores."},
+    {"timestamp_sec": 557, "text": "Usar un riesgo fijo de 1% por operacion."},
+    {"timestamp_sec": 214, "text": "No ser codicioso al dejar correr una operacion mas alla del objetivo razonable."},
+    {"timestamp_sec": 1174, "text": "Reconocer los propios errores abiertamente en vez de proyectar una imagen de perfeccion."}
+  ],
+  "mistakes_mentioned": [
+    {"timestamp_sec": 1187, "text": "Entrar con falta de paciencia, ejecutando antes de tiempo."},
+    {"timestamp_sec": 441, "text": "No es perfecto entrando, se equivoca tambien."},
+    {"timestamp_sec": 527, "text": "Muchos traders de referencia solo muestran ganancias, no sus perdidas."}
+  ],
+  "terminology": {
+    "Will Street": "Trader/mentor de referencia mencionado constantemente.",
+    "Cluti / Cluty FX": "Otro trader de referencia mencionado junto a Will Street.",
+    "Salida basada en tiempo": "Evaluar la operacion segun si el precio confirma el objetivo dentro de la vela/periodo esperado.",
+    "Turtle Soup / Turtle Sub": "Patron de toma de liquidez.",
+    "SMT / Smart Money / FBG / BPR": "Conceptos de Smart Money Concepts que a veces mezcla con CRT."
+  },
+  "entities": {
+    "people": ["Will Street", "Cluti (Cluty FX)"],
+    "tools": ["Instagram", "Telegram", "WhatsApp"],
+    "markets": []
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=9s6He7I1wcs",
+  "series_note": null,
+  "chunks": []
+}

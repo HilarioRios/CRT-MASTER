@@ -1,0 +1,1348 @@
+---
+source_id: YT_CANAL_01_GNa9yiPfFos
+video_id: GNa9yiPfFos
+channel: "MentoTrading"
+published_at: 2025-08-08
+url: https://www.youtube.com/watch?v=GNa9yiPfFos
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 11
+tags: [youtube, MentoTrading, year/2025, status/synced]
+---
+
+# Paso a paso Estrategia Will Street (CRT)
+
+[[MentoTrading]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=GNa9yiPfFos)
+
+## Transcript
+
+```
+[00:00:00]
+de Londres. Aquí se dieron las compras
+
+[00:00:02]
+en Londres. Gente de Londres el S de 4
+
+[00:00:05]
+horas. Este sería la entrada para mí que
+
+[00:00:08]
+yo estoy buscando casi siempre. 4 horas.
+
+[00:00:12]
+Aquí tomamos 4 horas y luego después
+
+[00:00:14]
+tomamos el bajo de una hora.
+
+[00:00:17]
+Y es super bonito. Esto es lo que
+
+[00:00:19]
+actualmente yo ejecuto
+
+[00:00:21]
+eh a favor de mi vallas. Eh, pero como
+
+[00:00:25]
+¿por qué voy a estar buscando ventas en
+
+[00:00:26]
+lugar de compras? Porque hemos cerrado
+
+[00:00:28]
+un ranch.
+
+[00:00:30]
+Acá arriba, como hemos cerrado este
+
+[00:00:31]
+rango, tomado el objetivo, probablemente
+
+[00:00:34]
+veamos un movimiento en forma de
+
+[00:00:35]
+retroceso. Eso es lo que estoy
+
+[00:00:37]
+analizando.
+
+[00:00:39]
+Eh, igualito lo hago, ¿no? Pues tú ya
+
+[00:00:42]
+sabes, tú ya sabes cosillas, amigo. Por
+
+[00:00:44]
+aquí, este, vamos a esperar que
+
+[00:00:47]
+probablemente en Nueva York se lleve ese
+
+[00:00:49]
+objetivo.
+
+[00:00:51]
+Trataré de no ponerlo tan rápido para
+
+[00:00:52]
+que no se me vaya la entrada. Ojo, aquí
+
+[00:00:54]
+lo vamos a a a ver si ejecutamos.
+
+[00:00:57]
+Estamos ya en Nueva York, estamos en la
+
+[00:00:59]
+vela de las 7.
+
+[00:01:02]
+Podemos ir viendo también 4 horas.
+
+[00:01:04]
+Fíjense, la vela de 4 horas se está
+
+[00:01:06]
+tomando. De hecho, podemos hasta esperar
+
+[00:01:07]
+que la vela de 4 horas lo tome.
+
+[00:01:11]
+Ahí lo tomó,
+
+[00:01:13]
+pero no
+
+[00:01:17]
+lo tomó, pero
+
+[00:01:20]
+no no lo sé, Rick.
+
+[00:01:25]
+Un poquito, no fue suficiente para mí.
+
+[00:01:28]
+Fíjense que fue un mechacito ahí muy
+
+[00:01:31]
+Me gusta que entre un poquito mejor el
+
+[00:01:33]
+CRT ahí.
+
+[00:01:35]
+Pero como muy como que muy así este,
+
+[00:01:39]
+¿cómo podríamos decirlo?
+
+[00:01:43]
+Poquito ahí como que no no. Yo creo que
+
+[00:01:46]
+hay más liquidez arriba, ¿no? Entonces
+
+[00:01:49]
+es importante también aquí cuando tengan
+
+[00:01:51]
+un poco de dudas. Tímido. Esa es la
+
+[00:01:54]
+palabra Irvin. Tímido. Eh, sí, eres
+
+[00:01:57]
+Irvin. Sí. Eh, Irvin. Eh, la tengo el
+
+[00:02:01]
+chat por acá, entonces por eso ando aquí
+
+[00:02:03]
+como que si estuviera visco. Eh,
+
+[00:02:07]
+puedes eh puedes ver que cierre la vela
+
+[00:02:09]
+de una hora. Ahí es donde te vas a dar
+
+[00:02:12]
+cuenta. Una lambida gata así no así como
+
+[00:02:15]
+que como que te tomo el CRT, ¿no? Pero
+
+[00:02:18]
+pero como que lo tomo no lo tomo.
+
+[00:02:21]
+Entonces me gustaría que lo tomara un
+
+[00:02:22]
+poquito mejor. Puedes esperar a que
+
+[00:02:24]
+cierre la vela. Aquí lo hizo de manera
+
+[00:02:27]
+agresiva.
+
+[00:02:28]
+Madre mía. Pues nos la perdimos, gente.
+
+[00:02:31]
+Nos la perdimos. La perdimos.
+
+[00:02:35]
+Sí.
+
+[00:02:37]
+y nos la perdimos un poco.
+
+[00:02:40]
+Bueno, no pasa nada si no avanzamos otra
+
+[00:02:43]
+sesión y ya está.
+
+[00:02:47]
+Ahí ya tomó los loads.
+
+[00:02:51]
+Tomó los loads.
+
+[00:02:54]
+Vamos a ver cómo está cerrando la vela
+
+[00:02:55]
+de 4 horas.
+
+[00:02:58]
+Vela de 4 horas. Se regresó un poco.
+
+[00:03:06]
+Vamos a ver cómo cierra la vela de 4
+
+[00:03:08]
+horas.
+
+[00:03:10]
+Fue buena, gente, fue buena. Ahora vamos
+
+[00:03:12]
+a ver si el RB me daba aquí. El RR me
+
+[00:03:15]
+daba.
+
+[00:03:17]
+Sí, sí me daba el RR. Bueno, no la
+
+[00:03:19]
+perdimos.
+
+[00:03:22]
+Pasa nada.
+
+[00:03:24]
+Pero esa esa era la idea. Lo que pasa es
+
+[00:03:27]
+que no me gustó como lo hizo. De pronto
+
+[00:03:29]
+nos podríamos haber bajado 5 minutos.
+
+[00:03:31]
+No, no, no creo un order block bueno. No
+
+[00:03:35]
+creo nada de un order block bueno.
+
+[00:03:38]
+La lambida de gato. Sí era. [risas]
+
+[00:03:41]
+Pues bueno, por eso estamos en vivo,
+
+[00:03:43]
+¿no? Para que ustedes vean este tipo de
+
+[00:03:44]
+de situaciones. Es lo bueno de estar en
+
+[00:03:47]
+vivo, ¿no? Esto realmente lo que pasa en
+
+[00:03:49]
+el mercado, ¿no? Te pierdes entradas, se
+
+[00:03:51]
+te van, se te escapan.
+
+[00:03:53]
+No es así perfecto, ¿no? Eh,
+
+[00:03:55]
+probablemente nos vayamos a comer
+
+[00:03:57]
+stoplos también. Mira, ahí se regresó,
+
+[00:04:00]
+pero no ha tomado el objetivo de abajo,
+
+[00:04:02]
+¿eh? Entonces, aún podemos entrar.
+
+[00:04:04]
+Gustavo, la compra.
+
+[00:04:07]
+La compra no, porque si compramos
+
+[00:04:09]
+tendríamos que ir hasta acá arriba para
+
+[00:04:11]
+mi punto de vista y no me merece mucho
+
+[00:04:13]
+la pena. Aparte estamos en la propia
+
+[00:04:15]
+vela de 4 horas, entonces no a mí me
+
+[00:04:18]
+gusta más las ventas este caso. Vamos a
+
+[00:04:22]
+ver si lo toma ahí de manera un poco más
+
+[00:04:24]
+agresiva.
+
+[00:04:26]
+Ahora todavía estamos en sesión, incluso
+
+[00:04:28]
+si la agarramos un poquito después del
+
+[00:04:30]
+horario, no pasa nada. Podemos tradear
+
+[00:04:34]
+la siguiente vela de 4 horas, por
+
+[00:04:35]
+ejemplo. No, no nos perdimos esta vela
+
+[00:04:37]
+de 4 horas. Podemos tradear la siguiente
+
+[00:04:40]
+vela de 4 horas.
+
+[00:04:42]
+A ver, por ahí lo va va a volver.
+
+[00:04:45]
+Podemos quitar esta línea.
+
+[00:04:47]
+Vamos a ver.
+
+[00:04:49]
+A ver. Paramos. Se nos vaya. Ahí. Tomó
+
+[00:04:53]
+cuatro.
+
+[00:04:54]
+Tomó cuatro.
+
+[00:04:58]
+Tomó una hora. Esto está bien. Una hora.
+
+[00:05:02]
+Y por ahí
+
+[00:05:05]
+de pronto nos podíamos esperar un pelín
+
+[00:05:06]
+más.
+
+[00:05:08]
+Okay, 5 minutos ahí.
+
+[00:05:14]
+Una hora. A ver, gente, que voy a
+
+[00:05:17]
+concentrar mi key, gente. Voy a
+
+[00:05:19]
+concentrar mi ke a ver si tomo una
+
+[00:05:20]
+entrada.
+
+[00:05:22]
+Eh, de pronto parece que va a venir por
+
+[00:05:24]
+estos highs, eh, pronto. Parece, parece,
+
+[00:05:27]
+pero
+
+[00:05:29]
+no lo sabemos.
+
+[00:05:31]
+Es la magia de agarrar las entradas
+
+[00:05:33]
+cuando están
+
+[00:05:36]
+cuando las debes de agarrar.
+
+[00:05:37]
+Mira, aquí la la compra no la perdimos.
+
+[00:05:40]
+Gustavo, buena compra.
+
+[00:05:43]
+Sí, pero para mí el vallas es bajista,
+
+[00:05:45]
+como les vengo diciendo. Igual lo bueno
+
+[00:05:47]
+de esta estrategia, cuando ya eres un
+
+[00:05:49]
+Will Street bien hecho y derecho y bien
+
+[00:05:51]
+formado, es que vas a poder agarrar las
+
+[00:05:53]
+ventas y las compras. Por ejemplo,
+
+[00:05:55]
+compra aquí, venta acá, compra acá,
+
+[00:05:57]
+venta por acá o no sé, por acá si sube
+
+[00:05:59]
+más. Eso es, pero no no es no es
+
+[00:06:04]
+necesario, gente, con que agarren una
+
+[00:06:06]
+con eso. Yo agarro una y con eso tengo
+
+[00:06:12]
+ahí rechazó.
+
+[00:06:14]
+Yo creo que ahí está bien. 5 minutos
+
+[00:06:23]
+que me lo pongo en un
+
+[00:06:34]
+aí me gusta. A ver, vamos a analizar. 8
+
+[00:06:37]
+horas.
+
+[00:06:39]
+Tomamos el alto de la vela de 8 horas,
+
+[00:06:42]
+¿eh? Seis. No hay nada. 4 horas está
+
+[00:06:46]
+tomando el alto.
+
+[00:06:49]
+Si esta vela es esta vela tiene que ser
+
+[00:06:51]
+la buena. Si no, pues nos comemos el
+
+[00:06:53]
+stop loss. 2 horas.
+
+[00:06:57]
+Una hora.
+
+[00:07:04]
+Ahí está. Una hora. De pronto se puede
+
+[00:07:07]
+esperar uno a que se cierre la vela.
+
+[00:07:08]
+¿Cuál es el problema de esperar a que se
+
+[00:07:10]
+cierre la vela? que si la vela cierra
+
+[00:07:12]
+bien, va a cerrar por debajo de este
+
+[00:07:14]
+rango y se nos va a ir la entrada, se
+
+[00:07:15]
+nos va se nos va a escapar. Entonces,
+
+[00:07:18]
+tienes que entrar antes, como en el
+
+[00:07:21]
+mercado se entra antes, gente. Pronto
+
+[00:07:24]
+ahí si se regresa.
+
+[00:07:29]
+A ver, ahí ya tenemos un cambio
+
+[00:07:30]
+estructural posible de estructura,
+
+[00:07:34]
+cambio estructural. Esto tendría que ser
+
+[00:07:36]
+así. Vamos a ver si aquí en el PDM que
+
+[00:07:38]
+llama San Will Street.
+
+[00:07:42]
+A ver si San Will Street y Cluti nos
+
+[00:07:44]
+echan una mano.
+
+[00:07:47]
+Subiendo. Sigo subiendo un poco más.
+
+[00:07:52]
+Okay, está bien. Nos esperamos.
+
+[00:07:55]
+La la esperamos bien. Parece que va a
+
+[00:07:58]
+ser alcista la compra. Eh, he de admitir
+
+[00:08:01]
+que no era tan mala, gente. La compra
+
+[00:08:03]
+era la buena. Yo creo que la compra era
+
+[00:08:07]
+Sí, está la buena. Sí, sí, pero ya
+
+[00:08:11]
+veremos. Dijo un ciego.
+
+[00:08:15]
+Okay, estoy un poco analizando todas las
+
+[00:08:17]
+temporalidades. No es fácil hacer back
+
+[00:08:19]
+testing con esta vaina. Eh, eh, le
+
+[00:08:21]
+pónganlo a prueba y van a ver que
+
+[00:08:23]
+necesitan concentrar todo su kei. Es más
+
+[00:08:25]
+fácil operar en vivo, lo digo siempre,
+
+[00:08:28]
+parece una tontería, pero es más fácil
+
+[00:08:30]
+operar en vivo porque las velas estaban
+
+[00:08:32]
+viendo más lento y aquí tienes que como
+
+[00:08:34]
+que fijarte todo. Aparte que yo estoy
+
+[00:08:36]
+mirando el chat, estoy haciendo un
+
+[00:08:38]
+montón de cosas a la vez, entonces
+
+[00:08:39]
+ténganme paciencia,
+
+[00:08:41]
+paciencia.
+
+[00:08:48]
+Mm, 4 horas.
+
+[00:08:52]
+Okay,
+
+[00:08:54]
+creo que se nos va a ir el horario.
+
+[00:09:00]
+Lo tengo bien bien a un minuto
+
+[00:09:04]
+porque no quiero que se me como el en
+
+[00:09:07]
+los anteriores back testing la regué
+
+[00:09:10]
+porque miren ahí empezó a retroceder.
+
+[00:09:15]
+La regué
+
+[00:09:17]
+porque empecé
+
+[00:09:20]
+a darle rápido, se me iban las entradas.
+
+[00:09:25]
+Vamos a ver. 5 minutos.
+
+[00:09:29]
+Miren, en 5 minutos ya parece que
+
+[00:09:32]
+formamos un swing ahí en 15. En 15 es
+
+[00:09:36]
+perfecto. El una hora es el que no me
+
+[00:09:39]
+convence, gente. 2 horas, 3 horas, 4
+
+[00:09:41]
+horas.
+
+[00:09:43]
+de una hora es el que no me termina de
+
+[00:09:45]
+convencer, pero parece que no nos va a
+
+[00:09:47]
+dar chance.
+
+[00:09:49]
+No sé, de pronto si si rompemos alguna
+
+[00:09:53]
+estructura.
+
+[00:09:57]
+Miren, aquí ya rompimos la estructura.
+
+[00:10:00]
+Vamos a ver si de pronto regresa. Y y
+
+[00:10:02]
+ahí y ahora sí,
+
+[00:10:05]
+pronto. Puede ser.
+
+[00:10:11]
+No, ya no va a dar chance. No, este
+
+[00:10:14]
+probablemente ya no se regrese. A ver,
+
+[00:10:16]
+una hora. Ya abrió la nueva vela de una
+
+[00:10:17]
+hora.
+
+[00:10:21]
+4 horas. 4 horas tampoco. 15. En 15 es
+
+[00:10:25]
+perfecto, gente. En 15 es perfecto. En
+
+[00:10:28]
+15 va a venir el precio a este aquí, a
+
+[00:10:30]
+este low. en cinco.
+
+[00:10:33]
+Cinco. Está bien.
+
+[00:10:36]
+Vamos a meterle. El que tenga miedo a
+
+[00:10:38]
+morir que no nazca. Orden.
+
+[00:10:42]
+Necesito colocar primero la orden acá.
+
+[00:10:45]
+Posición corta.
+
+[00:10:47]
+Ahí avanzada, Gustavo. Sí, un poquito
+
+[00:10:49]
+avanzadita. Soy un poco como Paul
+
+[00:10:51]
+también. Agarrarlas un poquito
+
+[00:10:53]
+avanzadas. No es perfecta, perfecta,
+
+[00:10:56]
+pero está bien.
+
+[00:11:00]
+Es que si no se me escapa.
+
+[00:11:02]
+Se me escapa, gente, se me escapa.
+
+[00:11:07]
+¿A qué target deberíamos de ir? Pues por
+
+[00:11:10]
+lo menos a estos lows. A ver, déjenme la
+
+[00:11:13]
+estiro un poquito más la entrada que se
+
+[00:11:14]
+quedó aquí comoada.
+
+[00:11:17]
+Ahorita ponemos el stop y el y el y el
+
+[00:11:20]
+RR y esa vaina.
+
+[00:11:28]
+Tendríamos que ir a este low. Sí, 4
+
+[00:11:31]
+horas. Este,
+
+[00:11:33]
+ese
+
+[00:11:36]
+esa es por ahí nos da el RR. Veamos.
+
+[00:11:40]
+Dijo un ciego. Dale RR.
+
+[00:11:44]
+Traíamos aquí. Estamos entrando, gente.
+
+[00:11:49]
+¿Por dónde me protegería yo? Si voy a
+
+[00:11:52]
+este RR,
+
+[00:11:55]
+voy a este RR, gente. Y ese es mi TP y
+
+[00:12:00]
+quiero un uno a tres.
+
+[00:12:04]
+Yo creo que ahí está. Perfecto. De
+
+[00:12:05]
+pronto si hace trot nos podemos salvar.
+
+[00:12:08]
+Ya si sube más va a ir por los máximos
+
+[00:12:11]
+esos.
+
+[00:12:15]
+Fue como hoy. Fue como hoy. Sí, parecido
+
+[00:12:18]
+como hoy.
+
+[00:12:21]
+Eh,
+
+[00:12:22]
+colocar orden. Eh,
+
+[00:12:26]
+ah, la tengo que seleccionar.
+
+[00:12:30]
+Colocar orden. Ajá.
+
+[00:12:33]
+Excel. Porcentaje de riesgo 1%.
+
+[00:12:37]
+A mercado.
+
+[00:12:40]
+Stop. Lost profit. Guardar.
+
+[00:12:45]
+Entonces arriesgando $1,000 para
+
+[00:12:46]
+ganarnos $3,000.
+
+[00:12:49]
+Esta sería la entrada, gente. ¿Por qué
+
+[00:12:52]
+me adelanto ahí? No espero la vela de
+
+[00:12:53]
+una hora porque para mí ya los objetivos
+
+[00:12:56]
+están tomados todos.
+
+[00:12:59]
+Ya el precio
+
+[00:13:01]
+de pronto puede ser que aquí abra otra
+
+[00:13:02]
+vela de una hora y tome el alto y ahí
+
+[00:13:05]
+caiga, pero el stop loss es suficiente
+
+[00:13:07]
+para poder para esa entrada. ¿Qué dice
+
+[00:13:10]
+la people? ¿Está está bien o no está
+
+[00:13:12]
+bien? No es la perfecta. La perfecta es
+
+[00:13:16]
+cuatro y una, pero con 15 me vale. Vale,
+
+[00:13:19]
+con 15. Para mí ya no va a bajar, ya no
+
+[00:13:21]
+va a subir más.
+
+[00:13:24]
+A ver si me equivoqué o no me equivoqué.
+
+[00:13:26]
+Ahí estamos dentro, gente,
+
+[00:13:29]
+totalmente en vivo y se está regresando.
+
+[00:13:32]
+Está regresando esta vaina loca.
+
+[00:13:37]
+Esto es en vivo, gente. Nos puede tocar
+
+[00:13:39]
+el stop loss. Yo no sé aquí qué va a
+
+[00:13:40]
+suceder.
+
+[00:13:42]
+De hecho, se está regresando y de creo
+
+[00:13:45]
+que sí era buena idea esperarse a que la
+
+[00:13:48]
+vela de una hora lo tomara, tomara el
+
+[00:13:51]
+high.
+
+[00:13:52]
+Eh, voy a poner
+
+[00:13:54]
+la vela de
+
+[00:13:56]
+una hora.
+
+[00:13:59]
+Déjen me quito aquí. Tengo que estar
+
+[00:14:00]
+viendo un montón de cosas con esta con
+
+[00:14:04]
+esta cosa.
+
+[00:14:07]
+Quiero marcar el máximo, gente. Quiero
+
+[00:14:08]
+marcar el máximo a ver si se lo lleva y
+
+[00:14:10]
+luego cae o nos saca
+
+[00:14:14]
+el máximo. Eh, ponemos otra vez el
+
+[00:14:16]
+indicador
+
+[00:14:18]
+y estamos en negativo, gente. Estoy aquí
+
+[00:14:22]
+estamos temblando.
+
+[00:14:24]
+Estamos un poquito temblorosos.
+
+[00:14:29]
+hizo un fallo. Vamos a ver la estructura
+
+[00:14:31]
+en un minuto.
+
+[00:14:36]
+Pulso, retroceso, fallo. Bajas.
+
+[00:14:41]
+Venga, baja. Venga, venga, venga, tío.
+
+[00:14:45]
+A ver, esperemos que San Will Street nos
+
+[00:14:47]
+acompañe.
+
+[00:14:48]
+Híjole, parece que se nos va a ir a
+
+[00:14:50]
+nuestros top. Ahí tomó el alto de la
+
+[00:14:51]
+vela de una hora. Era
+
+[00:14:54]
+era buena idea esperarse a que tomara el
+
+[00:14:56]
+alto de la vela de una hora.
+
+[00:14:59]
+A ver si el stop loss aguanta de pronto.
+
+[00:15:03]
+Tengo el chat aquí, tengo todos en
+
+[00:15:04]
+tensión
+
+[00:15:08]
+y se me hace que nos va a sacar gente.
+
+[00:15:10]
+Nos perdonó, nos perdonó, nos perdonó
+
+[00:15:13]
+Will Street. Nos perdonó Will Street. No
+
+[00:15:15]
+cantes mi gente, porque pero si era es
+
+[00:15:19]
+que ya la tenemos calada, gente. Era
+
+[00:15:22]
+bueno esperarse a la de una hora, pero
+
+[00:15:25]
+el stop loss, lo bueno que lo pusimos
+
+[00:15:27]
+bien.
+
+[00:15:29]
+Si sube de nuevo, nos va a sacar, no
+
+[00:15:31]
+tiene que subir de nuevo. Ahí ya tiene
+
+[00:15:33]
+que caer porque ya tomó el alto de la
+
+[00:15:36]
+vela de una hora. Si sube de nuevo nos
+
+[00:15:38]
+va a sacar.
+
+[00:15:40]
+Mira, mira esto,
+
+[00:15:43]
+mira esto. Eso también es es bueno para
+
+[00:15:45]
+nosotros.
+
+[00:15:47]
+Vamos, muchacho.
+
+[00:15:51]
+Esperemos que San Will Street San Will
+
+[00:15:53]
+Street nos acompañe.
+
+[00:15:57]
+La pusimos cada cinco velas. Mira qué
+
+[00:15:59]
+bonito lo hace en vivo, gente. Qué
+
+[00:16:02]
+bonito lo hace. Cuatro y una. Es la
+
+[00:16:06]
+fórmula mágica de de Gustavo. Eh, le
+
+[00:16:09]
+vamos a poner, no me digan a mí que no,
+
+[00:16:11]
+eh. No le no me digan que no. Cuatro y
+
+[00:16:14]
+una. La tomé mal, ¿eh? O sea, soy malo
+
+[00:16:16]
+operando la estrategia, lo digo
+
+[00:16:18]
+abiertamente. Y aún así, eh, yo quería
+
+[00:16:23]
+compras. Híjole, no se pudo.
+
+[00:16:26]
+Se las voy a quedar a deber. Y aún así
+
+[00:16:29]
+entramos bien. No cantemos victoria
+
+[00:16:30]
+porque aún se nos puede regresar, pero
+
+[00:16:33]
+para los que son un poquito listillos,
+
+[00:16:36]
+esto ya es muy bueno. Ya es muy bueno.
+
+[00:16:39]
+Eh, tomó la liquidez de la vela de una
+
+[00:16:40]
+hora, rompimos estructura. Esto debería
+
+[00:16:42]
+ser así.
+
+[00:16:44]
+Vamos a darle más rápido para no para
+
+[00:16:48]
+vamos a poner en 5 minutos para para
+
+[00:16:51]
+avanzar un poco. Ahorita lo pongo en 10
+
+[00:16:54]
+minutos.
+
+[00:16:55]
+Híjole, se nos regresa por andar
+
+[00:16:57]
+cantando victoria. Pero va a ser
+
+[00:16:59]
+exactamente lo que les dije. Es que el
+
+[00:17:02]
+patrón es patrón, el patrón, el patrón
+
+[00:17:06]
+es el patrón.
+
+[00:17:09]
+que esos eh
+
+[00:17:15]
+aleluya. Aquí podemos poner break even
+
+[00:17:17]
+Gustavo, o lo que sea. Sí, puedes poner
+
+[00:17:20]
+break even, protegerte, tomar
+
+[00:17:21]
+beneficios, lo que sea, pero
+
+[00:17:24]
+eh vamos a ver 4 horas
+
+[00:17:27]
+puedes hacer. En anteriores bactesis me
+
+[00:17:29]
+dijeron, "Gustavo, no tomastes
+
+[00:17:30]
+beneficios."
+
+[00:17:32]
+Pero yo creo que va a venir por los
+
+[00:17:33]
+lows. De hecho, podríamos estirar el TP
+
+[00:17:35]
+hasta la hasta el diario, hasta el low
+
+[00:17:38]
+diario. Hasta ahí lo podíamos estirar,
+
+[00:17:40]
+pero lo vamos a dejar hasta 4 horas. Lo
+
+[00:17:43]
+dejaremos en 4 horas. Uno a tres es más
+
+[00:17:46]
+que suficiente para hacer un kin, un
+
+[00:17:48]
+ganador en el mercado. Yo uso uno a tres
+
+[00:17:50]
+a veces. A veces uso uno a cuatro, a
+
+[00:17:52]
+veces uso uno a tres. Por ejemplo, con
+
+[00:17:55]
+mi uno a cu me hubiera sacado en esta
+
+[00:17:57]
+operación porque yo uso 50 puntos, 60 de
+
+[00:17:59]
+stop loss, lo tendría que haber agarrado
+
+[00:18:01]
+con mejor timing, pero eh pues así está
+
+[00:18:05]
+la cosa, la
+
+[00:18:08]
+está la situation. Vamos a ver, pues.
+
+[00:18:11]
+Llega el TP, se regresa a ver qué hace.
+
+[00:18:14]
+Démosle caña, démosle caña que queremos
+
+[00:18:16]
+ver nuestra primera entrada en acción.
+
+[00:18:21]
+Ahí está un poquito acumulando. Baby,
+
+[00:18:23]
+baby, ve por esa liquidez.
+
+[00:18:26]
+Ve por esa liquidez. Sóle, gente.
+
+[00:18:28]
+Sóplenle. Sóplenle para abajo. Sóplenle
+
+[00:18:30]
+para abajo.
+
+[00:18:33]
+Eh, baby, baby, la liquidez del
+
+[00:18:35]
+institucional te espera. La Aquí te está
+
+[00:18:39]
+llamando. Hay órdenes, no sé aquí. ¿Qué
+
+[00:18:42]
+pasó? Eh, oh, fue y fue viernes. Mira,
+
+[00:18:46]
+siendo sincero, yo me hubiera salido
+
+[00:18:48]
+antes del cierre del mercado, me hubiera
+
+[00:18:50]
+salido por aquí, pero por cuestiones del
+
+[00:18:52]
+back testing este, eh, lo vamos a dejar
+
+[00:18:55]
+por ahí. Pero la liquidez es la
+
+[00:18:57]
+liquidez. La liquidez es la liquidez.
+
+[00:19:02]
+Eh, que se nos regresó un punto, gente.
+
+[00:19:04]
+[risas]
+
+[00:19:06]
+No me hagas esto, Nasdaq.
+
+[00:19:09]
+Como en la vida real. No nos hagas esto,
+
+[00:19:11]
+Nasdaq.
+
+[00:19:15]
+Ah, es que es esto Asia. Es domingo en
+
+[00:19:18]
+Asia, está superlento.
+
+[00:19:22]
+Pero va a venir por el low. Yo sé que tú
+
+[00:19:24]
+quieres. Yo sé que tú quieres low. Sé
+
+[00:19:26]
+que tú quieres low. ¿Cómo nos está
+
+[00:19:28]
+haciendo sufrir. Por esto yo me hubiera
+
+[00:19:30]
+salido en Aquí estamos en Asia. Me
+
+[00:19:32]
+hubiera salido en viernes al cierre de
+
+[00:19:36]
+la de la sesión de Nueva York. Hubiera
+
+[00:19:38]
+tomado, por ejemplo, esta entrada en
+
+[00:19:39]
+venta, hubiera salido ahí. Pero lo vamos
+
+[00:19:41]
+a dejar correr para ver cómo sale la
+
+[00:19:43]
+operación. Déjale pongo más rápido
+
+[00:19:45]
+porque esto estamos aquí dur minutos.
+
+[00:19:50]
+Venga, tira. Va por el low asiático
+
+[00:19:52]
+aparte ahí.
+
+[00:19:55]
+Tira, tira, tira, tira, tira, tío. 15
+
+[00:19:58]
+minutos más rápido
+
+[00:20:00]
+que tirar ya esas velitas tan chiquitas.
+
+[00:20:03]
+Y la parte este es el bajo diario. Es
+
+[00:20:05]
+del día viernes. Este es un bajo con
+
+[00:20:07]
+amplia con alta liquidez. El bajo del
+
+[00:20:10]
+viernes siempre es un bajo ahí pues
+
+[00:20:13]
+primera operación bastante
+```

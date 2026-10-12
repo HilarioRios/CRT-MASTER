@@ -1,0 +1,45 @@
+{
+  "source_id": "YT_CANAL_02_NFh9n5o7jqc",
+  "video_id": "NFh9n5o7jqc",
+  "metadata": {
+    "channel": "Gustavom.Trader",
+    "title": "Como hacer Scalping con la estrategia CRT",
+    "url": "https://www.youtube.com/watch?v=NFh9n5o7jqc",
+    "published_at": "2026-09-25",
+    "duration_sec": 899,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "testimonio_entrevista"
+  },
+  "topics": ["gestion_de_riesgo", "crt"],
+  "concepts": ["CRT multi-temporalidad (HFT a 1 min)", "Vallas/Bias", "spread como criterio de par", "break-even con margen"],
+  "key_ideas": [
+    {"timestamp_sec": 542, "title": "Logica de scalping: de alta temporalidad a 1 minuto", "text": "Desglosar CRT desde temporalidad alta hasta 1 minuto, surfeando el bias completo para entender contexto de entradas.", "deep_link": "https://www.youtube.com/watch?v=NFh9n5o7jqc&t=542s"},
+    {"timestamp_sec": 578, "title": "Por que opera solo oro: el spread", "text": "EUR/GBP/otros tienen spread demasiado alto para scalping; se quedo con oro por spread bajo.", "deep_link": "https://www.youtube.com/watch?v=NFh9n5o7jqc&t=578s"},
+    {"timestamp_sec": 677, "title": "Tecnica: break-even con margen", "text": "Mueve el stop a break-even con pequeno margen apenas la operacion va a favor, limitando riesgo real.", "deep_link": "https://www.youtube.com/watch?v=NFh9n5o7jqc&t=677s"},
+    {"timestamp_sec": 699, "title": "Resultado real: de 72 a 734 euros en ~3 semanas", "text": "Cuenta con deposito de 72 euros escalo a 734 en ~3 semanas, mayormente en oro con scalping.", "deep_link": "https://www.youtube.com/watch?v=NFh9n5o7jqc&t=699s"}
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 140, "text": "No buscar el pelotazo; disciplina y constancia son lo que permite crecer una cuenta."},
+    {"timestamp_sec": 578, "text": "Elegir el par a operar tambien en funcion del spread, no solo de la estrategia."},
+    {"timestamp_sec": 433, "text": "Usar el indicador propio de Gustavo solo como confirmacion adicional, no como base de la decision."}
+  ],
+  "mistakes_mentioned": [
+    {"timestamp_sec": 823, "text": "Apretar el gatillo con demasiada frecuencia/agresividad en vez de ser paciente."},
+    {"timestamp_sec": 291, "text": "En mentorias grupales grandes, el mentor avanza con la mayoria sin resolver dudas puntuales del resto."}
+  ],
+  "terminology": {
+    "CRT de HFT a low time frame": "Operar CRT desglosando desde temporalidades altas hasta 1 minuto.",
+    "Vallas/Bias": "Direccion del precio seguida de temporalidad alta a baja.",
+    "Brick even (break-even) con espacio": "Mover el stop a break-even con margen para no perder en operaciones a favor."
+  },
+  "entities": {
+    "people": ["Jose", "Gustavo"],
+    "tools": ["MetaTrader"],
+    "markets": ["oro", "USD/CAD"]
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=NFh9n5o7jqc",
+  "series_note": null,
+  "chunks": []
+}

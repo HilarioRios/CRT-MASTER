@@ -1,0 +1,859 @@
+---
+source_id: YT_CANAL_02_BNxwe_fWF14
+video_id: BNxwe_fWF14
+channel: "Gustavom.Trader"
+published_at: 2022-08-13
+url: https://www.youtube.com/watch?v=BNxwe_fWF14
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 8
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# LIQUIDEZ para ENTRADAS en FOREX-US30-NQ- smart money concepts l SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=BNxwe_fWF14)
+
+## Transcript
+
+```
+[00:00:00]
+[Música]
+
+[00:00:02]
+y
+
+[00:00:08]
+muy buenas noches muchachos para los que
+
+[00:00:10]
+no me conocen me presento mi nombre es y
+
+[00:00:13]
+era suárez o fundador de la comunidad
+
+[00:00:15]
+shows schürrer y en el día de hoy vamos
+
+[00:00:18]
+a impartir una clase
+
+[00:00:21]
+relacionada con la liquidez y los tipos
+
+[00:00:25]
+de liquidez
+
+[00:00:27]
+este es un tema muy muy importante las
+
+[00:00:32]
+más conocidas son los patrones artistas
+
+[00:00:35]
+cierto triple techo doble techo
+
+[00:00:39]
+a este soporte laterales
+
+[00:00:43]
+o línea de tendencia
+
+[00:00:46]
+todos esos patrones son considerados
+
+[00:00:48]
+liquidez el liquidez dinero en el
+
+[00:00:51]
+mercado entonces estamos claros con esos
+
+[00:00:53]
+conceptos estos solo patrones clásico
+
+[00:00:56]
+que usan los traders como ponerlo trader
+
+[00:00:59]
+clásico con información
+
+[00:01:02]
+de análisis técnico soporte y
+
+[00:01:04]
+resistencia
+
+[00:01:06]
+la cual es una información que ya está
+
+[00:01:10]
+obsoleta
+
+[00:01:12]
+debido a las diferentes actualizaciones
+
+[00:01:15]
+que realiza el algoritmo
+
+[00:01:18]
+entonces esto lo conocemos como un tipo
+
+[00:01:21]
+de liquidez y la manipulación en este
+
+[00:01:24]
+caso sería
+
+[00:01:26]
+este movimiento que hace una inducción
+
+[00:01:29]
+para seducir a los compradores que
+
+[00:01:33]
+operan en break out post o quiebre de
+
+[00:01:35]
+soporte y resistencia cree un año y
+
+[00:01:38]
+luego cae y vaysaca la liquidez del otro
+
+[00:01:41]
+lado
+
+[00:01:43]
+sacar liquidez de este lado y de este
+
+[00:01:47]
+lado
+
+[00:01:48]
+dejando fuera tanto a los compradores
+
+[00:01:51]
+como los vendedores
+
+[00:01:52]
+aquí podemos ver otro caso que es con la
+
+[00:01:56]
+línea de tendencia
+
+[00:01:59]
+y teóricamente de esa línea de tendencia
+
+[00:02:02]
+nosotros buscaríamos una entrada en
+
+[00:02:05]
+ventas
+
+[00:02:07]
+esos o eso haría la mayoría del
+
+[00:02:10]
+retail
+
+[00:02:12]
+buscaría compras en el toque de la línea
+
+[00:02:16]
+de tendencia stop loss en el último bajo
+
+[00:02:19]
+entonces ahí se produce la manipulación
+
+[00:02:22]
+y saca ese último bajo que representa el
+
+[00:02:25]
+stop loss de los traders que operan de
+
+[00:02:28]
+esa forma y luego se va al alza
+
+[00:02:31]
+entonces eso se acaba del icc está
+
+[00:02:33]
+sacada de ese bajo por una toma de
+
+[00:02:35]
+liquidez
+
+[00:02:38]
+y la manipulación en ese caso
+
+[00:02:41]
+para luego entonces irse a lanzar
+
+[00:02:45]
+porque esa es otra cosa cuando rompe la
+
+[00:02:49]
+línea de tendencia lo que manda
+
+[00:02:53]
+como operador
+
+[00:02:55]
+de trading
+
+[00:02:57]
+de acción del precio
+
+[00:03:01]
+compra vendería
+
+[00:03:03]
+esperaría un re testeo de la línea de
+
+[00:03:06]
+tendencia
+
+[00:03:07]
+para irse en ventas
+
+[00:03:11]
+pero el mercado sabe eso también el
+
+[00:03:14]
+algoritmo está específicamente
+
+[00:03:17]
+diseñado para que estos patrones
+
+[00:03:20]
+sean obsoletos como funciona
+
+[00:03:24]
+ese es el momento donde se les realiza
+
+[00:03:26]
+un pequeño retroceso aquí puede hacer un
+
+[00:03:29]
+pequeño retroceso y después un losa que
+
+[00:03:33]
+luego de que elimina a la mayoría
+
+[00:03:37]
+de los retail
+
+[00:03:41]
+otra desviación del precio entonces ahí
+
+[00:03:44]
+si realiza su movimiento en la dirección
+
+[00:03:47]
+que ellos que que nosotros buscamos
+
+[00:03:49]
+bueno nosotros buscamos identificar esas
+
+[00:03:53]
+manipulaciones para formarla en otro
+
+[00:03:56]
+favor por ejemplo esos son puntos de
+
+[00:03:57]
+interés porque podemos identificar que
+
+[00:04:00]
+hay una manipulación y que muy
+
+[00:04:02]
+posiblemente el precio retorne aquí a
+
+[00:04:05]
+esa zona y busquemos entonces un punto
+
+[00:04:08]
+de entrada en 20 aquí un poco del
+
+[00:04:11]
+funcionamiento del libro
+
+[00:04:14]
+por ejemplo
+
+[00:04:16]
+asumamos que esto es un
+
+[00:04:20]
+este es el preso
+
+[00:04:23]
+el precio en tokio se movió un rango
+
+[00:04:28]
+y dejó un alto
+
+[00:04:32]
+un último alto de tokio y un último el
+
+[00:04:35]
+bajo de toque
+
+[00:04:37]
+algorítmicamente
+
+[00:04:40]
+lo primero que va a ser londres es que
+
+[00:04:43]
+va a tomar la liquidez
+
+[00:04:47]
+pero hay que ver que ellos asumen como
+
+[00:04:49]
+liquidez para el algoritmo un alto y un
+
+[00:04:53]
+bajo o un bajo de una sesión anterior es
+
+[00:04:57]
+liquidez y el primer movimiento que hará
+
+[00:05:01]
+será sacar la liquidez y luego tomar su
+
+[00:05:05]
+dirección
+
+[00:05:06]
+entonces el algoritmo
+
+[00:05:10]
+se mueve de esa forma ese concepto se
+
+[00:05:13]
+llama liquidez
+
+[00:05:16]
+berlín ideas
+
+[00:05:19]
+abiertas
+
+[00:05:23]
+tú
+
+[00:05:24]
+acto seguido como les decía
+
+[00:05:27]
+el mercado
+
+[00:05:29]
+al llegar la sesión de nueva york saca
+
+[00:05:32]
+lo que entiende como liquidez que es el
+
+[00:05:35]
+último bajo del hombre y luego va a la
+
+[00:05:38]
+dirección que el deseo puede ser que
+
+[00:05:40]
+solamente sea que sea bajo y se pase la
+
+[00:05:42]
+recesión aquí en el rango o saque la
+
+[00:05:45]
+liquidez de abajo y después sacará de
+
+[00:05:46]
+riba-roja y el ita también manipula los
+
+[00:05:49]
+que son
+
+[00:05:51]
+las velas los patrones de vela
+
+[00:05:56]
+sí
+
+[00:05:58]
+toda la información que sea
+
+[00:06:01]
+de uso de la mayoría de los operadores
+
+[00:06:04]
+prefieren 95% de los que operan
+
+[00:06:08]
+el algoritmo la va a manipular acciones
+
+[00:06:11]
+de qué
+
+[00:06:12]
+la mayoría salgan en el stop loss
+
+[00:06:16]
+esta es la sesión de toques y sesión de
+
+[00:06:20]
+toques quedó esa liquidez abierta
+
+[00:06:23]
+asimismo según las la mayoría de la
+
+[00:06:27]
+persona empiece a usar el smart money el
+
+[00:06:29]
+algoritmo se va a actualizar y buscará
+
+[00:06:31]
+la forma de dejar a las memorias fuera
+
+[00:06:33]
+también ticas ya lo está haciendo de
+
+[00:06:36]
+hecho ahí hay trampas smart swap se
+
+[00:06:41]
+llaman que son trampas para los demás
+
+[00:06:43]
+montos
+
+[00:06:45]
+hay indios men también que son para una
+
+[00:06:47]
+profesión al mundo el objetivo del libro
+
+[00:06:50]
+es que la menor cantidad de personas
+
+[00:06:53]
+posible
+
+[00:06:56]
+entonces como no encontraba aquí pensé
+
+[00:06:59]
+como london vienesa y barre los altos de
+
+[00:07:03]
+las sesiones anteriores deja su alto y
+
+[00:07:06]
+fíjense lo primero que hace nueva york
+
+[00:07:08]
+se lo voy a poner más cerca para el que
+
+[00:07:11]
+no lo observe y lo primero que hace
+
+[00:07:14]
+elimina esa liquidez
+
+[00:07:18]
+cómo terminó la sesión
+
+[00:07:22]
+si bajo por la one se quedó arrancando
+
+[00:07:24]
+pero lo primero que sacó fue esa
+
+[00:07:26]
+liquidez fíjense cuando llega la sesión
+
+[00:07:28]
+de tokio
+
+[00:07:30]
+lo primero que hace es que saque el alto
+
+[00:07:34]
+de la sesión de nueva york el último
+
+[00:07:37]
+alto
+
+[00:07:41]
+y luego
+
+[00:07:42]
+y
+
+[00:07:46]
+fíjense aquí como tokio deja un alto
+
+[00:07:50]
+y un bajo que hace londres london london
+
+[00:07:55]
+saca la liquidez abierta de toque arriba
+
+[00:07:59]
+a abajo
+
+[00:08:04]
+y luego nueva york llega y barre a riba
+
+[00:08:10]
+arriba y más arriba
+
+[00:08:12]
+mira
+
+[00:08:15]
+la liquidez es de altos y bajo el día
+
+[00:08:19]
+el mercado por lo regular deja un precio
+
+[00:08:23]
+máximo y mínimo del día
+
+[00:08:27]
+vamos a representarlo con esta vela
+
+[00:08:30]
+esa vela representa ese ese margen de
+
+[00:08:34]
+precio precedió se entregó en ese día
+
+[00:08:39]
+al comenzar el siguiente día si el
+
+[00:08:42]
+precio cerro por aquí abajo
+
+[00:08:46]
+tendrá tendencia a romper oa sacar esa
+
+[00:08:50]
+liquidez
+
+[00:08:53]
+del bajo del día
+
+[00:08:56]
+buscad a zonas de interés en zonas
+
+[00:09:00]
+premium o crearán engaño y sacará
+
+[00:09:04]
+también la liquidez del alto del día si
+
+[00:09:09]
+su objetivo es crear una tendencia al
+
+[00:09:11]
+alza
+
+[00:09:12]
+puede hacerlo de esta forma puede
+
+[00:09:14]
+manipular aquí
+
+[00:09:16]
+luego manipuló aquí
+
+[00:09:19]
+y deja un rango del día
+
+[00:09:22]
+deja un día siguiente sea
+
+[00:09:25]
+entonces ya y lo que haría es el próximo
+
+[00:09:28]
+día
+
+[00:09:31]
+retorna más o menos a la mitad
+
+[00:09:35]
+y de ahí entonces las han alto más alto
+
+[00:09:38]
+y se rompe el alto de ese día el fin es
+
+[00:09:41]
+que los altos y bajos del día
+
+[00:09:45]
+también son liquidez
+
+[00:09:49]
+son liquidez y el algoritmo los va a
+
+[00:09:52]
+sacar
+
+[00:09:53]
+y por lo general luego de que los saca
+
+[00:09:57]
+reacciona al lado contrario
+
+[00:10:04]
+por ejemplo vamos a ver un ejemplo fue
+
+[00:10:06]
+el bajo
+
+[00:10:09]
+y este el alto el día del siguiente día
+
+[00:10:15]
+nos rompió no sacó liquidez no rompió
+
+[00:10:19]
+ninguno de los saltos ni altos ni bajos
+
+[00:10:24]
+fíjense aquí
+
+[00:10:27]
+rompió
+
+[00:10:29]
+y el bajo del día
+
+[00:10:37]
+y luego planalto al día
+
+[00:10:40]
+ese es el esquema que le explicaba
+
+[00:10:42]
+ahorita
+
+[00:10:44]
+pero se toma en cuenta los soportes y
+
+[00:10:47]
+techos
+
+[00:10:48]
+en smart money o sea se puede tomar en
+
+[00:10:53]
+cuenta pero sea como como punto 2 por
+
+[00:10:55]
+ejemplo a líquida mira por ejemplo ahí
+
+[00:11:00]
+podemos decir que ahí se usó una zona
+
+[00:11:03]
+como de soporte mira tú es en esas zonas
+
+[00:11:05]
+relacionados varias veces pero antes de
+
+[00:11:08]
+irse mira lo que hace bien y hace la
+
+[00:11:10]
+manipulación aquí ves como le explicaba
+
+[00:11:13]
+al principio realizó la manipulación
+
+[00:11:19]
+van entonces se fue al alza
+
+[00:11:23]
+bueno
+
+[00:11:25]
+y al mismo tiempo también sacó la
+
+[00:11:28]
+liquidez de semana del día saco la
+
+[00:11:30]
+liquidez de este también
+
+[00:11:33]
+tenía pendiente del día en periodo y
+
+[00:11:36]
+entonces ahí cuando también sacó ese
+
+[00:11:41]
+alto bien sacó ese alto del día anterior
+
+[00:11:45]
+por lo que ahí el barrio la mayoría de
+
+[00:11:49]
+la liquidez
+
+[00:11:51]
+porque había gente entrando en venta
+
+[00:11:54]
+porque ya le estaba haciendo una línea
+
+[00:11:57]
+de tendencia lo cual también ahí había
+
+[00:12:00]
+liquidez
+
+[00:12:05]
+pero entonces eso fue un movimiento
+
+[00:12:07]
+perfecto o que sacó la liquidez aquí
+
+[00:12:11]
+sacó la liquidez de esos dos bajos del
+
+[00:12:13]
+día
+
+[00:12:14]
+sacó la liquidez de esa línea de
+
+[00:12:16]
+tendencia sacó la liquidez de esos dos
+
+[00:12:18]
+al también
+
+[00:12:20]
+por eso le digo la liquidez es un
+
+[00:12:23]
+concepto muy importante este concepto de
+
+[00:12:27]
+la debajo del día también aplica para
+
+[00:12:31]
+semanal o sea una vela así si por
+
+[00:12:34]
+ejemplo
+
+[00:12:39]
+esa vela semanal
+
+[00:12:41]
+me represento a mí
+
+[00:12:44]
+un rango de la semana de una semana
+
+[00:12:47]
+operativa vamos a poner la semana pasada
+
+[00:12:50]
+por ejemplo
+
+[00:12:51]
+si yo veo el primer movimiento de la
+
+[00:12:55]
+semana viene al alza y me saca la
+
+[00:12:58]
+liquidez del alto semanal pues yo tendré
+
+[00:13:02]
+a buscar venta sea para llegar a una
+
+[00:13:05]
+zona de interés aquí y después seguir
+
+[00:13:08]
+buscando compra pero mi primera posición
+
+[00:13:11]
+será buscar 20
+
+[00:13:14]
+que luego de sacar una liquidez el
+
+[00:13:17]
+mercado tiende al lado contrario el bajo
+
+[00:13:20]
+pero tú debes de buscar aquí un punto de
+
+[00:13:24]
+entrada por ejemplo puede ser de esta
+
+[00:13:25]
+forma puede ser así
+
+[00:13:28]
+tú puedes verlo
+
+[00:13:31]
+porque vaya así rompe verdad
+
+[00:13:34]
+y luego toda tu vez que te da un quiebre
+
+[00:13:37]
+de estructura o te da algún patrón de
+
+[00:13:40]
+reversión aquí tú puede entonces buscar
+
+[00:13:42]
+una entrada óptima sea como un bloque
+
+[00:13:45]
+decisional un extremo y te aprovecha
+
+[00:13:47]
+entonces esa bajada y puede tener una
+
+[00:13:50]
+entrada óptima sabiendo también dónde va
+
+[00:13:52]
+a salir porque el mercado en ese eje en
+
+[00:13:56]
+ese rango de precio de esta semana pues
+
+[00:13:58]
+se va dejando zonas de interés en la
+
+[00:14:01]
+cual estuvo en tu tienes tú tienes mayor
+
+[00:14:04]
+probabilidad de que el precio reacciones
+
+[00:14:06]
+entonces ahí tú vienes ya buscando lo
+
+[00:14:08]
+que son las salidas
+
+[00:14:10]
+[Música]
+```

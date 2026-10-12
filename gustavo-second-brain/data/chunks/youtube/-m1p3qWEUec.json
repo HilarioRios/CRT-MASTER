@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_id": "YT_-m1p3qWEUec_001",
+    "video_id": "-m1p3qWEUec",
+    "start_sec": 0.04,
+    "end_sec": 122.12,
+    "text": "Hola Qué pasa a todos amigos estamos en un nuevo capítulo de mentoría gratuita 2024 módulo 5 ya estamos con nuestra clase número dos es esta clase vamos a o quiero hablar un poquito más en profundidad del testeo de una estrategia en mercados en vivo o sea cuál va a ser el proceso de yo testear mi estrategia ya en un mercado ya cuando ya tengo las bases sólidas qué pasos debería de seguir para poder testear esa estrategia verdad Entonces quiero que quede bien claro esto y quiero le dediqué otra clase exactamente a esto porque pienso que es muy importante muchas personas ya Back testearon su estrategia en un Back testing normal con retrospectiva de velas y quieren ya que su estrategia funcione pero hay muchos factores sobre todo psicológicos y emocionales que tú no has tenido en cuenta en ese Back testing porque no se puede tener en cuenta en ese Back testing entonces por eso de yo recomiendo por lo menos que se haga Back testing de esta forma verdad Entonces finalidad del testeo de esta de este Back testing en vivo que yo llamo en vivo cuando llamo en vivo entiéndase a meter las operaciones a mi metatrader cumpliendo mi estrategia pero mi finalidad es recopilar datos Mi finalidad no es ni pasar ninguna prueba de fondeo ni ganar dinero sino mi finalidad es ejecutar mi estrategia y recopilar todo tipo de datos verdad Entonces el maest tiene en mercados en vivo se hace porque es un Back testing normal no tenemos el factor de emociones por eso es importante ir a un mercado en vivo y hacerlo entonces principalmente por el factor emocional y por el factor psicológico de que no no lo tengo en los demás tipos de Back testing que yo les he enseñado es por eso que yo recomiendo que se haga este Back testing yo recomiendo que cada 30 días tú tú hagas ese Back testing por lo menos 20 días operativos y después de 20 días operativos o 30 días del calendario",
+    "source_id": "YT_CANAL_02_-m1p3qWEUec",
+    "title": "Como hacer Funcionar Cualquier Estrategia de Trading ✅ l Clase 2 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=-m1p3qWEUec",
+    "deep_link": "https://www.youtube.com/watch?v=-m1p3qWEUec&t=0s"
+  },
+  {
+    "chunk_id": "YT_-m1p3qWEUec_002",
+    "video_id": "-m1p3qWEUec",
+    "start_sec": 112.12,
+    "end_sec": 233.8,
+    "text": "recomiendo que cada 30 días tú tú hagas ese Back testing por lo menos 20 días operativos y después de 20 días operativos o 30 días del calendario vayas y veas todos los datos que has recopilado cada te sientes y analices todos los datos que has recopilado y veas en qué estás fallando en Qué es mejor tu estrategia en Qué es peor etcétera etcétera Pero yo aquí tengo una serie de pasos que les van a ayudar a ustedes para identificar mejor ya entonces el primer paso es abrir una cuenta demo o real o una prueba de fondeo la finalidad es enfocarnos en una sola m enfóquese en una sola cuenta este va a ser el paso que tienen que ustedes hacer mucha gente me me me me pregunta cómo Gustavo Yo sé que ya estoy preparado para una cuenta de fondeo para pasarla bueno es esto cada uno de los pasos que te he venido dando de estrategia que si no has visto todos los capítulos aprovecho para decir que los tienes que ver cada uno de los capítulos abajo en la descripción se encuentra la Playlist para que los veas y este después de eso vas a seguir esta serie de pasos para testear tu estrategia después de que ya tú tienes una cuenta de fondeo eh demo o tienes una cuenta demo o tienes una cuenta de fondeo A lo mejor real pequeñita Por qué también se puede con una cuenta real pequeñita porque ah tú sientes las emociones ahí más porque aún así aunque sea pequeñita ya sabes que es una cuenta que tú puedes llegar a pasar y que puedes este tener ganancias yo por ejemplo este este año precisamente los que me han seguido saben que yo he venido batallando con mi psicología con la estrategia eh principal psicología por todo lo que me pasó por mi historia pero lo que hice fue eso comprar cuentas de fondeo pequeñitas ir Back testeando mi estrategia mis comportamientos mis emociones y una cuenta de 5000 la pasé y me sirvió a partir de ahí me fui con la cuenta de 200,000 de ftmo y después la pasé porque yo ya tenía las bases sólidas luego después es empezar a",
+    "source_id": "YT_CANAL_02_-m1p3qWEUec",
+    "title": "Como hacer Funcionar Cualquier Estrategia de Trading ✅ l Clase 2 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=-m1p3qWEUec",
+    "deep_link": "https://www.youtube.com/watch?v=-m1p3qWEUec&t=112s"
+  },
+  {
+    "chunk_id": "YT_-m1p3qWEUec_003",
+    "video_id": "-m1p3qWEUec",
+    "start_sec": 220.44,
+    "end_sec": 340.48,
+    "text": "emociones y una cuenta de 5000 la pasé y me sirvió a partir de ahí me fui con la cuenta de 200,000 de ftmo y después la pasé porque yo ya tenía las bases sólidas luego después es empezar a operar y recopilar datos de mi operativa tres comportamientos emocionales de mi gestión de riesgo Como cuánto estoy arriesgando si reenter rativa si tengo problemas de sobre operativa eh Mis comportamientos emocionales las las casuísticas que salgan por la operativa casuísticas Qué significa los diferentes cosas que te podrían allegar pasar que tú no consideraste en un Back testing previo eh ejemplo que ese día hubo una noticia doble eh ese día hubo situación fundamental ese día este te pasó algo y te sentiste de una forma ese día te levantaste de una forma de otra casuísticas o casos detalles que te podrían llegar a pasar cómo me siento operando la estrategia tanta tanta comodidad como emocionalmente muchas veces la estrategia es super buena pero yo no me siento bien cómodo o no me siento tan cómodo Resulta ser con ese rr el mercado me daba el testing que el rr 1 A4 o 1 a5 era el el óptimo era el donde yo iba a tener más ganancias pero resulta ser que yo me siento más cómodo con el rr1 a2 son situaciones para eso sirve este tipo de Back testing el se es descubrir Cuáles días son mejores o pero peores queé horarios toda la recopilación de datos chicos que más puedan hacer Ustedes es mejor el siete Cuáles días o escenarios no se debe de operar muy importante saber cuándo no debo de operar cuándo voy a evitar operar esa estrategia por último tenemos lo que es la evaluación continua eh tengo tres pasos por aquí también operar al menos 20 días en cuenta demo Life de preferencia Live para recopilar datos de",
+    "source_id": "YT_CANAL_02_-m1p3qWEUec",
+    "title": "Como hacer Funcionar Cualquier Estrategia de Trading ✅ l Clase 2 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=-m1p3qWEUec",
+    "deep_link": "https://www.youtube.com/watch?v=-m1p3qWEUec&t=220s"
+  },
+  {
+    "chunk_id": "YT_-m1p3qWEUec_004",
+    "video_id": "-m1p3qWEUec",
+    "start_sec": 330.0,
+    "end_sec": 444.68,
+    "text": "estrategia por último tenemos lo que es la evaluación continua eh tengo tres pasos por aquí también operar al menos 20 días en cuenta demo Life de preferencia Live para recopilar datos de tus comportamientos emocionales ya les decía 20 días por lo menos 30 días operativos luego después eh Perdón 20 días operativos 30 días por lo menos de calendario luego vas a filtrar esos resultados cada 20 o 30 días Qué significa filtrar vas a agarrar todos los datos que vist que recopilaste durante 20 días o 30 días de operando y esos esos datos te vas a sentar y los vas a analizar vas a ver Ah mira el comportamiento que tengo todos los lunes Ah mira los viernes siempre pierdo Ah Mira esto esto y a partir de ahí vas a poder tener margen de mejora después vas a hacer un análisis exhaustivo de cada uno de los resultados y vas a generar cambios cuando sea necesario aquí con los cambios es importante chicos decirles que no se pasen de lanza como decimos acá en México con modificar cosas que están bien tienen que tener mucho cuidado con esto y tienen que modificar tienen que tener mucho criterio para modificar realmente lo que Creen ustedes que no les está sirviendo básense principalmente en su comodidad emocional y en los números siempre si se sienten más cómodos emocionales con algo vean analícenlo Mediante los números mediante vean si es rentable mediante números y a partir de ahí le pueden hacer un cambio Bueno chicos esta clase bastante breve pero importante para que ustedes aprendan a hacer un Back testing de verdad Para que ustedes vean Cómo se comienza a intentar ser rentable a intentar pasar una cuenta de fondeo si tienes alguna duda o pregunta te leo en los comentarios si tienes algún eh mensaje que me quieras mandar quieres una mentoría personalizada lo que sea Puedes mandarme un mensaje por WhatsApp o por Instagram Gustavo Trader y nos vemos en un próximo video adiós",
+    "source_id": "YT_CANAL_02_-m1p3qWEUec",
+    "title": "Como hacer Funcionar Cualquier Estrategia de Trading ✅ l Clase 2 l Modulo 5 l CursoTradingGratis",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=-m1p3qWEUec",
+    "deep_link": "https://www.youtube.com/watch?v=-m1p3qWEUec&t=330s"
+  }
+]

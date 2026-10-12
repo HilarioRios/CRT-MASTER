@@ -1,0 +1,1639 @@
+---
+source_id: YT_CANAL_02_kQqK1L3E9dY
+video_id: kQqK1L3E9dY
+channel: "Gustavom.Trader"
+published_at: 2025-09-04
+url: https://www.youtube.com/watch?v=kQqK1L3E9dY
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 12
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# OPERO en VIVO la Estrategia CRT
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=kQqK1L3E9dY)
+
+## Transcript
+
+```
+[00:00:00]
+Buenas, gente, ¿qué tal? Bienvenidos a
+
+[00:00:01]
+un nuevo video, un video un poquito
+
+[00:00:03]
+diferente, distinto. Este video tratará
+
+[00:00:06]
+de grabar una operación en vivo mientras
+
+[00:00:09]
+el mercado está sucediendo con la
+
+[00:00:10]
+estrategia CR CRT. Digamos que siempre
+
+[00:00:13]
+me dicen, "Gustavo, este es fácil verlo
+
+[00:00:17]
+en el back testing, es fácil verlo en el
+
+[00:00:19]
+pasado. Entonces, lo que estoy haciendo
+
+[00:00:21]
+ahora es grabar un video donde voy a
+
+[00:00:23]
+estar viendo una entrada antes de que
+
+[00:00:26]
+suceda y voy a explicarles el paso a
+
+[00:00:28]
+paso de esa entrada. Suscríbanse a este
+
+[00:00:30]
+bello y hermoso canal, denle like,
+
+[00:00:32]
+síganme todas mis redes sociales,
+
+[00:00:34]
+Telegram, WhatsApp, Instagram y bueno,
+
+[00:00:36]
+vamos allá porque he tomado una entrada,
+
+[00:00:38]
+es actualmente está cotizando todavía el
+
+[00:00:41]
+mercado. He tomado una entrada en vivo,
+
+[00:00:43]
+les mostraré cómo tomé la entrada y el
+
+[00:00:45]
+Metatrader y después iré, supongamos,
+
+[00:00:48]
+grabando eh varios pedazos para hasta
+
+[00:00:51]
+dónde se desarrolle la entrada y cómo
+
+[00:00:53]
+vaya saliendo. Entonces, no sé si la
+
+[00:00:55]
+entrada vaya a salir muy bien que
+
+[00:00:57]
+digamos, pero bueno, yo ya he entrado,
+
+[00:00:59]
+les voy a explicar por qué he entrado y
+
+[00:01:01]
+la idea es esa, ver una entrada antes de
+
+[00:01:03]
+que suceda, ¿no? Entonces, este, antes
+
+[00:01:06]
+de que pase. Entonces, ahora eh iré
+
+[00:01:08]
+grabándoles eh los pedazos transiciones
+
+[00:01:12]
+de varios días o varios lo que dure la
+
+[00:01:14]
+operación, no sé cuánto durará. es un
+
+[00:01:16]
+poquito raro porque estoy haciendo algo
+
+[00:01:18]
+distinto. Entonces, la idea es mostrarle
+
+[00:01:20]
+una operación antes de que suceda, cómo
+
+[00:01:22]
+entro con CRT viendo la el mercado que
+
+[00:01:25]
+está cotizando, ¿no? Y por supuesto voy
+
+[00:01:27]
+a mostrarles el Metatrader, ¿no? No sé
+
+[00:01:30]
+cómo saldrá por acá. Entonces, bueno,
+
+[00:01:33]
+eh, he tomado una entrada por aquí,
+
+[00:01:34]
+gente. Este, para mí mi dirección ahora,
+
+[00:01:37]
+mi vallas es bajista. Estamos en el
+
+[00:01:39]
+Nasdaq. Estamos a lunes primero de
+
+[00:01:42]
+septiembre. septiembre en los mercados
+
+[00:01:45]
+financieros eh suele ser bajista para la
+
+[00:01:48]
+bolsa de valores en general. Entonces,
+
+[00:01:50]
+traigo mi sesgo más que nada bajista y
+
+[00:01:53]
+he tomado un un short desde aquí, a
+
+[00:01:55]
+pesar de que creo que ahorita es día
+
+[00:01:57]
+festivo, no hay mucho volumen, pero
+
+[00:01:59]
+cumple con mi entrada, cumple con mi
+
+[00:02:00]
+horario, cumple con mi plan de trading,
+
+[00:02:02]
+cumple con todo. Turtle shop de 4 horas
+
+[00:02:05]
+aquí, gente. Hizo un turtle stop acá de
+
+[00:02:07]
+este lado, pero pienso yo que el mercado
+
+[00:02:10]
+por lo menos va a venir a buscar este
+
+[00:02:12]
+extremo que está por acá. Por lo menos
+
+[00:02:14]
+va a venir a buscar esta parte de aquí.
+
+[00:02:16]
+Yo creo que va a llegar por aquí, va o
+
+[00:02:18]
+por lo menos toma esta liquidez y ahí si
+
+[00:02:19]
+se puede regresar. Entonces, hemos
+
+[00:02:21]
+tomado un short, un shortcito por ahí.
+
+[00:02:23]
+Este, ahorita les iré mostrando también
+
+[00:02:25]
+el Metatrader. Yo suelo operar en el
+
+[00:02:27]
+celular. Eh, ya la tengo la operación
+
+[00:02:29]
+acá en el celular y ahorita les mostraré
+
+[00:02:31]
+igualmente mi pantalla en mi celular
+
+[00:02:32]
+para que ustedes la vayan viendo. Y
+
+[00:02:34]
+bueno, eh, ¿por qué he entrado? Bueno,
+
+[00:02:36]
+Turtles de 4 horas y luego este Turtle
+
+[00:02:40]
+Shop de una hora. Mi stop loss lo tengo
+
+[00:02:43]
+por acá arriba más o menos
+
+[00:02:44]
+aproximadamente. Por acá lo tengo mi
+
+[00:02:46]
+stop loss por aquí por así así entrado.
+
+[00:02:50]
+Y t vela de 15 minutos. Vela de 15
+
+[00:02:53]
+minutos. Eh, como confirmación, primero
+
+[00:02:57]
+esta vela de 15 minutos aquí y luego
+
+[00:02:59]
+después esta otra vela de acá. Esperé
+
+[00:03:02]
+dos velas, como quien dice y bueno, ya
+
+[00:03:04]
+me he dado la confirmación, me ha dado
+
+[00:03:06]
+todo y creo que el mercado puede llegar
+
+[00:03:08]
+a caer. Hice una manipulación aquí estos
+
+[00:03:10]
+altos y bueno, ahí me gusta para short.
+
+[00:03:13]
+entrado ahí con la estrategia. De hecho,
+
+[00:03:15]
+ahorita está avanzando bastante bien,
+
+[00:03:16]
+pero aquí no debes de festejar con este
+
+[00:03:18]
+mercado porque no sabemos cómo vaya a
+
+[00:03:19]
+salir este y el recorrido es larguito,
+
+[00:03:23]
+¿no? El precio tendría que caer hasta
+
+[00:03:24]
+por esta zona de acá abajo. Entonces, no
+
+[00:03:27]
+sé cómo irá este video. Estoy muy
+
+[00:03:29]
+hypeado porque estoy mostrando una
+
+[00:03:31]
+operación como la estoy como el paso a
+
+[00:03:33]
+paso de cómo la estoy tomando y ahorita
+
+[00:03:35]
+mostraré incluso el Metatrader. Entré en
+
+[00:03:37]
+una cuenta que tengo en una cuenta live
+
+[00:03:40]
+y entré en una prueba de fondeo que
+
+[00:03:41]
+estoy haciendo una fase dos. Entonces,
+
+[00:03:44]
+eh, incluso vamos a poner el take profit
+
+[00:03:46]
+juntos, que estoy buscando, estoy
+
+[00:03:49]
+poniendo 60 puntos de stop loss y y 200
+
+[00:03:51]
+de TP, como un a 3 y y medio, casi tres
+
+[00:03:54]
+y cacho, arriesgando el 1% de la cuenta.
+
+[00:03:57]
+Entonces, va bastante bien. Entonces,
+
+[00:03:59]
+aquí hemos entrado. Eh, aquí tengo el
+
+[00:04:01]
+análisis bien desglosadito. Este video
+
+[00:04:03]
+está patrocinado por metotrading.pro, la
+
+[00:04:06]
+mejor escuela de trading para que puedas
+
+[00:04:08]
+aprender esas estrategias como CRT.
+
+[00:04:10]
+Puedes tomar eh puedes entrar a la
+
+[00:04:12]
+comunidad privada, también puedes tomar
+
+[00:04:13]
+clases uno a uno o puedes entrar al
+
+[00:04:16]
+contenido ya grabado, tanto básico,
+
+[00:04:18]
+intermedio o avanzado. En el plan Elite,
+
+[00:04:21]
+actualmente tenemos un curso de CRT que
+
+[00:04:24]
+ya puedes preguntar por puedes entrar a
+
+[00:04:26]
+la web y picándole este botoncito puedes
+
+[00:04:28]
+preguntar o también me puedes mandar
+
+[00:04:30]
+mensaje privado que se encontrará en la
+
+[00:04:31]
+descripción de este video para que
+
+[00:04:33]
+preguntes por el curso de CRT o también
+
+[00:04:35]
+puedes tomar una mentoría uno a uno
+
+[00:04:37]
+conmigo donde yo te voy a dar clases
+
+[00:04:39]
+face to face y ahí vas a poder aprender
+
+[00:04:42]
+bastante bien lo que es el trading, lo
+
+[00:04:44]
+que es las estrategias de CRT. Y bueno,
+
+[00:04:47]
+espero que muchas personas se unan a
+
+[00:04:49]
+mentotrading.pro. Pueden preguntarme, en
+
+[00:04:52]
+la descripción está para que puedan
+
+[00:04:54]
+acceder a mentotrading.pro y también
+
+[00:04:56]
+para que me puedan mandar un mensaje,
+
+[00:04:57]
+tanto si quieren tomar mentoría uno a
+
+[00:04:59]
+uno, clases totalmente en vivo conmigo o
+
+[00:05:02]
+clases también por hora para despejar
+
+[00:05:04]
+sus dudas sobre la estrategia CRT o por
+
+[00:05:06]
+para cualquier estrategia o tanto si
+
+[00:05:09]
+quieren entrar al curso de CRT que ya
+
+[00:05:11]
+tenemos grabado en cualquiera de estos
+
+[00:05:13]
+planes, bueno, en el plan elite y o si
+
+[00:05:15]
+quieren aprender lo básico, lo
+
+[00:05:16]
+intermedio, etcétera, etcétera. Damos
+
+[00:05:19]
+gracias a Mentotrading.pro, la mejor
+
+[00:05:21]
+escuela de trading, por patrocinar este
+
+[00:05:23]
+video. Bueno, chicos, por acá estamos en
+
+[00:05:25]
+el Metatrader, como ven ustedes entrado
+
+[00:05:27]
+por aquí este y Turtle de 4 horas ahí y
+
+[00:05:32]
+luego Turtle Shop de una hora. Este para
+
+[00:05:35]
+mí está dentro de mi horario. Es la vela
+
+[00:05:37]
+de las 11, ¿sí? 910, no, vela de las 12
+
+[00:05:40]
+está bien. Dentro de mi horario, eh, a
+
+[00:05:43]
+las vela de las 9 no hubo nada. No hubo
+
+[00:05:47]
+nada, digamos. La vela de las 9, la vela
+
+[00:05:49]
+de las 10 tampoco hubo nada y ahorita ya
+
+[00:05:52]
+estamos entrando a las 11 más o menos,
+
+[00:05:54]
+hora Nueva York. Este hizo bastante bien
+
+[00:05:57]
+ese Turtle, 4 horas por aquí este y 15
+
+[00:06:02]
+minutos, ¿no? Como les decía, cierre de
+
+[00:06:05]
+esta vela como confirmación, esta vela
+
+[00:06:08]
+como confirmación y después esta segunda
+
+[00:06:10]
+vela como segunda confirmación porque no
+
+[00:06:13]
+me fiaba mucho de esa vela no más. Hay
+
+[00:06:15]
+veces que el mercado sube más.
+
+[00:06:17]
+Y bueno, va bastante bien, pero vamos a
+
+[00:06:20]
+ver si rompe estructuras o a ver si
+
+[00:06:22]
+rompe bien para abajo. Va bastante bien.
+
+[00:06:25]
+Hoy es día de Labor Day o algo así,
+
+[00:06:27]
+creo, en Estados Unidos. La verdad no me
+
+[00:06:29]
+esperaba que fuera festivo, pero bueno,
+
+[00:06:31]
+yo estoy grabando esta, digamos, esta
+
+[00:06:33]
+entrada porque me parece bastante super
+
+[00:06:37]
+buena y está cumpliendo con todos mis
+
+[00:06:39]
+criterios. Y aquí ya puse el stop loss.
+
+[00:06:42]
+Recuerden el stop loss siempre juntos.
+
+[00:06:44]
+Esta es una cuenta de 50. El stop loss
+
+[00:06:46]
+siempre ponerlo primero, o sea, siempre
+
+[00:06:48]
+tienen asegurar el stop loss por si el
+
+[00:06:50]
+mercado habla habla Donald Trump o lo
+
+[00:06:52]
+que sea, pues no perder de más. son 60
+
+[00:06:55]
+puntos de arriesgue y 500 eh de
+
+[00:06:59]
+arriesgue y estamos arriesgando el 1% de
+
+[00:07:02]
+la cuenta. Y por aquí vamos a ir
+
+[00:07:03]
+poniendo juntitos este el take profit,
+
+[00:07:07]
+¿no? Que el take profit sería 200
+
+[00:07:09]
+puntos, un uno a tres y cacho, ¿no? 1 a
+
+[00:07:12]
+tres y y pasadito. Por aquí lo vamos a
+
+[00:07:14]
+estar poniendo juntitos, gente. No,
+
+[00:07:18]
+nunca he hecho esto, digamos, operar
+
+[00:07:19]
+como en vivo, pero creo que podría
+
+[00:07:23]
+quedar bastante guay para una operación
+
+[00:07:24]
+porque siempre me dicen eso, siempre me
+
+[00:07:27]
+dicen, "Gustavo, este
+
+[00:07:30]
+es fácil verlo en el back testing.
+
+[00:07:31]
+Gustavo, es fácil verlo antes de que
+
+[00:07:33]
+suceda, es fácil verlo en el pasado.
+
+[00:07:37]
+Enseñas en el pasado. Bueno, aquí
+
+[00:07:38]
+estamos en vivo, gente. El mercado está
+
+[00:07:41]
+cotizando. La cuenta no va muy bien que
+
+[00:07:43]
+digamos. Esta cuenta la tengo un poco
+
+[00:07:45]
+negativo, es una fase dos, pero bueno,
+
+[00:07:47]
+eh es cuestión de gestionar bien el
+
+[00:07:50]
+riesgo. Yo tengo RR bastante alto,
+
+[00:07:52]
+entonces confío en mi operativa y la
+
+[00:07:55]
+finalidad es mostrarles esta operación
+
+[00:07:58]
+para ver, para que vean ustedes cómo
+
+[00:08:00]
+tomo una operación antes de que suceda
+
+[00:08:02]
+con los mismos, digamos fundamentos,
+
+[00:08:04]
+parámetros y todo lo que les voy
+
+[00:08:05]
+enseñando. Y bueno, aquí está la
+
+[00:08:07]
+operación. Este, supongo que les grabaré
+
+[00:08:10]
+otro extracto más tardecito a ver cómo
+
+[00:08:12]
+va avanzando la operación. Les iré
+
+[00:08:15]
+grabando más más fragmentos de esta
+
+[00:08:17]
+operación. Cuando vaya avanzando les iré
+
+[00:08:20]
+dando más análisis, más contexto,
+
+[00:08:22]
+etcétera, etcétera. Pero bueno, yo creo
+
+[00:08:24]
+que como primera parte está bien y nos
+
+[00:08:26]
+vemos en un ratillo más. Ustedes en un
+
+[00:08:29]
+segundo y y yo en algunas horas para ver
+
+[00:08:32]
+cómo va avanzando la operación. Bueno,
+
+[00:08:33]
+chicos, este estoy grabando esto eh un
+
+[00:08:36]
+poquito después. de unas horas después
+
+[00:08:39]
+de que pusimos nuestro trade que les
+
+[00:08:42]
+expliqué por ahí. Este va bastante bien.
+
+[00:08:44]
+Estamos en Asia. Eh, les estoy grabando
+
+[00:08:47]
+esto porque no sé si me vaya a dar
+
+[00:08:49]
+chance de grabar más tarde. Obviamente
+
+[00:08:52]
+ya más tarde se hace más noche y no voy
+
+[00:08:54]
+a estar grabando tampoco en la madrugada
+
+[00:08:56]
+el viendo el trade. Entonces, quería
+
+[00:08:58]
+darles una retroalimentación pequeña
+
+[00:09:00]
+ahorita por si mañana no me da tiempo. A
+
+[00:09:03]
+lo mejor ya mañana vemos el trade
+
+[00:09:05]
+cerrado o en Stone Bloss, no, no sé.
+
+[00:09:08]
+Este, pero va bastante bien, fíjense,
+
+[00:09:10]
+aquí les quería enseñar el trade. Va
+
+[00:09:12]
+bastante bien. Nosotros entramos Turtles
+
+[00:09:16]
+de 4 horas, gente, por aquí, acuérdense,
+
+[00:09:20]
+Turtel Shop de 4 y luego vimos el Turtle
+
+[00:09:22]
+Sop de una hora, que fue esta velita que
+
+[00:09:24]
+está aquí y luego entramos con la
+
+[00:09:27]
+confirmación de 15 minutos y fíjense, el
+
+[00:09:29]
+precio vino para acá, rechazó y se cayó
+
+[00:09:34]
+y va bastante bien. y quería darles una
+
+[00:09:35]
+retroalimentación y también quería
+
+[00:09:38]
+aprovechar para hacer el el actualizar
+
+[00:09:42]
+el gráfico porque ahorita ya ha cambiado
+
+[00:09:44]
+la vela diaria. Entonces quería
+
+[00:09:45]
+aprovechar también este esta parte de
+
+[00:09:47]
+este video para que ustedes vayan
+
+[00:09:49]
+viendo, pues se lleven un poquito de
+
+[00:09:51]
+conocimiento y voy a actualizar la
+
+[00:09:53]
+gráfica, aunque pues aprovecharé para
+
+[00:09:56]
+actualizar el gráfico. Primero que nada
+
+[00:09:58]
+este gráfico que es actualizar los lows
+
+[00:10:02]
+diarios
+
+[00:10:03]
+y ir actualizando un poquito cómo el
+
+[00:10:05]
+precio se ha movido, ¿no? Fíjense, la
+
+[00:10:07]
+vela diaria ya cerró. Cerró una vela
+
+[00:10:09]
+diaria. Hm. Pareciera que alcista o hizo
+
+[00:10:13]
+tortel top y cerró alcista, pero mi
+
+[00:10:15]
+dirección principal, creo yo, que es
+
+[00:10:17]
+bajista y por eso
+
+[00:10:21]
+mantendré mi operación en el tiempo,
+
+[00:10:23]
+porque yo creo que mi vallas es bajista,
+
+[00:10:25]
+sobre todo porque hay muchísima liquidez
+
+[00:10:27]
+acá abajo, pero ya se verá en el tiempo,
+
+[00:10:29]
+¿no? Ya veremos ahorita a ver cómo sale.
+
+[00:10:32]
+Pero quería actualizarles un poquito,
+
+[00:10:34]
+¿eh? No quiero que dure tanto tampoco
+
+[00:10:36]
+porque estamos gente con un calorón aquí
+
+[00:10:39]
+en mi cuartito. Estoy con un calorón.
+
+[00:10:41]
+Estamos en la mediodía, bueno, las la
+
+[00:10:43]
+tarde, las 4:30 de la tarde y quiero
+
+[00:10:46]
+darme un pequeño descanso ahorita, pero
+
+[00:10:48]
+digo, si no no me va a dar tiempo
+
+[00:10:50]
+después a grabarles el pedazo y va a
+
+[00:10:52]
+quedar un video que no va a tener mucho
+
+[00:10:53]
+sentido. Entonces aquí estoy
+
+[00:10:55]
+actualizando. Ya actualizamos el rango
+
+[00:10:57]
+de la vela diaria y este sería como
+
+[00:10:59]
+nuestros targets para mañana. para
+
+[00:11:02]
+mañana. Fíjense que hemos venido de
+
+[00:11:04]
+hacer un turtle stop aquí y luego el
+
+[00:11:06]
+precio sí que terminó más alcista que
+
+[00:11:09]
+bajista, pero yo creo que va a venir el
+
+[00:11:11]
+precio, eh, manteniendo mi análisis,
+
+[00:11:14]
+creo que va a venir por acá, por esta
+
+[00:11:16]
+zona de aquí, a rellenar esta zona de
+
+[00:11:18]
+aquí de imbalance, va a venir a romper
+
+[00:11:20]
+esta liquidez y vamos a venir para
+
+[00:11:22]
+abajo, ¿no? Entonces, ese es un poquito
+
+[00:11:24]
+el análisis que tengo para el precio y
+
+[00:11:27]
+actualizando un poquito los los el CRT
+
+[00:11:31]
+de 4 horas en esta gráfica, viendo un
+
+[00:11:34]
+poquito desde donde entramos, que
+
+[00:11:36]
+nuestro target está por abajo de por
+
+[00:11:38]
+abajo de estos lows, ¿no? Digamos, sí,
+
+[00:11:41]
+por abajo, mucho más por abajo de esos
+
+[00:11:44]
+lows que están ahí, más o menos antes de
+
+[00:11:48]
+llegar a este a este bloque, a esta zona
+
+[00:11:50]
+de aquí de este bloque, limpiando esta
+
+[00:11:52]
+liquidez, aproximadamente, fíjense que
+
+[00:11:54]
+nosotros entramos por aquí así y estamos
+
+[00:11:57]
+buscando un movimiento de este estilo,
+
+[00:11:59]
+más o menos. Entonces, eh, actualizando
+
+[00:12:02]
+el gráfico, acá tengo el gráfico que
+
+[00:12:04]
+estoy actualizando. Fíjense cómo entré
+
+[00:12:06]
+ahí. Entramos aquí, perfecto en el mero
+
+[00:12:08]
+Turtle Sop. Fíjense cómo anticipamos el
+
+[00:12:11]
+Turtle Sop, ay, cómo se entra antes,
+
+[00:12:15]
+antes de que suceda ya la ahorita ya
+
+[00:12:17]
+porque estás viendo el gráfico antes,
+
+[00:12:19]
+gente, antes entramos, ya saben que
+
+[00:12:21]
+andamos aquí manejando el ST Master.
+
+[00:12:25]
+Este, mm, ¿qué quería decir? Quería
+
+[00:12:28]
+decir cositas también, gente.
+
+[00:12:29]
+Seguramente cuando estén viendo este
+
+[00:12:30]
+video, este, ya puedan adquirir mi curso
+
+[00:12:34]
+de CRT. Ya me pueden mandar mensaje para
+
+[00:12:36]
+adquirir mi curso de CRT o también tomar
+
+[00:12:39]
+clases de uno a uno. Seguramente cuando
+
+[00:12:41]
+estén viendo este video ya está el curso
+
+[00:12:42]
+de CRT. Me pueden mandar mensaje en la
+
+[00:12:44]
+descripción posiblemente seguramente
+
+[00:12:46]
+esté. Eh, yo creo que voy a hacer otro
+
+[00:12:50]
+extracto para este video. Veré cómo lo
+
+[00:12:52]
+hago, para que todo el mundo se entere
+
+[00:12:53]
+también de del curso. Los que quieran
+
+[00:12:55]
+tomar el curso de CRT pueden mandarme
+
+[00:12:58]
+mensaje, gente. Y aquí ya toca
+
+[00:13:00]
+actualizar. Bueno, voy a poner esto en
+
+[00:13:02]
+rojo para ver que esto fue el Turtle
+
+[00:13:04]
+sub. Y vamos a poner este como h
+
+[00:13:08]
+pendiente
+
+[00:13:10]
+pendiente acá por si viene. Obviamente
+
+[00:13:13]
+aquí nos sacaría nuestro stop
+
+[00:13:16]
+y yo creo que va a venir para acá abajo.
+
+[00:13:18]
+Fíjense que actualmente se acaba de
+
+[00:13:20]
+llegar este lad de 4 horas,
+
+[00:13:23]
+ese low y ahí es donde sí puede
+
+[00:13:24]
+regresarse. Ya veremos, dijo el ciego,
+
+[00:13:27]
+pero se ha llevado este low de 4 horas y
+
+[00:13:29]
+nada más.
+
+[00:13:31]
+Yo creo que toda esta liquidez.
+
+[00:13:34]
+Aquí, por ejemplo, hemos visto el turtle
+
+[00:13:36]
+stop diario anterior
+
+[00:13:38]
+y este sería como el target actualmente,
+
+[00:13:42]
+este target y que venga el precio un
+
+[00:13:45]
+poquito más abajo. Bueno, quería grabar
+
+[00:13:47]
+este extracto, este pedazo para más que
+
+[00:13:49]
+nada darle retroalimentación de cómo va
+
+[00:13:50]
+el trade y para que me dé chance un
+
+[00:13:53]
+poquito el eh a lo mejor ya no me da
+
+[00:13:55]
+chance de grabar después nada. Aquí está
+
+[00:13:57]
+el trade corriendo, gente. Ahí entramos.
+
+[00:14:00]
+está el trade para que ustedes vayan
+
+[00:14:01]
+viendo cómo lo voy documentando. Si es
+
+[00:14:03]
+que no se cerró el trade, bueno, si se
+
+[00:14:05]
+cerró el trade, pues pondré el recap de
+
+[00:14:08]
+cómo salió y y ya está, ¿no? Entonces,
+
+[00:14:11]
+nos vemos eh seguramente mañana, gente,
+
+[00:14:14]
+o en unas horas, a lo mejor si va muy
+
+[00:14:16]
+bien más tarde y tengo chance de
+
+[00:14:18]
+grabarlo, lo grabo. Pues nos vemos en un
+
+[00:14:20]
+ratito. Hola, hola, ¿qué tal, gente?
+
+[00:14:21]
+Estamos ya al día siguiente. Este, la
+
+[00:14:24]
+operación, como pueden ver ahí, se ha
+
+[00:14:26]
+cerrado, fíjense, ya se ha cerrado por
+
+[00:14:28]
+aquí en Profit. Eh, como les había dicho
+
+[00:14:31]
+en el anterior extracto del video o la
+
+[00:14:34]
+anterior parte que grabé, este,
+
+[00:14:36]
+probablemente ya no iba a alcanzar a a
+
+[00:14:38]
+este a grabarlo en vivo, porque yo sabía
+
+[00:14:42]
+que probablemente se iba a dar la
+
+[00:14:44]
+operación en la sesión de Londres. Y
+
+[00:14:46]
+bueno, en la sesión de Londres aquí es
+
+[00:14:47]
+la madrugada y estoy dormido. Ahorita
+
+[00:14:49]
+estoy grabando esto a las 7 de la
+
+[00:14:51]
+mañana. Eh, me digamos que me desperté
+
+[00:14:54]
+como a las 5 de la mañana
+
+[00:14:55]
+aproximadamente y ya vi que la operación
+
+[00:14:58]
+estaba cerrada. Entonces, ahorita quiero
+
+[00:15:00]
+grabarles aquí para que ustedes vean un
+
+[00:15:02]
+poquito el resultado. Ahí se ha cerrado
+
+[00:15:04]
+bastante bastante bien. Luego ha caído
+
+[00:15:06]
+bastante más todavía el precio desde el
+
+[00:15:08]
+punto de entrada que tuvimos y ahorita
+
+[00:15:10]
+voy a ir a hacerles e el análisis para
+
+[00:15:13]
+cerrar este video y bueno, ya para que
+
+[00:15:15]
+tengan un documental de cómo tomo una
+
+[00:15:17]
+ide una una idea de trade paso a paso
+
+[00:15:20]
+con con nuestra estrategia CRT. Ahorita
+
+[00:15:22]
+estaba viendo un posible long que está
+
+[00:15:24]
+por ahí el precio ahí subiendo, pero no
+
+[00:15:27]
+lo tomé, la verdad porque acabo de salir
+
+[00:15:31]
+recién hoy temprano de la compra y yo
+
+[00:15:34]
+suelo de suelo cuando tengo un stop loss
+
+[00:15:38]
+en ese mismo día o tengo un stop loss,
+
+[00:15:41]
+ya sea un stop loss o un take profit,
+
+[00:15:43]
+suelo dejar pasar un día sin operar o
+
+[00:15:46]
+inclusive ya cerrar la semana de
+
+[00:15:48]
+operativa porque con una sola entrada
+
+[00:15:50]
+que tenga de estas ya me vale. para para
+
+[00:15:52]
+terminar la semana. Entonces, fíjense,
+
+[00:15:54]
+ahí va ido bastante bien. Se cerró
+
+[00:15:56]
+totalmente en profit este y s super
+
+[00:16:01]
+cool, super bueno y y ya está, ¿no?
+
+[00:16:05]
+Bueno, chicos, pues así quedaría el
+
+[00:16:06]
+desglose de la entrada. Este, nosotros
+
+[00:16:09]
+estuvimos entrando por aquí en la en la
+
+[00:16:13]
+confirmación de esta vela de 15 minutos.
+
+[00:16:15]
+Fíjense por aquí. Confirmación de la
+
+[00:16:18]
+vela de 15 minutos. Exactamente aquí,
+
+[00:16:21]
+chicos, exactamente por aquí. Al cierre
+
+[00:16:24]
+de la segunda vela de 15 minutos después
+
+[00:16:26]
+del turtle de 4 horas, de 4 horas, el
+
+[00:16:30]
+turtle stop de una hora y el cierre de
+
+[00:16:33]
+la vela, segunda vela de 15 minutos.
+
+[00:16:36]
+Esperé dos velitas. El stoploss lo
+
+[00:16:38]
+teníamos más o menos por aquí, chicos. Y
+
+[00:16:40]
+teníamos el take profit para que vaya
+
+[00:16:43]
+vean eh dónde teníamos el take profit.
+
+[00:16:45]
+Todo, todo bien. El T profile lo
+
+[00:16:47]
+teníamos a 200 puntitos. Por debajo de
+
+[00:16:49]
+toda esta liquidez, yo pensé que eh
+
+[00:16:54]
+este llegaría por ahí y fíjense que se
+
+[00:16:57]
+cumplió bastante bien la previsión. Esta
+
+[00:16:59]
+fue la entrada que tomamos totalmente en
+
+[00:17:00]
+vivo y fíjense que esta entrada dio,
+
+[00:17:04]
+aquí me dio un uno a tres, pero fíjense
+
+[00:17:06]
+que la entrada termina dando mucho más.
+
+[00:17:09]
+Yo obviamente me salgo por ahí porque
+
+[00:17:11]
+fue mi plan de trading, pero fíjense que
+
+[00:17:13]
+termina siendo una entrada un a
+
+[00:17:15]
+aproximadamente. Fíjense, bestial, un a
+
+[00:17:18]
+impresionante. Pero obviamente pues yo
+
+[00:17:22]
+tomé mi entrada hasta aquí porque es mi
+
+[00:17:23]
+plan de trading y tengo que cumplir mi
+
+[00:17:25]
+plan de trading siempre y voy agarrando
+
+[00:17:29]
+estos tipos de trade.
+
+[00:17:32]
+Obviamente no se te va a dar una siete
+
+[00:17:34]
+todos los días, pero fíjense la
+
+[00:17:35]
+proyección fue buenísima, que el precio
+
+[00:17:38]
+nos dio esta salida por aquí, esta
+
+[00:17:41]
+entrada hermosísima hasta hasta 1 a
+
+[00:17:43]
+inclusive. Fíjense, cayó el precio casi
+
+[00:17:45]
+500 puntos en el Nasdaq, que es donde
+
+[00:17:48]
+estamos entrando, y fue fenomenal y
+
+[00:17:51]
+hermosa nuestra entradita. Pues
+
+[00:17:53]
+terminamos ganando los 1600 que íbamos
+
+[00:17:56]
+aproximadamente, un 1 a 3.3,
+
+[00:17:59]
+arriesgando el 1%. Muy bonita la
+
+[00:18:01]
+entrada. Este, no siempre se dan
+
+[00:18:03]
+entradas tan buenas. Entramos nosotros
+
+[00:18:05]
+en este CRT de 4 horas. Fíjense, este es
+
+[00:18:08]
+RT 4 horas, a pesar, creo que ya en el
+
+[00:18:10]
+video les habré explicado cómo entramos,
+
+[00:18:12]
+pero fíjense, eh, como dice la gente, es
+
+[00:18:15]
+fácil verlo en el pasado. Bueno, fíjense
+
+[00:18:18]
+como nosotros viendo este video, como lo
+
+[00:18:20]
+vimos antes de que sucediera, para que
+
+[00:18:22]
+ustedes vean. Vallas, el análisis es
+
+[00:18:24]
+simple, simple. Vallas bajista,
+
+[00:18:27]
+dirección bajista, vallas bajista. Y
+
+[00:18:29]
+luego buscamos un CRT contrario a
+
+[00:18:32]
+nuestro Vallas, que en este caso es un
+
+[00:18:35]
+movimiento alcista, y entramos en
+
+[00:18:37]
+continuación para abajo, ¿no? Entonces,
+
+[00:18:40]
+eh 4 horas y luego lo que yo estuve
+
+[00:18:42]
+viendo es esta vela de una hora y me
+
+[00:18:45]
+monté en el cierre de la vela de 15
+
+[00:18:48]
+minutos, que fue exactamente por aquí.
+
+[00:18:51]
+En el en este broker, por ejemplo, subió
+
+[00:18:53]
+un poco más. en el en mi Metatrader no
+
+[00:18:57]
+subió, llegó por aquí no más y luego ya
+
+[00:18:59]
+después abrió para abajo el precio y ya
+
+[00:19:01]
+de ahí no volvió a subir nada más. dio
+
+[00:19:04]
+un pequeño retroceso, cayó por aquí y
+
+[00:19:06]
+luego dio este retroceso, miren, dio
+
+[00:19:08]
+este retroceso agresivo una vez que sacó
+
+[00:19:10]
+estos mínimos de 4 horas aquí, eh, sacó
+
+[00:19:13]
+estos mínimos de 4 horas y luego dio un
+
+[00:19:15]
+retroceso agresivo y ya eso yo me parece
+
+[00:19:18]
+que lo vi antes de dormirme. Yo creo que
+
+[00:19:21]
+lo vi esto antes de dormirme y luego ya
+
+[00:19:23]
+me dormí y ya cuando me levanté el
+
+[00:19:25]
+precio ya iba bajista hasta acá abajo,
+
+[00:19:27]
+¿no? Entonces entramos en SRT y entramos
+
+[00:19:30]
+en el la vela de confirmación de 15
+
+[00:19:32]
+minutos. Igualmente, yo creo que habré
+
+[00:19:34]
+dejado desglosada la el la entrada ahí y
+
+[00:19:38]
+ahorita, actualmente estuve viendo esta
+
+[00:19:39]
+compra, pero no le entré, la verdad. Yo
+
+[00:19:41]
+creo que hoy no voy a hacer nada. Bueno,
+
+[00:19:43]
+gente, aquí estamos en el otro gráfico.
+
+[00:19:45]
+Eh, como les había dicho, este, teníamos
+
+[00:19:48]
+esta predicción del precio desde aquí
+
+[00:19:51]
+hasta este punto porque el precio tenía
+
+[00:19:54]
+toda esta liquidez que estaba aquí de
+
+[00:19:55]
+este debajo y este esa era la
+
+[00:19:58]
+proyección. Nosotros entramos ayer
+
+[00:20:01]
+exactamente en la vela esta de 4 horas,
+
+[00:20:03]
+fíjense. Bueno, esta velita de 4 horas
+
+[00:20:06]
+que que sacó esta liquidez de estos dos
+
+[00:20:08]
+altos y también tenía el contexto pues
+
+[00:20:10]
+bajista más que alcista. Entonces
+
+[00:20:13]
+simplemente nos unimos a esa
+
+[00:20:14]
+continuación bajista. Y en el SP500 algo
+
+[00:20:17]
+que me gustaba mucho es que el SP500 ya
+
+[00:20:20]
+había tomado esta zona, esta zona, había
+
+[00:20:25]
+mitigado esta zona y ya me nos apoyamos
+
+[00:20:27]
+igualmente para entrar. Fíjate que el
+
+[00:20:29]
+SP500 no hizo el en ese en exactamente
+
+[00:20:33]
+cuando yo entré no hizo el Turtle, pero
+
+[00:20:36]
+lo había hecho previamente antes en la
+
+[00:20:38]
+sesión de Londres y ya había mitigado
+
+[00:20:40]
+esta zona de acá arriba. Entonces por
+
+[00:20:42]
+eso es que decidimos entrar por ahí.
+
+[00:20:44]
+Básicamente es así de sencillo. No tiene
+
+[00:20:47]
+mucha complicación este tipo de
+
+[00:20:49]
+entradas. Es una estrategia totalmente
+
+[00:20:51]
+sencilla, ¿cierto? Que yo voy agregando
+
+[00:20:53]
+algunas cositas que voy me van dando más
+
+[00:20:57]
+profundidad en los análisis y mejores
+
+[00:21:00]
+resultados, que son cositas que pues
+
+[00:21:02]
+obviamente voy enseñando a mis alumnos
+
+[00:21:04]
+de mentoría un a uno y a la gente que
+
+[00:21:07]
+estoy que se está educando
+
+[00:21:08]
+constantemente conmigo. Y bueno, lo
+
+[00:21:11]
+vamos a dejar por aquí, chicos. Este es
+
+[00:21:13]
+el desglose del análisis de esta
+
+[00:21:14]
+operación que vimos totalmente en vivo,
+
+[00:21:17]
+CRT o estrategia de CRT totalmente en
+
+[00:21:20]
+vivo antes de que sucediera. Salió
+
+[00:21:22]
+bastante bien. Y si les gusta el formato
+
+[00:21:24]
+este, pues eh déjenme en los comentarios
+
+[00:21:27]
+y les traeré seguramente más videos
+
+[00:21:30]
+sobre esto o más videos de este estilo.
+
+[00:21:33]
+Nos vemos en un siguiente video y adiós.
+```

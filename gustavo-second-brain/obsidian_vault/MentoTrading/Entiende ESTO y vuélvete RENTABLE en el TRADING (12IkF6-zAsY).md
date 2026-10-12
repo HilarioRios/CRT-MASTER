@@ -1,0 +1,2038 @@
+---
+source_id: YT_CANAL_01_12IkF6-zAsY
+video_id: 12IkF6-zAsY
+channel: "MentoTrading"
+published_at: 2025-10-28
+url: https://www.youtube.com/watch?v=12IkF6-zAsY
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 15
+tags: [youtube, MentoTrading, year/2025, status/synced]
+---
+
+# Entiende ESTO y vuélvete RENTABLE en el TRADING
+
+[[MentoTrading]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=12IkF6-zAsY)
+
+## Transcript
+
+```
+[00:00:00]
+Bueno, chicos, pues bienvenidos a un
+
+[00:00:01]
+nuevo episodio. Esta vez trayéndoles
+
+[00:00:03]
+este formato tipo podcast. El episodio
+
+[00:00:05]
+anterior tuve bastante apoyo y creo que
+
+[00:00:07]
+les gustó mucho. Entonces, estaré
+
+[00:00:09]
+trayéndoles este contenido distinto en
+
+[00:00:11]
+este canal, diferente, hablando un poco
+
+[00:00:13]
+formato podcast de cositas de trading,
+
+[00:00:16]
+cositas sobre traders y creo que te va a
+
+[00:00:18]
+encantar mucho este. Déjame tu apoyo en
+
+[00:00:21]
+este episodio. También decirte que
+
+[00:00:24]
+puedes ponerte este episodio de fondo
+
+[00:00:26]
+tipo formato podcast. Estaremos aquí
+
+[00:00:28]
+unos 30, 40 minutitos. hablando de cosas
+
+[00:00:30]
+importantes sobre trading y sobre
+
+[00:00:32]
+traders. Claro que sí. El episodio del
+
+[00:00:35]
+día de hoy precisamente traigo el tema
+
+[00:00:38]
+de cosas que te impiden ser rentables.
+
+[00:00:41]
+miré por ahí un post en este en X, en
+
+[00:00:46]
+las red sociales TX de algunos algún
+
+[00:00:49]
+trader que es bastante bueno, que sigo
+
+[00:00:51]
+por ahí, tiene bueno un montón de
+
+[00:00:54]
+payouts y creo que me puso a reflexionar
+
+[00:00:57]
+sobre esto, eh, lo que dijo o lo que
+
+[00:01:00]
+escribió y dice que este
+
+[00:01:03]
+va son algunas cosas que te impiden o te
+
+[00:01:06]
+alejan de la rentabilidad. y quería
+
+[00:01:08]
+hablar de varios puntos en este episodio
+
+[00:01:11]
+o en este formato podcast y creo que te
+
+[00:01:15]
+va a encantar muchísimo, ¿no? Entonces,
+
+[00:01:16]
+quédate por aquí, póntelo de fondo, este
+
+[00:01:19]
+te va a gustar muchísimo y vamos a
+
+[00:01:21]
+empezar de una vez. Vamos a lo que
+
+[00:01:22]
+vamos, que eh también decirte que te
+
+[00:01:25]
+suscribas a mi canal, me sigas en
+
+[00:01:27]
+Instagram, bueno, ya sabes tú todo eso.
+
+[00:01:29]
+Quiero entrar ahora sí de lleno a este
+
+[00:01:31]
+episodio porque el tema está bastante
+
+[00:01:34]
+bueno. El primer punto que te impide ser
+
+[00:01:37]
+rentable, el primer punto que te impide
+
+[00:01:40]
+llegar a esa rentabilidad que tú
+
+[00:01:41]
+quieres, ¿no? Es depender del trading
+
+[00:01:44]
+100% o querer depender del trading 100%.
+
+[00:01:49]
+Veo chicos que abandonan la universidad
+
+[00:01:51]
+o dejan su trabajo para poder dedicarse
+
+[00:01:53]
+al trading a tiempo completo, o sea, que
+
+[00:01:56]
+dejan, tiran toda la carne al asador,
+
+[00:01:58]
+incluso cuando aún no son rentables.
+
+[00:02:00]
+Este, si dependes del trading para pagar
+
+[00:02:03]
+tus cuentas, o sea, para pagar tus
+
+[00:02:05]
+gastos, la renta, la luz, el agua, todo
+
+[00:02:07]
+lo la comida, todo lo que nosotros
+
+[00:02:09]
+necesitamos para vivir, no te
+
+[00:02:12]
+presionarás y te dejarás llevar por las
+
+[00:02:14]
+emociones, especialmente si eres un
+
+[00:02:16]
+trader sin experiencia. Entonces, si
+
+[00:02:19]
+estás aprendiendo a comerciar, consigue
+
+[00:02:21]
+un trabajo paralelo. O sea, yo siempre
+
+[00:02:23]
+he dicho esto también y tengo mi opinión
+
+[00:02:25]
+aquí con esto. Compagina tu trabajo con
+
+[00:02:28]
+el trading. Eh, yo estuve durante muchos
+
+[00:02:32]
+años, eh, por hablar 5 6 años, 7 años
+
+[00:02:36]
+inclusive que llevo haciendo trading
+
+[00:02:38]
+compaginando mi trabajo con el trading.
+
+[00:02:42]
+O sea, el trading debe de adaptarse a
+
+[00:02:45]
+ti, no tú debes de adaptarte a él.
+
+[00:02:47]
+Entonces, vas a compaginar eh tu trabajo
+
+[00:02:51]
+con el trading, porque si dependes a
+
+[00:02:54]
+full del trading y no eres rentable aún,
+
+[00:02:57]
+¿qué va a pasar muchas de las veces? que
+
+[00:03:00]
+eh simplemente vas a tener esa presión
+
+[00:03:02]
+extra o esa presión añadida de que va
+
+[00:03:06]
+tienes que sacar dinero porque si no
+
+[00:03:07]
+sacas dinero no vas a comer, no vas a
+
+[00:03:10]
+poder pagar el alquiler, etcétera,
+
+[00:03:12]
+etcétera. Entonces siempre vas a tener
+
+[00:03:13]
+como esa presión agregada y no vas a ser
+
+[00:03:17]
+rentable. ¿Por qué no vas a ser
+
+[00:03:18]
+rentable? Porque simplemente vas a estar
+
+[00:03:22]
+con esa presión extra. No, hay un montón
+
+[00:03:24]
+de eh si estás aprendiendo a hacer
+
+[00:03:26]
+trading, consigue un trabajo paralelo.
+
+[00:03:28]
+Hay muchos beneficios. Mira, alivia la
+
+[00:03:30]
+presión sobre tus operaciones y te
+
+[00:03:32]
+permitirá tener una un mejor desempeño.
+
+[00:03:35]
+Yo creo que es muy muy bueno este punto.
+
+[00:03:38]
+O sea, si tú tienes una buena
+
+[00:03:40]
+estabilidad económica y yo también lo
+
+[00:03:42]
+digo emocional, tú vas a poder estar
+
+[00:03:45]
+tradeando sin presión. Porque siempre
+
+[00:03:47]
+digo yo, el mercado está configurado
+
+[00:03:50]
+para oler o el mercado huele. El mercado
+
+[00:03:53]
+eh está oliendo tu necesidad de dinero
+
+[00:03:55]
+constante y hace que tú cometas un
+
+[00:03:58]
+montón de errores. Eh, significará que
+
+[00:04:00]
+tendrás más dinero para invertir en los
+
+[00:04:02]
+en los challenger de empresas de de
+
+[00:04:04]
+fondeo. De todos modos, operar solo
+
+[00:04:06]
+debería llevarte una o dos horas al día.
+
+[00:04:09]
+te da algo que hacer todo el resto del
+
+[00:04:11]
+día, ¿no? Te da esa libertad de poder
+
+[00:04:13]
+compaginarlo. Si estás en la ruina en
+
+[00:04:15]
+este momento y estás usando el trading
+
+[00:04:16]
+para escapar de eso, no funcionará.
+
+[00:04:19]
+Mucha gente llega intentando resolver
+
+[00:04:22]
+todos sus problemas con el trading y no
+
+[00:04:25]
+lo vas a conseguir, vas a arruinarte
+
+[00:04:27]
+más. Es primero importante que tengas
+
+[00:04:29]
+una estabilidad económica fuera del
+
+[00:04:32]
+trading y después de que tienes esa
+
+[00:04:34]
+estabilidad económica, ahora sí puedes
+
+[00:04:36]
+dedicarte al trading, ¿no? Solo cabarás
+
+[00:04:40]
+un hoyo más profundo porque se estás
+
+[00:04:42]
+desesperado y la desesperación se
+
+[00:04:43]
+castiga en los mercados. En el mercado,
+
+[00:04:45]
+lo que les decía, no puedes ir
+
+[00:04:47]
+desesperado a intentando conseguir
+
+[00:04:50]
+dinero. Primero soluciona tus problemas
+
+[00:04:52]
+económicos que tienes en tu vida y
+
+[00:04:54]
+después ya puedes ir a operar en el
+
+[00:04:56]
+mercado. Encuentra un trabajo y luego
+
+[00:04:58]
+aprende a comerciar paralelamente, ¿no?
+
+[00:05:00]
+Entonces, aquí vemos este primer punto.
+
+[00:05:02]
+Yo creo que es muy muy bonito y dice un
+
+[00:05:04]
+montón de realidad que precisamente yo
+
+[00:05:07]
+creo que este formato podcast que estoy
+
+[00:05:09]
+haciendo aquí barra monólogo. Creo que
+
+[00:05:13]
+quiero hablar de estos temas de
+
+[00:05:15]
+realidad, cosa que no puedo tocar en
+
+[00:05:17]
+algunos vídeos del canal principal como
+
+[00:05:19]
+que trabajo más estrategia o puntos así.
+
+[00:05:22]
+Entonces, este formato va a tocar más
+
+[00:05:25]
+realidad del trading y creo que es muy
+
+[00:05:27]
+muy bonito decir la realidad del
+
+[00:05:29]
+trading. Otra cosa que te aleja o el
+
+[00:05:32]
+punto número dos que te aleja de ser
+
+[00:05:34]
+rentable, adicción al trading. Mucha
+
+[00:05:38]
+gente trata el trading como si fuera un
+
+[00:05:40]
+juego de azar. lo admitan o no, les
+
+[00:05:42]
+encanta la emoción o la adrenalina que
+
+[00:05:45]
+sienten cuando están en este negocio del
+
+[00:05:47]
+trading. Podrían usar excusas para
+
+[00:05:50]
+encubrirlo diciendo, "Pero es
+
+[00:05:52]
+productivo, pero estoy trabajando."
+
+[00:05:54]
+Cuando en realidad simplemente son
+
+[00:05:55]
+adictos al juego, adictos a estar
+
+[00:05:58]
+operando todo el día. En lugar de
+
+[00:06:00]
+apostar en carreras de caballos o de
+
+[00:06:02]
+ruleta, apuestan en pares de divisas,
+
+[00:06:04]
+índices o lo que negocien. Si este es tu
+
+[00:06:07]
+caso, necesitas tener una fuerte
+
+[00:06:08]
+autorreflexión, ya que muchas personas
+
+[00:06:10]
+lo negarán. Pero si arriesgas
+
+[00:06:13]
+rutinariamente un gran porcentaje de tu
+
+[00:06:15]
+cuenta en operaciones, te pones
+
+[00:06:16]
+emocional y a menudo operas por
+
+[00:06:18]
+venganza,
+
+[00:06:20]
+entonces necesitas revisarte.
+
+[00:06:22]
+Probablemente lo estés haciendo por
+
+[00:06:23]
+desesperación o simplemente estés
+
+[00:06:25]
+jugando sin ni siquiera darte cuenta. El
+
+[00:06:26]
+trading real es aburrido, calculado, no
+
+[00:06:29]
+loco ni emocional. ¿Qué significa esto?
+
+[00:06:33]
+Que muchas de la gente tienen esta
+
+[00:06:34]
+adicción a estar operando todo el día.
+
+[00:06:37]
+Yo trabajo con muchos traders en la
+
+[00:06:39]
+mentoría un a uno, como ustedes ya
+
+[00:06:41]
+sabrán o los que no sepan, bueno, yo
+
+[00:06:43]
+trabajo con traders y muchos tienen el
+
+[00:06:46]
+problema de la adicción de que quieren
+
+[00:06:49]
+estar operando todo el día, quieren
+
+[00:06:50]
+operarme Londres, me quieren operar
+
+[00:06:52]
+Nueva York, Asia, quieren operar todo y
+
+[00:06:55]
+no se puede. ¿Por qué? porque necesitas
+
+[00:06:57]
+conseguir esa paz mental o el trading
+
+[00:07:00]
+genera ese estrés, esa ansiedad en
+
+[00:07:02]
+exceso. Genera estrés y ansiedad en
+
+[00:07:04]
+exceso. Entonces, necesitas tus
+
+[00:07:06]
+descansos y necesitas dejar ese tipo de
+
+[00:07:09]
+adicción. Y bien, dice este post de este
+
+[00:07:11]
+chico que me parece también muy
+
+[00:07:15]
+correcto, que es el tema de que mucha
+
+[00:07:17]
+gente simplemente no la acepta. No
+
+[00:07:19]
+aceptas que estás viviendo o que estás
+
+[00:07:22]
+teniendo una adicción al trading o estás
+
+[00:07:24]
+sobreoperando.
+
+[00:07:26]
+Entonces, tienes que aceptar que estás
+
+[00:07:27]
+sobreoperando y que tienes un problema y
+
+[00:07:30]
+que deberías de tener un horario
+
+[00:07:31]
+calculado de dos o tr horas al día para
+
+[00:07:34]
+que las demás horas puedas hacer tu
+
+[00:07:35]
+trabajo normal o lo que sea. Inclusive
+
+[00:07:38]
+yo que tengo ahora todo el tiempo del
+
+[00:07:39]
+mundo que vivo del trading, tengo mi
+
+[00:07:41]
+rutina donde opero tr o 4 horas en la en
+
+[00:07:45]
+la mañana y después me pongo a hacer mis
+
+[00:07:47]
+cosas. En el caso de la academia, que es
+
+[00:07:49]
+mi como mi segundo trabajo, eh los
+
+[00:07:52]
+videos, todo lo que hago para ustedes,
+
+[00:07:54]
+este es como mi segundo trabajo porque
+
+[00:07:56]
+necesito tener esa rutina que me permita
+
+[00:08:00]
+a mí no estar adicto al trading.
+
+[00:08:02]
+Entonces, este punto yo creo que es muy
+
+[00:08:04]
+importante y si tienes una adicción al
+
+[00:08:07]
+trading, debes de centrarte y
+
+[00:08:10]
+reflexionar en ti mismo y poner un
+
+[00:08:12]
+horario específico donde tú tengas tres
+
+[00:08:15]
+o cu horas de trading y después de eso
+
+[00:08:18]
+deja de hacer trading, simplemente
+
+[00:08:20]
+descansa la mente y vuelve al día
+
+[00:08:21]
+siguiente más enfocado. Es algo que me
+
+[00:08:23]
+ayuda mucho a mí la consistencia, que yo
+
+[00:08:25]
+me despego de la pantalla, dejo de ver
+
+[00:08:28]
+el gráfico totalmente y el día siguiente
+
+[00:08:30]
+vuelvo más enfocado. También los fines
+
+[00:08:32]
+de semana. Mucha gente quiere estar los
+
+[00:08:34]
+fines de semana haciendo back testing,
+
+[00:08:35]
+quieren estar despéjate también. Es
+
+[00:08:39]
+importante que tú también te despejes.
+
+[00:08:42]
+¿Por qué? Porque quieren estar 24 horas
+
+[00:08:44]
+al día operando, quieren estar los fines
+
+[00:08:47]
+de semana operando el Bitcoin, quieren
+
+[00:08:49]
+estarlos todo el rato operando y no es
+
+[00:08:52]
+saludable. Es importante que tú tengas
+
+[00:08:55]
+ese punto de saber eh descansar, tener
+
+[00:08:59]
+tus descansos periódicos que creo que te
+
+[00:09:01]
+van a ayudar muchísimo en en esto en
+
+[00:09:03]
+esta carrera del trading que es a largo
+
+[00:09:05]
+plazo. Es el trading es una maratón, no
+
+[00:09:08]
+es una carrera de corto plazo. Entonces
+
+[00:09:10]
+deberías de tener una rutina bien
+
+[00:09:12]
+robusta para permitirte sobrevivir en el
+
+[00:09:15]
+largo plazo.
+
+[00:09:17]
+Punto número tres, estás buscando una
+
+[00:09:20]
+estrategia que no existe.
+
+[00:09:23]
+Nos la pasamos buscando la estrategia
+
+[00:09:25]
+perfecta o el Santo Grial.
+
+[00:09:28]
+Y la estrategia perfecta no existe. Veo
+
+[00:09:32]
+que muchas personas cometen este error
+
+[00:09:34]
+en el trading. Están buscando un sistema
+
+[00:09:35]
+Santo Grial, un sistema de trading que
+
+[00:09:38]
+les permita ganar el 90% del tiempo y al
+
+[00:09:40]
+mismo tiempo tener operaciones con una
+
+[00:09:42]
+relación riesgo beneficio 1 a tr. 90% de
+
+[00:09:45]
+winray y ganar tres veces. No existe.
+
+[00:09:49]
+Lamento informarte que no existe. Todo
+
+[00:09:51]
+lo que necesitas es una simple, un
+
+[00:09:53]
+sistema simple que sea rentable. Por
+
+[00:09:55]
+ejemplo, un sistema RR1 con una tasa de
+
+[00:09:57]
+victorias de 60% es perfecto. Así un
+
+[00:10:00]
+sistema 1 a 2 o 1 a 2.5 con una tasa de
+
+[00:10:03]
+victorias del 37 40% deja de buscar
+
+[00:10:06]
+resultados imposibles. Todo sistema de
+
+[00:10:09]
+trading atravesará periodos de caída.
+
+[00:10:11]
+Eso es lo eh eso solo parte del juego,
+
+[00:10:13]
+pero mientras tenga una ventaja, ganarás
+
+[00:10:15]
+dinero a largo plazo. Así que simplifica
+
+[00:10:18]
+tus operaciones y deja de buscar un
+
+[00:10:20]
+sistema de operaciones perfecto que no
+
+[00:10:22]
+existe. No existe la perfección en los
+
+[00:10:25]
+en los mercados ni tampoco existe la
+
+[00:10:28]
+estrategia perfecta. Punto número
+
+[00:10:30]
+cuatro, que vamos por aquí bastante bien
+
+[00:10:33]
+con eh los puntos que te permiten no ser
+
+[00:10:38]
+rentable o consistente también a largo
+
+[00:10:41]
+plazo. No confías lo suficiente en tu
+
+[00:10:43]
+sistema o en tu estrategia. Este es un
+
+[00:10:46]
+factor importante por el cual las
+
+[00:10:48]
+personas rompen sus reglas, porque si
+
+[00:10:50]
+creyeran plenamente que pueden ganar
+
+[00:10:52]
+buen dinero simplemente negociando sus
+
+[00:10:54]
+reglas, siempre la seguirían a la
+
+[00:10:56]
+perfección. No tienes la confianza en tu
+
+[00:10:59]
+estrategia. y rompes tu plan de trading
+
+[00:11:01]
+constantemente porque no confías en tu
+
+[00:11:03]
+sistema. El hecho de que las personas
+
+[00:11:05]
+rompan sus reglas comerciales significa
+
+[00:11:07]
+que no tienen suficiente confianza en su
+
+[00:11:09]
+estrategia. Si no tienen esta confianza
+
+[00:11:11]
+en su estrategia, necesitan obtener más
+
+[00:11:13]
+datos sobre su estrategia. necesitas
+
+[00:11:16]
+back testearla más, practicarla un poco
+
+[00:11:18]
+más, etcétera, etcétera. Esto resolverá
+
+[00:11:22]
+todos sus problemas en términos de
+
+[00:11:24]
+confiar en tu plan de trading. Si tienen
+
+[00:11:27]
+50 operaciones que demuestran que su
+
+[00:11:29]
+sistema es rentable, es posible que crea
+
+[00:11:30]
+que puede funcionar, pero si tienen 500
+
+[00:11:33]
+operaciones que demuestran que tu
+
+[00:11:34]
+sistema es rentable, estará seguro que
+
+[00:11:36]
+tiene una ventaja a largo plazo. Puedes
+
+[00:11:39]
+utilizar FX Replay. Yo creo que FK
+
+[00:11:41]
+Replay está bastante bonito para hacer
+
+[00:11:43]
+back testing. Hablando del back testing,
+
+[00:11:45]
+registrar tus operaciones en vivo, te da
+
+[00:11:47]
+estadísticas y cualquier software de
+
+[00:11:49]
+back testing, ¿no? Para tener confianza
+
+[00:11:52]
+o agarrar confianza en tu estrategia.
+
+[00:11:54]
+Entonces, mucha de la gente simplemente
+
+[00:11:55]
+no sigue su estrategia o no dejan correr
+
+[00:11:58]
+la operación a beneficio porque
+
+[00:12:00]
+simplemente no confían en la estrategia.
+
+[00:12:03]
+Y para tú confiar en una estrategia
+
+[00:12:05]
+tienes que conocerla. Aparte de tienes
+
+[00:12:07]
+que operar o tener experiencia en esa
+
+[00:12:10]
+estrategia, no pretendas estar full
+
+[00:12:12]
+confiado en tu estrategia cuando no
+
+[00:12:14]
+tienes tiempo dominándola. Yo mi
+
+[00:12:16]
+estrategia, por ejemplo, tengo 5 6 años
+
+[00:12:19]
+dominándola o operándola. Entonces, por
+
+[00:12:22]
+eso yo es que tengo esa confianza plena
+
+[00:12:26]
+en la estrategia. ¿Por qué? Porque ya
+
+[00:12:28]
+llevo mucho tiempo operándola. Pero si
+
+[00:12:31]
+yo tuviera 2 meses, un mes con esa
+
+[00:12:33]
+estrategia, pues no voy a tener
+
+[00:12:35]
+confianza aún y va a tener muchos
+
+[00:12:37]
+detalles. Es importante entonces que
+
+[00:12:39]
+hagas el buen back testing y que
+
+[00:12:40]
+registres todas tus operaciones para que
+
+[00:12:43]
+puedas aprender de esa estrategia. Eh,
+
+[00:12:45]
+punto número cinco, agregas en lugar de
+
+[00:12:47]
+quitar. Todos piensan que solo necesitan
+
+[00:12:49]
+agregar cosas a su sistema comercial
+
+[00:12:51]
+para que sea perfecto. O sea, siempre
+
+[00:12:54]
+estás agregándole cosas, pero no filtra
+
+[00:12:57]
+las cosas que ya no te funcionan.
+
+[00:13:00]
+creen que añadiendo un determinado
+
+[00:13:02]
+indicador, una confluencia extra,
+
+[00:13:04]
+resolverán todos sus problemas, pero los
+
+[00:13:06]
+mejores traders saben que debes de
+
+[00:13:08]
+quitar cosas de tu sistema, no
+
+[00:13:09]
+agregarlas. Adopte una estrategia
+
+[00:13:12]
+estrategia sencilla de soporte o
+
+[00:13:14]
+resistencia. O sea, una estrategia de
+
+[00:13:16]
+soporte y resistencias puede funcionar
+
+[00:13:18]
+igual, simplemente que sea simple.
+
+[00:13:22]
+Eh, si si compren cada nivel de soporte
+
+[00:13:24]
+y venden cada nivel de resistencia,
+
+[00:13:26]
+probablemente no será rentable, pero si
+
+[00:13:28]
+recopila datos o muchos datos en su
+
+[00:13:31]
+sistema y descubre que lo los lunes son
+
+[00:13:34]
+tu peor día, en mi caso los viernes para
+
+[00:13:36]
+operar y los domingos eres totalmente
+
+[00:13:38]
+negativo, su configuración A, o sea,
+
+[00:13:41]
+esto también es detectar cuál es mi
+
+[00:13:43]
+mejor configuración,
+
+[00:13:45]
+eh, incluye una determinada reacción en
+
+[00:13:48]
+el precio, un determinado patrón en el
+
+[00:13:50]
+precio. Su mejor relación recompensa es
+
+[00:13:53]
+cualquier valor superior a 2R. Entonces,
+
+[00:13:56]
+todo lo que tienes que hacer es eliminar
+
+[00:13:58]
+aquellas cosas que no funcionan y puedes
+
+[00:13:59]
+convertir un sistema no rentable en uno
+
+[00:14:01]
+rentable. Elimina las cosas que no te
+
+[00:14:04]
+están funcionando. Si los dos RS no te
+
+[00:14:06]
+funcionan, las tres RS no te funcionan,
+
+[00:14:08]
+puedes eh probar una R, puedes probar
+
+[00:14:11]
+otro tipo de formas de salida, puedes
+
+[00:14:14]
+probar ciertas cosas que no te están
+
+[00:14:16]
+funcionando, quítalas y lo que te
+
+[00:14:18]
+funciona, déjalo. Es mi la misma opinión
+
+[00:14:21]
+que yo tengo a los chicos que siempre me
+
+[00:14:23]
+preguntan por indicadores. La estrategia
+
+[00:14:25]
+CRT, por ejemplo, no utilizamos
+
+[00:14:26]
+indicadores y siempre me están
+
+[00:14:28]
+preguntando los chicos, "¿Y bueno,
+
+[00:14:29]
+Gustavo, los indicadores son buenos o no
+
+[00:14:32]
+son buenos?" Y yo les digo, si te sirve,
+
+[00:14:35]
+si te agrega valor, úsalo, pero si
+
+[00:14:38]
+solamente te está confundiendo, no
+
+[00:14:40]
+utilices ese indicador porque
+
+[00:14:42]
+probablemente te va a hacer dañino a tu
+
+[00:14:44]
+sistema. probablemente no va a ser eh te
+
+[00:14:49]
+va a confundir. Si solamente te confunde
+
+[00:14:51]
+y no agrega valor a tu sistema, ¿por qué
+
+[00:14:54]
+entonces tendrías que usar un indicador
+
+[00:14:56]
+de trading? Y es lo mismo si tienes una
+
+[00:14:58]
+regla que te confunde, si tienes una
+
+[00:15:00]
+regla que no te da confianza, si entras
+
+[00:15:02]
+en el el Fire Value Gap o el imbalance,
+
+[00:15:06]
+el IFBG, este, y no te da confianza
+
+[00:15:09]
+entrar de esa manera, ¿por qué deberías
+
+[00:15:11]
+de tener ese sistema así? Ten cosas o
+
+[00:15:14]
+confirmaciones que te den confianza, que
+
+[00:15:17]
+te permitan a ti tomar mejores
+
+[00:15:18]
+decisiones en tu trading. Por ejemplo,
+
+[00:15:20]
+si dejaste de operar los lunes, dejaste
+
+[00:15:22]
+de tomar configuraciones que fueran
+
+[00:15:23]
+menores a 2R, dejaste de tomar
+
+[00:15:25]
+configuraciones que no tuvieran tu
+
+[00:15:26]
+patrón A. Yo siempre les digo, traten de
+
+[00:15:29]
+empezar a buscar sus operaciones que
+
+[00:15:31]
+sean de mayor probabilidad. Hay
+
+[00:15:34]
+operaciones que tú las puedes tomar,
+
+[00:15:36]
+pero hay operaciones que simplemente las
+
+[00:15:39]
+puedes tomar, pero no son operaciones
+
+[00:15:41]
+más óptimas. Dejen de hacer cantidad y
+
+[00:15:43]
+agreguen calidad su trading. Entonces,
+
+[00:15:45]
+identifiquen cuáles son las operaciones
+
+[00:15:48]
+que tienen más calidad y cuáles tienen
+
+[00:15:50]
+menos para que en esas operaciones metan
+
+[00:15:53]
+un riesgo determinado, un riesgo bien
+
+[00:15:56]
+hecho, por así decirlo, un buen riesgo y
+
+[00:15:59]
+ganes como debes de ganar. Es mejor
+
+[00:16:02]
+arriesgar bastante más en una
+
+[00:16:04]
+configuración buena que estar
+
+[00:16:07]
+arriesgando poco en cualquier trade que
+
+[00:16:09]
+quieras tomar al día, ¿no? Punto número
+
+[00:16:11]
+seis. de cosas que te permiten no ser
+
+[00:16:14]
+rentable. Y aquí hay he tratado con
+
+[00:16:17]
+muchos traders, incluso traders que son
+
+[00:16:20]
+ya más experimentados
+
+[00:16:22]
+o que ya tienen más experiencia y que
+
+[00:16:25]
+han venido conmigo a que les enseñe eh
+
+[00:16:27]
+el método CRT, a que les ayude con
+
+[00:16:29]
+ciertos problemas y es el hecho de no
+
+[00:16:33]
+eres capaz de aceptar tus pérdidas. He
+
+[00:16:35]
+tratado mucho con esos eh con varios
+
+[00:16:38]
+traders que tienen un ego muy alto, son
+
+[00:16:40]
+buenos operando, pero simplemente en un
+
+[00:16:42]
+solo día queman todas las cuentas que
+
+[00:16:44]
+tenían. La línea, yo siempre he dicho,
+
+[00:16:47]
+la línea de los traders, incluso
+
+[00:16:49]
+novatos, es ascendente, siempre van para
+
+[00:16:51]
+arriba, para arriba, pero de repente en
+
+[00:16:53]
+un solo día, pum, pierden todo. Y ese es
+
+[00:16:56]
+simplemente el hecho de que no saben
+
+[00:16:58]
+aceptar los stop loss y hacen
+
+[00:17:02]
+overtrading o cometen el error de estar
+
+[00:17:05]
+operando, operando. Y lo peor que tú
+
+[00:17:07]
+puedes hacer, lo peor que tú puedes
+
+[00:17:10]
+hacer una vez tú perdiste una operación
+
+[00:17:12]
+es seguir operando. Lo mejor que tú
+
+[00:17:16]
+puedes hacer en una racha de pérdidas y
+
+[00:17:19]
+después de haber perdido una operación
+
+[00:17:21]
+es parar, detenerte, detenerte y dejar
+
+[00:17:26]
+pasar el tiempo. Yo le llamo el tiempo
+
+[00:17:28]
+de luto a la operación, a la operación
+
+[00:17:30]
+que se perdió. Por eso es una operación
+
+[00:17:32]
+muerta para ti, que ya no te representó
+
+[00:17:35]
+ganancias, que la idea se invalidó. ¿Qué
+
+[00:17:37]
+debes de hacer? Pasar, dejar pasar el
+
+[00:17:40]
+tiempo. No saben aceptar las pérdidas.
+
+[00:17:43]
+Una de mis frases favoritas sobre el
+
+[00:17:45]
+take es los ganadores son los mejores
+
+[00:17:47]
+perdedores.
+
+[00:17:49]
+Oh, qué buena frase, ¿eh? Y es verdad,
+
+[00:17:52]
+todos los trades exitosos que conozco
+
+[00:17:54]
+son realmente buenos en el manejo de sus
+
+[00:17:55]
+operaciones perdedoras. Si hablas con
+
+[00:17:58]
+ellos, nunca podrás saber si ganaron o
+
+[00:17:59]
+perdieron dinero ese día. en en
+
+[00:18:02]
+particular no dejan que eso afecte su
+
+[00:18:04]
+estado de ánimo. O sea, tú no tienes esa
+
+[00:18:07]
+expectativa sobre expectativa del trade.
+
+[00:18:10]
+Esto se debe a que los traders
+
+[00:18:12]
+experimentados saben que las pérdidas y
+
+[00:18:14]
+las reducciones son parte del juego.
+
+[00:18:17]
+Ningún trader en el mundo termina cada
+
+[00:18:19]
+mes con ganancias. Si dicen que lo
+
+[00:18:20]
+hacen, te están mintiendo.
+
+[00:18:23]
+Ser capaz de aceptar las pérdidas más
+
+[00:18:25]
+fácilmente viene con la experiencia,
+
+[00:18:27]
+pero tú también se puede hacer donde
+
+[00:18:29]
+quiera que estés en tu viaje del trading
+
+[00:18:31]
+si simplemente te recuerdas
+
+[00:18:33]
+constantemente que es normal perder y es
+
+[00:18:34]
+parte del trading. Ningún sistema de
+
+[00:18:38]
+trading tiene una tasa de éxito 100%,
+
+[00:18:41]
+por lo que si no puede soportar perderse
+
+[00:18:43]
+algunas operaciones, probablemente
+
+[00:18:44]
+debería considerar hacerte otra cosa. Si
+
+[00:18:48]
+no eres capaz de perder, podrías
+
+[00:18:50]
+dedicarte a otra cosa. Es que estamos
+
+[00:18:54]
+configurados desde que nacemos de que
+
+[00:18:57]
+perder es malo, de que si perdemos
+
+[00:19:00]
+estamos acabados. Y en el trading no es
+
+[00:19:02]
+así. En el trading lo victoria viene de
+
+[00:19:06]
+un conjunto de pérdidas y de ganancias.
+
+[00:19:09]
+Cuando yo tengo 20 operaciones y 10
+
+[00:19:12]
+fueron positivas, otras 10 fueron
+
+[00:19:15]
+negativas, pero de las 10 que fueron
+
+[00:19:17]
+positivas gané dos o tres veces más. Ahí
+
+[00:19:20]
+tengo el beneficio. No tengo el
+
+[00:19:22]
+beneficio de dos operaciones, de una
+
+[00:19:25]
+operación. Tengo el beneficio de un
+
+[00:19:26]
+conjunto de operaciones y voy a tener
+
+[00:19:29]
+una racha de pérdida sí o sí. Yo siempre
+
+[00:19:31]
+les digo, me dicen mucha gente, ¿cómo
+
+[00:19:35]
+supero esa racha de pérdidas? Detente
+
+[00:19:37]
+simplemente para y en algún momento la
+
+[00:19:40]
+racha de pérdidas se se irá y seguirá tu
+
+[00:19:44]
+sistema porque tu sistema no puedes
+
+[00:19:46]
+ganar siempre. Yo soy el primero que les
+
+[00:19:48]
+dije, tenía abril, marzo, abril, mayo,
+
+[00:19:53]
+junio, julio, seis, podríamos decir que
+
+[00:19:56]
+cinco, entre cco a 6 meses ganando
+
+[00:20:01]
+y me fue superb y luego vino agosto y
+
+[00:20:03]
+septiembre y me fue superm.
+
+[00:20:06]
+dos meses estuve con racha negativa. No
+
+[00:20:09]
+quiere decir que mi sistema no sirva o
+
+[00:20:11]
+que yo no sirva para hacer trading,
+
+[00:20:14]
+sino simplemente quiere decir que las
+
+[00:20:16]
+rachas de pérdidas y de ganancias
+
+[00:20:18]
+vienen. Como ahora en octubre que tuvo
+
+[00:20:21]
+una muy buena racha, pasamos varias
+
+[00:20:23]
+cuentas de fondeo, algunos payouts,
+
+[00:20:26]
+este, por ahí tengo alguna cuenta que
+
+[00:20:28]
+estoy intentando pasar y seguramente
+
+[00:20:30]
+vendrán mejores rachas negativas y
+
+[00:20:33]
+mejores rachas positivas. digo mejores
+
+[00:20:35]
+porque vendrán en el tiempo. Es
+
+[00:20:37]
+imposible no perder y el que veas que
+
+[00:20:40]
+nunca pierde, ese no es un buen trader o
+
+[00:20:43]
+simplemente no te está enseñando la
+
+[00:20:44]
+realidad del trading. Punto número
+
+[00:20:47]
+siete,
+
+[00:20:51]
+decirle a todo el mundo que eres un
+
+[00:20:53]
+trader.
+
+[00:20:54]
+[risas]
+
+[00:20:55]
+Hay muchas razones por las que no
+
+[00:20:57]
+deberías de hacer esto. Tus padres
+
+[00:20:59]
+estarán preocupados por ti. que el 95%
+
+[00:21:02]
+de las personas fracasan y algunas
+
+[00:21:03]
+personas se arruinan financieramente
+
+[00:21:05]
+debido al trading. Te dirán que estás
+
+[00:21:08]
+perdiendo dinero, que no sirve o lo que
+
+[00:21:10]
+sea. Bueno, chicos, que se me apagó la
+
+[00:21:12]
+cámara aquí en medio de la grabación, la
+
+[00:21:13]
+cámara eh principal y bueno, seguiremos
+
+[00:21:16]
+con la web. Eh, no, muchas personas te
+
+[00:21:19]
+digo que no entenderán eh lo que es el
+
+[00:21:21]
+trading y estarán preocupados por ti
+
+[00:21:24]
+porque estás perdiendo dinero y te dirán
+
+[00:21:26]
+que dejes del trading. Tus amigos
+
+[00:21:28]
+también te invitarán a hacerlo. Todas
+
+[00:21:30]
+las influencias negativas en tu vida se
+
+[00:21:32]
+acumularán y afectarán negativamente tus
+
+[00:21:34]
+operaciones en el trading. Plantarán
+
+[00:21:36]
+semillas de duda en tu mente y
+
+[00:21:38]
+potencialmente dañarán tus operaciones.
+
+[00:21:41]
+Lo mejor es guardártelo para ti hasta
+
+[00:21:42]
+que estés ganando. Ya una vez te vaya
+
+[00:21:44]
+bien, yo creo que ya no te juzga nadie
+
+[00:21:47]
+porque pues ya una vez te está yendo
+
+[00:21:50]
+bien, pues ya dice todo el mundo, pues
+
+[00:21:52]
+este ya es trader, ya le está yendo
+
+[00:21:53]
+bien, ya está ganando dinero. Entonces
+
+[00:21:55]
+es importante que también yo como
+
+[00:21:58]
+consejo extra te alejes todos, te alejes
+
+[00:22:00]
+de todos estos grupos de trading, a
+
+[00:22:03]
+pesar de que yo hace muchos años, por
+
+[00:22:05]
+eso yo quité los grupos que yo tenía
+
+[00:22:08]
+abiertos o públicos donde todo el mundo
+
+[00:22:10]
+podría escribir, porque no te aporta
+
+[00:22:12]
+nada. La gente solamente lo único que
+
+[00:22:14]
+está haciendo ahí es mostrar sus
+
+[00:22:16]
+operaciones ganadoras y no te muestran
+
+[00:22:19]
+nada. Yo, por ejemplo, te me gusta
+
+[00:22:21]
+siempre que estoy mostrando una
+
+[00:22:22]
+operación ganadora o perdedora,
+
+[00:22:24]
+mostrarte el porqué de la operación,
+
+[00:22:26]
+cómo la tomé, traerte una lección que
+
+[00:22:28]
+aprendas de esa operación. Y en estos
+
+[00:22:30]
+grupos de trading de WhatsApp o de lo
+
+[00:22:32]
+que sea de Telegram que está todo el
+
+[00:22:33]
+mundo hablando, todo el mundo tiene su
+
+[00:22:35]
+propio ego, alimentando su ego y
+
+[00:22:38]
+solamente están mandándote las
+
+[00:22:40]
+operaciones que están ganando, que no te
+
+[00:22:42]
+aporta nada a ti. Aquí, a ti, ¿qué te
+
+[00:22:44]
+aporta que el otro esté ganando $1,000 o
+
+[00:22:47]
+que esté ganando lo que sea?
+
+[00:22:50]
+tú lo que quieres es aprender. Aléjate
+
+[00:22:51]
+de todas esas esos esos grupos y eh las
+
+[00:22:55]
+redes sociales. Yo te recomiendo que si
+
+[00:22:57]
+no yo porque pues soy pues el youtuber,
+
+[00:23:00]
+el influencer, el youtuber de trading o
+
+[00:23:04]
+lo que tú quieras llamarme, este estoy
+
+[00:23:06]
+constantemente compartiendo lo que hago.
+
+[00:23:08]
+Pero si tú no tienes redes sociales
+
+[00:23:10]
+donde no tengas nada de este estilo,
+
+[00:23:13]
+pues yo te recomiendo que no compartas
+
+[00:23:16]
+nada. vive tu trading en silencio. Por
+
+[00:23:19]
+eso yo la peculiaridad que tengo con mis
+
+[00:23:20]
+alumnos, incluso en mi grupo privado, es
+
+[00:23:23]
+que cada uno de mis alumnos, yo siempre
+
+[00:23:25]
+les inculco esto y son así la mayoría.
+
+[00:23:28]
+Es tu proceso, focus en tu proceso.
+
+[00:23:31]
+Incluso mis traders o mis alumnos no es
+
+[00:23:33]
+que estén compartiendo todo el rato que
+
+[00:23:35]
+ganaron y que les fue muy bien. Eso no
+
+[00:23:38]
+creo que aporte nada. Si tú vas a
+
+[00:23:40]
+aportar una operación, deberías de
+
+[00:23:41]
+enseñar por qué la tomaste, cuál es el
+
+[00:23:44]
+aprendizaje que puedo tener yo que estoy
+
+[00:23:46]
+viendo tu operación. Entonces, eh es
+
+[00:23:48]
+bien importante esto de las redes
+
+[00:23:50]
+sociales. Hoy en 2025 que estoy grabando
+
+[00:23:52]
+esto, finales ya casi noviembre, este
+
+[00:23:55]
+decirles que aléjense de las redes
+
+[00:23:57]
+sociales para compartir cosas y sigan su
+
+[00:24:01]
+proceso en silencio. Sigan su proceso en
+
+[00:24:04]
+silencio, que creo que les va a venir
+
+[00:24:05]
+bastante bien. Bueno, ya estamos
+
+[00:24:08]
+terminando de por este video decirles
+
+[00:24:11]
+que este era el último punto de
+
+[00:24:14]
+importante, el último punto que quería
+
+[00:24:16]
+traerles, el hecho de vivir como en
+
+[00:24:19]
+silencio y creo que son unos puntos que
+
+[00:24:21]
+te están eh que están ayudando o que te
+
+[00:24:25]
+van a ayudar a mejorar o a o a revertir
+
+[00:24:28]
+esos malos resultados en tu trading,
+
+[00:24:31]
+¿no? Mejorar considerablemente la
+
+[00:24:33]
+aceptación de pérdidas. La clave es
+
+[00:24:35]
+tener varias cuentas para diferentes
+
+[00:24:37]
+marcos de gestión de riesgo.
+
+[00:24:38]
+Diversificar. Yo al principio con esto
+
+[00:24:40]
+de las cuentas, de tener muchas cuentas,
+
+[00:24:43]
+yo te recomiendo que al principio tengas
+
+[00:24:46]
+pocas para que te enfoques en aprender y
+
+[00:24:48]
+ser consistente. Y ya a menudo que tú ya
+
+[00:24:52]
+seas un profesional o que ya tengas
+
+[00:24:54]
+cierto, por así decirlo,
+
+[00:24:57]
+éxito
+
+[00:24:59]
+en esto, ya ahora sí yo te recomendaría
+
+[00:25:02]
+que ya puedas tener varias cuentas con
+
+[00:25:05]
+las cuentas de trading. Pero bueno, yo
+
+[00:25:07]
+creo que han sido estas algunos puntos
+
+[00:25:09]
+importantes de por qué estás alejado de
+
+[00:25:13]
+la rentabilidad o de sí de la
+
+[00:25:15]
+rentabilidad en el trading. Eh, de todo
+
+[00:25:18]
+corazón espero que te haya gustado, que
+
+[00:25:20]
+te sirva bastante. Hicimos un poco unos
+
+[00:25:23]
+30 minutitos. Trataré de traerles más
+
+[00:25:25]
+videos formato tipo podcast este a este
+
+[00:25:29]
+canal y más consejitos. Déjenme en los
+
+[00:25:32]
+comentarios qué temas más quieren que
+
+[00:25:34]
+hable y seguramente pues estaré leyendo
+
+[00:25:37]
+esos comentarios para traerles más temas
+
+[00:25:39]
+acerca del trading, pero yo creo que
+
+[00:25:41]
+este episodio ha estado bastante bien,
+
+[00:25:43]
+siete puntitos, este tampoco lo vamos a
+
+[00:25:45]
+dejar demasiado largo y y nada más nada
+
+[00:25:48]
+más nada más nada más que aportarles,
+
+[00:25:49]
+decirles que les deseo lo mejor en su en
+
+[00:25:51]
+su trading. Abajo en la descripción
+
+[00:25:53]
+tienen todas mis redes sociales para que
+
+[00:25:56]
+se unan ahí a mi Instagram, me sigan por
+
+[00:25:58]
+ahí. Estamos en los 10000 suscriptores.
+
+[00:26:01]
+Se pueden suscribir a este bello y
+
+[00:26:02]
+hermoso canal, al canal principal
+
+[00:26:04]
+también donde estamos trayendo la
+
+[00:26:05]
+estrategia de SRT, este bello y hermoso
+
+[00:26:08]
+canal que estamos trayendo este tipo de
+
+[00:26:09]
+contenido diferente o distinto, formato
+
+[00:26:12]
+podcast, formato más así dándoles
+
+[00:26:14]
+consejos de psicotrading, cositas así.
+
+[00:26:17]
+estaré trayendo más contenido sobre este
+
+[00:26:19]
+frecuentemente. Se pueden suscribir a
+
+[00:26:21]
+los dos canales, síganme por ahí en
+
+[00:26:23]
+Instagram, intégrense a mi comunidad que
+
+[00:26:26]
+luego les estoy dando clases privadas
+
+[00:26:27]
+también por ahí, clases que no las van a
+
+[00:26:29]
+encontrar en ningún lado, solamente para
+
+[00:26:31]
+mi comunidad de Telegram, de WhatsApp y
+
+[00:26:34]
+también en Instagram. Síganme por ahí.
+
+[00:26:36]
+Espero que les haya gustado bastante y
+
+[00:26:38]
+nos vamos a estar viendo en un siguiente
+
+[00:26:41]
+episodio, en una siguiente misión por
+
+[00:26:42]
+ahí. Dejen su buen like y bueno, ya
+
+[00:26:45]
+saben, se les quiere muchísimo y nos
+
+[00:26:47]
+vemos.
+```

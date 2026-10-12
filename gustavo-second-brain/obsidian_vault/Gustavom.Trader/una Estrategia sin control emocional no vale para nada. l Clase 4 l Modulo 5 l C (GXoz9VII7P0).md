@@ -1,0 +1,760 @@
+---
+source_id: YT_CANAL_02_GXoz9VII7P0
+video_id: GXoz9VII7P0
+channel: "Gustavom.Trader"
+published_at: 2024-10-26
+url: https://www.youtube.com/watch?v=GXoz9VII7P0
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 6
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# una Estrategia sin control emocional no vale para nada. l Clase 4 l Modulo 5 l CursoTrading
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=GXoz9VII7P0)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Qué pasa a todos chicos estamos en
+
+[00:00:01]
+un nuevo video esta vez mentoría
+
+[00:00:03]
+gratuita 2024 estamos en el módulo 5
+
+[00:00:06]
+llegando ya a las últimas dos clases
+
+[00:00:08]
+esta vez la clase número cuatro en esta
+
+[00:00:10]
+clase vamos a hablar de la psicología
+
+[00:00:12]
+enfocada a mi estrategia Qué tipo de
+
+[00:00:15]
+psicología tengo que tener yo para tener
+
+[00:00:17]
+una buena estrategia yo voy a a
+
+[00:00:19]
+entrelazar dos cosas que es estrategia y
+
+[00:00:22]
+psicología qué psicología tengo que
+
+[00:00:25]
+tener yo para tener una buena estrategia
+
+[00:00:28]
+o para que mi estrategia funcione para
+
+[00:00:30]
+poder ejecutar bien mi estrategia
+
+[00:00:31]
+algunas personas me dicen Gustavo yo
+
+[00:00:34]
+tengo una buena estrategia pero no soy
+
+[00:00:36]
+capaz de ejecutarla bien No la cumplo no
+
+[00:00:39]
+cumplo el plan de trading me trabo por
+
+[00:00:41]
+ahí este de repente hago lo que quiero
+
+[00:00:43]
+Entonces vamos a hablar precisamente de
+
+[00:00:45]
+eso el día de hoy entonces entender el
+
+[00:00:47]
+concepto detrás qué tiene que ver la
+
+[00:00:49]
+psicología con la estrategia mucho
+
+[00:00:52]
+muchas personas creen que solamente
+
+[00:00:55]
+teniendo una estrategia es suficiente y
+
+[00:00:57]
+no la psicología detrás de tu estrategia
+
+[00:01:01]
+es bien importante entonces para
+
+[00:01:03]
+analizar comportamientos que tienes y
+
+[00:01:05]
+que a través de tu estrategia te obliga
+
+[00:01:07]
+a operar de alguna forma que te
+
+[00:01:09]
+beneficie mejor ya y que en ciertos
+
+[00:01:12]
+errores que pudieras cometer no los
+
+[00:01:15]
+comet además de enfocarse en
+
+[00:01:17]
+exclusivamente donde eres mejor donde
+
+[00:01:20]
+Según tu tiempo y habilidades salgas
+
+[00:01:22]
+beneficiado entonces precisamente vas a
+
+[00:01:25]
+analizar los comportamientos que tú
+
+[00:01:27]
+tienes Y a partir de ahí vas a vas a
+
+[00:01:30]
+analizar las habilidades que tienes y
+
+[00:01:32]
+vas a usar una estrategia que se que
+
+[00:01:35]
+seas mejor con esas habilidades ejemplo
+
+[00:01:38]
+Gustavo bueno Un ejemplo muy práctico yo
+
+[00:01:41]
+soy muy bueno dejando correr el precio
+
+[00:01:43]
+entonces voy a utilizar una estrategia
+
+[00:01:45]
+que se enfoque en perfeccionar o en
+
+[00:01:47]
+tener esa habilidad o que se agarre de
+
+[00:01:50]
+esa habilidad más yo soy muy malo
+
+[00:01:53]
+operando
+
+[00:01:55]
+en en bajas temporalidades entonces voy
+
+[00:01:57]
+a utilizar una estrategia que sea buena
+
+[00:01:59]
+en altas temporalidades y no en bajas
+
+[00:02:01]
+temporalidades lo primero que vamos a
+
+[00:02:03]
+hacer es adaptar tu estrategia A pasos
+
+[00:02:06]
+corregir los puntos donde sufro más o
+
+[00:02:08]
+menos dónde son mis debilidades Y dónde
+
+[00:02:11]
+son mis fortalezas número dos que los
+
+[00:02:13]
+parámetros sean puestos según me
+
+[00:02:15]
+beneficias más de acuerdo a mis
+
+[00:02:17]
+habilidades de pensamiento Qué son las
+
+[00:02:19]
+habilidades de pensamiento son mis
+
+[00:02:21]
+comportamientos como yo pienso como yo
+
+[00:02:23]
+razono qué me afecta más qué me afecta
+
+[00:02:26]
+menos esto de psicología
+
+[00:02:30]
+tu estrategia es estudiarte a ti mismo
+
+[00:02:32]
+dónde eres mejor y dónde eres peor y en
+
+[00:02:34]
+base a eso hacer tu estrategia o
+
+[00:02:37]
+modificar tu estrategia o moldear una
+
+[00:02:39]
+estrategia que ya tiene otra persona que
+
+[00:02:41]
+detecte los patrones errores que tengo y
+
+[00:02:44]
+mi estrategia eh genero reglas para no
+
+[00:02:47]
+cometer más esos errores detecto los
+
+[00:02:50]
+comportamientos que tengo yo Ah soy
+
+[00:02:52]
+bueno acá soy peor acá soy mejor acá a
+
+[00:02:55]
+partir de eso qué hago okay Aquí estoy
+
+[00:02:58]
+detectando que estoy fallando mucho
+
+[00:03:01]
+entonces según mi estrategia voy a
+
+[00:03:04]
+cambiar eso y voy a generar una nueva
+
+[00:03:07]
+regla que me permita cambiar
+
+[00:03:09]
+eso que tenga paz y tranquilidad al
+
+[00:03:12]
+estar operando esa estrategia Pues yo
+
+[00:03:14]
+estoy muy tranquilo con c la que puse
+
+[00:03:17]
+ejemplo muchas veces ven una estrategia
+
+[00:03:19]
+y dicen la estrategia fulanita de tal el
+
+[00:03:22]
+block el order block la estrategia de
+
+[00:03:24]
+smartmic es va dice El chaval que la
+
+[00:03:28]
+está enseñando la persona que le está
+
+[00:03:30]
+enseñando usa un 1 a 15 pero realmente
+
+[00:03:33]
+cuando tú te vas a pensar a operar No tú
+
+[00:03:36]
+no eres bueno con el 1 a 15 porque
+
+[00:03:39]
+psicológicamente te afecta tú
+
+[00:03:41]
+Generalmente tomas máximo el uno a tres
+
+[00:03:43]
+o Entonces es mejor o conveniente que
+
+[00:03:47]
+adoptes esta misma estrategia pero que
+
+[00:03:49]
+modifiques a la mejor el rr y subas el
+
+[00:03:53]
+Stop loss más grande y aumentes el Win
+
+[00:03:56]
+rate de tu estrategia son detallitos que
+
+[00:03:59]
+vas a tú poder ir mejorando número cinco
+
+[00:04:02]
+que mi estrategia sea simple de
+
+[00:04:04]
+interpretar por lo tanto no me confunda
+
+[00:04:06]
+al entrar o tomar decisiones una
+
+[00:04:08]
+estrategia que yo
+
+[00:04:09]
+entienda no sirve de nada tener una
+
+[00:04:12]
+estrategia de tal persona mía de Gustavo
+
+[00:04:15]
+de quien sea pero no la entiendo me
+
+[00:04:17]
+confundo hay conceptos que me confundo y
+
+[00:04:20]
+al final no sé no tengo la claridad para
+
+[00:04:23]
+entrar a una entrada o para ejecutar una
+
+[00:04:25]
+entrada Se que si soy mejor mejor o peor
+
+[00:04:30]
+por ejemplo dejando mucho tiempo un
+
+[00:04:32]
+Trade abierto o no Porque
+
+[00:04:34]
+psicológicamente estoy mejor de una
+
+[00:04:36]
+forma u otra ao mi estrategia a Eso
+
+[00:04:40]
+Tienen que ustedes estudiar las
+
+[00:04:42]
+habilidades donde son mejores o peores Y
+
+[00:04:44]
+a partir de ahí ver su estrategia muchas
+
+[00:04:47]
+personas son muy buenas como punto de
+
+[00:04:50]
+ejemplo entrando en el Trade de
+
+[00:04:53]
+precisión son muy buenas tomando el
+
+[00:04:55]
+Trade sniping y el punto y el blo Exacto
+
+[00:04:58]
+ahí refinan mucho son bien buenas ahí
+
+[00:05:00]
+entonces aprovéchese de eso adapte su
+
+[00:05:04]
+estrategia que se enfoque En
+
+[00:05:06]
+eso yo por ejemplo no es mi caso yo esty
+
+[00:05:09]
+muy malo entrando en el punto exacto y
+
+[00:05:11]
+aún así soy rentable y gano dinero pero
+
+[00:05:14]
+porque aprovecho las habilidades donde
+
+[00:05:15]
+soy mejor y las que soy peor permito o
+
+[00:05:19]
+le doy juego con mi estrategia a no a
+
+[00:05:23]
+que a una aunque yo no sea mejor en eso
+
+[00:05:26]
+gane dinero Aún así O sea rentable bueno
+
+[00:05:28]
+ahora tenemos tres factores psicológicos
+
+[00:05:30]
+a la hora de ejecutar una estrategia de
+
+[00:05:32]
+Trade Qué son los tres factores que
+
+[00:05:34]
+debería tener en cuenta cuando ejecuto
+
+[00:05:36]
+una estrategia primero lo que tenemos
+
+[00:05:38]
+que tener Es autoconfianza tener
+
+[00:05:41]
+confianza en uno mismo y en la
+
+[00:05:42]
+estrategia de trading es esencial los
+
+[00:05:45]
+traders que confían en sus habilidades y
+
+[00:05:47]
+en sus decisiones tienden a ser más
+
+[00:05:49]
+consistentes y menos propensos a dudar
+
+[00:05:52]
+de sus acciones en momentos críticos sin
+
+[00:05:54]
+embargo es importante que esta confianza
+
+[00:05:57]
+no se convierta en exceso de confianza
+
+[00:05:59]
+lo cual cual puede llevar a tomar
+
+[00:06:00]
+riesgos innecesarios confiar en tu
+
+[00:06:03]
+estrategia mediante Cómo se hace Back
+
+[00:06:05]
+testing que les enseñé en las clases
+
+[00:06:07]
+pasadas Confía en tu estrategia yo sé
+
+[00:06:10]
+que mi estrategia a largo plazo va a ser
+
+[00:06:11]
+rentable entonces tengo que seguir
+
+[00:06:13]
+ejecutando como mi estrategia me lo dice
+
+[00:06:16]
+luego tenemos número dos control del
+
+[00:06:18]
+estrés es bien importante saber
+
+[00:06:20]
+dosificar el estrés saber que cuando yo
+
+[00:06:22]
+estoy sometido a un mercado estoy
+
+[00:06:24]
+tradeando voy a estar teniendo
+
+[00:06:26]
+subconscientemente estrés ansiedad
+
+[00:06:28]
+desgaste mental Entonces el trading
+
+[00:06:30]
+puede ser una actividad muy estresante
+
+[00:06:32]
+debido a la incertidumbre del mercado y
+
+[00:06:33]
+la posibilidad de pérdidas la capacidad
+
+[00:06:36]
+de manejar el estrés de manera efectiva
+
+[00:06:38]
+permite tomar decisiones racionales y
+
+[00:06:40]
+evitar comportamientos impulsivos
+
+[00:06:43]
+técnicas como la meditación ejercicio y
+
+[00:06:46]
+una buena higiene del sueño pueden
+
+[00:06:48]
+ayudar a controlar el estrés ahí hay
+
+[00:06:51]
+tres claves importantes muchos dicen
+
+[00:06:53]
+cómo mejoro mi mentalidad meditación
+
+[00:06:56]
+ejercicio buena higiene y buen sueño
+
+[00:06:59]
+mentalidad de crecimiento adoptar una
+
+[00:07:02]
+mentalidad de crecimiento en lugar de
+
+[00:07:03]
+una mentalidad fija es fundamental para
+
+[00:07:05]
+el éxito a largo plazo los traders con
+
+[00:07:08]
+una mentalidad de crecimiento ven los
+
+[00:07:10]
+errores y las pérdidas como
+
+[00:07:11]
+oportunidades de aprendizaje y mejora
+
+[00:07:14]
+esta actitud les permite adaptarse y
+
+[00:07:15]
+mejorar ver todo como oportunidad de
+
+[00:07:18]
+mejora perdí pero voy a mejorar qué es
+
+[00:07:21]
+lo que hice mal analicé mal acá t taat
+
+[00:07:23]
+ejecuté mal la estrategia me adelanté el
+
+[00:07:26]
+precio eh No esperé mis confirmaciones
+
+[00:07:28]
+voy a mejorar
+
+[00:07:30]
+siempre estoy en constante mentalidad de
+
+[00:07:32]
+crecimiento mentalidad de mejora estoy
+
+[00:07:34]
+siempre en en también esa mentalidad de
+
+[00:07:37]
+estudiante estar aprendiendo estar
+
+[00:07:39]
+retroalimentando es bien importante
+
+[00:07:41]
+luego tenemos chicos descubrir lo que te
+
+[00:07:43]
+funciona mejor y
+
+[00:07:44]
+adaptar aquí ya tengo una serie de pasos
+
+[00:07:47]
+más específicos que es tener un plan
+
+[00:07:49]
+definido ejecutar ese plan por un tiempo
+
+[00:07:52]
+razonable ver mucha gente tiene un plan
+
+[00:07:55]
+de trading lo Ejecutan dos semanas no no
+
+[00:07:57]
+funcionó salí en pérdidas y ya se acabó
+
+[00:08:01]
+todo no tienes que tú ejecutar tu plan
+
+[00:08:04]
+de trading durante un tiempo para que lo
+
+[00:08:06]
+reconozcas y sepas cómo funciona mejor
+
+[00:08:08]
+luego es ser crítico y luego ir Buscando
+
+[00:08:11]
+los patrones de errores más comunes de
+
+[00:08:12]
+tu operativa cómo me comporto y cuáles
+
+[00:08:15]
+son mis errores patrones de errores
+
+[00:08:17]
+patrones es algo que se
+
+[00:08:19]
+repite estos son los errores que se
+
+[00:08:22]
+repite comúnmente siempre me sobr loteo
+
+[00:08:24]
+casi siempre se repite exceso de
+
+[00:08:27]
+operaciones se repite
+
+[00:08:29]
+no saber esperar confirmaciones se
+
+[00:08:32]
+repite miedo a tomar un Trade esos son
+
+[00:08:35]
+patrones según los patrones que tu viste
+
+[00:08:37]
+vas a ir Ajustando tu plan de negocio
+
+[00:08:39]
+para ser mejor eres o no muy tolerante
+
+[00:08:41]
+al riesgo deberás tener un perfil de de
+
+[00:08:43]
+más o menos arriesgado no te gusta estar
+
+[00:08:46]
+en drw down durante mucho tiempo
+
+[00:08:49]
+controlas el hecho de agregar más
+
+[00:08:50]
+posiciones una entrada eres mejor o peor
+
+[00:08:52]
+poniendo muchas entradas a la semana
+
+[00:08:55]
+todo estos tipo de detalles los tienes
+
+[00:08:57]
+que tú saber para que tú tú tengas una
+
+[00:08:59]
+estrategia sólida ahora tres elementos
+
+[00:09:02]
+para mejorar tu estrategia y psicología
+
+[00:09:04]
+medir tus resultados si no mides tus
+
+[00:09:07]
+resultados no vas a poder tener buenas
+
+[00:09:09]
+opciones de crecimiento luego número dos
+
+[00:09:11]
+seguir adelante en cada caída y aprender
+
+[00:09:14]
+de los errores No te
+
+[00:09:16]
+rindas aprende de cada caída adaptar tú
+
+[00:09:21]
+o una estrategia a ti mismo dejar los
+
+[00:09:24]
+paradigmas de que tiene que ser una
+
+[00:09:25]
+forma u otra o no adapta esta estrategia
+
+[00:09:28]
+a lo que sabes que que te funcionará
+
+[00:09:30]
+adáptate adapta la estrategia que te
+
+[00:09:32]
+enseñó Gustavo adapta la estrategia que
+
+[00:09:34]
+te que te enseñó fulanito a lo que a ti
+
+[00:09:38]
+Sabes que mejor te va a funcionar Bueno
+
+[00:09:40]
+chicos grandiosa clase gracias por haber
+
+[00:09:42]
+estado aquí si tienen alguna duda o
+
+[00:09:43]
+pregunta pueden dejármelo en los
+
+[00:09:45]
+comentarios Me pueden seguir en
+
+[00:09:46]
+instagram como Gustavo m. Trader Síganme
+
+[00:09:49]
+en instagram estaré contestando todos
+
+[00:09:51]
+sus mensajes y nos vemos en un siguiente
+
+[00:09:52]
+video suscríbanse al Canal también adiós
+```

@@ -1,0 +1,1617 @@
+[
+  {
+    "start_sec": 0.16,
+    "end_sec": 1.92,
+    "text": "El tema de SMT, ¿qué es un primero que"
+  },
+  {
+    "start_sec": 1.92,
+    "end_sec": 4.52,
+    "text": "nada, qué es una SMT? Ya le dicen así,"
+  },
+  {
+    "start_sec": 4.52,
+    "end_sec": 6.72,
+    "text": "SMT, divergencia, tiene muchos nombres,"
+  },
+  {
+    "start_sec": 6.72,
+    "end_sec": 9.2,
+    "text": "¿no? Es, por ejemplo, nosotros que"
+  },
+  {
+    "start_sec": 9.2,
+    "end_sec": 11.48,
+    "text": "usamos la metodología CRT y que tenemos"
+  },
+  {
+    "start_sec": 11.48,
+    "end_sec": 13.08,
+    "text": "este"
+  },
+  {
+    "start_sec": 13.08,
+    "end_sec": 15.68,
+    "text": "el típico Turtle sub, donde el precio"
+  },
+  {
+    "start_sec": 15.68,
+    "end_sec": 19.32,
+    "text": "toma el alto de la vela anterior y tal,"
+  },
+  {
+    "start_sec": 19.32,
+    "end_sec": 21.2,
+    "text": "este, para que se forme el Tortel Sop."
+  },
+  {
+    "start_sec": 21.2,
+    "end_sec": 23.68,
+    "text": "Por ejemplo, vamos a poner un caso como"
+  },
+  {
+    "start_sec": 23.68,
+    "end_sec": 26.52,
+    "text": "este, ¿no? Aquí"
+  },
+  {
+    "start_sec": 26.52,
+    "end_sec": 29.04,
+    "text": "el precio aquí toma el low de la vela"
+  },
+  {
+    "start_sec": 29.04,
+    "end_sec": 30.88,
+    "text": "anterior,"
+  },
+  {
+    "start_sec": 30.88,
+    "end_sec": 33.2,
+    "text": "este, y sube, ¿no? Esto para nosotros es"
+  },
+  {
+    "start_sec": 33.2,
+    "end_sec": 34.64,
+    "text": "un indicativo de que probablemente el"
+  },
+  {
+    "start_sec": 34.64,
+    "end_sec": 36.52,
+    "text": "objetivo se va a encontrar arriba, ¿no?"
+  },
+  {
+    "start_sec": 36.52,
+    "end_sec": 38.92,
+    "text": "En dentro de las velas, porque las velas"
+  },
+  {
+    "start_sec": 38.92,
+    "end_sec": 41.44,
+    "text": "están este conformadas o están hechas o"
+  },
+  {
+    "start_sec": 41.44,
+    "end_sec": 42.8,
+    "text": "el algoritmo está hecho para tomar"
+  },
+  {
+    "start_sec": 42.8,
+    "end_sec": 44.92,
+    "text": "máximos y mínimos de velas, que es donde"
+  },
+  {
+    "start_sec": 44.92,
+    "end_sec": 48.0,
+    "text": "se encuentra eh la liquidez. Ahora,"
+  },
+  {
+    "start_sec": 48.0,
+    "end_sec": 49.84,
+    "text": "dicho esto, ¿qué es eso entonces una"
+  },
+  {
+    "start_sec": 49.84,
+    "end_sec": 52.28,
+    "text": "SMT?"
+  },
+  {
+    "start_sec": 52.28,
+    "end_sec": 54.12,
+    "text": "SMT."
+  },
+  {
+    "start_sec": 54.12,
+    "end_sec": 55.56,
+    "text": "Una SMT es como una especie de"
+  },
+  {
+    "start_sec": 55.56,
+    "end_sec": 57.12,
+    "text": "divergencia en la que el parco"
+  },
+  {
+    "start_sec": 57.12,
+    "end_sec": 58.92,
+    "text": "relacionado, en este caso, si estamos"
+  },
+  {
+    "start_sec": 58.92,
+    "end_sec": 61.88,
+    "text": "hablando del NASDAQ 100, sería el SP500."
+  },
+  {
+    "start_sec": 61.88,
+    "end_sec": 63.48,
+    "text": "Este, por ejemplo, te toma la liquidez"
+  },
+  {
+    "start_sec": 63.48,
+    "end_sec": 65.36,
+    "text": "de este mínimo y el otro par no te la"
+  },
+  {
+    "start_sec": 65.36,
+    "end_sec": 68.79,
+    "text": "toma."
+  },
+  {
+    "start_sec": 68.8,
+    "end_sec": 70.08,
+    "text": "Entonces, a la hora de tú ver un rango,"
+  },
+  {
+    "start_sec": 70.08,
+    "end_sec": 71.84,
+    "text": "tú dices, realmente esto no es un rango,"
+  },
+  {
+    "start_sec": 71.84,
+    "end_sec": 74.84,
+    "text": "¿no? En este en el SP500, por ejemplo,"
+  },
+  {
+    "start_sec": 74.84,
+    "end_sec": 76.6,
+    "text": "el SP."
+  },
+  {
+    "start_sec": 76.6,
+    "end_sec": 77.92,
+    "text": "Pero como ya te la tomó en tu parco"
+  },
+  {
+    "start_sec": 77.92,
+    "end_sec": 79.56,
+    "text": "relacionado, tú asumes que ese sí será"
+  },
+  {
+    "start_sec": 79.56,
+    "end_sec": 81.96,
+    "text": "un buen rango. Vamos a poner varios"
+  },
+  {
+    "start_sec": 81.96,
+    "end_sec": 84.84,
+    "text": "ejemplos de pares, ¿no? El eurodólar con"
+  },
+  {
+    "start_sec": 84.84,
+    "end_sec": 87.4,
+    "text": "el DXI o el índice del dólar con la"
+  },
+  {
+    "start_sec": 87.4,
+    "end_sec": 91.88,
+    "text": "libra dólar. Este, el oro con la plata"
+  },
+  {
+    "start_sec": 91.88,
+    "end_sec": 93.76,
+    "text": "pares correlacionados. Funciona para"
+  },
+  {
+    "start_sec": 93.76,
+    "end_sec": 95.52,
+    "text": "pares correlacionados o inversamente"
+  },
+  {
+    "start_sec": 95.52,
+    "end_sec": 98.68,
+    "text": "correlacionados. O sea, que si uno sube,"
+  },
+  {
+    "start_sec": 98.68,
+    "end_sec": 100.64,
+    "text": "el otro baje. Por ejemplo, el dólar"
+  },
+  {
+    "start_sec": 100.64,
+    "end_sec": 103.76,
+    "text": "cuando sube baja el euro y viceversa no"
+  },
+  {
+    "start_sec": 103.76,
+    "end_sec": 105.88,
+    "text": "sube el euro, baja el dólar."
+  },
+  {
+    "start_sec": 105.88,
+    "end_sec": 107.48,
+    "text": "Por ejemplo, ahora estado subiendo el el"
+  },
+  {
+    "start_sec": 107.48,
+    "end_sec": 109.4,
+    "text": "dólar y bajando el euro. Entonces,"
+  },
+  {
+    "start_sec": 109.4,
+    "end_sec": 111.6,
+    "text": "funciona así. ¿Cómo funcionaría en un"
+  },
+  {
+    "start_sec": 111.6,
+    "end_sec": 113.36,
+    "text": "par inversamente correlacionado? Pues"
+  },
+  {
+    "start_sec": 113.36,
+    "end_sec": 114.8,
+    "text": "uno tendría que dar una señal de baja y"
+  },
+  {
+    "start_sec": 114.8,
+    "end_sec": 117.16,
+    "text": "el otro una señal de alza. Ejemplo, yo"
+  },
+  {
+    "start_sec": 117.16,
+    "end_sec": 121.4,
+    "text": "tengo un Turtle Sop de así"
+  },
+  {
+    "start_sec": 121.4,
+    "end_sec": 124.63,
+    "text": "bajista,"
+  },
+  {
+    "start_sec": 124.64,
+    "end_sec": 128.36,
+    "text": "pero en el eurodólar yo tengo un patrón"
+  },
+  {
+    "start_sec": 128.36,
+    "end_sec": 130.12,
+    "text": "así."
+  },
+  {
+    "start_sec": 130.12,
+    "end_sec": 131.8,
+    "text": "O sea, automáticamente intuiré que el"
+  },
+  {
+    "start_sec": 131.8,
+    "end_sec": 133.88,
+    "text": "precio ya no va a ir por este mínimo,"
+  },
+  {
+    "start_sec": 133.88,
+    "end_sec": 136.36,
+    "text": "sino que continuará alcista hasta"
+  },
+  {
+    "start_sec": 136.36,
+    "end_sec": 138.8,
+    "text": "llevarse el objetivo."
+  },
+  {
+    "start_sec": 138.8,
+    "end_sec": 140.16,
+    "text": "Entonces ahí se dice que hay una"
+  },
+  {
+    "start_sec": 140.16,
+    "end_sec": 143.44,
+    "text": "divergencia o un SNT entre los dos pares"
+  },
+  {
+    "start_sec": 143.44,
+    "end_sec": 145.08,
+    "text": "que están correlacionados o inversamente"
+  },
+  {
+    "start_sec": 145.08,
+    "end_sec": 147.4,
+    "text": "correlacionados."
+  },
+  {
+    "start_sec": 147.4,
+    "end_sec": 149.52,
+    "text": "Si se entiende bien esto. Entonces,"
+  },
+  {
+    "start_sec": 149.52,
+    "end_sec": 151.04,
+    "text": "ahora, ¿cómo está el aplicativo? ¿Cómo"
+  },
+  {
+    "start_sec": 151.04,
+    "end_sec": 153.24,
+    "text": "lo aplicas tú, Gustavo? En cualquier"
+  },
+  {
+    "start_sec": 153.24,
+    "end_sec": 154.64,
+    "text": "temporalidad se puede llegar a aplicar,"
+  },
+  {
+    "start_sec": 154.64,
+    "end_sec": 156.04,
+    "text": "pero por ejemplo voy a poner un ejemplo"
+  },
+  {
+    "start_sec": 156.04,
+    "end_sec": 158.36,
+    "text": "del NASDAQ 100, este que está aquí, que"
+  },
+  {
+    "start_sec": 158.36,
+    "end_sec": 160.44,
+    "text": "yo tomé una entrada al alza con la de"
+  },
+  {
+    "start_sec": 160.44,
+    "end_sec": 163.48,
+    "text": "Senti. Por ejemplo, yo voy aquí a esta"
+  },
+  {
+    "start_sec": 163.48,
+    "end_sec": 166.72,
+    "text": "gráfica, me doy cuenta que el precio"
+  },
+  {
+    "start_sec": 166.72,
+    "end_sec": 168.96,
+    "text": "formó justo este punto de aquí, este"
+  },
+  {
+    "start_sec": 168.96,
+    "end_sec": 171.64,
+    "text": "rango, ¿no? Tanto me sirve para saber"
+  },
+  {
+    "start_sec": 171.64,
+    "end_sec": 174.2,
+    "text": "entrar, por ejemplo, aquí en este load o"
+  },
+  {
+    "start_sec": 174.2,
+    "end_sec": 175.52,
+    "text": "tanto me sirve para entrar en una"
+  },
+  {
+    "start_sec": 175.52,
+    "end_sec": 178.12,
+    "text": "continuación aquí hacia este punto. Me"
+  },
+  {
+    "start_sec": 178.12,
+    "end_sec": 179.76,
+    "text": "sirve para las dos cosas. Entonces,"
+  },
+  {
+    "start_sec": 179.76,
+    "end_sec": 181.76,
+    "text": "vamos a ver los dos casos. Aquí cuando"
+  },
+  {
+    "start_sec": 181.76,
+    "end_sec": 184.64,
+    "text": "el precio no ha tomado el low este y"
+  },
+  {
+    "start_sec": 184.64,
+    "end_sec": 187.52,
+    "text": "cuando el precio lo continúa, ¿no? Mira,"
+  },
+  {
+    "start_sec": 187.52,
+    "end_sec": 189.4,
+    "text": "vemos nuestro parco relacionado. Aquí yo"
+  },
+  {
+    "start_sec": 189.4,
+    "end_sec": 191.04,
+    "text": "les recomiendo que si usan Nasdaq pues"
+  },
+  {
+    "start_sec": 191.04,
+    "end_sec": 193.8,
+    "text": "puedan hacer el SP500. En el caso del"
+  },
+  {
+    "start_sec": 193.8,
+    "end_sec": 195.24,
+    "text": "también muchas veces pasa con los"
+  },
+  {
+    "start_sec": 195.24,
+    "end_sec": 197.8,
+    "text": "brokers, esto también es otra cosa, en"
+  },
+  {
+    "start_sec": 197.8,
+    "end_sec": 199.52,
+    "text": "un broker toma la liquidez y en otro"
+  },
+  {
+    "start_sec": 199.52,
+    "end_sec": 202.6,
+    "text": "broker no la toma, etcétera, etcétera."
+  },
+  {
+    "start_sec": 202.6,
+    "end_sec": 204.52,
+    "text": "Eh, yo les recomiendo para el caso de"
+  },
+  {
+    "start_sec": 204.52,
+    "end_sec": 206.32,
+    "text": "índices, que es donde como más lo uso"
+  },
+  {
+    "start_sec": 206.32,
+    "end_sec": 209.4,
+    "text": "yo, eh, lo que tengan es el par de"
+  },
+  {
+    "start_sec": 209.4,
+    "end_sec": 210.96,
+    "text": "futuros, el contrato de futuros. Yo"
+  },
+  {
+    "start_sec": 210.96,
+    "end_sec": 213.56,
+    "text": "tengo, por ejemplo, aquí el el SP500, el"
+  },
+  {
+    "start_sec": 213.56,
+    "end_sec": 215.44,
+    "text": "de futuros. Yo opero CFDs, pero pues el"
+  },
+  {
+    "start_sec": 215.44,
+    "end_sec": 217.88,
+    "text": "de futuros es como el más fiable. Y"
+  },
+  {
+    "start_sec": 217.88,
+    "end_sec": 221.2,
+    "text": "luego después tienes el el"
+  },
+  {
+    "start_sec": 221.2,
+    "end_sec": 224.32,
+    "text": "se llama así o el SP500, ¿no? Mira,"
+  },
+  {
+    "start_sec": 224.32,
+    "end_sec": 226.04,
+    "text": "vamos a estudiar los dos para este caso"
+  },
+  {
+    "start_sec": 226.04,
+    "end_sec": 227.04,
+    "text": "que te estaba mostrando acá en la"
+  },
+  {
+    "start_sec": 227.04,
+    "end_sec": 230.88,
+    "text": "gráfica. Mira como el SP500 sí que tomó"
+  },
+  {
+    "start_sec": 230.88,
+    "end_sec": 234.12,
+    "text": "el bajo, del día anterior y luego fíjate"
+  },
+  {
+    "start_sec": 234.12,
+    "end_sec": 237.44,
+    "text": "acá como el NASDAQ 100"
+  },
+  {
+    "start_sec": 237.44,
+    "end_sec": 240.68,
+    "text": "sí que no tomó, por ejemplo, el low acá."
+  },
+  {
+    "start_sec": 240.68,
+    "end_sec": 242.32,
+    "text": "¿Ves como el Nasdaq 100 no tomó este"
+  },
+  {
+    "start_sec": 242.32,
+    "end_sec": 246.28,
+    "text": "bajo este bajo que está aquí?"
+  },
+  {
+    "start_sec": 246.28,
+    "end_sec": 248.08,
+    "text": "Entonces, automáticamente yo haría como"
+  },
+  {
+    "start_sec": 248.08,
+    "end_sec": 250.2,
+    "text": "si esto sí es un rango o como si el PC"
+  },
+  {
+    "start_sec": 250.2,
+    "end_sec": 252.96,
+    "text": "sí eliminó la liquidez del Nasdaq 100"
+  },
+  {
+    "start_sec": 252.96,
+    "end_sec": 255.24,
+    "text": "porque ya lo hizo el SP500. Hay veces"
+  },
+  {
+    "start_sec": 255.24,
+    "end_sec": 257.84,
+    "text": "que el precio sí que irá volverá a tomar"
+  },
+  {
+    "start_sec": 257.84,
+    "end_sec": 259.52,
+    "text": "el low, aunque no lo haya tomado, lo"
+  },
+  {
+    "start_sec": 259.52,
+    "end_sec": 261.28,
+    "text": "volverá a tomar, pero por lo general es"
+  },
+  {
+    "start_sec": 261.28,
+    "end_sec": 263.76,
+    "text": "así, así como te lo estoy diciendo, ya"
+  },
+  {
+    "start_sec": 263.76,
+    "end_sec": 266.2,
+    "text": "lo validamos como un rango. Entonces,"
+  },
+  {
+    "start_sec": 266.2,
+    "end_sec": 268.2,
+    "text": "¿cómo dónde, por ejemplo, estaría mi"
+  },
+  {
+    "start_sec": 268.2,
+    "end_sec": 269.88,
+    "text": "entrada? No, aquí en el en el NASD, en"
+  },
+  {
+    "start_sec": 269.88,
+    "end_sec": 271.36,
+    "text": "el SP500 primero que el que tomó la"
+  },
+  {
+    "start_sec": 271.36,
+    "end_sec": 273.44,
+    "text": "liquidez y luego en el Nasdaq 100. Al"
+  },
+  {
+    "start_sec": 273.44,
+    "end_sec": 276.2,
+    "text": "ver que ya sí tomó la liquidez el SP500,"
+  },
+  {
+    "start_sec": 276.2,
+    "end_sec": 277.88,
+    "text": "yo buscaría un rango, no sé, en cuatro,"
+  },
+  {
+    "start_sec": 277.88,
+    "end_sec": 280.08,
+    "text": "una hora. Voy a hacer algo muy sencillo,"
+  },
+  {
+    "start_sec": 280.08,
+    "end_sec": 283.4,
+    "text": "4, una hora, por ejemplo, en 4 horas"
+  },
+  {
+    "start_sec": 283.4,
+    "end_sec": 286.12,
+    "text": "aquí en esta vela o en esta vela de"
+  },
+  {
+    "start_sec": 286.12,
+    "end_sec": 287.12,
+    "text": "continuación o en esta vela de"
+  },
+  {
+    "start_sec": 287.12,
+    "end_sec": 288.96,
+    "text": "continuación y ya podrías buscar tu"
+  },
+  {
+    "start_sec": 288.96,
+    "end_sec": 291.52,
+    "text": "señal de entrada en una hora,"
+  },
+  {
+    "start_sec": 291.52,
+    "end_sec": 292.92,
+    "text": "en un rango reiniciado, un rango a"
+  },
+  {
+    "start_sec": 292.92,
+    "end_sec": 294.8,
+    "text": "favor. Por ejemplo, aquí el precio hace"
+  },
+  {
+    "start_sec": 294.8,
+    "end_sec": 296.92,
+    "text": "un rango contrario bajista, después lo"
+  },
+  {
+    "start_sec": 296.92,
+    "end_sec": 298.88,
+    "text": "reinició aquí y aquí tendrías una"
+  },
+  {
+    "start_sec": 298.88,
+    "end_sec": 301.4,
+    "text": "entrada justo en este punto cuando ha"
+  },
+  {
+    "start_sec": 301.4,
+    "end_sec": 303.12,
+    "text": "este."
+  },
+  {
+    "start_sec": 303.12,
+    "end_sec": 305.64,
+    "text": "Ya. Ahora vamos a irnos al mismo punto"
+  },
+  {
+    "start_sec": 305.64,
+    "end_sec": 308.32,
+    "text": "del NAD acción para que veas la SMT, por"
+  },
+  {
+    "start_sec": 308.32,
+    "end_sec": 309.92,
+    "text": "ejemplo."
+  },
+  {
+    "start_sec": 309.92,
+    "end_sec": 313.2,
+    "text": "Aquí está la SMT. Mira aquí"
+  },
+  {
+    "start_sec": 313.2,
+    "end_sec": 314.96,
+    "text": "SMT"
+  },
+  {
+    "start_sec": 314.96,
+    "end_sec": 316.56,
+    "text": "porque se tomó liquidez y el otro no."
+  },
+  {
+    "start_sec": 316.56,
+    "end_sec": 318.2,
+    "text": "Fue de manera muy tenue, pero igualmente"
+  },
+  {
+    "start_sec": 318.2,
+    "end_sec": 320.56,
+    "text": "lo hizo. Si vemos el SP es como el"
+  },
+  {
+    "start_sec": 320.56,
+    "end_sec": 323.48,
+    "text": "SP500, por ejemplo, perdón, el Nadda. el"
+  },
+  {
+    "start_sec": 323.48,
+    "end_sec": 325.56,
+    "text": "SP llegaba y hacía esto y el Nasdaq,"
+  },
+  {
+    "start_sec": 325.56,
+    "end_sec": 327.12,
+    "text": "fíjate que no hizo eso, no tomó la"
+  },
+  {
+    "start_sec": 327.12,
+    "end_sec": 329.28,
+    "text": "liquidez, pero entonces lo damos como"
+  },
+  {
+    "start_sec": 329.28,
+    "end_sec": 331.04,
+    "text": "válido porque ya vemos la confirmación"
+  },
+  {
+    "start_sec": 331.04,
+    "end_sec": 334.2,
+    "text": "del SP500 y ya intuimos que el precio ya"
+  },
+  {
+    "start_sec": 334.2,
+    "end_sec": 336.48,
+    "text": "no va a venir para abajo. Y entonces"
+  },
+  {
+    "start_sec": 336.48,
+    "end_sec": 338.2,
+    "text": "igualmente cuando el precio forma este"
+  },
+  {
+    "start_sec": 338.2,
+    "end_sec": 340.6,
+    "text": "rango bajista, este que está aquí"
+  },
+  {
+    "start_sec": 340.6,
+    "end_sec": 343.68,
+    "text": "bajista y lo toma, ¿verdad? Nosotros"
+  },
+  {
+    "start_sec": 343.68,
+    "end_sec": 345.72,
+    "text": "también este lo damos como que ya está"
+  },
+  {
+    "start_sec": 345.72,
+    "end_sec": 347.56,
+    "text": "en lo mismo, ¿no? Este rango está hecho"
+  },
+  {
+    "start_sec": 347.56,
+    "end_sec": 348.92,
+    "text": "o está formado, aunque no tomó la"
+  },
+  {
+    "start_sec": 348.92,
+    "end_sec": 350.44,
+    "text": "liquidez."
+  },
+  {
+    "start_sec": 350.44,
+    "end_sec": 351.92,
+    "text": "Yo me pongo exactamente, por ejemplo, en"
+  },
+  {
+    "start_sec": 351.92,
+    "end_sec": 354.04,
+    "text": "esta vela que está aquí, justo en esta"
+  },
+  {
+    "start_sec": 354.04,
+    "end_sec": 355.64,
+    "text": "vela, ves que hay un rango bajista en"
+  },
+  {
+    "start_sec": 355.64,
+    "end_sec": 357.2,
+    "text": "una hora que también se está formando en"
+  },
+  {
+    "start_sec": 357.2,
+    "end_sec": 360.04,
+    "text": "diario. Mismo rango, perdón, el el sí,"
+  },
+  {
+    "start_sec": 360.04,
+    "end_sec": 361.68,
+    "text": "la toma de liquidez en el SP y en el"
+  },
+  {
+    "start_sec": 361.68,
+    "end_sec": 363.96,
+    "text": "Nasdaq. ¿Ves que aquí, por ejemplo,"
+  },
+  {
+    "start_sec": 363.96,
+    "end_sec": 366.36,
+    "text": "observa muy bien como el SP500 lo"
+  },
+  {
+    "start_sec": 366.36,
+    "end_sec": 368.92,
+    "text": "completó y el Nasdaq no? Entonces, ahí"
+  },
+  {
+    "start_sec": 368.92,
+    "end_sec": 370.64,
+    "text": "es donde existe un SMT, una divergencia"
+  },
+  {
+    "start_sec": 370.64,
+    "end_sec": 372.6,
+    "text": "entre los dos pares. Por lo tanto,"
+  },
+  {
+    "start_sec": 372.6,
+    "end_sec": 374.12,
+    "text": "entonces nosotros lo daremos como válido"
+  },
+  {
+    "start_sec": 374.12,
+    "end_sec": 376.96,
+    "text": "en el NASDAQ porque ya el SP500 lo lo"
+  },
+  {
+    "start_sec": 376.96,
+    "end_sec": 378.68,
+    "text": "dio. Entonces, en ese caso, fíjate como"
+  },
+  {
+    "start_sec": 378.68,
+    "end_sec": 381.04,
+    "text": "ya el precio arranca para arriba, ¿no? O"
+  },
+  {
+    "start_sec": 381.04,
+    "end_sec": 383.64,
+    "text": "sube para arriba porque ya reinició ese"
+  },
+  {
+    "start_sec": 383.64,
+    "end_sec": 386.08,
+    "text": "rango, ese range."
+  },
+  {
+    "start_sec": 386.08,
+    "end_sec": 389.04,
+    "text": "En el caso también de de esto,"
+  },
+  {
+    "start_sec": 389.04,
+    "end_sec": 390.44,
+    "text": "en el caso también de esto, vamos"
+  },
+  {
+    "start_sec": 390.44,
+    "end_sec": 392.56,
+    "text": "nosotros también a ver que pasa lo mismo"
+  },
+  {
+    "start_sec": 392.56,
+    "end_sec": 395.4,
+    "text": "en 12 horas. en en las mismas 12 horas"
+  },
+  {
+    "start_sec": 395.4,
+    "end_sec": 397.88,
+    "text": "pasa lo mismo. Mira,"
+  },
+  {
+    "start_sec": 397.88,
+    "end_sec": 400.0,
+    "text": "vemos el NASDAQ 100 y aparentemente esto"
+  },
+  {
+    "start_sec": 400.0,
+    "end_sec": 402.44,
+    "text": "no sería ningún rango, ningún range."
+  },
+  {
+    "start_sec": 402.44,
+    "end_sec": 406.12,
+    "text": "¿Por qué? Porque el precio no eh tiene"
+  },
+  {
+    "start_sec": 406.12,
+    "end_sec": 408.76,
+    "text": "como esa toma de liquidez, entonces no"
+  },
+  {
+    "start_sec": 408.76,
+    "end_sec": 411.48,
+    "text": "se consía como un TLE Sop en el en el en"
+  },
+  {
+    "start_sec": 411.48,
+    "end_sec": 413.4,
+    "text": "el caso del Nasdaq 100, pero mira como"
+  },
+  {
+    "start_sec": 413.4,
+    "end_sec": 416.32,
+    "text": "en el SP500 sí que lo hizo. Por lo"
+  },
+  {
+    "start_sec": 416.32,
+    "end_sec": 417.72,
+    "text": "tanto, yo intuyo que ya el precio no va"
+  },
+  {
+    "start_sec": 417.72,
+    "end_sec": 420.64,
+    "text": "a regresar y que va a continuar alcista."
+  },
+  {
+    "start_sec": 420.64,
+    "end_sec": 422.32,
+    "text": "Si nosotros le damos play para adelante,"
+  },
+  {
+    "start_sec": 422.32,
+    "end_sec": 423.92,
+    "text": "ves como el precio va hacia el objetivo"
+  },
+  {
+    "start_sec": 423.92,
+    "end_sec": 425.24,
+    "text": "y le damos play para adelante en el"
+  },
+  {
+    "start_sec": 425.24,
+    "end_sec": 427.44,
+    "text": "Nasdaq y ves como el objetivo va por el"
+  },
+  {
+    "start_sec": 427.44,
+    "end_sec": 429.48,
+    "text": "objetivo del precio los dos pares. Mira"
+  },
+  {
+    "start_sec": 429.48,
+    "end_sec": 430.8,
+    "text": "la diferencia, por ejemplo, te voy a"
+  },
+  {
+    "start_sec": 430.8,
+    "end_sec": 432.2,
+    "text": "poner la diferencia acá en la misma"
+  },
+  {
+    "start_sec": 432.2,
+    "end_sec": 434.28,
+    "text": "temporalidad. Aquí, por ejemplo, los dos"
+  },
+  {
+    "start_sec": 434.28,
+    "end_sec": 437.08,
+    "text": "pares no es un rango este válido porque"
+  },
+  {
+    "start_sec": 437.08,
+    "end_sec": 439.64,
+    "text": "el precio no toma el bajo. Pues al que"
+  },
+  {
+    "start_sec": 439.64,
+    "end_sec": 442.84,
+    "text": "al haber un par que no toma el bajo"
+  },
+  {
+    "start_sec": 442.84,
+    "end_sec": 444.52,
+    "text": "y el otro sí, pues incrementa la"
+  },
+  {
+    "start_sec": 444.52,
+    "end_sec": 445.52,
+    "text": "probabilidad de que el precio sí vaya"
+  },
+  {
+    "start_sec": 445.52,
+    "end_sec": 447.6,
+    "text": "por este alto. Pero aquí fíjate la"
+  },
+  {
+    "start_sec": 447.6,
+    "end_sec": 449.76,
+    "text": "peculiaridad, que los dos pares, ninguno"
+  },
+  {
+    "start_sec": 449.76,
+    "end_sec": 451.88,
+    "text": "de los dos toma el bajo. Entonces,"
+  },
+  {
+    "start_sec": 451.88,
+    "end_sec": 454.44,
+    "text": "ninguno de los dos no hay SMT. Albert,"
+  },
+  {
+    "start_sec": 454.44,
+    "end_sec": 456.32,
+    "text": "entonces la probabilidad de que esto no"
+  },
+  {
+    "start_sec": 456.32,
+    "end_sec": 459.44,
+    "text": "sea un verdadero rango es alta. y mega"
+  },
+  {
+    "start_sec": 459.44,
+    "end_sec": 461.44,
+    "text": "por consiguiente lo que pasa. El precio"
+  },
+  {
+    "start_sec": 461.44,
+    "end_sec": 464.12,
+    "text": "viene y toma la liquidez en el NZDAQ y"
+  },
+  {
+    "start_sec": 464.12,
+    "end_sec": 467.32,
+    "text": "en el SP500 y tira para abajo, ¿no? La"
+  },
+  {
+    "start_sec": 467.32,
+    "end_sec": 469.88,
+    "text": "siguiente barra imprime para abajo,"
+  },
+  {
+    "start_sec": 469.88,
+    "end_sec": 472.12,
+    "text": "sigue para abajo, ¿no? Igual en el Nasda"
+  },
+  {
+    "start_sec": 472.12,
+    "end_sec": 474.12,
+    "text": "100 y por eso este no es un rango"
+  },
+  {
+    "start_sec": 474.12,
+    "end_sec": 475.72,
+    "text": "alcista."
+  },
+  {
+    "start_sec": 475.72,
+    "end_sec": 477.32,
+    "text": "Acá pasa lo contrario. ¿Por qué? Porque"
+  },
+  {
+    "start_sec": 477.32,
+    "end_sec": 483.07,
+    "text": "el precio, si te fijas, toma la liquidez"
+  },
+  {
+    "start_sec": 483.08,
+    "end_sec": 485.8,
+    "text": "en el SP y en el NASDAQ, ¿no? Entonces,"
+  },
+  {
+    "start_sec": 485.8,
+    "end_sec": 487.76,
+    "text": "esa es la diferencia. Y esto ocurre en"
+  },
+  {
+    "start_sec": 487.76,
+    "end_sec": 489.36,
+    "text": "todas las mayoría de las temporalidades,"
+  },
+  {
+    "start_sec": 489.36,
+    "end_sec": 491.64,
+    "text": "también ocurre para las confirmaciones."
+  },
+  {
+    "start_sec": 491.64,
+    "end_sec": 493.72,
+    "text": "Entonces, al menos que el precio quiera"
+  },
+  {
+    "start_sec": 493.72,
+    "end_sec": 496.08,
+    "text": "buscar una un rango más abajo de una"
+  },
+  {
+    "start_sec": 496.08,
+    "end_sec": 498.2,
+    "text": "alta temporalidad o lo que sea, pero ahí"
+  },
+  {
+    "start_sec": 498.2,
+    "end_sec": 500.68,
+    "text": "ocurrió justo así. Así. Vamos a ver, por"
+  },
+  {
+    "start_sec": 500.68,
+    "end_sec": 501.92,
+    "text": "ejemplo, si tiene confluencias de otras"
+  },
+  {
+    "start_sec": 501.92,
+    "end_sec": 502.96,
+    "text": "temporalidades, porque a veces las"
+  },
+  {
+    "start_sec": 502.96,
+    "end_sec": 506.76,
+    "text": "tiene. 8 horas, 8 horas. Mira, en 8"
+  },
+  {
+    "start_sec": 506.76,
+    "end_sec": 508.04,
+    "text": "horas no mucho porque esta habilita no"
+  },
+  {
+    "start_sec": 508.04,
+    "end_sec": 509.4,
+    "text": "me gusta demasiado, pero puede ser que"
+  },
+  {
+    "start_sec": 509.4,
+    "end_sec": 511.64,
+    "text": "en 6 horas sí."
+  },
+  {
+    "start_sec": 511.64,
+    "end_sec": 515.8,
+    "text": "Un SM, eh, que tenga también un SMT."
+  },
+  {
+    "start_sec": 515.8,
+    "end_sec": 518.36,
+    "text": "6 horas. Mira, toma low, ahí va por el"
+  },
+  {
+    "start_sec": 518.36,
+    "end_sec": 519.96,
+    "text": "extremo"
+  },
+  {
+    "start_sec": 519.96,
+    "end_sec": 521.32,
+    "text": "y mira, en 6 horas también va por el"
+  },
+  {
+    "start_sec": 521.32,
+    "end_sec": 523.68,
+    "text": "extremo. Eso está exactamente lo mismo."
+  },
+  {
+    "start_sec": 523.68,
+    "end_sec": 525.08,
+    "text": "Y esto puede ocurrir en múltiples"
+  },
+  {
+    "start_sec": 525.08,
+    "end_sec": 526.48,
+    "text": "temporalidades. Mira, en 4 horas, por"
+  },
+  {
+    "start_sec": 526.48,
+    "end_sec": 528.48,
+    "text": "ejemplo, este ya tiene este sí que es un"
+  },
+  {
+    "start_sec": 528.48,
+    "end_sec": 530.6,
+    "text": "rango en 4 horas, pero tú dirías, no hay"
+  },
+  {
+    "start_sec": 530.6,
+    "end_sec": 531.84,
+    "text": "un rango en una temporalidad mayor,"
+  },
+  {
+    "start_sec": 531.84,
+    "end_sec": 533.96,
+    "text": "solamente en 4 horas. Realmente hay un"
+  },
+  {
+    "start_sec": 533.96,
+    "end_sec": 536.2,
+    "text": "rango en diario y en 12 horas también,"
+  },
+  {
+    "start_sec": 536.2,
+    "end_sec": 537.48,
+    "text": "que son temporalidades más altas que te"
+  },
+  {
+    "start_sec": 537.48,
+    "end_sec": 539.48,
+    "text": "dan una buena confirmación de entrada,"
+  },
+  {
+    "start_sec": 539.48,
+    "end_sec": 541.84,
+    "text": "¿no? Entonces eso ocurre bastante"
+  },
+  {
+    "start_sec": 541.84,
+    "end_sec": 544.72,
+    "text": "bastante con el mercado."
+  },
+  {
+    "start_sec": 544.72,
+    "end_sec": 549.2,
+    "text": "Esto es en el caso de el Nanza 100. Yo"
+  },
+  {
+    "start_sec": 549.2,
+    "end_sec": 550.56,
+    "text": "no recuerdo qué entrada exactamente"
+  },
+  {
+    "start_sec": 550.56,
+    "end_sec": 552.16,
+    "text": "agarré, pero creo que por ahí agarré una"
+  },
+  {
+    "start_sec": 552.16,
+    "end_sec": 553.0,
+    "text": "entrada. Creo que agarré una a"
+  },
+  {
+    "start_sec": 553.0,
+    "end_sec": 555.16,
+    "text": "continuación."
+  },
+  {
+    "start_sec": 555.16,
+    "end_sec": 557.72,
+    "text": "Esto sería, o verás. Sí, 19 de"
+  },
+  {
+    "start_sec": 557.72,
+    "end_sec": 559.76,
+    "text": "diciembre. Mira,"
+  },
+  {
+    "start_sec": 559.76,
+    "end_sec": 562.24,
+    "text": "19 de diciembre."
+  },
+  {
+    "start_sec": 562.24,
+    "end_sec": 563.76,
+    "text": "Yo agarré la continuación porque ya"
+  },
+  {
+    "start_sec": 563.76,
+    "end_sec": 565.04,
+    "text": "entendía que el rango estaba, el"
+  },
+  {
+    "start_sec": 565.04,
+    "end_sec": 566.48,
+    "text": "objetivo estaba acá arriba, ¿no?"
+  },
+  {
+    "start_sec": 566.48,
+    "end_sec": 569.08,
+    "text": "Objetivo diario estaba acá arriba. Justo"
+  },
+  {
+    "start_sec": 569.08,
+    "end_sec": 571.2,
+    "text": "y agarramos esa continuación mirando,"
+  },
+  {
+    "start_sec": 571.2,
+    "end_sec": 574.04,
+    "text": "usándole esa la SMT con el con el SP500,"
+  },
+  {
+    "start_sec": 574.04,
+    "end_sec": 576.68,
+    "text": "¿no? También también muchas veces pasa,"
+  },
+  {
+    "start_sec": 576.68,
+    "end_sec": 578.68,
+    "text": "por ejemplo, que este no tomó la"
+  },
+  {
+    "start_sec": 578.68,
+    "end_sec": 580.28,
+    "text": "liquidez y el otro par sí la tomó."
+  },
+  {
+    "start_sec": 580.28,
+    "end_sec": 582.28,
+    "text": "Entonces, ahí, ¿qué haces, Gustavo? Pues"
+  },
+  {
+    "start_sec": 582.28,
+    "end_sec": 585.92,
+    "text": "muy sencillo. Si si uno ya la tomo, ya"
+  },
+  {
+    "start_sec": 585.92,
+    "end_sec": 588.24,
+    "text": "yo puedo decir o puedo intuir que ya"
+  },
+  {
+    "start_sec": 588.24,
+    "end_sec": 589.72,
+    "text": "este el objetivo está tomado y que tengo"
+  },
+  {
+    "start_sec": 589.72,
+    "end_sec": 591.08,
+    "text": "que tener cuidado con el reinicio del"
+  },
+  {
+    "start_sec": 591.08,
+    "end_sec": 593.88,
+    "text": "rango en en un par o en el otro."
+  },
+  {
+    "start_sec": 593.88,
+    "end_sec": 595.88,
+    "text": "Entonces, de esa manera se utilizan."
+  },
+  {
+    "start_sec": 595.88,
+    "end_sec": 597.32,
+    "text": "Este este es solamente un ejemplo así"
+  },
+  {
+    "start_sec": 597.32,
+    "end_sec": 598.48,
+    "text": "muy práctico para que tú vayas"
+  },
+  {
+    "start_sec": 598.48,
+    "end_sec": 600.92,
+    "text": "agarrándole como más el ritmo al tema"
+  },
+  {
+    "start_sec": 600.92,
+    "end_sec": 603.32,
+    "text": "ese. Voy voy a poder poner un ejemplo"
+  },
+  {
+    "start_sec": 603.32,
+    "end_sec": 605.96,
+    "text": "más ahorita no más lo tengo que buscar"
+  },
+  {
+    "start_sec": 605.96,
+    "end_sec": 608.68,
+    "text": "en la plata y el oro. Tengo por aquí en"
+  },
+  {
+    "start_sec": 608.68,
+    "end_sec": 611.64,
+    "text": "este caso el CFD de la del oro. Esto"
+  },
+  {
+    "start_sec": 611.64,
+    "end_sec": 613.68,
+    "text": "también ocurre muchísimo en en el par"
+  },
+  {
+    "start_sec": 613.68,
+    "end_sec": 617.28,
+    "text": "del oro también, por ejemplo, y ya eh"
+  },
+  {
+    "start_sec": 617.28,
+    "end_sec": 619.12,
+    "text": "puedo verlo. En el caso también de"
+  },
+  {
+    "start_sec": 619.12,
+    "end_sec": 621.32,
+    "text": "Bitcoin ocurre con Bitcoin, Ethereum,"
+  },
+  {
+    "start_sec": 621.32,
+    "end_sec": 622.84,
+    "text": "etcétera, etcétera, ¿no? Vamos a ver,"
+  },
+  {
+    "start_sec": 622.84,
+    "end_sec": 625.76,
+    "text": "por ejemplo, mira, estos lows, ya aquí,"
+  },
+  {
+    "start_sec": 625.76,
+    "end_sec": 627.52,
+    "text": "por ejemplo, nosotros tenemos en el 4 de"
+  },
+  {
+    "start_sec": 627.52,
+    "end_sec": 629.96,
+    "text": "noviembre del 2025, el precio no formó"
+  },
+  {
+    "start_sec": 629.96,
+    "end_sec": 631.8,
+    "text": "un rango realmente, pero tú dirás,"
+  },
+  {
+    "start_sec": 631.8,
+    "end_sec": 633.48,
+    "text": "\"Gustavo, mira, te agarró subiéndose,"
+  },
+  {
+    "start_sec": 633.48,
+    "end_sec": 635.56,
+    "text": "verad, ¿es un rango o no es un rango?\""
+  },
+  {
+    "start_sec": 635.56,
+    "end_sec": 636.8,
+    "text": "Pues muy fácil, nosotros nos vamos aquí"
+  },
+  {
+    "start_sec": 636.8,
+    "end_sec": 639.88,
+    "text": "al a la plata"
+  },
+  {
+    "start_sec": 639.88,
+    "end_sec": 643.48,
+    "text": "y mira la plata. ¿Ves la diferencia? Es"
+  },
+  {
+    "start_sec": 643.48,
+    "end_sec": 645.44,
+    "text": "la plata como eliminó low. Por lo tanto,"
+  },
+  {
+    "start_sec": 645.44,
+    "end_sec": 647.2,
+    "text": "nosotros ya sabemos que ese rango del"
+  },
+  {
+    "start_sec": 647.2,
+    "end_sec": 650.36,
+    "text": "enel oro va a ser un rango"
+  },
+  {
+    "start_sec": 650.36,
+    "end_sec": 651.68,
+    "text": "aunque no haya tomado la liquidez o la"
+  },
+  {
+    "start_sec": 651.68,
+    "end_sec": 653.4,
+    "text": "haya tomado de manera muy térme. ¿Ves el"
+  },
+  {
+    "start_sec": 653.4,
+    "end_sec": 655.88,
+    "text": "ejemplo? Y esto seguramente también vaya"
+  },
+  {
+    "start_sec": 655.88,
+    "end_sec": 657.32,
+    "text": "pasando en otras temporalidades, como en"
+  },
+  {
+    "start_sec": 657.32,
+    "end_sec": 659.92,
+    "text": "12 horas, en 6, en 8, en 4 horas, en una"
+  },
+  {
+    "start_sec": 659.92,
+    "end_sec": 662.76,
+    "text": "hora, etcétera, etcétera."
+  },
+  {
+    "start_sec": 662.76,
+    "end_sec": 664.6,
+    "text": "Mira, en 12 horas pasa lo mismo."
+  },
+  {
+    "start_sec": 664.6,
+    "end_sec": 666.8,
+    "text": "Nosotros teníamos este objetivo. Si"
+  },
+  {
+    "start_sec": 666.8,
+    "end_sec": 667.92,
+    "text": "nosotros nos vamos, por ejemplo, a la"
+  },
+  {
+    "start_sec": 667.92,
+    "end_sec": 669.64,
+    "text": "plata, nos damos cuenta que en la plata,"
+  },
+  {
+    "start_sec": 669.64,
+    "end_sec": 672.6,
+    "text": "por ejemplo, el precio no."
+  },
+  {
+    "start_sec": 672.6,
+    "end_sec": 675.36,
+    "text": "Y aquí eh ya nosotros sabiendo el"
+  },
+  {
+    "start_sec": 675.36,
+    "end_sec": 677.16,
+    "text": "diario, la temporalidad diaria tiene el"
+  },
+  {
+    "start_sec": 677.16,
+    "end_sec": 678.8,
+    "text": "objetivo y viendo la plata, que por"
+  },
+  {
+    "start_sec": 678.8,
+    "end_sec": 680.8,
+    "text": "ejemplo la plata tomó el alto, pero"
+  },
+  {
+    "start_sec": 680.8,
+    "end_sec": 682.44,
+    "text": "sabiendo que el oro le falta por tomar"
+  },
+  {
+    "start_sec": 682.44,
+    "end_sec": 684.24,
+    "text": "el objetivo, nosotros seguiríamos"
+  },
+  {
+    "start_sec": 684.24,
+    "end_sec": 686.72,
+    "text": "alcistas la plata. Hasta que el oro no"
+  },
+  {
+    "start_sec": 686.72,
+    "end_sec": 688.44,
+    "text": "tomó el objetivo, es que la plata ya"
+  },
+  {
+    "start_sec": 688.44,
+    "end_sec": 692.12,
+    "text": "pudo haber hecho el retroceso. ¿Ves?"
+  },
+  {
+    "start_sec": 692.12,
+    "end_sec": 693.24,
+    "text": "¿Ves que la plata siguió subiendo"
+  },
+  {
+    "start_sec": 693.24,
+    "end_sec": 694.6,
+    "text": "después de haber tomado el objetivo? Es"
+  },
+  {
+    "start_sec": 694.6,
+    "end_sec": 696.08,
+    "text": "porque hay un tí entre la plata y el"
+  },
+  {
+    "start_sec": 696.08,
+    "end_sec": 698.2,
+    "text": "oro. Entonces, el oro subió más todavía"
+  },
+  {
+    "start_sec": 698.2,
+    "end_sec": 700.16,
+    "text": "y ya que el oro se llevó el objetivo es"
+  },
+  {
+    "start_sec": 700.16,
+    "end_sec": 702.0,
+    "text": "cuando la plata cayó. No cayó desde que"
+  },
+  {
+    "start_sec": 702.0,
+    "end_sec": 703.92,
+    "text": "se llevó el objetivo. Este es porque"
+  },
+  {
+    "start_sec": 703.92,
+    "end_sec": 705.36,
+    "text": "había un SMT entre los dos pares"
+  },
+  {
+    "start_sec": 705.36,
+    "end_sec": 707.48,
+    "text": "correlacionados o también funciona con"
+  },
+  {
+    "start_sec": 707.48,
+    "end_sec": 711.2,
+    "text": "los inversamente correlacionados."
+  }
+]

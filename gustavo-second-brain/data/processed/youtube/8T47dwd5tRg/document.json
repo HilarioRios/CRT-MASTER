@@ -1,0 +1,53 @@
+{
+  "source_id": "YT_CANAL_01_8T47dwd5tRg",
+  "video_id": "8T47dwd5tRg",
+  "metadata": {
+    "channel": "MentoTrading",
+    "title": "Así se fondeo fácil con la estrategia CRT l Raúl Daza",
+    "url": "https://www.youtube.com/watch?v=8T47dwd5tRg",
+    "published_at": "2026-05-28",
+    "duration_sec": 269,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "testimonio"
+  },
+  "topics": ["testimonio", "gestion_de_riesgo"],
+  "concepts": [],
+  "key_ideas": [
+    {
+      "timestamp_sec": 17,
+      "title": "Antes de la mentoria: perdido en el mercado",
+      "text": "Raul cuenta que antes de la mentoria se sentia perdido en el mercado y sin una correcta interpretacion de lo que pasaba.",
+      "deep_link": "https://www.youtube.com/watch?v=8T47dwd5tRg&t=17s"
+    },
+    {
+      "timestamp_sec": 67,
+      "title": "Sin metodologia no hay avances consistentes",
+      "text": "Antes se sentia frustrado por no ver avances consistentes; el problema era no tener una metodologia o guia de estudio clara.",
+      "deep_link": "https://www.youtube.com/watch?v=8T47dwd5tRg&t=67s"
+    },
+    {
+      "timestamp_sec": 169,
+      "title": "Lo que mas valora: proceso estructurado y acompanamiento",
+      "text": "Agradece la guia y el acompanamiento, contrastandolo con estudiar muchas horas de contenido disperso sin ver resultados.",
+      "deep_link": "https://www.youtube.com/watch?v=8T47dwd5tRg&t=169s"
+    }
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 242, "text": "El resultado depende del esfuerzo, disciplina y dedicacion del alumno, no solo de la ensenanza."}
+  ],
+  "mistakes_mentioned": [],
+  "terminology": {
+    "fondeo": "Pasar la evaluacion de una cuenta financiada por un prop firm.",
+    "CRT": "Mencionado solo en el titulo del video, no se desarrolla en el contenido hablado."
+  },
+  "entities": {
+    "people": ["Raul Daza"],
+    "tools": [],
+    "markets": []
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=8T47dwd5tRg",
+  "series_note": null,
+  "chunks": []
+}

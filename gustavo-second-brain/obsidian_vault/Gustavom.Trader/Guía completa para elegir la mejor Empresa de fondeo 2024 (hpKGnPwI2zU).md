@@ -1,0 +1,580 @@
+---
+source_id: YT_CANAL_02_hpKGnPwI2zU
+video_id: hpKGnPwI2zU
+channel: "Gustavom.Trader"
+published_at: 2024-06-12
+url: https://www.youtube.com/watch?v=hpKGnPwI2zU
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 5
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Guía completa para elegir la mejor Empresa de fondeo 2024
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=hpKGnPwI2zU)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Qué tal traders cómo estamos el día
+
+[00:00:02]
+de hoy Les vengo a hablar de empresas de
+
+[00:00:04]
+fondeo Hace algunos meses estaba
+
+[00:00:06]
+haciendo revisiones de empresas de
+
+[00:00:08]
+fondeo como pueden ustedes saber están
+
+[00:00:10]
+cayendo como moscas están desapareciendo
+
+[00:00:13]
+están quebrando muchísimas empresas hay
+
+[00:00:15]
+como mucha incertidumbre en torno a esto
+
+[00:00:18]
+al menos las empresas de cfds el día de
+
+[00:00:20]
+hoy quería traer mi experiencia
+
+[00:00:21]
+hablarles un poquito sobre ello qué
+
+[00:00:23]
+pienso para que ustedes vean Cuáles son
+
+[00:00:25]
+las mejores opciones para esta mitad del
+
+[00:00:28]
+2024 entonces chicos yo les había
+
+[00:00:30]
+hablado de un top cco anteriormente mi
+
+[00:00:32]
+top cin era ftmo The Fire funded pips
+
+[00:00:35]
+funded next y the funder Trader eh
+
+[00:00:38]
+Lamentablemente funder Trader ha cerrado
+
+[00:00:40]
+ya o bueno cerraron luego volvieron es
+
+[00:00:43]
+una empresa que ya no recomiendo para
+
+[00:00:45]
+nada y bueno funden es una empresa que
+
+[00:00:48]
+yo he estado dudosa con ellas con ellos
+
+[00:00:50]
+alguna gente han tenido buenos
+
+[00:00:52]
+resultados alguna otra gente no han
+
+[00:00:54]
+tenido tan buenos resultados y de las
+
+[00:00:56]
+otras Eh me queda la empresa F funden
+
+[00:01:01]
+pips que son las dos empresas que yo
+
+[00:01:03]
+estoy recomendando el día de hoy al día
+
+[00:01:05]
+de hoy yo Actualmente estoy en las dos
+
+[00:01:08]
+estoy en ftmo haciendo un challeng
+
+[00:01:10]
+actualmente de 200,000 y estoy también
+
+[00:01:13]
+en funden pips ya fundeado con una
+
+[00:01:15]
+cuenta de 5k pero quiero ir por los
+
+[00:01:17]
+0000,000 que tienen ellos Entonces les
+
+[00:01:20]
+voy a decir los pros y los contras Y
+
+[00:01:23]
+entonces mi top c se resumiría en tres
+
+[00:01:27]
+empresas que son serían ftmo funden pip
+
+[00:01:30]
+y the fires que sigo
+
+[00:01:35]
+recomendándole porque me parece dudosa
+
+[00:01:38]
+Pero algunas personas se han retirado
+
+[00:01:39]
+les han pagado Entonces no la dejaría
+
+[00:01:42]
+como primera opción tampoco la dejo en
+
+[00:01:44]
+que es estafa ni nada pero no la
+
+[00:01:47]
+recomiendo al 100% la otra es de funder
+
+[00:01:51]
+Trader que como les digo ya tenido
+
+[00:01:53]
+muchos problemas y ya no la recomiendo
+
+[00:01:55]
+para nada entonces eh funden pips lo que
+
+[00:01:59]
+tiene es que tiene las 3b Qué son las 3b
+
+[00:02:01]
+pues las 3b es bueno bonito y barato
+
+[00:02:04]
+Entonces es la empresa más barata eh
+
+[00:02:07]
+está funcionando están pagando
+
+[00:02:09]
+actualmente acaban de meter los retiros
+
+[00:02:11]
+cada 4 días bueno todos los martes hay
+
+[00:02:15]
+retiros eh Y relativamente puedes cobrar
+
+[00:02:18]
+muy rápidamente con ellos este han
+
+[00:02:21]
+estado pagando no ha habido problemas
+
+[00:02:23]
+tien los challes más baratos los han
+
+[00:02:25]
+subido un poquitín de precio Pero igual
+
+[00:02:26]
+siguen siendo más baratos aprovecho para
+
+[00:02:28]
+decir que si quieres un s por de
+
+[00:02:30]
+descuento te voy a dejar el link abajo
+
+[00:02:31]
+en su de pips para que puedas acceder a
+
+[00:02:34]
+ello luego tenemos ftmo actualmente yo
+
+[00:02:37]
+me fui con una cuenta grande y dije no
+
+[00:02:40]
+quiero líos creo que si ftmo cierra o
+
+[00:02:42]
+quebra creo que ya dejaremos de confiar
+
+[00:02:45]
+en las empresas de fondeo estm lleva
+
+[00:02:47]
+desde el 2015 es la empresa más sólida
+
+[00:02:50]
+que hay en el mercado han tenido los
+
+[00:02:52]
+menos problemas posibles han estado
+
+[00:02:54]
+pagando desde el 2015 ya estamos
+
+[00:02:57]
+hablando que el siguiente año cumplen 10
+
+[00:02:58]
+años ya en la industria y eso no es
+
+[00:03:01]
+fácil es un recorrido bastante grande yo
+
+[00:03:03]
+creo que ftmo sigue siendo la número uno
+
+[00:03:05]
+Aunque algunas personas me dicen está
+
+[00:03:07]
+muy cara gustado está muy cara está muy
+
+[00:03:09]
+cara por lo mismo aparte para mí una red
+
+[00:03:12]
+flag o una banderita roja para las
+
+[00:03:15]
+empresas de fondeo es cuando empiezan a
+
+[00:03:17]
+eh ofrecer muchísimas promociones veo
+
+[00:03:20]
+que ftmo hace una o dos promociones al
+
+[00:03:23]
+año o tres a lo mucho Qué quiere decir
+
+[00:03:26]
+esto que cuando empiezan a a mandar
+
+[00:03:28]
+muchas promociones quiere decir que ya
+
+[00:03:30]
+la empresa están deseosos o o quieren
+
+[00:03:33]
+conseguir esa gente que que entre con
+
+[00:03:34]
+ellos porque no tienen clientes creo que
+
+[00:03:36]
+F sigue siendo la empresa número uno y
+
+[00:03:39]
+por eso la pongo como la número uno es
+
+[00:03:41]
+la más segura Yo creo que es la empresa
+
+[00:03:43]
+en la que yo hoy día Les recomiendo
+
+[00:03:45]
+mucho la cuenta swing Para si quieren
+
+[00:03:47]
+operar noticias y quieren hacer swing
+
+[00:03:49]
+trading o quieren operar noticias yo
+
+[00:03:52]
+estoy actualmente con ellos espero
+
+[00:03:54]
+fondee con el Max allocation que son los
+
+[00:03:56]
+0000,000 que se pueden con ellos y fund
+
+[00:03:59]
+p les digo que también pero eh lleva muy
+
+[00:04:03]
+poco Aún es muy nueva tenía que ser
+
+[00:04:06]
+probada más en el tiempo por lo menos
+
+[00:04:07]
+unos 4 años que pase más el tiempo que
+
+[00:04:10]
+duró my for spaw unos 4 años yo digo que
+
+[00:04:13]
+está bien y de alternativas tengo de
+
+[00:04:16]
+fers que de fir lleva desde el 2016 un
+
+[00:04:18]
+año menos que ftmo la verdad es que
+
+[00:04:21]
+están eh teniendo muy buenos resultados
+
+[00:04:24]
+no ha habido problemas serios lo único
+
+[00:04:26]
+que no me gusta es una regla de
+
+[00:04:28]
+consistencia que tienen por por ahí pero
+
+[00:04:31]
+está bien es una empresa sólida puedes
+
+[00:04:33]
+checar las reglas con ellos eh Te voy a
+
+[00:04:36]
+dejar también mi link de descuento para
+
+[00:04:38]
+si quieres comprar un challenge con
+
+[00:04:40]
+defers eh la verdad es que es una
+
+[00:04:43]
+empresa sólida y es una buena
+
+[00:04:45]
+alternativa la otra empresa que la
+
+[00:04:47]
+tendría como cuarta alternativa o sea yo
+
+[00:04:50]
+lo Estoy ordenando como en orden de
+
+[00:04:52]
+relevancia para mí más relevante ftmo
+
+[00:04:55]
+segundo más relevante sería fundet Vips
+
+[00:04:57]
+y tercero sería fires y cuarto
+
+[00:05:01]
+alternativa sería Alpha capital Group
+
+[00:05:03]
+Alpha capital Group creo que es una
+
+[00:05:05]
+empresa eh que se puede probar ahí hacer
+
+[00:05:08]
+un buen challenge han estado teniendo
+
+[00:05:10]
+buenos retiros grandes han estado
+
+[00:05:12]
+pagando
+
+[00:05:13]
+eh Y creo que podemos probarla está bien
+
+[00:05:17]
+eh es una empresa que considero no tan
+
+[00:05:20]
+segura como las otras pero sí es una
+
+[00:05:22]
+empresa que dentro de todas las bolas de
+
+[00:05:25]
+empresas que hay malas puede estar bien
+
+[00:05:27]
+ojo que por eso dejé de hacer revisiones
+
+[00:05:30]
+de empresas de fondeo porque luego en
+
+[00:05:33]
+cuanto hablaba de una empresa a los días
+
+[00:05:36]
+quebraba o a los días se iba Entonces
+
+[00:05:38]
+está muy volátil el tema de las empresas
+
+[00:05:40]
+de fondeo hay que tener mucho cuidado
+
+[00:05:42]
+recientemente quebró turis forex F se
+
+[00:05:45]
+fue surger Trader ahora se han ido
+
+[00:05:48]
+varias empresas skill funder traders ha
+
+[00:05:51]
+habido algunas estafas Este es un lío
+
+[00:05:54]
+entonces hay que tener mucho cuidado por
+
+[00:05:56]
+eso el día de hoy estoy optando por irme
+
+[00:05:57]
+primero con fmo porque es lo más seguro
+
+[00:06:00]
+después hacer algunas cuentas en fund
+
+[00:06:02]
+pits si tú eres nuevo y quieres hacer
+
+[00:06:04]
+una cuenta de tranquila barata puede ser
+
+[00:06:08]
+buena opción y la otra es de fires
+
+[00:06:10]
+quiero que no hanyan quedado mal tengo
+
+[00:06:11]
+algunos alumnos traders fondeados con
+
+[00:06:14]
+the fires y les ha ido bastante bien eh
+
+[00:06:18]
+y Alpha capital Group podía ser aquí en
+
+[00:06:20]
+quinto podríamos poner fund next que
+
+[00:06:23]
+algún chico de la comunidad le han
+
+[00:06:25]
+pagado y creo que le ha ido bien pero
+
+[00:06:28]
+luego de repente como que te quiere
+
+[00:06:31]
+inventar reglas raras hay muchas
+
+[00:06:33]
+promociones hay que tener cuidado con
+
+[00:06:35]
+eso pero yo en funded next la yo tal vez
+
+[00:06:39]
+si ya estuviera fondeado con ftmo 400k
+
+[00:06:42]
+300k con fund de pips y a la mejor con
+
+[00:06:45]
+el máximo de de fires tiraría A lo mejor
+
+[00:06:48]
+comprobar con Alpha capital Group y con
+
+[00:06:50]
+funden next no la tomaría como mi
+
+[00:06:53]
+primera opción verdad Y esas son las
+
+[00:06:55]
+empresas de fondeo que actualmente
+
+[00:06:56]
+confío déjame en los comentarios tú qué
+
+[00:06:59]
+piensas de las empresas de fondeo qué
+
+[00:07:01]
+crees que pueda suceder en un futuro La
+
+[00:07:03]
+verdad es que está cambiando mucho el
+
+[00:07:06]
+ecosistema de las empresas de fondeo
+
+[00:07:08]
+Déjame tu opinión de cuál es tu opinión
+
+[00:07:11]
+qué empresa ves mejor qué empresa ves
+
+[00:07:13]
+peor y bueno este es una pequeña guía
+
+[00:07:16]
+para actualizarlo sobre empresas de
+
+[00:07:17]
+fondeo y traerles un buen contenido
+
+[00:07:20]
+Igualmente puedes estar al tiro o estar
+
+[00:07:22]
+en mis redes sociales como es Instagram
+
+[00:07:25]
+y mis grupos privados bueno privados mis
+
+[00:07:28]
+grupos de comunidad para que no te
+
+[00:07:30]
+pierdas ninguna información sobre
+
+[00:07:31]
+empresas de fondeo y todo lo nuevo que
+
+[00:07:33]
+esté por venir reglas que cambien raras
+
+[00:07:36]
+y todo todo nos vamos a estar viendo en
+
+[00:07:39]
+un siguiente video
+```

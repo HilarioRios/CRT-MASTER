@@ -1,0 +1,553 @@
+---
+source_id: YT_CANAL_02_hrhk1EN4IDI
+video_id: hrhk1EN4IDI
+channel: "Gustavom.Trader"
+published_at: 2023-03-08
+url: https://www.youtube.com/watch?v=hrhk1EN4IDI
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 4
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# Mejores zonas del NASDAQ que debes ver l SHARP SHOOTERS #trading
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=hrhk1EN4IDI)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Hola amigos Cómo estamos estamos
+
+[00:00:03]
+aquí en un nuevo video Este esta vez un
+
+[00:00:06]
+pequeño video cortito díganme en los
+
+[00:00:09]
+comentarios abajo los comentarios si les
+
+[00:00:11]
+gustaría que siguiera subiendo este tipo
+
+[00:00:12]
+de videos que este tipo de formato donde
+
+[00:00:15]
+les voy a ir actualizando lo que está
+
+[00:00:17]
+haciendo el precio en esta semana por
+
+[00:00:18]
+ejemplo para que usted tengan como una
+
+[00:00:21]
+dirección de lo que está haciendo el
+
+[00:00:24]
+mercado y les ayuden en sus análisis a
+
+[00:00:27]
+operar un poquito mejor y para que vean
+
+[00:00:29]
+un poquito también lo que yo estoy
+
+[00:00:30]
+haciendo por acá Este también estamos
+
+[00:00:35]
+muy cerca de llegar a los mil
+
+[00:00:37]
+suscriptores hermanos Entonces pícale al
+
+[00:00:40]
+botón de suscribirse mucha gente Mira
+
+[00:00:42]
+los videos y no está suscrita estamos
+
+[00:00:44]
+cerquísimas de llegar a los mil
+
+[00:00:46]
+suscriptores pícale a suscribirte porque
+
+[00:00:49]
+se viene contenido Bueno estamos
+
+[00:00:51]
+planeando tirar una serie de smart Money
+
+[00:00:53]
+concepts estamos planeando tirar muchos
+
+[00:00:56]
+vídeos muy buenos súper buenos o sea que
+
+[00:01:00]
+te en tu trading que vas a avanzar
+
+[00:01:02]
+excelente y pégale un like para que el
+
+[00:01:05]
+algoritmo nos empiece a recomendar más
+
+[00:01:07]
+estamos un poquito lentos ahí para
+
+[00:01:09]
+llegar a los mil suscriptores pero yo sé
+
+[00:01:10]
+que se puede ánimo Entonces vamos
+
+[00:01:13]
+también abajo antes de que te me pase
+
+[00:01:16]
+está el Telegram para que te conectes
+
+[00:01:18]
+estamos haciendo sesiones en vivo
+
+[00:01:20]
+trading en vivo entradas en vivo estamos
+
+[00:01:23]
+solamente exclusivamente para la gente
+
+[00:01:25]
+de Telegram y de WhatsApp está el grupo
+
+[00:01:28]
+de WhatsApp también ahí después de este
+
+[00:01:30]
+pequeño spam Ahora sí vamos al punto
+
+[00:01:32]
+porque este video quiero que sea
+
+[00:01:33]
+rapidito gráfico de nasda por qué nada
+
+[00:01:35]
+Gustavo Porque nada es el que a mí me
+
+[00:01:38]
+gusta más y el que estoy ahorita
+
+[00:01:40]
+regresando aquí hasta que me puse la
+
+[00:01:42]
+etiqueta aquí nasdaq porque ahorita
+
+[00:01:43]
+estoy retomándolo ya saben que es mi par
+
+[00:01:46]
+favorito siempre lo ha sido a veces
+
+[00:01:48]
+tenido amores con el euro dólar con el
+
+[00:01:51]
+oro y el de los últimos meses con el
+
+[00:01:55]
+Luis 30 luego Estuvo un poquito color
+
+[00:01:56]
+robots que ya pronto se va a venir ese
+
+[00:01:58]
+video opinando mi experiencia con
+
+[00:02:01]
+Y ahorita estoy volviendo a retomar el
+
+[00:02:03]
+trading manual porque
+
+[00:02:06]
+decidí hacerlo con nasdaq y vamos a
+
+[00:02:09]
+estar actualizando el nasdas porque soy
+
+[00:02:10]
+el que estoy operando lo yo pero si
+
+[00:02:13]
+quieren otros pares que analice también
+
+[00:02:15]
+me lo dejan en los comentarios Okay no
+
+[00:02:18]
+nos enredamos más gráfico de nasdaq
+
+[00:02:20]
+tenemos ventas en este nivel Por qué
+
+[00:02:22]
+mañana en el Telegram les voy a hacer un
+
+[00:02:25]
+análisis detallado mañana si ya lo están
+
+[00:02:28]
+viendo este video Después de 24 horas
+
+[00:02:30]
+después a lo mejor ya pasó pero mañana
+
+[00:02:32]
+va a haber una clase detallada Porque el
+
+[00:02:34]
+precio cayó desde este nivel y les mandé
+
+[00:02:36]
+también al Telegram unas ventas que yo
+
+[00:02:38]
+estoy tomando esa zona qué esperaría yo
+
+[00:02:40]
+estamos en un gráfico de cuatro horas y
+
+[00:02:43]
+de una hora okay en el gráfico una hora
+
+[00:02:45]
+había una terrible liquidez ahora la
+
+[00:02:47]
+sesión de Nueva York el precio fue a
+
+[00:02:49]
+tomarla y cayó a este punto de interés
+
+[00:02:51]
+es un buen punto de interés amigos para
+
+[00:02:54]
+que el precio pueda llegar a subir qué
+
+[00:02:56]
+Creo yo que esto probablemente es un
+
+[00:02:58]
+Complex pullback Este es un retroceso
+
+[00:03:00]
+para seguir cayendo eso es lo que yo
+
+[00:03:03]
+pienso sin embargo la tendencia para mí
+
+[00:03:07]
+ya es alcista en un gráfico Macro en un
+
+[00:03:11]
+gráfico
+
+[00:03:12]
+diario para mí la tendencia ya está
+
+[00:03:15]
+cambiando ahí para arriba Ok lo que
+
+[00:03:19]
+ustedes queremos ver zonas a donde
+
+[00:03:21]
+podemos atacar el precio para compras ya
+
+[00:03:24]
+saben que a mí no me importa si es
+
+[00:03:25]
+alcista bajista sino que yo tengo zonas
+
+[00:03:27]
+para atacar el precio primero tengo esta
+
+[00:03:29]
+zona donde está posicionado el precio
+
+[00:03:31]
+aquí esperaría la sesión de Nueva York
+
+[00:03:34]
+ahorita que estamos a 7 esperaría mañana
+
+[00:03:37]
+ocho sesión de Nueva York 8 de marzo
+
+[00:03:39]
+para ver si podemos comprar desde este
+
+[00:03:42]
+nivel me gustaría poder comprar de este
+
+[00:03:45]
+nivel a
+
+[00:03:47]
+dejar un doble alto o tomar este alto ir
+
+[00:03:51]
+una zona más arriba a tomar liquidez más
+
+[00:03:53]
+arriba esa es una zona de compras amigos
+
+[00:03:55]
+yo ventas ya no estaría tomando ya no me
+
+[00:03:58]
+gustan las ventas porque Recuerden que a
+
+[00:04:00]
+mí me gustaban las ventas en esta área
+
+[00:04:02]
+virgen porque era una gran toma de
+
+[00:04:04]
+liquidez del precio mañana les
+
+[00:04:06]
+identificar detalladamente Por qué
+
+[00:04:08]
+sucedió Esa esa bajada tan tremenda con
+
+[00:04:11]
+detalles para que se unan al Telegram
+
+[00:04:13]
+para que estén activos en el WhatsApp
+
+[00:04:15]
+porque les voy a explicar unas cosas
+
+[00:04:16]
+nuevas de información nueva y
+
+[00:04:19]
+información también que a lo mejor ya
+
+[00:04:21]
+varios conocían pero que cambia tu
+
+[00:04:24]
+manera de analizar el precio entonces
+
+[00:04:25]
+aquí compras desde este punto de interés
+
+[00:04:27]
+de h1 y también esperaría compras desde
+
+[00:04:31]
+el inbalance diario es esta línea que
+
+[00:04:33]
+tengo yo aquí roja está en balance
+
+[00:04:35]
+diario order block diario este en
+
+[00:04:38]
+balance diario más o menos de de este
+
+[00:04:40]
+balance empezaría una zona de compras Yo
+
+[00:04:43]
+espero que el precio o aguante este esta
+
+[00:04:46]
+esta parte este punto de interés que no
+
+[00:04:48]
+está Macro o venga a esta área y de ahí
+
+[00:04:51]
+rebote al alza a romper o a sacar esta
+
+[00:04:53]
+liquidez y todos estos saltos que son
+
+[00:04:56]
+liquidez importante eso es lo que yo
+
+[00:04:58]
+estaría esperando entonces esperaría una
+
+[00:05:01]
+confirmación mañana en Nueva York
+
+[00:05:02]
+ahorita no voy a entrar porque yo no
+
+[00:05:04]
+pero Londres ni tampoco voy a entrar en
+
+[00:05:07]
+en London Esperemos que mañana esté el
+
+[00:05:10]
+precio por aquí nos dé un buen patrón de
+
+[00:05:12]
+confirmación o una manipulación Para
+
+[00:05:14]
+entrar Para entrar a la alza y si no
+
+[00:05:17]
+estaríamos siguiendo vendiendo hasta más
+
+[00:05:20]
+o menos esta línea roja que es este
+
+[00:05:21]
+order block que es el balance diario y
+
+[00:05:24]
+aquí tenemos Este primer embalance que
+
+[00:05:26]
+no me gusta tanto porque no tienen
+
+[00:05:27]
+balance pero perdón este primer order
+
+[00:05:30]
+block que no tienen balance y este
+
+[00:05:32]
+segundo
+
+[00:05:33]
+decisional que fue el que provocó la
+
+[00:05:36]
+ruptura la estructura de todo este nivel
+
+[00:05:38]
+entonces Esas son las dos zonas que
+
+[00:05:40]
+tengo yo de compras para ventas no me
+
+[00:05:42]
+gusta para ventas nada esta zona de acá
+
+[00:05:44]
+arriba yo no estaría vendiendo no me
+
+[00:05:46]
+gustan demasiado Esto fue un poquito
+
+[00:05:48]
+mitigado y en 15 minutos todavía tenemos
+
+[00:05:51]
+bastante liquidez entonces para mí las
+
+[00:05:54]
+ventas no me gustan me gustarían las
+
+[00:05:56]
+compras Pero si mañana da un patrón de
+
+[00:05:58]
+confirmación de entrada en una buena
+
+[00:06:00]
+área de ventas lo podemos hacer sin
+
+[00:06:03]
+embargo a mí no me gusta ya saben que yo
+
+[00:06:04]
+voy a estar tomando ventas que sean más
+
+[00:06:07]
+potentes algo así como de este estilo no
+
+[00:06:10]
+retrocesos tan chiquitos Al menos que el
+
+[00:06:12]
+precio se dieta muy enrangado como aquí
+
+[00:06:14]
+que estuvo algunos días Muy arrancado y
+
+[00:06:16]
+tuvimos que comprar por aquí comprar por
+
+[00:06:19]
+acá abajo y vender por las partes altas
+
+[00:06:21]
+en mi caso yo estuve comprando por aquí
+
+[00:06:23]
+compré por acá y estas ventas ya no la
+
+[00:06:26]
+tomé lo que yo espero es movimientos de
+
+[00:06:28]
+este estilo potentes este el día de
+
+[00:06:30]
+mañana les estaré actualizando para que
+
+[00:06:32]
+no se lo pierdan y este es un pequeño
+
+[00:06:33]
+video corto para que vean el formato a
+
+[00:06:36]
+ver si les gusta y si les gusta vamos a
+
+[00:06:38]
+estar haciendo premercado vamos a estar
+
+[00:06:40]
+haciendo recapitulación del mercado y
+
+[00:06:42]
+más cositas para todos ustedes Entonces
+
+[00:06:44]
+espero que les haya gustado suscríbanse
+
+[00:06:46]
+por ahí Déjenme su like para que el
+
+[00:06:48]
+algoritmo donde para adelante y nos
+
+[00:06:50]
+vemos en la próxima
+
+[00:06:53]
+[Música]
+```

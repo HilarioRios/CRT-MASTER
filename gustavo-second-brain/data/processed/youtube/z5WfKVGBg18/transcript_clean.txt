@@ -1,0 +1,932 @@
+[00:00:00]
+Hola Qué pasa a todos amigos estamos en
+
+[00:00:01]
+un nuevo video esta vez módulo número
+
+[00:00:04]
+cinco ya de nuestra mentoría gratuita
+
+[00:00:06]
+2024 estamos ya los últimos dos módulos
+
+[00:00:09]
+por terminar esta vez la clase número
+
+[00:00:11]
+uno que va a ser formas de hacer Back
+
+[00:00:14]
+testing verdad entonces en esta clase
+
+[00:00:17]
+vamos a estudiar o quiero enfocarme en
+
+[00:00:20]
+Cuáles son las principales o las tres
+
+[00:00:22]
+principales formas de hacer Back testing
+
+[00:00:24]
+Para yo poder validar toda mi estrategia
+
+[00:00:27]
+para poder validar todo lo que les he
+
+[00:00:28]
+dicho a lo largo de toda esta mentoría
+
+[00:00:30]
+verdad Entonces es bien importante
+
+[00:00:33]
+chicos que usted ustedes sepan hacer
+
+[00:00:35]
+Back testing de manera correcta para que
+
+[00:00:37]
+puedan validar cada uno de los
+
+[00:00:39]
+resultados que tenemos acá nosotros o de
+
+[00:00:41]
+las formas de de estudiar el precio
+
+[00:00:44]
+verdad Y para que ustedes también
+
+[00:00:46]
+agarren confianza a la hora de estudiar
+
+[00:00:48]
+estos mercados financieros a la hora de
+
+[00:00:51]
+tener una estrategia sepan que lo que
+
+[00:00:53]
+ustedes están haciendo funciona
+
+[00:00:55]
+realmente verdad Entonces vamos a
+
+[00:00:57]
+empezar con los puntos primero vamos air
+
+[00:01:00]
+ir Qué es el Back testing Entonces el
+
+[00:01:02]
+Back testing en trading es el proceso de
+
+[00:01:03]
+evaluar una estrategia de trading
+
+[00:01:06]
+utilizando datos históricos verad
+
+[00:01:08]
+utilizando el gráfico pasado vamos a
+
+[00:01:10]
+evaluar una estrategia de trading para
+
+[00:01:13]
+determinar Cómo habría funcionado en el
+
+[00:01:15]
+pasado Cómo Cuáles son los resultados
+
+[00:01:17]
+que habríamos podido tener nosotros
+
+[00:01:20]
+mediante este Back testing verdad este
+
+[00:01:22]
+método permite a los trades probar la
+
+[00:01:24]
+viabilidad de una estrategia antes de
+
+[00:01:27]
+aplicarla en un mercado totalmente real
+
+[00:01:30]
+verdad Entonces el Back testing implica
+
+[00:01:32]
+los siguientes pasos primero Definir la
+
+[00:01:35]
+estrategia bien importante tener una
+
+[00:01:37]
+estrategia si no no le puedes hacer Back
+
+[00:01:39]
+testing verdad Entonces tienes que tener
+
+[00:01:40]
+una serie de pasos de reglas y
+
+[00:01:42]
+parámetros de tu estrategia que quieres
+
+[00:01:44]
+evaluar lo segundo que vamos a hacer es
+
+[00:01:47]
+recopilar datos históricos obtener datos
+
+[00:01:50]
+de precios volúmenes históricos del
+
+[00:01:52]
+mercado en el que se planea operar
+
+[00:01:55]
+horarios Dónde temporalidades donde los
+
+[00:01:57]
+voy a analizar En qué pares lo voy a I
+
+[00:02:00]
+ar bien importante tener ya bien en
+
+[00:02:01]
+claro qué datos históricos quieres
+
+[00:02:04]
+recopilar luego ya por último tercero
+
+[00:02:06]
+tenemos la simulación que sería aplicar
+
+[00:02:08]
+la estrategia a los datos históricos
+
+[00:02:10]
+ejecutando operaciones como Si
+
+[00:02:12]
+estuvieran realizando en tiempo real
+
+[00:02:14]
+verad ya una vez eh la retrospectiva de
+
+[00:02:17]
+las velas Pero hay otro tipo de Back
+
+[00:02:19]
+testing también que yo le quiero enseñar
+
+[00:02:21]
+el día de hoy que no solamente es así
+
+[00:02:23]
+que me parece también bastante
+
+[00:02:24]
+importante Entonces el número cuatro es
+
+[00:02:27]
+evaluar los resultados analizar los
+
+[00:02:30]
+resultados obtenidos de la simulación
+
+[00:02:31]
+incluyendo métricas de rendimiento como
+
+[00:02:33]
+la ganancia pérdida neta el ratio riesgo
+
+[00:02:36]
+beneficio la tasa de aciertos El drw
+
+[00:02:38]
+down entre otros o sea analizar Cómo
+
+[00:02:40]
+hubiera podido salir con un ratio de una
+
+[00:02:42]
+dos con un ratio de una un un ratio de
+
+[00:02:44]
+una tres un ratio de una cuatro analizar
+
+[00:02:46]
+qué gestión de riesgos mejor con cuánto
+
+[00:02:49]
+draw down tiene tu estrategia analizar
+
+[00:02:51]
+Cuántas veces falla tu estrategia
+
+[00:02:54]
+seguidas Cuál es la racha máxima de
+
+[00:02:57]
+seguidas de pérdida de tu estrategia
+
+[00:02:59]
+todo estos tipo de datos y detalles lo
+
+[00:03:01]
+tenemos que evaluar y tener resultados
+
+[00:03:03]
+de ellos verdad el cinco ya vamos a
+
+[00:03:05]
+tener ajustes y optimización ajustar la
+
+[00:03:08]
+estrategia según los resultados del Back
+
+[00:03:09]
+testing para mejorar su rendimiento
+
+[00:03:11]
+Entonces el objetivo de esto del Back
+
+[00:03:14]
+testing va a ser identificar si una
+
+[00:03:16]
+estrategia tiene un potencial de ser
+
+[00:03:17]
+rentable y evaluar su comportamiento eh
+
+[00:03:20]
+bien importante entender bien Qué es el
+
+[00:03:23]
+Back testing para qué se necesita y
+
+[00:03:25]
+saber qué se tiene que hacer muchas
+
+[00:03:27]
+personas quieren así usar una estrategia
+
+[00:03:29]
+la primera y y luego luego en cuanto ve
+
+[00:03:32]
+una estrategia en YouTube utilizarla y
+
+[00:03:34]
+ya meterse con esa estrategia y empezar
+
+[00:03:36]
+a operar y hacer una prueba de fondeo y
+
+[00:03:38]
+se alocan y van así superrápido y es
+
+[00:03:40]
+Cálmate tranquilízate evalúa tu
+
+[00:03:43]
+estrategia bien escribe qué métricas
+
+[00:03:46]
+tiene Cuánto gana cuánto pierde dónde es
+
+[00:03:48]
+mejor dónde peor es mejor en un Mercado
+
+[00:03:52]
+tendencial o es mejor en un mercado de
+
+[00:03:54]
+Rango es mejor en un mercado este
+
+[00:03:56]
+cíclico depende de eso entonces Entonces
+
+[00:04:00]
+al tú tener todo este tipo de datos lo
+
+[00:04:02]
+que consigues es ganar confianza en tu
+
+[00:04:05]
+estrategia porque sabes que funciona y
+
+[00:04:07]
+tener todos los datos de el
+
+[00:04:09]
+comportamiento para cuando tu estrategia
+
+[00:04:11]
+se esté comportando de una manera es
+
+[00:04:14]
+saber que se está comportando de una
+
+[00:04:16]
+manera normal porque tú ya tienes los
+
+[00:04:18]
+datos muchas personas fallan y se ponen
+
+[00:04:20]
+mal con sentimientos pero realmente no
+
+[00:04:23]
+es que fallaste tú a lo mejor falló tu
+
+[00:04:25]
+estrategia Pero simplemente como tú no
+
+[00:04:27]
+tienes los datos históricos de eso pues
+
+[00:04:30]
+entonces no no no sabes no sabes
+
+[00:04:33]
+realmente y te pones triste porque tú
+
+[00:04:35]
+crees que fallaste o perdiste pero
+
+[00:04:37]
+realmente es que tu estrategia está
+
+[00:04:38]
+fallando verdad Entonces Vámonos con los
+
+[00:04:40]
+tipos de Back Back testing que yo
+
+[00:04:43]
+utilizo lo vamos a poner en tres tipos
+
+[00:04:46]
+el primero va a ser el tipo uno que es
+
+[00:04:48]
+con retrospectiva Pero me gusta estar
+
+[00:04:50]
+mirando la acción de precio en ningún
+
+[00:04:52]
+momento está oculta este tipo solo uso
+
+[00:04:54]
+para analizar mejoras y fallos de
+
+[00:04:56]
+diversos escenarios o ajustes de la
+
+[00:04:58]
+estrategia o sea que con el gráfico
+
+[00:05:01]
+abierto sin regresar las velas para
+
+[00:05:03]
+atrás sin esconder nada simplemente lo
+
+[00:05:06]
+que hago es ir en el tiempo hacia atrás
+
+[00:05:08]
+pero no muevo las velas hacia atrás
+
+[00:05:11]
+simplemente voy observando cada punto
+
+[00:05:13]
+del del precio verdad esto para qué me
+
+[00:05:16]
+sirve me sirve para analizar porque qu
+
+[00:05:19]
+el precio reacciona en una situación
+
+[00:05:21]
+reacciona en una zona reacciona en otra
+
+[00:05:23]
+zona porque se regresa porque eh llega
+
+[00:05:26]
+el 1o a uno y se va etcétera etcétera
+
+[00:05:28]
+entonces me sirve mucho para un análisis
+
+[00:05:31]
+crítico de mi estrategia más que nada el
+
+[00:05:34]
+tipo dos es la más clásica que es la
+
+[00:05:36]
+retrospectiva de las velas o sea ahora
+
+[00:05:38]
+sí aquí lo que hago es echar las velas
+
+[00:05:40]
+para atrás verad le hago para atrás lo
+
+[00:05:43]
+pueden usar ustedes en FX Replay o en
+
+[00:05:46]
+trading View yo lo suelo hacer en
+
+[00:05:47]
+trading View pero dicen que FX Replay
+
+[00:05:50]
+están bastante bueno y tiro las velas
+
+[00:05:53]
+para atrás y lo que hago es ejecutar
+
+[00:05:55]
+entradas en mi horario principalmente de
+
+[00:05:57]
+ejecución y analizar el contexto del
+
+[00:06:00]
+mercado Y a partir de ahí ir ejecutando
+
+[00:06:02]
+pero ahí sí voy recolectando más Data en
+
+[00:06:04]
+todas las en todos los tipos de
+
+[00:06:06]
+backtesting voy recolectando más Data
+
+[00:06:07]
+pero aquí mucho más porque aquí estoy
+
+[00:06:10]
+poniéndole la variante de que yo puedo
+
+[00:06:12]
+equivocarme al ejecutar la estrategia
+
+[00:06:14]
+Entonces al hacer este Back testing yo
+
+[00:06:16]
+digo ejecuté bien mi estrategia Okay Sí
+
+[00:06:19]
+salió bien ejecuté bien mi estrategia Sí
+
+[00:06:21]
+salió mal la ejecuté mal salió iba a
+
+[00:06:24]
+salir bien entonces Estos tipos de datos
+
+[00:06:26]
+son los que a mí me interesan y el tipo
+
+[00:06:28]
+número tres chicos va a ser eh pruebo la
+
+[00:06:31]
+estrategia en un mercado real con
+
+[00:06:32]
+pruebas o cuentas de fondeo Ahora sí voy
+
+[00:06:36]
+a probar mi estrategia pero no la voy a
+
+[00:06:38]
+probar en un mercado real ya estoy
+
+[00:06:41]
+poniendo mercado real Cuando me refiero
+
+[00:06:43]
+a mercado real Es que yo voy a perar Por
+
+[00:06:45]
+ejemplo si mi estrategia me dice que
+
+[00:06:47]
+todos los días a las 8 de la mañana
+
+[00:06:49]
+Nueva York voy a operar y voy a hacer
+
+[00:06:51]
+tales cosas ya lo voy a hacer antes de
+
+[00:06:53]
+que suceda o sea voy a meter las
+
+[00:06:55]
+operaciones yo en vivo a mi metatrader
+
+[00:06:57]
+verdad aquí yo voy a meter las
+
+[00:06:58]
+operaciones a mi metatrader y lo que voy
+
+[00:07:00]
+a hacer es estar recolectando Data pero
+
+[00:07:03]
+lo voy a hacer en cuentas de pueden
+
+[00:07:05]
+hacerlo en cuentas de fondeo pequeñas
+
+[00:07:07]
+eso yo lo que llamo Back testing activo
+
+[00:07:09]
+o un Back testing estoy haciendo una
+
+[00:07:12]
+cuenta de fondeo Pero no mi finalidad no
+
+[00:07:14]
+es pasar la cuenta de fondeo sino hacer
+
+[00:07:16]
+el Back testing de la estrategia ya o lo
+
+[00:07:18]
+pueden hacer en cuentas demo también o
+
+[00:07:20]
+cuentas free Trail también de de ftmo de
+
+[00:07:24]
+fenex cuentas de prueba de eh de
+
+[00:07:27]
+empresas de fondeo y luego vamos a hacer
+
+[00:07:29]
+un mercado en vivo para Back testear mis
+
+[00:07:31]
+emociones no solo los datos verdad
+
+[00:07:34]
+Entonces eh Para eso me sirve este tipo
+
+[00:07:38]
+de Back testing Para yo poder eh Back
+
+[00:07:40]
+testear eh Mis comportamientos frente a
+
+[00:07:42]
+mi estrategia yaad pero ya no estoy eh
+
+[00:07:45]
+viendo la acción de precio pasada en
+
+[00:07:48]
+como en los casos anteriores que estoy
+
+[00:07:50]
+utilizando acción de precio pasada sino
+
+[00:07:51]
+aquí ya estoy Back testeando con acción
+
+[00:07:53]
+de precio que no ha sucedido no ha
+
+[00:07:55]
+ocurrido verdad pero no estoy tomando
+
+[00:07:57]
+Todavía este no mi finalidad no es ganar
+
+[00:08:00]
+dinero sino Back testear Cuáles son los
+
+[00:08:02]
+pros y los contras de mi estrategia
+
+[00:08:04]
+verdad Entonces tenemos Back testing más
+
+[00:08:06]
+completo vamos a para hacer un Back
+
+[00:08:08]
+testing más completo lo que hago es
+
+[00:08:10]
+seguir los pasos eh conjugar todos los
+
+[00:08:13]
+pasos o los tipos de Back testing para
+
+[00:08:15]
+yo tener un Back testing super completo
+
+[00:08:17]
+conjugo los tres tipos de Back testing o
+
+[00:08:20]
+utilizo los tres tipos de Back testing y
+
+[00:08:22]
+hago estos tres pasos primero el paso
+
+[00:08:24]
+uno voy a utilizar el tipo de
+
+[00:08:26]
+recopilación uno Data con la acción de
+
+[00:08:29]
+prcio visible verad acuérdense aquí es
+
+[00:08:32]
+el gráfico visible Y no cambio nada más
+
+[00:08:36]
+que la acción de precio de hecho les voy
+
+[00:08:38]
+a dar un ejemplo ahorita les voy a dar
+
+[00:08:41]
+unos ejemplos verad paso dos uso el tipo
+
+[00:08:43]
+dos para recopilar una Data más avanzada
+
+[00:08:46]
+y paso tres uso el tipo tres para Back
+
+[00:08:48]
+testear emociones formas Y ya teniendo
+
+[00:08:51]
+una una base previa de los demás Back
+
+[00:08:54]
+testing entonces chicos aquí el tipo uno
+
+[00:08:56]
+el Back testing tipo un es yo agarro un
+
+[00:08:58]
+gráfico y yo designo mis pasos de mi
+
+[00:09:01]
+estrategia No pues lo que quiero ver eh
+
+[00:09:04]
+rompimiento de
+
+[00:09:05]
+estructura liquidez lo que quiero ver
+
+[00:09:08]
+verad y aquí analizo Ah okay Digo el día
+
+[00:09:11]
+lunes Okay voy a testear el día lunes
+
+[00:09:13]
+por ejemplo Aquí está el día lunes Qué
+
+[00:09:15]
+hubiera pasado aquí y lo que hago es
+
+[00:09:17]
+analizar No pues ya voy a marcar
+
+[00:09:19]
+correctamente la estructura un low un
+
+[00:09:21]
+High un low aquí había liquidez aquí el
+
+[00:09:24]
+precio Boom se pudo haber dado una
+
+[00:09:26]
+compra aquí algunas ventas o sea es el
+
+[00:09:29]
+análisis del gráfico como tal así pero
+
+[00:09:32]
+no hago retrospectiva de velas aquí me
+
+[00:09:35]
+gusta a mí ir poniéndole textos aquí
+
+[00:09:37]
+anclados y le voy poniendo aquí rompió
+
+[00:09:41]
+rompió tomó
+
+[00:09:44]
+liquidez y bajo un decir verdad esto
+
+[00:09:47]
+solamente es un ejemplo voy poniéndole
+
+[00:09:50]
+yo textit me gusta poner ir poniéndole
+
+[00:09:52]
+textos aquí a cada uno de estos y los
+
+[00:09:54]
+voy marcando y todo esto lo voy
+
+[00:09:56]
+registrando en una vitá corona libreta
+
+[00:09:58]
+donde tú quieras pero voy voy yo
+
+[00:10:00]
+marcando este tipo de cosas o de
+
+[00:10:02]
+situaciones Y a partir de ahí voy eh
+
+[00:10:05]
+pasando por más cositas como por acá
+
+[00:10:07]
+abajo y voy Back testeando durante
+
+[00:10:10]
+bastante tiempo pero con el gráfico
+
+[00:10:12]
+prendido como quien dice o o sin
+
+[00:10:15]
+recorrer las velas en el segundo tipo de
+
+[00:10:17]
+Back testing fíjense este es
+
+[00:10:19]
+reproducción de velas más o menos de
+
+[00:10:21]
+este estilo agarro la reproducción de
+
+[00:10:23]
+Vela entonces aquí ya por ejemplo
+
+[00:10:25]
+ustedes van a analizar que tenían este
+
+[00:10:26]
+punto este punto tenían tal día van a
+
+[00:10:29]
+realizar que aquí tenía una zona Y a
+
+[00:10:31]
+partir de ahí van a decir este va a ser
+
+[00:10:33]
+mi voy a analizar mis pasos de entrada
+
+[00:10:35]
+voy a tener mi plan de trading en mano
+
+[00:10:37]
+voy a nacar mis pasos de entrada y lo
+
+[00:10:39]
+que voy a hacer es dándole Play a las
+
+[00:10:41]
+velas verad voy a ir dándole Play a las
+
+[00:10:43]
+velas Y a partir de ir dándole Play a
+
+[00:10:45]
+las velas voy a ir aprendiendo de ese
+
+[00:10:47]
+Back testing Pero ahora sí que no es no
+
+[00:10:50]
+estoy viendo la acción de precio que
+
+[00:10:52]
+sucede de este lado verdad no estoy
+
+[00:10:54]
+viendo nada de la acción de precio que
+
+[00:10:55]
+sucede de este lado En el anterior Back
+
+[00:10:58]
+testin o tipo de Back testing Eh sí
+
+[00:11:00]
+estaba viendo la acción de precio que
+
+[00:11:02]
+sucedía para los dos lados verad tanto
+
+[00:11:05]
+para acá como para acá ese sería mis
+
+[00:11:07]
+formas de hacer Back testing y el por
+
+[00:11:11]
+último es ejecución en tiempos reales
+
+[00:11:13]
+verad ejecución antes de que el precio
+
+[00:11:16]
+esté formando Válgame que yo me pongo
+
+[00:11:18]
+por ejemplo en esta acción de precio el
+
+[00:11:20]
+precio todavía no ha hecho nada aquí ta
+
+[00:11:22]
+ta ta analizo esta sesión Okay ta ta ta
+
+[00:11:24]
+y voy todos los días Eh ejecutando mi
+
+[00:11:27]
+estrategia pero en cuenta demo pruebas
+
+[00:11:29]
+de fondeo pequeñas voy haciéndolo Pero
+
+[00:11:31]
+antes de que suceda antes de que suceda
+
+[00:11:34]
+y y sin retrospectiva verlas ni nada lo
+
+[00:11:36]
+voy ejecutando en mi metatrader como tal
+
+[00:11:38]
+Bueno chicos Yo espero que se haya
+
+[00:11:39]
+atendido bastante bien pero aún así si
+
+[00:11:41]
+tienes alguna duda o pregunta te leo en
+
+[00:11:42]
+los comentarios si deseas una ment
+
+[00:11:44]
+mentoría personalizada conmigo Puedes
+
+[00:11:47]
+mandarme un mensaje de Whatsapp o de
+
+[00:11:48]
+Instagram que se encuentra abajo en la
+
+[00:11:50]
+descripción Gustavo Gustavo Trader y nos
+
+[00:11:54]
+vemos pues en un siguiente video adiós

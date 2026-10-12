@@ -1,0 +1,19 @@
+# n8n Community, self-hosted. NOT started automatically -- see n8n/README.md.
+# Only relevant once the pipeline (FASE 0-13) is validated end-to-end (FASE 14/27).
+services:
+  n8n:
+    image: docker.n8n.io/n8nio/n8n:latest
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=${N8N_BASIC_AUTH_USER}
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_BASIC_AUTH_PASSWORD}
+      - GENERIC_TIMEZONE=America/Argentina/Buenos_Aires
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./n8n/workflows:/home/node/workflows:ro
+
+volumes:
+  n8n_data:

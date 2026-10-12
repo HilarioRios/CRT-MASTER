@@ -1,0 +1,86 @@
+{
+  "source_id": "YT_CANAL_02_NeK0B7tN7ZM",
+  "video_id": "NeK0B7tN7ZM",
+  "metadata": {
+    "channel": "Gustavom.Trader",
+    "title": "Cómo Dominar el BIAS y DOL Diario con la Estrategia CRT",
+    "url": "https://www.youtube.com/watch?v=NeK0B7tN7ZM",
+    "published_at": "2026-05-18",
+    "duration_sec": 1365,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot"
+  },
+  "topics": [
+    "bias_diario",
+    "crt",
+    "liquidez",
+    "gestion_de_riesgo"
+  ],
+  "concepts": [
+    "CRT",
+    "Bias",
+    "DOL",
+    "rango alcista",
+    "rango bajista",
+    "retroceso",
+    "acumular-manipular-distribuir",
+    "liquidez",
+    "alineacion multi-temporalidad"
+  ],
+  "key_ideas": [
+    {
+      "timestamp_sec": 8,
+      "title": "El problema no es el patron, es la direccion",
+      "text": "Una operacion con CRT puede parecer perfecta y aun asi sacarte en stop loss, para luego ir a favor. El problema real es operar sin entender la direccion del precio.",
+      "deep_link": "https://www.youtube.com/watch?v=NeK0B7tN7ZM&t=8s"
+    },
+    {
+      "timestamp_sec": 205,
+      "title": "Ejemplo: por que falla una operacion perfecta en 1H",
+      "text": "Un rango bajista en 1H parecia confirmar una venta, pero fallaba porque el rango de 6 horas y la estructura de 2 dias iban en direccion contraria (alcista).",
+      "deep_link": "https://www.youtube.com/watch?v=NeK0B7tN7ZM&t=205s"
+    },
+    {
+      "timestamp_sec": 351,
+      "title": "Regla: rangos a favor vs. retrocesos",
+      "text": "Hay que tener rangos a favor de tu DOL principal; todo lo que vaya en contra es un retroceso, no una reversion real.",
+      "deep_link": "https://www.youtube.com/watch?v=NeK0B7tN7ZM&t=351s"
+    },
+    {
+      "timestamp_sec": 567,
+      "title": "El secreto de las velas",
+      "text": "El unico objetivo de cada vela es tomar los maximos o minimos de la vela anterior. Cada vela es en si misma un rango de CRT, siguiendo el ciclo acumular-manipular-distribuir.",
+      "deep_link": "https://www.youtube.com/watch?v=NeK0B7tN7ZM&t=567s"
+    },
+    {
+      "timestamp_sec": 1157,
+      "title": "Patron repetido: abre, manipula, distribuye",
+      "text": "En el ejercicio vela-por-vela, el precio casi siempre repite: abre, manipula (toma liquidez de la vela anterior) y distribuye en la direccion contraria.",
+      "deep_link": "https://www.youtube.com/watch?v=NeK0B7tN7ZM&t=1157s"
+    }
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 8, "text": "El problema no suele ser el patron CRT en si, sino operar sin entender el bias del precio."},
+    {"timestamp_sec": 351, "text": "Hay que tener rangos a favor de tu DOL principal; los rangos en contra son retrocesos, no reversiones."},
+    {"timestamp_sec": 569, "text": "Cada vela, en cualquier temporalidad, tiende a acumular, manipular y distribuir."},
+    {"timestamp_sec": 1186, "text": "Hay que fijarse en los maximos y minimos de cada vela, porque cada vela es un rango."}
+  ],
+  "mistakes_mentioned": [
+    {"timestamp_sec": 205, "text": "Confiar en un patron CRT que parece perfecto en una temporalidad baja sin verificar alineacion con temporalidades mayores."},
+    {"timestamp_sec": 117, "text": "No prestarle suficiente atencion al tiempo, enfocandose solo en el precio o el patron."}
+  ],
+  "terminology": {
+    "CRT": "Patron/estrategia base de Gustavo. El ASR lo transcribe una vez como 'TRT' (00:24) -- error de reconocimiento de voz.",
+    "Bias": "Direccion del precio. El ASR lo transcribe como 'Bias' o 'Vallas' en varios puntos.",
+    "DOL": "Objetivo/direccion principal para filtrar operaciones. El ASR lo transcribe como 'Doll'. No se expande el acronimo en este video."
+  },
+  "entities": {
+    "people": ["Gustavo Martinez"],
+    "tools": ["Instagram", "WhatsApp"],
+    "markets": []
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=NeK0B7tN7ZM",
+  "series_note": "Primera clase de una miniserie de 3 videos sobre bias y DOL. Las siguientes cubren tiempo/temporalidades + rangos opuestos, y construccion de narrativa de direccion del precio.",
+  "chunks": []
+}

@@ -1,0 +1,1318 @@
+---
+source_id: YT_CANAL_02_dJ3Dvl2ufYc
+video_id: dJ3Dvl2ufYc
+channel: "Gustavom.Trader"
+published_at: 2022-10-01
+url: https://www.youtube.com/watch?v=dJ3Dvl2ufYc
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 11
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# ENTRADAS PASO A PASO PERFECTAS!! NASDAQ ESTRATEGIA l SHARP SHOOTERS #trading #forex
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=dJ3Dvl2ufYc)
+
+## Transcript
+
+```
+[00:00:00]
+[Música]
+
+[00:00:08]
+Entonces teníamos el gráfico del nasdaq
+
+[00:00:12]
+Este era donde estábamos el día 15 de
+
+[00:00:14]
+septiembre les voy a enseñar un poquito
+
+[00:00:16]
+los que mire yo primero como siempre
+
+[00:00:19]
+yéndonos a un gráfico diario vimos que
+
+[00:00:23]
+posiblemente el precio al capturar la
+
+[00:00:26]
+liquidez de este logo podría ser una
+
+[00:00:29]
+reversión o un retroceso yo estaba Claro
+
+[00:00:32]
+que lo que tenía que estar buscando era
+
+[00:00:33]
+un retroceso no
+
+[00:00:36]
+simple retroceso No nada más esto estaba
+
+[00:00:39]
+clarísimo entonces vimos la captura de
+
+[00:00:42]
+liquidez de este low Y eso es en un
+
+[00:00:45]
+gráfico diario me fui a la temporalidad
+
+[00:00:47]
+de una hora Igualmente vi lo mismo la la
+
+[00:00:52]
+captura de liquidez de de estos
+
+[00:00:55]
+lowes teníamos ya acá un inbalance si se
+
+[00:00:58]
+fijan por la parte alta donde podría
+
+[00:01:01]
+haber un retroceso nos fuimos ya bajando
+
+[00:01:04]
+de temporalidades
+
+[00:01:06]
+y miramos un tremendo inbalance ahí por
+
+[00:01:08]
+ahí estaba bastante bueno el embalaje me
+
+[00:01:13]
+fui ya un poco a cinco minutos y mire
+
+[00:01:16]
+que probablemente el precio podría venir
+
+[00:01:18]
+por lo menos si quería seguir cayendo a
+
+[00:01:21]
+esta a este bim de 5 minutos
+
+[00:01:24]
+por lo menos este bim de 5 minutos o sea
+
+[00:01:27]
+que hiciera un retroceso para ir ahí
+
+[00:01:31]
+cómo iba yo a tomar entonces una una
+
+[00:01:34]
+este
+
+[00:01:36]
+una entrada al alza que iba a ser yo
+
+[00:01:39]
+para mirar una entrada al alza Y si si
+
+[00:01:41]
+si viene fuerte cayendo no viene viene a
+
+[00:01:46]
+por todas para abajo no entonces ya lo
+
+[00:01:48]
+que me gusta a mí es irme a un minuto y
+
+[00:01:52]
+mirar cómo se está comportando el precio
+
+[00:01:53]
+para ver si podemos tener un buen
+
+[00:01:55]
+retroceso
+
+[00:01:57]
+y este entrarle ahora sí ya con mucho
+
+[00:02:01]
+mejor confirmación
+
+[00:02:04]
+Entonces ya en un minuto me Por qué me
+
+[00:02:07]
+gusta tanto un minuto una porque en el
+
+[00:02:09]
+gráfico de intraday o en las a la hora
+
+[00:02:12]
+de tomar tres intraday es bastante bueno
+
+[00:02:15]
+para mirar la estructura de manera más
+
+[00:02:17]
+detallada y mirar cuando el precio está
+
+[00:02:20]
+haciendo un cambio lo malo es que muchas
+
+[00:02:22]
+veces te pueden engañar Como por ejemplo
+
+[00:02:24]
+el día de hoy no que me engañaron un
+
+[00:02:27]
+poquitín pero es bastante efectivo sobre
+
+[00:02:31]
+todo para las confirmaciones y te quedan
+
+[00:02:33]
+estos blogs bastante decentes no te caen
+
+[00:02:36]
+stop los tan tan grandes por eso es que
+
+[00:02:38]
+me gusta irme un poco a un minuto ya
+
+[00:02:41]
+aquí sabiendo que el precio tendría que
+
+[00:02:42]
+probablemente ir a mitigar todo sin
+
+[00:02:44]
+balance y Buscar un retroceso
+
+[00:02:47]
+le vamos a avanzar un poquitín acá acá
+
+[00:02:50]
+sigue cayendo todavía de momento y vamos
+
+[00:02:53]
+a ver qué nos forma el precio nos formó
+
+[00:02:56]
+una continuación de la caída y así se
+
+[00:02:59]
+fijan acá en mi fractal que es muy
+
+[00:03:03]
+fractal Pues el rango en el que estoy
+
+[00:03:04]
+manejando el precio
+
+[00:03:06]
+este si se fijan acá ya quiebra la
+
+[00:03:09]
+estructura de nuevo y el precio en
+
+[00:03:12]
+teoría no debería de subir más de este
+
+[00:03:14]
+alto no verdad no debería subir más de
+
+[00:03:17]
+este Alfa cuando acá el precio sigue
+
+[00:03:20]
+cayendo pues lo sigo observando hasta
+
+[00:03:23]
+que llegue
+
+[00:03:24]
+hasta que posiblemente acá como no tengo
+
+[00:03:27]
+ni una zona más grande y relevante en
+
+[00:03:30]
+Macro Solamente tengo la premisa de que
+
+[00:03:33]
+el precio está capturando liquidez de un
+
+[00:03:35]
+lado y que pueda haber un retroceso
+
+[00:03:37]
+Entonces no estoy mirando una zona en
+
+[00:03:40]
+concreto dentro de acá nada solamente
+
+[00:03:43]
+estoy mirando el comportamiento en una
+
+[00:03:45]
+temporalidad micro para con la premisa
+
+[00:03:48]
+de que el precio está capturando
+
+[00:03:49]
+liquidez en Macro y haga un retroceso
+
+[00:03:51]
+llevarme ese movimiento para ahora sí
+
+[00:03:53]
+para para mi beneficio Entonces si se
+
+[00:03:57]
+fijan acá rompe la rompe la
+
+[00:04:00]
+estructura hacia abajo y se hace un
+
+[00:04:04]
+retroceso complejo un retroceso fuerte
+
+[00:04:06]
+al hacer un retroceso fuerte acá ya yo
+
+[00:04:10]
+podía entrar aquí luego luego con un
+
+[00:04:13]
+stop loss abajo que de hecho fue lo que
+
+[00:04:15]
+hice yo porque el Stop loss si no me
+
+[00:04:19]
+equivoco
+
+[00:04:22]
+si me pasaba era un poco grande esa
+
+[00:04:25]
+entrada pero si el precio se iba pues
+
+[00:04:27]
+tenía más o menos un uno a uno uno dos
+
+[00:04:30]
+aproximadamente
+
+[00:04:32]
+podría haber entrado ahí de hecho yo
+
+[00:04:34]
+entré pero entré con lo traje bajo dije
+
+[00:04:37]
+por si el precio llegar a irse puedo
+
+[00:04:40]
+puedo este tomar un pequeño movimiento
+
+[00:04:43]
+ya después lo pero en otro lado acá
+
+[00:04:47]
+lo único que estaba en ese Trade que no
+
+[00:04:50]
+era tan bueno era un Trade no tan bueno
+
+[00:04:53]
+porque estamos entrando en la ruptura
+
+[00:04:55]
+pero también se vale No entrar en la
+
+[00:04:58]
+ruptura entre la ruptura y Ya conforme
+
+[00:05:01]
+fue subiendo un poquito el precio
+
+[00:05:04]
+metí breven acá ya metí Breaking acá en
+
+[00:05:08]
+este en esta entrada porque meto brick
+
+[00:05:10]
+Kevin muy rápido porque sé que no es un
+
+[00:05:12]
+tren de alta calidad no es un tren con
+
+[00:05:15]
+tan tan de alta calidad una porque el
+
+[00:05:17]
+precio Acá está rompiendo
+
+[00:05:20]
+y se fijan está rompiendo por acá y
+
+[00:05:22]
+puede llegar a hacer este movimiento tal
+
+[00:05:24]
+que así para seguir subiendo hacia el
+
+[00:05:26]
+retroceso y luego seguir cayendo que su
+
+[00:05:28]
+tendencia que llevaba entonces por eso
+
+[00:05:30]
+metover y Kevin si me saca pues me sacó
+
+[00:05:33]
+y ya está
+
+[00:05:34]
+luego ahí consigo subir un poco
+
+[00:05:39]
+así que el Stop loss lo llegó a recorrer
+
+[00:05:42]
+un poquito aquí por si quiere regresarse
+
+[00:05:44]
+yo sabía que tenía que regresarse pero
+
+[00:05:47]
+no sabía si se iba a regresar llegando
+
+[00:05:50]
+hasta acá puede que el precio se fuera
+
+[00:05:53]
+de una porque eso es un comportamiento
+
+[00:05:55]
+que lo suele hacer y acá Ahora sí se
+
+[00:05:57]
+regresar así se regresaba desde acá la
+
+[00:06:01]
+premisa de mitigar El inbalance que
+
+[00:06:02]
+teníamos al principio en cinco minutos
+
+[00:06:04]
+todo este embalaje que está por acá pues
+
+[00:06:06]
+ya no no tenía sentido el tren que iba a
+
+[00:06:09]
+tomar ahí entonces dije si se va conmigo
+
+[00:06:11]
+ese tren y mitiga todo el embalaje cobro
+
+[00:06:14]
+esta entrada que tenía acá y esta
+
+[00:06:16]
+entrada de acá la cancelo la
+
+[00:06:18]
+confirmación
+
+[00:06:20]
+o sea en todo momento si se fijan sé qué
+
+[00:06:22]
+hacer
+
+[00:06:23]
+tengo un plan y sé cómo salirme y sé qué
+
+[00:06:26]
+hacer porque sé lo que el precio está
+
+[00:06:29]
+haciendo Qué está haciendo el precio un
+
+[00:06:31]
+Complex pullback para seguir cayendo o
+
+[00:06:34]
+para romper Pero esto como yo nos haya
+
+[00:06:36]
+vino pues adivino y no sé pues ya voy a
+
+[00:06:39]
+fijarme casi rompe pues lo seguimos
+
+[00:06:41]
+comprando
+
+[00:06:42]
+ya veremos
+
+[00:06:44]
+aparte pues yo voy con ratios de uno a
+
+[00:06:47]
+dos una tres una cuatro una cinco una
+
+[00:06:49]
+seis máximo una 10 porque son tres que
+
+[00:06:52]
+yo no quiero estar mucho tiempo ahí y
+
+[00:06:55]
+así se fijan acá subo ya tenía yo el
+
+[00:06:57]
+Stop los por aquí
+
+[00:06:58]
+Qué sucede
+
+[00:07:00]
+aquí si no me equivoco sube el Stop los
+
+[00:07:03]
+acá incluso yo tengo una media móvil acá
+
+[00:07:07]
+para ir subiendo el Stop loss puedo ir
+
+[00:07:10]
+recorriendo yo el Stop blogs por acá
+
+[00:07:14]
+puedo ir moviendo el Stop loss aquí o
+
+[00:07:16]
+aquí y en algún momento ya sabía que iba
+
+[00:07:20]
+a retroceder el precio y Exactamente lo
+
+[00:07:22]
+hace ahí me saca de la entrada me llevé
+
+[00:07:25]
+como un punto tres punto cuatro por
+
+[00:07:27]
+ciento de la cuenta nada nada relevante
+
+[00:07:30]
+no era un té de calidad entonces dije
+
+[00:07:32]
+pues está bien no pasa nada
+
+[00:07:36]
+entonces acá Qué sucede acá ya tengo que
+
+[00:07:39]
+estar yo bien claro De dónde va a ir el
+
+[00:07:42]
+precio para confirmar una alza ya
+
+[00:07:45]
+tenemos el quiebre de estructura acá y a
+
+[00:07:49]
+dónde Tendría que ir en teoría el precio
+
+[00:07:51]
+para confirmar un Alfa entonces una
+
+[00:07:54]
+puede ser en este bloque de órdenes que
+
+[00:07:56]
+está acá
+
+[00:07:58]
+en 5 minutos casi siempre me gusta
+
+[00:08:02]
+porque en cinco minutos se ve muy bien
+
+[00:08:03]
+el order blog el que el el que puede
+
+[00:08:06]
+llegar a mitigar el precio
+
+[00:08:09]
+y en m5
+
+[00:08:12]
+el ahora sí que el order bloque que yo
+
+[00:08:15]
+estaba vigilando
+
+[00:08:16]
+[Música]
+
+[00:08:19]
+en m5 estamos hablando de m5
+
+[00:08:24]
+era este de acá que era este este este
+
+[00:08:27]
+de acá
+
+[00:08:30]
+por el embalaje que había y el otro que
+
+[00:08:33]
+estaba vigilando era este otro
+
+[00:08:36]
+Entonces yo decido poner la entrada
+
+[00:08:39]
+acá
+
+[00:08:42]
+porque he decidido poner la entrada aquí
+
+[00:08:44]
+y no acá arriba una porque el Stop loss
+
+[00:08:47]
+aquí eran como 20 puntos y acá estaba
+
+[00:08:49]
+demasiado grande si lo ponía aquí
+
+[00:08:54]
+eran como 45 puntos por mi gestión de
+
+[00:08:57]
+riesgos saben ustedes que yo no suelo
+
+[00:08:59]
+meter más de 30 puntos en el nasdaq
+
+[00:09:02]
+no me gusta casi Entonces como acá ya
+
+[00:09:06]
+esperaba una buena confirmación y el
+
+[00:09:08]
+precio seguía en tendencia bajista
+
+[00:09:10]
+entonces dije más bien me voy a ir a la
+
+[00:09:12]
+segura para tener un stop los cortito Y
+
+[00:09:15]
+si el precio me llegara a sacar pues no
+
+[00:09:17]
+perdiera tantísimo dinero entonces aquí
+
+[00:09:20]
+lo pongo más o menos a 25 puntos ya
+
+[00:09:23]
+saben no ponerlo tan cortito porque
+
+[00:09:24]
+muchas veces el el spread Y eso nos
+
+[00:09:27]
+juega en contra
+
+[00:09:28]
+me devuelva un minuto ya sabiendo Cuál
+
+[00:09:31]
+eran mis zonas donde probablemente podía
+
+[00:09:33]
+atacar el precio podía reaccionar
+
+[00:09:34]
+también en este pero si reaccionaba ahí
+
+[00:09:37]
+pues me iba también otra cosa de poder
+
+[00:09:40]
+gestionar el tren podía haber hecho de
+
+[00:09:42]
+esta forma solamente poniendo el Trade
+
+[00:09:44]
+acá
+
+[00:09:47]
+y con el mismo Target hacia acá arriba
+
+[00:09:49]
+no
+
+[00:09:50]
+en mi caso yo lo hice cuando lo hice
+
+[00:09:53]
+totalmente en vivo pues no lo no lo hice
+
+[00:09:55]
+así no tome la decisión de ponerlo
+
+[00:09:57]
+simplemente esta zona no la considere
+
+[00:10:00]
+tan muy importante
+
+[00:10:01]
+y conseguiré más importante la zona de
+
+[00:10:04]
+acá abajo
+
+[00:10:06]
+simplemente por eso Entonces rompe
+
+[00:10:08]
+estructura borramos esto borramos esto
+
+[00:10:11]
+vamos a ver aquí un poquito la acción
+
+[00:10:14]
+del precio Cómo se desarrolla viene si
+
+[00:10:16]
+se fijan el mercado fuerte rápido cae
+
+[00:10:20]
+este este bloque de acá no lo mitigó
+
+[00:10:23]
+casi el precio se fue de largo muy muy
+
+[00:10:25]
+muy de largo y nos venía generando todo
+
+[00:10:29]
+el inbalance no sé si por acá tenga
+
+[00:10:31]
+algún balance bueno no me lo marca pero
+
+[00:10:33]
+venía generándome todo el embalaje en
+
+[00:10:36]
+estas velas acá si se fijan viene
+
+[00:10:40]
+dejando mi balance aquí
+
+[00:10:45]
+señal de que posiblemente podría haber
+
+[00:10:48]
+sido un buen retroceso aparte este
+
+[00:10:51]
+patrón tiene una buena toma de liquidez
+
+[00:10:54]
+aquí en este punto como bastante
+
+[00:10:56]
+liquidez en este punto y ya lo teníamos
+
+[00:10:59]
+Ya teníamos nuestras órdenes en muy muy
+
+[00:11:02]
+tenían nuestras órdenes en muy límite
+
+[00:11:04]
+acá
+
+[00:11:07]
+ya ya con la posible confirmación el
+
+[00:11:10]
+target a donde muchas veces muchas
+
+[00:11:12]
+personas Me dicen el target dónde lo
+
+[00:11:14]
+pongo no sé pues el target casi siempre
+
+[00:11:17]
+suelo yo ver el embalaje si se fijan qué
+
+[00:11:19]
+balance tenía sin mitigar pues tenía sin
+
+[00:11:21]
+mitigar todo este
+
+[00:11:23]
+todo este estaba sin tirar
+
+[00:11:26]
+y el bloque pues donde podría ir el
+
+[00:11:29]
+precio para caer era esa zona entonces
+
+[00:11:31]
+por eso es que decido poner el Stop loss
+
+[00:11:33]
+perdón el tp ahí pues si son de son de
+
+[00:11:37]
+Me podrían llegar a el Trade ahora
+
+[00:11:40]
+sí que la subida me pueden llegar a
+
+[00:11:41]
+ahí stop loss un poquitín ahí
+
+[00:11:44]
+debajo del bloque nos vamos a un minuto
+
+[00:11:47]
+y fíjense cómo reacciona El precio
+
+[00:11:49]
+reacciona reacciona exactamente si se
+
+[00:11:52]
+fijan en M1
+
+[00:11:56]
+en M1 reacciona exactamente al rejation
+
+[00:11:59]
+block es este de acá
+
+[00:12:02]
+hay reacción exactamente
+
+[00:12:05]
+el indicador de inbalance indicador de
+
+[00:12:07]
+inbalance
+
+[00:12:12]
+tinder
+
+[00:12:14]
+Dinámico color color Este
+
+[00:12:17]
+ahí lo puedes buscar en el trading View
+
+[00:12:20]
+este te marca el el balance Solo que acá
+
+[00:12:23]
+no lo marca porque ya está bastante
+
+[00:12:25]
+viejo el Trade te marca solamente el
+
+[00:12:28]
+precio en inmediato lo que lo que está
+
+[00:12:30]
+sucediendo
+
+[00:12:31]
+ahora no no no si pasa ya mucho tiempo
+
+[00:12:35]
+ya te deja de marcar Igualmente nosotros
+
+[00:12:37]
+conocemos y sabemos que el precio pues
+
+[00:12:39]
+tenía un balances ahí no sin mitigar
+
+[00:12:42]
+reacciona bastante bien ya Estábamos
+
+[00:12:45]
+adentro aquí el tren y con nuestros
+
+[00:12:47]
+tablas bien puesto por si nos llegara a
+
+[00:12:49]
+sacar acá que podía hacer acá si se
+
+[00:12:52]
+fijan yo en vivo yo metí dos operaciones
+
+[00:12:55]
+no metí una una la metí en el bloque de
+
+[00:12:58]
+m5 que era este una estaba una entrada
+
+[00:13:01]
+estaba
+
+[00:13:05]
+una entrada estaba aquí exactamente en
+
+[00:13:07]
+este inbalance y la otra entrada yo la
+
+[00:13:09]
+tenía en el bloque de M1 que se tenía
+
+[00:13:12]
+dos entonces
+
+[00:13:14]
+pues sí había una probabilidad también
+
+[00:13:17]
+de que el precio hiciera algo tal que
+
+[00:13:20]
+así
+
+[00:13:22]
+Entonces en este High yo estaba yo iba a
+
+[00:13:25]
+estar capturando una de las entradas que
+
+[00:13:27]
+tenía puestas por acá
+
+[00:13:29]
+más que nada la de m5 es la que la saqué
+
+[00:13:33]
+y va a estar poniendo Breiky bien a mi
+
+[00:13:35]
+siguiente entrada si se fijan que en
+
+[00:13:37]
+todo momento sé que hacer sé cómo
+
+[00:13:39]
+gestionar el tren hay que tener claro lo
+
+[00:13:41]
+que estamos haciendo la idea que tú
+
+[00:13:43]
+llevas principal Cuál es la idea que yo
+
+[00:13:45]
+llevo principal la idea que yo vivo
+
+[00:13:47]
+principal es que esto tiene que hacer un
+
+[00:13:49]
+retroceso para seguir cayendo que dónde
+
+[00:13:52]
+me voy a beneficiar yo en el retroceso
+
+[00:13:53]
+hacia arriba después ya no me interesa
+
+[00:13:56]
+nada lo que haga el mercado
+
+[00:13:58]
+Esa es mi idea ella
+
+[00:14:00]
+si me equivoco qué va a pasar pues si me
+
+[00:14:03]
+equivoco me voy a ir con esta blogs acá
+
+[00:14:05]
+pasa mi gestión de riesgo al día mi stop
+
+[00:14:08]
+los Claro que sí Cuántos puntos tengo de
+
+[00:14:10]
+stop blog pues no es demasiado son 24 en
+
+[00:14:12]
+mi caso yo no meto más de 30 Entonces me
+
+[00:14:15]
+pasa todos los filtros me rompió la
+
+[00:14:17]
+estructura si tengo un balance por
+
+[00:14:18]
+arriba así el precio me capturó el
+
+[00:14:21]
+liquidez abajo Claro que sí entonces
+
+[00:14:23]
+tengo todos Ahora sí que todos mis
+
+[00:14:26]
+filtros de entrada no sé cuáles sean los
+
+[00:14:28]
+tuyos
+
+[00:14:29]
+pero todos mis filtros de entrada los
+
+[00:14:31]
+tengo completos aquí incluso vuelve a
+
+[00:14:34]
+remitir otra vez
+
+[00:14:37]
+a probar este order blog que era el que
+
+[00:14:39]
+tenía más dinero si se fijan Este es el
+
+[00:14:42]
+que más tenía dinero y fíjense como ella
+
+[00:14:45]
+reacciona de manera súper súper súper
+
+[00:14:47]
+agresiva acá ya aquí si se fijan en M1
+
+[00:14:51]
+ya cuando yo mire este comportamiento en
+
+[00:14:52]
+el precio ya estaba muy tranquilo porque
+
+[00:14:55]
+el precio ya iba rompiendo sin points de
+
+[00:14:58]
+30 segundos de 15 segundos de
+
+[00:15:00]
+temporalidad es más bajas y después se
+
+[00:15:03]
+fue con todo
+
+[00:15:05]
+de acá cuando se fue con todo aquí ya lo
+
+[00:15:07]
+que estuve haciendo Yo después de este
+
+[00:15:09]
+retroceso volvió a subir estuve Aquí
+
+[00:15:11]
+sacando mi parcial que habíamos quedado
+
+[00:15:14]
+que era el que iba a sacar verdad saqué
+
+[00:15:16]
+mi parcial metí breve ya acá puedo sacar
+
+[00:15:19]
+la Ema
+
+[00:15:21]
+Esto es para lo que se pregunten es una
+
+[00:15:23]
+dema de 12 periodos
+
+[00:15:25]
+exponencial y ya acá yo puedo ir
+
+[00:15:28]
+subiendo el Stop loss si no estoy
+
+[00:15:31]
+dispuesta a perder este si se regresa
+
+[00:15:34]
+pues si no estoy dispuesto a perder
+
+[00:15:36]
+tanto porcentaje de mitre Ya puedo ir
+
+[00:15:38]
+subiendo el Stop loss pero después se va
+
+[00:15:41]
+ATP contundentemente se fue ATP y acá
+
+[00:15:46]
+nos hicimos un 1 a 4 con parciales
+
+[00:15:48]
+incluidos más o menos un este
+
+[00:15:53]
+un 0.6% de portraits
+
+[00:15:59]
+0
+
+[00:16:01]
+.6 por
+
+[00:16:03]
+4 nos hicimos un 2.4% acá y por los
+
+[00:16:08]
+parciales 1,2 0.6 por 2
+
+[00:16:12]
+nos hicimos un 1.2 Entonces más o menos
+
+[00:16:16]
+casi un 4% 3 puntos y cacho de la cuenta
+
+[00:16:19]
+en un solo tren ya después acá cuando el
+
+[00:16:24]
+mercado este
+
+[00:16:27]
+ya acá cuando llega a esta zona pues ya
+
+[00:16:30]
+yo está salgo y ese es el el Trade que
+
+[00:16:33]
+tomamos el día jueves bastante bueno
+
+[00:16:36]
+bastante bonito
+
+[00:16:38]
+y acá el mercado saca liquidez de ese
+
+[00:16:43]
+punto y ya después nos dan la
+
+[00:16:44]
+confirmación en ventas pero ya cuando
+
+[00:16:46]
+nos da la confirmación en ventas ya yo
+
+[00:16:48]
+ya no no me no quise entrar pero si se
+
+[00:16:52]
+fijan justo donde tengo los targets es
+
+[00:16:55]
+donde el mercado Casi casi se devuelve
+
+[00:16:58]
+se devuelve por qué Porque la teníamos
+
+[00:17:00]
+clara que el mercado el movimiento que
+
+[00:17:02]
+teníamos y se fijan la idea que teníamos
+
+[00:17:04]
+al principio fíjense cómo salió Esa era
+
+[00:17:07]
+la idea que tenemos nosotros Porque no
+
+[00:17:09]
+pelea a favor de la estructura y a favor
+
+[00:17:12]
+de la tendencia Pues por el horario No
+
+[00:17:13]
+yo estaba en este horario no ya para
+
+[00:17:16]
+cuando el precio empieza a hacer esto ya
+
+[00:17:18]
+es más demasiado tarde para mí entonces
+
+[00:17:21]
+este estaba en un horario perfecto para
+
+[00:17:24]
+yo gestionar un tren en mi caso 930 de
+
+[00:17:27]
+la mañana ya máximo 11 de la mañana ya
+
+[00:17:29]
+solo yo estar descansando ya
+
+[00:17:32]
+Entonces por el horario
+
+[00:17:35]
+y te podías haber agarrado la venta
+
+[00:17:37]
+también Sí pero eso eran otros por otros
+
+[00:17:40]
+conceptos pero si se fijan la idea
+
+[00:17:42]
+principal que era de que el precio
+
+[00:17:45]
+hiciera un retroceso si se fijan les voy
+
+[00:17:48]
+a poner acá el gráfico de 5 minutos para
+
+[00:17:50]
+que lo vean bien claramente vean cómo
+
+[00:17:52]
+viene mitiga todo el inbalance que te
+
+[00:17:55]
+había dejado el que teníamos la idea
+
+[00:17:57]
+mitiga incluso este balance que tenía
+
+[00:17:59]
+acá pendiente este de acá ya no porque
+
+[00:18:02]
+esto ya sería un retroceso ya más
+
+[00:18:04]
+profundo si llegaba a subir más para acá
+
+[00:18:06]
+Por eso decidió no hacerlo acá
+
+[00:18:10]
+fue a este Breaker y de ahí cayó y esa
+
+[00:18:14]
+era la idea que teníamos en todo momento
+
+[00:18:16]
+ya después sigue haciendo la estructura
+
+[00:18:18]
+hacia abajo y bueno ya pasaron bastante
+
+[00:18:21]
+cosas
+
+[00:18:23]
+acá no sé si alguien tenga alguna
+
+[00:18:25]
+pregunta sobre esto
+
+[00:18:28]
+vea que no es nada difícil
+
+[00:18:30]
+no utilizamos ningún tipo de indicador
+
+[00:18:33]
+no utilizamos bueno podríamos contar el
+
+[00:18:36]
+de balance que si es un indicador pero
+
+[00:18:38]
+Incluso se puede hacer sin indicador yo
+
+[00:18:40]
+lo uso porque es bastante útil pero no
+
+[00:18:42]
+utilizamos ningún tipo de indicador ni
+
+[00:18:44]
+andamos viendo la media móvil y andamos
+
+[00:18:47]
+viendo el estocástico ni el rsi no digo
+
+[00:18:49]
+que no funciona y no sirva pero hacemos
+
+[00:18:51]
+lo que le trato de decir es que hacemos
+
+[00:18:53]
+un trading sencillo lo más sencillo que
+
+[00:18:55]
+se pueda
+
+[00:18:57]
+lo más sencillo que
+
+[00:19:01]
+se
+
+[00:19:03]
+[Música]
+```

@@ -1,0 +1,637 @@
+---
+source_id: YT_CANAL_02_wOAAgov6MKc
+video_id: wOAAgov6MKc
+channel: "Gustavom.Trader"
+published_at: 2024-02-16
+url: https://www.youtube.com/watch?v=wOAAgov6MKc
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 5
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Cae Funding Pips y funded next banea usuarios de EE. UU.
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=wOAAgov6MKc)
+
+## Transcript
+
+```
+[00:00:00]
+entonces empezamos con esto que es lo
+
+[00:00:02]
+que la mañana pasada hoy 14 de febrero
+
+[00:00:05]
+se cae fund de pips eh Yo me levanté
+
+[00:00:10]
+quise hacer un Trade
+
+[00:00:11]
+eh Y ya no pude Entonces ya después miré
+
+[00:00:16]
+el el correo y dice que todas las
+
+[00:00:18]
+operaciones están cerradas y el comercio
+
+[00:00:20]
+Se Ha desactivado temporalmente debido a
+
+[00:00:22]
+un mantenimiento urgente inesperado
+
+[00:00:24]
+nuestro equipo técnico está trabajando
+
+[00:00:26]
+activamente para resolver el problema lo
+
+[00:00:27]
+antes posible como siempre busca haremos
+
+[00:00:30]
+una solución para que todos los
+
+[00:00:31]
+operadores que tenían una operación
+
+[00:00:33]
+abierta que cerró en pérdida por nuestro
+
+[00:00:35]
+trist tema y sentimos las molestias bla
+
+[00:00:37]
+bla bla entonces básicamente fund p se
+
+[00:00:39]
+acaba de cerrar el día de hoy solamente
+
+[00:00:42]
+se dieron a la baja Qué pasó realmente
+
+[00:00:44]
+Pues bueno acá después el ceo de fund
+
+[00:00:48]
+pits o uno de los ceo creo que son dos
+
+[00:00:50]
+eh pone otro mensaje Bueno aquí estamos
+
+[00:00:53]
+en el en el Twitter de ket uno de los
+
+[00:00:56]
+seos de funden pips y ese es el mismo
+
+[00:01:00]
+mensaje que pusieron después ellos en
+
+[00:01:01]
+discord o entonces hace 7 horas y que
+
+[00:01:04]
+dice Hola comunidad de amigos este desde
+
+[00:01:07]
+el primer día hemos sido completamente
+
+[00:01:09]
+transparentes con todos y cada uno de
+
+[00:01:10]
+vosotros siempre Hemos cumplido nuestras
+
+[00:01:13]
+promesas y compromisos eh siempre hemos
+
+[00:01:18]
+adquirido nuestras promesas y
+
+[00:01:19]
+compromisos A diferencia de muchos otros
+
+[00:01:21]
+y seguirmos haciéndolo no hoy mets metac
+
+[00:01:24]
+coach es la empresa que pues dueña de
+
+[00:01:28]
+metatrader 4 y metatrader cco donde
+
+[00:01:30]
+operamos eh casi la mayoría de personas
+
+[00:01:34]
+en las empresas de fondeo Eh
+
+[00:01:37]
+concretamente Pues acá Met Trader 5 es
+
+[00:01:39]
+la que afecta porque es la que está
+
+[00:01:41]
+Solamente en fund de pips eh eh decidió
+
+[00:01:45]
+detener brutal los servicios debido a
+
+[00:01:47]
+cuentas activas de Estados Unidos sin
+
+[00:01:49]
+previo aviso Black Black Bull que es el
+
+[00:01:52]
+broker no terminó nuestra asociación
+
+[00:01:54]
+peroo se vieron obligadas a dejarnos ir
+
+[00:01:56]
+dejarnos ir es como como a dejarle es
+
+[00:02:00]
+inactivo el servicio eh Y ellos no
+
+[00:02:03]
+Perdieron su licencia yo estaba leyendo
+
+[00:02:05]
+en la mañana que probablemente habían
+
+[00:02:06]
+perdido su licencia como como este se
+
+[00:02:10]
+especulaba pero no perdieron la licencia
+
+[00:02:12]
+a Black Bull simplemente les dieron a la
+
+[00:02:14]
+baja o les quitaron el servicio porque
+
+[00:02:17]
+para los que no sepan un poquito el lío
+
+[00:02:20]
+con con con esto hay varios puntos uno
+
+[00:02:22]
+de los puntos es que eh las fftc o
+
+[00:02:26]
+Estados Unidos en general los organismos
+
+[00:02:29]
+reguladores eh están metiendo presión a
+
+[00:02:32]
+metacat para que solamente tengan o
+
+[00:02:34]
+metacast quiere tener solamente empresas
+
+[00:02:37]
+o Brokers con ellos trabajando que estén
+
+[00:02:40]
+regulados como saben está lo que es
+
+[00:02:43]
+metac cruts o que es el la plataforma
+
+[00:02:47]
+está el broker que es en este caso Blood
+
+[00:02:48]
+Bull y está la empresa de fondeos son
+
+[00:02:51]
+como tres empresas diferentes o
+
+[00:02:53]
+organismos diferentes y
+
+[00:02:55]
+Eh pues es un servicio a terceros Como
+
+[00:02:58]
+quién dice el que da metatrader a a a la
+
+[00:03:00]
+fund pips o a las empresas de fondeo
+
+[00:03:03]
+pero no permiten no quieren que hayaa eh
+
+[00:03:07]
+compañías que no están reguladas Y como
+
+[00:03:08]
+saben que las compañías de fondeo no
+
+[00:03:11]
+están reguladas pues está viendo todo
+
+[00:03:13]
+este lío que está sucediendo en los
+
+[00:03:15]
+últimos días
+
+[00:03:16]
+Eh con no n más con funde p también con
+
+[00:03:20]
+funde next con ftm paso eh Por ahí
+
+[00:03:24]
+también este con tru forex phone
+
+[00:03:28]
+este con funder engineer y con más Y
+
+[00:03:32]
+seguramente los próximos días ustedes
+
+[00:03:33]
+van a ver que van a empezar a pasar más
+
+[00:03:35]
+cosas inclusive yo especulo que también
+
+[00:03:37]
+va a pasar con funden next entonces
+
+[00:03:40]
+básicamente se vieron obligados a a
+
+[00:03:43]
+quitar el servicio eh pero dicen que
+
+[00:03:46]
+tienen buenas noticias que recuperaron
+
+[00:03:48]
+todas nuestras cuentas y que están
+
+[00:03:49]
+trabajando incansablemente para
+
+[00:03:51]
+organizar o para volver a estar en línea
+
+[00:03:54]
+entonces básicamente pues les quitaron
+
+[00:03:55]
+el servicio metatrader le quitó el
+
+[00:03:57]
+servicio bueno no metatrader Bull les
+
+[00:04:00]
+quitó el servicio pero porque metate les
+
+[00:04:02]
+dijo y muy seguramente porque la cftc
+
+[00:04:05]
+está detrás de esto y quiere regular Sí
+
+[00:04:08]
+o sí las empresas de fondeo es todo el
+
+[00:04:10]
+lío que que hay que quieren regular las
+
+[00:04:12]
+empresas de fondeo y que al querer
+
+[00:04:14]
+regular las empresas de fondeo Pues
+
+[00:04:16]
+están haciendo todo lo que sea posible
+
+[00:04:18]
+para para que eso pase entonces por eso
+
+[00:04:22]
+también este funden next que es una de
+
+[00:04:26]
+las top empresas también por eso bó a
+
+[00:04:29]
+los usuarios en Estados Unidos de hecho
+
+[00:04:31]
+por acá
+
+[00:04:33]
+eh pone después el último tweet que les
+
+[00:04:36]
+puse que dice que literalmente se
+
+[00:04:40]
+llevaron a una de las empresas más
+
+[00:04:41]
+confiables o la empresa más confiable y
+
+[00:04:44]
+dice que ya se están como mudando o
+
+[00:04:48]
+cambiando de perdón dice que ya se están
+
+[00:04:52]
+este mudando así Trader y dx Trade de
+
+[00:04:55]
+hecho dicen actualmente ahorita han
+
+[00:04:56]
+pasado como unas 12 horas de que se cayó
+
+[00:05:00]
+12 horas o 15 horas y
+
+[00:05:03]
+eh están ya dice que tienen un 80% de
+
+[00:05:07]
+como que s Trader está listo en un 80%
+
+[00:05:10]
+vamos a ver en cuánto tiempo se logran
+
+[00:05:13]
+volver a poner en línea pero no las
+
+[00:05:17]
+personas que tengan como pánico no
+
+[00:05:18]
+tengan pánico no es el caso de My Forest
+
+[00:05:21]
+F my Forest F fue un caso más grave
+
+[00:05:23]
+porque ya fue una demanda ya fue algo
+
+[00:05:26]
+fiscal ya fue una demanda jurídica acá
+
+[00:05:30]
+No hay ninguna demanda simplemente les
+
+[00:05:32]
+quitaron el servicio metac porque no no
+
+[00:05:35]
+tienen licencia porque no tienen
+
+[00:05:37]
+licencia porque para tener licencia
+
+[00:05:38]
+ocupas ser regulado ocupas estar
+
+[00:05:41]
+regulado
+
+[00:05:42]
+eh Entonces esto esto lo que sucedió el
+
+[00:05:46]
+día de hoy y lo que está pasando con
+
+[00:05:49]
+diferentes bueno con al menos con fund
+
+[00:05:52]
+pips que es de la que estamos hablando
+
+[00:05:53]
+principalmente entonces todo el problema
+
+[00:05:55]
+es con Estados Unidos y todo el lío si
+
+[00:05:58]
+se fijan vino a a partir de que todo el
+
+[00:06:01]
+lío vino a partir de que my Forest phone
+
+[00:06:04]
+este cerró o la vetaron que es la
+
+[00:06:07]
+empresa que my Forest F era la que tenía
+
+[00:06:10]
+más tráfico la que tenía todo el mercado
+
+[00:06:12]
+entonces se fueron sobre esa eh Sí le
+
+[00:06:15]
+descubrieron muchas irregularidades este
+
+[00:06:18]
+ya la dijeron que la vetaron 6 meses en
+
+[00:06:21]
+Canadá no sé en Estados Unidos Cómo no
+
+[00:06:23]
+creo que no se ha resuelto todavía la el
+
+[00:06:25]
+caso pero aquí está la eh funden next
+
+[00:06:28]
+que es la top uno en cuanto a tráfico y
+
+[00:06:32]
+yo creo que en cuanto a ventas de
+
+[00:06:34]
+challenge Yo creo que es la número uno
+
+[00:06:36]
+ahorita verad y esta banea usuarios en
+
+[00:06:40]
+Estados Unidos F también luego está de
+
+[00:06:43]
+funder Trader que no ha ten que ya
+
+[00:06:45]
+empezó a mudarse también a c Trader y a
+
+[00:06:47]
+dx
+
+[00:06:49]
+dx Trader creo que se llama entonces
+
+[00:06:52]
+también esto ya se están mudando apex no
+
+[00:06:55]
+ha tenido ningún problema Son de futuros
+
+[00:06:56]
+ellos no creo que no las futuros fíjense
+
+[00:06:59]
+que no ha tenido tanto problema pero
+
+[00:07:02]
+bueno es otra historia pero las que
+
+[00:07:04]
+están más involucradas o han tenido más
+
+[00:07:05]
+problemas son las de cfds y ya en el top
+
+[00:07:08]
+c y subiendo yo creo que está agarrando
+
+[00:07:10]
+mucha fuerza mucha popularidad A menos
+
+[00:07:13]
+estaba viendo en español que está
+
+[00:07:14]
+agarrando mucha popularidad que si se
+
+[00:07:17]
+fijan acá es un aumento de un 65 por que
+
+[00:07:20]
+está agarrando mucho mercado fund de
+
+[00:07:23]
+pips está en el top C de mayor tráfico y
+
+[00:07:26]
+este y han baneado funder piz a los
+
+[00:07:30]
+usuarios en Estados Unidos la única que
+
+[00:07:32]
+al día de hoy deja es de funder Trader
+
+[00:07:35]
+bueno hablando de estas cinco y creo que
+
+[00:07:37]
+en un futuro van a empezar también las
+
+[00:07:39]
+demás a banear a usuarios de Estados
+
+[00:07:41]
+Unidos y obviamente la comisión
+
+[00:07:44]
+reguladora pues está yendo sobre las que
+
+[00:07:46]
+más mueven dinero no que es lo que más
+
+[00:07:47]
+les interesa todo su problema está en
+
+[00:07:50]
+que el dinero no está regulado o la o el
+
+[00:07:53]
+negocio no está regulado y el dinero no
+
+[00:07:55]
+se queda en en en en Estados Unidos y
+
+[00:07:58]
+más que F por ejemplo y fund pis no
+
+[00:08:01]
+están no tienen una sede en Estados
+
+[00:08:04]
+Unidos Entonces no puede estar bajo la
+
+[00:08:06]
+jurisdicción de el mercado americano por
+
+[00:08:11]
+eso ellos lo único que pueden hacer es
+
+[00:08:14]
+eh velar por los clientes entre comillas
+
+[00:08:17]
+de Estados Unidos y meter su cuchara ahí
+
+[00:08:20]
+con los usuarios de Estados Unidos y por
+
+[00:08:22]
+eso ftmo que fue avisada con tiempo se
+
+[00:08:27]
+dieron cuenta con tiempo lo hizo y
+
+[00:08:29]
+funder next también y ahora funder px
+
+[00:08:32]
+también tomó la decisión para los
+
+[00:08:34]
+estadounidenses eh Qué opciones habría
+
+[00:08:36]
+para las americanos o alguna persona que
+
+[00:08:39]
+me esté mirando que sea latino pues una
+
+[00:08:42]
+es o abres tu cuenta en algún broker o
+
+[00:08:46]
+este directamente puedes este ir a
+
+[00:08:50]
+futuros a empresas de futuros creo que
+
+[00:08:53]
+hay buenas empresas de futuro si tu
+
+[00:08:55]
+estilo de trading te permite ir a
+
+[00:08:56]
+hacerlo
+```

@@ -1,0 +1,1261 @@
+---
+source_id: YT_CANAL_02_6w-tB2m-hTI
+video_id: 6w-tB2m-hTI
+channel: "Gustavom.Trader"
+published_at: 2024-01-11
+url: https://www.youtube.com/watch?v=6w-tB2m-hTI
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 9
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# EL MEJOR CURSO de SCALPING para PRINCIPIANTES/AVANZADO
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=6w-tB2m-hTI)
+
+## Transcript
+
+```
+[00:00:00]
+en este video les voy a decir cómo hacer
+
+[00:00:02]
+scalping digamos un principiante hasta
+
+[00:00:06]
+un avanzado qué aspectos fundamentales
+
+[00:00:09]
+deberíamos de tener en cuenta a la hora
+
+[00:00:10]
+de hacer scalping este estilo de
+
+[00:00:12]
+operativa y vamos a pasar acá a la
+
+[00:00:15]
+pantalla Donde tengo los aspectos que yo
+
+[00:00:18]
+considero importantes para para hacer
+
+[00:00:20]
+scalping Bueno chicos ya estamos aquí en
+
+[00:00:21]
+la pantalla les tengo una lista de cosas
+
+[00:00:25]
+importantes super importantes a la hora
+
+[00:00:27]
+de hacer scalping verdad eh yo Considero
+
+[00:00:31]
+que hay dos tipos de scalpi no lo pude
+
+[00:00:32]
+clasificar en dos tipos de scalpi un
+
+[00:00:35]
+tipo de scalpi sería operativa de 20
+
+[00:00:38]
+minutos velas de M1 m2 nos
+
+[00:00:40]
+especializamos en los primeros 20
+
+[00:00:43]
+minutos de una sesión Hacer nuestro
+
+[00:00:46]
+dinerito y retirarnos es una operativa
+
+[00:00:48]
+de un scalping rápido muy muy rápido un
+
+[00:00:51]
+poquito agresivo entre comillas pero es
+
+[00:00:54]
+muy muy muy rápido y nos podemos
+
+[00:00:56]
+especializar en ello luego después
+
+[00:00:58]
+tenemos operativa
+
+[00:01:00]
+de 40 minutos velas ya de m5 m15 y M1 lo
+
+[00:01:05]
+bueno del scalping una cosa que tiene
+
+[00:01:07]
+buena del scalping es que también
+
+[00:01:09]
+podemos utilizar pocas temporalidades no
+
+[00:01:12]
+es necesario que tengamos todas las
+
+[00:01:14]
+temporalidades abiertas pero si queremos
+
+[00:01:17]
+utilizar todas las temporalidades
+
+[00:01:19]
+también podemos pero claro está que las
+
+[00:01:22]
+temporalidades cortas van a ser para
+
+[00:01:23]
+nuestras entradas y donde vamos a estar
+
+[00:01:26]
+teniendo que dominar más el gráfico en
+
+[00:01:28]
+profundidad aspectos importantes yo les
+
+[00:01:31]
+voy a tener un poquito debilidades y
+
+[00:01:33]
+fortalezas de scalping para que ustedes
+
+[00:01:35]
+sepan dónde se están metiendo o si ya
+
+[00:01:37]
+hacen scalping sepan como dónde es sus
+
+[00:01:42]
+mejores fortalezas y sus peores
+
+[00:01:44]
+debilidades verdad primero que tenemos
+
+[00:01:47]
+que tener una estrategia clara donde no
+
+[00:01:48]
+podemos no podemos entrar por entrar
+
+[00:01:51]
+tener unos criterios de entrada y salida
+
+[00:01:53]
+bien claros al ser operativas muy
+
+[00:01:55]
+rápidas tenemos nosotros que tener un
+
+[00:01:57]
+Setup de buena entrada eh tener varios
+
+[00:02:00]
+tipos de Bueno pues Aquí tengo un
+
+[00:02:02]
+ejemplo de este estilo de operativa eh
+
+[00:02:06]
+simplemente basándonos un poquito en en
+
+[00:02:08]
+lo que fue el día de hoy en el nasdaq y
+
+[00:02:11]
+también basándonos un poquito de
+
+[00:02:13]
+fibonacci algo Bastante sencillo
+
+[00:02:15]
+fibonacci retroceso de fibonacci y
+
+[00:02:18]
+basándonos en estructura de Mercado y
+
+[00:02:20]
+para que ustedes vean como más que nada
+
+[00:02:22]
+en no en la entrada en sí Sino para que
+
+[00:02:25]
+ustedes vean como el tipo de operativa
+
+[00:02:27]
+cuánto suele durar y para que que vean
+
+[00:02:30]
+ustedes como lo que vamos a estar
+
+[00:02:31]
+buscando día con día por ejemplo esta
+
+[00:02:33]
+operación concretamente que marqué aquí
+
+[00:02:35]
+nos podría haber durado 35 minutos está
+
+[00:02:38]
+sobre la media de lo que yo eh tendría
+
+[00:02:40]
+en una operación y simplemente
+
+[00:02:42]
+basándonos en una estructura de Mercado
+
+[00:02:44]
+que viene aquí que rompe la estructura
+
+[00:02:47]
+que genera un retroceso Y en este
+
+[00:02:49]
+retroceso al 50% nos podíamos haber
+
+[00:02:51]
+metido y tenido esta operación hasta
+
+[00:02:53]
+esta liquidez aquí este sería como
+
+[00:02:55]
+nuestro Target Entonces ese es el estilo
+
+[00:02:57]
+de operativa que yo les hablo amigos me
+
+[00:02:59]
+había pasado decirles que en mi canal de
+
+[00:03:01]
+Telegram tengo un sorteo de
+
+[00:03:04]
+$100 para que vayan a participar el link
+
+[00:03:08]
+se encuentra abajo en la descripción en
+
+[00:03:09]
+la primera línea de la descripción está
+
+[00:03:11]
+el link para que vayan a participar por
+
+[00:03:13]
+$100 equivalente a un challenge de 10k y
+
+[00:03:17]
+está todavía disponible actualmente que
+
+[00:03:19]
+estén viendo este video para que vayan a
+
+[00:03:20]
+participar todos modelos de salida tener
+
+[00:03:24]
+bien Clara la entrada es bien importante
+
+[00:03:25]
+y la salida porque eh tener claro lo que
+
+[00:03:29]
+Estamos buscando Estamos buscando un
+
+[00:03:31]
+Trade corto y rápido que nos pague eh
+
+[00:03:34]
+Muy muy rápido en ese día no estamos
+
+[00:03:35]
+buscando un Trade largo una reacción en
+
+[00:03:38]
+el precio es suficiente para nosotros
+
+[00:03:39]
+tener profit es bien importante y eh
+
+[00:03:43]
+Para ello Tenemos que tener una
+
+[00:03:44]
+estrategia bien bien específica en este
+
+[00:03:46]
+video no te voy a traer una estrategia
+
+[00:03:48]
+te estoy trayendo como una guía de
+
+[00:03:49]
+scalping Pero al final del video te voy
+
+[00:03:53]
+a dejar un video de de una estrategia
+
+[00:03:55]
+que tengo yo en el Canal de scalping
+
+[00:03:57]
+para que la puedas aplicar y próxima
+
+[00:03:59]
+timamente en el canal suscríbete a este
+
+[00:04:01]
+canal Únete a nuestra comunidad de char
+
+[00:04:03]
+Shooter en Telegram y en todos los
+
+[00:04:04]
+grupos donde te voy a estar trayendo más
+
+[00:04:07]
+videos concretamente ya de una
+
+[00:04:08]
+estrategia específica de scalping eh
+
+[00:04:11]
+otro cosa importante es tener definido
+
+[00:04:14]
+el tamaño del stop loss y del Take
+
+[00:04:16]
+profit para que cumpla En nuestro tiempo
+
+[00:04:17]
+definido aproximadamente vaya tener un
+
+[00:04:20]
+stop loss que sea razonable no tan
+
+[00:04:22]
+grande ni tampoco tan pequeñito para
+
+[00:04:24]
+poder nosotros en 20 minutitos ya estar
+
+[00:04:27]
+saliendo en 40 minutitos estar saliendo
+
+[00:04:29]
+ya de esa operativa Igualmente el Take
+
+[00:04:31]
+profit tener bien en claro el el Take
+
+[00:04:34]
+profit dónde lo vamos a poner otra cosa
+
+[00:04:36]
+que quiero tener bien bien bien bien
+
+[00:04:38]
+definida es tener el límite de
+
+[00:04:40]
+operaciones por día como podemos hacer
+
+[00:04:42]
+muchas operaciones porque son muy muy
+
+[00:04:44]
+cortitas más si nosotros vamos por una
+
+[00:04:46]
+optamos por una operativa muy muy muy
+
+[00:04:49]
+muy rápida vamos a tener una un una
+
+[00:04:52]
+operativa muy muy corta y vamos a poder
+
+[00:04:54]
+hacer muchas operaciones pero eh tenemos
+
+[00:04:57]
+que tener bien bien en claro clo límite
+
+[00:05:00]
+de operaciones porque podemos caer en
+
+[00:05:01]
+sobre operativa muy fácilmente
+
+[00:05:04]
+eh operativa muy rápida y nos
+
+[00:05:07]
+desocupamos muy rápido podemos trabajar
+
+[00:05:10]
+muy poco tiempo al día como les digo una
+
+[00:05:11]
+fortaleza que tiene esta esta tipo de
+
+[00:05:14]
+operativa es que si tú trabajas por
+
+[00:05:16]
+ejemplo todo el día puedes levantarte y
+
+[00:05:18]
+hacer scalping 20 minutitos 40 minutitos
+
+[00:05:20]
+al día 30 minutitos al día y ya estás
+
+[00:05:23]
+Fino ya estás bien y con eso ya tienes
+
+[00:05:25]
+tu día completamente hecho es algo bueno
+
+[00:05:27]
+que tiene el scalping pero pero también
+
+[00:05:29]
+al ser rápida podemos acumular muchos
+
+[00:05:31]
+errores rápidamente podemos caer
+
+[00:05:33]
+rápidamente en una racha de errores
+
+[00:05:35]
+operativa bastante cortita aquí
+
+[00:05:37]
+tendríamos por ejemplo otra entrada
+
+[00:05:39]
+vamos a poner a lo mejor eh una
+
+[00:05:41]
+operativa un poquito más más más rápida
+
+[00:05:45]
+podríamos decir que por ejemplo aquí
+
+[00:05:47]
+utilizando unos 15 puntitos en el en el
+
+[00:05:50]
+nasdaq Y utilizando unos eh 40 puntos
+
+[00:05:55]
+aproximadamente teniendo 1 2.5 ya
+
+[00:05:58]
+tendríamos una operativa de también
+
+[00:05:59]
+igual bastante bien de este estilo
+
+[00:06:02]
+también aquí podríamos ya basar nuestras
+
+[00:06:04]
+confirmaciones una operativa de 39
+
+[00:06:07]
+minutos aproximadamente en gráficos de
+
+[00:06:10]
+un minuto y ahí podríamos estar midiendo
+
+[00:06:12]
+los impulsos y los retrocesos aquí por
+
+[00:06:14]
+ejemplo tenemos otro retroceso donde
+
+[00:06:15]
+podríamos haber entrado y así
+
+[00:06:18]
+sucesivamente simplemente ahora
+
+[00:06:19]
+basándonos en la estructura de Mercado
+
+[00:06:21]
+podríamos haber tenido una operativa
+
+[00:06:22]
+bastante bast errores un efecto dominó
+
+[00:06:25]
+muy rápidamente y tenemos que saber
+
+[00:06:27]
+parar algo bien importante es saber
+
+[00:06:30]
+parar tenemos que saber parar Por eso
+
+[00:06:32]
+tenemos que tener un plan bien definido
+
+[00:06:33]
+específicamente y cumplirlo a rajatabla
+
+[00:06:36]
+es más fácil caer en rachos negativas y
+
+[00:06:38]
+sobre apalancamiento y venganza en el
+
+[00:06:41]
+mercado podemos caer muy muy fácilmente
+
+[00:06:43]
+en venganza en el mercado entonces por
+
+[00:06:45]
+eso tenemos que tener ese plan maestro
+
+[00:06:48]
+de nuestra operativa Para no caer en ese
+
+[00:06:50]
+tipo de de de venganza en el mercado la
+
+[00:06:54]
+rec mi recomendación base en mi
+
+[00:06:56]
+experiencia yo ya he practicado scalping
+
+[00:06:58]
+ahorita no es es la operativa que yo
+
+[00:07:00]
+haga yo ahorita estoy tirando más por
+
+[00:07:01]
+una operativa intradía barra swing
+
+[00:07:04]
+Ahorita estoy un poquito más intradía
+
+[00:07:06]
+pero por ahí ando pero scalping no lo
+
+[00:07:08]
+hago ahora pero sí lo llegué a hacer
+
+[00:07:10]
+Tengo experiencia en ello De hecho yo lo
+
+[00:07:12]
+hacía en velas de 30 segundos 5 segundos
+
+[00:07:15]
+15 segundos y Eh mi recomendación es
+
+[00:07:18]
+tradear las horas de alta volatilidad
+
+[00:07:19]
+como la apertura de New York podemos ser
+
+[00:07:21]
+100% especialistas en la apertura de New
+
+[00:07:23]
+York los primeros 20 30 minutos de la
+
+[00:07:25]
+apertura de New York y Londres los
+
+[00:07:28]
+primeros 20 minutos si Nosotros sabemos
+
+[00:07:31]
+controlarnos bien hacer una una
+
+[00:07:33]
+operación al día dos operaciones tener
+
+[00:07:35]
+un número de operaciones que podemos
+
+[00:07:36]
+hacer al día con un riesgo bien definido
+
+[00:07:38]
+podemos ser bastante profesionales en
+
+[00:07:40]
+cuanto a hacer scalping una vez
+
+[00:07:42]
+concluida tu tiempo no sobre opere
+
+[00:07:44]
+cierra ese gráfico y vuelve al día
+
+[00:07:46]
+siguiente una vez que ya ganaste una vez
+
+[00:07:48]
+que ya perdiste cierra y vuelves al día
+
+[00:07:51]
+siguiente es bien importante para el
+
+[00:07:52]
+scalping porque podemos el scalping como
+
+[00:07:55]
+podemos ver Muchas entradas en el día no
+
+[00:07:56]
+es lo mismo que el swing no que el swing
+
+[00:07:58]
+podemos inventar arnos las entradas pero
+
+[00:08:01]
+como tal ver entradas no las vamos a ver
+
+[00:08:03]
+verad y el scalping puede ser que sí se
+
+[00:08:05]
+ven muchas oportunidades en el día y que
+
+[00:08:08]
+vamos a estar
+
+[00:08:10]
+operário diario entre el número de TR
+
+[00:08:13]
+que vas a hacer para no pasarte la
+
+[00:08:14]
+pérdida máxima y tener problemas otra
+
+[00:08:17]
+cosa bien importante es eh cuánto riesgo
+
+[00:08:20]
+voy a utilizar con el número de
+
+[00:08:22]
+operaciones que voy a hacer Si voy a
+
+[00:08:23]
+hacer cinco operaciones pues no voy a
+
+[00:08:25]
+utilizar 1% verdad Porque en ese mismo
+
+[00:08:28]
+día voy a pierdo las cinco operaciones
+
+[00:08:30]
+seguidas eh voy a estar perdiendo el un
+
+[00:08:33]
+5% verad entonces voy a tener que
+
+[00:08:36]
+equilibrar ese número de operaciones voy
+
+[00:08:38]
+a hacer dos tres Con cuántos riesgo las
+
+[00:08:40]
+voy a hacer cuánto me siento cómodo me
+
+[00:08:42]
+siento cómodo entrando más agresivo
+
+[00:08:44]
+menos agresivo eso tengo que yo hacer un
+
+[00:08:46]
+un book un libro una libreta y estar
+
+[00:08:49]
+anotando eh los números de operaciones
+
+[00:08:51]
+que me vienen mejor y me vienen peor
+
+[00:08:53]
+verdad una de las cosas de que yo me di
+
+[00:08:55]
+cuenta que era mejor yo en intradía que
+
+[00:08:58]
+antes yo hacía mucho muchísimas
+
+[00:08:59]
+operaciones tipo más scalping más
+
+[00:09:01]
+rapiditas pero me fui dando cuenta que
+
+[00:09:03]
+era mejor hacer menos operaciones y me
+
+[00:09:05]
+fui dando cuenta que soy mejor haciendo
+
+[00:09:07]
+menos operaciones que es el scalping
+
+[00:09:09]
+tienes que estar un poco más despierto
+
+[00:09:11]
+que en otras operativas porque
+
+[00:09:13]
+eh la toma de decisiones rápida eh
+
+[00:09:16]
+premia premia este este tipo de
+
+[00:09:18]
+operativa te premia la toma decisiones
+
+[00:09:21]
+decisiones muy rápida o entonces por eso
+
+[00:09:24]
+yo recomendaría que estés bien despierto
+
+[00:09:27]
+Cuando vayas a hacer tu operativa Y si
+
+[00:09:29]
+no estás bien Focus enfocado no haría yo
+
+[00:09:32]
+scalping acá por ejemplo una ventita en
+
+[00:09:35]
+este punto de aquí y teniendo más o
+
+[00:09:38]
+menos una operativa hasta este mínimo de
+
+[00:09:41]
+unos 10 minutos o de 20 minutitos Este
+
+[00:09:44]
+es el estilo operativa del que yo les
+
+[00:09:46]
+estoy hablando que podríamos nosotros
+
+[00:09:48]
+tener en cuenta para a la hora de estar
+
+[00:09:50]
+operando scalping en un futuro yo
+
+[00:09:52]
+concretamente les voy a estar trayendo
+
+[00:09:55]
+eh una estrategia en Sí pero estén
+
+[00:09:59]
+atentos al canal de YouTube Porque aquí
+
+[00:10:00]
+les voy a estar trayendo una estrategia
+
+[00:10:02]
+en sí y también al Canal de Telegram
+
+[00:10:03]
+porque ahí también se las voy a estar
+
+[00:10:05]
+poniendo para que ustedes tengan bien
+
+[00:10:07]
+Vamos otra cosa que eh que quiero decir
+
+[00:10:11]
+es que mi recomendación es que tengas a
+
+[00:10:13]
+la mano un gráfico de 35 y 15 segundos
+
+[00:10:17]
+aquí Me faltó la un un uno 15 segundos
+
+[00:10:20]
+no es tan necesario pero te ayudará
+
+[00:10:22]
+bastante Un gráfico de temporalidades
+
+[00:10:24]
+menores más menores que lo normal que
+
+[00:10:26]
+que tenemos aquí en el trading View eh
+
+[00:10:29]
+de un minuto Yo te recomiendo que tengas
+
+[00:10:31]
+por ejemplo Ninja Trader en futuros está
+
+[00:10:33]
+bastante bien para para para operarlo
+
+[00:10:37]
+que esto me va a llevar a un punto que
+
+[00:10:38]
+no tengo aquí escrito pero que me me me
+
+[00:10:42]
+justo me acordé ahora y me viene
+
+[00:10:44]
+bastante bien si vas a operar en pruebas
+
+[00:10:46]
+de fondeo Yo te recomiendo pruebas de
+
+[00:10:48]
+fondeo de futuros para operar este tipo
+
+[00:10:51]
+de operativa scalping por qué porque
+
+[00:10:53]
+tienen un bajo spread los futuros y
+
+[00:10:56]
+puedes estar operando mucho mejor bajo
+
+[00:10:58]
+spread y aparte el drw down eh no te
+
+[00:11:02]
+afecta o o beneficia más a las eh a la
+
+[00:11:05]
+operativa de scalping si vas a operar un
+
+[00:11:07]
+poquito más intradía puedes operar en
+
+[00:11:09]
+cfds no quiere decir que no puedas
+
+[00:11:12]
+operar cfds scalping Pero los futuros le
+
+[00:11:15]
+Vienen muy bien a ese tipo de operativa
+
+[00:11:16]
+De hecho tengo muchos alumnos que si me
+
+[00:11:18]
+están escuchando ahora me pueden
+
+[00:11:20]
+corroborar en los comentarios que operan
+
+[00:11:23]
+scalping y que operan en futuro si les
+
+[00:11:25]
+viene mucho mejor por el spread Y porque
+
+[00:11:28]
+también el el precio tiene menos
+
+[00:11:30]
+deslizamiento te mete de manera precisa
+
+[00:11:33]
+verdad aunque sea scalping no significa
+
+[00:11:35]
+que vas a hacer muchos trads al día
+
+[00:11:37]
+puedes hacer uno dos trixs al día y te
+
+[00:11:38]
+irá bien si tienes una buena estrategia
+
+[00:11:40]
+estás buscando un Setup de entrada una
+
+[00:11:42]
+entradita que se te dé en 15 10
+
+[00:11:45]
+minutitos está bien una operación al día
+
+[00:11:49]
+o dos operaciones al día o tres
+
+[00:11:51]
+inclusive no necesitas hacer tampoco
+
+[00:11:53]
+tantas operaciones mucha gente cree que
+
+[00:11:55]
+hacer scalping es sinónimo de muchas
+
+[00:11:57]
+operaciones y no lo lo es no para mí no
+
+[00:12:00]
+lo es si tienes un buen Win rate por
+
+[00:12:02]
+encima del 50% unos ratios riesgo
+
+[00:12:04]
+beneficio de entre uno a uno uno a dos y
+
+[00:12:06]
+uno a TR es más que suficiente ratios
+
+[00:12:08]
+pequeños está bastante bien aunque
+
+[00:12:11]
+teniendo stop loss refinados en scalping
+
+[00:12:13]
+se puede tener ratio riesgo beneficios
+
+[00:12:15]
+bastante altos pero yo te recomiendo que
+
+[00:12:17]
+vayas por uno a dos un a tres con un
+
+[00:12:19]
+stop los grandecito pero no tan grande
+
+[00:12:21]
+Ahorita les voy a dejar ejemplos les voy
+
+[00:12:23]
+a poner unos ejemplos de estilo de
+
+[00:12:24]
+operativa y les voy a decir cómo nos
+
+[00:12:27]
+beneficiamos mejor peor Y cómo cómo está
+
+[00:12:30]
+el rollo les voy a poner algunos
+
+[00:12:31]
+ejemplos en índices y en forex para que
+
+[00:12:34]
+ustedes vean Cómo podríamos tener una
+
+[00:12:36]
+idea de hacer scalping en un próximo
+
+[00:12:38]
+video Déjenme en los comentarios si
+
+[00:12:40]
+quieren o esperan ese video les voy a
+
+[00:12:42]
+traer Ya una estrategia concreta con
+
+[00:12:43]
+reglas plan de trading y todo
+
+[00:12:46]
+específicamente sobre lo que es la
+
+[00:12:47]
+operativa de scalping Vamos allá con
+
+[00:12:50]
+algunos ejemplos pues como pueden ver
+
+[00:12:52]
+aquí tengo unos ejemplos en el gráfico
+
+[00:12:54]
+de eurod dólar son algunos ejemplos del
+
+[00:12:56]
+estilo de operaciones que les que les
+
+[00:12:58]
+digo y son este operaciones bastante
+
+[00:13:01]
+cortitas fíjense solamente utilizando
+
+[00:13:03]
+estructura de Mercado simple en la
+
+[00:13:04]
+temporalidad de un minutos y yendo a
+
+[00:13:06]
+mucho contexto de lo que está haciendo
+
+[00:13:08]
+el mercado simplemente es el estilo de
+
+[00:13:10]
+operaciones fíjense aquí un impulso
+
+[00:13:12]
+retroceso quiebra estructura tenemos un
+
+[00:13:14]
+nuevo retroceso acá en el mercado y ahí
+
+[00:13:17]
+podríamos haber tenido una operativa de
+
+[00:13:19]
+este estilo impulso retroceso que
+
+[00:13:21]
+habramos estructura aquí venimos acá y
+
+[00:13:23]
+aquí tenemos una entrada con stop bloss
+
+[00:13:26]
+no tan grande como les digo la
+
+[00:13:28]
+importancia de moderar ese tipo de stop
+
+[00:13:30]
+los tampoco tenemos que tener stop los
+
+[00:13:32]
+tan grandes para que nos vaya nuestro
+
+[00:13:34]
+ratio riesgo beneficio que queremos que
+
+[00:13:36]
+en este caso un un a 2.38 inclusive un a
+
+[00:13:38]
+TR Esta es una operativa de 15 17
+
+[00:13:41]
+minutitos aproximadamente que podríamos
+
+[00:13:43]
+haber cerrado aquí Acá tengo otra
+
+[00:13:45]
+Igualmente tenemos otro nuevo quiebre
+
+[00:13:48]
+estructural tenemos otro quiebre
+
+[00:13:51]
+estructural aquí tenemos un impulso
+
+[00:13:53]
+retroceso y aquí tendríamos un reteste
+
+[00:13:56]
+de este order block donde podríamos
+
+[00:13:58]
+haber entrado ahí y ahí tenemos eh otro
+
+[00:14:01]
+estilo de operativa yaad otro estilo de
+
+[00:14:03]
+operativa de que dura aproximadamente
+
+[00:14:06]
+este esta operación unos
+
+[00:14:09]
+eh 32 minutitos es la media en lo que
+
+[00:14:12]
+anda entre 20 a 32 40 minutitos estas
+
+[00:14:15]
+son horarios de Londres y también lo
+
+[00:14:17]
+podemos aplicar en horario de New York
+
+[00:14:19]
+Aquí tengo otro estilo de operativa
+
+[00:14:21]
+también viene el precio llega un punto
+
+[00:14:22]
+de interés toma la liquidez rompe
+
+[00:14:24]
+estructura un reteste y aquí tendríamos
+
+[00:14:26]
+una operación chiquitita fíjense que lo
+
+[00:14:28]
+bueno de esto es que aunque no acertemos
+
+[00:14:30]
+la dirección del día o no acertemos
+
+[00:14:32]
+mucho la dirección vamos a poder salir
+
+[00:14:35]
+En beneficio Porque nuestro Target van a
+
+[00:14:37]
+estar en los mínimos más cortitos o los
+
+[00:14:39]
+mínimos que están inmediatamente en el
+
+[00:14:41]
+precio no es necesario nosotros que nos
+
+[00:14:43]
+vayamos a Target super grandes sino que
+
+[00:14:45]
+simplemente con nosotros tener un order
+
+[00:14:47]
+block aquí podemos estar saliendo en ese
+
+[00:14:49]
+order block porque ya tenemos nuestro un
+
+[00:14:51]
+uno a dos uno a dos uno a uno inclusive
+
+[00:14:54]
+uno a uno está bastante bien uno a tres
+
+[00:14:56]
+por muy forzado que lo quieras tener
+
+[00:14:58]
+entonces no es necesario que nosotros
+
+[00:15:00]
+tengamos super targets para ganar en
+
+[00:15:02]
+este scalping inclusive acá fíjense Cómo
+
+[00:15:05]
+venemos teniendo esta estructura de
+
+[00:15:06]
+Mercado aquí que va rompiendo
+
+[00:15:08]
+estructuras y en este tipo de retrocesos
+
+[00:15:10]
+podemos ir siguiendo la estructura y ir
+
+[00:15:12]
+tarjeteando estos highs o esos
+
+[00:15:15]
+retrocesos para nosotros tener ahí esa
+
+[00:15:17]
+salida verad moderando nuestro stop loss
+
+[00:15:19]
+y siempre sabiendo que podemos ser
+
+[00:15:21]
+consistente a lo largo del tiempo con
+
+[00:15:23]
+muchas operaciones verdad Y podemos
+
+[00:15:25]
+tener una dos o tres operaciones al día
+
+[00:15:27]
+y ya está inclus podemos tener dos o
+
+[00:15:29]
+tres pares diferentes Aunque yo
+
+[00:15:31]
+recomiendo que te hagas experto en uno
+
+[00:15:33]
+pero puedes tener dos o tres pares para
+
+[00:15:35]
+si algún par no está tan bueno en
+
+[00:15:36]
+escalpe en ese día te vayas a otro y lo
+
+[00:15:39]
+bueno también de esta operativa es que
+
+[00:15:40]
+puedes hacerla continuamente todos los
+
+[00:15:42]
+días vas a encontrar operaciones
+```

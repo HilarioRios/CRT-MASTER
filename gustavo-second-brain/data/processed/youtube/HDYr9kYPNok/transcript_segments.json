@@ -1,0 +1,912 @@
+[
+  {
+    "start_sec": 0.0,
+    "end_sec": 1.56,
+    "text": "Hola Qué pasa a todos chicos Bienvenidos"
+  },
+  {
+    "start_sec": 1.56,
+    "end_sec": 4.36,
+    "text": "a un nuevo video esta vez mentoría"
+  },
+  {
+    "start_sec": 4.36,
+    "end_sec": 7.72,
+    "text": "gratuita 2024 módulo 4 estamos con la"
+  },
+  {
+    "start_sec": 7.72,
+    "end_sec": 10.04,
+    "text": "clase también número tres y esta vez"
+  },
+  {
+    "start_sec": 10.04,
+    "end_sec": 12.52,
+    "text": "vamos a hablar de dónde colocar el Stop"
+  },
+  {
+    "start_sec": 12.52,
+    "end_sec": 15.36,
+    "text": "loss muy importante el Stop loss Qué es"
+  },
+  {
+    "start_sec": 15.36,
+    "end_sec": 17.88,
+    "text": "el Stop loss cómo lo definimos es bueno"
+  },
+  {
+    "start_sec": 17.88,
+    "end_sec": 19.68,
+    "text": "utilizarlo no es bueno utilizarlo yo"
+  },
+  {
+    "start_sec": 19.68,
+    "end_sec": 21.28,
+    "text": "siempre Les recomiendo que usen stop"
+  },
+  {
+    "start_sec": 21.28,
+    "end_sec": 23.2,
+    "text": "bloss pero en esta clase vamos a ir un"
+  },
+  {
+    "start_sec": 23.2,
+    "end_sec": 25.2,
+    "text": "poquito más a fondo con el tema stop"
+  },
+  {
+    "start_sec": 25.2,
+    "end_sec": 27.36,
+    "text": "loss Entonces el Stop loss en el trading"
+  },
+  {
+    "start_sec": 27.36,
+    "end_sec": 29.16,
+    "text": "es una orden de un inversor que un"
+  },
+  {
+    "start_sec": 29.16,
+    "end_sec": 32.4,
+    "text": "inversor o eh coloca en su broker para"
+  },
+  {
+    "start_sec": 32.4,
+    "end_sec": 34.44,
+    "text": "vender un activo una vez que alcanza un"
+  },
+  {
+    "start_sec": 34.44,
+    "end_sec": 37.16,
+    "text": "precio determinado es esta herramienta"
+  },
+  {
+    "start_sec": 37.16,
+    "end_sec": 39.56,
+    "text": "se utiliza para limitar las pérdidas en"
+  },
+  {
+    "start_sec": 39.56,
+    "end_sec": 41.8,
+    "text": "una posición si el precio del activo cae"
+  },
+  {
+    "start_sec": 41.8,
+    "end_sec": 43.72,
+    "text": "a este nivel predeterminado la orden de"
+  },
+  {
+    "start_sec": 43.72,
+    "end_sec": 46.44,
+    "text": "stop loss se activa automáticamente"
+  },
+  {
+    "start_sec": 46.44,
+    "end_sec": 48.4,
+    "text": "vendiendo el activo a ese precio lo más"
+  },
+  {
+    "start_sec": 48.4,
+    "end_sec": 50.8,
+    "text": "cercano posible Ah hay veces que hay"
+  },
+  {
+    "start_sec": 50.8,
+    "end_sec": 52.16,
+    "text": "deslizamiento y no te lo vende"
+  },
+  {
+    "start_sec": 52.16,
+    "end_sec": 54.2,
+    "text": "exactamente a ese precio Pero la idea es"
+  },
+  {
+    "start_sec": 54.2,
+    "end_sec": 56.24,
+    "text": "que te lo venda al precio que tú le"
+  },
+  {
+    "start_sec": 56.24,
+    "end_sec": 58.4,
+    "text": "dijiste para qué no sirve el Stop loss"
+  },
+  {
+    "start_sec": 58.4,
+    "end_sec": 59.72,
+    "text": "principalmente yo siempre le digo a la"
+  },
+  {
+    "start_sec": 59.72,
+    "end_sec": 62.32,
+    "text": "gente el Stop loss no debe ser ni tan"
+  },
+  {
+    "start_sec": 62.32,
+    "end_sec": 65.0,
+    "text": "grande ni tan pequeño debe de ser un"
+  },
+  {
+    "start_sec": 65.0,
+    "end_sec": 68.6,
+    "text": "stop loss suficiente para decirte a ti"
+  },
+  {
+    "start_sec": 68.6,
+    "end_sec": 70.52,
+    "text": "que te has equivocado en tu estrategia"
+  },
+  {
+    "start_sec": 70.52,
+    "end_sec": 72.12,
+    "text": "que tu estrategia falló o que tu"
+  },
+  {
+    "start_sec": 72.12,
+    "end_sec": 74.84,
+    "text": "análisis falló Que lo que tú creías o lo"
+  },
+  {
+    "start_sec": 74.84,
+    "end_sec": 77.72,
+    "text": "que por lo que tú estabas ejecutando ha"
+  },
+  {
+    "start_sec": 77.72,
+    "end_sec": 80.32,
+    "text": "fallado ha fracasado o Entonces el Stop"
+  },
+  {
+    "start_sec": 80.32,
+    "end_sec": 82.48,
+    "text": "loss te va a ayudar a que como tú estás"
+  },
+  {
+    "start_sec": 82.48,
+    "end_sec": 84.72,
+    "text": "cerrado estás equivocado no sigas"
+  },
+  {
+    "start_sec": 84.72,
+    "end_sec": 86.76,
+    "text": "perdiendo más dinero del que habías"
+  },
+  {
+    "start_sec": 86.76,
+    "end_sec": 89.04,
+    "text": "determinado perder Por eso siempre que"
+  },
+  {
+    "start_sec": 89.04,
+    "end_sec": 91.24,
+    "text": "entras una posición a una entrada en el"
+  },
+  {
+    "start_sec": 91.24,
+    "end_sec": 93.88,
+    "text": "trading una posición siempre es bien"
+  },
+  {
+    "start_sec": 93.88,
+    "end_sec": 95.88,
+    "text": "importante que tú ya tengas"
+  },
+  {
+    "start_sec": 95.88,
+    "end_sec": 98.52,
+    "text": "predeterminado cuánto voy a perder es"
+  },
+  {
+    "start_sec": 98.52,
+    "end_sec": 100.04,
+    "text": "bien importante que lo tengas en la"
+  },
+  {
+    "start_sec": 100.04,
+    "end_sec": 101.64,
+    "text": "mente que ya lo tengas en un plan de"
+  },
+  {
+    "start_sec": 101.64,
+    "end_sec": 103.84,
+    "text": "trading escrito para que puedas poner tu"
+  },
+  {
+    "start_sec": 103.84,
+    "end_sec": 106.28,
+    "text": "stop loss se puede operar sin stop loss"
+  },
+  {
+    "start_sec": 106.28,
+    "end_sec": 108.08,
+    "text": "si hay estrategias que se pueden operar"
+  },
+  {
+    "start_sec": 108.08,
+    "end_sec": 110.8,
+    "text": "sin stop loss pero yo al menos Gustavo"
+  },
+  {
+    "start_sec": 110.8,
+    "end_sec": 114.04,
+    "text": "no enseño a no usar stop loss siempre me"
+  },
+  {
+    "start_sec": 114.04,
+    "end_sec": 115.8,
+    "text": "gusta usar stop bloss porque te va a"
+  },
+  {
+    "start_sec": 115.8,
+    "end_sec": 117.48,
+    "text": "ayudar a tener una gestión de riesgo"
+  },
+  {
+    "start_sec": 117.48,
+    "end_sec": 120.0,
+    "text": "correcta y aparte estar muy tranquilo"
+  },
+  {
+    "start_sec": 120.0,
+    "end_sec": 123.0,
+    "text": "tranquilo de que tú estás perdiendo o"
+  },
+  {
+    "start_sec": 123.0,
+    "end_sec": 125.16,
+    "text": "estás arriesgando o vas a perder lo que"
+  },
+  {
+    "start_sec": 125.16,
+    "end_sec": 127.56,
+    "text": "tú decidiste que querías perder el"
+  },
+  {
+    "start_sec": 127.56,
+    "end_sec": 129.84,
+    "text": "objetivo principal de los stop loss es"
+  },
+  {
+    "start_sec": 129.84,
+    "end_sec": 131.88,
+    "text": "gestionar el riesgo y proteger el"
+  },
+  {
+    "start_sec": 131.88,
+    "end_sec": 134.88,
+    "text": "capital del inversor Establecer un nivel"
+  },
+  {
+    "start_sec": 134.88,
+    "end_sec": 137.0,
+    "text": "de pérdida aceptable los inversores"
+  },
+  {
+    "start_sec": 137.0,
+    "end_sec": 138.76,
+    "text": "pueden evitar pérdidas más grandes en"
+  },
+  {
+    "start_sec": 138.76,
+    "end_sec": 140.56,
+    "text": "mercados más volátiles o movimientos"
+  },
+  {
+    "start_sec": 140.56,
+    "end_sec": 142.52,
+    "text": "inesperados en los precios verdad"
+  },
+  {
+    "start_sec": 142.52,
+    "end_sec": 144.36,
+    "text": "básicamente esto es el Stop loss y Para"
+  },
+  {
+    "start_sec": 144.36,
+    "end_sec": 147.24,
+    "text": "qué funciona es importante entender la"
+  },
+  {
+    "start_sec": 147.24,
+    "end_sec": 149.92,
+    "text": "raíz del stop loss y entender para qué"
+  },
+  {
+    "start_sec": 149.92,
+    "end_sec": 151.92,
+    "text": "sirve para qué está hecho para poder"
+  },
+  {
+    "start_sec": 151.92,
+    "end_sec": 154.68,
+    "text": "darle la relevancia o para poder darle"
+  },
+  {
+    "start_sec": 154.68,
+    "end_sec": 158.36,
+    "text": "el lugar que realmente necesita o que"
+  },
+  {
+    "start_sec": 158.36,
+    "end_sec": 160.44,
+    "text": "ocupa o que tiene el Stop loss en"
+  },
+  {
+    "start_sec": 160.44,
+    "end_sec": 162.6,
+    "text": "nuestro training ahora cómo vamos a"
+  },
+  {
+    "start_sec": 162.6,
+    "end_sec": 164.52,
+    "text": "definir el Stop loss dónde lo vamos a"
+  },
+  {
+    "start_sec": 164.52,
+    "end_sec": 166.88,
+    "text": "colocar el Stop los debe ser del tamaño"
+  },
+  {
+    "start_sec": 166.88,
+    "end_sec": 168.56,
+    "text": "suficiente para darme cuenta que mi"
+  },
+  {
+    "start_sec": 168.56,
+    "end_sec": 171.12,
+    "text": "estrategia no ha funcionado ver es es el"
+  },
+  {
+    "start_sec": 171.12,
+    "end_sec": 173.32,
+    "text": "punto más importante para mí debo de"
+  },
+  {
+    "start_sec": 173.32,
+    "end_sec": 176.04,
+    "text": "estar tranquilo con el tamaño que puse"
+  },
+  {
+    "start_sec": 176.04,
+    "end_sec": 178.08,
+    "text": "por eso debe considerar mi psicología"
+  },
+  {
+    "start_sec": 178.08,
+    "end_sec": 180.48,
+    "text": "también hay unas personas que que son"
+  },
+  {
+    "start_sec": 180.48,
+    "end_sec": 184.28,
+    "text": "más susceptibles al riesgo o pueden"
+  },
+  {
+    "start_sec": 184.28,
+    "end_sec": 186.52,
+    "text": "absorber más riesgo y otras personas que"
+  },
+  {
+    "start_sec": 186.52,
+    "end_sec": 188.4,
+    "text": "no Por ejemplo yo me considero un Trader"
+  },
+  {
+    "start_sec": 188.4,
+    "end_sec": 190.68,
+    "text": "bastante agresivo y yo puedo arriesgar"
+  },
+  {
+    "start_sec": 190.68,
+    "end_sec": 192.84,
+    "text": "eh mucho pero porque yo puedo"
+  },
+  {
+    "start_sec": 192.84,
+    "end_sec": 194.8,
+    "text": "permitírmelo porque tengo una estrategia"
+  },
+  {
+    "start_sec": 194.8,
+    "end_sec": 196.56,
+    "text": "que en verdad me puede permitir"
+  },
+  {
+    "start_sec": 196.56,
+    "end_sec": 199.28,
+    "text": "arriesgar más el riesgo es un tema"
+  },
+  {
+    "start_sec": 199.28,
+    "end_sec": 201.44,
+    "text": "bastante importante pero que tiene que"
+  },
+  {
+    "start_sec": 201.44,
+    "end_sec": 203.12,
+    "text": "ver también con el Stop loss Okay"
+  },
+  {
+    "start_sec": 203.12,
+    "end_sec": 204.68,
+    "text": "siempre nos han vendido la idea de usar"
+  },
+  {
+    "start_sec": 204.68,
+    "end_sec": 207.08,
+    "text": "stop loss pequeñitos pero no es así"
+  },
+  {
+    "start_sec": 207.08,
+    "end_sec": 210.16,
+    "text": "entre más stop loss tenga bajará mi rr"
+  },
+  {
+    "start_sec": 210.16,
+    "end_sec": 213.08,
+    "text": "entre el Stop l esté más grande mi rr va"
+  },
+  {
+    "start_sec": 213.08,
+    "end_sec": 215.92,
+    "text": "a bajar Pero mi Win rate puede llegar a"
+  },
+  {
+    "start_sec": 215.92,
+    "end_sec": 218.8,
+    "text": "ser mayor Entonces lo importante es"
+  },
+  {
+    "start_sec": 218.8,
+    "end_sec": 220.92,
+    "text": "tener un equilibrio entre los dos entre"
+  },
+  {
+    "start_sec": 220.92,
+    "end_sec": 224.08,
+    "text": "el rr y el tamaño del stop loss es bien"
+  },
+  {
+    "start_sec": 224.08,
+    "end_sec": 226.32,
+    "text": "importante mantener un buen equilibrio"
+  },
+  {
+    "start_sec": 226.32,
+    "end_sec": 228.88,
+    "text": "entre estos dos debo de definir si"
+  },
+  {
+    "start_sec": 228.88,
+    "end_sec": 231.56,
+    "text": "colocaré un sl Dinámico estándar o es"
+  },
+  {
+    "start_sec": 231.56,
+    "end_sec": 233.4,
+    "text": "decir que pueda ser movido de acuerdo al"
+  },
+  {
+    "start_sec": 233.4,
+    "end_sec": 235.76,
+    "text": "análisis de entrada o que sea siempre"
+  },
+  {
+    "start_sec": 235.76,
+    "end_sec": 237.36,
+    "text": "igual por ejemplo a mí me gusta siempre"
+  },
+  {
+    "start_sec": 237.36,
+    "end_sec": 239.96,
+    "text": "el Stop loss igual pero ya tú puedes"
+  },
+  {
+    "start_sec": 239.96,
+    "end_sec": 242.64,
+    "text": "decidir eh si vas a colocar un stop loss"
+  },
+  {
+    "start_sec": 242.64,
+    "end_sec": 245.28,
+    "text": "más grande más pequeño si lo vas a poder"
+  },
+  {
+    "start_sec": 245.28,
+    "end_sec": 248.08,
+    "text": "recorrer no lo vas a poder recorrer si"
+  },
+  {
+    "start_sec": 248.08,
+    "end_sec": 250.28,
+    "text": "va a ser Dinámico Qué significa Dinámico"
+  },
+  {
+    "start_sec": 250.28,
+    "end_sec": 252.16,
+    "text": "que vas a poder ir subiéndolo conforme"
+  },
+  {
+    "start_sec": 252.16,
+    "end_sec": 254.68,
+    "text": "el precio avanza todo este tipo de cosas"
+  },
+  {
+    "start_sec": 254.68,
+    "end_sec": 256.56,
+    "text": "es bien importante que tú las tengas muy"
+  },
+  {
+    "start_sec": 256.56,
+    "end_sec": 258.52,
+    "text": "en cuenta verdad Entonces calcular"
+  },
+  {
+    "start_sec": 258.52,
+    "end_sec": 260.12,
+    "text": "también el Stop lop siempre en"
+  },
+  {
+    "start_sec": 260.12,
+    "end_sec": 261.72,
+    "text": "porcentaje a mí me gusta siempre el"
+  },
+  {
+    "start_sec": 261.72,
+    "end_sec": 264.16,
+    "text": "porcentaje de tu cuenta y recuerda que"
+  },
+  {
+    "start_sec": 264.16,
+    "end_sec": 265.76,
+    "text": "esto depende mucho de la frecuencia de"
+  },
+  {
+    "start_sec": 265.76,
+    "end_sec": 267.32,
+    "text": "trad que estás dispuesto a hacer"
+  },
+  {
+    "start_sec": 267.32,
+    "end_sec": 270.12,
+    "text": "entonces depende de Cuántos Trade vas a"
+  },
+  {
+    "start_sec": 270.12,
+    "end_sec": 273.04,
+    "text": "hacer al día a la semana para poder"
+  },
+  {
+    "start_sec": 273.04,
+    "end_sec": 274.64,
+    "text": "definir el riesgo y también poder"
+  },
+  {
+    "start_sec": 274.64,
+    "end_sec": 277.12,
+    "text": "definir el tamaño del stop loss debes de"
+  },
+  {
+    "start_sec": 277.12,
+    "end_sec": 278.56,
+    "text": "estar tranquilo cuando el precio vaya a"
+  },
+  {
+    "start_sec": 278.56,
+    "end_sec": 280.52,
+    "text": "tu stop porque sabes que está controlado"
+  },
+  {
+    "start_sec": 280.52,
+    "end_sec": 283.24,
+    "text": "el riesgo y que tu FL te ayuda a saber"
+  },
+  {
+    "start_sec": 283.24,
+    "end_sec": 285.64,
+    "text": "si tu análisis falló verdad Entonces"
+  },
+  {
+    "start_sec": 285.64,
+    "end_sec": 287.48,
+    "text": "tranquilitos con el Stop loss no tengan"
+  },
+  {
+    "start_sec": 287.48,
+    "end_sec": 290.04,
+    "text": "miedo pónganlo para eso está para que"
+  },
+  {
+    "start_sec": 290.04,
+    "end_sec": 293.2,
+    "text": "nos proteja de pérdidas a futuro pasos"
+  },
+  {
+    "start_sec": 293.2,
+    "end_sec": 294.84,
+    "text": "objetivos determinar el tamaño de la"
+  },
+  {
+    "start_sec": 294.84,
+    "end_sec": 297.6,
+    "text": "zona a trabajar determinar si vas a"
+  },
+  {
+    "start_sec": 297.6,
+    "end_sec": 300.52,
+    "text": "refinar o no esto aumentar o permitir"
+  },
+  {
+    "start_sec": 300.52,
+    "end_sec": 302.56,
+    "text": "porer un stop loss más grande o pequeño"
+  },
+  {
+    "start_sec": 302.56,
+    "end_sec": 305.92,
+    "text": "personas que no refinan entradas pues eh"
+  },
+  {
+    "start_sec": 305.92,
+    "end_sec": 307.68,
+    "text": "que no buscan un punto de entrada más"
+  },
+  {
+    "start_sec": 307.68,
+    "end_sec": 309.44,
+    "text": "exacto pueden permitirse tener un stop"
+  },
+  {
+    "start_sec": 309.44,
+    "end_sec": 311.92,
+    "text": "loss más grande pero personas que sí"
+  },
+  {
+    "start_sec": 311.92,
+    "end_sec": 314.08,
+    "text": "están buscando un tamaño de stop loss"
+  },
+  {
+    "start_sec": 314.08,
+    "end_sec": 316.12,
+    "text": "más pequeño que quieren un rr más grande"
+  },
+  {
+    "start_sec": 316.12,
+    "end_sec": 317.8,
+    "text": "pues tienen que refinar un poco más o"
+  },
+  {
+    "start_sec": 317.8,
+    "end_sec": 319.28,
+    "text": "Buscar ese punto de entrada Exacto"
+  },
+  {
+    "start_sec": 319.28,
+    "end_sec": 321.68,
+    "text": "verdad y terminar según mi estrategia"
+  },
+  {
+    "start_sec": 321.68,
+    "end_sec": 323.8,
+    "text": "qué puntos estratégicos vas a poner el"
+  },
+  {
+    "start_sec": 323.8,
+    "end_sec": 326.8,
+    "text": "sl también ver si pones un sl igual"
+  },
+  {
+    "start_sec": 326.8,
+    "end_sec": 328.4,
+    "text": "siempre debes de trabajar el tamaño de"
+  },
+  {
+    "start_sec": 328.4,
+    "end_sec": 331.2,
+    "text": "tus zonas igual o para ido verdad si vas"
+  },
+  {
+    "start_sec": 331.2,
+    "end_sec": 332.96,
+    "text": "a usar confirmaciones tienes que medir"
+  },
+  {
+    "start_sec": 332.96,
+    "end_sec": 334.68,
+    "text": "el tamaño de stop loss de tus zonas de"
+  },
+  {
+    "start_sec": 334.68,
+    "end_sec": 336.64,
+    "text": "confirmación y dónde vas a buscar el"
+  },
+  {
+    "start_sec": 336.64,
+    "end_sec": 339.68,
+    "text": "refine ya una vez visto el tamaño de tu"
+  },
+  {
+    "start_sec": 339.68,
+    "end_sec": 342.76,
+    "text": "stop loss de acuerdo a la zona debe de"
+  },
+  {
+    "start_sec": 342.76,
+    "end_sec": 346.96,
+    "text": "ser un stop loss lógico verad con un rr"
+  },
+  {
+    "start_sec": 346.96,
+    "end_sec": 349.12,
+    "text": "que quieres ejecutar obvio tendrás que"
+  },
+  {
+    "start_sec": 349.12,
+    "end_sec": 352.04,
+    "text": "combinarlo con los objetivos verdad por"
+  },
+  {
+    "start_sec": 352.04,
+    "end_sec": 353.48,
+    "text": "último qué tenemos chicos la"
+  },
+  {
+    "start_sec": 353.48,
+    "end_sec": 355.76,
+    "text": "simplificación a un modo de ejemplo de"
+  },
+  {
+    "start_sec": 355.76,
+    "end_sec": 358.48,
+    "text": "cómo deberíamos de poder colocar el Stop"
+  },
+  {
+    "start_sec": 358.48,
+    "end_sec": 360.24,
+    "text": "loss por ejemplo trabajo con mi fractal"
+  },
+  {
+    "start_sec": 360.24,
+    "end_sec": 363.24,
+    "text": "mayor de h4 vead ese fractal mayor de h4"
+  },
+  {
+    "start_sec": 363.24,
+    "end_sec": 366.92,
+    "text": "mide 150 puntos voy a refinar a m15 O"
+  },
+  {
+    "start_sec": 366.92,
+    "end_sec": 369.2,
+    "text": "sea me bajo una temporalidad menor mido"
+  },
+  {
+    "start_sec": 369.2,
+    "end_sec": 371.24,
+    "text": "la zona en h4 y decido la confirmación"
+  },
+  {
+    "start_sec": 371.24,
+    "end_sec": 374.92,
+    "text": "en m5 que me m15 Perdón que me abarca 50"
+  },
+  {
+    "start_sec": 374.92,
+    "end_sec": 377.24,
+    "text": "puntos o si no trabajo con confirmación"
+  },
+  {
+    "start_sec": 377.24,
+    "end_sec": 379.96,
+    "text": "las zonas de h4 me miden 150 puntos una"
+  },
+  {
+    "start_sec": 379.96,
+    "end_sec": 382.32,
+    "text": "zona de h4 suficientemente grande te"
+  },
+  {
+    "start_sec": 382.32,
+    "end_sec": 384.4,
+    "text": "mide 150 puntos entonces uso un stop"
+  },
+  {
+    "start_sec": 384.4,
+    "end_sec": 386.36,
+    "text": "loss parecido Casi siempre o puedo"
+  },
+  {
+    "start_sec": 386.36,
+    "end_sec": 388.92,
+    "text": "refinar en h1 que me abarcan 70 puntos"
+  },
+  {
+    "start_sec": 388.92,
+    "end_sec": 390.84,
+    "text": "hay muchas formas de esto pero esto es"
+  },
+  {
+    "start_sec": 390.84,
+    "end_sec": 393.08,
+    "text": "lo básico y lo mejor pues yo creo que"
+  },
+  {
+    "start_sec": 393.08,
+    "end_sec": 396.16,
+    "text": "esto es lo más básico del stop bloss eh"
+  },
+  {
+    "start_sec": 396.16,
+    "end_sec": 398.24,
+    "text": "el Stop bloss Considero que es un tema"
+  },
+  {
+    "start_sec": 398.24,
+    "end_sec": 401.12,
+    "text": "bastante importante pero que yo creo que"
+  },
+  {
+    "start_sec": 401.12,
+    "end_sec": 403.72,
+    "text": "se haya entendido bastante bien verdad"
+  },
+  {
+    "start_sec": 403.72,
+    "end_sec": 405.64,
+    "text": "igual chicos si tienen alguna duda"
+  },
+  {
+    "start_sec": 405.64,
+    "end_sec": 407.4,
+    "text": "pregunta quieren que hable más sobre"
+  },
+  {
+    "start_sec": 407.4,
+    "end_sec": 409.6,
+    "text": "este tema Me pueden enviar un comentario"
+  },
+  {
+    "start_sec": 409.6,
+    "end_sec": 411.4,
+    "text": "aquí en este video o también un mensaje"
+  },
+  {
+    "start_sec": 411.4,
+    "end_sec": 413.68,
+    "text": "en Gustavo m. Trader en instagram"
+  },
+  {
+    "start_sec": 413.68,
+    "end_sec": 415.72,
+    "text": "Síganme en todas mis redes sociales"
+  },
+  {
+    "start_sec": 415.72,
+    "end_sec": 417.6,
+    "text": "links en la descripción y nos vemos pues"
+  },
+  {
+    "start_sec": 417.6,
+    "end_sec": 421.32,
+    "text": "en un siguiente video adiós"
+  }
+]

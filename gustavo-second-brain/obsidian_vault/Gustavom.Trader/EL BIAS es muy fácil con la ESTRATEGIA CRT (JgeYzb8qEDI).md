@@ -1,0 +1,1342 @@
+---
+source_id: YT_CANAL_02_JgeYzb8qEDI
+video_id: JgeYzb8qEDI
+channel: "Gustavom.Trader"
+published_at: 2025-12-09
+url: https://www.youtube.com/watch?v=JgeYzb8qEDI
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 10
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# EL BIAS es muy fácil con la ESTRATEGIA CRT
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=JgeYzb8qEDI)
+
+## Transcript
+
+```
+[00:00:01]
+Buenas, mi gente, ¿cómo están? Esta vez
+
+[00:00:03]
+bienvenidos a un nuevo video. Eh, un
+
+[00:00:06]
+video distinto, va a ser un video sin
+
+[00:00:08]
+edición, un video sin cámara, totalmente
+
+[00:00:12]
+educativo para mi canal. Si les gustan
+
+[00:00:15]
+este tipo de videos, estaré trayéndoles
+
+[00:00:16]
+más probablemente en este canal o en el
+
+[00:00:18]
+canal secundario, aprovechando que esta
+
+[00:00:22]
+semana he estado un poco ocupado con los
+
+[00:00:24]
+alumnos de mentoría uno a uno y estoy
+
+[00:00:27]
+ahorita también que me voy de viaje,
+
+[00:00:30]
+pero quería traerles este pequeña clase
+
+[00:00:33]
+para que ustedes aprendan un poco más de
+
+[00:00:35]
+lo que es RT y de lo que venimos
+
+[00:00:36]
+haciendo en el grupo de alumnos de la
+
+[00:00:40]
+mentoría 1 a un que estuvimos eh
+
+[00:00:43]
+identificando el vayas a la perfección
+
+[00:00:44]
+del eurodólar. Fíjense, aquí estuve
+
+[00:00:47]
+poniéndoselos a los chicos el día de
+
+[00:00:49]
+ayer. Hoy estamos al lunes y varios de
+
+[00:00:53]
+los chicos han agarrado muy buenos
+
+[00:00:55]
+trades, muy hermosos trades. Estuve
+
+[00:00:58]
+identificándoles la dirección del precio
+
+[00:01:01]
+con eh el CRT y eso es lo que vamos a
+
+[00:01:05]
+cubrir en esta clase del día de hoy. Si
+
+[00:01:07]
+les gusta mucho este canal, si les gusta
+
+[00:01:09]
+mucho este tipo de clases, denle un buen
+
+[00:01:12]
+me gusta, un like y suscríbase que
+
+[00:01:14]
+estamos llegando a los 5000
+
+[00:01:16]
+suscriptores. Ponga un comentario y
+
+[00:01:19]
+dígame que usted estuvo antes o se
+
+[00:01:22]
+suscribió antes de los 5,000
+
+[00:01:23]
+suscriptores. Y nada más decirles, eh,
+
+[00:01:27]
+esto fue el vallas y vamos a pasar
+
+[00:01:29]
+ahorita a hacerles una pequeña
+
+[00:01:31]
+explicación para que ustedes también
+
+[00:01:33]
+puedan aprender así como estuvimos
+
+[00:01:35]
+aprendiendo nosotros en el grupo de
+
+[00:01:37]
+alumnos, ¿no? Sin nada enseñarles un
+
+[00:01:41]
+poquito de las operaciones que
+
+[00:01:43]
+estuvieron tomando algunos de mis
+
+[00:01:44]
+alumnos, alguno de los tradits que
+
+[00:01:47]
+estuvieron tomando alguno de mis
+
+[00:01:48]
+alumnos, por ejemplo, pues eh por aquí
+
+[00:01:53]
+lo voy a enseñar un poco. Voy a enseñar
+
+[00:01:55]
+un poco aquí lo que es el grupo privado
+
+[00:01:57]
+de de alumnos. Miren cómo estuvieron
+
+[00:02:00]
+este con estos cortos en el eurodólar,
+
+[00:02:03]
+tanto en el en el euro y la libra. Eh,
+
+[00:02:06]
+concretamente en el en el oro también,
+
+[00:02:09]
+pero concretamente en el eurodólar es
+
+[00:02:11]
+donde mejor se nos dio y es el caso de
+
+[00:02:14]
+estudio que quiero mostrarles para para
+
+[00:02:16]
+hoy. Este
+
+[00:02:19]
+eh mira este chico en dos cuentas
+
+[00:02:20]
+inclusive. Y por acá creo que está otro
+
+[00:02:23]
+trade de Luis también que miren qué
+
+[00:02:25]
+bonito salió, eh, en la libra. Muy muy
+
+[00:02:29]
+bonito. Y bueno, vamos a explicar un
+
+[00:02:32]
+poquito el vallas, cómo entendí la
+
+[00:02:35]
+dirección del precio con el CRT y cómo
+
+[00:02:37]
+nosotros estamos día a día
+
+[00:02:40]
+interpretando, viendo el vallas del
+
+[00:02:42]
+precio. ¿Qué estábamos viendo yo eh en
+
+[00:02:45]
+el precio? Estábamos viendo desde una
+
+[00:02:48]
+gráfica diaria. Lo voy a hacer lo más
+
+[00:02:49]
+simple posible para que todo el mundo me
+
+[00:02:51]
+entienda, tanto los que no están tan
+
+[00:02:53]
+avanzados como avanzados. Miren que
+
+[00:02:57]
+tenemos un Crete aquí. Miren que el
+
+[00:02:59]
+precio se lleva el máximo del día
+
+[00:03:02]
+miércoles 3 de octubre. 3 de diciembre,
+
+[00:03:05]
+perdón, octubre estoy diciendo, 3 de
+
+[00:03:07]
+diciembre. Y miren que el jueves 4 de
+
+[00:03:09]
+diciembre el precio cierra por debajo de
+
+[00:03:12]
+o cierra dentro del cuerpo de, lo que
+
+[00:03:15]
+nos da la dirección del precio en
+
+[00:03:17]
+diario. Miren que nosotros queremos eh
+
+[00:03:19]
+después de que el precio tomó este low,
+
+[00:03:23]
+perdón que moví de par, después de que
+
+[00:03:25]
+el precio tomó este low de la vela
+
+[00:03:27]
+diaria anterior, en este caso de la vela
+
+[00:03:29]
+del día jueves, el día viernes, fíjense
+
+[00:03:31]
+que estuvo retrocediendo aquí. Entonces,
+
+[00:03:33]
+aquí toma el low, ese abajo y estuvo
+
+[00:03:36]
+haciendo un retroceso, pero para seguir
+
+[00:03:38]
+cayendo. Entonces, el vallas que
+
+[00:03:41]
+teníamos el día de de domingo para hoy
+
+[00:03:44]
+lunes, domingo lunes, es que el precio
+
+[00:03:47]
+viniera a esta área de descuento.
+
+[00:03:49]
+Fíjense que según la teoría de PO3 o de
+
+[00:03:52]
+Powers de Tree nos dice que queremos
+
+[00:03:55]
+vender en esta zona óptima. Esta va a
+
+[00:03:57]
+ser la zona óptima de ventas para
+
+[00:03:59]
+nosotros. va a ser la zona de oferta,
+
+[00:04:02]
+por así decirlo, óptima de ventas.
+
+[00:04:05]
+Normalmente el PO3 es así, muchachos, en
+
+[00:04:08]
+lower time frame, ahorita se los
+
+[00:04:10]
+enseñaré. Para una vela bajista
+
+[00:04:12]
+normalmente, que sería qué es el PO3,
+
+[00:04:15]
+Gustavo? Es acumulación, acumulación,
+
+[00:04:19]
+manipulación y distribución. Es como se
+
+[00:04:21]
+imprime probablemente una velita, ¿no?
+
+[00:04:24]
+Entonces el precio normalmente hará más
+
+[00:04:27]
+o menos así.
+
+[00:04:32]
+Bueno, les decía que saqué aquí mi
+
+[00:04:34]
+plumón para dibujarle. Más o menos el
+
+[00:04:36]
+precio hará la acumulación, va a ser la
+
+[00:04:38]
+manipulación
+
+[00:04:40]
+y va a ser la distribución y el cierre.
+
+[00:04:43]
+Este es el rango, muchachos, diario.
+
+[00:04:45]
+Estamos todavía en diario. Fíjense cómo
+
+[00:04:47]
+voy a ir desde arriba hacia abajo para
+
+[00:04:50]
+que ustedes vayan aprendiendo. Este era
+
+[00:04:51]
+el objetivo que teníamos en el precio.
+
+[00:04:54]
+El precio tomó el low de la vela
+
+[00:04:55]
+anterior y estábamos viendo que la vela
+
+[00:04:58]
+iba a abrir más o menos aquí. Entonces
+
+[00:05:01]
+nosotros queríamos esperar que eh en
+
+[00:05:04]
+Asia o en Londres el precio distribuyera
+
+[00:05:07]
+hacia arriba para después el precio
+
+[00:05:10]
+venir hacia abajo. Más o menos eso era.
+
+[00:05:13]
+Entonces aquí teníamos la acumulación,
+
+[00:05:15]
+la manipulación y la distribución según
+
+[00:05:17]
+el power of the tr de la vela diaria. Si
+
+[00:05:20]
+nos vamos a nuestra teoría de de
+
+[00:05:22]
+cuartos, que es lo que vengo practicando
+
+[00:05:24]
+con los alumnos del uno a uno, este nos
+
+[00:05:28]
+va a decir que esto probablemente va a
+
+[00:05:31]
+suceder en las primeras 6 o 8 horas. Por
+
+[00:05:33]
+eso es que usamos también las
+
+[00:05:35]
+temporalidades de 6 horas. Tiene su por
+
+[00:05:37]
+qué se utilizan, que es algo que trabajo
+
+[00:05:40]
+mucho con los alumnos para que entiendan
+
+[00:05:42]
+bien el CRT. Este, también muchas
+
+[00:05:45]
+personas me preguntan, quiero
+
+[00:05:47]
+mencionarlo en este video, me preguntan
+
+[00:05:49]
+siempre por las clases que si que
+
+[00:05:51]
+trabajamos o lo que sea, pueden
+
+[00:05:54]
+escribirme siempre en todos los videos
+
+[00:05:55]
+está en la descripción mi WhatsApp para
+
+[00:05:58]
+que me puedan escribir. Ahorita tengo
+
+[00:06:00]
+muchísimos alumnos, gracias a Dios estoy
+
+[00:06:03]
+muy agradecido por los que confían en mí
+
+[00:06:05]
+y constantemente estoy publicando
+
+[00:06:07]
+resultados de los alumnos y y de cómo
+
+[00:06:11]
+están avanzando. Lo digo, lo menciono
+
+[00:06:13]
+porque hay algunas personas que luego me
+
+[00:06:15]
+preguntan, incluso alumnos míos, que no
+
+[00:06:17]
+sabían que daba clases o o cómo estaba
+
+[00:06:20]
+el la cosa con las clases, ¿verdad?
+
+[00:06:24]
+Este, esto es el PO3, muchachos.
+
+[00:06:26]
+Entonces, este es el CRT diario. Tenemos
+
+[00:06:29]
+que el precio ha tomado este low. Va a
+
+[00:06:31]
+ser una un movimiento en retesteo, por
+
+[00:06:34]
+así decirlo, y queremos entrar por
+
+[00:06:37]
+encima de Ahora, nosotros realmente no
+
+[00:06:39]
+sabemos qué tan grande va a estar esta
+
+[00:06:41]
+mecha o qué tan grande va a ser la
+
+[00:06:43]
+manipulación. Pero si nosotros
+
+[00:06:46]
+simplemente dejamos que pase la sesión
+
+[00:06:48]
+asiática, dejamos que pase la sesión
+
+[00:06:52]
+hasta la sesión de Londres o Nueva York,
+
+[00:06:54]
+vamos a tener la dirección mejor de la
+
+[00:06:56]
+vela diaria. Entonces, al menos que
+
+[00:06:59]
+muchas de las veces también puede pasar
+
+[00:07:01]
+que la vela diaria haga esto en Asia y
+
+[00:07:03]
+en Asia empieza a distribuir. Yo me
+
+[00:07:06]
+perdería el trade porque no me gusta
+
+[00:07:08]
+trabajar en Asia. Trabajamos
+
+[00:07:09]
+preferentemente en Londres o Nueva York.
+
+[00:07:12]
+Entonces, esta sería la zona más óptima.
+
+[00:07:14]
+que sería por encima de la apertura de
+
+[00:07:17]
+esta vela diaria. Entonces, aquí la
+
+[00:07:19]
+vamos a marcar. En el caso de antes de
+
+[00:07:22]
+ver la vela diaria, pues sería toda esta
+
+[00:07:24]
+parte de aquí, ¿no? Básicamente un
+
+[00:07:26]
+retroceso para seguir. Ahora vamos a
+
+[00:07:28]
+bajar a 12 horas para ir viendo lo que
+
+[00:07:31]
+posiblemente eh muchos vieron y luego no
+
+[00:07:35]
+se percataron. Miren como la vela de 12
+
+[00:07:38]
+horas me hace un CRT alcista. Miren cómo
+
+[00:07:41]
+trabaja un CRT alcista aquí. Pero el
+
+[00:07:44]
+precio lo que hace es venir hacia
+
+[00:07:48]
+arriba, intentar cierra y fíjense cómo
+
+[00:07:50]
+no funciona. ¿Por qué este CRT no
+
+[00:07:52]
+funciona a la perfección el de 12 horas?
+
+[00:07:55]
+Porque simplemente nuestra temporalidad
+
+[00:07:57]
+que es mayor, que es la diaria, está
+
+[00:07:59]
+alineada hacia abajo
+
+[00:08:01]
+y y obviamente sin ver el dólar, pero
+
+[00:08:04]
+ahorita vamos a a ver si puedo ver el
+
+[00:08:05]
+dólar un poquito. Entonces, ¿qué hace la
+
+[00:08:07]
+vela? va hacia arriba, va hacia abajo.
+
+[00:08:09]
+El CRT sigue siendo válido. El rango
+
+[00:08:11]
+este es el rango que estamos viendo en
+
+[00:08:13]
+12H, pero fíjense como el precio va,
+
+[00:08:16]
+reinicia y distribuye hacia abajo,
+
+[00:08:18]
+simplemente por el contexto del análisis
+
+[00:08:21]
+diario. Por eso siempre les digo, si
+
+[00:08:23]
+ustedes son nuevos con el CRT, lo que yo
+
+[00:08:26]
+les recomiendo que hagan es que no usen
+
+[00:08:28]
+tantas temporalidades para que no se
+
+[00:08:30]
+confundan mucho, porque si usan muchas
+
+[00:08:33]
+temporalidades probablemente pueden
+
+[00:08:35]
+llegar a confundirse. Vamos a ir a 8
+
+[00:08:37]
+horas. Voy a, fíjense que estamos en la
+
+[00:08:40]
+zona más óptima. Por detrás pondré eh
+
+[00:08:44]
+pondré por detrás el indicador este que
+
+[00:08:48]
+les voy a traer un review probablemente
+
+[00:08:49]
+en el canal de YouTube pronto porque
+
+[00:08:52]
+luego me lo están pidiendo, pero este si
+
+[00:08:55]
+quieren el indicador o el link del
+
+[00:08:57]
+indicador me lo pueden pedir por
+
+[00:08:59]
+Instagram. Síganme por Instagram y me
+
+[00:09:01]
+mandan un mensaje y me dicen, "Gustavo,
+
+[00:09:03]
+quiero el indicador de Overlight Daily
+
+[00:09:05]
+Candle." que sirve para ver eh en este
+
+[00:09:08]
+caso las velas por detrás. Ahorita
+
+[00:09:11]
+queremos ver la vela diaria para ver en
+
+[00:09:13]
+temporalidades de 8 horas o en
+
+[00:09:14]
+temporalidades más bajas cómo se venía
+
+[00:09:16]
+desarrollando esa vela diaria. Miren que
+
+[00:09:19]
+el precio justo cierra aquí y aquí
+
+[00:09:21]
+tenemos las primeras 16 horas donde el
+
+[00:09:24]
+precio hace el la distribución. Voy a
+
+[00:09:27]
+mutearlo un poquito para ver
+
+[00:09:29]
+exactamente. Voy a ponerlo aquí un
+
+[00:09:32]
+poquito también muteado para que ustedes
+
+[00:09:34]
+vean. Miren como también en 8 horas
+
+[00:09:37]
+formamos un rango alcista. Aquí muchas
+
+[00:09:40]
+personas se preguntarán, ¿por qué no
+
+[00:09:42]
+luego no se completan los rangos? Pues
+
+[00:09:44]
+simplemente, ¿por qué no se completa?
+
+[00:09:46]
+Porque el precio intenta ir hacia arriba
+
+[00:09:48]
+y después de que intenta ir hacia
+
+[00:09:50]
+arriba, como tenemos el vallas bajista
+
+[00:09:53]
+en diario, el precio hace una un
+
+[00:09:55]
+reinicio y ahora este rango va a ser el
+
+[00:09:58]
+que va a terminar dominando dominando en
+
+[00:10:01]
+el precio. Ahora, la vela diaria, la
+
+[00:10:03]
+siguiente vela diaria, si nosotros
+
+[00:10:05]
+marcamos o vemos la vela diaria, lo
+
+[00:10:07]
+quiero poner por aquí, vean que el
+
+[00:10:09]
+precio abre aquí la vela diaria. Por eso
+
+[00:10:12]
+es que el precio tiene un retroceso,
+
+[00:10:15]
+pero fíjense que como luego se nos va a
+
+[00:10:17]
+alinear con nuestra temporalidad diaria,
+
+[00:10:20]
+la temporalidad de 8 horas. En este caso
+
+[00:10:23]
+voy estoy yéndome despacio para que
+
+[00:10:25]
+entiendan. Miren, entonces aquí tenemos
+
+[00:10:28]
+el rango o la R de H8 que se alínea con
+
+[00:10:33]
+nuestro rango de 12, bueno, con nuestro
+
+[00:10:36]
+rango diario, principalmente con nuestra
+
+[00:10:39]
+idea diaria de comprar o o vender en la
+
+[00:10:42]
+parte más óptima. Miren, esta sería la
+
+[00:10:44]
+parte más óptima de la vela diaria. Todo
+
+[00:10:46]
+lo que esté por encima de este de este
+
+[00:10:48]
+cuadrito rojo es la parte más óptima.
+
+[00:10:51]
+¿Cómo nos podríamos haber dado cuenta
+
+[00:10:54]
+cuando el precio confirma este rango?
+
+[00:10:56]
+Confirma este rango de 8 horas. Voy a
+
+[00:10:59]
+irme bajando también a 6 horas para que
+
+[00:11:02]
+ustedes lo vayan viendo. Vean cómo voy
+
+[00:11:04]
+desglosando el precio. Es un un review
+
+[00:11:08]
+bastante bonito. Y miren como el precio
+
+[00:11:11]
+en 6 horas. Si nosotros volvemos a poner
+
+[00:11:14]
+la vela diaria, no más para que vean.
+
+[00:11:16]
+Miren, aquí abre la vela diaria. Vean
+
+[00:11:18]
+como el precio va hacia arriba. La el
+
+[00:11:20]
+primera el primeras 6 horas de la vela
+
+[00:11:23]
+va hacia arriba y en la segunda vela, en
+
+[00:11:26]
+la segunda 6 horas, en el segundo cuarto
+
+[00:11:29]
+de la vela diaria, el precio se alínea
+
+[00:11:31]
+hacia abajo. ¿Por qué se alínea hacia
+
+[00:11:32]
+abajo? Porque va hacia arriba. Después
+
+[00:11:35]
+de que va hacia arriba, el precio lo que
+
+[00:11:37]
+hace es cerrar por dentro del cuerpo de
+
+[00:11:39]
+la vela anterior, formando este rango
+
+[00:11:40]
+bajista, alineándose entonces la
+
+[00:11:43]
+temporalidad diaria con 8 horas y 6
+
+[00:11:45]
+horas y tiene una distribución hacia
+
+[00:11:47]
+abajo. Ahora, ¿cómo podríamos haber
+
+[00:11:50]
+entrado? Simplemente una vez que
+
+[00:11:52]
+confirmamos nuestra nuestro turtle sub
+
+[00:11:56]
+tendríamos que haber hecho lo mismo,
+
+[00:11:58]
+¿no? En el PO3, pero en este caso el PO3
+
+[00:12:01]
+va a ser de la vela de 6H o la vela de
+
+[00:12:05]
+8H. Y simplemente esto es una probadita
+
+[00:12:08]
+de lo que yo les voy trabajando los
+
+[00:12:10]
+alumnos de inventoría uno a uno. Lo
+
+[00:12:12]
+menciono mucho porque creo que si tú
+
+[00:12:16]
+realmente quieres aprender y cambiar tu
+
+[00:12:19]
+trading para siempre, yo creo que vale
+
+[00:12:21]
+la pena que si quieres estudiar como más
+
+[00:12:25]
+a fondo la estrategia y todo eso, puede
+
+[00:12:27]
+valer la pena que te vengas a las clases
+
+[00:12:30]
+del uno a uno y que lleves tu trading al
+
+[00:12:33]
+siguiente nivel. Este eh porque el CRT
+
+[00:12:37]
+no n más es ver rango, sino que es saber
+
+[00:12:39]
+el contexto del precio. Mira como a la
+
+[00:12:42]
+perfección nosotros estamos descifrando
+
+[00:12:44]
+el contexto del precio. Pero yo espero
+
+[00:12:47]
+que te sea de utilidad y que tú
+
+[00:12:48]
+comprendas bien lo que te estoy
+
+[00:12:50]
+enseñando. Igualmente eh traeré mucho
+
+[00:12:53]
+más clases para que poco a poco vayas
+
+[00:12:55]
+aprendiendo. Miren, en la temporalidad
+
+[00:12:57]
+de 4 horas como el precio lo que hace es
+
+[00:13:01]
+confirmarnos aquí el rango. Sí que
+
+[00:13:03]
+cierra la vela ya por fuera de Pero
+
+[00:13:06]
+fíjense que el precio ha confirmado ese
+
+[00:13:08]
+rango y ya a partir de ahí termina
+
+[00:13:11]
+distribuyendo. ¿Dónde hubiera sido la
+
+[00:13:13]
+entrada? Simplemente por horario. Yo
+
+[00:13:16]
+hubiera puesto la entrada en la vela de
+
+[00:13:18]
+las tres. En la vela de las tres aquí.
+
+[00:13:21]
+Aquí hubiera puesto la entrada o hubiera
+
+[00:13:22]
+puesto la la otra entrada que algunos de
+
+[00:13:25]
+mis alumnos estuvieron tomando en Nueva
+
+[00:13:27]
+York en la vela de las 9. Aquí en el
+
+[00:13:29]
+Power de Tur de la vela de las 9 es la
+
+[00:13:31]
+entrada. Entonces, tenemos una primera
+
+[00:13:33]
+entrada, un primer corto aquí en la vela
+
+[00:13:35]
+de las 3 y otro segundo corto en la vela
+
+[00:13:39]
+de las 8. Miren, estoy en un en un en un
+
+[00:13:42]
+este hora, en una hora y vean la vela
+
+[00:13:44]
+diaria a la perfección. Miren, entrada a
+
+[00:13:47]
+la vela de las tres, zona óptima de
+
+[00:13:49]
+ventas y luego zona óptima de ventas en
+
+[00:13:52]
+el power de tre de la vela de las 9. En
+
+[00:13:55]
+este caso los horarios de CRT a la
+
+[00:13:56]
+perfección. Vamos a poner también, vamos
+
+[00:13:59]
+a ir poniendo en este caso el rango de
+
+[00:14:02]
+12 horas para que ustedes vayan viendo.
+
+[00:14:04]
+Miren como el precio tomó el alto. Ya
+
+[00:14:07]
+aquí en Nueva York estaba confirmado el
+
+[00:14:09]
+CRT de en este caso bajista. Bueno, la
+
+[00:14:13]
+vela sí que no cerró Berish, pero por
+
+[00:14:15]
+todo el contexto de más sí que estábamos
+
+[00:14:18]
+viendo posible distribución aquí por
+
+[00:14:20]
+todo el contexto de más. Y vamos a poner
+
+[00:14:23]
+6 horas, que creo que fue el más bonito,
+
+[00:14:25]
+el de 6 horas. Miren qué bonito, muy
+
+[00:14:28]
+bonito el de 6 horas. En este caso ya en
+
+[00:14:31]
+Nueva York es donde ya termina de
+
+[00:14:33]
+confirmar. En te tendrías que haber
+
+[00:14:34]
+adelantado en en Londres, pero en Nueva
+
+[00:14:37]
+York está muy perfecto. Miren, incluso
+
+[00:14:39]
+la vela de 6 horas, primeras 1 2 3 4
+
+[00:14:43]
+horas, primeras 4 horas y ahí teníamos
+
+[00:14:45]
+nuestra entrada a la perfección.
+
+[00:14:47]
+Entonces esa fue la entrada que
+
+[00:14:49]
+estuvimos tomando y viendo desde antes
+
+[00:14:51]
+de que sucediera con mi comunidad
+
+[00:14:53]
+privada con la estrategia CRT. Espero
+
+[00:14:56]
+que aprendas muchísimo con este video y
+
+[00:14:59]
+que te ayude muchísimo. Estuvimos,
+
+[00:15:01]
+bueno, 30 pips al precio del día de hoy
+
+[00:15:04]
+y desde desde lo que es de la sesión de
+
+[00:15:07]
+de sí, de Londres, más o menos 40
+
+[00:15:10]
+pipetas muy muy buenas y ahorita ya
+
+[00:15:13]
+estuvimos e la mayoría de mis alumnos
+
+[00:15:15]
+estuvieron saliendo porque ya el precio
+
+[00:15:17]
+ha completado aquí el PO3. Vamos, te voy
+
+[00:15:20]
+a enseñar un poquito antes de irme en
+
+[00:15:22]
+este video, eh, te voy a enseñar el el
+
+[00:15:25]
+dólar que tú puedes usar también para
+
+[00:15:28]
+poder analizar o para ver un par
+
+[00:15:31]
+inversamente correlacionado
+
+[00:15:33]
+el escenario que teníamos en el dólar.
+
+[00:15:35]
+Entonces, teníamos un escenario eh
+
+[00:15:38]
+podría posiblemente de manipulación
+
+[00:15:42]
+desde aquí, desde esta zona o
+
+[00:15:44]
+manipulación de estos lows. Esto es por
+
+[00:15:46]
+la R diaria que teníamos ahí. Eso fue el
+
+[00:15:49]
+análisis que les hice del dólar, o sea,
+
+[00:15:51]
+les voy analizando varios pares en la
+
+[00:15:53]
+comunidad privada. Aparte eh les estoy
+
+[00:15:55]
+haciendo análisis en vivo,
+
+[00:15:57]
+retroalimentación también. Ellos
+
+[00:15:59]
+tuvieron su video con su explicación
+
+[00:16:01]
+desde antes de que subiera, desde que de
+
+[00:16:04]
+desde que sucediera. Siempre a pesar de
+
+[00:16:07]
+que a veces no me vean activos en las
+
+[00:16:09]
+redes sociales, por eso también lo
+
+[00:16:10]
+quiero mencionar, este,
+
+[00:16:14]
+pues es porque estoy trabajando con mis
+
+[00:16:16]
+nenes de o con mis alumnos. Miren, aquí
+
+[00:16:19]
+estoy. Análisis en vivo el día 7 de
+
+[00:16:22]
+diciembre, o sea, antes de que
+
+[00:16:24]
+sucediera. De hecho, creo que les puedo
+
+[00:16:26]
+sacar un pequeño extracto para que
+
+[00:16:28]
+ustedes vean a ver dónde está el dólar,
+
+[00:16:31]
+el eurodólar.
+
+[00:16:36]
+Bueno, aquí lo aquí lo encontré. Miren,
+
+[00:16:40]
+aquí está la el video donde les estaba
+
+[00:16:42]
+poniendo en vivo a los alumnos antes de
+
+[00:16:45]
+que sucediera este. Luego ya después las
+
+[00:16:47]
+posibles compras, pero eso ya va a ser
+
+[00:16:49]
+para, yo creo que para los próximos
+
+[00:16:51]
+días, pero de momento miren cómo se los
+
+[00:16:53]
+estuve proyectando antes de que
+
+[00:16:56]
+sucediera. Justo el presion fue ahí, si
+
+[00:16:59]
+ustedes miran, eso fue en vivo con mi
+
+[00:17:01]
+comunidad o el videío que les estuve
+
+[00:17:03]
+dejando a mi comunidad. Y miren, si
+
+[00:17:06]
+ustedes van, por ejemplo, a ver por
+
+[00:17:08]
+aquí,
+
+[00:17:09]
+eh,
+
+[00:17:12]
+aquí está, miren, el precio siguió a la
+
+[00:17:14]
+perfección la flechita, ¿no? Qué bonito,
+
+[00:17:17]
+¿no? Qué bonito, qué bonito es lo
+
+[00:17:19]
+bonito, ¿no? Esto con la metodología
+
+[00:17:21]
+CRT, miren, miren qué bonito es lo
+
+[00:17:23]
+bonito. Muy hermoso este. Bueno, por
+
+[00:17:27]
+último, dejarles como bonus a los que se
+
+[00:17:29]
+quedaron hasta el final del video. Eh,
+
+[00:17:32]
+comenta si te quedaste hasta el final
+
+[00:17:33]
+del video. Gustavo, yo me veo todos tus
+
+[00:17:36]
+videos y me quedé hasta el final de este
+
+[00:17:37]
+video. Miren el rango que teníamos en el
+
+[00:17:41]
+dólar. Qué bonito. Voy a mutear un
+
+[00:17:43]
+poquito los dibujos. Miren qué bonito.
+
+[00:17:45]
+Este es el objetivo del dólar.
+
+[00:17:47]
+Probablemente puede seguir subiendo el
+
+[00:17:50]
+dólar. Yo creo que va a ir a completar
+
+[00:17:52]
+este objetivo. Y qué bonito
+
+[00:17:54]
+interpretamos el vallas o la dirección
+
+[00:17:56]
+del precio con la estrategia CRT. Nada
+
+[00:17:59]
+más, chicos. Espero que les haya gustado
+
+[00:18:01]
+bastante. Déjenle un buen me gusta. Eh,
+
+[00:18:03]
+si les gustan estos recaps, trataré de
+
+[00:18:05]
+traerles un poquito más. Eh, a lo mejor
+
+[00:18:08]
+les traigo un poquito más de estos
+
+[00:18:10]
+videos al canal secundario. Entonces,
+
+[00:18:12]
+síganme también ahí en el canal
+
+[00:18:14]
+secundario. Y bueno, eh por por hoy ha
+
+[00:18:17]
+sido todo. Gracias por verme, se les
+
+[00:18:20]
+quiere muchísimo y nos vemos en un
+
+[00:18:22]
+siguiente
+```

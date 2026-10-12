@@ -1,0 +1,1210 @@
+---
+source_id: YT_CANAL_02_HW0UzBl9amE
+video_id: HW0UzBl9amE
+channel: "Gustavom.Trader"
+published_at: 2024-01-31
+url: https://www.youtube.com/watch?v=HW0UzBl9amE
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 10
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Funded Engineer !Todo Lo que debes saber! REVIEW DETALLADA
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=HW0UzBl9amE)
+
+## Transcript
+
+```
+[00:00:00]
+pues Hola amigos ya estamos en un nuevo
+
+[00:00:01]
+video el día de hoy Les vengo a traer
+
+[00:00:03]
+otra revisión de otra empresa de fondeo
+
+[00:00:07]
+y vamos a hablar de el ingeniero
+
+[00:00:10]
+financiado así yo le digo y va a estar
+
+[00:00:13]
+muy interesante es una empresa que yo
+
+[00:00:14]
+traigo entre miras para ver si compro
+
+[00:00:17]
+algún challenge con ellos y está muy
+
+[00:00:20]
+interesante la empresa Antes que nada
+
+[00:00:21]
+quería invitarte a suscribirte a este
+
+[00:00:25]
+canal porque estamos haciendo muchas
+
+[00:00:27]
+revisiones de diferentes empresas de
+
+[00:00:29]
+fondeo Para no perderte nada parte en la
+
+[00:00:32]
+descripción tienes nuestro grupo de
+
+[00:00:33]
+WhatsApp que creamos un canal o un grupo
+
+[00:00:37]
+exclusivamente para empresas de fondeo
+
+[00:00:40]
+donde estamos pasando links eh códigos
+
+[00:00:43]
+de promoción descuentos información
+
+[00:00:46]
+noticias etcétera etcétera abajo en la
+
+[00:00:48]
+descripción va a estar para que te
+
+[00:00:49]
+puedas unir y vamos allá con la revisión
+
+[00:00:52]
+de funder engineer Bueno chicos ya
+
+[00:00:55]
+estamos por aquí y estamos en una página
+
+[00:00:59]
+que se dedica a revisar empresas de
+
+[00:01:01]
+fondeo está en la sede de los emiratos
+
+[00:01:04]
+árabes Unidos lleva operando alrededor
+
+[00:01:06]
+de 5 años según esta información y su
+
+[00:01:09]
+ceo que por aquí me metí a ver un
+
+[00:01:10]
+poquito su Instagram parece que es una
+
+[00:01:13]
+persona que vive en Dubai y se llama
+
+[00:01:16]
+tristan talbot tristan talbot y eh puner
+
+[00:01:21]
+ofrece meter 4 meter 5 tienen el broker
+
+[00:01:26]
+de purper tren eh ofrecen cuentas de 000
+
+[00:01:30]
+a 300,000 eh ofrecen fases de evaluación
+
+[00:01:34]
+de una y dos pasos por aquí tenemos el
+
+[00:01:36]
+seo como les decía y bueno
+
+[00:01:39]
+eh en general me gusta mucho la empresa
+
+[00:01:42]
+porque están los emiratos árabes Unidos
+
+[00:01:44]
+y también he visto mucho en la comunidad
+
+[00:01:46]
+en inglés que la están usando y me
+
+[00:01:48]
+parece una empresa buena como para poder
+
+[00:01:52]
+diversificar nuestro tercer o cuarto
+
+[00:01:53]
+chal aquí teníamos la cuestión de los
+
+[00:01:56]
+ceos tenemos tristan talbot un
+
+[00:01:58]
+experimentado day Trader como más de 5
+
+[00:02:00]
+años de experiencia en los mercados
+
+[00:02:01]
+recientemente se decidió establecer su
+
+[00:02:03]
+propia empresa funder engineer en
+
+[00:02:05]
+asociación con bueno Harry le vamos a
+
+[00:02:07]
+decir para los compas emprendedor
+
+[00:02:09]
+disciplinado avance rápido eh con años
+
+[00:02:13]
+de experiencia y recientemente ha
+
+[00:02:14]
+decidido lanzar su este empresa de
+
+[00:02:17]
+fondeo con eh tristan verdad no sé si
+
+[00:02:21]
+alguno de los que está viendo este video
+
+[00:02:23]
+lo conozca bueno Yo no lo conozco pero
+
+[00:02:25]
+estos son los dos sios Estos son como
+
+[00:02:26]
+los dos cosos de funder engineer Bueno
+
+[00:02:29]
+chicos por aquí tenemos su página
+
+[00:02:31]
+principal y tienen
+
+[00:02:33]
+eh Como quién dice estos cuatro modelos
+
+[00:02:37]
+de challenge que me parece bastante
+
+[00:02:39]
+interesante primero tienen Turbo
+
+[00:02:41]
+challenge que es de una sola fase Aquí
+
+[00:02:44]
+tengo yo estoy poniendo más o menos la
+
+[00:02:46]
+cuenta de 50k que es la que suelo yo
+
+[00:02:48]
+estar comprando ahorita como estándar y
+
+[00:02:50]
+esta cuenta de 50k tiene eh un costo de
+
+[00:02:54]
+309 una sola fase un objetivo de 10% una
+
+[00:02:59]
+reducción diaria del cuatro una Pérdida
+
+[00:03:01]
+total máxima del seis y bueno esto sería
+
+[00:03:05]
+un poquito la la de una sola fase
+
+[00:03:07]
+Vámonos con la de dos fases Ese es el
+
+[00:03:09]
+estándar Igualmente Ahorita les voy a
+
+[00:03:10]
+enseñar una página como donde se ve la
+
+[00:03:12]
+comparación
+
+[00:03:13]
+eh Y tenemos 375 un poquito más cara
+
+[00:03:18]
+poquito más cara un objetivo de oo una
+
+[00:03:21]
+pérdida máxima de cco y una pérdida
+
+[00:03:25]
+Perdón una pérdida diaria de cco y una
+
+[00:03:27]
+pérdida máxima de 10 una anan camiento
+
+[00:03:30]
+de 1 30 que es bastante bajo pero se
+
+[00:03:32]
+puede operar bastante bien con él eh Por
+
+[00:03:35]
+aquí no no tenemos días de negociación
+
+[00:03:36]
+mínimos como la mayoría de empresas
+
+[00:03:38]
+Eh bueno no todas pero la mayoría ya
+
+[00:03:41]
+andan entre máximo 5 días de negociación
+
+[00:03:43]
+eh cierra automático de operaciones Esto
+
+[00:03:46]
+me parece interesante y tiene un
+
+[00:03:48]
+programa VIP también como la mayoría
+
+[00:03:50]
+también de empresas herramientas de
+
+[00:03:52]
+bloqueo de reducción Esto me pareció
+
+[00:03:53]
+bastante interesante habría que probarlo
+
+[00:03:56]
+ya más a fondo pero para que tiene una
+
+[00:03:58]
+herramienta que te puede como bloquear
+
+[00:04:00]
+tu cuenta cuando tú ya tienes perdido
+
+[00:04:03]
+cierto porcentaje Por ejemplo yo pondría
+
+[00:04:06]
+1% o 1.5 al día se podría poner y yo
+
+[00:04:10]
+creo que está bastante bueno eso eh Me
+
+[00:04:12]
+gusta mantener operaciones del fin de
+
+[00:04:14]
+semana procesos de pago en menos de 48
+
+[00:04:17]
+horas que yo les había preguntado eso
+
+[00:04:18]
+ahorita vamos a ver sobre los pagos eso
+
+[00:04:20]
+es un poquito lo que es esa cuenta Luego
+
+[00:04:23]
+tenemos la superior challenge que es de
+
+[00:04:25]
+dos pasos también pero cuesta más barata
+
+[00:04:27]
+porque tú tienes un objetivo de 10 % en
+
+[00:04:30]
+lugar de un objetivo de 8 tiene un
+
+[00:04:32]
+objetivo de 10 una pérdida máxima diaria
+
+[00:04:34]
+de cco y una pérdida máxima máxima total
+
+[00:04:36]
+de 10% este está bastante barato pero
+
+[00:04:40]
+luego tenemos el light superior
+
+[00:04:42]
+challenge light que este es el más
+
+[00:04:45]
+barato porque es más barato 299 está más
+
+[00:04:48]
+competitivo porque tú tienes un objetivo
+
+[00:04:50]
+de 8% una pérdida máxima diaria de
+
+[00:04:53]
+cuatro y una pérdida máxima total de
+
+[00:04:56]
+ocho es como 8 o y cuatro Eso está bien
+
+[00:04:58]
+yo creo que está bastante bastante bien
+
+[00:05:00]
+si te interesa un poquito de dropdown lo
+
+[00:05:02]
+puedes como poner pero en general estos
+
+[00:05:05]
+son los desafíos que tienen y ahorita
+
+[00:05:06]
+vamos a ver un poquito de preguntas y
+
+[00:05:09]
+vamos a ver un poquito más de cosas
+
+[00:05:10]
+también los retiros Vamos allá Bueno
+
+[00:05:12]
+chicos básicamente yo le pregunté los
+
+[00:05:14]
+métodos de retiro y los métodos de pago
+
+[00:05:16]
+me dicen que para pagar tu challeng o
+
+[00:05:18]
+comprarlo tienes Puedes hacerlo por
+
+[00:05:20]
+tarjeta de débito crédito o
+
+[00:05:22]
+criptomonedas para para para comprar tu
+
+[00:05:27]
+tu challenge no y los métodos de retiro
+
+[00:05:29]
+puedes hacerlo a través de Rights r
+
+[00:05:32]
+crypto usdt rc20 y trc20 eh luego le
+
+[00:05:38]
+pregunté tienen algún link para ver
+
+[00:05:39]
+reglas de comercio y me pusieron la
+
+[00:05:41]
+página de esta fund engineer facts o
+
+[00:05:45]
+preguntas que la pueden localizar
+
+[00:05:47]
+ustedes en su en la misma página para
+
+[00:05:49]
+ver como las reglas comerciales ahí
+
+[00:05:51]
+están todas para que ustedes las lean yo
+
+[00:05:53]
+no voy a ver todas las reglas porque si
+
+[00:05:55]
+no se haría un video bastante largo pero
+
+[00:05:57]
+en la página en la sección de preguntas
+
+[00:05:59]
+en la parte de arriba está ahí Es más lo
+
+[00:06:02]
+voy a eh poner por aquí yo aquí te vas
+
+[00:06:06]
+la página y aquí está por te metes a la
+
+[00:06:10]
+sección
+
+[00:06:11]
+de preguntas frecuentes aquí te metes a
+
+[00:06:14]
+la sección de preguntas frecuentes y
+
+[00:06:15]
+aquí puedes ver todas las reglas y demás
+
+[00:06:18]
+verad luego le pregunté
+
+[00:06:21]
+eh sobre los retiros y ya me me pusieron
+
+[00:06:26]
+este como pequeño
+
+[00:06:30]
+me pusieron este dialogo aquí me
+
+[00:06:32]
+respondieron todo lo que necesita saber
+
+[00:06:33]
+Es sobre los pagos Cuándo puedo
+
+[00:06:35]
+solicitar mi primer pago después de los
+
+[00:06:37]
+14 días calendario cuando se realizó tu
+
+[00:06:39]
+primera operación en tu cuenta
+
+[00:06:40]
+financiada Cómo retirar mis ganancias
+
+[00:06:43]
+vía Rise transferencia bancaria y cripto
+
+[00:06:46]
+ojo tienen transferencia bancaria cripto
+
+[00:06:48]
+Us rc20 y trc20 todos y cada uno de los
+
+[00:06:51]
+pagos superiores a 500 deben solicitarse
+
+[00:06:53]
+a través de Rise O sea que pagos por
+
+[00:06:56]
+encima de 500 y esto también lo hizo
+
+[00:06:58]
+fund de pips si no me equivoco van a
+
+[00:07:01]
+hacerse por raay esto no sé por qué me
+
+[00:07:03]
+imagino que problemas han de haber
+
+[00:07:05]
+tenido algún problema legal o no sé lo
+
+[00:07:08]
+que sea solo aquellos países
+
+[00:07:10]
+restringidos de Ray serán elegibles para
+
+[00:07:12]
+los pagos a través de criptomonedas el
+
+[00:07:14]
+pago mínimo son 50 y tienen pagos 15 15
+
+[00:07:18]
+Entonces estamos aquí con estrategias de
+
+[00:07:20]
+trading o cositas de las reglas
+
+[00:07:22]
+Igualmente siempre ustedes que vayan
+
+[00:07:24]
+comprar un challeng en alguna empresa
+
+[00:07:25]
+hagan su propia investigación parecido a
+
+[00:07:28]
+lo que yo estoy haciendo pueden hacer
+
+[00:07:29]
+investigar bien leer bien las reglas
+
+[00:07:31]
+Pero bueno aquí tenemos que en The F
+
+[00:07:33]
+engineer brindamos la libertad de elegir
+
+[00:07:35]
+sus estilos y estrategias de trading sin
+
+[00:07:37]
+ninguna restricción pero está prohibido
+
+[00:07:40]
+utilizar software de Inteligencia
+
+[00:07:42]
+artificial técnicas de Ultra velocidad
+
+[00:07:44]
+los los los Bots de alta frecuencia high
+
+[00:07:48]
+time frame tig scalper todos esos están
+
+[00:07:50]
+eh prohibidos realizar operaciones que
+
+[00:07:53]
+contradigan los términos y condiciones
+
+[00:07:54]
+del proveedor y de la plataforma de
+
+[00:07:55]
+negociación ejecutar operaciones
+
+[00:07:57]
+utilizando una fuente de datos externa o
+
+[00:08:00]
+lenta es como para los Brokers que se
+
+[00:08:02]
+aprovechan como de la de
+
+[00:08:05]
+la de la ejecución lenta en en algún
+
+[00:08:09]
+otro broker utilizar las sa avientas o
+
+[00:08:10]
+sin saber la estrategias de tring que
+
+[00:08:12]
+exploten errores de los servicios con
+
+[00:08:14]
+errores de visualización de precios o
+
+[00:08:17]
+actualizaciones retrasadas participar en
+
+[00:08:19]
+operaciones ya sea individualmente o
+
+[00:08:21]
+colaboración con otros con intención de
+
+[00:08:22]
+manipular las operaciones o sea como que
+
+[00:08:25]
+en una cuenta compras en otra vendes
+
+[00:08:27]
+pero con mucha gente cobertura
+
+[00:08:29]
+diferentes cuentas con otras empresas de
+
+[00:08:31]
+de profit similares a funded injury o
+
+[00:08:34]
+sea comprar y vender en una cuenta de
+
+[00:08:38]
+algún Por ejemplo yo yo compro en funden
+
+[00:08:41]
+pips y vendo en funden enger está
+
+[00:08:43]
+prohibido eso y si se dan cuenta pues te
+
+[00:08:45]
+eh te pueden vetar no solo de esta
+
+[00:08:49]
+empresa sino de muchas servicios de
+
+[00:08:52]
+gestión de cuenta todas las cuentas no
+
+[00:08:54]
+permiten que gestione la cuenta a nombre
+
+[00:08:56]
+de otros prácticas comerciales
+
+[00:08:58]
+prohibidas operaciones en grupo trading
+
+[00:09:00]
+de alta frecuencia scalping de noticias
+
+[00:09:02]
+implica abrir rápidamente cerrar
+
+[00:09:04]
+múltiples posiciones en cuestión de
+
+[00:09:05]
+segundos arbitraje inverso latencia
+
+[00:09:08]
+tring inverso sería que la fo está a
+
+[00:09:10]
+partir de Okay esto es es sí latencia
+
+[00:09:14]
+scalping de tics operaciones de copia
+
+[00:09:17]
+coberturas básicamente si tú operas de
+
+[00:09:19]
+manera normal regular no creo que tengas
+
+[00:09:21]
+ni un problema en esto pero bueno vamos
+
+[00:09:23]
+a pasar a ver algunas otras cositas
+
+[00:09:25]
+importantes Aquí está lo del plan de
+
+[00:09:26]
+escalado entonces tienen ellos cuatro
+
+[00:09:28]
+tier el primero son 4 meses el segundo
+
+[00:09:31]
+son 8 meses el tercero son 12 y el
+
+[00:09:33]
+cuarto son 16 meses puedes Acceder al al
+
+[00:09:36]
+salario mensual salario mensual el
+
+[00:09:39]
+primer tier 00 mensuales que está
+
+[00:09:42]
+bastante bien 8 meses
+
+[00:09:45]
+1550 12 meses 12250 y 16 meses 1450 es
+
+[00:09:51]
+un salario que ya te van a dar mensual
+
+[00:09:53]
+ellos y por estar o por ser rentable yo
+
+[00:09:57]
+creo que ofrecen un plan de escala
+
+[00:10:00]
+bastante grande para reclutar traders
+
+[00:10:03]
+que de verdad estén
+
+[00:10:05]
+H de verdad estén haciendo las cosas
+
+[00:10:08]
+bien y otra es o para copiar sus
+
+[00:10:10]
+operaciones o para meterlos en en un
+
+[00:10:14]
+mercado real Esa es mi teoría Pero bueno
+
+[00:10:16]
+está bastante bien no creo que vayan a
+
+[00:10:19]
+financiar a todos esos traders que ganan
+
+[00:10:21]
+muchísimo con salarios y con todo esto
+
+[00:10:24]
+no aparte escalas al al split lo que van
+
+[00:10:29]
+a pagar al principio es 8020 y escalas
+
+[00:10:31]
+hasta 90 10
+
+[00:10:33]
+eh inicial a con balance más 40% esto
+
+[00:10:37]
+vas Eh Vas teniendo como como tu balance
+
+[00:10:42]
+inicial vas teniendo 40% más y tú tenías
+
+[00:10:45]
+100,000 Próximamente vas a tener 140,000
+
+[00:10:49]
+180,000
+
+[00:10:51]
+220,000 260,000 este sería como vas
+
+[00:10:55]
+teniendo cada que escalas más de tu
+
+[00:10:58]
+cuenta si tú supongamos que tú tenías
+
+[00:11:00]
+300,000 pues vas a tener más cada que
+
+[00:11:03]
+escalas como
+
+[00:11:04]
+portier incrementas el draw down 2% cada
+
+[00:11:07]
+vez que escalas incrementas también el
+
+[00:11:10]
+drawdown diario y vas a tener retiros
+
+[00:11:13]
+eh cada 7 días después esto se convierte
+
+[00:11:16]
+en retiros todos los días
+
+[00:11:19]
+Eh tienes un un free challenge si llegas
+
+[00:11:23]
+a fallar o te llega a faltar la
+
+[00:11:24]
+psicología lo que sea tienes un free
+
+[00:11:25]
+challenge y después tienes inclusive
+
+[00:11:28]
+hasta eh clases con psicólogos para Pues
+
+[00:11:32]
+bueno chicos estamos ya aquí en su
+
+[00:11:33]
+discord eh se pueden ustedes unir a su
+
+[00:11:35]
+discord Ahí está en la página oficial
+
+[00:11:37]
+aquí van a encontrar un montón de cosas
+
+[00:11:39]
+de dónde están ubicados miembros lo que
+
+[00:11:41]
+sea pero aquí lo que nos interesa son el
+
+[00:11:44]
+dinerito los pagos los retiros verdad y
+
+[00:11:47]
+aquí está bastante gente Eh retirando
+
+[00:11:50]
+Ryan
+
+[00:11:52]
+1385 este 13000 Uy Ninguno me Oh este me
+
+[00:11:57]
+llama la atención luego tenemos este
+
+[00:11:58]
+mediante Rise 2300
+
+[00:12:01]
+2700 aquí en general hay bastante retiro
+
+[00:12:04]
+6000 vamos a ver si vemos un retiro acá
+
+[00:12:06]
+grande creo que no hay mucha gente que
+
+[00:12:09]
+retire tan grande el único que he visto
+
+[00:12:11]
+es en no he visto retiros tan
+
+[00:12:14]
+grandísimos pero por aquí están
+
+[00:12:15]
+muchísimos retiros que son recientes
+
+[00:12:18]
+Estos son de enero de primero de enero
+
+[00:12:21]
+son recientes Estos son recientes son
+
+[00:12:25]
+hay muchos retiros en general Yo creo
+
+[00:12:27]
+que es una empresa que está pagando que
+
+[00:12:29]
+en inglés la comunidad en inglés la
+
+[00:12:30]
+están usando muchísimo aquí tenemos otro
+
+[00:12:34]
+retiro este de 13000 está bastante
+
+[00:12:36]
+jugoso 400 bueno decente
+
+[00:12:38]
+decente 35000 por aquí 36000 a este
+
+[00:12:43]
+cajilla pandra indra no sé dónde sea
+
+[00:12:46]
+creo que es de la India por allá Dubai
+
+[00:12:48]
+sabe dónde sea este 4000 acá tenemos
+
+[00:12:51]
+3000 muchos retiros en general amigos
+
+[00:12:53]
+aquí pueden ustedes meterse al discord y
+
+[00:12:55]
+estar viendo y yo veo que están pagando
+
+[00:12:58]
+en la com en inglés sobre todo estadoa
+
+[00:13:00]
+viendo en grupos que están retirando
+
+[00:13:04]
+bueno tenemos el ingeniero financiado en
+
+[00:13:06]
+tras Pilot por último vamos a ver aquí
+
+[00:13:08]
+un poquito sobre tras Pilot cinco
+
+[00:13:11]
+estrellas tienen un poquito poquito
+
+[00:13:14]
+evaluaciones 864 pero en general 4.7
+
+[00:13:18]
+estrellas está bastante bien solamente
+
+[00:13:21]
+un 4% como de muy malas eh Tenemos aquí
+
+[00:13:25]
+gente que está bastante conforme por
+
+[00:13:27]
+aquí dice el ingeniero financiado es el
+
+[00:13:30]
+rey mejores planes ejecución más rápida
+
+[00:13:32]
+el broker es bastante bueno el Purple
+
+[00:13:34]
+trading es el que me gusta mucho cero
+
+[00:13:37]
+spreed eh Y luego tienen el tema del
+
+[00:13:40]
+salario gran empresa gran atención al
+
+[00:13:43]
+cliente eh buen servicio etcétera
+
+[00:13:46]
+etcétera En general tienen aquí bastante
+
+[00:13:48]
+Bueno vamos a ver estas de una estrella
+
+[00:13:50]
+vamos a ver para para ver cómo a ver si
+
+[00:13:53]
+a ver como los fallitos Aunque es una
+
+[00:13:55]
+minoría muy poca siempre me gusta ver
+
+[00:13:57]
+también los los como los contras que
+
+[00:13:59]
+podría llegar a tener la empresa verad
+
+[00:14:02]
+Entonces no se moleste importante
+
+[00:14:04]
+contacto con su equipo de soporte debido
+
+[00:14:06]
+a que sería una pérdida de tiempo una
+
+[00:14:07]
+demora en obtener sus reembolsos Eso fue
+
+[00:14:10]
+hace dos días por lo que pasé con ellos
+
+[00:14:11]
+solo involucrar las autoridades ta ta ta
+
+[00:14:14]
+tuve mi reembolso de inmediato o sea
+
+[00:14:16]
+parecía que no le querían hacer un
+
+[00:14:18]
+reembolso a este men no sé por qué Por
+
+[00:14:21]
+favor antes de tratar con ingeniero
+
+[00:14:23]
+financiero 100% hesla esty viviendo en
+
+[00:14:25]
+Dubai pue ser que esta persona está
+
+[00:14:27]
+quejando como que porque no están en
+
+[00:14:29]
+Dubai Y dice él que está en los emiratos
+
+[00:14:32]
+árabes Unidos y que no están en Dubai y
+
+[00:14:34]
+aquí le respondieron nuestra oficina
+
+[00:14:36]
+utiliza exclusivamente para operaciones
+
+[00:14:37]
+de alta gama y no está abierta para
+
+[00:14:39]
+visitas públicas Okay es como que le
+
+[00:14:43]
+dicen que no está abierta para visitas
+
+[00:14:45]
+públicas la dirección sí que no tienen
+
+[00:14:47]
+una dirección eh de donde están operando
+
+[00:14:50]
+Pero bueno ya cada uno puede aquí leer
+
+[00:14:52]
+la reseñas y ya tener su propio criterio
+
+[00:14:55]
+para si va a ir acá o no ya por último
+
+[00:14:58]
+estamos aquí en la sección donde
+
+[00:15:00]
+compramos una cuenta yo me iría por cuál
+
+[00:15:02]
+me iría yo me iría por la de El objetivo
+
+[00:15:06]
+la estándar de beneficio puedes agarrar
+
+[00:15:09]
+la light que la light tiene una pérdida
+
+[00:15:11]
+de ocho esta esta tiene una pérdida de
+
+[00:15:15]
+10 en lugar la light puedes agarrar la
+
+[00:15:17]
+Light o la estándar la estándar tienes
+
+[00:15:20]
+un objetivo del 8o y una reducción del
+
+[00:15:22]
+10 vamos a agarrar la light que es como
+
+[00:15:25]
+la más barata
+
+[00:15:26]
+verdad chicos ya amos aquí como la
+
+[00:15:29]
+selección de proceso de comprar tu
+
+[00:15:30]
+cuenta le di a la cuenta light tenemos
+
+[00:15:33]
+la 50k a mí me gusta metatrader 5 porque
+
+[00:15:35]
+tiene mejor ejecución tiene Purple
+
+[00:15:38]
+trading y aquí tenemos Si quieres
+
+[00:15:41]
+comprar un 9010 de sher un un 9010 es
+
+[00:15:46]
+como para poder comprar este ese 910 y
+
+[00:15:51]
+te lo van a cobrar Como extra es como un
+
+[00:15:54]
+añadido y aquí te lo van a cobrar Como
+
+[00:15:56]
+extra que vale $9 más O sea que por el
+
+[00:16:00]
+profil Split en lugar de 8020 te van vas
+
+[00:16:02]
+a hacer un 90 10 está carito cariñoso y
+
+[00:16:07]
+esto sería fase uno fase dos máximo de
+
+[00:16:11]
+drw Down y el apalancamiento de un a 100
+
+[00:16:15]
+y si yo le doy por ejemplo a elegir la
+
+[00:16:18]
+normal la estándar bueno en la estándar
+
+[00:16:20]
+sí que puede elegir 50.000 el broker lo
+
+[00:16:22]
+mismo pero puede elegir 7 días de p out
+
+[00:16:26]
+vamos a ver cuánto nos cuesta 7 días más
+
+[00:16:28]
+de p out pout pout rapidito para si lo
+
+[00:16:32]
+puedes cada 7 días 112 más
+
+[00:16:36]
+okay Está cariñoso Pero bueno si alguien
+
+[00:16:40]
+le interesa retirar rápido puede elegir
+
+[00:16:43]
+112 días de perdón 7 días de cada
+
+[00:16:47]
+retirar cada 7 días 375 es la estándar
+
+[00:16:50]
+está cariñosa pero está bastante bien
+
+[00:16:53]
+todavía
+```

@@ -1,0 +1,562 @@
+[
+  {
+    "start_sec": 0.0,
+    "end_sec": 1.44,
+    "text": "Hola Qué pasa a todos chicos estamos en"
+  },
+  {
+    "start_sec": 1.44,
+    "end_sec": 3.92,
+    "text": "un nuevo vío esta vez el módulo número"
+  },
+  {
+    "start_sec": 3.92,
+    "end_sec": 6.96,
+    "text": "tres esta vez nuestra clase número uno y"
+  },
+  {
+    "start_sec": 6.96,
+    "end_sec": 10.0,
+    "text": "esta vez con tipo de mapeo de rangos"
+  },
+  {
+    "start_sec": 10.0,
+    "end_sec": 12.44,
+    "text": "esta clase va a ser muy importante para"
+  },
+  {
+    "start_sec": 12.44,
+    "end_sec": 14.96,
+    "text": "poder enfocarnos en la acción de precio"
+  },
+  {
+    "start_sec": 14.96,
+    "end_sec": 17.76,
+    "text": "inmediata que queremos trabajar entonces"
+  },
+  {
+    "start_sec": 17.76,
+    "end_sec": 20.2,
+    "text": "cuál es la finalidad de esto es la"
+  },
+  {
+    "start_sec": 20.2,
+    "end_sec": 22.0,
+    "text": "usamos para enfocarnos en la acción de"
+  },
+  {
+    "start_sec": 22.0,
+    "end_sec": 24.04,
+    "text": "precio y fractales que queremos a"
+  },
+  {
+    "start_sec": 24.04,
+    "end_sec": 26.68,
+    "text": "trabajar ahora sí a la hora de que yo"
+  },
+  {
+    "start_sec": 26.68,
+    "end_sec": 28.44,
+    "text": "quiero trabajar yo ya conozco el"
+  },
+  {
+    "start_sec": 28.44,
+    "end_sec": 30.52,
+    "text": "contexto de lo que venía haciendo el"
+  },
+  {
+    "start_sec": 30.52,
+    "end_sec": 33.68,
+    "text": "precio y ahora quiero centrarme En cuál"
+  },
+  {
+    "start_sec": 33.68,
+    "end_sec": 35.76,
+    "text": "va a ser la mayor probabilidad en los"
+  },
+  {
+    "start_sec": 35.76,
+    "end_sec": 38.48,
+    "text": "próximos días en las próximas horas las"
+  },
+  {
+    "start_sec": 38.48,
+    "end_sec": 41.6,
+    "text": "próximas semanas quiero ahora centrarme"
+  },
+  {
+    "start_sec": 41.6,
+    "end_sec": 43.64,
+    "text": "en esa acción de precio para esto es que"
+  },
+  {
+    "start_sec": 43.64,
+    "end_sec": 46.68,
+    "text": "voy a usar mi mapeo de rangos lo"
+  },
+  {
+    "start_sec": 46.68,
+    "end_sec": 48.56,
+    "text": "identificar bajos y altos que el precio"
+  },
+  {
+    "start_sec": 48.56,
+    "end_sec": 50.88,
+    "text": "puede tomar en un futuro como"
+  },
+  {
+    "start_sec": 50.88,
+    "end_sec": 54.0,
+    "text": "identificarlos swing mapeo para swing"
+  },
+  {
+    "start_sec": 54.0,
+    "end_sec": 55.88,
+    "text": "bajos y altos semanales y mensuales"
+  },
+  {
+    "start_sec": 55.88,
+    "end_sec": 59.04,
+    "text": "principalmente mapeo para intradía bajos"
+  },
+  {
+    "start_sec": 59.04,
+    "end_sec": 61.68,
+    "text": "y altos de sesión y diarios y para"
+  },
+  {
+    "start_sec": 61.68,
+    "end_sec": 64.28,
+    "text": "scalping bajos y altos de sesiones lo"
+  },
+  {
+    "start_sec": 64.28,
+    "end_sec": 67.44,
+    "text": "mismo Aplica para los puntos de interés"
+  },
+  {
+    "start_sec": 67.44,
+    "end_sec": 69.68,
+    "text": "Entonces por acá chicos tengo también"
+  },
+  {
+    "start_sec": 69.68,
+    "end_sec": 71.56,
+    "text": "otro concepto que quería tocar en esta"
+  },
+  {
+    "start_sec": 71.56,
+    "end_sec": 75.2,
+    "text": "clase y Ahorita les voy a hacer"
+  },
+  {
+    "start_sec": 75.2,
+    "end_sec": 78.0,
+    "text": "ejemplos al final de la clase le voy a"
+  },
+  {
+    "start_sec": 78.0,
+    "end_sec": 80.8,
+    "text": "hacer ejemplos de nuestro mapeo de"
+  },
+  {
+    "start_sec": 80.8,
+    "end_sec": 82.8,
+    "text": "rangos Pero antes es importante entender"
+  },
+  {
+    "start_sec": 82.8,
+    "end_sec": 85.48,
+    "text": "la manipulación stop H toma liquidez de"
+  },
+  {
+    "start_sec": 85.48,
+    "end_sec": 87.8,
+    "text": "bajos y altos aproximadamente entre un"
+  },
+  {
+    "start_sec": 87.8,
+    "end_sec": 91.64,
+    "text": "10 y un 30% después de un alto o un bajo"
+  },
+  {
+    "start_sec": 91.64,
+    "end_sec": 93.6,
+    "text": "hay diferentes patrones de manipulación"
+  },
+  {
+    "start_sec": 93.6,
+    "end_sec": 94.72,
+    "text": "Pero estos son los que más"
+  },
+  {
+    "start_sec": 94.72,
+    "end_sec": 97.96,
+    "text": "frecuentemente yo utilizo que sería este"
+  },
+  {
+    "start_sec": 97.96,
+    "end_sec": 100.72,
+    "text": "High este low el precio liquid este High"
+  },
+  {
+    "start_sec": 100.72,
+    "end_sec": 103.92,
+    "text": "solamente me llega Entre 10 a 30% del"
+  },
+  {
+    "start_sec": 103.92,
+    "end_sec": 107.6,
+    "text": "máximo este lo sube más del 30% de este"
+  },
+  {
+    "start_sec": 107.6,
+    "end_sec": 111.44,
+    "text": "máximo y después cae igual tendríamos"
+  },
+  {
+    "start_sec": 111.44,
+    "end_sec": 114.16,
+    "text": "este low este High el precio manipul al"
+  },
+  {
+    "start_sec": 114.16,
+    "end_sec": 117.04,
+    "text": "bajo solamente me sube me baja perdón a"
+  },
+  {
+    "start_sec": 117.04,
+    "end_sec": 120.04,
+    "text": "partir del 10 o el 30% luego tengo el lo"
+  },
+  {
+    "start_sec": 120.04,
+    "end_sec": 122.88,
+    "text": "que son eh patrones eh más un poquito"
+  },
+  {
+    "start_sec": 122.88,
+    "end_sec": 125.04,
+    "text": "más avanzados como podría ser este High"
+  },
+  {
+    "start_sec": 125.04,
+    "end_sec": 127.36,
+    "text": "este low el percio manipula rompe"
+  },
+  {
+    "start_sec": 127.36,
+    "end_sec": 129.96,
+    "text": "estructura reteste y se va parecido a un"
+  },
+  {
+    "start_sec": 129.96,
+    "end_sec": 132.36,
+    "text": "hombro cabeza hombro es un patrón de"
+  },
+  {
+    "start_sec": 132.36,
+    "end_sec": 134.4,
+    "text": "manipulación institucional lo que"
+  },
+  {
+    "start_sec": 134.4,
+    "end_sec": 137.0,
+    "text": "tenemos el precio me rompe aquí abajo"
+  },
+  {
+    "start_sec": 137.0,
+    "end_sec": 138.88,
+    "text": "luego me rompe la estructura arriba me"
+  },
+  {
+    "start_sec": 138.88,
+    "end_sec": 141.68,
+    "text": "reteste y se va y luego que tenemos el"
+  },
+  {
+    "start_sec": 141.68,
+    "end_sec": 144.16,
+    "text": "último punto parecido un triángulo de"
+  },
+  {
+    "start_sec": 144.16,
+    "end_sec": 146.0,
+    "text": "liquidez el precio me rompe la"
+  },
+  {
+    "start_sec": 146.0,
+    "end_sec": 147.88,
+    "text": "estructura hacia arriba me toma la"
+  },
+  {
+    "start_sec": 147.88,
+    "end_sec": 150.08,
+    "text": "liquidez viene hacia abajo parece el"
+  },
+  {
+    "start_sec": 150.08,
+    "end_sec": 152.4,
+    "text": "precio va a respetar esta zona no la"
+  },
+  {
+    "start_sec": 152.4,
+    "end_sec": 155.56,
+    "text": "respeta induce y se va para abajo por"
+  },
+  {
+    "start_sec": 155.56,
+    "end_sec": 157.4,
+    "text": "último tenemos este otro patrón de"
+  },
+  {
+    "start_sec": 157.4,
+    "end_sec": 159.52,
+    "text": "manipulación que es el precio se impulsa"
+  },
+  {
+    "start_sec": 159.52,
+    "end_sec": 161.48,
+    "text": "hacia arriba rompe hacia abajo tomando"
+  },
+  {
+    "start_sec": 161.48,
+    "end_sec": 163.68,
+    "text": "esa liquidez falla en hacer un nuevo"
+  },
+  {
+    "start_sec": 163.68,
+    "end_sec": 166.0,
+    "text": "alto falla abajo de nuevo y se va para"
+  },
+  {
+    "start_sec": 166.0,
+    "end_sec": 168.48,
+    "text": "arriba a la alza estos son los patrones"
+  },
+  {
+    "start_sec": 168.48,
+    "end_sec": 171.32,
+    "text": "más básicos de manipulación o de stop h"
+  },
+  {
+    "start_sec": 171.32,
+    "end_sec": 172.84,
+    "text": "o de toma de liquidez para que ustedes"
+  },
+  {
+    "start_sec": 172.84,
+    "end_sec": 175.52,
+    "text": "se los aprendan y puedan identificar más"
+  },
+  {
+    "start_sec": 175.52,
+    "end_sec": 177.32,
+    "text": "fácil lo que son las manipulaciones"
+  },
+  {
+    "start_sec": 177.32,
+    "end_sec": 179.28,
+    "text": "luego por último tenemos el concepto de"
+  },
+  {
+    "start_sec": 179.28,
+    "end_sec": 181.32,
+    "text": "Rango por por sesiones la teoría nos"
+  },
+  {
+    "start_sec": 181.32,
+    "end_sec": 183.16,
+    "text": "indica que los bajos y los altos de las"
+  },
+  {
+    "start_sec": 183.16,
+    "end_sec": 185.0,
+    "text": "sesiones serán puntos de liquidez donde"
+  },
+  {
+    "start_sec": 185.0,
+    "end_sec": 187.88,
+    "text": "el precio será propenso a manipular por"
+  },
+  {
+    "start_sec": 187.88,
+    "end_sec": 189.88,
+    "text": "eso es importante estudiarlos y tomarlos"
+  },
+  {
+    "start_sec": 189.88,
+    "end_sec": 192.2,
+    "text": "en cuenta sobre todo para operativas"
+  },
+  {
+    "start_sec": 192.2,
+    "end_sec": 195.12,
+    "text": "intradía o scalping muy fácil Siempre"
+  },
+  {
+    "start_sec": 195.12,
+    "end_sec": 196.8,
+    "text": "vamos a estar vigilando sobre todo los"
+  },
+  {
+    "start_sec": 196.8,
+    "end_sec": 199.48,
+    "text": "intradía o los scalpers bajos y altos de"
+  },
+  {
+    "start_sec": 199.48,
+    "end_sec": 202.16,
+    "text": "Asia en este caso el low asiático el"
+  },
+  {
+    "start_sec": 202.16,
+    "end_sec": 205.24,
+    "text": "High asiático luego que tenemos tenemos"
+  },
+  {
+    "start_sec": 205.24,
+    "end_sec": 207.68,
+    "text": "el bajo que es tomado por Londres el"
+  },
+  {
+    "start_sec": 207.68,
+    "end_sec": 210.12,
+    "text": "bajo de Asia es tomado por Londres lo"
+  },
+  {
+    "start_sec": 210.12,
+    "end_sec": 212.04,
+    "text": "después de que eh Londres toma hacia"
+  },
+  {
+    "start_sec": 212.04,
+    "end_sec": 214.52,
+    "text": "abajo deja este punto de aquí el precio"
+  },
+  {
+    "start_sec": 214.52,
+    "end_sec": 216.84,
+    "text": "que hace el precio venir hacia arriba"
+  },
+  {
+    "start_sec": 216.84,
+    "end_sec": 219.52,
+    "text": "tomar el alto de Londres inclusive puede"
+  },
+  {
+    "start_sec": 219.52,
+    "end_sec": 221.36,
+    "text": "volver a tomar el alto de Asia y a"
+  },
+  {
+    "start_sec": 221.36,
+    "end_sec": 223.48,
+    "text": "partir de ahí se revierte y tomar de"
+  },
+  {
+    "start_sec": 223.48,
+    "end_sec": 225.6,
+    "text": "nuevo el bajo que había dejado Londres"
+  },
+  {
+    "start_sec": 225.6,
+    "end_sec": 228.12,
+    "text": "de esta manera funcionaría más o menos"
+  },
+  {
+    "start_sec": 228.12,
+    "end_sec": 231.48,
+    "text": "no va a ser siempre igual pero siempre"
+  },
+  {
+    "start_sec": 231.48,
+    "end_sec": 233.32,
+    "text": "tomen en cuenta los bajos y los altos"
+  },
+  {
+    "start_sec": 233.32,
+    "end_sec": 235.28,
+    "text": "asiáticos de Londres y de Nueva York"
+  },
+  {
+    "start_sec": 235.28,
+    "end_sec": 238.08,
+    "text": "sobre todo personas que tradean scalper"
+  },
+  {
+    "start_sec": 238.08,
+    "end_sec": 240.88,
+    "text": "o que tradean más intradía no Bueno"
+  },
+  {
+    "start_sec": 240.88,
+    "end_sec": 242.8,
+    "text": "chicos En las siguientes clases es que"
+  },
+  {
+    "start_sec": 242.8,
+    "end_sec": 245.16,
+    "text": "les voy a estar enseñando los mapeos"
+  },
+  {
+    "start_sec": 245.16,
+    "end_sec": 249.08,
+    "text": "para poder hacer calpin intradía o swing"
+  },
+  {
+    "start_sec": 249.08,
+    "end_sec": 250.56,
+    "text": "Espero que les haya gustado bastante"
+  },
+  {
+    "start_sec": 250.56,
+    "end_sec": 253.12,
+    "text": "este video le te leo en los comentarios"
+  },
+  {
+    "start_sec": 253.12,
+    "end_sec": 255.76,
+    "text": "y si deseas una mentoría personalizada"
+  },
+  {
+    "start_sec": 255.76,
+    "end_sec": 257.24,
+    "text": "Puedes mandarme un mensaje de WhatsApp"
+  },
+  {
+    "start_sec": 257.24,
+    "end_sec": 260.56,
+    "text": "sígame en instagram Gustavo m. Trader y"
+  },
+  {
+    "start_sec": 260.56,
+    "end_sec": 262.4,
+    "text": "no se pierdan esos videos que ahora sí"
+  },
+  {
+    "start_sec": 262.4,
+    "end_sec": 264.32,
+    "text": "los que quieran ser scalper o hacer"
+  },
+  {
+    "start_sec": 264.32,
+    "end_sec": 266.88,
+    "text": "swing o hacer intradía van a ser unos"
+  },
+  {
+    "start_sec": 266.88,
+    "end_sec": 268.48,
+    "text": "videos bastante potentes para que los"
+  },
+  {
+    "start_sec": 268.48,
+    "end_sec": 271.04,
+    "text": "ayuden a cómo analizar desde cero sus"
+  },
+  {
+    "start_sec": 271.04,
+    "end_sec": 274.76,
+    "text": "operativas adiós"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "source_id": "YT_CANAL_02_w57xloFfQaQ",
+  "video_id": "w57xloFfQaQ",
+  "metadata": {
+    "channel": "Gustavom.Trader",
+    "title": "Trading en FOREX de precisión DESDE CERO- SHARP SHOOTERS",
+    "url": "https://www.youtube.com/watch?v=w57xloFfQaQ",
+    "published_at": "2022-01-30",
+    "duration_sec": 523,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "caso_de_estudio"
+  },
+  "transcript_quality": "baja -- fragmentado, con huecos y ASR ruidoso; video mas antiguo del piloto (2022). Candidato a re-transcribir con Whisper en la importacion completa.",
+  "topics": ["gestion_de_riesgo", "liquidez"],
+  "concepts": ["order flow", "zona premium", "zona de descuento", "mitigacion de bloque"],
+  "key_ideas": [
+    {"timestamp_sec": 55, "title": "Estructura bajista tras un quiebre", "text": "Quiebre que rompe una zona importante e inicia estructura bajista (order flow) con altos y bajos cada vez mas bajos.", "deep_link": "https://www.youtube.com/watch?v=w57xloFfQaQ&t=55s"},
+    {"timestamp_sec": 115, "title": "Regla: zona premium antes de vender", "text": "Para buscar ventas el precio debe entrar a zona premium; para compras, a zona de descuento.", "deep_link": "https://www.youtube.com/watch?v=w57xloFfQaQ&t=115s"},
+    {"timestamp_sec": 288, "title": "Detalles finos de entrada no se comparten publicamente", "text": "No se da el detalle de entrada en temporalidades muy bajas por respeto a los alumnos de pago.", "deep_link": "https://www.youtube.com/watch?v=w57xloFfQaQ&t=288s"},
+    {"timestamp_sec": 424, "title": "Resultado reportado: 3.75% en menos de 2 dias", "text": "Resultado de 3.75% de la cuenta en menos de un dia y medio/dos dias.", "deep_link": "https://www.youtube.com/watch?v=w57xloFfQaQ&t=424s"}
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 115, "text": "Antes de buscar ventas, el precio debe entrar a una zona premium (y a descuento para compras)."},
+    {"timestamp_sec": 180, "text": "Priorizar la mitigacion en la zona mas sensible de un bloque (el 50%)."}
+  ],
+  "mistakes_mentioned": [],
+  "terminology": {
+    "Sharp Shooters": "Nombre de la marca/comunidad del canal en 2022, distinto de CRT usado en videos posteriores.",
+    "order flow": "Estructura de altos y bajos que confirma una tendencia.",
+    "zona premium / descuento": "Zonas relativamente caras o baratas dentro de un rango."
+  },
+  "entities": {
+    "people": [],
+    "tools": [],
+    "markets": ["EUR/USD"]
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=w57xloFfQaQ",
+  "series_note": null,
+  "chunks": []
+}

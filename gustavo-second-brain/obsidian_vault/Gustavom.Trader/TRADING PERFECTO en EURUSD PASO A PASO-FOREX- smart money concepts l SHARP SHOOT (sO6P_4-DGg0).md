@@ -1,0 +1,919 @@
+---
+source_id: YT_CANAL_02_sO6P_4-DGg0
+video_id: sO6P_4-DGg0
+channel: "Gustavom.Trader"
+published_at: 2022-08-16
+url: https://www.youtube.com/watch?v=sO6P_4-DGg0
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 7
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# TRADING PERFECTO en EURUSD PASO A PASO-FOREX- smart money concepts l SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=sO6P_4-DGg0)
+
+## Transcript
+
+```
+[00:00:00]
+[Música]
+
+[00:00:02]
+y
+
+[00:00:05]
+snow how do you know and the budget
+
+[00:00:08]
+vamos a empezar con nuestra clase en
+
+[00:00:10]
+nuestro caso de estudio piense en la
+
+[00:00:13]
+semana pasada yo estuve trabajando lo
+
+[00:00:15]
+que es el euro uem
+
+[00:00:18]
+y me encontraba yo en un movimiento
+
+[00:00:20]
+donde el precio estaba de
+
+[00:00:23]
+batalla estaba de batalla por ahí y fue
+
+[00:00:28]
+una entrada bastante buena
+
+[00:00:31]
+ya todo esto que estaba por acá ya había
+
+[00:00:33]
+pasado nosotros estábamos más o menos
+
+[00:00:36]
+para que ustedes se ubiquen estábamos
+
+[00:00:38]
+parados acá más o menos por aquí
+
+[00:00:43]
+cuando yo me encontré la zona donde
+
+[00:00:46]
+tratamos me encontraba
+
+[00:00:48]
+vivir aquí
+
+[00:00:53]
+miramos que el precio había roto una
+
+[00:00:56]
+estructura ya ustedes próximamente se
+
+[00:00:59]
+viene una clase de estructura del
+
+[00:01:00]
+mercado avanzada donde ustedes van a
+
+[00:01:03]
+poder entender más conceptos avanzados
+
+[00:01:04]
+sobre estructura entonces no tengan
+
+[00:01:07]
+cuidado sobre eso pero simplemente vemos
+
+[00:01:10]
+que el precio captura el último alto
+
+[00:01:12]
+entonces cuando mire que capturó el
+
+[00:01:15]
+último alto que había hecho que generó
+
+[00:01:17]
+un box un rompimiento de la estructura y
+
+[00:01:20]
+que probablemente mi dirección vaya a
+
+[00:01:23]
+ser al alza adicional a esto teníamos
+
+[00:01:25]
+que por acá el mercado no sé si por allá
+
+[00:01:28]
+si ya se vieron el vídeo la clase que le
+
+[00:01:31]
+subí de los 30 donde teníamos este
+
+[00:01:34]
+indicador que se llama el napoli cando
+
+[00:01:36]
+teníamos esta velita gente que justa
+
+[00:01:38]
+esta velita y los conceptos que estamos
+
+[00:01:41]
+utilizando fíjense que son conceptos que
+
+[00:01:43]
+funcionan constantemente y que cada vez
+
+[00:01:45]
+les van a dar mucho más confluencia a la
+
+[00:01:48]
+hora de entrar al mercado teníamos esta
+
+[00:01:50]
+velita con un balance y el precio había
+
+[00:01:52]
+reaccionado exactamente a esta zona que
+
+[00:01:54]
+teníamos por acá
+
+[00:01:55]
+si el vídeo lo veo excelente ok entonces
+
+[00:01:59]
+vas a entender mucho más fácil que los
+
+[00:02:00]
+que nos han mirado lo que no lo ha
+
+[00:02:02]
+mirado vayan a ver el vídeo porque es
+
+[00:02:03]
+muy bueno explicó cómo funciona el
+
+[00:02:05]
+indicador y una aplicación de entonces
+
+[00:02:08]
+el mercado había reaccionado exactamente
+
+[00:02:10]
+a esta zona
+
+[00:02:12]
+el mercado a partir de ahí
+
+[00:02:16]
+reaccionó también a este
+
+[00:02:20]
+esto también era importante entonces ya
+
+[00:02:22]
+había reaccionado a dos zonas entonces
+
+[00:02:24]
+posiblemente yo estaba viendo que la
+
+[00:02:28]
+estructura que el mercado de vida de
+
+[00:02:30]
+llevar era alcista porque ya me había
+
+[00:02:32]
+roto el último alto que teníamos para
+
+[00:02:34]
+acá cual alto gustaba este que teníamos
+
+[00:02:36]
+para acá ya me lo había roto entonces
+
+[00:02:38]
+posiblemente el mercado vino una zona
+
+[00:02:40]
+vino a la siguiente zona y usted su
+
+[00:02:43]
+dirección vaya a ser alcista entonces
+
+[00:02:45]
+ahí yo interpreté que la dirección
+
+[00:02:47]
+podría ser al tipo luego donde yo me
+
+[00:02:50]
+ubicaba me ubicaba en que el mercado
+
+[00:02:52]
+había tomado un bloque
+
+[00:02:54]
+así que un decisionales un bloque que
+
+[00:02:58]
+rompió este último alto
+
+[00:03:01]
+este último alto era importante porque
+
+[00:03:02]
+el siguiente el rechazo que había tenido
+
+[00:03:04]
+al precio y también este alto me ha
+
+[00:03:07]
+visto había era el que había provocado
+
+[00:03:09]
+que se metiera en
+
+[00:03:13]
+es temporalidad de h1 e se metiera en
+
+[00:03:16]
+nuestro punto de interés que teníamos
+
+[00:03:18]
+más acá este bloque que tenemos acá
+
+[00:03:20]
+también adicional a esto si no me
+
+[00:03:22]
+equivoco era un nobody candal que tenía
+
+[00:03:25]
+un balance cerca
+
+[00:03:27]
+si lo ven ok excelente entonces teníamos
+
+[00:03:30]
+las dos zonas donde el precio bien
+
+[00:03:32]
+reaccionado y luego de fue me ubiqué que
+
+[00:03:36]
+el precio de niña estaba reaccionando
+
+[00:03:38]
+ahora en el decisión
+
+[00:03:42]
+y acá
+
+[00:03:43]
+interpreté que muchos estaban metiéndose
+
+[00:03:47]
+en venta como podrían estar metiéndose
+
+[00:03:49]
+en ventas vamos a darle un poquito para
+
+[00:03:51]
+adelante entonces hay intérpretes que se
+
+[00:03:53]
+estaban metiendo en ventas y luego yo
+
+[00:03:56]
+identifique este bloque que me pareció
+
+[00:03:58]
+bastante bueno
+
+[00:04:00]
+cada hora
+
+[00:04:02]
+porque no me metí en ventas porque por
+
+[00:04:05]
+todo el contexto que llevábamos
+
+[00:04:06]
+llevábamos ya una estructura alcista
+
+[00:04:09]
+fíjate que también esta estructura se
+
+[00:04:11]
+había roto ya esta estructura de por acá
+
+[00:04:13]
+había sacado ya alguno tal todo
+
+[00:04:17]
+este me llamó entonces probablemente el
+
+[00:04:19]
+precio fuera buscar zonas más arriba
+
+[00:04:21]
+entonces yo interpreté esto y
+
+[00:04:24]
+decidí ya aquí en la sección de nueva
+
+[00:04:27]
+york bajarme a una temporalidad menor de
+
+[00:04:30]
+5 minutos donde empecé a ver que el
+
+[00:04:32]
+precio lo empezaron a rechazar al
+
+[00:04:34]
+rechazarlo el precio probablemente iba a
+
+[00:04:37]
+estarse generando liquidez
+
+[00:04:38]
+quienes que vivimos una clase de
+
+[00:04:41]
+liquidez la semana pasada probablemente
+
+[00:04:43]
+los que ya estén mirando esto en youtube
+
+[00:04:44]
+ya la hayan visto pero esta clase se va
+
+[00:04:47]
+a subir próximamente el día sábado se va
+
+[00:04:49]
+a subir esta clase donde el sensei
+
+[00:04:51]
+gerald nos enseñó nos muestra un poco
+
+[00:04:54]
+sobre la liquidez entonces se forma
+
+[00:04:56]
+liquidez arriba y un rechazo se veía un
+
+[00:04:59]
+rechazo en el precio
+
+[00:05:02]
+y el precio a partir de aquí yo miro que
+
+[00:05:05]
+me diga de manera muy perfecta este
+
+[00:05:08]
+bloqueo entonces yo tenía una entrada
+
+[00:05:10]
+donde tenía una entrada acá
+
+[00:05:15]
+en este bloque y tenía otro voy por acá
+
+[00:05:19]
+que este puesto obviamente por
+
+[00:05:21]
+cuestiones por obvias razones no lo tomo
+
+[00:05:23]
+este también me gustaba mucho porque
+
+[00:05:25]
+también tenía fíjate un pequeño balance
+
+[00:05:27]
+entonces tenía estos dos y mire que
+
+[00:05:30]
+bastante personas fijas de 5 minutos se
+
+[00:05:32]
+ve bastante más bueno
+
+[00:05:36]
+los refinancia gustavo yolo yo no lo
+
+[00:05:39]
+refiere tanto simplemente lo define
+
+[00:05:40]
+hasta 5 minutos
+
+[00:05:42]
+hay tienda y decidió tomarlo
+
+[00:05:45]
+ahí y mi orden estaba por esta parte
+
+[00:05:50]
+entonces para tener un contexto mayor
+
+[00:05:53]
+que hicimos identificamos la
+
+[00:05:55]
+temporalidad alta que es la temporalidad
+
+[00:05:57]
+alta cuatro horas vimos que el precio
+
+[00:06:00]
+venía rebotando sobre puntos de interés
+
+[00:06:02]
+en cuatro horas en h1 identificamos que
+
+[00:06:06]
+en h uno podría podría ir hacia arriba
+
+[00:06:08]
+vimos que el precio ya nos tomó liquidez
+
+[00:06:10]
+hacia la parte de arriba y probablemente
+
+[00:06:13]
+el precio quiera buscar qué zona quiera
+
+[00:06:15]
+buscar probablemente quiera buscar este
+
+[00:06:17]
+bloque este este no esté este bloque es
+
+[00:06:20]
+de nobody candel con un balance que está
+
+[00:06:23]
+por acá
+
+[00:06:26]
+entonces yo tenía una probabilidad de
+
+[00:06:28]
+que me trajera hacia arriba aparte esta
+
+[00:06:30]
+parte este este alto era un alto
+
+[00:06:33]
+importante donde probablemente muchos
+
+[00:06:35]
+estuvieran buscando ventas porque porque
+
+[00:06:37]
+estaban activos
+
+[00:06:39]
+así estaban algunos
+
+[00:06:43]
+tenían su línea ellos creo que la ponen
+
+[00:06:46]
+por aquí
+
+[00:06:51]
+a veces miro unos que las ponen así como
+
+[00:06:53]
+dos líneas y ponen su otras líneas
+
+[00:06:56]
+entonces miré que eso era una posible
+
+[00:06:58]
+resistencia para esas personas
+
+[00:07:02]
+yo busqué en temporalidad de cinco
+
+[00:07:04]
+minutos simplemente que el precio
+
+[00:07:05]
+mitigar a nuestro blog y aquí tenía una
+
+[00:07:08]
+entrada y gustavo si te sacaba para qué
+
+[00:07:10]
+ibas a hacer probablemente lo voy a
+
+[00:07:12]
+buscar un poquito más abajo y si ya de
+
+[00:07:14]
+plano me sacaba ya no me interesaba
+
+[00:07:16]
+también porque ya la generación de estos
+
+[00:07:19]
+bajos pues no era tan probable porque ya
+
+[00:07:22]
+había generado algo de liquidez entonces
+
+[00:07:25]
+tenía que reaccionar el precio sí o sí
+
+[00:07:27]
+para que me trace fuera válido en mi
+
+[00:07:28]
+caso cliente yo sinceramente me trade a
+
+[00:07:31]
+esta zona pero si el precio que haya un
+
+[00:07:33]
+poco más iba a buscar algún patrón acá
+
+[00:07:36]
+abajo pero fíjense como mis hijos de
+
+[00:07:39]
+manera perfecta luego vuelve a hacer el
+
+[00:07:41]
+engaño y vuelve a hacer el engaño pero
+
+[00:07:44]
+fíjate ya que dejo acá
+
+[00:07:47]
+el doble techo
+
+[00:07:49]
+el doble techo y acá al estar así la
+
+[00:07:53]
+gente ya me da una mayor confirmación y
+
+[00:07:55]
+acá me parece que vuelvo a meter otra
+
+[00:07:57]
+entrada
+
+[00:07:59]
+aquí es donde la temporalidad de una
+
+[00:08:01]
+hora me quisiera temporalidad macro
+
+[00:08:03]
+vimos que el precio bueno ya lo raíz de
+
+[00:08:05]
+muchas líneas para acá vamos a borrar
+
+[00:08:07]
+esto pero vimos que el precio había roto
+
+[00:08:10]
+un alto probablemente ir a buscar todo
+
+[00:08:12]
+este balance que tenía por acá
+
+[00:08:16]
+este balance todo este cuadro puede dar
+
+[00:08:18]
+subir vimos que el precio se metió a un
+
+[00:08:21]
+nobody candel de temporalidad de cuatro
+
+[00:08:24]
+horas ya se había metido a este saco el
+
+[00:08:28]
+doble piso que tenía por acá era un
+
+[00:08:30]
+doble piso el famoso soporte sacó el
+
+[00:08:34]
+soporte que tenía cada soporte
+
+[00:08:38]
+están muy grandes
+
+[00:08:41]
+saco el soporte manipuló ahí vimos que
+
+[00:08:45]
+ya probablemente se podría ir hacia
+
+[00:08:46]
+arriba y hasta donde yo tenía mi tope
+
+[00:08:48]
+pues yo tenía mi temple más o menos
+
+[00:08:50]
+hasta esta zona hasta que tenía mi
+
+[00:08:52]
+temple
+
+[00:08:55]
+y el precio se va a partir de ahí y
+
+[00:08:58]
+tenemos una entrada hermosísima begic la
+
+[00:09:01]
+gorra regresa y regresa a mitigar
+
+[00:09:04]
+simplemente esa fama pero el movimiento
+
+[00:09:06]
+que nosotros tomamos simplemente fue
+
+[00:09:08]
+este movimiento
+
+[00:09:11]
+acá cuando llegó a este punto por
+
+[00:09:13]
+ejemplo yo voy a tomar yo estaba sumando
+
+[00:09:16]
+ya un parcial más o menos cuando llegó
+
+[00:09:18]
+empezó a tocar el inba lance y empezó a
+
+[00:09:21]
+meterse a otro bloqueo hasta zona
+
+[00:09:23]
+peligrosa tomé otro parcial y para que
+
+[00:09:27]
+se den una idea la entrada que tomó
+
+[00:09:28]
+estuvimos tomando estuvimos tomando una
+
+[00:09:30]
+entrada en 5 minutos
+
+[00:09:32]
+borramos por acá esto y estuvimos
+
+[00:09:34]
+tomando una entrada tal que hace
+
+[00:09:40]
+ahí
+
+[00:09:42]
+y nos fuimos hasta el último alto en lo
+
+[00:09:46]
+llevo más o menos era un 19 que al final
+
+[00:09:49]
+se quedó en un 1 a 8 y el siguiente que
+
+[00:09:54]
+el otro punto que tomamos que fue este
+
+[00:09:57]
+bloque que está por acá
+
+[00:10:00]
+igual fíjense que igual es el mismo no
+
+[00:10:03]
+publican de lo que me gusta más o menos
+
+[00:10:06]
+desde esta zona y teníamos una posición
+
+[00:10:08]
+larga y unicaja y el stop loss por
+
+[00:10:12]
+debajo de este blog por debajo de este
+
+[00:10:15]
+blog
+
+[00:10:16]
+y también teníamos una entrada hacia
+
+[00:10:18]
+arriba
+
+[00:10:19]
+igualmente hasta acá y al final se quedó
+
+[00:10:21]
+en un 1 a 9 y esta se quedó en 1 a 8
+
+[00:10:26]
+no es mejor hacer la entrada en un
+
+[00:10:28]
+minuto con confirmación de estructuras
+
+[00:10:30]
+si también yo yo suelo hacer entradas en
+
+[00:10:33]
+30 segundos incluso o en 15 segundos en
+
+[00:10:36]
+5 segundos pero esos son temas estos son
+
+[00:10:39]
+temas un poco más avanzados que te va a
+
+[00:10:41]
+costar un poco más de dominar
+
+[00:10:43]
+simplemente ahorita yo les estoy
+
+[00:10:44]
+enseñando de manera más práctica porque
+
+[00:10:47]
+no todo el mundo está acostumbrado a
+
+[00:10:49]
+trabajar estos temporalidades entonces
+
+[00:10:51]
+por eso es que yo simplemente hay veces
+
+[00:10:54]
+que no me la complicó y simplemente me
+
+[00:10:55]
+baja cinco minutos no es necesario que
+
+[00:10:57]
+estés contra de andrés minutos ni nada
+
+[00:10:59]
+por el estilo para ser buenos ratos
+
+[00:11:01]
+siente un buen radio 19 acá tomando
+
+[00:11:04]
+parciales cuánto te salió un 16 11 7 11
+
+[00:11:06]
+8 tomando buenos parciales donde tomadas
+
+[00:11:09]
+parciales pues en el último alto era
+
+[00:11:11]
+cuando sacó el doble este hecho pudiese
+
+[00:11:13]
+saber toma un parcial cuando sacó este
+
+[00:11:16]
+alto también de acá pues usted haber
+
+[00:11:18]
+tomado por parcial y cuando llegó a
+
+[00:11:20]
+nuestra zona peligrosa de ventas podéis
+
+[00:11:21]
+saber cerrar en mi caso yo dejé el 80%
+
+[00:11:24]
+corriendo perdón ya que el 80 por ciento
+
+[00:11:27]
+y desde el 20 por ciento corriendo a
+
+[00:11:29]
+esta zona que yo quería que el tpc
+
+[00:11:33]
+pero después el mercado pues se regresó
+
+[00:11:34]
+con una noticia que huele a aliento pero
+
+[00:11:37]
+igualmente fue un trayecto
+
+[00:11:40]
+y ese fue el trade que tomamos en el
+
+[00:11:42]
+euro white donde prácticamente con ese
+
+[00:11:44]
+trade solamente me dice la semana entera
+
+[00:11:46]
+no necesité más con un solo trade me
+
+[00:11:50]
+hice un 67 por ciento de la cuenta y se
+
+[00:11:52]
+acabó un solo 30 la semana hay personas
+
+[00:11:56]
+que piensan que deben de estar
+
+[00:11:57]
+trabajando todos los días en mi caso yo
+
+[00:12:00]
+les enseño también tengo un plan de
+
+[00:12:02]
+trading donde por ejemplo con la
+
+[00:12:04]
+estrategia de nada cooperamos todos los
+
+[00:12:06]
+días pero ya es otro plan de trading
+
+[00:12:08]
+distrito con smart money no debes de
+
+[00:12:10]
+operar cuántos pares soperas máximo 3
+
+[00:12:12]
+pares
+
+[00:12:13]
+máximo 3 pares
+
+[00:12:15]
+en mi caso nada euro/dólar de repente la
+
+[00:12:19]
+libra/dólar o de repente de los 30
+
+[00:12:24]
+pero solamente un trade con un 30 más
+
+[00:12:27]
+que suficiente fíjate si tienes un 18 es
+
+[00:12:29]
+un 8% de tu cuenta arreglando un 1% o un
+
+[00:12:33]
+4% tu cuenta arreglando un 0.5 por
+
+[00:12:35]
+ciento
+
+[00:12:37]
+no
+
+[00:12:37]
+[Música]
+```

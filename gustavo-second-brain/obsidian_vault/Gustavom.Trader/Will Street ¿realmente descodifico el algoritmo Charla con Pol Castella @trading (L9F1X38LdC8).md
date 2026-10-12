@@ -1,0 +1,4201 @@
+---
+source_id: YT_CANAL_02_L9F1X38LdC8
+video_id: L9F1X38LdC8
+channel: "Gustavom.Trader"
+published_at: 2025-07-14
+url: https://www.youtube.com/watch?v=L9F1X38LdC8
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 29
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# Will Street: ¿realmente descodifico el algoritmo? | Charla con Pol Castella @tradingforextvdirectos
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=L9F1X38LdC8)
+
+## Transcript
+
+```
+[00:00:00]
+de la estrategia y lo dije en un en
+
+[00:00:01]
+vivo, pienso yo, que la teoría de CRT o
+
+[00:00:04]
+este modelo de estrategia se va a ser
+
+[00:00:07]
+superpopular. Eh, para mí es el nuevo
+
+[00:00:09]
+Smart Money. Yo le dije a la gente
+
+[00:00:11]
+directamente, ya lo dije en mis videos,
+
+[00:00:12]
+yo no pienso quedarme fuera de la ola. Y
+
+[00:00:16]
+hombre, si las personas les gusta cómo
+
+[00:00:18]
+yo enseño, si las personas les gustan
+
+[00:00:19]
+los videos, pues yo voy a seguir
+
+[00:00:21]
+haciéndolo, ¿no? Entonces, eh no no
+
+[00:00:23]
+pienso yo quedarme fuera de de la ola
+
+[00:00:26]
+del nuevo smart money o cómo podríamos
+
+[00:00:28]
+decirlo, la nueva estrategia de Will
+
+[00:00:31]
+Smith.
+
+[00:00:33]
+¿Qué opinas tú?
+
+[00:00:35]
+Yo eh yo pienso igual igual que tú. Yo
+
+[00:00:38]
+creo que el CRT va a ser el nuevo ICT,
+
+[00:00:41]
+lo va a sustituir. Yo creo que Michael
+
+[00:00:44]
+hay que jubilarlo ya.
+
+[00:00:46]
+Hay que jubilarlo ya. Michael, jubílate,
+
+[00:00:48]
+tío. O sea, ya estamos ya con tus nuevas
+
+[00:00:52]
+estrategias cada año, eh, un poquito
+
+[00:00:54]
+cansados, pero creo que el CRT es va a
+
+[00:00:56]
+ser el nuevo ICT, ¿no? El nuevo modelo.
+
+[00:00:59]
+Pero cierto que pienso yo que lo que
+
+[00:01:01]
+hace el precio es como de un día lo hace
+
+[00:01:04]
+de una forma, otro día de otra, otro día
+
+[00:01:06]
+de otra y ahí es donde tú te confundes y
+
+[00:01:09]
+pues por eso se vuelve no tan
+
+[00:01:10]
+predecible. Y bueno, Gustavo, bueno,
+
+[00:01:13]
+para los que nos están viendo, primero
+
+[00:01:15]
+nos vamos a presentar porque este vídeo
+
+[00:01:16]
+seguramente aparece los dos canales,
+
+[00:01:18]
+pero estamos aquí Gustavo Adolfo y yo
+
+[00:01:21]
+por Castella, del canal de Trading Forex
+
+[00:01:23]
+TV o para el canal que va a ir este
+
+[00:01:25]
+vídeo, eh, Trading Forex TV, canal
+
+[00:01:28]
+secundario. Eh, preséntate, Gustavo,
+
+[00:01:29]
+para quien no te conozca. Hola, hola,
+
+[00:01:31]
+soy Gustavo Martínez de aquí de México,
+
+[00:01:34]
+soy trader y bueno, vamos a empezar a
+
+[00:01:37]
+charlar un poco de lo que es CRT, ¿no?
+
+[00:01:41]
+Pues sí, vamos a tener una charla, vamos
+
+[00:01:43]
+a explicar un poquito cómo viene todo
+
+[00:01:44]
+esto porque vamos a hacer una pequeña
+
+[00:01:46]
+podcast o charla entre traders, más que
+
+[00:01:48]
+podcast. Vamos a tener una charla entre
+
+[00:01:49]
+traders porque Gustavo me vio que yo
+
+[00:01:53]
+reaccioné a tu canal
+
+[00:01:55]
+de reaccion a tu canal. Fue una crítica
+
+[00:01:58]
+buena, que yo también tengo las tengo
+
+[00:01:59]
+malas cuando yo soy un tío muy franco y
+
+[00:02:02]
+muy genuino, tío. Cuando no me gusta
+
+[00:02:03]
+algo lo digo, pero cuando me gusta
+
+[00:02:05]
+también lo digo. Y estabas pues
+
+[00:02:07]
+explicando una de tus entradas
+
+[00:02:08]
+utilizando la metodología CRT Candle
+
+[00:02:11]
+Trange Theory, que es lo que está tanto
+
+[00:02:13]
+de moda. Sí, este, en ese video, de
+
+[00:02:15]
+hecho, el video le fue superb y todos
+
+[00:02:17]
+los videos en general de CRT le han ido
+
+[00:02:21]
+muy bien y estuve explicando un poco
+
+[00:02:24]
+cómo se entraba y ya sabes, hay
+
+[00:02:26]
+opiniones de todo, pero a la gente le ha
+
+[00:02:28]
+gustado bastante. Creo que la
+
+[00:02:30]
+metodología CRT como tal es una muy
+
+[00:02:33]
+buena metodología y pienso yo que en un
+
+[00:02:36]
+futuro va a ser una metodología muy muy
+
+[00:02:38]
+popular. Y ahora pues de la mano de este
+
+[00:02:41]
+chico Will Street y también de Cluty,
+
+[00:02:43]
+pues un día yo estaba mirando un video
+
+[00:02:45]
+de ellos y yo me pasó un poquito como a
+
+[00:02:48]
+ti. Yo lo de hecho te miré en un video e
+
+[00:02:51]
+que tú dijiste lo mismo y dije, "Ah,
+
+[00:02:53]
+mira, qué curioso." Y no me esperaba la
+
+[00:02:56]
+reacción que tú que tú hiciste a mi
+
+[00:02:57]
+video, no me la esperaba. Pero dice,
+
+[00:02:59]
+"Ah, qué curioso, porque a mí me pasó lo
+
+[00:03:02]
+mismo. Yo ya empleaba un poco los
+
+[00:03:03]
+conceptos, que muchas personas no me
+
+[00:03:05]
+creen, pero yo los empleaba de las
+
+[00:03:07]
+velas, los rangos de las velas, pero en
+
+[00:03:09]
+semanal, en diario y en mensual, pero no
+
+[00:03:12]
+me fijaba, ¿cierto? Que tanto en 4
+
+[00:03:14]
+horas. Pues cuando miré este chico Will
+
+[00:03:16]
+Street, se me hizo curioso que él lo
+
+[00:03:18]
+aplicaba en 4 horas y ahí es cuando
+
+[00:03:21]
+empecé a ver un poco mis gráficos y
+
+[00:03:23]
+dije, "Ah, hombre, que también se
+
+[00:03:24]
+repiten 4 horas."
+
+[00:03:25]
+Pero yo siempre usé los conceptos un
+
+[00:03:27]
+poco de más temporalidad más baja, como
+
+[00:03:30]
+tema de liquidez, ya sabes lo que enseña
+
+[00:03:32]
+ICT, SMC, lo veía yo de esa forma. Y
+
+[00:03:36]
+entonces me pareció curioso hacer un
+
+[00:03:38]
+video sobre hablando sobre la estrategia
+
+[00:03:40]
+de Will Street. Concretamente, el primer
+
+[00:03:42]
+video que hice fue como un indicador que
+
+[00:03:44]
+te mostraba el CRT, ¿no? Te ayudaba a
+
+[00:03:46]
+ver como los rangos de las velas y le
+
+[00:03:49]
+fue superb el video y a partir de ahí
+
+[00:03:51]
+dije yo, hombre, que esto le interesa a
+
+[00:03:53]
+las personas y voy a seguir haciéndolo.
+
+[00:03:55]
+Y más si lo entiendo, ¿no? Y si entiendo
+
+[00:03:58]
+cómo funciona. Muchas personas me dicen
+
+[00:04:01]
+luego, "Gustavo, no haces la estrategia
+
+[00:04:03]
+igual, pero no pasa nada. Yo entiendo
+
+[00:04:06]
+que cada uno tiene su estilo y al final
+
+[00:04:08]
+yo lo empleo como yo lo entiendo, ¿no?
+
+[00:04:10]
+No voy a hacerlo exactamente como Will
+
+[00:04:12]
+Street dice, pero este veo que a ti
+
+[00:04:15]
+también te pasa. De hecho, tú lo ves
+
+[00:04:16]
+como un patrón de tres velas. Lo miré en
+
+[00:04:18]
+un back testing que hiciste tú en tu
+
+[00:04:20]
+canal.
+
+[00:04:21]
+Bueno, yo el back test que hice en el
+
+[00:04:23]
+canal fue un back test tal y como lo
+
+[00:04:25]
+explica Michael, el modelo de del CRT,
+
+[00:04:29]
+la Turtle Soap en verdad.
+
+[00:04:32]
+Y yo en su día Michael cuando lo sacó
+
+[00:04:35]
+pues dije, bueno, un concepto más de
+
+[00:04:37]
+Michael, ¿no? El Doc, el Enw, el Turtle
+
+[00:04:39]
+Soap, el no sé qué, la Silver Bullet. Y
+
+[00:04:42]
+dije, bueno, pues un concepto más. Y
+
+[00:04:43]
+aprovechando, claro, lógicamente yo me
+
+[00:04:46]
+llamó mucho la atención como a ti, cómo
+
+[00:04:49]
+lo aplican Will Will Smith. Yo le voy a
+
+[00:04:52]
+llamar Will Smith tío.
+
+[00:04:54]
+A mí siempre me dicen porque es Will
+
+[00:04:56]
+Street, me da igual. Es Will Smith para
+
+[00:04:58]
+mí.
+
+[00:04:59]
+Y a Clut le falta le falta un mote. Ya
+
+[00:05:02]
+se lo sacaré, ¿vale? Y me sorprendió
+
+[00:05:05]
+mucho cómo lo aplicaban los los
+
+[00:05:07]
+cabroncetes, porque yo les digo, yo a
+
+[00:05:09]
+veces les escribo, les digo, "Sois unos
+
+[00:05:10]
+cabroncetes, ¿eh? Porque habéis dado con
+
+[00:05:12]
+el con el modelo, bueno, os habéis
+
+[00:05:13]
+especializado en algo, ¿vale? muy
+
+[00:05:15]
+mecánico y le habéis sacado mucho
+
+[00:05:17]
+provecho. Entonces, yo de momento no me
+
+[00:05:19]
+atrevo yo a hacer un back test tal como
+
+[00:05:22]
+lo hacen ellos, que como lo enseñan en
+
+[00:05:24]
+en YouTube, porque no me veo todavía
+
+[00:05:27]
+preparado para hacerlo con cierta
+
+[00:05:30]
+calidad. Entonces, el modelo Turtle
+
+[00:05:32]
+Shop, que es el patrón de tres velas, es
+
+[00:05:35]
+muy sencillo porque sí que es tienes que
+
+[00:05:37]
+esperar el modelo de tres velas y cuando
+
+[00:05:39]
+se forma ese modelo de tres velas tienes
+
+[00:05:41]
+una entrada y trabajas el rango, ¿no?
+
+[00:05:43]
+Entonces ese bacter sí que me da pie a
+
+[00:05:45]
+ser mucho más más mecánico y tampoco
+
+[00:05:48]
+quiero enseñar algo que está enseñando
+
+[00:05:50]
+otra gente, no precisamente no quiero yo
+
+[00:05:52]
+opacar ni mucho menos porque yo tengo mi
+
+[00:05:55]
+mi metodología, no estrategia, pero
+
+[00:05:57]
+tengo mi metodología y no quiero pacar a
+
+[00:05:59]
+nadie como diciendo, "Oye, aquí estoy yo
+
+[00:06:00]
+y lo sé, ¿no?" Y solamente hice ese back
+
+[00:06:03]
+test. Pero hay algo que me pasa mucho y
+
+[00:06:05]
+te lo voy a preguntar a ver si a ti te
+
+[00:06:06]
+pasa también. Me preguntan muchísimo,
+
+[00:06:09]
+muchísimo, porque para mí, yo me he
+
+[00:06:11]
+vuelto fan de Clut y de y de Will, e,
+
+[00:06:15]
+que me preguntan mucho, mucho, mucho por
+
+[00:06:17]
+privado si realmente creo que esta gente
+
+[00:06:19]
+es rentable o por el contrario es un uno
+
+[00:06:24]
+más, ¿no? Uno más de te muestro
+
+[00:06:26]
+pantallazos, esto y todo esto es el
+
+[00:06:29]
+Santo Grial, ¿no? Si estamos ante el
+
+[00:06:31]
+Santo Grial falso o el Santo Grial real,
+
+[00:06:33]
+¿no? Me lo preguntan muchísimo. ¿A ti te
+
+[00:06:35]
+pasa lo mismo?
+
+[00:06:36]
+Eh, sí. Me llegan a preguntar muchas
+
+[00:06:39]
+personas a porque sobre todo vienen
+
+[00:06:41]
+conmigo y me dicen que su mentoría o su
+
+[00:06:44]
+curso es un poco caro y la gente como
+
+[00:06:47]
+que se cuestiona si realmente pues es le
+
+[00:06:51]
+va bien y este y yo pues no te metiste
+
+[00:06:56]
+un tema muy picante, pero me voy a
+
+[00:06:58]
+ya es que voy voy voy a mójate, tío. Yo
+
+[00:07:00]
+voy a saco.
+
+[00:07:01]
+Yo me voy a igual me voy a mojar yo.
+
+[00:07:03]
+Para mí, yo pienso que Will y Cluty sí
+
+[00:07:05]
+son rentables, por lo que yo he visto,
+
+[00:07:09]
+empresas de fondeo. Me gustaría ver a
+
+[00:07:11]
+Will, a Cluty,
+
+[00:07:14]
+desenvolverse un poco más en cuentas
+
+[00:07:16]
+reales, eh capital propio, porque sí que
+
+[00:07:20]
+yo, por ejemplo, me he especializado en
+
+[00:07:22]
+cuentas de fondeo igualito que ellos.
+
+[00:07:24]
+Llevo tiempo y cuando empecé a operar
+
+[00:07:26]
+con capital propio me empezó a ir mal.
+
+[00:07:29]
+Yo te lo confieso, me empezó a ir mal y
+
+[00:07:31]
+me costó bastante como adaptarme y
+
+[00:07:33]
+ahorita yo, por ejemplo, estoy en el
+
+[00:07:35]
+tema de porque ya nadie se cree nada de
+
+[00:07:38]
+nadie, ¿no? Es lo que pasa en esta
+
+[00:07:40]
+industria del trading y entonces yo
+
+[00:07:41]
+estoy ahorita en el proceso de intentar
+
+[00:07:43]
+eh elaborar un track récord a largo
+
+[00:07:45]
+plazo. No lo tengo todavía, estoy en
+
+[00:07:47]
+proceso de hacerlo y sí que cuesta mucho
+
+[00:07:50]
+más operar en empresas capital propio
+
+[00:07:53]
+que en empresas de fondeo bajo mi punto
+
+[00:07:55]
+de vista, porque en empresas de fondeo
+
+[00:07:57]
+inclusive te puede ir mal y aún así ser
+
+[00:07:59]
+rentable. Tú puedes quemar una cuenta,
+
+[00:08:02]
+pero al día siguiente te compras otra,
+
+[00:08:04]
+te agarras una racha, la pasas, pasas la
+
+[00:08:06]
+fase uno, la dos, retiras y puede ser
+
+[00:08:09]
+que, hombre, Will, enseñas que pasaste
+
+[00:08:12]
+cinco cuentas, pero ¿cuántas quemaste?
+
+[00:08:15]
+Entonces, eso pasa con no solamente con
+
+[00:08:17]
+él puede pasar, sino con muchos traders,
+
+[00:08:19]
+a lo mejor también incluso conmigo.
+
+[00:08:21]
+Entonces yo lo que me quedo o lo que me
+
+[00:08:24]
+gusta quedarme de ellos es que el modelo
+
+[00:08:27]
+que ellos enseñan para mí sí funciona
+
+[00:08:29]
+porque yo lo estoy aplicando y a mí me
+
+[00:08:31]
+va bien. Cierto que yo lo aplico un poco
+
+[00:08:33]
+a mi manera. Ya depende de la persona
+
+[00:08:35]
+cómo lo aplique. Puede ser que a muchas
+
+[00:08:37]
+personas no les funcione, pero para mí
+
+[00:08:40]
+yo pienso que sí son unos chicos que
+
+[00:08:44]
+puede ser que sí sean rentables y que
+
+[00:08:46]
+les está yendo bien de verdad, pero pues
+
+[00:08:50]
+ya se verán el tiempo, ¿no? Vamos a ver
+
+[00:08:52]
+de aquí a muchos a mucho tiempo. Pasó en
+
+[00:08:54]
+su momento Michael, ¿no? Luego después
+
+[00:08:57]
+de muchos años salieron cosas ahí medio
+
+[00:09:00]
+turbias como el tema de la Robiscop y
+
+[00:09:03]
+que no fue rentable, que luego le
+
+[00:09:05]
+preguntaron por la cuenta que que había
+
+[00:09:07]
+pasado, la quemó.
+
+[00:09:09]
+Entonces, a mí me gusta quedarme en
+
+[00:09:11]
+intentar sacar el máximo provecho de una
+
+[00:09:13]
+persona y quedarme con lo bueno. Y si
+
+[00:09:16]
+tiene alguna cosa malo, mala o de verdad
+
+[00:09:19]
+a lo mejor ellos mienten o lo que sea,
+
+[00:09:21]
+realmente no son rentables, pues me
+
+[00:09:22]
+quedo con lo bueno que es un modelo y si
+
+[00:09:25]
+le puedo sacar provecho, pues mucho
+
+[00:09:27]
+mejor, ¿no?
+
+[00:09:29]
+A mí lo que me pasó es que yo cuando a
+
+[00:09:32]
+mí me pasaron en el vídeo, no los
+
+[00:09:34]
+conocía, me pasa en el vídeo como la la
+
+[00:09:36]
+la gente le gusta mucho el salseo, sobre
+
+[00:09:38]
+todo cuando me tienen a mí en el canal
+
+[00:09:40]
+secundario, "Paula, mírate este vídeo a
+
+[00:09:42]
+ver si este tío es rentable o no. ¿Tú
+
+[00:09:44]
+qué opinas?" Les encanta, ¿no? Entonces,
+
+[00:09:46]
+cuando yo engancho uno y lo y lo pongo
+
+[00:09:48]
+de vuelta y media, la gente quiere
+
+[00:09:50]
+quiere, ¿cómo se llama? No quiere,
+
+[00:09:52]
+quiere quiere sangre. No quiere sangre
+
+[00:09:54]
+la gente. Paul, dale caña, dale caña. Y
+
+[00:09:56]
+me lo pasaron. Y claro, yo cuando lo vi
+
+[00:09:58]
+el primer vídeo, eh, yo tenía mi claro,
+
+[00:10:01]
+tú sabes cómo es Will, ¿no? El perfecto,
+
+[00:10:04]
+¿no? La entrada perfecta aquí. Y
+
+[00:10:05]
+entonces sí, sí,
+
+[00:10:06]
+ya empiezas tú con, no, levantas la ceja
+
+[00:10:09]
+y dices, "Hostia, ya empezamos con otro
+
+[00:10:11]
+igual, ¿eh?" Y pero a medida que iba
+
+[00:10:14]
+avanzando el vídeo, yo lo iba viendo y
+
+[00:10:15]
+dije, "Hostia, es que yo aplico ciertas
+
+[00:10:18]
+cosas muy parecidas a temporalidad
+
+[00:10:21]
+mayor, que de hecho en tu vídeo, yo lo
+
+[00:10:23]
+comento en el vídeo que yo te reaccioné,
+
+[00:10:25]
+tú empezabas desde mensual, había tomado
+
+[00:10:27]
+un high mensual, lo bajabas a semanal,
+
+[00:10:29]
+había tomado un high semanal, te había
+
+[00:10:31]
+hecho un un bueno, la vela te cerró en
+
+[00:10:34]
+negativo, el por lo menos el vídeo que
+
+[00:10:35]
+yo a ti te reaccioné, buscaste un high
+
+[00:10:38]
+diario, entonces te buscaste la entrada
+
+[00:10:40]
+en 4H, es decir, utilizaste toda la
+
+[00:10:42]
+fractalidad de más a menos y de hecho yo
+
+[00:10:46]
+coincido un montón con tu forma de
+
+[00:10:47]
+operar, por lo menos en ese en ese
+
+[00:10:49]
+sentido, en ese vídeo en concreto, eh en
+
+[00:10:51]
+en en ese y entonces yo a media que fui
+
+[00:10:55]
+viendo el primer vídeo de Will dije,
+
+[00:10:57]
+"Hostia, este cabrón eh es bueno." Digo,
+
+[00:11:00]
+porque aplica aplica cosas que que yo
+
+[00:11:04]
+vengo utilizando, pero no he caído en
+
+[00:11:06]
+poder utilizarlo en 4H. Y cuando explicó
+
+[00:11:09]
+la lógica de que en una sesión si la
+
+[00:11:12]
+vela te toma el bajo y tal y tiene
+
+[00:11:15]
+ciertos patrones secretos, ¿vale?, que
+
+[00:11:17]
+yo ya voy poniendo en práctica, quizá
+
+[00:11:19]
+algún día lo lo explique cómo lo
+
+[00:11:22]
+apliqueé yo. Entonces yo a partir de ahí
+
+[00:11:25]
+dije, "Hostia, este tío es bueno." Y
+
+[00:11:26]
+cuando empecé a ver más vídeos dije,
+
+[00:11:27]
+"No, estos tíos son genuinos." Y ya
+
+[00:11:30]
+cuando para mí que me muestren
+
+[00:11:32]
+resultados de de retiros y tal, todos
+
+[00:11:34]
+podemos retirar cuentas de fondeo. Eso
+
+[00:11:36]
+hasta aquí es lo que tú dices, ¿no?
+
+[00:11:37]
+Dice, "Tío, yo me compro 10, paso tres,
+
+[00:11:40]
+muestro los muestro los retiros y digo
+
+[00:11:44]
+aquí que soy el rey del mambo, ¿no? Pero
+
+[00:11:46]
+hay una cosa que la gente no cae en
+
+[00:11:48]
+cuenta y los que estamos en España eh sí
+
+[00:11:51]
+que lo sabemos." Y esto es una de las
+
+[00:11:53]
+cosas que yo quiero decir es que Willy
+
+[00:11:54]
+Cluyeron a Andorra para pagar menos
+
+[00:11:58]
+impuestos, lógicamente, porque aquí en
+
+[00:11:59]
+España tenemos casi un 50% de impuestos.
+
+[00:12:02]
+La mitad que ganas del trading se te se
+
+[00:12:04]
+te lo van a llevar. Ellos ya estaban en
+
+[00:12:06]
+Andorra mucho antes de empezar a vender
+
+[00:12:08]
+ningún curso. Por lo tanto, es una
+
+[00:12:11]
+prueba inequívoca de que estos dos tíos,
+
+[00:12:14]
+chavales, para mí son chavales, porque
+
+[00:12:15]
+yo tengo 40 tacos, estos dos chavales ya
+
+[00:12:18]
+estaban ganando dinero con el trading y
+
+[00:12:20]
+el curso vino luego. Entonces, hay mucha
+
+[00:12:23]
+gente que dice, "Hostias, no me los
+
+[00:12:24]
+creo." Claro, si tú sigues la historia
+
+[00:12:25]
+un poquito de cómo han ido, ¿vale?
+
+[00:12:27]
+Michael fue al revés. Michael Hulleston
+
+[00:12:29]
+al revés. Vivía en un en una casa en un
+
+[00:12:31]
+barrio chungo y a medida que fue
+
+[00:12:34]
+vendiendo mentorías es cuando ahora vive
+
+[00:12:36]
+pues en esa casoplón que vemos con todo
+
+[00:12:39]
+lo con no sé si tiene un Maserati y tal.
+
+[00:12:41]
+Es decir, el recorrido ha sido
+
+[00:12:43]
+totalmente a la inversa. Entonces, por
+
+[00:12:44]
+eso yo da pondría mi mano en el fuego a
+
+[00:12:47]
+que estos tíos son genuinos y lo son. Yo
+
+[00:12:50]
+estoy totalmente convencido.
+
+[00:12:52]
+Yo lo vi, de hecho, en el video del
+
+[00:12:54]
+camino del trader, eh, vi cuando el
+
+[00:12:57]
+camino del trader, este chico también,
+
+[00:12:59]
+yo lo sigo y me gusta mucho su proceso
+
+[00:13:01]
+que está haciendo como trader,
+
+[00:13:03]
+eh, fue fue ahí a Andorra con con ellos
+
+[00:13:06]
+y les hizo una entrevista.
+
+[00:13:08]
+Me pareció muy muy este
+
+[00:13:13]
+genuinos, como dices tú, o sea, me
+
+[00:13:14]
+parecen unas personas que sí son reales.
+
+[00:13:16]
+Lo que pasa es que Will Street tiene una
+
+[00:13:18]
+personalidad como que, ah, yo soy
+
+[00:13:20]
+perfecto, este modelo es perfecto, este,
+
+[00:13:23]
+aquí nadie puede igualar. Sí, sí, es,
+
+[00:13:26]
+pero es su personalidad, es como como es
+
+[00:13:29]
+así él, pues entonces muchas personas
+
+[00:13:32]
+como que dudarían de de lo que él este
+
+[00:13:36]
+enseña o lo que o realmente dice, "No,
+
+[00:13:39]
+es otro vendecursos." Pero yo pienso
+
+[00:13:42]
+realmente eh que sí, a mí me me gusta
+
+[00:13:45]
+mucho lo que hacen ellos y me pasó
+
+[00:13:48]
+igual. De hecho, yo ya tenía muchísimo
+
+[00:13:50]
+tiempo que las personas luego a mí no me
+
+[00:13:52]
+creen y dicen, "Ah, hombre, que esto lo
+
+[00:13:54]
+inventó Will Street." Bueno, está bien.
+
+[00:13:56]
+Eh, a muchos conceptos a lo mejor sí,
+
+[00:13:59]
+pero yo ya tenía muchísimo tiempo, años
+
+[00:14:02]
+aplicando eh semanal, mensual, eh
+
+[00:14:05]
+diario, pero cierto que todos mis
+
+[00:14:08]
+análisis yo me tomaba muy en cuenta,
+
+[00:14:10]
+sobre todo los bajos y altos diarios,
+
+[00:14:12]
+pero ya cuando empecé a verlos a ellos
+
+[00:14:14]
+sí que ya empecé este a aplicarlo un
+
+[00:14:17]
+poquito más en 4 horas y ahorita
+
+[00:14:19]
+actualmente lo uso.
+
+[00:14:21]
+Los videos que he hecho de hecho de de
+
+[00:14:23]
+la estrategia de ellos son trades que yo
+
+[00:14:25]
+he puesto en mi son trades porque muchas
+
+[00:14:28]
+personas me han dicho, "Ay, es que es tu
+
+[00:14:29]
+ejemplo que le das a las velas para
+
+[00:14:31]
+atrás." No, hombre, que que son tres
+
+[00:14:33]
+reales. De hecho, ahorita actualmente o
+
+[00:14:35]
+estoy operando el NASDAQ y tengo una
+
+[00:14:37]
+entrada con su modelo de de ellos. Es
+
+[00:14:40]
+algo que yo opero, o sea, no. Por eso
+
+[00:14:42]
+cuando yo empecé a enseñarlo se me hizo
+
+[00:14:44]
+supercmodo enseñarlo porque es algo que
+
+[00:14:46]
+yo opero, no es una estrategia que tú
+
+[00:14:49]
+solamente enseñas ahí y ya, sino que es
+
+[00:14:52]
+algo que yo opero y me parece muy muy
+
+[00:14:54]
+bueno. Y yo lo dije de hecho en un en
+
+[00:14:56]
+vivo porque yo sí que estuve haciendo
+
+[00:14:58]
+back testing al al a la estrategia,
+
+[00:15:00]
+estuve también haciendo un poco de
+
+[00:15:02]
+reviews de la de la estrategia y lo dije
+
+[00:15:04]
+en un en vivo. Pienso yo que la teoría
+
+[00:15:06]
+de CRT o este modelo de estrategias se
+
+[00:15:09]
+va a hacer superpopular. Eh, para mí es
+
+[00:15:12]
+el nuevo Smart Money. Yo le dije a la
+
+[00:15:14]
+gente directamente, ya lo dije en mis
+
+[00:15:15]
+videos, yo no pienso quedarme fuera de
+
+[00:15:17]
+la ola. Y hombre, si las personas les
+
+[00:15:20]
+gusta cómo yo enseño, si las personas
+
+[00:15:22]
+les gustan los videos, pues yo voy a
+
+[00:15:24]
+seguir haciéndolo, ¿no? Entonces, eh, no
+
+[00:15:27]
+pienso yo quedarme fuera de de la ola
+
+[00:15:29]
+del nuevo Smart Monic o cómo podríamos
+
+[00:15:31]
+decirlo, la nueva estrategia de Will
+
+[00:15:34]
+Smith.
+
+[00:15:36]
+¿Qué opinas tú?
+
+[00:15:38]
+Yo eh yo pienso igual igual que tú. Yo
+
+[00:15:41]
+creo que el CRT va a ser el nuevo ICT,
+
+[00:15:44]
+lo va a sustituir. Yo creo que Michael
+
+[00:15:47]
+hay que jubilarlo ya. Yo creo hay que
+
+[00:15:50]
+jubilarlo ya. Michael, jubílate, tío. O
+
+[00:15:52]
+sea, ya estamos ya con tus nuevas
+
+[00:15:55]
+estrategias cada año, eh, un poquito
+
+[00:15:57]
+cansados, pero creo que el CRT es va a
+
+[00:15:59]
+ser el nuevo ICT, ¿no? El nuevo modelo.
+
+[00:16:02]
+Una cosa que también me gustó mucho de
+
+[00:16:03]
+tu vídeo que era decías dices, si ponéis
+
+[00:16:06]
+muchos, pero muchos comentarios, pero
+
+[00:16:09]
+muchos, muchos, eh, haré el back. Y yo
+
+[00:16:12]
+animaba a la gente, venga, venga, vamos,
+
+[00:16:14]
+Gustavo, dale, dale, dale.
+
+[00:16:16]
+De hecho, sí lo hice y el primer video
+
+[00:16:18]
+que hice fue un poco desastre. Ya luego
+
+[00:16:21]
+después hice uno en el Nasdaq, que es el
+
+[00:16:23]
+par donde yo yo solamente opero Nasdaq
+
+[00:16:25]
+100, es el único par que opero, no opero
+
+[00:16:27]
+otra cosa y solamente la sesión de Nueva
+
+[00:16:29]
+York y lo hice en el Nasdaq y ya salió
+
+[00:16:31]
+un poquito mejor. Pero cierto que te
+
+[00:16:34]
+comprendo un poco que no hayas hecho un
+
+[00:16:35]
+back testing así como dices tú, un poco
+
+[00:16:37]
+más profesional, porque cuesta mucho
+
+[00:16:39]
+hacer un back testing. Yo estuve una
+
+[00:16:41]
+hora y media, hice cinco entradas y las
+
+[00:16:44]
+personas luego dicen, "Es que mueves
+
+[00:16:45]
+mucho el gráfico." Es que tú tienes que
+
+[00:16:47]
+estar atento
+
+[00:16:49]
+a todas las temporalidades y ver si
+
+[00:16:51]
+rompió, tocó el bajo, el alto, el bajo
+
+[00:16:53]
+de 4 horas, si de pronto en 3 horas te
+
+[00:16:55]
+raideó, si de pronto en diario te estás
+
+[00:16:58]
+raideando también, si ya hizo el turtle
+
+[00:17:00]
+sub, si estás en el horario, son como
+
+[00:17:02]
+que tienes que estar muy atento y bueno,
+
+[00:17:04]
+yo desde aquí te doy ánimos para cuando
+
+[00:17:06]
+lo hagas de que
+
+[00:17:09]
+te te agarres un buen tiempo porque yo
+
+[00:17:11]
+hice cinco entradas en el Nasdaq y
+
+[00:17:13]
+estuve una hora y media y luego Luego me
+
+[00:17:16]
+siguen pidiendo más back testing y digo
+
+[00:17:18]
+yo aquí voy a acabar muerte en mi setup.
+
+[00:17:21]
+Pero me encanta mucho la metodología y
+
+[00:17:24]
+creo que personas como tú o incluso como
+
+[00:17:27]
+yo pueden aportar mucho a a lo que es
+
+[00:17:30]
+este la estrategia y que cada uno lo
+
+[00:17:34]
+aprenda y lo entienda como como ellos lo
+
+[00:17:37]
+pueden entender, ¿no? No es necesario
+
+[00:17:39]
+que lo hagas exactamente como Will
+
+[00:17:40]
+Street lo hace, pero si tú lo entiendes,
+
+[00:17:43]
+la aprendes la estrategia y te funciona
+
+[00:17:46]
+y te va bien, pues, ¿qué importa si Will
+
+[00:17:49]
+Street no es rentable? y Willstines eh
+
+[00:17:51]
+no es genuino, es como mucha gente, hay
+
+[00:17:54]
+mucha gente rentable con ICT y y este y
+
+[00:17:56]
+Michael pues es dudoso, ¿no?
+
+[00:17:59]
+Entonces yo eso es lo que me llevaría de
+
+[00:18:01]
+de
+
+[00:18:01]
+de ahímo.
+
+[00:18:04]
+El Hablemos un poquito del de la
+
+[00:18:07]
+metodología, si te parece. Hemos puesto
+
+[00:18:09]
+un poquito de salseo para empezar, que
+
+[00:18:10]
+es lo que le gustaba la a la gente, la
+
+[00:18:12]
+la sangre, ya que nos ya que la gente
+
+[00:18:15]
+también opine aquí en los vídeos, eh,
+
+[00:18:17]
+que nos dejen los comentarios a ver si
+
+[00:18:18]
+qué opinan ellos. Oye, me los creo, no
+
+[00:18:21]
+me los creo. Yo he dado mi opinión, tú
+
+[00:18:22]
+has dado la tuya y ya luego pues cada
+
+[00:18:24]
+uno que saque sus conclusiones. Yo
+
+[00:18:26]
+siempre digo que cada uno encontrará su
+
+[00:18:28]
+camino, pero yo no me atrevo, me has
+
+[00:18:30]
+preguntado, no me atrevo a hacer el back
+
+[00:18:32]
+test porque yo realmente no lo domino.
+
+[00:18:34]
+Para yo estoy muy acostumbrado al swing
+
+[00:18:36]
+trading, eh, tengo mi método de ya
+
+[00:18:39]
+muchos, bueno, lo he ido puliendo con
+
+[00:18:42]
+los años a día de hoy, tú lo sabes, el
+
+[00:18:44]
+trader siempre aprende, ¿no? Como ahora
+
+[00:18:46]
+sale el CRT. Y yo después de de desde
+
+[00:18:50]
+las mentorías de Michael, eh, de que ya
+
+[00:18:52]
+te digo, yo siempre las que más me
+
+[00:18:53]
+gustaron fueron las 2017, 2018, 2019, no
+
+[00:18:57]
+he querido aprender nada más porque a
+
+[00:18:59]
+partir de ahí ya me salían muy bien las
+
+[00:19:01]
+cosas y y he ido ya siendo muy
+
+[00:19:05]
+autodidacta y aplicando mis propias
+
+[00:19:08]
+metodologías. Entonces, desde entonces,
+
+[00:19:12]
+de todos los vídeos que yo he visto en
+
+[00:19:13]
+internet, todas las estrategias, todas
+
+[00:19:15]
+las metodologías, esta ha sido la única
+
+[00:19:18]
+que yo le he encontrado una lógica, una
+
+[00:19:21]
+esencia,
+
+[00:19:23]
+em
+
+[00:19:25]
+que, o sea, que que es coherente, es
+
+[00:19:26]
+coherente con lo que con lo que dice y
+
+[00:19:29]
+de una forma, entre comillas, mecánica,
+
+[00:19:32]
+porque estipula un rango, estipula un
+
+[00:19:35]
+stop, como dice Will a mayoría de sus
+
+[00:19:37]
+vídeos, un stop ciego. en donde vas a
+
+[00:19:39]
+buscar una un RB concreto y vas a buscar
+
+[00:19:43]
+un rango. ¿Cómo identificas el vallas?
+
+[00:19:45]
+Pues bueno, ya te lo dice él de una
+
+[00:19:47]
+forma muy sencilla, cierres de velas
+
+[00:19:48]
+para arriba, para abajo y más o menos eh
+
+[00:19:51]
+puedes identificar el vallas, que hay
+
+[00:19:52]
+muchos más conceptos detrás, lógico,
+
+[00:19:54]
+¿no? El la acción del precio se comporta
+
+[00:19:57]
+eh de de 1000 maneras distintas, pero yo
+
+[00:20:00]
+desde desde hace muchos años no veía una
+
+[00:20:02]
+una metodología que me gustaba y para
+
+[00:20:05]
+y decir, "Hostia, me voy a ver los
+
+[00:20:07]
+vídeos de este tío que que publicara
+
+[00:20:10]
+Will eh publicó hace dos días uno Cluty
+
+[00:20:12]
+también otro." Es decir, me los chupo
+
+[00:20:14]
+todos, o sea, me los como todos. Soy fan
+
+[00:20:16]
+de estos dos chavales. Yo los tengo que
+
+[00:20:18]
+felicitar. Cuando les hice la entrevista
+
+[00:20:20]
+dije, dije, "Tíos, sois unos cracks. Os
+
+[00:20:22]
+felicito. O sea, ojalá yo hubiera estado
+
+[00:20:25]
+con con vuestra edad haciendo lo que
+
+[00:20:27]
+estáis haciendo y yo les veo un
+
+[00:20:30]
+grandísimo futuro como como traders. Eso
+
+[00:20:32]
+espero porque lo están haciendo muy
+
+[00:20:33]
+bien. Entonces, en cuanto a la
+
+[00:20:35]
+metodología, a mí me gusta mucho y yo en
+
+[00:20:37]
+concreto lo estoy utilizando más que de
+
+[00:20:39]
+la forma mecánica por sesión como ellos
+
+[00:20:42]
+lo utilizan, lo hago como señal de
+
+[00:20:44]
+entrada. Yo tengo mi metodología, yo
+
+[00:20:46]
+trabajo mucho diario semanal mensual y
+
+[00:20:48]
+yo como gatillo de entrada en el horario
+
+[00:20:51]
+de la Kilson, si me hace ese patrón que
+
+[00:20:53]
+yo estoy viendo o cierto patrón de
+
+[00:20:55]
+continuidad cuando ya ha dado toque en
+
+[00:20:58]
+mi en mi zona,
+
+[00:21:00]
+suelo utilizar ese patrón de de entrada
+
+[00:21:02]
+y lo y tengo que decir que los
+
+[00:21:04]
+resultados que estoy teniendo
+
+[00:21:07]
+ha mejorado mucho el el ratio de acierto
+
+[00:21:10]
+y lo más importante, el RB me ha
+
+[00:21:13]
+mejorado mucho. Yo tengo que decir que a
+
+[00:21:16]
+mí me está funcionando. No sé a ti.
+
+[00:21:19]
+A mí me ha ayudado bastante y también a
+
+[00:21:21]
+mí me está funcionando. De hecho, yo soy
+
+[00:21:23]
+un trader fondeado y en mi Instagram he
+
+[00:21:26]
+mostrado bastantes varios retiros
+
+[00:21:28]
+continuos. H no quiere decir que antes
+
+[00:21:32]
+este no lo usara como tal los conceptos,
+
+[00:21:36]
+pero a partir de que vi a Will Street
+
+[00:21:38]
+este me ayudó bastante el tema de ver
+
+[00:21:41]
+los rangos en en las velas de 4 horas y
+
+[00:21:44]
+tampoco yo no prestaba tanto atención a
+
+[00:21:47]
+cómo cierran las velas y eso es algo
+
+[00:21:50]
+importante, ¿no? Cuando tú miras un un
+
+[00:21:52]
+este turtle sub, como le llama él, o un
+
+[00:21:55]
+raideo se le dice también, le dicen de
+
+[00:21:57]
+muchas formas, ¿no? una toma de un alto,
+
+[00:21:59]
+por ejemplo, un bajo, ver cómo
+
+[00:22:01]
+reaccionan las velas. Eso es algo que me
+
+[00:22:03]
+ha ayudado bastante. A mí, por ejemplo,
+
+[00:22:05]
+el patrón que más me encanta de su
+
+[00:22:07]
+estrategia, ¿qué es lo que yo hago?
+
+[00:22:10]
+¿Cuál es la forma en que yo lo empleo?
+
+[00:22:12]
+Yo genero un contexto en el precio en
+
+[00:22:14]
+base a estructura de mercado, por
+
+[00:22:16]
+conceptos un poco de smart money. Yo
+
+[00:22:19]
+también utilizo algunos conceptos de de
+
+[00:22:21]
+lead, de smart money traps, de
+
+[00:22:23]
+inducciones, conceptos de ese estilo.
+
+[00:22:26]
+Genero un contexto y veo la dirección
+
+[00:22:29]
+que tiene el precio. Entonces yo ya
+
+[00:22:30]
+digo, no pues esto va a ser bajista o
+
+[00:22:32]
+alcista. Cuando veo que probablemente
+
+[00:22:34]
+sea eh bajista, como por ejemplo en mi
+
+[00:22:37]
+video, ya no más lo que estoy buscando
+
+[00:22:39]
+es el patrón de comportamiento que haga
+
+[00:22:42]
+el precio. Y el que más me encanta es
+
+[00:22:45]
+cuando el precio te toma, puede ser que
+
+[00:22:47]
+te raidee un alto o un bajo diario,
+
+[00:22:50]
+combinado con eso te raidea la vela de 4
+
+[00:22:53]
+horas y luego no no constante con eso va
+
+[00:22:57]
+en una hora y te hace lo mismo. Cuando
+
+[00:22:59]
+yo veo eso, yo veo una entrada y me meto
+
+[00:23:02]
+y es lo que la forma en que yo lo
+
+[00:23:05]
+empleo.
+
+[00:23:06]
+Pero cierto que mucha gente me ha
+
+[00:23:09]
+escrito y me dicen, "Eh, yo tomé su
+
+[00:23:11]
+mentoría uno a uno y así no es y hay
+
+[00:23:14]
+muchas opiniones, pero yo lo empleo de
+
+[00:23:16]
+esa manera. Yo tengo las ganas, de
+
+[00:23:19]
+verdad, de hecho, yo estuve hablando con
+
+[00:23:20]
+Will Street eh por Instagram y quiero
+
+[00:23:24]
+entrar, de hecho, a su a su mentoría. Yo
+
+[00:23:27]
+no soy, he sido muy autodidacta, tuve un
+
+[00:23:30]
+mentor, pero hace mucho tiempo y me
+
+[00:23:32]
+enseñó no más lo básico, pero sí es que
+
+[00:23:34]
+me gustaría entrar a su mentoría para
+
+[00:23:37]
+Pero a mí no me gustan los los cursos
+
+[00:23:40]
+grabados ni me gusta tampoco las clases
+
+[00:23:43]
+grupales. A mí me gusta el uno a uno
+
+[00:23:45]
+como estamos tú y yo. De hecho, yo doy
+
+[00:23:47]
+clases también y lo que hago también es
+
+[00:23:48]
+uno a uno porque pienso que ahí las
+
+[00:23:50]
+personas aprenden mucho más, que tú ves
+
+[00:23:52]
+un curso grabado, te quedan muchas
+
+[00:23:55]
+dudas, de pronto será así que lo está
+
+[00:23:57]
+haciendo, lo estoy haciendo bien, no lo
+
+[00:23:58]
+estoy haciendo bien y quiero en un
+
+[00:24:01]
+futuro, si me va mejor o mucho mejor de
+
+[00:24:04]
+lo que ya me está yendo, eh, tomar la
+
+[00:24:06]
+mentoría con él y este y chance y mejoro
+
+[00:24:10]
+mucho más todavíam. Mm.
+
+[00:24:13]
+Pues eh yo concuerdo mucho contigo en tu
+
+[00:24:16]
+forma de operar. Yo para mí yo digamos
+
+[00:24:20]
+yo también tengo mi mi curso y yo lo
+
+[00:24:23]
+baso en tres tres conceptos principales
+
+[00:24:25]
+que uno es el contexto, que es bien lo
+
+[00:24:26]
+que tú has dicho, o sea, primero si tú
+
+[00:24:28]
+vas un contexto y luego siempre busco eh
+
+[00:24:30]
+mitigación y liquidez. La mitigación es
+
+[00:24:32]
+la clásica mitigación de un order block
+
+[00:24:34]
+o como le llames o la liquidez, es
+
+[00:24:37]
+decir, que barre un máximo o un mínimo.
+
+[00:24:40]
+Y lo que tú decías, ¿no? Yo digo, "Oye,
+
+[00:24:42]
+mira, yo tengo un contexto alcista tanto
+
+[00:24:43]
+en semanal como en mensual y de repente
+
+[00:24:46]
+me toma un previous day low, ¿no? Y me
+
+[00:24:49]
+hace el patroncito este de 4 horas justo
+
+[00:24:51]
+en New York que me barre la vela
+
+[00:24:54]
+anterior, ¿no? Al cierre y me cierra la
+
+[00:24:56]
+de 4 horas positivo, ¿no? barre el
+
+[00:24:58]
+anterior y cierra y cierra en positivo
+
+[00:25:00]
+justo después de barrer. Buah, yo ahí
+
+[00:25:03]
+patrón digo le le enchufo aquí. Claro,
+
+[00:25:06]
+si no ha hecho mucho recorrido la vela
+
+[00:25:07]
+de 4 horas porque si no se te come gran
+
+[00:25:09]
+parte del del RB o tienes que esperar un
+
+[00:25:12]
+retroceso, pero para mí, yo por ejemplo,
+
+[00:25:14]
+ese es uno de los patrones de entrada
+
+[00:25:16]
+que yo estoy utilizando y voy a decir ya
+
+[00:25:19]
+y voy a voy a adelantar uno que yo estoy
+
+[00:25:21]
+utilizando, que luego me pasará como a
+
+[00:25:22]
+ti te pasa en los comentarios me
+
+[00:25:24]
+pondrán, "Pul, no se hace así, se hace
+
+[00:25:26]
+de otra forma. Ese es el comentario que
+
+[00:25:28]
+más todos los días me llega. No se hace
+
+[00:25:31]
+así. Así no es la estrategia. Tú no has
+
+[00:25:33]
+estudiado con Will Street, toma, no has
+
+[00:25:35]
+tomado el uno a uno, no sabes de qué
+
+[00:25:38]
+hablas. Pero es normal. Yo ya eh tomé la
+
+[00:25:42]
+conciencia y diga, es normal, es normal.
+
+[00:25:44]
+Y yo a veces le digo, "Calma, chico,
+
+[00:25:47]
+calma." Está bien. De hecho, eh, tuve
+
+[00:25:49]
+hace poco un comentario una persona que
+
+[00:25:51]
+decía, "Yo te critiqué mucho, Gustavo,
+
+[00:25:53]
+este te tiraba y ahora me arrepiento de
+
+[00:25:56]
+haberlo hecho. De verdad, tus videos me
+
+[00:25:58]
+han ayudado." Pero es así, a veces las
+
+[00:26:00]
+personas como que comentan el primer
+
+[00:26:03]
+impulso que tienen, pero no pasa nada,
+
+[00:26:05]
+no no lo tomamos personal tampoco. Ah,
+
+[00:26:09]
+pasa que el trading, a ver, el trading,
+
+[00:26:11]
+yo ya muchos yo lleve muchos años en
+
+[00:26:13]
+esto, es un como un oficio en el cual es
+
+[00:26:17]
+muy egocéntrico, ¿no? Entonces el tú en
+
+[00:26:20]
+el trading, la esencia del trading es
+
+[00:26:22]
+intentar adivinar algo, ¿no? Al final
+
+[00:26:24]
+intentas adivinar, va para arriba o para
+
+[00:26:26]
+abajo, no hay más no hay más opción.
+
+[00:26:28]
+Entonces, claro, si tú eres capaz de
+
+[00:26:30]
+adivinar el futuro, por así decirlo,
+
+[00:26:33]
+¿no? Eh, se te sube mucho el ego y
+
+[00:26:35]
+entonces, claro, aquí es algo que que a
+
+[00:26:38]
+la gente le gusta mucho, que es tener
+
+[00:26:39]
+razón. A cualquiera le gusta tener la
+
+[00:26:40]
+razón. Entonces, claro, si a ti alguien
+
+[00:26:43]
+te lleva la contra, dice, "No, no, tú no
+
+[00:26:44]
+tienes la razón, la tengo yo, porque se
+
+[00:26:46]
+hace así."
+
+[00:26:47]
+Pero la gente no se no se da cuenta que
+
+[00:26:48]
+a veces no es mejor trader el que más
+
+[00:26:51]
+sabe, sino es el que el que más práctica
+
+[00:26:53]
+tiene. Entonces, con esto quiero decir
+
+[00:26:55]
+que hay izeteros, que esto es pasa
+
+[00:26:57]
+mucho, que que tú explicas cualquier
+
+[00:27:00]
+cosa te dice, "No, en la mentoría de
+
+[00:27:02]
+Michael del día 18 de julio de 2023, él
+
+[00:27:07]
+explicó esto de esta forma y tú lo
+
+[00:27:12]
+aplicas mal, ¿no? dice, "Bueno, te
+
+[00:27:13]
+sabrás todos los conceptos, pero pero
+
+[00:27:16]
+aquí lo importante al final es saberlo
+
+[00:27:18]
+aplicar en el mercado, ¿vale? Que es es
+
+[00:27:19]
+lo importante." Pero bueno, estos
+
+[00:27:21]
+comentarios existen, existirán y y
+
+[00:27:23]
+bueno, es lo que tú dices, ¿no? A veces
+
+[00:27:24]
+pasa también te viene y dices, "Hostia,
+
+[00:27:26]
+pues mira, te tiraba un poquito de hate,
+
+[00:27:27]
+pero ahora veo que que al final mola,
+
+[00:27:28]
+¿no?" Sí. Pues yo lo que te decía, yo
+
+[00:27:30]
+aplico este patroncito, incluso cuando
+
+[00:27:33]
+intento, yo lo que estoy intentando
+
+[00:27:35]
+ahora mismo es aplicar la metodología
+
+[00:27:38]
+más en sesión, la vela de de 4 horas.
+
+[00:27:42]
+Eh, a mí me pasa como a ti con el tema
+
+[00:27:44]
+de yo no uso Trading View, yo soy de
+
+[00:27:46]
+Metatrader, por lo tanto tengo que irme
+
+[00:27:48]
+a las a morir a las velas de 4 horas, no
+
+[00:27:51]
+puedo usar otra. Entonces, cuando barre
+
+[00:27:53]
+la vela anterior, ¿no? Siempre y cuando
+
+[00:27:56]
+a mí me haya tocado algún poy, alguna
+
+[00:27:58]
+zona interesante, que me estoy dando
+
+[00:28:00]
+cuenta que a veces no es relevante,
+
+[00:28:02]
+muchas veces me estoy dando cuenta que
+
+[00:28:03]
+no es relevante y yo de hecho practico
+
+[00:28:06]
+en cuenta en cuenta de challenge, ¿vale?
+
+[00:28:10]
+La o sea, te cojo un challenge pequeñito
+
+[00:28:13]
+y lo practico allí. Y a mí las demos ya
+
+[00:28:15]
+no me no no no me motivan hacerlo en
+
+[00:28:17]
+demo. Entonces, cuando barre la vela
+
+[00:28:19]
+anterior, busco ese mismo patroncito,
+
+[00:28:21]
+¿no? El que te barra la vela anterior y
+
+[00:28:23]
+cierre por encima hasta en 5 minutos. Y
+
+[00:28:26]
+entonces en 5 minutos yo hago el RB
+
+[00:28:28]
+ciego que dice will, ¿no? Pongo el 3 a1,
+
+[00:28:31]
+¿vale? Primero marco el TP del rango y
+
+[00:28:33]
+luego pongo el stoploss y busco una vez
+
+[00:28:36]
+barre lo he dicho, ¿no? El mismo
+
+[00:28:37]
+patroncito de una vez abarrido la la
+
+[00:28:39]
+nueva vela de 4 horas, el mínimo o el
+
+[00:28:41]
+máximo anterior, que me haga lo mismo en
+
+[00:28:43]
+5 minutos, barra suba, cierre por encima
+
+[00:28:47]
+y ahí es cuando ejecuto la entrada y
+
+[00:28:48]
+buscando la la R. Lo estoy poniendo en
+
+[00:28:51]
+práctica, así de momento los resultados
+
+[00:28:54]
+son bastante buenos. Ahora, tengo que
+
+[00:28:56]
+decir que estoy muy inseguro, de ahí que
+
+[00:28:59]
+yo no hago el back test, muchas veces
+
+[00:29:01]
+estoy todavía muy inseguro si esa vela
+
+[00:29:04]
+no va a continuar, si se va a dar la
+
+[00:29:06]
+vuelta y me falta como esa práctica,
+
+[00:29:08]
+esas horas de vuelo, ¿no? O sea, la
+
+[00:29:10]
+teoría, me he visto todos los vídeos que
+
+[00:29:12]
+tienen colgados. Me faltan esas horas de
+
+[00:29:14]
+vuelo para poder la práctica, que
+
+[00:29:16]
+al final mucha gente, esto es lo que se
+
+[00:29:18]
+cree, que ve o tres vídeos, que no sé si
+
+[00:29:20]
+te pasará a ti también,
+
+[00:29:22]
+eh, vienen, me preguntan, "Paul, ¿ya ha
+
+[00:29:24]
+barrido la vela de el mínimo o el máximo
+
+[00:29:26]
+de la vela de 4 horas? Entramos en
+
+[00:29:27]
+corto." Digo, "Tío, cálmate que no es
+
+[00:29:29]
+así, así, mírate todos los vídeos,
+
+[00:29:31]
+pilotas, cuánto tiempo te has dado o
+
+[00:29:33]
+sea, fíjate que yo llevo meses y todavía
+
+[00:29:36]
+tengo mis dudas." Entonces, no sé si te
+
+[00:29:37]
+pasará a ti también que la gente te
+
+[00:29:38]
+viene, te consulta, te dice, "Oye, lo
+
+[00:29:41]
+uno, o lo otro, yo todavía no me siento
+
+[00:29:43]
+seguro a la hora de operarlo, pero es
+
+[00:29:46]
+lógico, me faltan horas de vuelo."
+
+[00:29:48]
+Mira, yo tengo una comunidad un poco más
+
+[00:29:49]
+pequeña que la de la mayoría, la tuya y
+
+[00:29:52]
+la de la mayoría de personas. Y aún así,
+
+[00:29:55]
+pues yo tengo mi WhatsApp para que las
+
+[00:29:56]
+personas me escriban y y puedan este
+
+[00:29:59]
+consultarme cualquier cosa. Y siempre me
+
+[00:30:02]
+encuentro mensajes de personas que me
+
+[00:30:04]
+dicen de eso, que batallan sobre todo
+
+[00:30:07]
+mucho las personas con el vallas. Me
+
+[00:30:09]
+preguntan, "Es que pero ¿cómo le hago
+
+[00:30:10]
+para saber el vas?
+
+[00:30:12]
+El patrón lo entiendo, pero ¿cómo le
+
+[00:30:13]
+hago para saber la dirección?" y le
+
+[00:30:15]
+digo, "Bueno, pues yo lo yo como ya
+
+[00:30:17]
+tengo experiencia y ya tengo tantos años
+
+[00:30:20]
+de recorrido y aparte yo llevo operando
+
+[00:30:22]
+cinco o 6 años el Nasdaq, por ejemplo,
+
+[00:30:25]
+pues yo ya sé para dónde va el Nasdaq.
+
+[00:30:28]
+Es que es difícil de explicártelo. Yo ya
+
+[00:30:30]
+tengo una forma de entenderlo por
+
+[00:30:32]
+estructura de mercado, por el cierre de
+
+[00:30:34]
+las velas, por la liquidez. Yo ya lo que
+
+[00:30:36]
+hago es reunir varias confluencias y
+
+[00:30:39]
+determino la dirección del precio.
+
+[00:30:42]
+A mí a mí yo te tengo que reconocer que
+
+[00:30:45]
+el tema del vallas eh es una de las
+
+[00:30:47]
+cosas que yo no me siento seguro todavía
+
+[00:30:50]
+tal y como la aplican ellos. Eh, es
+
+[00:30:52]
+decir, yo cuando veo que que lo explican
+
+[00:30:56]
+en en los vídeos de YouTube y luego yo
+
+[00:30:59]
+le sigo en Instagram, te digo que soy
+
+[00:31:00]
+superfan, eh, veo muchas entradas que yo
+
+[00:31:04]
+sí, lógicamente estoy delante del
+
+[00:31:05]
+mercado y cuando veo eso digo, "Hostia,
+
+[00:31:08]
+¿por qué no la porque no la he pillado?"
+
+[00:31:09]
+No, la tendría que haber trabajado y
+
+[00:31:11]
+tal. Pero es justo ahí donde yo tengo
+
+[00:31:14]
+muchas dudas todavía, pero es lo que
+
+[00:31:17]
+tengo que decir y que también quiero
+
+[00:31:19]
+transmitir a la gente que nos está
+
+[00:31:20]
+viendo y y le siguen en Twitter y le
+
+[00:31:23]
+siguen en YouTube y le siguen en
+
+[00:31:24]
+Instagram y que oye, pues que poquito a
+
+[00:31:26]
+poco con la información que van dando en
+
+[00:31:28]
+sus redes sociales puedes ir aprendiendo
+
+[00:31:30]
+bastante.
+
+[00:31:32]
+Yo le transmitiría al público que nos
+
+[00:31:34]
+está viendo que se dé el tiempo
+
+[00:31:35]
+suficiente a practicar la estrategia,
+
+[00:31:37]
+que aunque vean otra gente que le está
+
+[00:31:39]
+saliendo bien, es lo que siempre digo yo
+
+[00:31:42]
+muchas veces en Instagram, ¿no? Tú en
+
+[00:31:43]
+Instagram, ¿qué vas a publicar?
+
+[00:31:45]
+Tú, Gustavo, cuando estás en Instagram,
+
+[00:31:47]
+te vas a publicar una foto tuya cuando
+
+[00:31:49]
+un día que te duele la cabeza y estás
+
+[00:31:51]
+hecho una o vas a publicar el día
+
+[00:31:53]
+que estás cenando fuera un chuletón y
+
+[00:31:54]
+dices, "Mira, pues aquí estoy cenando."
+
+[00:31:55]
+Pues siempre la parte bonita, ¿no? Eh,
+
+[00:31:58]
+entonces tú siempre vas a ver la parte
+
+[00:32:00]
+bonita y siempre te va a provocar mucho
+
+[00:32:01]
+fomo. Entonces, yo lo que quiero
+
+[00:32:03]
+transmitir a la gente que nos está
+
+[00:32:04]
+viendo, que se dé su tiempo para
+
+[00:32:05]
+practicar. Yo me lo estoy dando. Yo
+
+[00:32:07]
+todavía una de las cosas que todavía
+
+[00:32:09]
+tengo mucha duda es del del vallas. Y
+
+[00:32:12]
+una de las dudas que tengo al final con
+
+[00:32:15]
+esta estrategia es que porque muchas
+
+[00:32:17]
+veces reacciona muy bien el precio,
+
+[00:32:19]
+simplemente toma la reacción de un lado
+
+[00:32:22]
+a otro y se acaba y el trade se ha
+
+[00:32:24]
+acabado. Igual tú quieres alargarlo un
+
+[00:32:26]
+poco más y y acaba ahí.
+
+[00:32:28]
+Y tengo la sensación a mí igual, no lo
+
+[00:32:31]
+sé, eh, que igual es una estrategia
+
+[00:32:33]
+estadísticamente
+
+[00:32:35]
+que tiene, o sea, tiene una ventaja
+
+[00:32:36]
+estadística en cuanto a a RB, o sea,
+
+[00:32:39]
+tiene su bonita reacción si la sabes
+
+[00:32:41]
+trabajar, si sabes identificar todo como
+
+[00:32:43]
+lo explican y estadísticamente si vas
+
+[00:32:45]
+buscando un RB TR 3 a 1, 3 a un 3 a 1, 3
+
+[00:32:48]
+a un, claro, a la que llevas tres
+
+[00:32:50]
+profits seguidos, eh, ya te ya puedes
+
+[00:32:53]
+decir, vamos, ya he hecho la la semana y
+
+[00:32:56]
+mes, ¿no? Entonces yo no sé si acabo de
+
+[00:33:00]
+pensar que quizá tal y de esa forma tan
+
+[00:33:02]
+mecánica como ellos lo trabajan es
+
+[00:33:05]
+simplemente que han encontrado ventaja
+
+[00:33:07]
+estadística y han encontrado un buen
+
+[00:33:09]
+método que me parece cojonudo. O sea, yo
+
+[00:33:11]
+ya firmo con eso, o sea, ya ya no es que
+
+[00:33:13]
+me parezca mal, pero claro, yo, ¿cómo lo
+
+[00:33:15]
+estoy aplicando? Pues como te he dicho,
+
+[00:33:16]
+¿no? Cuando está en el POIO que yo
+
+[00:33:18]
+buscaba y me hace el patrón, ¿no?
+
+[00:33:20]
+Parezco un novato, ¿no? Pero lo estoy
+
+[00:33:22]
+haciendo así y pero es lo que digo, me
+
+[00:33:25]
+estoy dando el tiempo suficiente para
+
+[00:33:26]
+seguir practicando y sí, una de las
+
+[00:33:28]
+dudas que tengo es el vallas. tú tal y
+
+[00:33:30]
+como ellos lo utilizan de esa forma tan
+
+[00:33:32]
+mecánica en todas sesiones, porque
+
+[00:33:35]
+trabajan Londres y New York las dos
+
+[00:33:38]
+sesiones, es decir, y a veces yo he
+
+[00:33:39]
+visto como agarran una de subida, otra
+
+[00:33:41]
+de bajada, en la misma sesión, dos de
+
+[00:33:43]
+bajada, reentradas, o sea, se
+
+[00:33:45]
+desenvuelven, que es una es una pasada.
+
+[00:33:47]
+No sé si tú has llegado a ese punto de
+
+[00:33:49]
+desarrollo de la estrategia.
+
+[00:33:51]
+Eh, conmigo es un poquito diferente por
+
+[00:33:53]
+el tema del par. Yo no yo lo he visto en
+
+[00:33:57]
+Forex, pero yo no tradeo Forex. Y la
+
+[00:33:59]
+otra es que yo no trao Londres como
+
+[00:34:01]
+ellos, yo traía solamente Nueva York. Y
+
+[00:34:03]
+el Nasdaq sí se que sí que se comporta
+
+[00:34:05]
+un poquito distinto al Forex. El Nasdaq
+
+[00:34:08]
+puede ser un par como más tendencial.
+
+[00:34:11]
+Cuando agarra una dirección se va a la
+
+[00:34:13]
+dirección que que que da. Y el Forex sí
+
+[00:34:16]
+que sí desde hace muchos años yo he
+
+[00:34:19]
+visto que reacciona mucho al tomar
+
+[00:34:21]
+altos. Entonces puede ser que por eso
+
+[00:34:23]
+CRT se beneficia más en un par como
+
+[00:34:25]
+Forex. Eh, el como que reacciona mucho
+
+[00:34:28]
+cuando toma un alto asiático, cuando
+
+[00:34:31]
+toma un alto diario. Y el NASDAQ no
+
+[00:34:33]
+necesariamente. El Nasdaq si es alcista
+
+[00:34:35]
+ese día, por ejemplo, él le vale. Él te
+
+[00:34:38]
+toma el alto de Londres, de Asia, de
+
+[00:34:40]
+todo, te toma y se va y sigue y sigue y
+
+[00:34:42]
+sigue para arriba, por ejemplo.
+
+[00:34:44]
+Entonces, es muy distinto a a un poco al
+
+[00:34:46]
+Forex, pero yo lo uso también, ¿cierto?
+
+[00:34:49]
+eh que confluyo contigo. Estoy de
+
+[00:34:51]
+acuerdo como gatillador. Me gusta mucho
+
+[00:34:53]
+usarlo como gatillador. Muchas veces
+
+[00:34:55]
+también el precio está en un punto de
+
+[00:34:57]
+interés y ahí en el punto de interés me
+
+[00:35:01]
+toma el mínimo de la vela de 4 horas, me
+
+[00:35:03]
+hace el patrón en una hora y ahí es que
+
+[00:35:05]
+entro. De esa forma lo utilizo, pero sí
+
+[00:35:07]
+que depende un poco el par porque por
+
+[00:35:10]
+ejemplo Cluty y Will lo usan mucho en
+
+[00:35:13]
+eurodólar y cierto que de la manera que
+
+[00:35:15]
+ellos lo usan, como dices tú, que a
+
+[00:35:16]
+veces uno se queda loco y dices, hombre,
+
+[00:35:19]
+que estaba en compras, ¿no? Y luego
+
+[00:35:20]
+vendió, ¿qué hizo? ¿Qué pasó? No, cierto
+
+[00:35:22]
+que he visto que eurodólar, por ejemplo,
+
+[00:35:27]
+te hace el patrón arriba, luego te lo
+
+[00:35:29]
+vuelve a hacer abajo, entonces como que
+
+[00:35:30]
+ya tuvistes una entrada y una salida. Lo
+
+[00:35:33]
+mismo que dice Will, ¿no? Una entrada es
+
+[00:35:35]
+una salida y una salida es una entrada.
+
+[00:35:37]
+Entonces, eso es como que lo que hacen
+
+[00:35:38]
+ellos. Pero yo en Nasdaq, Nasdaq he
+
+[00:35:41]
+notado que no se comporta tanto de esa
+
+[00:35:43]
+forma. Entonces, no sé cómo lo lleves
+
+[00:35:45]
+tú, en qué pares lo hayas empleado. De
+
+[00:35:48]
+momento yo he visto bien bien eurodólar,
+
+[00:35:50]
+el oro. Pienso que el oro va muy bien.
+
+[00:35:54]
+Yo me atrevería a decir, yo me atrevería
+
+[00:35:56]
+a decir que el mejor par CRT es el oro.
+
+[00:36:00]
+Vas super bien. Yo también tengo muy
+
+[00:36:03]
+buenos resultados con el oro. Tengo
+
+[00:36:04]
+también Es verdad, tío. Es verdad.
+
+[00:36:06]
+Coincido contigo. Coincido 100%.
+
+[00:36:08]
+El oro. De hecho, yo hice un video sobre
+
+[00:36:10]
+el oro y cuando antes de hacer el video
+
+[00:36:12]
+yo estuve armando pues lo que iba a
+
+[00:36:14]
+explicar de las entradas y eso y dije,
+
+[00:36:18]
+"Hombre, le estuve dando así para atrás
+
+[00:36:20]
+y un dos 3 cu dije igual igual todos los
+
+[00:36:24]
+días y me quedé loco." Pero yo no opero
+
+[00:36:27]
+el oro. Yo soy una persona que soy
+
+[00:36:29]
+NASDAQ trader y siempre lo digo, yo soy
+
+[00:36:32]
+hombre de una sola chica y no puedo no
+
+[00:36:35]
+puedo operar otra otra cosa porque a mí
+
+[00:36:38]
+me va bien. Ya tengo yo una data eh
+
+[00:36:40]
+sobre mi operativa y no quiero
+
+[00:36:42]
+desenfocarme empezando a operar otra
+
+[00:36:44]
+cosa. Es el miedo que luego uno tiene,
+
+[00:36:46]
+como por ejemplo personas como tú que
+
+[00:36:48]
+dices, "Ya tengo yo lo que me funciona."
+
+[00:36:51]
+Llega este chico Will Street y te dice,
+
+[00:36:53]
+"Esta estrategia es mejor que la tuya."
+
+[00:36:54]
+y dices, pues le hago caso, no le hago
+
+[00:36:57]
+caso, ¿qué hago? Entonces yo lo que hice
+
+[00:37:00]
+dije, bueno, voy a agarrar sus
+
+[00:37:01]
+conceptos, lo que me funciona lo voy a
+
+[00:37:04]
+tomar, lo voy a emplear en mi
+
+[00:37:05]
+estrategia, yo seguiré con lo mío. El
+
+[00:37:07]
+tema vayas yo no lo empleo como ellos lo
+
+[00:37:10]
+emplean. Sé que lo ellos lo emplean un
+
+[00:37:12]
+poquito por el rango de las velas más
+
+[00:37:14]
+grandes y van a veces al ping pong le
+
+[00:37:17]
+llamamos, ¿no? Que venden arriba,
+
+[00:37:19]
+compran abajo a veces así, de esa
+
+[00:37:20]
+manera. Yo lo interpreto más por eh
+
+[00:37:23]
+estructura de mercado, fractalidad y a
+
+[00:37:26]
+veces un poco por inducciones, smart
+
+[00:37:28]
+money traps es lo que lo que hago. Y
+
+[00:37:31]
+sencillo, eh, no tampoco tiene que ser
+
+[00:37:33]
+algo superclicado y lo que lo que sí
+
+[00:37:36]
+estoy empleando ahora, que tengo una
+
+[00:37:37]
+plantilla de hecho, para las velas de 4
+
+[00:37:40]
+horas, estoy vigilando siempre las tomas
+
+[00:37:42]
+de las velas porque es impresionante
+
+[00:37:44]
+como al precio y pienso yo que en los
+
+[00:37:47]
+últimos años se ha empezado a comportar
+
+[00:37:49]
+un poquito más así, que es que el
+
+[00:37:51]
+algoritmo constantemente si va a subir
+
+[00:37:54]
+sube, genera un mínimo, sube, luego toma
+
+[00:37:57]
+el mínimo y vuelve a subir, vuelve a
+
+[00:37:59]
+generar otro mínimo, sube. lo toma y va
+
+[00:38:01]
+constantemente como así. Entonces pienso
+
+[00:38:04]
+como que por eso CRT se ha se ha vuelto
+
+[00:38:07]
+muy bueno, porque el algoritmo pienso
+
+[00:38:09]
+yo, que hace algunos años no era tan
+
+[00:38:11]
+así. Yo me acuerdo que hace como 5 años
+
+[00:38:14]
+que yo hacía trading, el precio entraba
+
+[00:38:16]
+en un bloque de órdenes y pum, lo
+
+[00:38:18]
+pinchaba y se iba bien automáticamente.
+
+[00:38:20]
+Ahora es como que ha evolucionado un
+
+[00:38:22]
+poco el precio. Esa es mi manera de de
+
+[00:38:24]
+verlo, ¿no?
+
+[00:38:26]
+Has mencionado algo muy interesante,
+
+[00:38:28]
+¿vale? que es el tema del algoritmo.
+
+[00:38:30]
+Esto es un tema muy polémico que también
+
+[00:38:32]
+podemos entrar ahora porque hemos
+
+[00:38:34]
+comentado un poquito el salse, hemosido
+
+[00:38:36]
+comentado un poquito cómo utilizamos
+
+[00:38:38]
+nosotros la estrategia que veo que
+
+[00:38:40]
+compartimos mucho, lo utilizamos como
+
+[00:38:41]
+gatillo, ¿no? Todavía yo creo que ambos
+
+[00:38:45]
+no la dominamos lo suficiente como no no
+
+[00:38:47]
+nos desenvolvemos suficientemente bien
+
+[00:38:49]
+como ellos lo aplican. Ojalá yo un día
+
+[00:38:51]
+lo puedo aplicar como ellos. De hecho,
+
+[00:38:53]
+estoy muy aplicado a aprenderlo porque
+
+[00:38:55]
+se lo dije también un día a ellos. Dije,
+
+[00:38:57]
+"Cabroncetes, me habéis hecho volver al
+
+[00:38:59]
+intraday." Dije, dije, dije, "Qué
+
+[00:39:02]
+cabrones sois, tío. Yo estaba muy
+
+[00:39:03]
+tranquilo con mis swing trading,
+
+[00:39:05]
+operaciones de una semana, dos semanas,
+
+[00:39:07]
+mes y medio y y y ahora me me hacéis
+
+[00:39:10]
+estar delante de la pantalla cuando a mí
+
+[00:39:12]
+lo que me gusta es viajar, estar en la
+
+[00:39:14]
+piscina, en la playa y que el precio
+
+[00:39:15]
+trabaja por mí. Tampoco os creáis que
+
+[00:39:17]
+estoy tanto en la playa, ¿eh? Que eso
+
+[00:39:19]
+yo te vi en Instagram y sí estabas en la
+
+[00:39:21]
+playa, ¿eh?
+
+[00:39:22]
+En la piscina. En la piscina. Lo
+
+[00:39:24]
+reconozco, lo reconozco siempre que
+
+[00:39:27]
+puedo. Entonces, has tocado un tema muy
+
+[00:39:29]
+interesante que es el tema del
+
+[00:39:30]
+algoritmo. Eh, Will, convencido de que
+
+[00:39:35]
+de además yo cuando los entrevisté y tal
+
+[00:39:38]
+a me lo dijo, "No, no convencido 100%
+
+[00:39:41]
+que existe un algoritmo." ¿Tú qué
+
+[00:39:43]
+piensas? tema de algoritmo.
+
+[00:39:45]
+El tema del algoritmo es un tema
+
+[00:39:47]
+subjetivo porque a día de hoy no pues no
+
+[00:39:50]
+sabemos, no sabemos si realmente hay un
+
+[00:39:53]
+algoritmo, pero yo viendo el precio
+
+[00:39:55]
+durante más de 7 años podría decirte,
+
+[00:39:58]
+incluso más y viendo el mercado
+
+[00:40:01]
+constantemente, yo te puedo decir que
+
+[00:40:03]
+para mí en lo personal yo creo que sí
+
+[00:40:05]
+hay un algoritmo. Incluso las personas
+
+[00:40:07]
+que dicen que yo me voy a mojar aquí, me
+
+[00:40:10]
+va a caer, me va me va a llover, yo
+
+[00:40:12]
+creo. Pero para mí las noticias no
+
+[00:40:14]
+importan. Para mí las noticias no. Mucha
+
+[00:40:17]
+gente dice, "No, se mueve por
+
+[00:40:18]
+fundamentales." Para mí los
+
+[00:40:20]
+fundamentales ya están predichos lo que
+
+[00:40:22]
+lo que va a pasar, porque es increíble
+
+[00:40:25]
+cómo el precio lo observas y cómo se va
+
+[00:40:29]
+repitiendo la mayoría del
+
+[00:40:31]
+comportamiento, pero cierto que pienso
+
+[00:40:33]
+yo que lo que hace el precio es como de
+
+[00:40:36]
+un día lo hace de una forma, otro día de
+
+[00:40:39]
+otra, otro día de otra y ahí es donde tú
+
+[00:40:41]
+te confundes y dices, "Ah, pues por eso
+
+[00:40:44]
+se vuelve no tan predecible. porque una
+
+[00:40:47]
+vez un día lo hace de una forma, otro
+
+[00:40:48]
+día de otra. Pero yo creo que sí hay un
+
+[00:40:51]
+algoritmo porque no es normal, o sea, no
+
+[00:40:54]
+es normal que las mismas cosas se
+
+[00:40:56]
+repitan tanto. Pienso que hay un
+
+[00:40:58]
+algoritmo, no sé quién lo controle, pero
+
+[00:41:01]
+yo he visto, por ejemplo,
+
+[00:41:04]
+hablando del CRT, ¿no? Va a venir una
+
+[00:41:05]
+noticia de Powell, está un mínimo
+
+[00:41:08]
+semanal, uno diario. Digo, aquí lo va a
+
+[00:41:10]
+pinchar. Luego
+
+[00:41:13]
+entra el precio de la noticia, pincha al
+
+[00:41:15]
+ese, sigue para arriba y yo digo, o sea,
+
+[00:41:19]
+la noticia movió el precio o ya había un
+
+[00:41:22]
+algoritmo que dijo, va a salir en esta
+
+[00:41:25]
+noticia y vamos a hacer esto. Entonces
+
+[00:41:27]
+yo para mí sí yo creo como Will Street
+
+[00:41:30]
+que sí hay un algoritmo, pero tampoco
+
+[00:41:33]
+nosotros tenemos que saber cuál es el
+
+[00:41:35]
+algoritmo para ser rentable. No se
+
+[00:41:37]
+necesita, pero si yo podría decir que
+
+[00:41:39]
+sí.
+
+[00:41:41]
+Yo, a ver, el el tema este descodificar
+
+[00:41:45]
+el algoritmo no queda super guay, tío. A
+
+[00:41:47]
+mí me me me gusta. Ojalá fuera tan
+
+[00:41:49]
+original para poner nombres, tío, a las
+
+[00:41:51]
+cosas que que yo enseño, pero no. Yo le
+
+[00:41:54]
+le llamo, Soy un poco más como Joaquín
+
+[00:41:56]
+Vega, ¿no? No sé. ¿Tú has visto a
+
+[00:41:57]
+Joaquín Vega alguna vez?
+
+[00:41:58]
+Ah, me encanta Joaquín Vega. Yo lo yo
+
+[00:42:00]
+soy superfan de Joaquín Vega. De hecho,
+
+[00:42:02]
+yo intenté en un tiempo eh operar como
+
+[00:42:05]
+él, pero por las de fondeo no se puede.
+
+[00:42:08]
+Ya ves que él hace coberturas,
+
+[00:42:10]
+él vende arriba y mantiene la Es una
+
+[00:42:12]
+pasada lo que él hace. De hecho, él está
+
+[00:42:14]
+operando un fondo de inversión
+
+[00:42:15]
+actualmente, ¿no? Joaquín Vega da para
+
+[00:42:18]
+otro video.
+
+[00:42:19]
+Da para otro video. Yo siempre digo que
+
+[00:42:21]
+Joaquín Vega fue el primer trader smart
+
+[00:42:22]
+money de de porque es que es el primero
+
+[00:42:25]
+que hablaba de la liquidez de máximos y
+
+[00:42:28]
+mínimos, pero desde que empezó a operar
+
+[00:42:31]
+y enseñar su curso, para mí es el primer
+
+[00:42:33]
+trader, Smart Money. Y él hay algo que
+
+[00:42:35]
+un vídeo muy divertido que yo también le
+
+[00:42:37]
+reaccioné. No sé si me verá algún día,
+
+[00:42:39]
+si me está viendo Joaquín, le mando un
+
+[00:42:40]
+besote enorme, pero eh hablaba del
+
+[00:42:43]
+cachopo, el cachopo. No sé si has visto
+
+[00:42:46]
+el vídeo del cachopo.
+
+[00:42:46]
+Y también puso uno que se llamaba Mary o
+
+[00:42:49]
+algo así. Se llamaba
+
+[00:42:50]
+Smart Mony. Smart Mon
+
+[00:42:52]
+Smart Mony, algo así. Mon se reía del
+
+[00:42:55]
+Smart Mory. Pues el cachopo no es más
+
+[00:42:57]
+que la limpieza. Dice el cachopo limpia
+
+[00:42:59]
+el un máximo y abajo. Limpia un mínimo y
+
+[00:43:02]
+arriba. Y es CRT. Y el y el y el y el
+
+[00:43:06]
+maldito Joaquín Vega. Perdón por lo de
+
+[00:43:08]
+maldito, pero porque va con cariño. El
+
+[00:43:11]
+tío ya hace 2 años que publicó ese vídeo
+
+[00:43:14]
+y el tío acertó con el CRT porque es el
+
+[00:43:16]
+maldito cachopo. Ahora los que me estáis
+
+[00:43:17]
+viendo y me seguís, lo habréis visto el
+
+[00:43:20]
+vídeo del cachopo si no pasar a verlo,
+
+[00:43:22]
+pero es el maldito CRT y Joaquín Mega
+
+[00:43:24]
+otra vez es es el el mayor smart money,
+
+[00:43:27]
+smart monhey que he visto nunca.
+
+[00:43:29]
+Entonces, eh yo el tema del algoritmo,
+
+[00:43:32]
+yo yo tengo mi opinión respecto al al
+
+[00:43:34]
+algoritmo, yo no creo que haya un
+
+[00:43:35]
+algoritmo, no lo no lo creo. Lo que sí
+
+[00:43:38]
+que tiene mucha importancia, mucha
+
+[00:43:40]
+importancia, lógicamente, máximos y
+
+[00:43:42]
+mínimos, diarios, semanales, mensuales,
+
+[00:43:44]
+trimestrales, simestrales y anuales, que
+
+[00:43:47]
+al final el precio eh el cada semana se
+
+[00:43:50]
+reporta dónde se meten las
+
+[00:43:52]
+instituciones, cada semana hay
+
+[00:43:53]
+vencimiento de unos contratos. Entonces,
+
+[00:43:55]
+es lógico, esa es mi mi teoría. Eh, ya
+
+[00:43:59]
+digo, no tengo nada demostrado. Según
+
+[00:44:00]
+Michael, el algoritmo existe y lo
+
+[00:44:03]
+secuestraron a él en una camioneta y lo
+
+[00:44:05]
+encapucharon. Te sabes la historia, ¿no?
+
+[00:44:06]
+De
+
+[00:44:06]
+Sí, sí, sí, sí.
+
+[00:44:08]
+Yo creo que nadie tiene la verdad
+
+[00:44:10]
+absoluta sobre si existe un algoritmo o
+
+[00:44:12]
+no.
+
+[00:44:13]
+Yo ni siquiera yo creo que ni siquiera
+
+[00:44:15]
+que aunque trabajes en en Wall Street,
+
+[00:44:18]
+no no sabemos.
+
+[00:44:20]
+Yo creo que n más los que mueven el
+
+[00:44:22]
+mercado son los únicos que llegan a
+
+[00:44:24]
+saber. De pronto alguien que esté muy
+
+[00:44:26]
+arriba y invierta demasiado dinero.
+
+[00:44:29]
+Sí.
+
+[00:44:30]
+Entonces yo yo mi teoría es la
+
+[00:44:32]
+siguiente. Entonces lógicamente cuando
+
+[00:44:34]
+acaba un mes, una semana, un día, esos
+
+[00:44:36]
+mínimos, máximos y precios precios de
+
+[00:44:38]
+apertura tienen un valor en el mercado,
+
+[00:44:41]
+¿no? O sea, acaba una vela, pues tiene
+
+[00:44:43]
+un significado que hasta ahí el precio
+
+[00:44:45]
+ha llegado, pues porque se vence pues x
+
+[00:44:48]
+contratos, al día siguiente se vencerán
+
+[00:44:50]
+otros, acaban otros. si limpia un mínimo
+
+[00:44:53]
+de una semana anterior, pues lógicamente
+
+[00:44:55]
+se ha abierto una ventana de precios en
+
+[00:44:57]
+donde quizá había contratos pendientes
+
+[00:44:59]
+de la semana anterior. Es decir, yo como
+
+[00:45:01]
+sí que veo mucho el informe COD, estoy
+
+[00:45:03]
+muy informado del del volumen, open
+
+[00:45:05]
+interés y todos estos datos, yo le
+
+[00:45:07]
+encuentro la teoría y la lógica a todo
+
+[00:45:09]
+esto. Que luego nosotros como ser humano
+
+[00:45:12]
+le queramos encontrar el sentido de la
+
+[00:45:14]
+coherencia, esos movimientos tan
+
+[00:45:16]
+erráticos que tiene el precio y llamarle
+
+[00:45:19]
+algoritmo. Yo creo que va más por ahí.
+
+[00:45:21]
+Eh, yo soy de los que cree que no no hay
+
+[00:45:22]
+algoritmo. Yo lo digo francamente, el
+
+[00:45:25]
+pruebo, el precio se mueve y por
+
+[00:45:29]
+simplemente por el valor de mercado y
+
+[00:45:30]
+las opciones y contratos que hay en
+
+[00:45:32]
+mercado.
+
+[00:45:33]
+Entonces, ¿tú no crees lo que Will dice
+
+[00:45:35]
+que no hay algo más perfecto? No hay
+
+[00:45:38]
+algo,
+
+[00:45:39]
+no no. lo que lo que él es es un trader
+
+[00:45:42]
+muy perfecto, eso sí lo reconozco, es un
+
+[00:45:44]
+trader muy perfecto en donde esa
+
+[00:45:48]
+búsqueda del punto más alto, el punto
+
+[00:45:51]
+más bajo de la vela para poder ejecutar
+
+[00:45:53]
+tu entrada a partir de un patrón, eso lo
+
+[00:45:56]
+que le no es que haya un algoritmo, es
+
+[00:45:58]
+que lo convierte en muy buen trader. Y
+
+[00:46:00]
+es así. Yo cuando hice el vídeo de
+
+[00:46:01]
+reacción dije, dije, "O este chaval es
+
+[00:46:04]
+es un Messi del trading o nos está
+
+[00:46:07]
+tomando el pelo y me tuve que comer mis
+
+[00:46:10]
+palabras, es un Messi del del trading."
+
+[00:46:12]
+Al igual que Cluty, es otro Messi del
+
+[00:46:14]
+trading. Entonces estamos ante un
+
+[00:46:16]
+auténtico, para mí Messi o Cristiano
+
+[00:46:18]
+Ronaldo, para los que sean más de
+
+[00:46:20]
+Cristiano Ronaldo, del trading. Algo más
+
+[00:46:23]
+perfecto es que tú al final el trader es
+
+[00:46:26]
+quién lo hace perfecto, porque la misma
+
+[00:46:28]
+estrategia, fíjate, estamos tú y yo aquí
+
+[00:46:31]
+lo utilizamos distinto y nos funciona de
+
+[00:46:34]
+formas distintas, por lo tanto, al final
+
+[00:46:36]
+qui lo hace especial para mí es el
+
+[00:46:38]
+trader.
+
+[00:46:39]
+Entonces, yo estoy un poquito con las
+
+[00:46:41]
+dos. Creo que sí que hay un algoritmo,
+
+[00:46:45]
+sí que hay una manera de que el precio
+
+[00:46:47]
+repite constantemente las cosas. Y yo,
+
+[00:46:50]
+por ejemplo, siempre he sido un un
+
+[00:46:52]
+trader técnico y a lo largo de mi
+
+[00:46:54]
+carrera como trader, me he dado cuenta
+
+[00:46:56]
+que,
+
+[00:46:58]
+hombre, te cuestionas. Yo me cuestiono
+
+[00:47:00]
+mucho sobre cómo el precio. A mí, por
+
+[00:47:03]
+ejemplo, tuve un mentor que un mentor me
+
+[00:47:06]
+enseñó este actualmente es un concepto
+
+[00:47:08]
+que yo lo lo enseño a mis alumnos. A lo
+
+[00:47:11]
+mejor no lo has no lo has este
+
+[00:47:13]
+escuchado, pero
+
+[00:47:17]
+por ejemplo ese este mentor me enseñó la
+
+[00:47:19]
+vela mágica. Así me lo enseñó.
+
+[00:47:21]
+La vela mágica. ya el el nombre
+
+[00:47:24]
+es muy un pocoa, ¿eh? y va un poco sobre
+
+[00:47:28]
+como por ejemplo Will, no hay algo más
+
+[00:47:30]
+perfecto. De esa manera te lo enseñan,
+
+[00:47:32]
+pero cuando tú vas al precio y por
+
+[00:47:35]
+ejemplo Will lo mismo, va vas al precio
+
+[00:47:38]
+y compruebas que sí es verdad y dices,
+
+[00:47:41]
+"Hombre, la vela mágica, no, pues sí
+
+[00:47:43]
+funciona, dije yo, pues sí es mágica,
+
+[00:47:45]
+¿no? Entonces, pero entonces por eso
+
+[00:47:48]
+tipo de cositas o la como dices tú, o la
+
+[00:47:51]
+persona realmente encontró el el clip o
+
+[00:47:55]
+realmente sí hay un algoritmo, pero yo
+
+[00:47:57]
+creo que sí lo hay. Para mí sí lo hay
+
+[00:47:59]
+porque el precio es muy repetitivo. Es
+
+[00:48:02]
+muy muy repetitivo. A mí me encanta
+
+[00:48:05]
+estar horas y horas mirando el gráfico y
+
+[00:48:07]
+viendo cómo las velas van imprimiéndose.
+
+[00:48:10]
+Es muy repetitivo y me sorprende mucho
+
+[00:48:13]
+como, por ejemplo, ahora el tema de
+
+[00:48:15]
+Trump con los aranceles, como el precio
+
+[00:48:19]
+bajó, por ejemplo, los índices bajaron
+
+[00:48:21]
+un montón y fueron a corregir una
+
+[00:48:24]
+tendencia semanal y luego pum, volvieron
+
+[00:48:26]
+a subir. Es como si el algoritmo ya
+
+[00:48:29]
+supiera lo que va a pasar. Esa es la
+
+[00:48:31]
+manera que yo lo veo. Pero pues bueno,
+
+[00:48:33]
+ya cada uno puede, de hecho, como lo
+
+[00:48:35]
+dije en el video, dejen sus comentarios
+
+[00:48:37]
+y y cada uno tenga su opinión, ¿no?
+
+[00:48:39]
+Sobre esto.
+
+[00:48:40]
+Sí. A mí me me gustaría ver que la gente
+
+[00:48:42]
+dejara su comentario, ¿qué opina de todo
+
+[00:48:44]
+esto? Y yo así ya casi que vamos
+
+[00:48:46]
+acabando con la entrevista que si a la
+
+[00:48:48]
+gente le gusta, oye, podemos vernos otro
+
+[00:48:50]
+día, Gustavo, y nos quedamos aquí
+
+[00:48:52]
+charlando un ratillo. Y el tema del de
+
+[00:48:54]
+los patrones que has comentado, yo
+
+[00:48:56]
+siempre digo una cosa, más que yo eh soy
+
+[00:48:59]
+un poquito así, el más que el que el
+
+[00:49:01]
+precio sea muy repetitivo, yo creo que
+
+[00:49:04]
+al final nosotros como traders lo que
+
+[00:49:06]
+buscamos es el mismo patrón. Entonces, a
+
+[00:49:08]
+veces el yo creo que interpretamos como
+
+[00:49:11]
+humano que se repiten las cosas a que
+
+[00:49:14]
+buscamos operar cuando se repite ese
+
+[00:49:17]
+patrón, que son dos cosas distintas. Yo
+
+[00:49:19]
+a veces igual me explico un poquito mal,
+
+[00:49:21]
+pero para mí el precio en realidad es
+
+[00:49:22]
+muy errático. Lo que pasa que yo solo lo
+
+[00:49:24]
+opero en unos momentos concretos cuando
+
+[00:49:26]
+me hace algo que ya conozco y entonces
+
+[00:49:29]
+es cuando para mí se se vuelve
+
+[00:49:30]
+repetitivo. Pero en verdad el precio si
+
+[00:49:32]
+fuera tan repetitivo, yo creo que
+
+[00:49:33]
+estaríamos entrando siempre, ¿no? Sin
+
+[00:49:35]
+ningún problema, para arriba, para abajo
+
+[00:49:37]
+y tal. Entonces, yo creo que como
+
+[00:49:39]
+traders acabamos buscando lo que ya
+
+[00:49:41]
+conocemos y entonces es cuando se
+
+[00:49:43]
+convierte para nosotros en algo más
+
+[00:49:44]
+mecánico, algo más más repetitivo. Lo
+
+[00:49:47]
+dejo ahí. Yo lo dejo ahí. Yo creo que
+
+[00:49:49]
+somos dos visiones opuestas. Tú crees en
+
+[00:49:50]
+el algoritmo, yo creo que no. ¿Tú crees
+
+[00:49:53]
+que repite? Yo creo que no. Yo creo que
+
+[00:49:55]
+podemos quedar otro día para otro debate
+
+[00:49:56]
+sobre todo esto.
+
+[00:49:57]
+Sí, yo pienso el tema del algoritmo eso
+
+[00:50:01]
+que sí que lo hay. De hecho, yo le le
+
+[00:50:04]
+tiré ahí a Will Street y le dije, "Ven a
+
+[00:50:06]
+mi canal, vamos a hablar del algoritmo,
+
+[00:50:08]
+vamos a de decodificarlo juntos, no más
+
+[00:50:11]
+que él no se ha animado, pero estaría
+
+[00:50:14]
+muy interesante poder hablar así con
+
+[00:50:17]
+varios traders y decir, argumentar por
+
+[00:50:20]
+qué crees que se que se mueve." Yo lo
+
+[00:50:22]
+veo porque constante, hombre, que el
+
+[00:50:25]
+precio vaya tomando bajos y altos
+
+[00:50:27]
+constantemente en una tendencia como si
+
+[00:50:29]
+fuera intencionado, a mí me da a creer
+
+[00:50:32]
+que que sí, pero cierto que a veces me
+
+[00:50:34]
+levanto y y tengo tu manera de pensar
+
+[00:50:37]
+porque digo, hombre, ahora me levanto y
+
+[00:50:39]
+digo, e está como que no sé qué hacer,
+
+[00:50:42]
+¿no? Muchas veces me levanto y no sé qué
+
+[00:50:44]
+hacer, pero pues bueno, ya son opiniones
+
+[00:50:47]
+distintas, ¿no? Entonces, en lo que
+
+[00:50:50]
+respecta a la entrevista, para mí fue un
+
+[00:50:53]
+gusto, un placer decirte que yo ya había
+
+[00:50:56]
+visto muchos videos de los tuyos,
+
+[00:50:57]
+llevaba tiempo y todos los videos de la
+
+[00:51:00]
+entrevista a Will Street, a Cluty, me
+
+[00:51:03]
+los sumé todos completitos, enteros y me
+
+[00:51:07]
+parece muy superinesante y cuando de
+
+[00:51:10]
+hecho hubo como cinco chicos, uno de mis
+
+[00:51:13]
+alumnos y seguidores también, eh,
+
+[00:51:15]
+Gustavo, Paul, Paul te reaccionó, Paul
+
+[00:51:17]
+te reaccionó y yo estaba Muy Yo estaba
+
+[00:51:19]
+muy muy contento. De hecho, pensé en en
+
+[00:51:22]
+pensé en lo que te iba a escribir y todo
+
+[00:51:23]
+el rollo. Entonces, soy totalmente fan
+
+[00:51:26]
+de tu trabajo y me encantan los vídeos
+
+[00:51:28]
+que haces.
+
+[00:51:29]
+Sí. Oye, eh, yo te hago una pregunta y y
+
+[00:51:31]
+con esto terminamos porque coincidió que
+
+[00:51:34]
+muchas de las cosas que yo veía, yo te
+
+[00:51:35]
+he visto un trader muy genuino porque lo
+
+[00:51:38]
+explicas lo se nota que lo que estás
+
+[00:51:40]
+explicando lo trabajas a primera vista.
+
+[00:51:43]
+Tú muchas veces cuando llevas muchos
+
+[00:51:45]
+años y tú llevas muchos años lo lo ves
+
+[00:51:47]
+rápido cuando un trader está explicando
+
+[00:51:49]
+algo y ni él mismo sabe lo que está
+
+[00:51:51]
+explicando, dices, "No me vendas la
+
+[00:51:53]
+moto." O sea, no, no. Entonces, yo ya te
+
+[00:51:54]
+vi enseguida. Pero claro, tú imagínate
+
+[00:51:56]
+que me hubiera dado por ti y hubiera
+
+[00:51:59]
+dicho, "No, de esas críticas duras que a
+
+[00:52:01]
+veces hago, ¿no? Tipo Alex Ruiz, ¿no?
+
+[00:52:02]
+Que lo enganché un día, lo puse de
+
+[00:52:04]
+vuelta y media y dije,
+
+[00:52:06]
+Alex Ruiz, yo tengo mi yo tengo mi
+
+[00:52:08]
+opinión ahí, yo tengo mi opinión de Alex
+
+[00:52:11]
+Ruiz media.
+
+[00:52:14]
+Oye, Gustavo, lo vamos a dejar aquí
+
+[00:52:16]
+porque si no vamos a darlo todo en una
+
+[00:52:18]
+sola entrevista, así que si a la gente
+
+[00:52:20]
+le ha gustado que nos lo deje en los
+
+[00:52:21]
+comentarios.
+
+[00:52:22]
+Ajá.
+
+[00:52:22]
+Eh, charla de trader a trader. Y nada,
+
+[00:52:25]
+chicos, yo por mi parte, darle buen like
+
+[00:52:28]
+al vídeo, pasaros por los dos canales,
+
+[00:52:30]
+no sé por dónde lo publicaremos. Like a
+
+[00:52:32]
+los dos a los dos canales, suscribiros y
+
+[00:52:35]
+por mi parte, adiós. Y Gustavo, ya te
+
+[00:52:37]
+dejo la despedida. Bye bye. Este, pues
+
+[00:52:39]
+muchas gracias por estar en el video,
+
+[00:52:41]
+darle like y suscribirse. Eh, no sé por
+
+[00:52:44]
+qué cuesta tanto suscribirse, ¿no? Y
+
+[00:52:46]
+activen la campanita también. Muchas
+
+[00:52:47]
+personas eh eh veo veo todos tus videos
+
+[00:52:50]
+y estás suscrito, ¿no? Entonces,
+
+[00:52:52]
+suscríbete porque eso ayuda y motiva
+
+[00:52:54]
+mucho al a la persona que está creando
+
+[00:52:56]
+videos. Más tú, Paul, que trabajas.
+
+[00:52:58]
+Pero, hombre, cada rato veo ahí estreno
+
+[00:53:01]
+Paul, estreno Paul. digo, "Hombre, este
+
+[00:53:03]
+tío trabaja pero le chambea bien."
+
+[00:53:06]
+Entonces, darle like, me gusta y nos
+
+[00:53:08]
+vemos. Adiós.
+
+[00:53:09]
+Y muchos comentarios, muchos, muchos,
+
+[00:53:11]
+muchos.
+
+[00:53:12]
+[Risas]
+
+[00:53:14]
+Nos vemos. Bye.
+```

@@ -1,0 +1,1004 @@
+[00:00:00]
+Y ya en los ejemplos del Trading View me
+
+[00:00:03]
+dicen mucho algo como,
+
+[00:00:06]
+"Ah, ¿cómo Gustavo, cómo sabías?
+
+[00:00:11]
+¿Cómo sabías que había que entrar acá?
+
+[00:00:13]
+¿Cómo le has, por ejemplo, lo que dice
+
+[00:00:15]
+este chico de Will, no, que él trata de
+
+[00:00:18]
+entrar aquí
+
+[00:00:19]
+así
+
+[00:00:21]
+y me dicen, "¿Cómo sabías?" Porque tú
+
+[00:00:24]
+cuando lo miras estamos todos de acuerdo
+
+[00:00:26]
+aquí, ¿no? Con estos ejemplos.
+
+[00:00:29]
+De hecho, lo deja lo pongo aquí para la
+
+[00:00:31]
+gente de TikTok lo vea.
+
+[00:00:33]
+Estamos de acuerdo aquí con estos
+
+[00:00:35]
+ejemplos que dice la gente, es que
+
+[00:00:37]
+cuando yo lo veo en 4 horas, la vela
+
+[00:00:39]
+está así y luego yo intento entrar y la
+
+[00:00:42]
+vela sigue cayendo.
+
+[00:00:44]
+[Risas]
+
+[00:00:48]
+Luego yo intento entrar y la vela sigue,
+
+[00:00:50]
+¿no?, de largo, ¿no? Y y cuando lo ves
+
+[00:00:53]
+tú en los ejemplos, pues ves, ¿no? Arte
+
+[00:00:55]
+el sap y después la vela alcista. No,
+
+[00:01:00]
+no. Ah, cierra, cierra ahí y lo ves una
+
+[00:01:04]
+vela así, ¿no? ¿Cómo le hacen para saber
+
+[00:01:07]
+que la vela esta no va a seguir cayendo?
+
+[00:01:12]
+Es es como que muy así dicen, ¿no?
+
+[00:01:16]
+Cuando tú lo ves en 4 horas y la vela se
+
+[00:01:18]
+está formando, verad, esta vela se está
+
+[00:01:20]
+moviendo así en 4 horas, tú vas a ver
+
+[00:01:23]
+que el precio está raideando.
+
+[00:01:25]
+Pa pa pa.
+
+[00:01:27]
+¿Cómo doy cuenta que el precio va a
+
+[00:01:28]
+recoger, por ejemplo, va a cerrar aquí,
+
+[00:01:31]
+va a abrir ahora acá y va a ir para
+
+[00:01:34]
+arriba? Primero el contexto,
+
+[00:01:38]
+¿en qué zona estás?
+
+[00:01:40]
+La otra, ¿cuál es tu target?
+
+[00:01:43]
+¿Tu target está arriba o está abajo?
+
+[00:01:47]
+Y la otra que yo que a lo mejor Will no
+
+[00:01:49]
+lo dice mucho, pero es el lower lower
+
+[00:01:54]
+time frame.
+
+[00:01:56]
+Tu lower time frame va a venir cayendo
+
+[00:01:59]
+aquí.
+
+[00:02:00]
+Fíjense, su vela de 4 horas va a venir
+
+[00:02:03]
+haciendo esto.
+
+[00:02:07]
+Esto, por ejemplo, va a ser tu lower
+
+[00:02:08]
+time frame. Tu vela de 4 horas,
+
+[00:02:11]
+supongamos.
+
+[00:02:12]
+Estuve la de 4 horas. Déjenme borro
+
+[00:02:14]
+incluso esta. Estuve la de 4 horas. Lo
+
+[00:02:17]
+vamos a poner aquí. Así.
+
+[00:02:21]
+Vamos a poner esta estructura aquí.
+
+[00:02:24]
+Aquí.
+
+[00:02:26]
+Miren, se lo estoy dibujando así con
+
+[00:02:31]
+facilito, ¿no? Entonces, el precio va a
+
+[00:02:33]
+venir cayendo. Supongamos que esta vela
+
+[00:02:37]
+es H4.
+
+[00:02:40]
+Esta vela es H4.
+
+[00:02:42]
+Y tú vas a ver esta vela así
+
+[00:02:45]
+como viene para abajo, ¿no? Viene a por
+
+[00:02:48]
+todas, no viene con todo. Entonces tú
+
+[00:02:53]
+antes de que raidee el precio vas a
+
+[00:02:55]
+estar revisando la estructura menor.
+
+[00:02:58]
+Esto ya puede ser
+
+[00:03:00]
+M5,
+
+[00:03:03]
+M15,
+
+[00:03:05]
+M1.
+
+[00:03:07]
+temporalidades de minutos es lo que te
+
+[00:03:10]
+vas a estar moviendo, verad. Entonces,
+
+[00:03:14]
+ves que la el comienzo de la vela viene
+
+[00:03:15]
+cayendo aquí,
+
+[00:03:18]
+viene cayendo así, pa pa pa.
+
+[00:03:21]
+¿Qué vas a ver lower same time frame?
+
+[00:03:23]
+Ojo aquí que incluso lo voy a poner en
+
+[00:03:25]
+color meno en color diferente.
+
+[00:03:30]
+Vas a ver que el precio va a raidear, va
+
+[00:03:33]
+a ser va a venir a la zona de oferta.
+
+[00:03:36]
+Aquí voy a poner de otro color. Vamos a
+
+[00:03:39]
+poner verde.
+
+[00:03:41]
+Ya fíjense muy bien. Va a venir a la
+
+[00:03:43]
+zona de oferta, esta zona de oferta de 5
+
+[00:03:47]
+minutos.
+
+[00:03:49]
+Ojo, 5 minutos.
+
+[00:03:52]
+Lo que va a hacer el precio es
+
+[00:03:54]
+probablemente va a reaccionar a esa zona
+
+[00:03:56]
+de oferta. Perfecto, estamos de acuerdo
+
+[00:03:59]
+todos. Es una estructura bajista,
+
+[00:04:01]
+hombre.
+
+[00:04:03]
+¿Cómo sé que el precio va a respetar
+
+[00:04:05]
+eso? Pues la estructura bajista, ¿qué
+
+[00:04:08]
+debería de seguir haciendo?
+
+[00:04:11]
+¿Qué debería de seguir haciendo esta
+
+[00:04:12]
+estructura bajista? ¿Debería de seguir
+
+[00:04:14]
+cayendo, no?
+
+[00:04:17]
+Sí. No es bajista, no se supone que esta
+
+[00:04:20]
+vela de 4 horas es bajista,
+
+[00:04:23]
+pero da la casualidad que cuando se mete
+
+[00:04:26]
+a la zona del turtle,
+
+[00:04:28]
+esta zona del turtle up, lower time
+
+[00:04:31]
+frame, se mete a la zona del turtle up,
+
+[00:04:33]
+lo que hace es reaccionar, venir a la
+
+[00:04:36]
+zona de oferta que tenía ahí el precio,
+
+[00:04:40]
+cae para abajo y
+
+[00:04:43]
+haces
+
+[00:04:48]
+intenta hacer un nuevo bajo, no lo
+
+[00:04:50]
+consigue, se apoya en la misma zona del
+
+[00:04:53]
+Turtle, que esto Will le llama,
+
+[00:04:58]
+¿cómo le cómo le llama?
+
+[00:05:01]
+El PD PD
+
+[00:05:03]
+PDW.
+
+[00:05:06]
+Ah, no sé cómo le no me acuerdo cómo le
+
+[00:05:09]
+llama, pero es el fallo de la
+
+[00:05:10]
+estructura.
+
+[00:05:12]
+Y ahí tú te das cuenta, muchacho,
+
+[00:05:15]
+que el precio va a respetar eso.
+
+[00:05:19]
+Así,
+
+[00:05:21]
+tu próximo target arriba
+
+[00:05:24]
+y ahí tienes tu entrada.
+
+[00:05:28]
+Sí, se entiende o no se entiende, a ver,
+
+[00:05:29]
+dudas o preguntas, porque luego no
+
+[00:05:31]
+quiero comentarios en los videos de
+
+[00:05:33]
+YouTube de Gustavo, ¿cómo le haces para
+
+[00:05:35]
+saber que la vela roja no va a seguir?
+
+[00:05:38]
+Es que yo entro y la vela le hace así
+
+[00:05:40]
+para abajo. Pues sí, porque entras tú y
+
+[00:05:42]
+no te esperas,
+
+[00:05:44]
+entras y el precio te hace así.
+
+[00:05:47]
+Te hace así.
+
+[00:05:50]
+Will no espera ni cambio de estructura,
+
+[00:05:53]
+pero bueno, Will Will ya tiene
+
+[00:05:55]
+experiencia operando la estrategia, ¿no?
+
+[00:06:02]
+Él lo opera así porque así le gusta.
+
+[00:06:06]
+No necesariamente se tiene que esperar
+
+[00:06:07]
+cambio de estructura.
+
+[00:06:10]
+Pero si no logras entenderlo con cambio
+
+[00:06:12]
+de estructura, imagínate sin cambio de
+
+[00:06:14]
+estructura menos.
+
+[00:06:17]
+Cluti, por ejemplo, él sí si él sí
+
+[00:06:20]
+espera cambio de estructura, así como yo
+
+[00:06:22]
+lo hago, lo hace él igual.
+
+[00:06:25]
+Lo sé porque lo he visto en sus
+
+[00:06:27]
+operaciones.
+
+[00:06:31]
+Lo lo he lo he visto. Si se entiende o
+
+[00:06:34]
+no se entiende, gente, o es muy difícil,
+
+[00:06:39]
+¿verdad? que sí se entiende. No sé por
+
+[00:06:41]
+qué en YouTube luego lo que pasa es que
+
+[00:06:43]
+si tú no has estudiado por lo menos el
+
+[00:06:45]
+mínimo de lo que es trading, pues no lo
+
+[00:06:48]
+vas a entender.
+
+[00:06:50]
+Ahora, Gustavo, ponme un ejemplo de
+
+[00:06:52]
+esto, un ejemplo que lo estoy viendo
+
+[00:06:54]
+aquí.
+
+[00:06:58]
+Estoy viendo aquí
+
+[00:07:00]
+tienes esta estructura alcista, el
+
+[00:07:03]
+euroólar,
+
+[00:07:05]
+estructura. Acá está otro. Eh, tienes
+
+[00:07:07]
+esa estructura alcista.
+
+[00:07:10]
+Al tener esa estructura alcista,
+
+[00:07:12]
+el precio si va a subir, ¿cuál sería tu
+
+[00:07:15]
+target?
+
+[00:07:18]
+Este punto de aquí,
+
+[00:07:20]
+que si nos vamos a una temporalidad más
+
+[00:07:23]
+alta es el alto diario.
+
+[00:07:27]
+Anyways,
+
+[00:07:28]
+alcista. Ahora, tu estructura que viene
+
+[00:07:32]
+acá de este lado va a venir en forma de
+
+[00:07:35]
+va a venir cayendo en forma de
+
+[00:07:37]
+retroceso, ¿no? Esta estructura,
+
+[00:07:40]
+listo.
+
+[00:07:42]
+Esta estructura va a ser bajista.
+
+[00:07:44]
+Ahora, en tu horario determinado,
+
+[00:07:49]
+en tu horario determinado,
+
+[00:07:52]
+este, ¿cuál va a ser tu horario? Me
+
+[00:07:54]
+preguntaron muchos, Gustavo, ¿qué vela,
+
+[00:07:56]
+qué horario, gente? Kilson de Nueva York
+
+[00:08:00]
+y Kilson de Londres.
+
+[00:08:02]
+El que no sepa que es una Kilson,
+
+[00:08:04]
+póngase a estudiar. No me voy a poner
+
+[00:08:06]
+aquí a explicar que es una Kilson.
+
+[00:08:08]
+Imagínense.
+
+[00:08:12]
+Ya deben de saber que es una Kilson,
+
+[00:08:14]
+cuándo cierra los el horario para tu
+
+[00:08:16]
+país, la vela exacta. Ya deben de saber
+
+[00:08:18]
+ustedes eso. Kilson de Londres y Kilson
+
+[00:08:21]
+de Nueva York. Son los horarios que se
+
+[00:08:23]
+manejan. también funciona en Asia, pero
+
+[00:08:26]
+bueno, si no entiende mucha gente
+
+[00:08:29]
+Londres o Nueva York, imagínense Asia
+
+[00:08:31]
+peor.
+
+[00:08:34]
+En ese horario terminado, ¿para qué me
+
+[00:08:37]
+sirve el horario? Para yo sospechar o
+
+[00:08:40]
+saber que en ese horario es en el que el
+
+[00:08:43]
+precio va a ser la manipulación.
+
+[00:08:46]
+Cuando me haga esa manipulación
+
+[00:08:48]
+determinada es que yo voy a tener una
+
+[00:08:50]
+oportunidad de entrada, ¿verdad?
+
+[00:08:53]
+Entonces, nos vamos ahí. Si se fijan,
+
+[00:08:56]
+esto fue un
+
+[00:09:00]
+esto fue Londres, Londres.
+
+[00:09:04]
+El martes 3 de junio. Se pueden ir, se
+
+[00:09:07]
+pueden ir a su gráfico para que lo vean.
+
+[00:09:11]
+Martes 3 de junio,
+
+[00:09:14]
+porque luego me dicen, "¿En qué vela
+
+[00:09:15]
+exactamente?" esta vela verde. Ahora
+
+[00:09:18]
+vamos a estudiar esta vela verde para
+
+[00:09:20]
+darnos cuenta cómo sabías, Gustavo, que
+
+[00:09:22]
+ese era el último mínimo
+
+[00:09:25]
+iba a dejar el precio ahí.
+
+[00:09:31]
+Entonces, nos bajamos una hora, gente.
+
+[00:09:34]
+Bueno, vamos a marcar el raideo de 4
+
+[00:09:35]
+horas primero antes de irnos la entrada
+
+[00:09:38]
+como tal.
+
+[00:09:40]
+Ahí
+
+[00:09:42]
+nos vamos a a bajar a una hora.
+
+[00:09:46]
+Fíjense, este es mi fractal alcista.
+
+[00:09:50]
+Alcista, no bajista. Mi contexto es
+
+[00:09:53]
+alcista, no bajista.
+
+[00:09:56]
+Por lo tanto, mi estructura va a venir
+
+[00:09:59]
+bajista, ¿sí o no? esta estructura, pero
+
+[00:10:03]
+esta estructura la reconozco yo o
+
+[00:10:06]
+especulo que es una estructura en forma
+
+[00:10:07]
+de retroceso.
+
+[00:10:10]
+Hombre, que yo no sé si el precio va a
+
+[00:10:11]
+venir hasta acá abajo, va a romper o yo
+
+[00:10:14]
+no sé lo que va a hacer, pero sé que
+
+[00:10:16]
+esta estructura es bajista en forma de
+
+[00:10:17]
+retroceso porque la estructura principal
+
+[00:10:20]
+está alineada alcista.
+
+[00:10:22]
+Ahora, ¿qué voy a esperar? Yo
+
+[00:10:25]
+voy a esperar mi estructura de 155
+
+[00:10:28]
+minutos. Vamos a bajarnos a cinco
+
+[00:10:34]
+y en 5 minutos puedo ir escudriñando la
+
+[00:10:37]
+estructura. punto alto, rompimiento de
+
+[00:10:40]
+la estructura, punto alto, punto mínimo,
+
+[00:10:43]
+punto alto, punto mínimo, rompimiento de
+
+[00:10:46]
+la estructura, punto alto,
+
+[00:10:52]
+punto
+
+[00:10:55]
+bajo, bajos iguales, punto alto. Hasta
+
+[00:10:59]
+aquí es una estructura bajista, ¿verdad?
+
+[00:11:02]
+Nadie me puede decir que aquí es una
+
+[00:11:03]
+estructura alcista. Esto no
+
+[00:11:07]
+es una estructura correctamente bajista,
+
+[00:11:10]
+pero
+
+[00:11:12]
+ojo, ojo con el pero
+
+[00:11:16]
+da la casualidad
+
+[00:11:18]
+que y también fíjense, ah, bueno, esto
+
+[00:11:22]
+sí lo lo hubiera estado chido que lo
+
+[00:11:24]
+tomara, pero da la casualidad que
+
+[00:11:29]
+cuando el precio se encuentra en la
+
+[00:11:30]
+terminada, fíjate, esto es Londres,
+
+[00:11:32]
+exactamente, Londres.
+
+[00:11:34]
+Bueno, un poquito avanzado Londres, ya
+
+[00:11:36]
+se había ido el precio. Bueno, la
+
+[00:11:38]
+confirmación sí la dio en Londres.
+
+[00:11:39]
+Exactamente.
+
+[00:11:41]
+Fíjense que aquí se empieza a formar la
+
+[00:11:43]
+vela esa de 4 horas.
+
+[00:11:49]
+El precio que hace lower time frame, lo
+
+[00:11:52]
+voy a eliminar, de hecho, de nuevo.
+
+[00:11:53]
+Eliminar dibujos.
+
+[00:11:55]
+Piense muy bien.
+
+[00:11:57]
+Punto mínimo, punto máximo,
+
+[00:12:02]
+punto alto, que no consigue hacer un
+
+[00:12:04]
+nuevo higher high y toma de liquidez
+
+[00:12:08]
+lo mínimo.
+
+[00:12:11]
+Ya estás en 4 horas
+
+[00:12:14]
+viendo el precio te raidea.
+
+[00:12:18]
+Ahora los que me preguntan cómo le hace
+
+[00:12:21]
+Cluty. Es Will. ¿Cómo le hace Will para
+
+[00:12:24]
+entrar de manera agresiva ahí sin
+
+[00:12:27]
+esperar el cambio de estructura?
+
+[00:12:31]
+¿Lo quieren saber también, verdad?
+
+[00:12:35]
+Cuando ves el raideo de 4 horas,
+
+[00:12:38]
+esto es lo que hace Will. Ve el raideo
+
+[00:12:41]
+de 4 horas. Vamos, nos vamos a devolver
+
+[00:12:45]
+otra vez.
+
+[00:12:47]
+Ojo, ya mi vaya es es alcista, ¿eh? Ojo,
+
+[00:12:50]
+ya mi valla es alcista, chicos. Veo el
+
+[00:12:53]
+raideo de 4 horas.
+
+[00:12:56]
+Voy a buscar lo mismo en una hora.
+
+[00:13:01]
+Uy, esto en un en otros brokers
+
+[00:13:05]
+seguramente sí lo raideó.
+
+[00:13:10]
+Igual en otros brokers seguramente sí
+
+[00:13:13]
+raideó este mínimo. Este broker creo que
+
+[00:13:16]
+eso va, no es forex.com. Creo que no,
+
+[00:13:19]
+pero en futuros y en otros brokers me
+
+[00:13:21]
+atendía que a decir que sí. Igualmente,
+
+[00:13:25]
+cuando ves ese raideo en lo mismo que
+
+[00:13:29]
+sucede en 4 horas, lo mismo que sucede
+
+[00:13:31]
+en una hora, o sea, lo mismo que sucedió
+
+[00:13:34]
+en 4 horas sucede en una hora. Tú ya
+
+[00:13:37]
+entras con tu posición larga. ¿Dónde vas
+
+[00:13:39]
+a entrar? ¿Dónde está el precio? ¿Cómo
+
+[00:13:43]
+le hago entonces, Gustavo, para calcular
+
+[00:13:45]
+ahí según tu target?
+
+[00:13:47]
+¿Cuál va a ser tu target? Target de 4
+
+[00:13:50]
+horas. Lo más eficiente es salirse acá,
+
+[00:13:54]
+aquí
+
+[00:13:56]
+una vez el precio raidea ese ese alto.
+
+[00:14:00]
+Pero la salida todavía más eficiente es
+
+[00:14:04]
+cuando el precio toma el alto de la
+
+[00:14:07]
+última vela de 4 horas, que era este. O
+
+[00:14:11]
+sea, cuando el precio la siguiente vela
+
+[00:14:13]
+de 4 horas abre y toma ese alto. Una vez
+
+[00:14:17]
+que la siguiente vela de 4 horas abre y
+
+[00:14:19]
+toma ese alto, ahí es como muy bueno
+
+[00:14:22]
+salirse una entrada basada en tiempo y
+
+[00:14:24]
+una salida basada en tiempo. ¿Listo?
+
+[00:14:29]
+A partir de ahí que tú ya calculaste tu
+
+[00:14:30]
+target,
+
+[00:14:33]
+ojo, gente, ya tengo yo mi target
+
+[00:14:34]
+calculado, regulo el stop loss
+
+[00:14:39]
+a uno a tres o puede ser uno a 2 y medio
+
+[00:14:41]
+también, pero uno, a mí me gusta uno a
+
+[00:14:44]
+tres, pero puede ser uno a 2 y medio. Y
+
+[00:14:47]
+si te fijas, nunca te va a sacar el
+
+[00:14:49]
+precio. Nunca te va a sacar el precio.
+
+[00:14:54]
+La gente dice, "Wil hace o deja de
+
+[00:14:56]
+hacer, pero él ya dice en sus videos que
+
+[00:14:58]
+no explica todo, te guarda una parte de
+
+[00:15:00]
+su operativa." Claro, él no muchas de
+
+[00:15:03]
+las cosas que
+
+[00:15:06]
+muchos de los conceptos no los no los
+
+[00:15:09]
+dice.
+
+[00:15:12]
+Por eso les digo, se trata de que tú
+
+[00:15:15]
+adaptes la estrategia a ti mismo, no que
+
+[00:15:17]
+intentes hacer lo mismo que él hace.
+
+[00:15:21]
+Sí, muchos conceptos y la mayoría de lo
+
+[00:15:23]
+que él hace está muy bien,
+
+[00:15:26]
+pero
+
+[00:15:28]
+tiene que funcionarte a ti y no a él. A
+
+[00:15:30]
+él ya le funciona. Él ya gana dinero. El
+
+[00:15:33]
+que tienes que ganar dinero ahora eres
+
+[00:15:34]
+tú. M.

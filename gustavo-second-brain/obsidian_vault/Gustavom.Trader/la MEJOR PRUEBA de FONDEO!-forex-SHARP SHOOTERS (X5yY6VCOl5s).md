@@ -1,0 +1,2398 @@
+---
+source_id: YT_CANAL_02_X5yY6VCOl5s
+video_id: X5yY6VCOl5s
+channel: "Gustavom.Trader"
+published_at: 2022-04-29
+url: https://www.youtube.com/watch?v=X5yY6VCOl5s
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 18
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# la MEJOR PRUEBA de FONDEO!-forex-SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=X5yY6VCOl5s)
+
+## Transcript
+
+```
+[00:00:02]
+ok entonces empezamos con la
+
+[00:00:04]
+introducción a las pruebas de fondo
+
+[00:00:06]
+primero que nada les va a dar un pequeño
+
+[00:00:07]
+breve resumen de lo que es una prueba de
+
+[00:00:09]
+fondeo para los que no sepan para los
+
+[00:00:11]
+que vengan de youtube y para que vengan
+
+[00:00:13]
+de youtube gmail like y la suscripción
+
+[00:00:16]
+por favor que ayuda mucho y para mis
+
+[00:00:18]
+compañeros que están aquí se conectaron
+
+[00:00:20]
+del telegram estamos en tele gran amigos
+
+[00:00:23]
+para los que no han visto la descripción
+
+[00:00:26]
+del vídeo está el telegram donde estamos
+
+[00:00:28]
+todos los días dando análisis a veces
+
+[00:00:31]
+pasamos algunas entrevistas un poco de
+
+[00:00:33]
+todo de todo un poco estamos ahí
+
+[00:00:35]
+conversando también este entonces ahí
+
+[00:00:39]
+estamos en telegram que es una prueba de
+
+[00:00:41]
+fondeo porque una prueba de fondeo como
+
+[00:00:42]
+su nombre lo indica es hace esto un
+
+[00:00:45]
+challenge un examen hacemos un pequeño
+
+[00:00:48]
+examen que lo puedes hacer en
+
+[00:00:51]
+cualquier hay muchas empresas pero yo
+
+[00:00:54]
+principalmente los guardo comendador y
+
+[00:00:56]
+está 3 por ejemplo aquí tenemos en la
+
+[00:00:58]
+que yo pasé mi prueba de fondeo mi
+
+[00:01:00]
+primer programa fondeo que es made for
+
+[00:01:02]
+sports entonces haces un pequeño examen
+
+[00:01:05]
+y de ese examen
+
+[00:01:08]
+tebana
+
+[00:01:10]
+si lo pasas y cumplen las reglas que
+
+[00:01:13]
+ellos tienen te van a dar una cuenta de
+
+[00:01:15]
+cierto capital puede ser desde 10 mil
+
+[00:01:20]
+hasta 200 mil dólares es lo que estaba
+
+[00:01:22]
+se está manejando casi la mayoría de las
+
+[00:01:24]
+compañías ese es el base obviamente tú
+
+[00:01:28]
+por el examen
+
+[00:01:29]
+pagas dinero
+
+[00:01:32]
+por ejemplo vamos a gritar aquí a my
+
+[00:01:35]
+first font se meten usted les va a dejar
+
+[00:01:37]
+los tres links de las de las compañías
+
+[00:01:40]
+se los va a dejar en youtube y se los va
+
+[00:01:43]
+a dejar también en telegram para que
+
+[00:01:45]
+puedan verlo los tres links para que
+
+[00:01:47]
+puedan revisar las compañías este por
+
+[00:01:49]
+ejemplo en my phone tienen esta
+
+[00:01:51]
+evaluación es de 10 mil 20 mil 50 mil
+
+[00:01:54]
+100 mil y 200 mil y por ejemplo aquí si
+
+[00:01:56]
+se fijan es esta el precio de cada una
+
+[00:01:59]
+por ejemplo la de mind for iphone la de
+
+[00:02:02]
+10000 cuesta 84 dólares la de 20 mil 139
+
+[00:02:06]
+la de 50 mil 300 la de 100 mil 500 y la
+
+[00:02:11]
+de 200 mil 979
+
+[00:02:15]
+haz pagas básicamente hace sunchalense
+
+[00:02:18]
+ahorita les voy a explicar las reglas
+
+[00:02:19]
+que tiene el challenge para poder
+
+[00:02:21]
+aprobarlo el
+
+[00:02:24]
+examen y si tú pasas el examen ellos te
+
+[00:02:27]
+sueltan una cuenta real con ese capital
+
+[00:02:30]
+si te para los que se estén preguntando
+
+[00:02:33]
+en realidad si te dan ese dinero si te
+
+[00:02:35]
+dan este dinero pero tiene una cosa que
+
+[00:02:37]
+ellos están aquí en las reglas por
+
+[00:02:40]
+ejemplo las reglas de my first font es
+
+[00:02:43]
+que tú vas a tener este un draw down
+
+[00:02:47]
+diario de 5% que significa que tú puedes
+
+[00:02:51]
+perder en el día 5 por ciento de la
+
+[00:02:54]
+cuenta sino si violas este primer
+
+[00:02:56]
+parámetro te la quita y puedes perder un
+
+[00:02:59]
+máximo de un 12% en todas las cuentas es
+
+[00:03:02]
+lo mismo en todas las cuentas es un 5%
+
+[00:03:05]
+diario y un 8 y un 12 por ciento
+
+[00:03:10]
+total de la cuenta que significa que si
+
+[00:03:12]
+tú tienes una cuenta de diez mil dólares
+
+[00:03:14]
+y tú en un día pierdes más de 500
+
+[00:03:16]
+pierdes 500 1 ó 500 puntos 50 con punto
+
+[00:03:20]
+50 centavos ellos automáticamente se te
+
+[00:03:23]
+cierra la cuenta y no puedes trade ar y
+
+[00:03:24]
+perdiste tu cuenta
+
+[00:03:28]
+para pasar este examen por ejemplo en el
+
+[00:03:31]
+primer en la primera etapa tú vas a
+
+[00:03:34]
+tener en la primera etapa tú vas a tener
+
+[00:03:37]
+30 días para operar y sacar un 8% en la
+
+[00:03:43]
+primera etapa
+
+[00:03:44]
+o sea que tú tienes en la primera etapa
+
+[00:03:45]
+30 días de los cuales si estás operando
+
+[00:03:49]
+cripto pues tienen los 30 días operables
+
+[00:03:51]
+y estás en el caso que estés operando
+
+[00:03:54]
+forex o esté separando
+
+[00:03:57]
+este la bolsa nasdaq los índices
+
+[00:04:00]
+acciones tienen acciones también en la
+
+[00:04:03]
+cuenta algunas acciones no todas este
+
+[00:04:05]
+pues tienes los cinco días de la semana
+
+[00:04:09]
+que serían 20 en total al mes entonces
+
+[00:04:11]
+de esos 20 días que tú tienes tú es el
+
+[00:04:15]
+tiempo que tú tienes para sacar 18 por
+
+[00:04:17]
+ciento de la cuenta en una vamos a por
+
+[00:04:19]
+el primer ejemplo en un caso que tú
+
+[00:04:21]
+agarres una de 10 mil dólares que es la
+
+[00:04:22]
+que la mayoría agarra porque pues ya
+
+[00:04:24]
+saben que pues no tenemos tanto capital
+
+[00:04:27]
+disponible no para para operar y se
+
+[00:04:29]
+recomienda la rareza a la primera la de
+
+[00:04:31]
+10 mil para ir probándose un poquito no
+
+[00:04:33]
+bueno primero se recomienda que pérez en
+
+[00:04:35]
+demo con estas reglas y después ya que
+
+[00:04:38]
+te sientas un poco capacitado puedes ir
+
+[00:04:41]
+a operar ya en real con estas con estas
+
+[00:04:43]
+cuentas entonces ese 8% supongamos que
+
+[00:04:47]
+de 10 mil tú tienes que generar 800
+
+[00:04:49]
+dólares en ese mes en esos 20 días o en
+
+[00:04:51]
+los 30 segundos para script ese es el
+
+[00:04:54]
+target y tú no puedes perder 1200
+
+[00:04:57]
+dólares en total de la cuenta sea que tu
+
+[00:04:59]
+cuenta no puede bajar 1200 dólares del
+
+[00:05:01]
+balance inicial que son los 10 mil
+
+[00:05:04]
+tú no puedes perder 500 dólares en un
+
+[00:05:06]
+día que es un 5% de la cuenta y esto se
+
+[00:05:10]
+replica solamente los mismos porcentajes
+
+[00:05:13]
+para hallar las cantidades como 20 mil
+
+[00:05:14]
+50 mil y 100 mil y 200 mil es
+
+[00:05:16]
+exactamente lo mismo tomás que pues es
+
+[00:05:18]
+más capital obviamente la ganancia es
+
+[00:05:20]
+mejor es más aquí en made for stone como
+
+[00:05:24]
+está la pregunta a ustedes cómo funciona
+
+[00:05:26]
+a la hora de que de que yo método de que
+
+[00:05:29]
+yo compro mi cuenta tú la compras tu
+
+[00:05:32]
+cuenta
+
+[00:05:33]
+eso se los puedo decir yo porque yo
+
+[00:05:35]
+tengo una cuenta y lo hice este proceso
+
+[00:05:37]
+compras tu cuenta puedes pagar con
+
+[00:05:39]
+tarjeta de crédito
+
+[00:05:41]
+paypal creo que no no estoy seguro pero
+
+[00:05:43]
+bueno yo lo hice por tarjeta de crédito
+
+[00:05:45]
+y también una cosa que tienes que puedes
+
+[00:05:47]
+pagar por cripto monedas ellos tienen un
+
+[00:05:50]
+agua delito puedes pagar por quitó
+
+[00:05:52]
+monedas por bitcoin creo jeter yum no sé
+
+[00:05:55]
+si otra pero bueno puedes pagar por
+
+[00:05:57]
+tarjeta de crédito que lo más sencillo
+
+[00:05:59]
+no todo mundo tiene su tarjeta de
+
+[00:06:00]
+crédito y más si nosotros que estamos en
+
+[00:06:02]
+este negocio pues todos tenemos tarjeta
+
+[00:06:04]
+de crédito y pagamos una vez que pagamos
+
+[00:06:07]
+ellos envían un correo y te dicen
+
+[00:06:10]
+bienvenido a
+
+[00:06:11]
+charlene y te vas haití ellos tienen
+
+[00:06:14]
+como un panel y en ese panel te vas y
+
+[00:06:17]
+por correo te mandan las credenciales de
+
+[00:06:19]
+la cuenta tu te metes a tu meta 305 meta
+
+[00:06:22]
+a tener 4 según lo que hayas elegido por
+
+[00:06:24]
+ejemplo antes may forest son solamente
+
+[00:06:26]
+tenía meta 34 pero ahora ya tienen meta
+
+[00:06:28]
+3 del 5 también tienen los dos las dos
+
+[00:06:30]
+plataformas entonces te metes a tu meta
+
+[00:06:32]
+trader pones la cuenta normal y te va a
+
+[00:06:34]
+decir voy a la evaluación fase 1
+
+[00:06:37]
+y ya tú tienes la evaluación y ya tienes
+
+[00:06:39]
+los 20 días para para sacar el profit y
+
+[00:06:43]
+obviamente no viola las reglas y tú
+
+[00:06:45]
+violan las reglas ellos te lo quitan y
+
+[00:06:47]
+el dinero no te lo regresa en dado caso
+
+[00:06:49]
+que yo pasé la primera fase tengo la
+
+[00:06:52]
+segunda fase que se llama la
+
+[00:06:54]
+verificación aquí dice siguiente fase 1
+
+[00:06:56]
+evaluación 8 % fase 2 la verificación y
+
+[00:07:00]
+la verificación aparentemente es mucho
+
+[00:07:02]
+más fácil pero está hecho así como para
+
+[00:07:04]
+que psicológicamente sea aprobado se lo
+
+[00:07:07]
+digo por experiencia porque ahorita yo
+
+[00:07:09]
+les puedo platicar desde la experiencia
+
+[00:07:12]
+yo hice una con fm o pase la primera
+
+[00:07:15]
+fase en tres días y en la segunda fase
+
+[00:07:17]
+me tronaron porque porque está hecho
+
+[00:07:21]
+psicológicamente o porque está hecho
+
+[00:07:22]
+psicológicamente así porque en la
+
+[00:07:24]
+segunda etapa tú tienes 5 % para sacar y
+
+[00:07:27]
+tienes un 60 días
+
+[00:07:31]
+a 60 días para operar o sea que tienes
+
+[00:07:33]
+el doble de tiempo y menos porcentaje
+
+[00:07:36]
+para para
+
+[00:07:38]
+para hacer ganancias puestos en menos
+
+[00:07:40]
+porcentaje de ganancias es menos poquito
+
+[00:07:43]
+más de la mitad este muchos también se
+
+[00:07:46]
+estarán
+
+[00:07:47]
+esté preguntando
+
+[00:07:50]
+quieren que seas consistente y sedaví
+
+[00:07:52]
+así es ellos que quieren que seas
+
+[00:07:54]
+consistente no les interesa tanto la
+
+[00:07:56]
+ganancia sino más como tu pierdes que
+
+[00:07:58]
+puedas preservar el capital
+
+[00:08:00]
+se estarán preguntando también algunos
+
+[00:08:03]
+nuevos o los que me vean ahí por youtube
+
+[00:08:04]
+este tengo que operar a fuerza a los 30
+
+[00:08:07]
+días no ellos sean un límite de días
+
+[00:08:10]
+mínimos que tú tienes que operar en este
+
+[00:08:13]
+caso son 10 días mínimos de cinco días
+
+[00:08:16]
+perdón de está equivocando es que antes
+
+[00:08:18]
+eran diez pero esto ya lo cambiaron lo
+
+[00:08:19]
+bajaron como está habiendo mucha
+
+[00:08:21]
+competencia muchas empresas que están
+
+[00:08:23]
+sacando pruebas de fotos de fondeo pues
+
+[00:08:26]
+lo bajaron ellos porque antes eran diez
+
+[00:08:27]
+y me acuerdo que hace muchos bueno hace
+
+[00:08:31]
+muchos años así como 23 años que yo
+
+[00:08:32]
+empecé en esto eran como 20 días los
+
+[00:08:34]
+mínimos y hablo yo por eso nunca me metí
+
+[00:08:37]
+una prueba fondo de protección chalet
+
+[00:08:39]
+aunque 20 días para pasarla y pues a lo
+
+[00:08:41]
+mejor tú eres muy bueno a la mejor
+
+[00:08:43]
+sebastián es muy bueno y lo pasan rápido
+
+[00:08:45]
+y no que estar esperando sé entonces tú
+
+[00:08:48]
+tiene cinco días por ejemplo si tú la
+
+[00:08:50]
+pasas en el primer día que tienes que
+
+[00:08:52]
+hacer los demás los otros cinco días
+
+[00:08:53]
+pues solamente meter una operación
+
+[00:08:55]
+chiquita punto 0 1 y cerrar la operación
+
+[00:08:57]
+rápido meter una operación cortita y
+
+[00:08:59]
+cerrarla simplemente meter una operación
+
+[00:09:02]
+para que te cuente el día ya una vez que
+
+[00:09:04]
+te contabilizan los cinco días de actúas
+
+[00:09:06]
+haber pasado y al mismo la plataforma
+
+[00:09:08]
+estaba decir desea subrayar tu cuenta y
+
+[00:09:10]
+las gradas y te mandan las credenciales
+
+[00:09:12]
+para la segunda cuenta que es la segunda
+
+[00:09:14]
+fase y la segunda para se hacer lo mismo
+
+[00:09:17]
+pasa el 5 por ciento y huelva las mismas
+
+[00:09:20]
+reglas y si tú llegas a pasar que sucede
+
+[00:09:22]
+me dices ellos te dan en el primer mes
+
+[00:09:25]
+te regresa en tu dinero pero en el
+
+[00:09:28]
+primer mes que tú generes con dinero
+
+[00:09:30]
+real en la cuenta real por ejemplo la de
+
+[00:09:32]
+10.000 y tú sacas tú ya no tienen ningún
+
+[00:09:35]
+tarde no estás obligado a pep creo que
+
+[00:09:38]
+tiene un límite de días mínimos para
+
+[00:09:40]
+operar como cinco o seis días pero tú ya
+
+[00:09:42]
+si saca a cien dólares 100 dólares son
+
+[00:09:44]
+son 75 por ciento para la empresa y el
+
+[00:09:48]
+otro porcentaje para el
+
+[00:09:50]
+75% perdón para ti y el otro porcentaje
+
+[00:09:53]
+para la empresa en mind forest
+
+[00:09:55]
+concretamente es la regla es son tres
+
+[00:09:59]
+meses 75 por ciento el primer mes el
+
+[00:10:02]
+segundo mes vas con 80 y el tercer mes
+
+[00:10:04]
+vas con 85 ese es el reparto de
+
+[00:10:06]
+beneficios que significa que si tú sacas
+
+[00:10:09]
+100 los 85 van a ser para ti y los otros
+
+[00:10:12]
+van a ser para para la empresa el primer
+
+[00:10:16]
+mes es 75 y el máximo va a ser 85
+
+[00:10:20]
+este
+
+[00:10:21]
+[Música]
+
+[00:10:22]
+hasta ahí yo creo que ya les dije
+
+[00:10:24]
+bastante información voy a leer un
+
+[00:10:26]
+poquito las preguntas que me están aquí
+
+[00:10:28]
+tirando en los muchachos aquí en el zoom
+
+[00:10:32]
+y también los que tengan preguntas en el
+
+[00:10:35]
+respecto a esto en youtube pueden dejar
+
+[00:10:37]
+su comentario incluso se pueden meter el
+
+[00:10:39]
+telegram
+
+[00:10:41]
+y ahí mismo van a ver ustedes una
+
+[00:10:42]
+publicación lo que sea pueden comentar
+
+[00:10:44]
+ahí para saber ok primera pregunta dice
+
+[00:10:48]
+david quieren a ver si repruebo la
+
+[00:10:50]
+prueba se pierde los 64 también puedo
+
+[00:10:53]
+hacerlo de nuevo hay que volver a pagar
+
+[00:10:54]
+efectivamente si tú re pruebas la prueba
+
+[00:10:59]
+si tú no pasas y violas las reglas del 5
+
+[00:11:01]
+y del
+
+[00:11:03]
+de la pérdida máxima ya no recuperas tu
+
+[00:11:08]
+dinero el dinero se queda con ellos
+
+[00:11:09]
+obviamente ellos están ganando de la
+
+[00:11:11]
+gente que no está pasando porque ellos
+
+[00:11:13]
+se lo trasladaron una estadística no la
+
+[00:11:15]
+tengo aquí pero creo que él solamente el
+
+[00:11:17]
+30 por ciento de los traders que hacen
+
+[00:11:19]
+las pruebas de fondeo pasan y solamente
+
+[00:11:22]
+creo que el 7 por ciento son los únicos
+
+[00:11:25]
+que se quedan con cuentas reales o sea
+
+[00:11:27]
+muchos pasan la prueba de fondeo y ahí
+
+[00:11:28]
+se quedan o no generan dinero la pierde
+
+[00:11:31]
+porque porque cabe resaltar que si tú
+
+[00:11:33]
+pasas vas a seguir operando la cuenta
+
+[00:11:36]
+real con las mismas reglas y si tu voz
+
+[00:11:38]
+viola las reglas del 5 por ciento y del
+
+[00:11:40]
+8 y del 12 por ciento máximo y te quitan
+
+[00:11:43]
+la cuenta de la invalidan te la quitan
+
+[00:11:45]
+pierdes ese dinero eso sí no te cobran
+
+[00:11:47]
+si lo que perdiste pueden planear casa
+
+[00:11:49]
+te la tienes la terminas con 1200 o con
+
+[00:11:51]
+500 ese dinero lo asume la compañía pero
+
+[00:11:54]
+obviamente de ellos están ganando de
+
+[00:11:55]
+tanta gente que está metiendo pruebas
+
+[00:11:57]
+porque pues todo mundo quiere capital
+
+[00:11:58]
+pero no todo mundo pasa no porque
+
+[00:12:00]
+sabemos que en el mercado no todos son
+
+[00:12:02]
+consistentes entonces la respuesta para
+
+[00:12:04]
+david
+
+[00:12:06]
+pierdes el dinero el spread es alto no
+
+[00:12:09]
+la verdad no es alto ni en mayores font
+
+[00:12:12]
+ni en ft meoni en trader central que son
+
+[00:12:14]
+las tres compañías que les voy a enseñar
+
+[00:12:16]
+en ninguno de los tres les prendes
+
+[00:12:18]
+bastante bueno hasta eso que los brokers
+
+[00:12:20]
+son muy muy buenas en el caso de mayores
+
+[00:12:23]
+fondos en un broker que se llama el
+
+[00:12:26]
+él
+
+[00:12:29]
+este global algo así se me fue el nombre
+
+[00:12:33]
+exacto pero global no sé qué pero no
+
+[00:12:35]
+ustedes si hacen una cuando lo hagan o
+
+[00:12:38]
+si se llegan a meter no nos salto los
+
+[00:12:40]
+expresos muy buenos de hecho en el euro
+
+[00:12:43]
+en la libra en todos los padres de forex
+
+[00:12:44]
+contra el dólar en los ex presos muy
+
+[00:12:47]
+bajísimos por no decir que no tienen
+
+[00:12:48]
+nada después en los índices son muy
+
+[00:12:51]
+buenos y en las cripto monedas pues en
+
+[00:12:52]
+todos los brokers de son altos que
+
+[00:12:54]
+brokers usan les había dicho que eso ft
+
+[00:12:57]
+me gusta su su para las pruebas usa su
+
+[00:13:01]
+propio broker en real no sé por qué
+
+[00:13:03]
+nunca ha pasado una cuenta con ellos la
+
+[00:13:05]
+cuenta que tengo la tengo con con myford
+
+[00:13:08]
+font y trader central estoy ahorita
+
+[00:13:11]
+siendo una prueba de fondeo con ellos y
+
+[00:13:13]
+esperemos dios quiera pase y les digo
+
+[00:13:16]
+qué onda pero creo que si sales en
+
+[00:13:19]
+positivo te dan otra oportunidad o así
+
+[00:13:21]
+escuchado
+
+[00:13:22]
+según yo lo que he escuchado es
+
+[00:13:24]
+solamente en fm o en my favorite phone
+
+[00:13:27]
+yo no tengo entendido que no igual si
+
+[00:13:30]
+ustedes tienen alguna duda eso no estoy
+
+[00:13:31]
+100% seguro de si estoy por cien 100%
+
+[00:13:34]
+seguro es en
+
+[00:13:35]
+efe tm o en my force fue un escuchado
+
+[00:13:38]
+que sí que te dan una extensión de 15
+
+[00:13:40]
+días por ejemplo si tú llevas 30 días
+
+[00:13:42]
+más violado ni una regla te dan una
+
+[00:13:44]
+extensión de 15 días más para que puedas
+
+[00:13:46]
+pasar tu prueba
+
+[00:13:47]
+en fm o si estoy seguro que si no viola
+
+[00:13:49]
+ninguna regla pero por ejemplo no llegas
+
+[00:13:51]
+al proyecto que ellos piden que son 10
+
+[00:13:53]
+por ciento ellos te dan chance a que
+
+[00:13:55]
+vuelva a hacerlo repetirlo siempre y
+
+[00:13:57]
+cuando no hayas quedado negativo tienes
+
+[00:14:00]
+que ir positivo en la cuenta cosa que
+
+[00:14:01]
+haya sido por ejemplo si tienes diez mil
+
+[00:14:03]
+diez mil 210 mil 300 hayas pasado un 3%
+
+[00:14:07]
+o es se puede usar siempre un solo par o
+
+[00:14:11]
+un índice durante toda la prueba claro
+
+[00:14:13]
+puedes operar los pares que tú quieras
+
+[00:14:15]
+tú puedes operar los pares que tú
+
+[00:14:17]
+quieres y también tienen un cierto
+
+[00:14:19]
+límite operaciones pero es te puedes
+
+[00:14:21]
+meter casi la mayoría de las operaciones
+
+[00:14:23]
+a tu antojo el apalancamiento para las
+
+[00:14:25]
+cuentas de mayores pones una hacienda a
+
+[00:14:27]
+cris
+
+[00:14:28]
+entonces es un apalancamiento normalito
+
+[00:14:31]
+que cualquier cuenta lo tiene esta es
+
+[00:14:32]
+normal y está muy bien la verdad no
+
+[00:14:34]
+ocupas más de apalancamiento en mi
+
+[00:14:36]
+perspectiva tráiler central tiene unos
+
+[00:14:39]
+200 y efecto creo que también tiene una
+
+[00:14:41]
+acción ahorita vamos a ver este tema
+
+[00:14:42]
+también este alguna pregunta que tenga
+
+[00:14:45]
+es más sobre esto y nos lanzamos con
+
+[00:14:47]
+stmo
+
+[00:14:49]
+tienen alguna pregunta más déjame la
+
+[00:14:52]
+dejan ahí igual ellos tienen aquí un
+
+[00:14:54]
+chat tienen este
+
+[00:14:56]
+las 24 horas están atendiendo mensajes
+
+[00:14:59]
+pues si usted tiene en un mensaje en
+
+[00:15:01]
+concreto algo no están seguros o dice en
+
+[00:15:04]
+el gustavo no me pudo resolver la duda
+
+[00:15:06]
+le pueden tirar aquí por el por el por
+
+[00:15:09]
+el chat de ellos y soporte te responde
+
+[00:15:12]
+es hasta eso que el soporte de estas
+
+[00:15:14]
+compañías es muy muy bueno la verdad
+
+[00:15:16]
+nunca tenía un problema con ellos me
+
+[00:15:18]
+dice david como sé cuánto porcentaje
+
+[00:15:21]
+usar depende de su broker ya depende
+
+[00:15:23]
+depende de éste lo que yo personalmente
+
+[00:15:25]
+hice cuando empecé el principio yo
+
+[00:15:28]
+manejo lo que son los índices usted sabe
+
+[00:15:30]
+en el dow jones el nasdaq y el euro pero
+
+[00:15:34]
+estoy operando el euro lo que hice al
+
+[00:15:36]
+principio es éste tirar una operación
+
+[00:15:39]
+chiquita ver cuánto se movía y ya sabía
+
+[00:15:42]
+el valor que tiene el pib pero no sé si
+
+[00:15:44]
+por aquí por alguna otra parte ellos
+
+[00:15:46]
+tengan esa información de saber cuántos
+
+[00:15:48]
+cuánto vale el pib en el activo pero
+
+[00:15:51]
+vamos que son cualquier cuenta lo puede
+
+[00:15:52]
+saber muy fácil muy sencillo solamente
+
+[00:15:54]
+tiras un punto 0 1 en el par que quieras
+
+[00:15:57]
+meter los cierras con poquita ganancia y
+
+[00:16:00]
+ya te das cuenta cuánto cuánto lo está
+
+[00:16:02]
+genes y estás según tu estrategia lo que
+
+[00:16:05]
+estés operando ya es el sencillo ok pues
+
+[00:16:09]
+tienen alguna duda de extra aprovechen
+
+[00:16:12]
+que aquí estamos no eso es básicamente
+
+[00:16:14]
+lo que es prueba de fondeo y eso así es
+
+[00:16:17]
+como funciona es una es una oportunidad
+
+[00:16:20]
+muy buena para las personas que no
+
+[00:16:21]
+tienen tanto capital y obviamente porque
+
+[00:16:23]
+por ejemplo si tú estás es normalmente
+
+[00:16:25]
+los portales profesionales supongamos
+
+[00:16:27]
+que tú estás es meses de 8 por ciento
+
+[00:16:29]
+pues tú con 10 mil dólares tienes una
+
+[00:16:32]
+cuenta muy buenas estás ganando 800
+
+[00:16:35]
+dólares mes menos lo que te quite la
+
+[00:16:37]
+empresa y así estás hablando de 50 mil
+
+[00:16:40]
+100.000 o 200.000 pues ya ni te cuento
+
+[00:16:42]
+no habla por el potencial que tiene es
+
+[00:16:44]
+muy bueno entonces respecto a eso es es
+
+[00:16:48]
+así por eso por eso
+
+[00:16:50]
+se los decía ellos también tienen una
+
+[00:16:52]
+cuenta acelerada y una cuenta rápida que
+
+[00:16:55]
+es otro estilo de fondeo pero no lo
+
+[00:16:58]
+vamos a tocar porque si no se nos va a
+
+[00:16:59]
+ir el tiempo muy rápido y no voy a poder
+
+[00:17:01]
+enseñarles lo que les quiero enseñar ya
+
+[00:17:03]
+si usted tienen curiosidad sobre esas
+
+[00:17:05]
+cositas pues métanse en la página
+
+[00:17:06]
+smartphone y ven ven todo ese tipo de
+
+[00:17:10]
+cuenta lea lea y bien y ya también si
+
+[00:17:12]
+ustedes tienen una pregunta como les
+
+[00:17:14]
+decía y me tiran al tele grant y yo le
+
+[00:17:16]
+voy a estar respondiendo cuando pueda
+
+[00:17:17]
+luego estar respondiendo porque vamos
+
+[00:17:19]
+con la segunda compañía rápidamente que
+
+[00:17:21]
+se nos va el tiempo fm o ftm o la misma
+
+[00:17:24]
+historia stmo
+
+[00:17:26]
+muy parecido y les había comentado acá
+
+[00:17:29]
+de los precios en my favorite phone en
+
+[00:17:31]
+fm o son un poquito más caros que cambia
+
+[00:17:34]
+en efecto medio gustavo
+
+[00:17:36]
+cambia que son diez días mínimos de
+
+[00:17:39]
+operativa en lugar de cinco como my for
+
+[00:17:42]
+iphone ellos no pagan inscripto y no
+
+[00:17:44]
+puedes pagar tu inscripto eso eso eso
+
+[00:17:47]
+eso cambia y las cuentas las pruebas por
+
+[00:17:50]
+ejemplo ellos tienen además de a
+
+[00:17:52]
+diferencia de lo que es éste myford
+
+[00:17:56]
+fountain en sí trader para los que les
+
+[00:17:58]
+guste si trader en el usarlo a éstas y
+
+[00:18:01]
+trader también aparte de meta tener
+
+[00:18:03]
+cuatro y me trates del 5 yo en mi caso
+
+[00:18:05]
+uso meterte del 5 no cometeré 4
+
+[00:18:08]
+cualquiera de los dos entonces
+
+[00:18:11]
+también eso
+
+[00:18:14]
+por aquí tenía los que hay aquí están tú
+
+[00:18:18]
+tienes es que le pique aquí
+
+[00:18:21]
+si le das aquí ellos ellos si le das ahí
+
+[00:18:24]
+te salen vídeos y te explican pero están
+
+[00:18:26]
+en inglés bueno en el primero en el
+
+[00:18:28]
+chalet en el primero tiene 30 días 10
+
+[00:18:30]
+días mínimos de operativa y tú tienes
+
+[00:18:32]
+que sacar tienes que tener una pérdida
+
+[00:18:34]
+mini al día máxima perdón de 5 por
+
+[00:18:38]
+ciento es lo mismo de 5 por ciento y un
+
+[00:18:41]
+máximo de pérdida de 10 por ciento eso
+
+[00:18:44]
+esto también cambia porque en my forest
+
+[00:18:47]
+font tu tienes un 12 por ciento te dan
+
+[00:18:49]
+un 2% más eso lo hacen ellos los de
+
+[00:18:52]
+mayores son por cuestiones competitivas
+
+[00:18:54]
+con este mismo compañía pues sólo tienen
+
+[00:18:57]
+así entonces hay mayores font tú tienes
+
+[00:18:59]
+un 12% y aquí tienes un 10 el porcentaje
+
+[00:19:03]
+de pérdida diario es el mismo que tienes
+
+[00:19:06]
+un profit de un 10 por ciento allá en
+
+[00:19:07]
+mayores font tienes que hacer un 8% por
+
+[00:19:09]
+ejemplo para la de 10.000 es my forest
+
+[00:19:11]
+con tienes que hacer 800 dólares y aquí
+
+[00:19:13]
+tienes que hacer mil si es un poquito
+
+[00:19:15]
+más difícil en ese aspecto
+
+[00:19:18]
+y las pruebas de fondeo si son un
+
+[00:19:20]
+poquito más caras por ejemplo la de
+
+[00:19:22]
+10.000 te cuesta 155 dólares
+
+[00:19:24]
+155 euros que son como 167 170 bueno
+
+[00:19:29]
+ahorita ya casi el euro ha caído
+
+[00:19:30]
+bastante
+
+[00:19:32]
+entonces casi casi está lo mismo
+
+[00:19:34]
+entonces en eso anda pero las de mayores
+
+[00:19:37]
+son tan en 84 puntos están un poquito
+
+[00:19:40]
+más accesibles eso es lo que cambia y
+
+[00:19:42]
+todo lo demás es lo mismo que ya les
+
+[00:19:44]
+había explicado no cambia en nada
+
+[00:19:46]
+absolutamente nada tienes la de 25 mil
+
+[00:19:51]
+la de 50.000 a 100.000 y 200.000 es lo
+
+[00:19:54]
+mismo una cosa que tiene este
+
+[00:19:58]
+efe tm o y que tiene mayores aunque no
+
+[00:20:01]
+les había dicho pero se ha enfocado más
+
+[00:20:03]
+del futuro es que si por ejemplo tú
+
+[00:20:05]
+tienes un trimestre tienes tres meses
+
+[00:20:07]
+buenos consistentes ellos te suben un
+
+[00:20:09]
+creo que es un 15 por ciento o no estoy
+
+[00:20:12]
+seguro si es un 15 un 30 por ciento de
+
+[00:20:14]
+la cuenta ya que si tú tienes 10.000 de
+
+[00:20:17]
+suben 30 por ciento de la cuenta
+
+[00:20:19]
+o sea que tu cuenta se va haciendo más
+
+[00:20:21]
+grande otra cosa detallitos en en mayo
+
+[00:20:23]
+en ene efe tm o estoy seguro en mayores
+
+[00:20:27]
+fondo estoy seguro nunca preguntaba
+
+[00:20:28]
+soporte pero en efecto apruebo por lo
+
+[00:20:31]
+menos y estoy seguro que puedes juntar
+
+[00:20:32]
+cuentas por ciento plazo es una de diez
+
+[00:20:34]
+mil y tú dices no por la neta yo ya
+
+[00:20:36]
+estoy a otro nivel y ya quiero operar
+
+[00:20:38]
+con más capital pasas una de 50 y luego
+
+[00:20:41]
+ya les dices a ellos que te las junten y
+
+[00:20:43]
+ya tú tendrías 60 mil dólares de capital
+
+[00:20:45]
+lo máximo que te permiten este
+
+[00:20:48]
+efe temo escalar son 400 mil dólares o
+
+[00:20:51]
+sea dos cuentas de 200 mil más ya sea
+
+[00:20:55]
+que tú a las dos pruebas y las juntas o
+
+[00:20:56]
+que vayas escalando poco a poco con el
+
+[00:20:58]
+tiempo eso es lo que pasa y ellos otra
+
+[00:21:03]
+cosa que cambia aquí que ellos tienen
+
+[00:21:04]
+free trade obtienen una demo tu puedes
+
+[00:21:06]
+meterte registrarte y hacer una demo
+
+[00:21:09]
+para no te van a cobrar nada para
+
+[00:21:12]
+probarte tú te van a poner las
+
+[00:21:13]
+estadísticas y todo ahí en el panel y tú
+
+[00:21:16]
+te vas a probar en demo por ejemplo si
+
+[00:21:18]
+si si tú te sientes ya
+
+[00:21:21]
+bueno para hacer una prueba pero no
+
+[00:21:23]
+quieres pagar porque pero quieres saber
+
+[00:21:25]
+cómo saliste si todo como está
+
+[00:21:26]
+funcionando tu estrategia etcétera
+
+[00:21:29]
+etcétera tú dices puedo hacer una prueba
+
+[00:21:31]
+de 10.000 y ellos te la dan lo único que
+
+[00:21:33]
+tiene es que son 15 días en lugar de 30
+
+[00:21:36]
+porque son las son pruebas gratis pero
+
+[00:21:39]
+pues tú con 15 días puede sacar una
+
+[00:21:40]
+estadística pues si tú dices yo saqué un
+
+[00:21:42]
+5% en 15 días pues si estoy capaz para
+
+[00:21:45]
+sacar un 10% en los 30 eso es lo que
+
+[00:21:48]
+cambie
+
+[00:21:49]
+y ahí está respecto al
+
+[00:21:52]
+efe tm o tienen alguna otra pregunta
+
+[00:21:55]
+este me dicen si tienen alguna otra
+
+[00:21:59]
+pregunta me lo dejan ahí en el chat o me
+
+[00:22:01]
+dice vamos
+
+[00:22:03]
+rápidamente con lo que es trader central
+
+[00:22:05]
+que es el espacio el link también ahí
+
+[00:22:08]
+hace poquito tienen ahorita y es una
+
+[00:22:10]
+promoción yo estoy haciendo una prueba
+
+[00:22:11]
+de fondeo con ellos tiene una
+
+[00:22:13]
+programación de 30 por ciento de
+
+[00:22:15]
+descuento es ese la promo que están
+
+[00:22:18]
+ellos agarrando lo son las mismas reglas
+
+[00:22:21]
+que en mayores son muy muy parecidas las
+
+[00:22:24]
+mismas reglas tienes que hacer un
+
+[00:22:26]
+algo nuevo que tienen diferentes que
+
+[00:22:29]
+ellos tienen a cuentas de cinco mil
+
+[00:22:30]
+dólares
+
+[00:22:32]
+además no la tienen ellos tiene acceso
+
+[00:22:34]
+una de cinco mil para la gente que tenga
+
+[00:22:37]
+un menos capital todavía ya de plano
+
+[00:22:39]
+entonces ellos tienen 30 días de periodo
+
+[00:22:42]
+de prueba este 10 días mínimos el
+
+[00:22:46]
+apalancamiento si es un poquito más más
+
+[00:22:48]
+fuerte es 1 200 este igual tienes que
+
+[00:22:52]
+hacerte un 8 por ciento y no tienes que
+
+[00:22:53]
+perder un 10 por ciento y el 5 por
+
+[00:22:55]
+ciento día
+
+[00:22:57]
+el límite de día o sea que no tienes que
+
+[00:22:59]
+violar lo tienen el 50% de los días de
+
+[00:23:02]
+que si tú violas este este 5% al día
+
+[00:23:04]
+pero tú tienes 50 por ciento de los días
+
+[00:23:06]
+positivos que te dejan de lo valen y el
+
+[00:23:11]
+segundo lo que cambie también otra
+
+[00:23:13]
+cosita que cambia que en lugar de en la
+
+[00:23:15]
+segunda etapa en lugar de hacer este un
+
+[00:23:18]
+en lugar de tu hacer un este un 5% tú
+
+[00:23:22]
+tienes un 4 por ciento de días por
+
+[00:23:25]
+ejemplo la de con la de 5.000 están 38
+
+[00:23:29]
+dólares y la de 10.000 ahorita les va a
+
+[00:23:32]
+decir está en 54 dólares esto ya lo
+
+[00:23:35]
+están contando con el descuento por eso
+
+[00:23:37]
+lo están tachando tienes un descuento
+
+[00:23:38]
+solamente en tu primera prueba de fondeo
+
+[00:23:40]
+pero les dejo un tip si ustedes no pasan
+
+[00:23:43]
+pues pueden registrarse con otro correo
+
+[00:23:45]
+y les van a baje el descuento no sabemos
+
+[00:23:48]
+dónde cuánto hasta el descuento ahorita
+
+[00:23:49]
+estamos a 28 de abril
+
+[00:23:52]
+del 2022 si usted ve en este vídeo en
+
+[00:23:55]
+2023 o en otro mes a lo mejor ya no está
+
+[00:23:57]
+el descuento ahorita los que lo estén
+
+[00:23:59]
+viendo recientemente está el descuento
+
+[00:24:01]
+del 30 por ciento y personalmente les
+
+[00:24:04]
+digo yo estoy haciendo una prueba de
+
+[00:24:05]
+fondeo con ellos de 10 mil dólares
+
+[00:24:07]
+porque no me fiaba de la compañía y
+
+[00:24:10]
+quería probar entonces probablemente si
+
+[00:24:12]
+me va bien con la compañía este esté
+
+[00:24:14]
+haciendo una prueba ya un poquito más
+
+[00:24:16]
+grande igual me va a registrar con otro
+
+[00:24:18]
+correo para que me valga en el descuento
+
+[00:24:19]
+para aprovechar por ejemplo la de
+
+[00:24:22]
+100.000 fíjense les está saliendo en 300
+
+[00:24:24]
+dólares mientras que en
+
+[00:24:26]
+fm o les va a salir mucho más caro
+
+[00:24:29]
+fíjense se los enseñó rapidísimo
+
+[00:24:32]
+rapidísimo rapidísimo
+
+[00:24:34]
+cien mil dólares le pones aquí cien mil
+
+[00:24:37]
+dólares y te está saliendo en 540 euros
+
+[00:24:40]
+y acá este está saliendo en a les puso
+
+[00:24:44]
+una gráfica en 300 200 dólares
+
+[00:24:46]
+diferencias bastante bastante y cuánto
+
+[00:24:49]
+nos sale la de 100 mil para nomás para
+
+[00:24:51]
+acompañar no está saliendo en 500
+
+[00:24:53]
+dólares la prueba de fondeo entonces si
+
+[00:24:56]
+son 200 dólares de diferencia entonces
+
+[00:24:59]
+para que aprovechen ahí los que quieran
+
+[00:25:01]
+tomar alguna prueba de donde esté y es
+
+[00:25:03]
+básicamente lo mismo funciona muy
+
+[00:25:06]
+parecido y nomás ellos agregaron algunas
+
+[00:25:09]
+otras cositas su paneles y todo eso pero
+
+[00:25:11]
+eso ya no nos interesa lo que nos
+
+[00:25:13]
+interesa la prueba en sí y pues para los
+
+[00:25:15]
+que tengan un poquito capital pues no
+
+[00:25:17]
+hay pretexto 38 dólares y es muy barato
+
+[00:25:20]
+de plan yo recomiendo que por lo menos
+
+[00:25:22]
+operen con 10 mil que es más profesional
+
+[00:25:24]
+y ya los que tengan chance de quedarse
+
+[00:25:26]
+con 25 con 50 entre más capital tengan
+
+[00:25:29]
+más capital el sea para calar se puede
+
+[00:25:31]
+mucho mejor
+
+[00:25:33]
+tal vez no se sientan tan capacitados o
+
+[00:25:35]
+incluso si quieren probar pues prevén
+
+[00:25:37]
+con 5000 los que sean realmente muy
+
+[00:25:38]
+nuevos
+
+[00:25:41]
+y ahí también se pierde el dinero si se
+
+[00:25:43]
+pierde las reglas en efecto no puedes
+
+[00:25:45]
+volver a probarlo en fm o no
+
+[00:25:48]
+en todas las compañías y rompe las
+
+[00:25:50]
+reglas en las tres y rompe las reglas de
+
+[00:25:52]
+pérdida máxima de diaria y pérdida
+
+[00:25:55]
+máxima total de la cuenta ya no te
+
+[00:25:57]
+regresa en el dinero en fm o chip nfc
+
+[00:26:00]
+emails por ippon en las dos compañías si
+
+[00:26:04]
+tú pasas la prueba en el primer retiro
+
+[00:26:07]
+que tú hagas por ejemplo tú tienes un
+
+[00:26:09]
+profit de 100 en el primer retiro te
+
+[00:26:10]
+regresan lo que costó la cuenta o sea
+
+[00:26:12]
+que la cuenta te sale totalmente gratis
+
+[00:26:14]
+1 para turno para hacer nada como el
+
+[00:26:17]
+índice está fondeado gratis como quien
+
+[00:26:19]
+dice si tú pasas la prueba en esta
+
+[00:26:21]
+compañía entre del central tengo
+
+[00:26:23]
+entendió que no que no te regresan nada
+
+[00:26:25]
+pero bueno igual es más barato y
+
+[00:26:27]
+accesible ellos tienen otros tipos de
+
+[00:26:29]
+cuentas como les decían también mayores
+
+[00:26:32]
+fon pero no vamos a indagar ahorita en
+
+[00:26:34]
+las cuentas porque si no se me haría un
+
+[00:26:36]
+vídeo muy largo
+
+[00:26:37]
+ya después de mí que si tienen el de
+
+[00:26:40]
+plano muchos inquietud sobre estas tipo
+
+[00:26:41]
+de cuentas como el
+
+[00:26:43]
+hotel ahí están la que es instantánea
+
+[00:26:46]
+que no haces pruebas ni nada pero te dan
+
+[00:26:48]
+una cuenta ya con capital ya me pueden
+
+[00:26:50]
+decir no pero ahorita es el chal en el
+
+[00:26:52]
+challenger de que más vale la pena les
+
+[00:26:54]
+puede decir desde mi experiencia
+
+[00:26:56]
+tienen alguna otra preguntita si no ya
+
+[00:26:59]
+lo dejamos por aquí y no estaríamos
+
+[00:27:02]
+viendo la próxima probablemente
+
+[00:27:03]
+estaríamos viendo ya indagando más para
+
+[00:27:07]
+más profundo de cómo pasar alguna prueba
+
+[00:27:09]
+de fondeo para los que son nuevos y les
+
+[00:27:11]
+va a dar tips yo que ya tengo un poquito
+
+[00:27:13]
+más de experiencia no voy a decir que
+
+[00:27:15]
+tengo mucha experiencia pero sí ya por
+
+[00:27:17]
+lo menos he pasado una prueba de fondeo
+
+[00:27:19]
+de diez mil en my forest phone y por ahí
+
+[00:27:22]
+les pide mi certificado hace hace rato
+
+[00:27:24]
+ya
+
+[00:27:25]
+también se pierde el dinero
+
+[00:27:28]
+si me ayudas a pasar una de diez mil
+
+[00:27:31]
+jajaja nada amigos
+
+[00:27:33]
+no tenemos esos servicios
+
+[00:27:34]
+nosotros tenemos ojos tenemos el
+
+[00:27:36]
+servicio de que le damos clases
+
+[00:27:39]
+y si no la pasamos por ustedes pero les
+
+[00:27:42]
+damos clases y les estamos asesorando
+
+[00:27:45]
+para todos los que estén pasando su
+
+[00:27:47]
+prueba de fondeo de hecho
+
+[00:27:49]
+tienen al interno un mensaje no nosotros
+
+[00:27:54]
+ya tenemos varios traders que nosotros
+
+[00:27:56]
+enseñamos y en aquí en la academia y ya
+
+[00:28:00]
+están fondeados ya tienen pruebas de
+
+[00:28:02]
+fondeo incluso ahorita tenemos un
+
+[00:28:03]
+compañero que fue entrenado que se
+
+[00:28:05]
+entrenó con nosotros y él ya tiene una
+
+[00:28:07]
+cuenta de 50 mil dólares o sea yo no
+
+[00:28:11]
+tengo una cuenta de 50 mil dólares y el
+
+[00:28:13]
+muchacho se entrenó con nosotros como
+
+[00:28:15]
+nuestras clases todos los conceptos los
+
+[00:28:18]
+está aplicando la estrategia lo que
+
+[00:28:19]
+nosotros llevamos y él ya tiene una
+
+[00:28:21]
+cuenta de 50 mil de 8 ahora le está
+
+[00:28:23]
+compartiendo una captura de pantalla que
+
+[00:28:24]
+él ya tenía este se sacó 3 se ganó hoy
+
+[00:28:28]
+tres mil dólares en su prueba de fondeo
+
+[00:28:30]
+estaba haciendo un prophete de tres mil
+
+[00:28:32]
+dólares el día de hoy el portal o sea él
+
+[00:28:35]
+ya me pasó como quien dice nosotros le
+
+[00:28:37]
+enseñamos y a lo mejor al shinsei no
+
+[00:28:40]
+porque el sencillo si están manejando
+
+[00:28:41]
+clases este pruebas cuentan mucho más
+
+[00:28:44]
+grandes pero por lo menos a mi hija me
+
+[00:28:47]
+pasó el muchacho entonces para que vean
+
+[00:28:49]
+que si se puede y es cuestión de que
+
+[00:28:51]
+cada quien tiene su proceso de
+
+[00:28:53]
+aprendizaje y es cuestión de que le
+
+[00:28:54]
+eches ganas no es cada quien es así
+
+[00:28:58]
+pueden si se puede entonces en ese
+
+[00:29:00]
+aspecto si tienes dudas david te podemos
+
+[00:29:02]
+ayudar en cuanto a las clases en cuanto
+
+[00:29:05]
+a nosotros pasarte la prueba fue un de
+
+[00:29:06]
+bidart el hallazgo la pasada no hacemos
+
+[00:29:08]
+eso solamente también tener si quieres
+
+[00:29:11]
+tú llevar una mentoría 11 donde yo
+
+[00:29:13]
+quieres que te enseñe personalizadamente
+
+[00:29:15]
+como le hice pasar a pasar la prueba
+
+[00:29:17]
+dentro de un plan específico para pasar
+
+[00:29:20]
+la prueba también podemos hacerlo
+
+[00:29:21]
+solamente si te interesa pues cualquier
+
+[00:29:24]
+las dos cosas me mandas un mensaje ahí
+
+[00:29:25]
+el telegraph y también los que me estén
+
+[00:29:28]
+viendo en youtube tienen la misma opción
+
+[00:29:29]
+también hay en pueden tirar en telegram
+
+[00:29:32]
+y ahí les estamos ayudando si no quieren
+
+[00:29:35]
+meterse ni pagar ni ir a las clases ni
+
+[00:29:37]
+nada no hay ningún problema nosotros no
+
+[00:29:40]
+tenemos ni un problema ni los
+
+[00:29:41]
+presionamos ni que estudien con nosotros
+
+[00:29:44]
+simplemente por los resultados ahí están
+
+[00:29:46]
+hablan por sí solos y y las personas que
+
+[00:29:49]
+se están entregando con nosotros la
+
+[00:29:50]
+mayoría de las personas están fundiendo
+
+[00:29:52]
+de hecho hay poquitas personas que hemos
+
+[00:29:54]
+entrenado nosotros que no se han
+
+[00:29:56]
+fondeado casi todos los que las personas
+
+[00:29:59]
+que estamos entrenando esto están
+
+[00:30:00]
+fondeando ya
+
+[00:30:03]
+de hablar al interno entonces ya que
+
+[00:30:05]
+hace un año en esto y nunca ha sido
+
+[00:30:07]
+rentable perfecto me tiras al interno y
+
+[00:30:10]
+nos ponemos de acuerdo de todo de
+
+[00:30:12]
+cualquier cosa de duda que tengas
+
+[00:30:14]
+entonces muchas gracias a david ya
+
+[00:30:16]
+sebastián que aguantaron ahí todo todo
+
+[00:30:19]
+el vídeo y toda la info igual esté ahí
+
+[00:30:24]
+esperemos con próximas cositas para el
+
+[00:30:27]
+canal y para el telegrama y vamos a
+
+[00:30:29]
+estar dándole duro entonces voy a estar
+
+[00:30:32]
+tratando de darle clases más más seguido
+
+[00:30:34]
+sobre diferentes cosas para que les
+
+[00:30:37]
+ayude en su trading este iba a ser
+
+[00:30:39]
+gratis no creas que les estamos cobrando
+
+[00:30:41]
+ni nada estamos dando la información
+
+[00:30:43]
+gratis desde nuestra experiencia claro y
+
+[00:30:45]
+siempre con cosas que yo ya he probado
+
+[00:30:47]
+nunca les voy a andar dando cosas nomás
+
+[00:30:50]
+por dárselas no si yo les digo que estas
+
+[00:30:52]
+tres compañías pagan y son buenas es
+
+[00:30:54]
+porque yo las tres compañías ya les he
+
+[00:30:56]
+probado las tres empresas las he probado
+
+[00:30:58]
+y sé que no son una estafa y tengan por
+
+[00:31:01]
+seguro que qué bueno
+
+[00:31:04]
+después puede que si los estaban vea
+
+[00:31:07]
+pero pero no creaba son compañías muy
+
+[00:31:09]
+serias no vaya a ser que después de
+
+[00:31:12]
+cristian corruptos algo y esta final la
+
+[00:31:15]
+gente no pero no a mí no me no es tapado
+
+[00:31:18]
+en lo que respecta y todos los traders
+
+[00:31:20]
+la mayoría o se han soldado con efe con
+
+[00:31:22]
+mayores fans o con fm o con trader
+
+[00:31:24]
+central tengo ya 23 amigos que están
+
+[00:31:28]
+haciendo pruebas ahí
+
+[00:31:29]
+bueno chicos lo vamos a dejar por aquí
+
+[00:31:31]
+un saludo a los dos un saludo a todos
+
+[00:31:34]
+los que me están viendo por youtube un
+
+[00:31:36]
+saludo a todos los que estén por te
+
+[00:31:37]
+alegran y nos estaremos viendo hasta la
+
+[00:31:40]
+próxima bye
+```

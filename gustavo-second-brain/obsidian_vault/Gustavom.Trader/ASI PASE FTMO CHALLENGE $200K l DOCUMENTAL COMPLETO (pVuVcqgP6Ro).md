@@ -1,0 +1,1081 @@
+---
+source_id: YT_CANAL_02_pVuVcqgP6Ro
+video_id: pVuVcqgP6Ro
+channel: "Gustavom.Trader"
+published_at: 2024-07-08
+url: https://www.youtube.com/watch?v=pVuVcqgP6Ro
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 8
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# ASI PASE FTMO CHALLENGE $200K l DOCUMENTAL COMPLETO
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=pVuVcqgP6Ro)
+
+## Transcript
+
+```
+[00:00:00]
+Hola a todos Sean bienvenidos a un nuevo
+
+[00:00:02]
+video esta vez trayéndoles un documental
+
+[00:00:05]
+de cómo pasé una cuenta de 200,000 con
+
+[00:00:09]
+ftmo en este video les voy a traer todo
+
+[00:00:12]
+el desglose de cada uno de los trs de
+
+[00:00:14]
+manera totalmente transparente y también
+
+[00:00:16]
+les traeré mi experiencia qué es lo que
+
+[00:00:19]
+hice para poder pasar esas dos fases de
+
+[00:00:22]
+ftmo y Bueno chicos estamos aquí en este
+
+[00:00:25]
+bello documental Antes que nada decirles
+
+[00:00:28]
+que se suscriban a este bello y hermoso
+
+[00:00:30]
+canal también me puedes seguir en
+
+[00:00:32]
+Instagram y en Telegram que están abajo
+
+[00:00:34]
+en la descripción porque ahí estuve
+
+[00:00:36]
+documentando todo en vivo inclusive
+
+[00:00:38]
+mandé mandé señales de entrada de cada
+
+[00:00:41]
+uno de los trads que tomé Entonces en
+
+[00:00:43]
+este video les vamos a desglosar cada
+
+[00:00:47]
+paso del ft mod challenge de 200k
+
+[00:00:50]
+Primero lo primero aquí tenemos los dos
+
+[00:00:52]
+certificados Actualmente estoy esperando
+
+[00:00:54]
+que Eh me manden el contrato para
+
+[00:00:57]
+firmarlo y que me den mi cuenta real
+
+[00:00:59]
+solamente pero ya Están pasados están
+
+[00:01:01]
+verificados por aquí tienen este la
+
+[00:01:04]
+verificación y y el ftmo challenge
+
+[00:01:07]
+pueden escalar Igualmente eh el código
+
+[00:01:10]
+QR y van a ver ustedes que es totalmente
+
+[00:01:13]
+transparente igual aquí estoy en mi
+
+[00:01:14]
+cuenta de ftmo Y ahorita también igual
+
+[00:01:17]
+vamos a pasar a ver cada una de las
+
+[00:01:19]
+cuentas y vamos a ver cada uno de los
+
+[00:01:21]
+trs también pues bueno el el día de hoy
+
+[00:01:24]
+3 de Julio eh logramos pasar ya el la
+
+[00:01:28]
+verificación el el 5 de junio logramos
+
+[00:01:32]
+pasar este el ftm challenge la fase uno
+
+[00:01:36]
+entonces Vamos allá con lo que son las
+
+[00:01:39]
+cuentas Bueno chicos acá estamos en mi
+
+[00:01:41]
+panel eh yo no había hecho solo hice una
+
+[00:01:44]
+cuenta de 10,000 hace como creo que un
+
+[00:01:46]
+año o dos en 2022 creo que fue 2s años y
+
+[00:01:50]
+pasé la fase uno pero la fase dos no
+
+[00:01:52]
+nunca había estado fondeado con ftmo
+
+[00:01:54]
+puedo decir que mi experiencia es
+
+[00:01:56]
+totalmente buena con ftmo tien muy buen
+
+[00:01:59]
+spread el
+
+[00:02:00]
+el broker es muy bueno el soporte
+
+[00:02:03]
+también ha sido bueno este Lo único es
+
+[00:02:05]
+que es un poco caro Y si hay un poquito
+
+[00:02:08]
+más de dificultad en torno a ese 8 o 10%
+
+[00:02:12]
+que aquí te piden Entonces ese 2% créeme
+
+[00:02:14]
+que psicológicamente sí se siente
+
+[00:02:16]
+bastante torno que la estás pasando la
+
+[00:02:18]
+cuenta Sí se nota se nota algo Se nota
+
+[00:02:21]
+se nota Bueno pues vamos a ir primero
+
+[00:02:23]
+con lo que es la fase número uno para yo
+
+[00:02:26]
+explicarles cada uno de los trads en
+
+[00:02:28]
+esta fase número uno en la fase número
+
+[00:02:30]
+uno tuvimos un 100% de Win rate la
+
+[00:02:33]
+cuenta acaba recalcar que de esta ftmo
+
+[00:02:35]
+es cuenta swing igual si tienen algunas
+
+[00:02:38]
+preguntas con detalles sobre eso sobre
+
+[00:02:40]
+qué cu comprar o lo que sea me pueden
+
+[00:02:43]
+escribir en los comentarios o en
+
+[00:02:44]
+instagram o en cualquier grupo de
+
+[00:02:46]
+Telegram o de WhatsApp cuenta swing le
+
+[00:02:49]
+hicimos los 20,000 100% de Win rate
+
+[00:02:51]
+hicimos cuatro trades que en realidad
+
+[00:02:54]
+fueron tres porque fueron tres trades en
+
+[00:02:56]
+realidad aquí están
+
+[00:02:58]
+7528 5 1275
+
+[00:03:02]
+7356 este de aquí fue un break even este
+
+[00:03:04]
+primero que está aquí fue un break even
+
+[00:03:06]
+y este segundo fue que me que cuando
+
+[00:03:09]
+cerré les conté la anécdota cerré Y me
+
+[00:03:12]
+faltaban $0 para completar todo el
+
+[00:03:15]
+target y abrí rápidamente una posición y
+
+[00:03:17]
+rápidamente la cerré solamente para
+
+[00:03:19]
+alcanzar esos $ que me faltaban Aquí
+
+[00:03:22]
+está el tiempo de duración que no les
+
+[00:03:23]
+miento fíjense 49 segundos Este sí fue
+
+[00:03:25]
+un break even Y a partir de aquí en esta
+
+[00:03:28]
+fase tuvimos 100% de Win rate No
+
+[00:03:30]
+fallamos ni una sola operación eh tasa
+
+[00:03:33]
+de éxito 100% Aquí está el balance aquí
+
+[00:03:36]
+están todas las estadísticas Entonces el
+
+[00:03:37]
+beneficio promedio Igualmente lo que
+
+[00:03:39]
+queremos ir a ver es cada uno de los
+
+[00:03:41]
+trades Aquí están los trades pero los
+
+[00:03:43]
+tengo acá en trading View para
+
+[00:03:44]
+desglosarlo Bueno chicos acá están los
+
+[00:03:46]
+primeros dos trades del ftmo challenge
+
+[00:03:49]
+de 200k Así es como gané
+
+[00:03:52]
+12,631 con estas dos operaciones Primero
+
+[00:03:56]
+este es el pequeño análisis que voy a
+
+[00:03:58]
+hacer acá Así es como gané
+
+[00:04:02]
+12631 en nuestra fase uno de ftmo
+
+[00:04:05]
+challenge qué teníamos en el precio
+
+[00:04:07]
+teníamos un quiebre estructural después
+
+[00:04:09]
+teníamos este punto fractal simplemente
+
+[00:04:12]
+analizamos esta zona Premium donde yo
+
+[00:04:14]
+estuve entrando antes de de que
+
+[00:04:17]
+sucediera este este movimiento yo estuve
+
+[00:04:19]
+entrando en este rompimiento de
+
+[00:04:20]
+estructura y en este pequeño testeo pero
+
+[00:04:22]
+el precio se quedó poco de llegar a me
+
+[00:04:24]
+take profit y se regresó le sacan
+
+[00:04:26]
+breakeven y después yo vuelvo a entrar
+
+[00:04:29]
+aquí otra vez porque creía que la
+
+[00:04:31]
+dirección podría llegar a ser bajista
+
+[00:04:33]
+después que hace el precio sube un poco
+
+[00:04:35]
+más yo estaba protegido por encima de
+
+[00:04:37]
+este High que era el High importante de
+
+[00:04:39]
+esa estructura y meto otra operación por
+
+[00:04:42]
+aquí más o menos meto otra operación Y
+
+[00:04:45]
+este gracias a este 1% y este 2% que
+
+[00:04:49]
+metí por acá es que conseguimos hacer
+
+[00:04:53]
+12,631 en esta operación y fue bastante
+
+[00:04:56]
+buena es un Setup de clase a que me
+
+[00:04:58]
+gusta muchísimo y por eso Considero que
+
+[00:05:01]
+le metí ese riesgo Me gusta mucho el
+
+[00:05:04]
+precio rompió estas estructuras internas
+
+[00:05:06]
+y después se fue a la baja y así ganamos
+
+[00:05:10]
+12,631 en este primer Trade Bueno pues
+
+[00:05:12]
+así ganamos
+
+[00:05:14]
+7,528 en el siguiente Trade y pasamos
+
+[00:05:17]
+nuestra fase número uno de ftmo eh qué
+
+[00:05:21]
+teníamos en el análisis teníamos el
+
+[00:05:23]
+precio había llegado a tomar esta
+
+[00:05:25]
+liquidez de este punto que estaba por
+
+[00:05:27]
+acá tomó liquidez llegó a este punto de
+
+[00:05:29]
+interés que era bastante importante
+
+[00:05:31]
+luego lo que posteriormente hace el
+
+[00:05:34]
+precio es romperme estas estructuras
+
+[00:05:37]
+aquí yo tenía actualmente este fractal
+
+[00:05:39]
+este fractal que es roto aquí me rompe
+
+[00:05:42]
+las estructuras me regresa en esta en
+
+[00:05:44]
+esta acción de precio que genera este
+
+[00:05:46]
+mínimo este máximo Y a partir de ahí yo
+
+[00:05:49]
+sé que probablemente el precio puede
+
+[00:05:51]
+volverse alcista en gran probabilidad
+
+[00:05:53]
+hace un pequeño retroceso una inducción
+
+[00:05:55]
+de liquidez hace este retroceso y en ese
+
+[00:05:58]
+siguiente retroceso donde yo me monto a
+
+[00:06:01]
+la alza en este bello hermoso Trade y
+
+[00:06:04]
+así ganamos 7528 e nuestro Target era
+
+[00:06:08]
+toda esta liquidez que tenía el precio
+
+[00:06:09]
+por este lado y fue un hermoso Trade
+
+[00:06:12]
+Bueno chicos Estamos por acá para ver lo
+
+[00:06:14]
+que es la fase número dos la fase número
+
+[00:06:16]
+uno la verdad es que la pasamos bastante
+
+[00:06:19]
+bien bastante mejor pero la fase número
+
+[00:06:21]
+dos se nos complicó algo complicó un
+
+[00:06:24]
+poco Entonces vamos a ver la fase número
+
+[00:06:26]
+dos bueno como pueden ver la fase número
+
+[00:06:28]
+dos se complicó un poco más este la
+
+[00:06:31]
+iniciamos el el el 12 de junio y la la
+
+[00:06:37]
+iniciamos la fase número dos La
+
+[00:06:38]
+iniciamos el 12 de junio y la terminamos
+
+[00:06:40]
+este 7 este 3 de Julio Perdón entonces
+
+[00:06:43]
+eh se nos complicó un poquito más
+
+[00:06:45]
+empezamos con una racha perdedora aquí
+
+[00:06:47]
+está la Gráfica por ejemplo este y Bueno
+
+[00:06:50]
+aquí está ya todo aprobado pero lo que
+
+[00:06:52]
+queremos ver son los trads aquí tuve una
+
+[00:06:54]
+tasa de éxito del
+
+[00:06:55]
+44
+
+[00:06:57]
+44.44 este aquí están todas las
+
+[00:07:00]
+estadísticas los lotes los resultados
+
+[00:07:02]
+pero lo que queremos es ver el desglose
+
+[00:07:04]
+del Trade cabe recalcar que yo solamente
+
+[00:07:06]
+opero nasdaq 100 verad no pero otro par
+
+[00:07:08]
+como pueden ver van a ver ustedes que
+
+[00:07:10]
+todas las operaciones son en el nasdaq
+
+[00:07:12]
+Aquí también las la el promedio de los
+
+[00:07:14]
+de las operaciones Cuánto duran y si se
+
+[00:07:16]
+fijan me metí en una racha Empecé con
+
+[00:07:18]
+una racha negativa de 1 2 3 4 cco trades
+
+[00:07:22]
+no fueron exactamente cinco trads pero
+
+[00:07:25]
+sí fueron este algunas posiciones que
+
+[00:07:27]
+ahorita les voy a explicar en el
+
+[00:07:28]
+desglose pero pero después logramos
+
+[00:07:30]
+levantar con una racha de una dos tres
+
+[00:07:32]
+cuatro posiciones o cuatro trs al al
+
+[00:07:35]
+hilo ganados y de gran cantidad de de de
+
+[00:07:39]
+porcentaje en promedio 1 2s 2s Bueno
+
+[00:07:42]
+este 2s 7 horas 2 6 2 días 2s días 2
+
+[00:07:46]
+días 3 días en promedio entre un a 3
+
+[00:07:49]
+días por operación al menos que sea un
+
+[00:07:51]
+stop loss en los stop loss s me fui un
+
+[00:07:52]
+poquito más rápido en algunos pero bueno
+
+[00:07:54]
+estos son los trads de El ftmo challenge
+
+[00:07:57]
+si se fijan está todo aprobado tengo un
+
+[00:07:59]
+76 por de porcentaje de consistencia
+
+[00:08:02]
+cuenta swing está todo excelente con
+
+[00:08:05]
+este ftm challenge todo transparente
+
+[00:08:08]
+aparte lo estuve documentando como les
+
+[00:08:09]
+digo en Telegram y En mi Instagram que
+
+[00:08:11]
+me pueden seguir por ahí pequeño spam y
+
+[00:08:13]
+vamos a ver los TR Bueno chicos aquí
+
+[00:08:14]
+tenemos el primer Trade del nasdaq eh
+
+[00:08:17]
+después de haber pasado la fase uno el
+
+[00:08:18]
+último Trade ganador aquí tenemos el
+
+[00:08:20]
+primer Trade perdedor realmente Fíjate
+
+[00:08:23]
+en este Trade que podemos aprender
+
+[00:08:24]
+porque estoy mostrando mis ganancias y
+
+[00:08:27]
+mis pérdidas la primera fase no perdimos
+
+[00:08:29]
+ni una ahí está los resultados están ahí
+
+[00:08:31]
+publicados la segunda fase sí perdimos
+
+[00:08:35]
+bastantes operaciones o entonces voy a
+
+[00:08:37]
+explicar un poco por encima qué podemos
+
+[00:08:40]
+aprender de aquí fíjense que el precio
+
+[00:08:41]
+agarró una tendencia fuerte alcista Yo
+
+[00:08:43]
+creía que por aquí podría dar un
+
+[00:08:45]
+retroceso no lo hizo aquí realmente en
+
+[00:08:47]
+este punto que estamos chicos eh yo
+
+[00:08:50]
+entré pero mi estrategia no me estaba
+
+[00:08:52]
+dando entrada en ventas pero yo entré
+
+[00:08:54]
+por fomo a veces uno le pasa estee tipo
+
+[00:08:57]
+de cosas no tuve paciencia y entré este
+
+[00:08:59]
+Trade lo perdí por por mí mismo perdimos
+
+[00:09:02]
+un 2% perdí porque me adelanté porque no
+
+[00:09:05]
+debía haber entrado acá Este Trade que
+
+[00:09:07]
+entré por aquí mi estrategia sí me
+
+[00:09:09]
+estaba dando ventas qué pasó con estos
+
+[00:09:11]
+dos TR seguidos Gustavo estos dos dos TR
+
+[00:09:13]
+de aquí pues que yo le metí un 2% de la
+
+[00:09:16]
+de la cuenta a a ese otro Trade pero
+
+[00:09:19]
+este siguiente Trade decidí arriesgar
+
+[00:09:21]
+otro 1% porque yo de verdad creía que el
+
+[00:09:24]
+precio sí me iba a dar la razón pero no
+
+[00:09:26]
+me lo da entonces lo que sucede es que
+
+[00:09:28]
+pierdo un dos más un un pierdo un TR más
+
+[00:09:32]
+un dos que ya venía aquí termino un - 5%
+
+[00:09:36]
+verdad Y serían tres trad seguidos
+
+[00:09:38]
+perdiendo dos ideas de Trade una idea de
+
+[00:09:40]
+Trade por por mí mismo porque yo la
+
+[00:09:44]
+regué realmente y las otras porque mi
+
+[00:09:46]
+estrategia sí falló luego tenemos el
+
+[00:09:48]
+cuarto Trade que este cuarto Trade pasó
+
+[00:09:51]
+lo mismo con el de acá le metí un 2% y
+
+[00:09:54]
+luego decidí meterle un poquito más de
+
+[00:09:56]
+un 1% porque pensaba que en esta zona se
+
+[00:10:00]
+iba a revertir el precio Pero lo malo
+
+[00:10:02]
+que hice aquí lo que la regué es que
+
+[00:10:04]
+ajusté un poquito más del stop loss que
+
+[00:10:06]
+yo uso el precio me sacó y después se
+
+[00:10:09]
+dio la operación Pero estos serían los
+
+[00:10:12]
+últimos seis TR cinco trs Perdón que
+
+[00:10:16]
+perdimos como pueden ver aquí en la en
+
+[00:10:18]
+la Gráfica o en la tabla de los TR aquí
+
+[00:10:21]
+están 1 2 3 4 5 no hay ningún engaño
+
+[00:10:24]
+todo transparente para que ustedes vean
+
+[00:10:26]
+y vamos a comentar ahora los tres
+
+[00:10:28]
+ganadores bueno después de estos últimos
+
+[00:10:30]
+dos TR yo me levanto eh est Me
+
+[00:10:33]
+preguntarás Esto sí tenía entrada por
+
+[00:10:35]
+estrategia Sí mi estrategia realmente
+
+[00:10:37]
+falló una y dos veces pero yo metí
+
+[00:10:40]
+entradas dobles falló aquí y falló acá
+
+[00:10:42]
+pero después aquí en este punto me
+
+[00:10:44]
+volvió a dar otra entrada la tercera fue
+
+[00:10:46]
+la vencida para mi estrategia se
+
+[00:10:48]
+equivocó dos veces aquí yo lo que pasó
+
+[00:10:50]
+es que me equivoqué como les decía y en
+
+[00:10:53]
+esta de acá le metí doble aquí le metí
+
+[00:10:56]
+doble y acá le metí doble pero mi
+
+[00:10:57]
+estrategia sí se equivocó en est dos o
+
+[00:10:59]
+sea ejecuté bien yo pero al ejecutar
+
+[00:11:02]
+todo esto me quedé como menos o
+
+[00:11:04]
+Realmente si este Trade me salía mal
+
+[00:11:06]
+viol no pasaba la fase dos me la la la
+
+[00:11:11]
+viol como quien dice pero yo estaba
+
+[00:11:13]
+mentalmente positivo de todos modos y me
+
+[00:11:17]
+levanté me acuerdo de madrugada vi que
+
+[00:11:20]
+me Había tocado el Stop loss pasaron
+
+[00:11:22]
+habían pasado algunas horas de que me ha
+
+[00:11:24]
+tocado el Stop bloss Me levanto y mi
+
+[00:11:26]
+estrategia me está dando entrada en
+
+[00:11:28]
+venta verdad me estaba dando entrada en
+
+[00:11:30]
+ventas aquí fue un pequeño fake pero acá
+
+[00:11:33]
+ya me estaba dando entrada en ventas
+
+[00:11:35]
+Entonces entonces así fue como gané
+
+[00:11:38]
+6622 en ftmo challenge después de haber
+
+[00:11:41]
+tenido una racha de pérdidas logramos
+
+[00:11:43]
+recuperarnos Qué pasó aquí tenía dos
+
+[00:11:45]
+highs iguales el precio dos highs
+
+[00:11:47]
+iguales aquí en lower Time frame viene
+
+[00:11:50]
+el precio y me rompe algunas pequeñas
+
+[00:11:52]
+estructuras y el precio me deja esta
+
+[00:11:54]
+vela de confirmación simplemente entro a
+
+[00:11:56]
+dónde a tomar esta liquidez erá mitad
+
+[00:11:59]
+Target y a venir a este punto de interés
+
+[00:12:01]
+y así es como ganamos
+
+[00:12:03]
+6622 en nuestra fase dos de ftmo
+
+[00:12:07]
+challenge Bueno pues así es como ganamos
+
+[00:12:09]
+más de
+
+[00:12:10]
+12,000 casi
+
+[00:12:12]
+$1,000 en nuestro ftmo challenge fase 2
+
+[00:12:17]
+eh muy fácil qu qué veíamos en este
+
+[00:12:20]
+precio pues lo que veíamos es que había
+
+[00:12:21]
+tomado este queridísimo nasdaq toda esta
+
+[00:12:24]
+liquidez chicos que tenía por acá
+
+[00:12:26]
+después de haber llegado a tomar esa
+
+[00:12:28]
+liquidez de ahí principalmente estos dos
+
+[00:12:31]
+bajos iguales lo que hace el precio es
+
+[00:12:33]
+empezar a formar una estructura alcista
+
+[00:12:35]
+en lower Time frame hace un fallo de la
+
+[00:12:38]
+estructura y aquí decido meterme a la
+
+[00:12:40]
+alza da too este impulso la verdad es
+
+[00:12:43]
+que se quedó muy cercas de mi tp como a
+
+[00:12:45]
+10 15 20 puntos no llegó al a tomar
+
+[00:12:48]
+estos altos de aquí en este próximo
+
+[00:12:50]
+retroceso interpretamos que el precio ha
+
+[00:12:52]
+hecho una inducción de liquidez de estos
+
+[00:12:54]
+dos puntos de aquí lo que hace el precio
+
+[00:12:56]
+es tomar eh inducir Perdón esos dos
+
+[00:12:59]
+puntos y en el próximo retroceso nos
+
+[00:13:01]
+metemos exactamente aquí a la alta y
+
+[00:13:04]
+después el precio se va con todo me toma
+
+[00:13:06]
+el primer Take profit que era el que
+
+[00:13:09]
+teníamos por acá me saca por aquí y nos
+
+[00:13:11]
+toma el segundo Take profit con lo que
+
+[00:13:14]
+ganamos más de
+
+[00:13:15]
+$1,000 en este Trade de ftmo challenge
+
+[00:13:19]
+fase 2s y con este Trade chicos logramos
+
+[00:13:21]
+pasar nuestra fase número dos de ftmo
+
+[00:13:25]
+challenge y fondear y nos fondeamos con
+
+[00:13:27]
+$200,000 con este último Trade ganamos
+
+[00:13:32]
+7423 el razonamiento era simple el
+
+[00:13:35]
+precio venía aquí Haciendo una
+
+[00:13:37]
+estructura alcista deja esta Mecha que
+
+[00:13:39]
+reacciona el precio a este punto de
+
+[00:13:41]
+interés lo que hace el precio es hacer
+
+[00:13:43]
+un descuento tomar esta liquidez una vez
+
+[00:13:45]
+que vimos esa la toma de esa liquidez
+
+[00:13:47]
+vemos la ruptura de esta primera
+
+[00:13:49]
+estructura la ruptura de esta segunda
+
+[00:13:51]
+estructura el precio reteste y cuando
+
+[00:13:53]
+hace el rompimiento de la nueva
+
+[00:13:55]
+estructura nos metemos a la alza fíjense
+
+[00:13:57]
+Cómo se fue maravillos amente para
+
+[00:13:59]
+arriba ganamos
+
+[00:14:01]
+7423 y pasamos nuestra fase número dos
+
+[00:14:05]
+de ftmo challenge Pues có ven chicos el
+
+[00:14:08]
+desglose de los trad Yo espero que les
+
+[00:14:09]
+haya gustado bastante este yo espero que
+
+[00:14:12]
+les haya gustado bastante chicos el
+
+[00:14:14]
+desglose de los trads Ahí está ya somos
+
+[00:14:16]
+traders fondeados con ftmo Igualmente yo
+
+[00:14:19]
+en los próximos días les traeré nuevos
+
+[00:14:21]
+videos si retiro de esta empresa gracias
+
+[00:14:24]
+por haber estado aquí y nos estamos
+
+[00:14:26]
+viendo en un próximo video adiós
+```

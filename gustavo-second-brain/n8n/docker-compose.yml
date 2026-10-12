@@ -1,0 +1,26 @@
+services:
+  n8n:
+    image: docker.n8n.io/n8nio/n8n:latest
+    container_name: gustavo-n8n-local
+    restart: unless-stopped
+    ports:
+      # Bind to loopback only -- not reachable from the local network or internet.
+      - "127.0.0.1:5678:5678"
+    environment:
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - N8N_EDITOR_BASE_URL=http://localhost:5678/
+      - N8N_WEBHOOK_URL=http://localhost:5678/
+      - N8N_SECURE_COOKIE=false
+      - N8N_ENCRYPTION_KEY=${N8N_ENCRYPTION_KEY}
+      - GENERIC_TIMEZONE=America/Montevideo
+      - TZ=America/Montevideo
+    volumes:
+      # Named volume: workflows, credentials and n8n's internal DB survive restarts
+      # and `docker compose down` (only `docker compose down -v` would erase it).
+      - n8n_data:/home/node/.n8n
+
+volumes:
+  n8n_data:
+    name: gustavo_n8n_data

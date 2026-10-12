@@ -1,0 +1,1075 @@
+---
+source_id: YT_CANAL_02_4fjgBJia0G4
+video_id: 4fjgBJia0G4
+channel: "Gustavom.Trader"
+published_at: 2023-02-06
+url: https://www.youtube.com/watch?v=4fjgBJia0G4
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 9
+tags: [youtube, Gustavom-Trader, year/2023, status/synced]
+---
+
+# Por qué opero esta ESTRATEGIA y te sugiero que tú también lo hagas l SHARP SHOOTERS #trading
+
+[[Gustavom.Trader]] · [[2023]] · [Ver en YouTube](https://www.youtube.com/watch?v=4fjgBJia0G4)
+
+## Transcript
+
+```
+[00:00:01]
+[Música]
+
+[00:00:10]
+cuento O sea que el precio creó liquidez
+
+[00:00:13]
+acá y la liquidez tiene que estar sin
+
+[00:00:16]
+ser tomada o ese dinero tiene que estar
+
+[00:00:19]
+sin ser tomado y el precio formar un
+
+[00:00:21]
+descuento y después ir a tomar la
+
+[00:00:23]
+liquidez Esa es la idea de esta
+
+[00:00:25]
+estrategia para hacerlo más objetivo lo
+
+[00:00:27]
+lo hago con un vivo el fibo yo lo tengo
+
+[00:00:30]
+configurado
+
+[00:00:33]
+entre el 60 porque el 60 porque el 60 es
+
+[00:00:37]
+lo como la la más segura y muchas veces
+
+[00:00:40]
+el precio reteste al 50 el 50 de plano
+
+[00:00:42]
+no porque el ratio que tendría sería muy
+
+[00:00:44]
+bajo
+
+[00:00:44]
+en este caso yo me gusta el sesenta y el
+
+[00:00:48]
+77 pero hay un dilema a veces llega al
+
+[00:00:51]
+60 y no llega al 77 y hay veces que
+
+[00:00:55]
+que que que sucede eso entonces lo que
+
+[00:00:58]
+hago yo es dividir mi capital y meter
+
+[00:01:00]
+una entrada en el 60 y otra en el 77 ya
+
+[00:01:04]
+divido el porcentaje que la quiera que
+
+[00:01:06]
+la quiera hacer y ya por ejemplo ya por
+
+[00:01:08]
+ejemplo ahí una vez que el mercado formó
+
+[00:01:12]
+el ya formó los Lowe's ya ahí ya puedo
+
+[00:01:15]
+empezar a poner mis límites mis límites
+
+[00:01:19]
+en este caso mis ventas otra cosa es
+
+[00:01:22]
+importante chequear la estructura que
+
+[00:01:24]
+lleva el precio en este caso aquí yo sí
+
+[00:01:28]
+esperaba que el precio pudiera venir por
+
+[00:01:29]
+lo menos a este order blog como te digo
+
+[00:01:32]
+antes yo lo más tomaba la tomaba así a
+
+[00:01:35]
+lo o sea como Dios me daba a entender
+
+[00:01:37]
+Pero ahorita por ejemplo ya puedes ir
+
+[00:01:39]
+observando que el precio puede meterse a
+
+[00:01:42]
+esta zona que no que no ha mitigado ese
+
+[00:01:44]
+en balance que puede venir hasta área y
+
+[00:01:46]
+caer Entonces sí le meto un poquito de
+
+[00:01:48]
+análisis no la no la meto para tener más
+
+[00:01:51]
+grado de acierto y casi siempre suelo
+
+[00:01:54]
+tomarla a favor de la estructura en este
+
+[00:01:57]
+caso por ese contexto así la tomarían
+
+[00:01:59]
+ventas y ya esperaría ya yo me diría
+
+[00:02:03]
+mi punto de este High a este logo para
+
+[00:02:07]
+buscar el descuento y ya aquí estaría
+
+[00:02:09]
+metiendo un descuento en el 60
+
+[00:02:12]
+Perdón una entrada en el 60 y esta
+
+[00:02:16]
+entrada va aquí
+
+[00:02:18]
+y el tape profit siempre lo pongo en el
+
+[00:02:20]
+menos en el menos diez o diez por ciento
+
+[00:02:24]
+abajo de los en este caso serían los
+
+[00:02:27]
+Lowe's 10% solamente abajo la puedes
+
+[00:02:30]
+poner un poco más abajo Si ves el
+
+[00:02:32]
+contexto y todo pero para yo hacerla lo
+
+[00:02:34]
+más subjetivo posible la pongo en ese en
+
+[00:02:36]
+ese nivel la entrada y el Stop loss lo
+
+[00:02:39]
+pongo en el ciento diez por ciento Ahí
+
+[00:02:41]
+es donde pongo el Stop loss y hay otra
+
+[00:02:43]
+entrada que es la que me gusta un poco
+
+[00:02:46]
+más esta tiene mejor ratio en el 77%
+
+[00:02:50]
+y en el 110 entonces pongo dos como
+
+[00:02:53]
+quien dice a mí me gusta hacerlo así
+
+[00:02:55]
+para si el precio llega en el 60 y se va
+
+[00:02:57]
+con la mía pues se vaya si llega al si
+
+[00:02:59]
+llega al 77 y agárrala el 70 se vaya con
+
+[00:03:02]
+las dos y aquí ya pues yo estaría
+
+[00:03:04]
+ganando uno punto treinta y ocho y Dos
+
+[00:03:07]
+punto setenta y cuatro en este caso y
+
+[00:03:09]
+ahí Ahí ves cómo se activa
+
+[00:03:12]
+y aquí esta no tomo parciales en este
+
+[00:03:15]
+tipo de entradas dejó correr Hasta que
+
+[00:03:17]
+el precio haga lo suyo me saquen stop
+
+[00:03:19]
+los o me saquen no me gusta tomar
+
+[00:03:22]
+parciales porque son entradas muy cortas
+
+[00:03:24]
+muy muy chiquitas y ahí se dan entradas
+
+[00:03:27]
+De hecho estaba mirando y el día de hoy
+
+[00:03:30]
+se dieron bastantes Bueno creo que se
+
+[00:03:32]
+dieron como dos de esta
+
+[00:03:33]
+y hay capturar la liquidez y ya me
+
+[00:03:36]
+salimos nosotros y ahí tendríamos
+
+[00:03:38]
+arriesgando un uno por ciento tienes un
+
+[00:03:40]
+dos por ciento tienes un ratio de una
+
+[00:03:42]
+dos entre las dos si solamente tomas una
+
+[00:03:44]
+Pues tienes un uno punto treinta y ocho
+
+[00:03:46]
+si tomas solamente esta pero muchas de
+
+[00:03:49]
+las veces te vas a perder la entrada
+
+[00:03:50]
+tienes un uno a Dos punto setenta y
+
+[00:03:53]
+cuatro está bastante bien pero muchas de
+
+[00:03:55]
+las veces te vas a perder la entrada
+
+[00:03:57]
+entonces lo que yo hago aquí es la el
+
+[00:04:01]
+secreto es el riesgo Entonces el riesgo
+
+[00:04:03]
+es el que estoy apenas afinando cuánto
+
+[00:04:06]
+riesgo voy a meter en cada entrada para
+
+[00:04:07]
+para sacar el máximo beneficio
+
+[00:04:10]
+posible pues entonces Probablemente esta
+
+[00:04:13]
+la meta con menos riesgo y esta con más
+
+[00:04:15]
+estoy revisando eso pero así funcionaría
+
+[00:04:18]
+la
+
+[00:04:19]
+la estrategia
+
+[00:04:22]
+de hecho a ver vamos al día y la
+
+[00:04:26]
+original que la mire que la utilizaban
+
+[00:04:29]
+la mayoría era en el euro dólar pero
+
+[00:04:32]
+también funcionan en algunos otros pares
+
+[00:04:34]
+de
+
+[00:04:36]
+de forex de en el en el tema de los
+
+[00:04:42]
+índices no funciona tanto lo que estuve
+
+[00:04:44]
+viendo yo por ejemplo está la que se dio
+
+[00:04:46]
+el día de hoy fíjate fue en Nueva York
+
+[00:04:49]
+en London Close no sucedió nada nada
+
+[00:04:52]
+bueno Y también se pueden llegar a tomar
+
+[00:04:54]
+también
+
+[00:04:55]
+Lines por líneas de tendencia que estén
+
+[00:04:58]
+formadas así y que el precio venga
+
+[00:05:04]
+venga haciendo algo tal que sí entonces
+
+[00:05:07]
+buscamos algún tipo de descuento y para
+
+[00:05:10]
+abajo también este es muy típico también
+
+[00:05:12]
+el patrón de El patrón que te enseñé
+
+[00:05:14]
+cuando llega un punto de interés el
+
+[00:05:16]
+precio
+
+[00:05:17]
+hace este patrón llega a esta zona es la
+
+[00:05:21]
+confirmación te acuerdas que sí sí
+
+[00:05:24]
+es muy parecida o es totalmente igual o
+
+[00:05:27]
+sea que mides el el fractal y ya tomas
+
+[00:05:30]
+tu tu venta acá
+
+[00:05:33]
+entonces para que sepas que cuando veas
+
+[00:05:35]
+algo de ese estilo puedes atacar el
+
+[00:05:37]
+precio de esa manera
+
+[00:05:38]
+entras con esta si lo quieres si quieres
+
+[00:05:41]
+tomar el scalping o si te quieres ir a
+
+[00:05:43]
+la entrada
+
+[00:05:44]
+mejor pues está por ejemplo la que se
+
+[00:05:48]
+vino dando hoy
+
+[00:05:50]
+yo suelo tomar Londres o Nueva York en
+
+[00:05:52]
+mi caso Nueva York porque Londres pues
+
+[00:05:54]
+es imposible fíjate Está también cuando
+
+[00:05:56]
+hace el primer rompimiento de la
+
+[00:05:59]
+estructura
+
+[00:06:01]
+y el precio en este caso es el
+
+[00:06:04]
+destructor voz y el precio hizo la el la
+
+[00:06:10]
+trampa que ese es el patrón trampa el
+
+[00:06:13]
+famoso patrón que te digo que se deja
+
+[00:06:15]
+ahí ya solo yo Buscar el el descuento
+
+[00:06:19]
+pero en este caso no se dio se fue de
+
+[00:06:21]
+una entonces ahí pues no me activa y ya
+
+[00:06:23]
+está pero
+
+[00:06:25]
+es que lo que pasa es que aquí lo hizo
+
+[00:06:28]
+lo hizo antes Pero igualmente lo hizo
+
+[00:06:31]
+aquí pero lo de lo ideal lo ideal es que
+
+[00:06:35]
+este movimiento
+
+[00:06:37]
+digo al final El cabo el mercado lo va a
+
+[00:06:39]
+hacer como la le dé la gana pero al
+
+[00:06:41]
+final la ideal es que este movimiento
+
+[00:06:42]
+regrese aquí y aquí son de me gusta
+
+[00:06:45]
+agarrarles si te fijas coincide con ese
+
+[00:06:47]
+77.50 por eso lo configuré yo de esa
+
+[00:06:50]
+forma pero lo ideal es que el movimiento
+
+[00:06:52]
+cuando el mercado regrese aquí te la
+
+[00:06:54]
+está regalando te la está regalando está
+
+[00:06:57]
+súper regalada esa entrada y si aguanta
+
+[00:07:00]
+esa zona aquí te metes en compras y te
+
+[00:07:03]
+puedes ir a distribuir al menos diez por
+
+[00:07:06]
+ciento del alto
+
+[00:07:07]
+y ya tendrías casi siempre ahí te va a
+
+[00:07:10]
+dar una entrada uno a Dos punto y cacho
+
+[00:07:12]
+de base ya si tú te quieres ir más
+
+[00:07:15]
+arriba por cuestiones de estructura lo
+
+[00:07:17]
+que sea la puedes dejar correr
+
+[00:07:20]
+también se dio esta venta
+
+[00:07:22]
+el día martes en Nueva York está esta
+
+[00:07:26]
+venta deja si te fijas el mínimo viene
+
+[00:07:29]
+ya cayendo la estructura
+
+[00:07:32]
+deja el mínimo que está aquí la doble
+
+[00:07:38]
+en este caso la doble el doble piso el
+
+[00:07:42]
+doble piso acá tenía un doble techo por
+
+[00:07:44]
+eso también el ciento diez hay veces que
+
+[00:07:46]
+te va a sacar al 127 y se va a caer pero
+
+[00:07:49]
+ya no merece la pena esas entradas que
+
+[00:07:52]
+te saca el Stop no merece la pena porque
+
+[00:07:54]
+si ponemos un stop mucho más elevado
+
+[00:07:58]
+el riesgo beneficio se baja y no merece
+
+[00:08:01]
+la pena entonces aquí
+
+[00:08:03]
+ya ya una vez que el mercado por ejemplo
+
+[00:08:06]
+se encuentra aquí en esta área y ves que
+
+[00:08:09]
+el mercado empieza a regresar ya tú
+
+[00:08:12]
+trazas tu sigo del del High hacia donde
+
+[00:08:14]
+está haciendo el retroceso que sería en
+
+[00:08:17]
+este punto y ya buscas una distribución
+
+[00:08:19]
+de menos diez muchas veces se da al
+
+[00:08:22]
+menos veinte y tienes mejor ratio Pero
+
+[00:08:25]
+yo preferírmela segura al menos diez
+
+[00:08:27]
+Entonces ya lo puedes tú adaptar a como
+
+[00:08:30]
+te gusta a ti
+
+[00:08:31]
+también no sé si hay otro parque que lo
+
+[00:08:34]
+haga mejor y ya el Stop los siempre es
+
+[00:08:38]
+ahí Esta es la que yo tomo en el 60
+
+[00:08:42]
+y tomo otra en el 77 pero estoy viendo a
+
+[00:08:45]
+ver si la que tiene mejor ratio le meto
+
+[00:08:48]
+más riesgo y la que tiene menos le meto
+
+[00:08:50]
+menos O solamente tomo las de 77 lo que
+
+[00:08:54]
+pasa es que hay muchas muy buenas
+
+[00:08:55]
+entradas que se dan el 60 y ahí el
+
+[00:08:57]
+precio cae entonces hay que valorar
+
+[00:09:00]
+también eso son muchas cositas o sea
+
+[00:09:02]
+detallitos Pero al final El cabo Pues
+
+[00:09:03]
+tienes que hacer como un sistema de
+
+[00:09:05]
+reglas como todo haces un sistema de
+
+[00:09:08]
+reglas y ya le das y ahí se da la
+
+[00:09:10]
+entrada Casi nos toma poquita liquidez y
+
+[00:09:13]
+de ahí cae cuando estemos en rodado No
+
+[00:09:15]
+pasa nada tenemos que aguantar también
+
+[00:09:17]
+lo puedes Si miras por ejemplo un order
+
+[00:09:21]
+block que te confluya o lo que sea
+
+[00:09:24]
+también puedes tomar tus entradas así
+
+[00:09:28]
+la idea de hacer lo que pasa es que con
+
+[00:09:30]
+niveles de fibo se vuelve mucho más
+
+[00:09:31]
+objetivo no tienes que estar buscando el
+
+[00:09:34]
+order blog con impalance ni nada pues es
+
+[00:09:37]
+mucho más objetivo pero también si le
+
+[00:09:39]
+metes más tecnicismo puedes tener ratios
+
+[00:09:42]
+mucho mejores fíjate Esta es una tres
+
+[00:09:45]
+Y eso se dio a ver si encuentro otra acá
+
+[00:09:49]
+no hubo nada nada bueno aquí estaba esta
+
+[00:09:53]
+pero
+
+[00:09:56]
+no es que me llamara mucho la atención
+
+[00:09:58]
+pero este era el doble techo y
+
+[00:10:02]
+el descuento
+
+[00:10:05]
+sí se dio fíjate esta sería el 60
+
+[00:10:07]
+también estaba esa no la había mirado
+
+[00:10:09]
+pero tampoco no es tan de mis preferidas
+
+[00:10:13]
+esa al sesenta lo bueno también es que
+
+[00:10:18]
+poner el Stop los siempre y el tp donde
+
+[00:10:20]
+mismo aunque el recorrido sea menor o
+
+[00:10:23]
+mayor te va a mantener el ratio Aunque
+
+[00:10:25]
+tú tengas un movimiento más fuerte que
+
+[00:10:28]
+tenga que el precio recorrer mucho más
+
+[00:10:29]
+pips o menos puede ser un movimiento
+
+[00:10:32]
+chiquitito y te sigue manteniendo el
+
+[00:10:34]
+ratio ya lo único que vas a hacer es tú
+
+[00:10:36]
+Buscar por ejemplo aquí uno por ciento
+
+[00:10:38]
+Buscar uno por ciento y regular el
+
+[00:10:41]
+lotaje al stop los que tengas en este
+
+[00:10:43]
+caso aquí por ejemplo tenías un stop los
+
+[00:10:45]
+de 10 pips Entonces regulas el Stop los
+
+[00:10:49]
+a diez pips
+
+[00:10:50]
+méteselotaje de acuerdo a los diez pips
+
+[00:10:53]
+el porcentaje que quieres arriesgar y te
+
+[00:10:55]
+vas y ya casi siempre yo busco dos
+
+[00:10:57]
+entradas al día de este estilo
+
+[00:11:00]
+y la idea es ganar el doble de lo que
+
+[00:11:02]
+riesgo
+
+[00:11:04]
+el doble loca riesgo si arriesgo en uno
+
+[00:11:07]
+por ciento pues ganar un dos
+
+[00:11:10]
+para mantener con un 50% de winrate ya
+
+[00:11:15]
+este soy totalmente rentable no son
+
+[00:11:18]
+ratios mucho mucho
+
+[00:11:20]
+que digas Ay qué bárbaro no pero también
+
+[00:11:24]
+la simplicidad que tiene no te la da
+
+[00:11:26]
+ningún o sea es una estrategia demasiado
+
+[00:11:28]
+simple es como la del box algo parecido
+
+[00:11:30]
+que la simplicidad que mantienen son es
+
+[00:11:33]
+muy buena Déjame ver si encuentro aquí
+
+[00:11:35]
+en Asia a veces te dan unas buenas por
+
+[00:11:38]
+ejemplo ir a este estos estos tres
+
+[00:11:41]
+iguales ahí y mides en este caso también
+
+[00:11:47]
+había Lowe's puede ser muy subjetivo
+
+[00:11:49]
+cuando hay
+
+[00:11:51]
+arriba y lo usa abajo no las tomes Trata
+
+[00:11:55]
+de no tomarlas porque hay doble liquidez
+
+[00:11:58]
+Entonces no sabes Hacia dónde va a
+
+[00:12:00]
+disparar el precio Pero
+
+[00:12:02]
+igualmente ahí se da la entrada
+
+[00:12:05]
+ahí se da ya tienes tu posición larga
+
+[00:12:09]
+esta esta sirve incluso para Asia en
+
+[00:12:12]
+Asia se da mucho también pero te digo
+
+[00:12:15]
+hay veces que hace forma doble liquidez
+
+[00:12:17]
+entonces ahí yo lo valoro digo no ahí no
+
+[00:12:19]
+me meto esa sería una
+
+[00:12:23]
+la ideal te digo la buena es al 77
+
+[00:12:25]
+Entonces yo estoy chequeando digo me
+
+[00:12:28]
+pierdo las del 60 y le pego puro 77 y me
+
+[00:12:31]
+voy con uno por ciento y ya está es lo
+
+[00:12:35]
+que a lo mejor hago eso pero Igualmente
+
+[00:12:38]
+las del 60 también se dan mucho Pues
+
+[00:12:40]
+muchas veces se dan al 60 y pues sí vas
+
+[00:12:43]
+a tomar más mejores ratios Pero te vas a
+
+[00:12:45]
+perder muchas entradas también
+
+[00:12:48]
+Igualmente pues te digo esto apoya
+
+[00:12:50]
+también acabe un norder block by mitiga
+
+[00:12:54]
+el order block y te proteges por debajo
+
+[00:12:56]
+también por sí que hay veces que por
+
+[00:12:58]
+ejemplo llega el precio toma el doble
+
+[00:13:02]
+piso por ejemplo este saca liquidez y de
+
+[00:13:04]
+ahí se va y arranca para arriba y así
+
+[00:13:07]
+tienes un mejor análisis o lo que sea
+
+[00:13:09]
+esto si te fijas también es una
+
+[00:13:11]
+acumulación de huaicos puedes llegar
+
+[00:13:13]
+Imagínate si javas correr esta entrada
+
+[00:13:16]
+pueden ser por ejemplo mucha gente lo
+
+[00:13:18]
+utiliza como como confirmación esto esto
+
+[00:13:23]
+lo utiliza como confirmación para
+
+[00:13:24]
+agarrar una entrada Más mucho más grande
+
+[00:13:27]
+o sea para dejar correr una entrada
+
+[00:13:29]
+mucho más grande
+
+[00:13:31]
+o sea utilizan como confirmación esto y
+
+[00:13:34]
+entran con confirmación y ya dejan
+
+[00:13:36]
+correr a uno a cinco una diez o lo que
+
+[00:13:38]
+sea
+
+[00:13:41]
+en este caso aquí Había otro pero este
+
+[00:13:46]
+este no no llegó si te fijas este no
+
+[00:13:50]
+llegó a dar un descuento Bueno ay Casi
+
+[00:13:53]
+se quedó muy cercas antes de dar el ya
+
+[00:13:56]
+una vez que tomó la liquidez ya no nos
+
+[00:13:58]
+interesa porque ya tomó la liquidez este
+
+[00:14:00]
+también no llegó acá
+
+[00:14:03]
+y así se suelen ir dando
+
+[00:14:06]
+acá Acá está este era fíjate
+
+[00:14:12]
+y esto se repite mucho Sobre todo el
+
+[00:14:14]
+paro Euro dólar Hay días que todo el día
+
+[00:14:16]
+se agarra cayendo todo el día se agarra
+
+[00:14:18]
+subiendo y no da estos patrones
+
+[00:14:21]
+entonces ahí no por ejemplo ahí ya
+
+[00:14:23]
+tienes que estar con ojo
+
+[00:14:25]
+para chequearlo a ver si Qué onda aparte
+
+[00:14:29]
+pues ya confluyes Y dices ha tomado
+
+[00:14:31]
+liquidez el precio aquí
+
+[00:14:33]
+en este nivel tomó ese High Entonces si
+
+[00:14:37]
+puede llegar a caer y luego observas
+
+[00:14:39]
+también que hay más liquidez por debajo
+
+[00:14:41]
+confluyen lo mismo No es necesario
+
+[00:14:43]
+meterle tanta materia gris pero también
+
+[00:14:45]
+no te pases de lanza y lo quieras tomar
+
+[00:14:47]
+también muy muy a lo menso pues porque
+
+[00:14:50]
+no te va a servir entonces ahí ya mides
+
+[00:14:53]
+el retroceso ya ahí ya por ejemplo estás
+
+[00:14:55]
+poniendo ya tu
+
+[00:14:56]
+tu límite aquí hay que flechota
+
+[00:15:01]
+limita ahí y lo pones tu otro límite acá
+
+[00:15:04]
+o si las quieres poner todas yo voy a
+
+[00:15:07]
+valorar los niveles voy a valorar a ver
+
+[00:15:09]
+qué hago Pero ocupo hacer un poquito más
+
+[00:15:11]
+de backtesting ya tenía Ya hace mucho le
+
+[00:15:13]
+había hecho backtesting pero pues luego
+
+[00:15:16]
+tengo tantas estrategias sí
+
+[00:15:20]
+te digo ya aquí por estrategias no les
+
+[00:15:23]
+va a faltar yo estrategias de todo tipo
+
+[00:15:27]
+lo único que tenemos que controlar
+
+[00:15:29]
+nosotros son la psicología
+
+[00:15:32]
+sí la psicología es lo que tienes que
+
+[00:15:34]
+controlar y ya está
+
+[00:15:37]
+es muy difícil ganar dinero le voy a dar
+
+[00:15:40]
+una testeada mañana y ahí te cuento
+
+[00:15:45]
+[Música]
+```

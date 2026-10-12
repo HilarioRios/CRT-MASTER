@@ -1,0 +1,1312 @@
+[
+  {
+    "start_sec": 0.0,
+    "end_sec": 2.4,
+    "text": "Hola Qué pasa a todos amigos de YouTube"
+  },
+  {
+    "start_sec": 2.4,
+    "end_sec": 4.48,
+    "text": "estamos aquí en un nuevo video el día de"
+  },
+  {
+    "start_sec": 4.48,
+    "end_sec": 7.0,
+    "text": "hoy Les vengo a traer estrategia para el"
+  },
+  {
+    "start_sec": 7.0,
+    "end_sec": 11.4,
+    "text": "sp500 estrategia intradía Vamos allá con"
+  },
+  {
+    "start_sec": 11.4,
+    "end_sec": 12.96,
+    "text": "las reglas y todo lo que tienes que"
+  },
+  {
+    "start_sec": 12.96,
+    "end_sec": 15.6,
+    "text": "saber sobre esta estrategia Pues bueno"
+  },
+  {
+    "start_sec": 15.6,
+    "end_sec": 18.44,
+    "text": "tenemos un poquito de reglas para esta"
+  },
+  {
+    "start_sec": 18.44,
+    "end_sec": 21.12,
+    "text": "estrategia horario de 10 a 11 en New"
+  },
+  {
+    "start_sec": 21.12,
+    "end_sec": 23.68,
+    "text": "York en índices principalmente funciona"
+  },
+  {
+    "start_sec": 23.68,
+    "end_sec": 25.84,
+    "text": "así en otros pares ya les había dicho"
+  },
+  {
+    "start_sec": 25.84,
+    "end_sec": 28.52,
+    "text": "que también los eh las sesiones o los"
+  },
+  {
+    "start_sec": 28.52,
+    "end_sec": 31.04,
+    "text": "horarios alternativos en este caso de"
+  },
+  {
+    "start_sec": 31.04,
+    "end_sec": 32.84,
+    "text": "Londres también funciona bastante bien"
+  },
+  {
+    "start_sec": 32.84,
+    "end_sec": 35.36,
+    "text": "pero en este caso en sp5500 Funciona muy"
+  },
+  {
+    "start_sec": 35.36,
+    "end_sec": 37.48,
+    "text": "bien de 10 a 11 que son los ejemplos que"
+  },
+  {
+    "start_sec": 37.48,
+    "end_sec": 39.96,
+    "text": "vamos a estar viendo indicador cber"
+  },
+  {
+    "start_sec": 39.96,
+    "end_sec": 43.48,
+    "text": "Bullet o ict Cyber Bullet de lux algo"
+  },
+  {
+    "start_sec": 43.48,
+    "end_sec": 46.04,
+    "text": "temporalidades h1 y m15 Aunque ustedes"
+  },
+  {
+    "start_sec": 46.04,
+    "end_sec": 48.08,
+    "text": "van a ver que principalmente utilizo las"
+  },
+  {
+    "start_sec": 48.08,
+    "end_sec": 51.32,
+    "text": "temporalidades de m5 y d M1 identificar"
+  },
+  {
+    "start_sec": 51.32,
+    "end_sec": 53.2,
+    "text": "o tratar de ir a favor de la tendencia"
+  },
+  {
+    "start_sec": 53.2,
+    "end_sec": 54.68,
+    "text": "aunque no siempre se puede pero de"
+  },
+  {
+    "start_sec": 54.68,
+    "end_sec": 57.16,
+    "text": "preferencia esto identificar puntos de"
+  },
+  {
+    "start_sec": 57.16,
+    "end_sec": 60.2,
+    "text": "interés y liquidez y buscar en entrada"
+  },
+  {
+    "start_sec": 60.2,
+    "end_sec": 64.56,
+    "text": "en M1 y m5 y a través de un order Flow"
+  },
+  {
+    "start_sec": 64.56,
+    "end_sec": 66.12,
+    "text": "confirmaciones A través de un order Flow"
+  },
+  {
+    "start_sec": 66.12,
+    "end_sec": 69.2,
+    "text": "e imbalances cómo funciona entonces"
+  },
+  {
+    "start_sec": 69.2,
+    "end_sec": 72.36,
+    "text": "modelo para vender Esperamos que el"
+  },
+  {
+    "start_sec": 72.36,
+    "end_sec": 74.4,
+    "text": "mercado diseñe liquidez en este caso"
+  },
+  {
+    "start_sec": 74.4,
+    "end_sec": 77.36,
+    "text": "diseñe la forme y después la tome o la"
+  },
+  {
+    "start_sec": 77.36,
+    "end_sec": 79.84,
+    "text": "purgue o se la lleva o barra saque la"
+  },
+  {
+    "start_sec": 79.84,
+    "end_sec": 82.0,
+    "text": "escobita y después de eso nosotros vamos"
+  },
+  {
+    "start_sec": 82.0,
+    "end_sec": 85.12,
+    "text": "a estar buscando un order Flow en contra"
+  },
+  {
+    "start_sec": 85.12,
+    "end_sec": 88.92,
+    "text": "o a favor de esa estructura contraria a"
+  },
+  {
+    "start_sec": 88.92,
+    "end_sec": 91.68,
+    "text": "tomar la liquidez que tenía que o o la"
+  },
+  {
+    "start_sec": 91.68,
+    "end_sec": 93.88,
+    "text": "liquidez que forme en la parte contraria"
+  },
+  {
+    "start_sec": 93.88,
+    "end_sec": 95.96,
+    "text": "del gráfico en este caso también para"
+  },
+  {
+    "start_sec": 95.96,
+    "end_sec": 97.88,
+    "text": "compras Esperamos que el mercado tome"
+  },
+  {
+    "start_sec": 97.88,
+    "end_sec": 100.04,
+    "text": "esta liquidez o la diseñe y Estamos"
+  },
+  {
+    "start_sec": 100.04,
+    "end_sec": 102.72,
+    "text": "buscando que el mercado haga un reversal"
+  },
+  {
+    "start_sec": 102.72,
+    "end_sec": 104.92,
+    "text": "con confirmaciones de order Flow en las"
+  },
+  {
+    "start_sec": 104.92,
+    "end_sec": 107.12,
+    "text": "temporalidades menores para ir a tratar"
+  },
+  {
+    "start_sec": 107.12,
+    "end_sec": 111.44,
+    "text": "de romper o Buscar esa liquidez facilito"
+  },
+  {
+    "start_sec": 111.44,
+    "end_sec": 113.92,
+    "text": "muy facilito muy sencilla la estrategia"
+  },
+  {
+    "start_sec": 113.92,
+    "end_sec": 116.68,
+    "text": "Vamos allá con ejemplos Pues bueno"
+  },
+  {
+    "start_sec": 116.68,
+    "end_sec": 119.04,
+    "text": "chicos ya estamos aquí en el gráfico del"
+  },
+  {
+    "start_sec": 119.04,
+    "end_sec": 122.32,
+    "text": "sp500 tenemos horario de 10 a 11 am hora"
+  },
+  {
+    "start_sec": 122.32,
+    "end_sec": 124.36,
+    "text": "de New York gráfico de un minuto"
+  },
+  {
+    "start_sec": 124.36,
+    "end_sec": 126.0,
+    "text": "principalmente no me estoy moviendo yo a"
+  },
+  {
+    "start_sec": 126.0,
+    "end_sec": 129.56,
+    "text": "gráficos mayores porque a veces no no lo"
+  },
+  {
+    "start_sec": 129.56,
+    "end_sec": 132.4,
+    "text": "necesito eh pero ustedes se pueden estar"
+  },
+  {
+    "start_sec": 132.4,
+    "end_sec": 135.84,
+    "text": "moviendo entre 15 una hora 5 y M1 qué"
+  },
+  {
+    "start_sec": 135.84,
+    "end_sec": 137.72,
+    "text": "vemos aquí pues vemos facilito la"
+  },
+  {
+    "start_sec": 137.72,
+    "end_sec": 139.32,
+    "text": "formación de toda esta liquidez que"
+  },
+  {
+    "start_sec": 139.32,
+    "end_sec": 142.0,
+    "text": "estaba por esta parte toda esta liquidez"
+  },
+  {
+    "start_sec": 142.0,
+    "end_sec": 144.76,
+    "text": "el mercado ha hecho una purga de esa"
+  },
+  {
+    "start_sec": 144.76,
+    "end_sec": 146.84,
+    "text": "liquidez nosotros vamos a estar buscando"
+  },
+  {
+    "start_sec": 146.84,
+    "end_sec": 150.12,
+    "text": "un retroceso que nos lleve a tar nuestra"
+  },
+  {
+    "start_sec": 150.12,
+    "end_sec": 151.88,
+    "text": "entrada con un ratio riesgo beneficio de"
+  },
+  {
+    "start_sec": 151.88,
+    "end_sec": 154.36,
+    "text": "uno a dos uno a tres uno a uno está"
+  },
+  {
+    "start_sec": 154.36,
+    "end_sec": 155.92,
+    "text": "bastante bien tenemos la toma de"
+  },
+  {
+    "start_sec": 155.92,
+    "end_sec": 157.36,
+    "text": "liquidez ahí tenemos un pequeño"
+  },
+  {
+    "start_sec": 157.36,
+    "end_sec": 159.08,
+    "text": "retroceso no es suficiente tenemos que"
+  },
+  {
+    "start_sec": 159.08,
+    "end_sec": 161.48,
+    "text": "formar un order Flow el mercado Qué hace"
+  },
+  {
+    "start_sec": 161.48,
+    "end_sec": 164.4,
+    "text": "tomar de nuevo esta liquidez y romperme"
+  },
+  {
+    "start_sec": 164.4,
+    "end_sec": 178.75,
+    "text": "este punto estructural"
+  },
+  {
+    "start_sec": 178.76,
+    "end_sec": 181.72,
+    "text": "creándole rechazó este nivel Yo podría"
+  },
+  {
+    "start_sec": 181.72,
+    "end_sec": 183.68,
+    "text": "haber estado entrando en la ruptura de"
+  },
+  {
+    "start_sec": 183.68,
+    "end_sec": 186.6,
+    "text": "ese nivel Okay entrada a en la ruptura"
+  },
+  {
+    "start_sec": 186.6,
+    "end_sec": 189.52,
+    "text": "de esta estructura interna acá nos"
+  },
+  {
+    "start_sec": 189.52,
+    "end_sec": 192.0,
+    "text": "protegemos y tomamos esta entrada a la"
+  },
+  {
+    "start_sec": 192.0,
+    "end_sec": 196.44,
+    "text": "alza en este caso a buscar la B"
+  },
+  {
+    "start_sec": 196.44,
+    "end_sec": 198.04,
+    "text": "liquidity que era esta liquidez que"
+  },
+  {
+    "start_sec": 198.04,
+    "end_sec": 200.2,
+    "text": "estaba en esta parte ahí podríamos haber"
+  },
+  {
+    "start_sec": 200.2,
+    "end_sec": 202.08,
+    "text": "tomado esa entrada esto que nos quedaba"
+  },
+  {
+    "start_sec": 202.08,
+    "end_sec": 202.92,
+    "text": "1"
+  },
+  {
+    "start_sec": 202.92,
+    "end_sec": 205.84,
+    "text": "2.66 o podríamos haber entrado en la"
+  },
+  {
+    "start_sec": 205.84,
+    "end_sec": 208.4,
+    "text": "ruptura de esta estructura de este nivel"
+  },
+  {
+    "start_sec": 208.4,
+    "end_sec": 210.64,
+    "text": "estructural de acá mayor y nos"
+  },
+  {
+    "start_sec": 210.64,
+    "end_sec": 212.28,
+    "text": "hubiéramos protegido por debajo de este"
+  },
+  {
+    "start_sec": 212.28,
+    "end_sec": 214.24,
+    "text": "mínimo está bastante bien y hubiéramos"
+  },
+  {
+    "start_sec": 214.24,
+    "end_sec": 215.84,
+    "text": "tomado una entrada más o menos un uno a"
+  },
+  {
+    "start_sec": 215.84,
+    "end_sec": 217.72,
+    "text": "dos también igualmente eso Podrían haber"
+  },
+  {
+    "start_sec": 217.72,
+    "end_sec": 220.8,
+    "text": "sido los dos modelos de entrada de ese"
+  },
+  {
+    "start_sec": 220.8,
+    "end_sec": 223.64,
+    "text": "día después de barrer esa liquidez"
+  },
+  {
+    "start_sec": 223.64,
+    "end_sec": 226.16,
+    "text": "acuérdense que eh También pueden usar"
+  },
+  {
+    "start_sec": 226.16,
+    "end_sec": 229.24,
+    "text": "patrones de Vela algún indicador extra"
+  },
+  {
+    "start_sec": 229.24,
+    "end_sec": 232.36,
+    "text": "no sé yo uso order Flow simplemente y"
+  },
+  {
+    "start_sec": 232.36,
+    "end_sec": 233.8,
+    "text": "espero que el mercado se empiece"
+  },
+  {
+    "start_sec": 233.8,
+    "end_sec": 235.72,
+    "text": "configurar a la alza de nuevo para estar"
+  },
+  {
+    "start_sec": 235.72,
+    "end_sec": 239.92,
+    "text": "buscando esa reversión eh vamos con otro"
+  },
+  {
+    "start_sec": 239.92,
+    "end_sec": 242.56,
+    "text": "ejemplo miren chicos lo que tenemos para"
+  },
+  {
+    "start_sec": 242.56,
+    "end_sec": 246.04,
+    "text": "este día día 08 o 8 de diciembre del"
+  },
+  {
+    "start_sec": 246.04,
+    "end_sec": 249.04,
+    "text": "2023 vemos que el mercado ha pulgado ha"
+  },
+  {
+    "start_sec": 249.04,
+    "end_sec": 250.84,
+    "text": "tomado toda esta liquidez nos hizo un"
+  },
+  {
+    "start_sec": 250.84,
+    "end_sec": 253.6,
+    "text": "pequeño inducement aquí lo que lo cual"
+  },
+  {
+    "start_sec": 253.6,
+    "end_sec": 255.96,
+    "text": "nos dejaría esta zona como un punto de"
+  },
+  {
+    "start_sec": 255.96,
+    "end_sec": 258.36,
+    "text": "interés ya está configurado alcista y"
+  },
+  {
+    "start_sec": 258.36,
+    "end_sec": 260.36,
+    "text": "podríamos haber estado tomando la"
+  },
+  {
+    "start_sec": 260.36,
+    "end_sec": 262.32,
+    "text": "reversión después de la toma de liquidez"
+  },
+  {
+    "start_sec": 262.32,
+    "end_sec": 264.56,
+    "text": "o también la compra tanto la compra como"
+  },
+  {
+    "start_sec": 264.56,
+    "end_sec": 266.72,
+    "text": "la venta estaba bastante bien este día"
+  },
+  {
+    "start_sec": 266.72,
+    "end_sec": 268.84,
+    "text": "qué esperamos entonces en este día que"
+  },
+  {
+    "start_sec": 268.84,
+    "end_sec": 271.52,
+    "text": "el mercado nos deje un inbalance en este"
+  },
+  {
+    "start_sec": 271.52,
+    "end_sec": 273.2,
+    "text": "caso una ineficiencia para los"
+  },
+  {
+    "start_sec": 273.2,
+    "end_sec": 275.2,
+    "text": "compradores el mercado que hace es"
+  },
+  {
+    "start_sec": 275.2,
+    "end_sec": 277.32,
+    "text": "rompernos estas pequeñas estructuras en"
+  },
+  {
+    "start_sec": 277.32,
+    "end_sec": 279.68,
+    "text": "este caso esas estructuras internas y"
+  },
+  {
+    "start_sec": 279.68,
+    "end_sec": 282.48,
+    "text": "luego nos da una venta ahí pero no"
+  },
+  {
+    "start_sec": 282.48,
+    "end_sec": 284.92,
+    "text": "estaba tan confirmada Gustavo verdad no"
+  },
+  {
+    "start_sec": 284.92,
+    "end_sec": 287.32,
+    "text": "estaba está bien pero no está tan bien"
+  },
+  {
+    "start_sec": 287.32,
+    "end_sec": 289.76,
+    "text": "porque tenemos simplemente un impulso"
+  },
+  {
+    "start_sec": 289.76,
+    "end_sec": 292.76,
+    "text": "una ruptura un retroceso pero yo hubiera"
+  },
+  {
+    "start_sec": 292.76,
+    "end_sec": 295.28,
+    "text": "podido esperar otro nuevo retroceso en"
+  },
+  {
+    "start_sec": 295.28,
+    "end_sec": 298.0,
+    "text": "este caso para intentar venderlo verdad"
+  },
+  {
+    "start_sec": 298.0,
+    "end_sec": 300.76,
+    "text": "Entonces eh Cuál cualquiera tanto si"
+  },
+  {
+    "start_sec": 300.76,
+    "end_sec": 302.4,
+    "text": "Hubieras entrado un poquito de riesgo en"
+  },
+  {
+    "start_sec": 302.4,
+    "end_sec": 304.4,
+    "text": "esta ruptura o como si hubieras esperado"
+  },
+  {
+    "start_sec": 304.4,
+    "end_sec": 306.32,
+    "text": "un nuevo retroceso estaba bastante bien"
+  },
+  {
+    "start_sec": 306.32,
+    "end_sec": 309.4,
+    "text": "aunque el mercado no lo dio Okay eso"
+  },
+  {
+    "start_sec": 309.4,
+    "end_sec": 312.2,
+    "text": "sería la venta y la compra en este caso"
+  },
+  {
+    "start_sec": 312.2,
+    "end_sec": 314.96,
+    "text": "ya que el mercado purgo esa liquidez me"
+  },
+  {
+    "start_sec": 314.96,
+    "end_sec": 317.52,
+    "text": "dejó este punto de interés y vamos a"
+  },
+  {
+    "start_sec": 317.52,
+    "end_sec": 319.8,
+    "text": "estar buscando una compra en ese punto"
+  },
+  {
+    "start_sec": 319.8,
+    "end_sec": 322.16,
+    "text": "de ahí es igual de nuevo Esperamos que"
+  },
+  {
+    "start_sec": 322.16,
+    "end_sec": 324.28,
+    "text": "el precio me haga un nuevo impulso"
+  },
+  {
+    "start_sec": 324.28,
+    "end_sec": 327.52,
+    "text": "retroceso y estaríamos buscando nuestra"
+  },
+  {
+    "start_sec": 327.52,
+    "end_sec": 330.28,
+    "text": "entrada al alza impulso retroceso"
+  },
+  {
+    "start_sec": 330.28,
+    "end_sec": 332.64,
+    "text": "impulso retroceso y ahí estaríamos"
+  },
+  {
+    "start_sec": 332.64,
+    "end_sec": 334.4,
+    "text": "buscando nuestra entrada a la alza en"
+  },
+  {
+    "start_sec": 334.4,
+    "end_sec": 336.36,
+    "text": "este caso Yo estaría entrando en el"
+  },
+  {
+    "start_sec": 336.36,
+    "end_sec": 338.04,
+    "text": "segundo a mí me gusta que sean dos"
+  },
+  {
+    "start_sec": 338.04,
+    "end_sec": 340.24,
+    "text": "rupturas de Estructura No me gusta"
+  },
+  {
+    "start_sec": 340.24,
+    "end_sec": 344.36,
+    "text": "entrar tan tan ajustado tan sí tan"
+  },
+  {
+    "start_sec": 344.36,
+    "end_sec": 349.44,
+    "text": "ajustado en este caso eh Porque luego eh"
+  },
+  {
+    "start_sec": 349.44,
+    "end_sec": 351.28,
+    "text": "No entramos tan confirmados en este caso"
+  },
+  {
+    "start_sec": 351.28,
+    "end_sec": 353.28,
+    "text": "como aquí hice un impulso retroceso me"
+  },
+  {
+    "start_sec": 353.28,
+    "end_sec": 354.92,
+    "text": "haba gustado que hiciera otro otro"
+  },
+  {
+    "start_sec": 354.92,
+    "end_sec": 356.96,
+    "text": "retroceso para poder entrar aquí por"
+  },
+  {
+    "start_sec": 356.96,
+    "end_sec": 358.88,
+    "text": "ejemplo hizo dos y aquí sí me gustó un"
+  },
+  {
+    "start_sec": 358.88,
+    "end_sec": 361.48,
+    "text": "poquito mejor es ese día sería tanto"
+  },
+  {
+    "start_sec": 361.48,
+    "end_sec": 363.6,
+    "text": "ventas como compras en ese horario"
+  },
+  {
+    "start_sec": 363.6,
+    "end_sec": 365.96,
+    "text": "Porque nos dio la toma de liquidez acá y"
+  },
+  {
+    "start_sec": 365.96,
+    "end_sec": 368.88,
+    "text": "aquí simplemente por un retroceso en un"
+  },
+  {
+    "start_sec": 368.88,
+    "end_sec": 370.92,
+    "text": "punto de interés verdad pero también"
+  },
+  {
+    "start_sec": 370.92,
+    "end_sec": 373.44,
+    "text": "pues teníamos la la toma de liquidez"
+  },
+  {
+    "start_sec": 373.44,
+    "end_sec": 376.76,
+    "text": "eh interna pero lo mejor es tomar"
+  },
+  {
+    "start_sec": 376.76,
+    "end_sec": 378.92,
+    "text": "liquidez de este lado y después de tomar"
+  },
+  {
+    "start_sec": 378.92,
+    "end_sec": 381.4,
+    "text": "liquidez de ese lado es entrar vamos con"
+  },
+  {
+    "start_sec": 381.4,
+    "end_sec": 384.0,
+    "text": "un ejemplo un poquito diferente Pues"
+  },
+  {
+    "start_sec": 384.0,
+    "end_sec": 386.8,
+    "text": "bueno chicos estamos aquí el día jueves"
+  },
+  {
+    "start_sec": 386.8,
+    "end_sec": 390.08,
+    "text": "7 de diciembre del 2023 horario de 4m"
+  },
+  {
+    "start_sec": 390.08,
+    "end_sec": 393.72,
+    "text": "New York sesión de London okay Para que"
+  },
+  {
+    "start_sec": 393.72,
+    "end_sec": 395.32,
+    "text": "ustedes vean que también funciona la"
+  },
+  {
+    "start_sec": 395.32,
+    "end_sec": 397.64,
+    "text": "sesión de London fíjense qué hacemos"
+  },
+  {
+    "start_sec": 397.64,
+    "end_sec": 400.48,
+    "text": "liquidamos ahí esos niveles y también"
+  },
+  {
+    "start_sec": 400.48,
+    "end_sec": 403.24,
+    "text": "acá qué hacemos liquidamos acá estos"
+  },
+  {
+    "start_sec": 403.24,
+    "end_sec": 405.12,
+    "text": "niveles y nos da una entrada tanto a la"
+  },
+  {
+    "start_sec": 405.12,
+    "end_sec": 409.08,
+    "text": "alza como a la baja eh o Entonces vamos"
+  },
+  {
+    "start_sec": 409.08,
+    "end_sec": 411.24,
+    "text": "a ver precisamente este en este caso"
+  },
+  {
+    "start_sec": 411.24,
+    "end_sec": 413.44,
+    "text": "este Rango asiático el precio toma los"
+  },
+  {
+    "start_sec": 413.44,
+    "end_sec": 416.52,
+    "text": "lows y se impulsa la alza aunque esta"
+  },
+  {
+    "start_sec": 416.52,
+    "end_sec": 418.76,
+    "text": "entrada fue un poquito después del"
+  },
+  {
+    "start_sec": 418.76,
+    "end_sec": 421.44,
+    "text": "horario verdad pero la que sí estuvo"
+  },
+  {
+    "start_sec": 421.44,
+    "end_sec": 424.52,
+    "text": "dentro del horario fue esta qué hacemos"
+  },
+  {
+    "start_sec": 424.52,
+    "end_sec": 426.56,
+    "text": "el precio Qué hace el precio tomar esta"
+  },
+  {
+    "start_sec": 426.56,
+    "end_sec": 428.8,
+    "text": "liquidez después de tomar esta liquidez"
+  },
+  {
+    "start_sec": 428.8,
+    "end_sec": 431.0,
+    "text": "qué viene y hace rompe estructuras"
+  },
+  {
+    "start_sec": 431.0,
+    "end_sec": 433.36,
+    "text": "después de romper esas estructuras se"
+  },
+  {
+    "start_sec": 433.36,
+    "end_sec": 435.56,
+    "text": "impulsa de nuevo hace un retroceso acá"
+  },
+  {
+    "start_sec": 435.56,
+    "end_sec": 438.16,
+    "text": "la alta y aquí en la generación de estos"
+  },
+  {
+    "start_sec": 438.16,
+    "end_sec": 439.8,
+    "text": "imbalances en este caso en estos"
+  },
+  {
+    "start_sec": 439.8,
+    "end_sec": 442.0,
+    "text": "imbalances es donde yo hubiera buscado"
+  },
+  {
+    "start_sec": 442.0,
+    "end_sec": 444.88,
+    "text": "mi order Flow bajista porque ya sé que"
+  },
+  {
+    "start_sec": 444.88,
+    "end_sec": 447.2,
+    "text": "el precio dejó de entregar a la alza"
+  },
+  {
+    "start_sec": 447.2,
+    "end_sec": 449.4,
+    "text": "porque esto no es una es simplemente una"
+  },
+  {
+    "start_sec": 449.4,
+    "end_sec": 451.48,
+    "text": "toma de liquidez Y si dejó de entrar a"
+  },
+  {
+    "start_sec": 451.48,
+    "end_sec": 453.2,
+    "text": "la alza Y tenemos un marker structure"
+  },
+  {
+    "start_sec": 453.2,
+    "end_sec": 455.24,
+    "text": "chif o una roptura de estructura"
+  },
+  {
+    "start_sec": 455.24,
+    "end_sec": 457.52,
+    "text": "posiblemente el mercado distribuya hacia"
+  },
+  {
+    "start_sec": 457.52,
+    "end_sec": 460.2,
+    "text": "la liquidez previa que tenía capa acá"
+  },
+  {
+    "start_sec": 460.2,
+    "end_sec": 462.68,
+    "text": "abajo entonces ya tendríamos esta"
+  },
+  {
+    "start_sec": 462.68,
+    "end_sec": 464.84,
+    "text": "liquidez por la parte baja y tendríamos"
+  },
+  {
+    "start_sec": 464.84,
+    "end_sec": 466.96,
+    "text": "esta distribución qué vemos entonces ahí"
+  },
+  {
+    "start_sec": 466.96,
+    "end_sec": 469.64,
+    "text": "les voy a marcar aquí vemos este fractal"
+  },
+  {
+    "start_sec": 469.64,
+    "end_sec": 471.96,
+    "text": "este fractal vemos un impulso un"
+  },
+  {
+    "start_sec": 471.96,
+    "end_sec": 475.44,
+    "text": "retroceso un nuevo retroceso un nuevo"
+  },
+  {
+    "start_sec": 475.44,
+    "end_sec": 478.0,
+    "text": "retroceso y para abajo en este caso ya"
+  },
+  {
+    "start_sec": 478.0,
+    "end_sec": 480.36,
+    "text": "saben que a mí me gusta encontrar un"
+  },
+  {
+    "start_sec": 480.36,
+    "end_sec": 482.56,
+    "text": "order Flow ya formadito aquí simplemente"
+  },
+  {
+    "start_sec": 482.56,
+    "end_sec": 484.24,
+    "text": "tenemos un impulso in retroceso pero"
+  },
+  {
+    "start_sec": 484.24,
+    "end_sec": 486.2,
+    "text": "aquí ya tenemos un nuevo order Flow"
+  },
+  {
+    "start_sec": 486.2,
+    "end_sec": 488.52,
+    "text": "formadito donde podríamos haber estado"
+  },
+  {
+    "start_sec": 488.52,
+    "end_sec": 490.92,
+    "text": "entrando a la baja en esta parte y aquí"
+  },
+  {
+    "start_sec": 490.92,
+    "end_sec": 494.44,
+    "text": "yo hubiera puesto mi posición en short"
+  },
+  {
+    "start_sec": 494.44,
+    "end_sec": 496.36,
+    "text": "después de ese retroceso me protejo por"
+  },
+  {
+    "start_sec": 496.36,
+    "end_sec": 498.76,
+    "text": "encima del último High y buscamos que el"
+  },
+  {
+    "start_sec": 498.76,
+    "end_sec": 502.16,
+    "text": "mercado liquide toda esa liquidity acá"
+  },
+  {
+    "start_sec": 502.16,
+    "end_sec": 504.44,
+    "text": "como íbamos un poquito bueno Estaba bien"
+  },
+  {
+    "start_sec": 504.44,
+    "end_sec": 506.44,
+    "text": "para vender no estaba mal me hubiera"
+  },
+  {
+    "start_sec": 506.44,
+    "end_sec": 509.6,
+    "text": "quedado con esta 1 2.45 en esa"
+  },
+  {
+    "start_sec": 509.6,
+    "end_sec": 511.92,
+    "text": "maravillosa entrada vamos con otro"
+  },
+  {
+    "start_sec": 511.92,
+    "end_sec": 514.4,
+    "text": "ejemplo mira mira qué bonito es lo"
+  },
+  {
+    "start_sec": 514.4,
+    "end_sec": 517.32,
+    "text": "bonito horario de 10 a 11 de New York"
+  },
+  {
+    "start_sec": 517.32,
+    "end_sec": 519.92,
+    "text": "sesión de New York miércoles 6 de"
+  },
+  {
+    "start_sec": 519.92,
+    "end_sec": 523.16,
+    "text": "diciembre del 2023 qué vemos por aquí"
+  },
+  {
+    "start_sec": 523.16,
+    "end_sec": 526.68,
+    "text": "vemos la purga de esa liquidez después"
+  },
+  {
+    "start_sec": 526.68,
+    "end_sec": 528.56,
+    "text": "de la purga de esa liquidez no Estamos"
+  },
+  {
+    "start_sec": 528.56,
+    "end_sec": 531.48,
+    "text": "en horario no podemos tradear eso pero"
+  },
+  {
+    "start_sec": 531.48,
+    "end_sec": 533.32,
+    "text": "después de nuestro horario que vemos que"
+  },
+  {
+    "start_sec": 533.32,
+    "end_sec": 535.56,
+    "text": "el precio toma liquidez por acá arriba"
+  },
+  {
+    "start_sec": 535.56,
+    "end_sec": 538.36,
+    "text": "la toma y después de la toma nos rompe"
+  },
+  {
+    "start_sec": 538.36,
+    "end_sec": 540.56,
+    "text": "la estructura después de rompernos la"
+  },
+  {
+    "start_sec": 540.56,
+    "end_sec": 542.16,
+    "text": "estructura ubicamos nuestro target de"
+  },
+  {
+    "start_sec": 542.16,
+    "end_sec": 544.56,
+    "text": "liquidez en este caso sería este low que"
+  },
+  {
+    "start_sec": 544.56,
+    "end_sec": 546.56,
+    "text": "sería un Target claro aquí teníamos un"
+  },
+  {
+    "start_sec": 546.56,
+    "end_sec": 548.24,
+    "text": "poquito de liquidez más abajo pero"
+  },
+  {
+    "start_sec": 548.24,
+    "end_sec": 551.24,
+    "text": "estaba un poquito más lejos y después de"
+  },
+  {
+    "start_sec": 551.24,
+    "end_sec": 553.28,
+    "text": "nuestro horario fíjate muy bien Qué"
+  },
+  {
+    "start_sec": 553.28,
+    "end_sec": 555.52,
+    "text": "tenemos por ahí para que tú puedas ver"
+  },
+  {
+    "start_sec": 555.52,
+    "end_sec": 557.84,
+    "text": "varios ejemplos un poquito distintos la"
+  },
+  {
+    "start_sec": 557.84,
+    "end_sec": 560.16,
+    "text": "toma de liquidez de esta liquidez"
+  },
+  {
+    "start_sec": 560.16,
+    "end_sec": 562.32,
+    "text": "interna que había tenido el precio el"
+  },
+  {
+    "start_sec": 562.32,
+    "end_sec": 564.28,
+    "text": "precio que hace toma esa liquidez"
+  },
+  {
+    "start_sec": 564.28,
+    "end_sec": 567.32,
+    "text": "interna y ahí tenemos un nueva entrada a"
+  },
+  {
+    "start_sec": 567.32,
+    "end_sec": 569.68,
+    "text": "la baja perfecto"
+  },
+  {
+    "start_sec": 569.68,
+    "end_sec": 571.68,
+    "text": "donde yo hubiera esperado un order Flow"
+  },
+  {
+    "start_sec": 571.68,
+    "end_sec": 573.96,
+    "text": "bajista como no nos hizo un nuevo order"
+  },
+  {
+    "start_sec": 573.96,
+    "end_sec": 577.48,
+    "text": "Flow bajista el precio distribuye así"
+  },
+  {
+    "start_sec": 577.48,
+    "end_sec": 579.76,
+    "text": "Sencillamente hubiera esperado a que el"
+  },
+  {
+    "start_sec": 579.76,
+    "end_sec": 581.76,
+    "text": "precio hiciera esta ruptura de"
+  },
+  {
+    "start_sec": 581.76,
+    "end_sec": 584.36,
+    "text": "estructura en esta parte de aquí y en el"
+  },
+  {
+    "start_sec": 584.36,
+    "end_sec": 586.52,
+    "text": "próximo imbalance la próxima"
+  },
+  {
+    "start_sec": 586.52,
+    "end_sec": 588.84,
+    "text": "ineficiencia o en el próximo retroceso"
+  },
+  {
+    "start_sec": 588.84,
+    "end_sec": 591.76,
+    "text": "nos podríamos haber montado a la baja en"
+  },
+  {
+    "start_sec": 591.76,
+    "end_sec": 594.08,
+    "text": "este caso yo me hubiera montado en esta"
+  },
+  {
+    "start_sec": 594.08,
+    "end_sec": 597.28,
+    "text": "parte de aquí a la baja mi posición en"
+  },
+  {
+    "start_sec": 597.28,
+    "end_sec": 600.28,
+    "text": "corto en este retroceso de aquí y stop"
+  },
+  {
+    "start_sec": 600.28,
+    "end_sec": 602.24,
+    "text": "loss un poquito ubicado ahí nos hubiera"
+  },
+  {
+    "start_sec": 602.24,
+    "end_sec": 605.68,
+    "text": "dado una entrada un un a2s Aquí más o"
+  },
+  {
+    "start_sec": 605.68,
+    "end_sec": 607.32,
+    "text": "menos si tiene un stop loss muy grande"
+  },
+  {
+    "start_sec": 607.32,
+    "end_sec": 609.36,
+    "text": "pueden ayudarse un fibonacci y este"
+  },
+  {
+    "start_sec": 609.36,
+    "end_sec": 611.48,
+    "text": "fibonacci ustedes ya pueden colocar su"
+  },
+  {
+    "start_sec": 611.48,
+    "end_sec": 614.4,
+    "text": "stop l más o menos al 50% para que les"
+  },
+  {
+    "start_sec": 614.4,
+    "end_sec": 616.44,
+    "text": "dé un rati riesgo beneficio bastante"
+  },
+  {
+    "start_sec": 616.44,
+    "end_sec": 619.48,
+    "text": "bastante bueno para ese día y está"
+  },
+  {
+    "start_sec": 619.48,
+    "end_sec": 622.16,
+    "text": "perfectísima esa entrada maravillosa se"
+  },
+  {
+    "start_sec": 622.16,
+    "end_sec": 623.88,
+    "text": "hubiera podido tomar también después de"
+  },
+  {
+    "start_sec": 623.88,
+    "end_sec": 625.88,
+    "text": "que el mercado liquidó esa liquidez"
+  },
+  {
+    "start_sec": 625.88,
+    "end_sec": 627.32,
+    "text": "liquidó esa liquidez Válgame la"
+  },
+  {
+    "start_sec": 627.32,
+    "end_sec": 629.48,
+    "text": "redundancia sí se hubiera podido tomar"
+  },
+  {
+    "start_sec": 629.48,
+    "end_sec": 631.08,
+    "text": "una entrada de riesgo también de este"
+  },
+  {
+    "start_sec": 631.08,
+    "end_sec": 634.28,
+    "text": "lado un poquito de riesgo y a lo mejor"
+  },
+  {
+    "start_sec": 634.28,
+    "end_sec": 635.76,
+    "text": "tal vez cuando el mercado empezó a"
+  },
+  {
+    "start_sec": 635.76,
+    "end_sec": 637.48,
+    "text": "romper esas pequeñas estructuras huía"
+  },
+  {
+    "start_sec": 637.48,
+    "end_sec": 639.16,
+    "text": "podido haber tomado esa entrada también"
+  },
+  {
+    "start_sec": 639.16,
+    "end_sec": 642.04,
+    "text": "de riesgo aquí es totalmente válida y"
+  },
+  {
+    "start_sec": 642.04,
+    "end_sec": 643.64,
+    "text": "también de nuevo hubiéramos ido a buscar"
+  },
+  {
+    "start_sec": 643.64,
+    "end_sec": 646.76,
+    "text": "este target de liquidez o este target de"
+  },
+  {
+    "start_sec": 646.76,
+    "end_sec": 648.4,
+    "text": "liquidez más abajo que aquí ya nos da un"
+  },
+  {
+    "start_sec": 648.4,
+    "end_sec": 650.28,
+    "text": "poquito más un a"
+  },
+  {
+    "start_sec": 650.28,
+    "end_sec": 655.16,
+    "text": "3.55 excelente amigos"
+  }
+]

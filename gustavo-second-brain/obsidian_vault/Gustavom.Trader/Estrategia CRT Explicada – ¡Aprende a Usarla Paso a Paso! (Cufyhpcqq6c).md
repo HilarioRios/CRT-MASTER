@@ -1,0 +1,1366 @@
+---
+source_id: YT_CANAL_02_Cufyhpcqq6c
+video_id: Cufyhpcqq6c
+channel: "Gustavom.Trader"
+published_at: 2025-05-28
+url: https://www.youtube.com/watch?v=Cufyhpcqq6c
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 11
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# Estrategia CRT Explicada – ¡Aprende a Usarla Paso a Paso!
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=Cufyhpcqq6c)
+
+## Transcript
+
+```
+[00:00:01]
+Hola, ¿qué pasa a todos amigos de
+
+[00:00:03]
+YouTube? Ya estamos en un nuevo video,
+
+[00:00:06]
+esta vez para traerles la explicación de
+
+[00:00:09]
+la estrategia de Will Street. Antes que
+
+[00:00:13]
+nada, agradecerles por todo el apoyo que
+
+[00:00:15]
+ha recibido el anterior video donde
+
+[00:00:17]
+mostramos este indicador que nos va a
+
+[00:00:19]
+ayudar a nosotros a saber más sobre la
+
+[00:00:22]
+estrategia de Will Street. y me dejaron
+
+[00:00:26]
+mucho en los comentarios que querían
+
+[00:00:27]
+saber o que querían este ver un poco más
+
+[00:00:32]
+sobre la estrategia y en este video se
+
+[00:00:34]
+las voy a explicar paso a paso. Eh,
+
+[00:00:37]
+antes que nada decirles que les voy a
+
+[00:00:40]
+explicar la estrategia como yo la
+
+[00:00:41]
+entiendo y como yo la aplico. Yo no
+
+[00:00:44]
+aplico exactamente la estrategia como
+
+[00:00:47]
+Will la enseña, pero sí que llevo mucho
+
+[00:00:49]
+tiempo, sobre todo en bajos y altos
+
+[00:00:52]
+diarios y semanales aplicando la
+
+[00:00:55]
+estrategia. Entonces, les voy a enseñar
+
+[00:00:57]
+ejemplos, sobre todo en el eurodólar. El
+
+[00:01:00]
+día de hoy vamos a ver eurodólar, este,
+
+[00:01:03]
+porque ahí es donde donde estos chicos
+
+[00:01:05]
+operan. Entonces, principalmente la voy
+
+[00:01:07]
+a enseñar cómo yo la entiendo mejor.
+
+[00:01:10]
+Puede ser que no sea exactamente igual,
+
+[00:01:13]
+pero eh les voy a dar consejos y tips.
+
+[00:01:16]
+Igualmente en los comentarios déjenme
+
+[00:01:18]
+saber todas sus dudas, no se queden con
+
+[00:01:21]
+dudas, pónganme en los comentarios,
+
+[00:01:23]
+síganme en Instagram porque en Instagram
+
+[00:01:26]
+les voy a estar
+
+[00:01:28]
+mostrando ejemplos en mis historias,
+
+[00:01:30]
+entradas y más cositas. Están en la
+
+[00:01:33]
+descripción mi Instagram para que me
+
+[00:01:35]
+vayan a seguir por allá. Si tienen
+
+[00:01:37]
+alguna duda, quieren mandarme un mensaje
+
+[00:01:39]
+por Instagram, lo pueden hacer y también
+
+[00:01:42]
+se pueden unir a mi grupo de Telegram y
+
+[00:01:44]
+de WhatsApp. Entonces, dicho esto, vamos
+
+[00:01:47]
+a empezar con la explicación paso a paso
+
+[00:01:49]
+de la estrategia de Will Street que todo
+
+[00:01:51]
+el mundo quiere saber y vamos a ir al
+
+[00:01:54]
+gráfico del eurodólar. Próximamente
+
+[00:01:58]
+quieren verla también en el Nasdaq, la
+
+[00:02:00]
+voy a enseñar también en el Nasdaq.
+
+[00:02:03]
+Pueden dejarlo en los comentarios.
+
+[00:02:05]
+Bueno, ahora sí vamos allá. Voy a poner
+
+[00:02:08]
+dos ejemplos. Primero, el tema horarios,
+
+[00:02:10]
+gente. ¿Qué horarios vamos a operar o
+
+[00:02:13]
+qué horarios funciona? Yo principalmente
+
+[00:02:15]
+estoy viendo esta estrategia en
+
+[00:02:17]
+eurodólar y puede ser algún otro par
+
+[00:02:20]
+porque todos los pares se mueven por
+
+[00:02:22]
+velas, digamos, todos tienen velas, pero
+
+[00:02:25]
+principalmente en euroólar en la sesión
+
+[00:02:28]
+de Londres, pero también he visto que
+
+[00:02:30]
+funciona muy bien en la sesión de Nueva
+
+[00:02:32]
+York y ya para otros pares pues ya
+
+[00:02:35]
+depende el horario, pero
+
+[00:02:37]
+principalmente Open de Londres o Kilson
+
+[00:02:40]
+de Londres, si no sabes que es una
+
+[00:02:41]
+Kilson, pues tienes que estudiarlo, pero
+
+[00:02:44]
+es digamos que la apertura de la sesión
+
+[00:02:46]
+de Londres y la apertura también de la
+
+[00:02:49]
+sesión de Nueva York. Horario. Ese es el
+
+[00:02:52]
+horario que yo utilizaría. Y la otra
+
+[00:02:54]
+cosa que mucha gente tiene como dudas es
+
+[00:02:58]
+la dirección. ¿Cómo encuentro la
+
+[00:02:59]
+dirección del precio, verad? Yo aquí te
+
+[00:03:02]
+voy a enseñar cómo es el gatillador o
+
+[00:03:03]
+cómo es la lógica para descifrar las
+
+[00:03:06]
+entradas, pero mucha de la del vallas
+
+[00:03:09]
+diario se identifica por high time
+
+[00:03:12]
+frame, tanto altos como bajos diarios de
+
+[00:03:16]
+la misma vela diaria, porque esto se
+
+[00:03:18]
+mueve por, acuérdense que es una teoría
+
+[00:03:20]
+de rango de velas, es la el turtle top o
+
+[00:03:24]
+la sopa de tortuga de una vela de una
+
+[00:03:26]
+vela. Por ejemplo, esta vela que está
+
+[00:03:28]
+aquí. Fíjense como el precio toma ese
+
+[00:03:30]
+mínimo y luego posteriormente expande a
+
+[00:03:32]
+tomar ese máximo. Esto sucede tanto en
+
+[00:03:35]
+diario, en 4 horas, en una hora, en
+
+[00:03:39]
+todas las temporalidades. Entonces, la
+
+[00:03:41]
+idea, fíjense, aquí lo estoy enseñando
+
+[00:03:43]
+en diario, pero ahorita vamos a ver
+
+[00:03:44]
+ejemplos que tengo preparados para 4
+
+[00:03:46]
+horas. La idea es nosotros poder estar
+
+[00:03:49]
+comprando en este bajo de la vela de
+
+[00:03:52]
+diaria, en este caso sería, pero
+
+[00:03:54]
+nosotros como somos traders intradía, la
+
+[00:03:56]
+vamos a estar aplicando principalmente
+
+[00:03:59]
+en velas de 4 horas. Pero, ¿cómo nos
+
+[00:04:02]
+damos cuenta, Gustavo, de cuál es el
+
+[00:04:05]
+vallas? Pues bueno, tenemos que entender
+
+[00:04:07]
+primero la estructura de mercado, la
+
+[00:04:09]
+tendencia, la dirección del precio, o
+
+[00:04:12]
+sea, tenemos que poder razonar un poco.
+
+[00:04:14]
+Y lo otro, tener en claro los objetivos
+
+[00:04:17]
+en macro del precio, semanal, mensual,
+
+[00:04:20]
+diario. Por ejemplo, aquí cuando el
+
+[00:04:22]
+precio venía alcista, fíjense, todo este
+
+[00:04:24]
+movimiento alcista que ven por aquí,
+
+[00:04:27]
+este, lo que hace el precio es tener
+
+[00:04:30]
+como target este último alto diario. era
+
+[00:04:33]
+el que tenía como target. Y si se fijan,
+
+[00:04:36]
+ya vamos sacando de este lado a su lado
+
+[00:04:39]
+izquierdo, más partes donde el precio
+
+[00:04:41]
+tenía como target. Seguramente si
+
+[00:04:43]
+ustedes se van a una temporalidad mayor
+
+[00:04:45]
+puede van a ver que todos estos altos
+
+[00:04:47]
+que estoy marcando van a ser altos
+
+[00:04:49]
+principalmente de una temporalidad mucho
+
+[00:04:52]
+mayor. Entonces así nos podemos dar
+
+[00:04:54]
+cuenta cuáles son los targets. Entonces
+
+[00:04:57]
+diarios, semanales, mensuales. Eh, creo
+
+[00:05:00]
+que Will y Cluty mencionan que también
+
+[00:05:03]
+usan 6 horas, 8 horas, 12 horas,
+
+[00:05:05]
+etcétera, etcétera. siempre están viendo
+
+[00:05:08]
+diversas velas en diferentes
+
+[00:05:10]
+temporalidades porque ahí es donde están
+
+[00:05:12]
+los objetivos del precio. El precio va a
+
+[00:05:15]
+ir a neutralizar siempre esos bajos y
+
+[00:05:17]
+altos. Pero esta sería la, fíjense, esto
+
+[00:05:20]
+es la estrategia como tal, una tendencia
+
+[00:05:23]
+alcista de identificar la tendencia, ya
+
+[00:05:25]
+la tenemos la tendencia alcista y luego
+
+[00:05:27]
+identificar e que el precio vaya a
+
+[00:05:30]
+manipular, vaya a manipular este low,
+
+[00:05:33]
+este caso, manipule este low. cuando
+
+[00:05:35]
+manipula este low, nosotros queremos
+
+[00:05:37]
+entrar en la sopa de tortuga o en la
+
+[00:05:40]
+manipulación, por así decirlo. Los que
+
+[00:05:42]
+conozcan un poco de ICT saben, de ICT
+
+[00:05:44]
+saben esto, la manipulación y luego nos
+
+[00:05:47]
+iremos a una temporalidad menor. Fíjense
+
+[00:05:50]
+que lo estoy explicando con un ejemplo
+
+[00:05:51]
+diario, pero funciona principalmente 4
+
+[00:05:55]
+horas. es lo que utiliza más ellos
+
+[00:05:57]
+utilizan 4 horas, pero funciona en todas
+
+[00:05:59]
+las temporalidades. Eh, pero esto como
+
+[00:06:02]
+lo lo estoy explicando también en diario
+
+[00:06:04]
+funciona. Fíjense, nos vamos a una
+
+[00:06:06]
+temporalidad menor y ya que nos vamos a
+
+[00:06:08]
+una temporalidad menor, fíjense cómo
+
+[00:06:10]
+estra la sopa de tortuga de una
+
+[00:06:11]
+temporalidad diaria. Fíjense que en
+
+[00:06:14]
+nuestra temporalidad de 4 horas, el
+
+[00:06:16]
+precio hace lo mismo, toma el bajo de
+
+[00:06:20]
+esa vela y también acá tenía el alto.
+
+[00:06:24]
+Después posteriormente expande. Ahora en
+
+[00:06:27]
+nuestro horario, fíjense, esto es sesión
+
+[00:06:28]
+de Nueva York, justo sesión de Nueva
+
+[00:06:30]
+York. Entonces es importante el horario
+
+[00:06:33]
+porque el horario nos va a indicar la
+
+[00:06:35]
+vela siguiente de la expansión que puede
+
+[00:06:37]
+haber en el precio. Entonces nos vamos a
+
+[00:06:40]
+poder bajar a la temporalidad de una
+
+[00:06:42]
+hora y fíjense como ya identificamos lo
+
+[00:06:44]
+mismo. Fíjense como el precio hace un
+
+[00:06:47]
+mechazo. Identificamos lo mismo. Y aquí
+
+[00:06:50]
+fíjense como el precio toma, bueno,
+
+[00:06:53]
+imprime esta vela diari, esta vela de
+
+[00:06:56]
+esta vela aquí, imprime esta vela de una
+
+[00:06:58]
+hora y después de imprimir esa vela de
+
+[00:07:00]
+una hora, tomar toda la liquidez. En
+
+[00:07:03]
+esta vela de que estaba aquí no había
+
+[00:07:05]
+sacado la liquidez, pero en esta vela
+
+[00:07:07]
+que está aquí ya saca toda la liquidez y
+
+[00:07:09]
+después de sacarse toda la liquidez
+
+[00:07:11]
+ahora sí ya va por el máximo, ¿no?
+
+[00:07:13]
+Entonces, digamos que lo mismo que se
+
+[00:07:14]
+repite en 4 horas, fíjense, fui desde
+
+[00:07:17]
+diario, desde diario, ojo, eh, en este
+
+[00:07:20]
+ejemplo, ahorita voy a poner otro
+
+[00:07:21]
+ejemplo de 4 horas, pero desde diario y
+
+[00:07:25]
+hasta 4 horas. Y ahora les mostré como
+
+[00:07:28]
+en una hora también y va a suceder
+
+[00:07:30]
+también en M15. Fíjense que en M15 lo
+
+[00:07:33]
+que hace el precio es liquidar el último
+
+[00:07:36]
+mínimo. Ahora, cuando ya nos bajemos de
+
+[00:07:39]
+temporalidad y nosotros que vamos a
+
+[00:07:42]
+entrar en la parte más baja, dirás tú,
+
+[00:07:44]
+¿cómo sabes, Gustavo, que el precio ya
+
+[00:07:46]
+no va a continuar cayendo y que
+
+[00:07:48]
+realmente es ese mínimo? Porque ahora
+
+[00:07:51]
+pues cuando ya lo estás viendo hecho en
+
+[00:07:53]
+el precio es muy fácil, pero
+
+[00:07:55]
+anticiparlo, entrar antes de que suceda
+
+[00:07:57]
+es lo complicado o entonces no. Yo lo
+
+[00:08:01]
+que utilizo es cambio estructural. Ya me
+
+[00:08:04]
+gusta que lo haga en 4 horas y ya que lo
+
+[00:08:06]
+haga en 4 horas ya estoy bien. Si lo
+
+[00:08:08]
+hace en una hora pues mucho mejor, pero
+
+[00:08:11]
+ya lo que identifico es cambio
+
+[00:08:12]
+estructural tanto en 15 o en 5 minutos.
+
+[00:08:15]
+O también puedes ver la creación, los
+
+[00:08:17]
+que les guste los FBG, la creación de un
+
+[00:08:20]
+FBG inverso, un BPR, cosas de ese
+
+[00:08:23]
+estilo. Ya la confirmación es eso.
+
+[00:08:26]
+Entonces, aquí veo que el precio, yo en
+
+[00:08:29]
+este caso también utilizo inducciones,
+
+[00:08:32]
+pero veo la estructura bajista que venía
+
+[00:08:34]
+el precio. Fíjense como lo voy a dibujar
+
+[00:08:36]
+por
+
+[00:08:37]
+acá, lo dibujaré por
+
+[00:08:39]
+[Música]
+
+[00:08:41]
+aquí. Y se me perdió el pato. ¿Dónde
+
+[00:08:43]
+está mi pato?
+
+[00:08:48]
+Eh, ta ta ta. Perdón, gente, que no sé
+
+[00:08:51]
+ni dónde está el
+
+[00:08:54]
+plumón, ¿eh? Ah, aquí está. Ahora que me
+
+[00:08:57]
+costó. Este, esta es la estructura,
+
+[00:08:59]
+gente. Estructura bajista. Venía con una
+
+[00:09:02]
+estructura bajista. Aquí voy a poner en
+
+[00:09:04]
+blanco. Mínimo este mínimo este
+
+[00:09:08]
+máximo. Yo lo confirmo de esa manera.
+
+[00:09:10]
+Fíjense, aquí es donde toma el el
+
+[00:09:12]
+precio, toma el bajo diario y luego
+
+[00:09:15]
+después toma el bajo de una hora y de 4
+
+[00:09:17]
+horas. tiene, digamos que este mínimo.
+
+[00:09:20]
+Yo a partir de ahí pues no sé, realmente
+
+[00:09:23]
+tú dices, "No sabes, Gustavo, aunque
+
+[00:09:25]
+Will tiene una forma de poner el stop
+
+[00:09:27]
+bloss que ya lo tiene bien calculado,
+
+[00:09:29]
+pero les digo, yo lo voy a enseñar como
+
+[00:09:31]
+yo lo entiendo y como yo lo hago."
+
+[00:09:33]
+Entonces, aquí lo que hago es buscar que
+
+[00:09:36]
+el precio tenga una reversión en el
+
+[00:09:39]
+precio. Entonces, el precio, si se
+
+[00:09:40]
+fijan, viene hacia arriba. Tiene esta
+
+[00:09:43]
+zona de oferta donde debe de caer, pero
+
+[00:09:45]
+el precio lo que hace es formar un rango
+
+[00:09:48]
+y en lugar de caer viene para acá. Aquí,
+
+[00:09:52]
+¿qué buscaría yo? Fíjense, ¿qué buscaría
+
+[00:09:54]
+yo? Aquí lo hizo de esta manera el
+
+[00:09:56]
+precio, pero que yo buscaría muchas
+
+[00:09:57]
+veces como confirmación que el precio me
+
+[00:10:00]
+hiciera esto hacia arriba, me viniera
+
+[00:10:02]
+hacia abajo, me fallaran hacer un nuevo
+
+[00:10:05]
+bajo y me fuera con una nueva estructura
+
+[00:10:08]
+hacia arriba. Pero muchas veces crea en
+
+[00:10:11]
+lugar de hacer eso un rango como lo que
+
+[00:10:13]
+pueden ver aquí. Y cuando el precio ya
+
+[00:10:15]
+me confirme estructuralmente que ha que
+
+[00:10:18]
+esa esa estructura empieza a cambiar,
+
+[00:10:21]
+pues así yo eso como puedo montar una
+
+[00:10:24]
+entrada a la alza. Y esta sería la
+
+[00:10:27]
+entrada por por ejemplo que yo vería.
+
+[00:10:30]
+Ahora, ¿dónde tarjetearía?
+
+[00:10:33]
+Will dice que siempre se sale eh cuando
+
+[00:10:36]
+el precio pues toma el objetivo. En este
+
+[00:10:38]
+caso se veía el objetivo bastante claro,
+
+[00:10:40]
+se pueden salir aquí. Pero si tú ya
+
+[00:10:43]
+tienes como una confirmación de la
+
+[00:10:45]
+estructura bastante clara, puedes
+
+[00:10:49]
+inclusive apuntar a nuevos saltos, como
+
+[00:10:51]
+podría ser esto que está aquí. Pero lo
+
+[00:10:54]
+más seguro es salirse en los objetivos
+
+[00:10:57]
+de 4 horas, como puede ser esta vela que
+
+[00:10:59]
+está aquí, gente. Ahí es como lo más
+
+[00:11:01]
+seguro, inclusive en este máximo o ya
+
+[00:11:04]
+ustedes pueden tener, digamos, un ratio
+
+[00:11:07]
+de uno a tres fijo o lo o según su back
+
+[00:11:10]
+testing. Pero a mí, ¿cómo me gusta
+
+[00:11:12]
+salirse salirme? Yo en el Nasdaq, al
+
+[00:11:15]
+menos el eurodólar no lo opero, pero en
+
+[00:11:17]
+el Nasdaq ya tengo back testeado un
+
+[00:11:19]
+rango de precios que el mercado se
+
+[00:11:21]
+mueve, pero muy objetivamente puedes
+
+[00:11:24]
+decir en la próxima vela de 4 horas
+
+[00:11:26]
+donde lo toma ahí te puede salir. Y si
+
+[00:11:28]
+se van a una temporalidad
+
+[00:11:30]
+menor y si se van a una temporalidad
+
+[00:11:33]
+menor, eh pueden estar saliendo
+
+[00:11:36]
+objetivamente en ese máximo. O fíjense
+
+[00:11:39]
+cómo se veía este máximo muy bastante
+
+[00:11:41]
+muy claro. Si nosotros ponemos una
+
+[00:11:43]
+entrada, una posición larga desde aquí
+
+[00:11:45]
+más o menos
+
+[00:11:47]
+ahí ajustándolo. Aquí por ejemplo pueden
+
+[00:11:51]
+si ya ven que el precio se va a romper a
+
+[00:11:52]
+la alza, fíjense, incluso poniendo un
+
+[00:11:55]
+stop loss grandecito, eh, no ni siquiera
+
+[00:11:58]
+ocupas poner un stop loss tan tan
+
+[00:12:01]
+pequeño. Fíjense que aquí ya pueden
+
+[00:12:03]
+tirar por lo menos a uno a dos. Uno a
+
+[00:12:05]
+dos, está bien, uno a 2 y5 inclusive uno
+
+[00:12:08]
+a tres. Pero fíjense que esta entrada la
+
+[00:12:10]
+dio el precio hasta acá arriba, gente,
+
+[00:12:13]
+hasta acá arriba. Ese sería uno de los
+
+[00:12:15]
+ejemplos. Voy a mostrar otro ejemplo por
+
+[00:12:18]
+si no quedó claro. Igualmente es
+
+[00:12:21]
+importante que en los comentarios me
+
+[00:12:22]
+digan o me planteen sus dudas si no les
+
+[00:12:26]
+quedó claro y puedo hacer más ejemplos y
+
+[00:12:28]
+más detalles. Puedo también empezar a
+
+[00:12:31]
+hacer más reglas, empezarles a enseñar
+
+[00:12:33]
+más cosas, depende de ustedes. Siguen
+
+[00:12:35]
+apoyando los videos, me siguen
+
+[00:12:37]
+preguntando cosas, les traeré más
+
+[00:12:38]
+videos. Aquí tengo este, fíjense, aquí
+
+[00:12:41]
+interpretamos nuestro vallas bajista.
+
+[00:12:43]
+Vamos bajistas en el mercado, estamos
+
+[00:12:46]
+teniendo un retroceso, no es muy difícil
+
+[00:12:48]
+de darse cuenta que el precio viene
+
+[00:12:50]
+rompiendo las estructuras a la a la baja
+
+[00:12:52]
+y está probablemente bajista por
+
+[00:12:55]
+estructura de mercado, simple y
+
+[00:12:57]
+sencilla, ¿no? Entonces, nos encontramos
+
+[00:12:59]
+aquí en este caso en la sesión de en la
+
+[00:13:05]
+sesión de Nueva Bueno, de Londres, estos
+
+[00:13:07]
+Londres, sesión de Londres, miércoles 7
+
+[00:13:09]
+de mayo del 2025. Lo pueden ir a ver a
+
+[00:13:12]
+su gráfico también si ustedes eh para
+
+[00:13:15]
+que lo vean más claro. Y fíjense como el
+
+[00:13:17]
+precio como venía ya bajista obtuvo su
+
+[00:13:21]
+retroceso hasta este punto máximo.
+
+[00:13:24]
+Obtuvo su retroceso el precio y estamos
+
+[00:13:26]
+trabajando este rango de precios, ¿no?
+
+[00:13:28]
+obtuvo su retroceso, cayó, vino hacia
+
+[00:13:31]
+abajo y aquí el precio lo que hizo es un
+
+[00:13:33]
+pequeño retroceso, una pequeña, digamos
+
+[00:13:37]
+que inducción, porque teníamos toda esta
+
+[00:13:39]
+liquidez acá abajo, toda esa liquidez
+
+[00:13:41]
+ahí. Fíjense que es importante también
+
+[00:13:44]
+comprender los conceptos básicos de
+
+[00:13:46]
+smart money, de ICT, lo que tú utilices
+
+[00:13:48]
+para descifrar el precio. Y luego ya lo
+
+[00:13:51]
+importante es que nuestro horario,
+
+[00:13:53]
+fíjense como el precio, si yo marco este
+
+[00:13:55]
+rango de velas, este rango de velas,
+
+[00:13:58]
+este mínimo podría ser este otro mínimo,
+
+[00:14:00]
+pero yo marcaría, por ejemplo, ese
+
+[00:14:02]
+mínimo que está ahí y ese máximo. como
+
+[00:14:04]
+el precio para hacer su retroceso nos
+
+[00:14:08]
+toma el máximo justo justo en el
+
+[00:14:11]
+horario. El horario les va a ayudar
+
+[00:14:13]
+mucho para no andar tomando entradas en
+
+[00:14:16]
+cualquier parte, sino tomarlas en el
+
+[00:14:18]
+horario clave, que sería el horario de
+
+[00:14:20]
+la sesión de Londres y de Nueva York.
+
+[00:14:23]
+más para el euroólar, Nueva
+
+[00:14:25]
+York, perdón, Londres, pero Nueva York
+
+[00:14:28]
+muchas de las veces también se comporta
+
+[00:14:29]
+muy bien. Entonces, ahí nos bajaríamos
+
+[00:14:31]
+una hora, gente. Y en aquí en una hora,
+
+[00:14:35]
+en una hora, pues esperaríamos lo mismo.
+
+[00:14:37]
+Fíjense como esta entrada hace lo mismo.
+
+[00:14:40]
+Ahora tú te preguntarás, Gustavo, ¿y
+
+[00:14:43]
+cómo te das cuenta que eso va el precio
+
+[00:14:46]
+no va a seguir subiendo y ese realmente
+
+[00:14:48]
+va a ser el máximo? Porque eso es lo que
+
+[00:14:50]
+mucha gente se pregunta. Bueno, yo lo
+
+[00:14:53]
+que utilizo es cambio estructural. Will
+
+[00:14:56]
+sí, como ya tiene más experiencia, él sí
+
+[00:14:58]
+entra a en el puro pico, eh, en el puro
+
+[00:15:02]
+máximo, pero él ya tiene mucha más
+
+[00:15:04]
+experiencia. Aparte, fíjense que si nos
+
+[00:15:07]
+vamos a una hora, por eso es importante
+
+[00:15:09]
+ser observadores, también el precio nos
+
+[00:15:11]
+toma ese máximo que estaba ahí.
+
+[00:15:14]
+Fíjense cómo nos toma ese máximo. Y ya
+
+[00:15:16]
+aquí yo lo que me voy a mi 15 minutos, 5
+
+[00:15:19]
+minutos y lo que hago es
+
+[00:15:22]
+confirmar el
+
+[00:15:24]
+precio, confirmarlo con un cambio
+
+[00:15:26]
+estructural. Fíjense, en 15 minutos
+
+[00:15:28]
+también sucede lo mismo. De hecho, en 15
+
+[00:15:30]
+minutos es superbrutal porque es como
+
+[00:15:33]
+que el precio va replicando lo mismo en
+
+[00:15:34]
+todas las temporalidades. Fíjense cómo
+
+[00:15:37]
+ahí tenemos el última inducción en el
+
+[00:15:39]
+precio. Pero yo si ustedes quieren verlo
+
+[00:15:42]
+mejor pueden utilizar BPRs, este, a mí
+
+[00:15:47]
+incluso me gusta mirarlo en un minuto.
+
+[00:15:50]
+FGS, order blocks, creación de order
+
+[00:15:52]
+blocks, pero cambio estructural. Gente,
+
+[00:15:55]
+fíjense como el precio qué hace aquí en
+
+[00:15:59]
+estamos hablando de nuestra temporalidad
+
+[00:16:01]
+de M5. Temporalidad M5, gente. Genera
+
+[00:16:05]
+este máximo hasta ahí. Fíjense que está
+
+[00:16:08]
+dentro de la punto donde está generando
+
+[00:16:10]
+el máximo, imprimiendo el máximo. Aquí
+
+[00:16:12]
+es donde Will entraría, pero ya con un
+
+[00:16:14]
+poquito de experiencia ustedes lo pueden
+
+[00:16:16]
+afinar mejor. Aquí, ¿qué hace el precio?
+
+[00:16:18]
+Dejar dos mínimos iguales, generar una
+
+[00:16:22]
+manipulación. ¿Cómo sé que es una
+
+[00:16:23]
+manipulación? Cuando veo que el precio
+
+[00:16:25]
+está generando un movimiento bajista,
+
+[00:16:27]
+genera este rango. Y aquí en la ruptura
+
+[00:16:29]
+de este de esta estructura, cuando
+
+[00:16:32]
+ustedes ven que el precio está un
+
+[00:16:34]
+poquito reaccionando aquí y rompe esta
+
+[00:16:36]
+estructura, aquí se podrían haber metido
+
+[00:16:38]
+a la baja. Muchas de las veces esta
+
+[00:16:41]
+estrategia, no esperen que confirme
+
+[00:16:43]
+demasiado porque estamos entrando en el
+
+[00:16:46]
+punto, en el pico más alto de la
+
+[00:16:49]
+manipulación de una vela de 4 horas o de
+
+[00:16:51]
+una hora o la manipulación de ese rango.
+
+[00:16:54]
+Entonces, yo entraría de esta forma. Hay
+
+[00:16:55]
+veces que si hay que entrar un poco más
+
+[00:16:57]
+agresivo. La experiencia, gente, les va
+
+[00:16:59]
+a ir dando el nivel para poder poner
+
+[00:17:02]
+estas entradas. Y ahora mi target, pues
+
+[00:17:05]
+aquí está muy fácil, como el precio va
+
+[00:17:07]
+bajista, pues mi target sería este. Este
+
+[00:17:10]
+sería mi target un 1 225. Fíjense que
+
+[00:17:12]
+con stop loss h solgados, si entran de
+
+[00:17:15]
+manera más perfecta, como podría ser en
+
+[00:17:17]
+este máximo, por ejemplo, pueden tener
+
+[00:17:19]
+stoploss menos menos grandes, verad, ya
+
+[00:17:23]
+depende de cada ustedes, pero acuérdense
+
+[00:17:25]
+que es eh para un uno a dos, un uno a
+
+[00:17:29]
+tres, un uno a cu es suficiente para ser
+
+[00:17:31]
+totalmente rentables, ¿verdad, gente? Y
+
+[00:17:35]
+bueno, me voy a guardar otra entrada. Me
+
+[00:17:38]
+voy a guardar otra entrada que es la
+
+[00:17:40]
+entrada esta, esta que está aquí. Voy a
+
+[00:17:42]
+eliminar aquí. Me voy a guardar esta
+
+[00:17:45]
+entrada para un próximo video. Gente, si
+
+[00:17:48]
+les gusta mucho y apoyan en los
+
+[00:17:51]
+comentarios, voy a resolver preguntas y
+
+[00:17:54]
+dudas que tengan sobre la estrategia en
+
+[00:17:56]
+un próximo video. Y seguramente si
+
+[00:17:58]
+apoyan mucho con su me gusta y hay
+
+[00:18:00]
+muchos comentarios en este video, les
+
+[00:18:02]
+traeré ejemplos de esta entrada. Y
+
+[00:18:05]
+también si apoyan mucho el video, les
+
+[00:18:07]
+voy a enseñar también la estrategia en
+
+[00:18:10]
+el Nasdaq. Y quién sabe si quieren
+
+[00:18:12]
+también pueden decir me gusta o yo la
+
+[00:18:14]
+quiero que me la enseñes en el oro o a
+
+[00:18:16]
+mí me gusta mucho el Luis 30. Pues
+
+[00:18:19]
+bueno, déjenlo en los comentarios. Si yo
+
+[00:18:20]
+veo mucho apoyo, lo estaré trayendo,
+
+[00:18:23]
+estaremos analizándola más a fondo.
+
+[00:18:26]
+Recuerden que este no n más puede ser el
+
+[00:18:28]
+único video, sino que puede haber
+
+[00:18:30]
+muchísimos más videos, pero lo voy a
+
+[00:18:32]
+dejar por aquí porque si no se me hace
+
+[00:18:34]
+muy largo el video y pues no es plan.
+
+[00:18:37]
+Gracias por haber estado aquí. Nos vemos
+
+[00:18:39]
+en un próximo video. Síganme en
+
+[00:18:41]
+Instagram. Adiós.
+```

@@ -1,0 +1,28 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "tag:#status/synced", "color": { "a": 1, "rgb": 2278750 } },
+    { "query": "tag:#status/pending", "color": { "a": 1, "rgb": 16347926 } },
+    { "query": "path:Gustavom.Trader", "color": { "a": 1, "rgb": 3900150 } },
+    { "query": "path:MentoTrading", "color": { "a": 1, "rgb": 15485081 } },
+    { "query": "file:00_Index", "color": { "a": 1, "rgb": 15067115 } }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.4,
+  "lineSizeMultiplier": 1.1,
+  "collapse-forces": false,
+  "centerStrength": 0.4,
+  "repelStrength": 14,
+  "linkStrength": 1,
+  "linkDistance": 230,
+  "scale": 1,
+  "close": false
+}

@@ -1,0 +1,763 @@
+---
+source_id: YT_CANAL_02_knmt3XVYq-0
+video_id: knmt3XVYq-0
+channel: "Gustavom.Trader"
+published_at: 2022-02-07
+url: https://www.youtube.com/watch?v=knmt3XVYq-0
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 9
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# ANÁLISIS ORO Y EURO PRIMERA SEMANA DE FEBRERO-SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=knmt3XVYq-0)
+
+## Transcript
+
+```
+[00:00:03]
+tienen 20 igual bloque y miren qué
+
+[00:00:05]
+agresivo reaccionó
+
+[00:00:08]
+y para la próxima semana para
+
+[00:00:10]
+confirmación en esa zona
+
+[00:00:13]
+y nombre
+
+[00:00:21]
+vamos a buscar otro ejemplo en un padre
+
+[00:00:24]
+diferente
+
+[00:00:27]
+electoral alguna pregunta
+
+[00:00:30]
+entonces para la próxima semana
+
+[00:00:34]
+esperaríamos que volviera a subir al
+
+[00:00:37]
+bloque órdenes que tienes en h4 para
+
+[00:00:40]
+vender
+
+[00:00:43]
+aquí verá esa zona esa zona la tocó y
+
+[00:00:48]
+reaccionó fuerte
+
+[00:00:51]
+a bajar
+
+[00:01:01]
+puede que vuelva a subir
+
+[00:01:05]
+para mitigar ese bloque
+
+[00:01:10]
+puede quedar algo parecido a esto que
+
+[00:01:13]
+dará una liquidez aquí como un doble
+
+[00:01:16]
+techo
+
+[00:01:17]
+como que se vaya entonces avanza con
+
+[00:01:20]
+liquidez frente al bloque y ahí queda
+
+[00:01:28]
+los esperamos para las hermanas inicial
+
+[00:01:37]
+claro
+
+[00:01:39]
+y obviamente podemos refinar lo que lo
+
+[00:01:42]
+vamos a destinar
+
+[00:01:43]
+pero ya eso sería
+
+[00:01:47]
+para una señal
+
+[00:01:48]
+refinado para una señal podría por lo
+
+[00:01:51]
+menos el análisis de la dirección pero
+
+[00:01:53]
+tiene
+
+[00:01:57]
+vamos cambiando de paz
+
+[00:02:00]
+parece que ya esté lleva a analizar los
+
+[00:02:03]
+ambientes
+
+[00:02:07]
+con otros producción
+
+[00:02:13]
+el 2000
+
+[00:02:16]
+pero éste tiene más confirmación que
+
+[00:02:19]
+tiene un bloque de orden aquí arriba una
+
+[00:02:23]
+zona de interés aquí arriba filma mitigó
+
+[00:02:27]
+irrumpió
+
+[00:02:29]
+estructura
+
+[00:02:31]
+y ya que me forma el patrón vengan
+
+[00:02:37]
+limpia
+
+[00:02:43]
+mismo que aquí me tiró un bloque
+
+[00:02:47]
+me formó un amor del flow
+
+[00:02:51]
+es decir
+
+[00:02:55]
+una estructura buena
+
+[00:03:02]
+parece al patrón
+
+[00:03:05]
+y luego
+
+[00:03:07]
+mira cómo va
+
+[00:03:10]
+saca este último bajo
+
+[00:03:15]
+lo mismo que le dije ahorita aquí la
+
+[00:03:18]
+mayoría cuando llegué aquí a esa zona de
+
+[00:03:21]
+nuevo que rebote que solamente en venta
+
+[00:03:26]
+en compras cuando un san martín compras
+
+[00:03:29]
+porque ya entienden que rompió
+
+[00:03:31]
+estructura aquí pero eso es un engaño
+
+[00:03:35]
+no sirve
+
+[00:03:39]
+saca hacia abajo que es liquidez
+
+[00:03:45]
+en donde sean
+
+[00:03:46]
+elegibles
+
+[00:03:49]
+y viene aquí a una zona de bloques
+
+[00:03:53]
+y me ven cómo reacciona
+
+[00:03:57]
+ven aquí va a una su estructura
+
+[00:04:03]
+si se fijan ya los últimos el último
+
+[00:04:06]
+impulso retroceso impulso
+
+[00:04:08]
+retroceso y haz un quiebre de la
+
+[00:04:13]
+entonces ya para la semana que viene
+
+[00:04:17]
+nosotros buscaríamos el proceso
+
+[00:04:23]
+a la zona premium aquí
+
+[00:04:33]
+para irnos
+
+[00:04:36]
+en venta
+
+[00:04:38]
+siempre pediría
+
+[00:04:49]
+voy muy rápido me están entendiendo bien
+
+[00:04:54]
+vamos bien vamos bien
+
+[00:04:57]
+al que se llama
+
+[00:05:02]
+andy garcía
+
+[00:05:05]
+alguna pregunta hermano solo claro
+
+[00:05:12]
+si entonces por decir hay una línea de
+
+[00:05:15]
+tendencia que fue rota de la mayoría de
+
+[00:05:19]
+gente pero el tráiler como una esperar y
+
+[00:05:22]
+como que te esté esa zona rota para ir
+
+[00:05:24]
+en compras pero son engaños
+
+[00:05:26]
+correctamente el mal
+
+[00:05:31]
+eso lo que vienen para estas más frikis
+
+[00:05:36]
+esperamos que nos dé un buen break
+
+[00:05:40]
+creo que sabemos sacar
+
+[00:05:45]
+pero si se fijan con la información
+
+[00:05:48]
+correcta qué tiempo yo duré para
+
+[00:05:50]
+analizar eso menos diez minutos los
+
+[00:05:53]
+únicos que haría que se quedara en el
+
+[00:05:55]
+bloque que tengo aquí ya lo mítico y te
+
+[00:05:57]
+oro ya le equipara alante es analizar
+
+[00:06:01]
+con una mentalidad diferente
+
+[00:06:05]
+a lo que lo hace el 95 por ciento
+
+[00:06:08]
+pensar qué haría la mayoría la mayoría
+
+[00:06:11]
+buscaría comprar
+
+[00:06:15]
+la mayoría compraría
+
+[00:06:19]
+pero si los movimientos se dieran como
+
+[00:06:21]
+la mayoría de los nombres lo prevé el
+
+[00:06:25]
+mercado no fuera de colores fuera de
+
+[00:06:27]
+nosotros
+
+[00:06:28]
+pero sabemos que las instituciones son
+
+[00:06:31]
+los que mandan
+
+[00:06:34]
+nosotros nos formamos ni siquiera el 6%
+
+[00:06:36]
+de la líquida del mercado el mercado lo
+
+[00:06:39]
+mueven las grandes instituciones
+
+[00:06:41]
+donde nosotros tenemos que tratar de
+
+[00:06:44]
+nadar por la corriente muy en contra
+
+[00:06:50]
+ah
+
+[00:06:53]
+luego la eurozona
+
+[00:06:57]
+este lugar
+
+[00:06:59]
+a mover el rol del dólar
+
+[00:07:08]
+pero luego la
+
+[00:07:16]
+también fernando algo para ti
+
+[00:07:21]
+yo no tenía ganas habían entrado y todo
+
+[00:07:24]
+ya
+
+[00:07:25]
+y la semana que viene ya de entrada
+
+[00:07:33]
+y en la vagina
+
+[00:07:47]
+de una hora
+
+[00:07:52]
+y me digo
+
+[00:07:55]
+una liquidez que había por allá por aquí
+
+[00:07:57]
+por la izquierda y automáticamente
+
+[00:07:59]
+quebró su estructura
+
+[00:08:03]
+ponce aquí es un engaño parecido
+
+[00:08:09]
+porque siempre
+
+[00:08:12]
+aplicamos eso pero siempre
+
+[00:08:17]
+y viene haciendo un engaño parecido
+
+[00:08:22]
+a la misma hora
+
+[00:08:24]
+bueno
+
+[00:08:26]
+el bloque está por aquí los compases que
+
+[00:08:28]
+llevó los recibe sea lo que yo veía ahí
+
+[00:08:32]
+en m 1 m 1 m 3
+
+[00:08:35]
+entonces ya eso es material del curso
+
+[00:08:38]
+intensivo
+
+[00:08:41]
+entonces
+
+[00:08:44]
+vemos que llega el bloque
+
+[00:08:46]
+automáticamente quiere estructura en
+
+[00:08:48]
+volver flora saca
+
+[00:08:52]
+bien aquí empieza a caer ahí terminó la
+
+[00:08:55]
+sesión
+
+[00:08:58]
+entonces ya la semana que viene
+
+[00:09:01]
+viene a la baja
+
+[00:09:04]
+llena la baja
+
+[00:09:07]
+no hay más fundamentalmente el dólar
+
+[00:09:10]
+pues el dólar cayó mucho entonces está
+
+[00:09:13]
+una semana de recuperación
+
+[00:09:16]
+generalmente el euro/dólar mira cuando
+
+[00:09:19]
+sube hay una fundamental es grande y
+
+[00:09:23]
+sube así
+
+[00:09:23]
+[Música]
+
+[00:09:25]
+asimismo el recorrido
+
+[00:09:29]
+la que posiblemente nosotros tenemos una
+
+[00:09:31]
+semana muy buena y podemos agarrar toda
+
+[00:09:34]
+la trabaja podríamos tomar una una
+
+[00:09:38]
+entrada utilizando y nocivo en zona
+
+[00:09:40]
+premium para una entrada o esperar a la
+
+[00:09:44]
+y ahí hay mira y casi lo dio
+
+[00:09:50]
+y
+
+[00:09:52]
+ahí se quedó poquito pero ya estaba en
+
+[00:09:55]
+una zona
+
+[00:09:57]
+de descuento
+
+[00:09:59]
+si te fijas medio de ese factor aquí con
+
+[00:10:02]
+una mujer
+
+[00:10:04]
+el culo
+
+[00:10:19]
+tuve esta línea que marca x marca del
+
+[00:10:23]
+50%
+
+[00:10:25]
+1
+
+[00:10:31]
+entonces nosotros sobre el 50% nosotros
+
+[00:10:35]
+vamos a buscar venta porque está muy
+
+[00:10:38]
+prima en zona premium a partir del 50
+
+[00:10:42]
+pero estamos en zona premium omitimos
+
+[00:10:45]
+claramente el 61 8 ese número no nos
+
+[00:10:47]
+interesa para nada más
+
+[00:10:50]
+por ejemplo nos llama interesa para nada
+
+[00:10:55]
+los números que yo utilizo por
+
+[00:10:58]
+excelencia son ese 75 por ciento tiene
+
+[00:11:03]
+el tiempo por ciento
+
+[00:11:04]
+aquí lo puso un poquito más para abajo
+
+[00:11:06]
+porque había algo ahí interesante y
+
+[00:11:08]
+efectivamente creación o bien en la zona
+
+[00:11:12]
+para ser cierto mis amigos miró
+
+[00:11:15]
+te amo
+
+[00:11:16]
+hizo como una narración sistemática
+
+[00:11:19]
+sonante
+
+[00:11:20]
+entonces
+
+[00:11:23]
+para la semana que viene ya lo quedó eso
+
+[00:11:26]
+una buena bajada
+
+[00:11:29]
+y le entraba ya la dio aquí se puede
+
+[00:11:32]
+esperamos con formación que rompa y aquí
+
+[00:11:35]
+esté abajo
+
+[00:11:37]
+en el par actual que va formada y hasta
+
+[00:11:39]
+aquí ahí buscamos confirmación a nadie
+
+[00:11:42]
+no vamos y seguir mandando pero voy a
+
+[00:11:45]
+una venta muy buena
+
+[00:11:47]
+la veo muy buena
+
+[00:11:51]
+marque bien uno puede irse con un
+
+[00:11:55]
+fácilmente con 150
+
+[00:11:59]
+ponce luis llegó tarde ni siquiera ya lo
+
+[00:12:02]
+habías estado lo que es
+
+[00:12:04]
+y a la clase del acto y terminando
+
+[00:12:13]
+sería un 1 a 35 si refinamos un poquito
+
+[00:12:17]
+ahí
+
+[00:12:19]
+hoy no me llevan hasta unos 60 unos 50
+
+[00:12:22]
+pero bueno
+
+[00:12:23]
+tomamos lo que el mercado nos ofrece
+
+[00:12:34]
+esto análisis de todo modo lo vamos a
+
+[00:12:36]
+estar un poco más
+
+[00:12:41]
+lo análisis pero ya lo que son las
+
+[00:12:43]
+señales la entrada
+
+[00:12:46]
+especifica y eso va solamente por el
+
+[00:12:48]
+canal
+
+[00:12:50]
+sólo aumentaba por el canal de señales
+
+[00:12:52]
+que es un servicio pas
+
+[00:12:59]
+gracias a ustedes por comentar
+
+[00:13:01]
+muchísimas gracias
+
+[00:13:05]
+si no hay ninguna otra pregunta
+
+[00:13:09]
+vamos damos por terminada clase de hoy
+
+[00:13:12]
+espero que la información
+
+[00:13:15]
+le haya sido de mucha ayuda
+
+[00:13:17]
+información muy valiosa
+
+[00:13:25]
+y que la semana próxima podamos sacar
+
+[00:13:28]
+muchísimos rock
+
+[00:13:31]
+[Música]
+
+[00:13:35]
+y josé luís llegaste un poco tarde pero
+
+[00:13:37]
+la clase
+
+[00:13:39]
+está grabando
+
+[00:13:41]
+y la vamos a estar subiendo al canal de
+
+[00:13:44]
+youtube
+
+[00:13:45]
+así que cuando esté disponible
+
+[00:13:48]
+ahí la podrá ver
+
+[00:14:00]
+no tienen ninguna pregunta
+
+[00:14:02]
+parte de lo que se hizo en la clase no
+
+[00:14:04]
+sabemos nada más del poder
+
+[00:14:18]
+[Música]
+
+[00:14:26]
+no
+
+[00:14:30]
+bueno hay terminando terminando la
+
+[00:14:35]
+sesión pero te voy a escribir el
+
+[00:14:39]
+telegrama
+
+[00:14:40]
+para ponerte en contexto con lo que es
+
+[00:14:43]
+el pulso
+
+[00:14:45]
+intensivo
+
+[00:14:47]
+de nosotros
+
+[00:14:54]
+bueno pues entonces sin más que agregar
+
+[00:14:57]
+muchas bendiciones que pasen un feliz
+
+[00:15:00]
+fin de semana que la próxima semana sea
+
+[00:15:03]
+llena de brotes con dios mediante y que
+
+[00:15:06]
+pasen feliz rec toda la noche chau chau
+```

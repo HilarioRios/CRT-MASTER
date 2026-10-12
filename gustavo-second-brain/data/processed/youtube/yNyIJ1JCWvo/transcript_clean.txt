@@ -1,0 +1,1379 @@
+[00:00:09]
+la traducción es un poquito un poquito
+
+[00:00:12]
+mala pero yo creo que se entiende no
+
+[00:00:14]
+básicamente se basa en la inducción del
+
+[00:00:16]
+Rango inducir que él Busca que te
+
+[00:00:18]
+induzca en el rango después de una
+
+[00:00:20]
+inducción una toma de liquidez en ese
+
+[00:00:22]
+Rango y es donde él entra la posición
+
+[00:00:23]
+contraria y dice que él pone órdenes
+
+[00:00:26]
+límite Yo creo que el rango y luego
+
+[00:00:29]
+después ve la inducción y pone un orden
+
+[00:00:32]
+límite en algún punto de interés lo que
+
+[00:00:34]
+hace
+
+[00:00:36]
+[Música]
+
+[00:00:47]
+Esto es algo que ya les había enseñado
+
+[00:00:49]
+Yo hace un Smart money trap en el induce
+
+[00:00:52]
+primero lo que hace es inducir el precio
+
+[00:00:54]
+en el en el rango aquí llega un punto de
+
+[00:00:58]
+interés por acá abajo luego después
+
+[00:01:00]
+rompe estructuras y aquí te hace una
+
+[00:01:02]
+Smart Money trap después de haber tenido
+
+[00:01:04]
+una toma de liquidez y el precio
+
+[00:01:05]
+reabierta hacia abajo estos son los
+
+[00:01:07]
+movimientos por ejemplo que yo busco
+
+[00:01:09]
+pero yo no utilizo este Box para
+
+[00:01:11]
+descifrar Eso
+
+[00:01:12]
+estaría interesante empezar a aplicarlo
+
+[00:01:16]
+pero
+
+[00:01:17]
+es que hacer bastante me gustaría que
+
+[00:01:20]
+alguien de ustedes pudiera conseguir
+
+[00:01:22]
+este indicador yo no lo encontré me
+
+[00:01:24]
+gustaría tener el mismo indicador que él
+
+[00:01:26]
+y ponernos a analizar el precio si
+
+[00:01:29]
+quieren que lo hagamos ahora ahora
+
+[00:01:31]
+estaría chévere o en otra clase aún hay
+
+[00:01:34]
+tiempo yo creo que lo podemos
+
+[00:01:36]
+hacer hoy si encontramos ese indicador
+
+[00:01:37]
+porque no lo he encontrado y no pues lo
+
+[00:01:39]
+podríamos hacer con un indicador de
+
+[00:01:41]
+Rango y ahorita ver la hora exactamente
+
+[00:01:43]
+en la que él pone el horario que él pone
+
+[00:01:48]
+[Música]
+
+[00:01:57]
+Ah ya se puso con el euro dólar y les
+
+[00:02:01]
+gusta mucho eh
+
+[00:02:02]
+[Música]
+
+[00:02:19]
+el 30
+
+[00:02:23]
+[Música]
+
+[00:02:41]
+básicamente lo que le está diciendo que
+
+[00:02:43]
+él no opera en vivo o sea que bueno deja
+
+[00:02:47]
+un límite en algún punto de interés
+
+[00:02:49]
+después de tomar esa liquidez deja una
+
+[00:02:52]
+orden el límite ahí después de que
+
+[00:02:54]
+indució el precio o busca esa toma de
+
+[00:02:56]
+liquidez esa inducción y ahí es donde
+
+[00:02:58]
+Amanece con profit o Amanece con con
+
+[00:03:01]
+stop los Qué canal es el canal oficial
+
+[00:03:03]
+de My Forest phone es una entrevista que
+
+[00:03:05]
+le están haciendo a Nicolás que él
+
+[00:03:07]
+retiró 57 mil dólares y estamos viendo
+
+[00:03:09]
+cómo se relaciona con la clase que
+
+[00:03:11]
+estamos viendo el día de hoy que es la
+
+[00:03:12]
+cajita estamos viendo cómo lo utiliza la
+
+[00:03:15]
+cajita no como la yo la había enseñado
+
+[00:03:18]
+como nosotros la la habíamos comúnmente
+
+[00:03:21]
+aplicado O conocido sino que él utiliza
+
+[00:03:23]
+la cajita como como para ver las
+
+[00:03:25]
+inducciones que ha tenido el precio y a
+
+[00:03:28]
+partir de ahí tomar una entrada
+
+[00:03:30]
+contraria dice que normalmente lo que
+
+[00:03:32]
+hace el precio es ir induciendo y sí
+
+[00:03:34]
+muchas veces lo vimos en el en el
+
+[00:03:35]
+mercado vamos a ver un poco más y vamos
+
+[00:03:38]
+a ver si podemos podemos hacer un
+
+[00:03:40]
+poquito de backtesting sobre esto que
+
+[00:03:42]
+está explicando él y analizar nosotros
+
+[00:03:44]
+el precio pero a ver si encuentro el
+
+[00:03:47]
+indicador
+
+[00:03:48]
+[Música]
+
+[00:04:15]
+ahora en el oro eh ahora lo va a enseñar
+
+[00:04:18]
+en el oro ahorita vamos a marcar en el
+
+[00:04:21]
+en un en un gráfico vamos a y lo vamos a
+
+[00:04:23]
+analizar nosotros por nosotros
+
+[00:04:26]
+[Música]
+
+[00:04:34]
+mira esa entrada súper súper buena esa
+
+[00:04:37]
+entrada en el oro verdad todo súper
+
+[00:04:39]
+buena se mira se mira chida y
+
+[00:04:43]
+se mira bien ahora estoy viendo qué
+
+[00:04:47]
+horario tiene
+
+[00:04:51]
+[Música]
+
+[00:04:53]
+si quieren volverse comerciantes
+
+[00:04:56]
+rentable o Trader rentable deben de
+
+[00:04:58]
+tener una estrategia simple en eso
+
+[00:05:01]
+coincidimos mucho vamos a buscar el
+
+[00:05:03]
+horario vamos a les voy a dejar de
+
+[00:05:05]
+compartir por aquí alguien detectó el
+
+[00:05:07]
+horario A ver vamos a hacer el ejercicio
+
+[00:05:09]
+de la hora
+
+[00:05:13]
+creo que es desde aquí desde la hora
+
+[00:05:16]
+cero es que tiene un horario bien raro
+
+[00:05:18]
+este Man a las seis
+
+[00:05:22]
+[Música]
+
+[00:05:24]
+no sé si son 7 8 de la mañana yo lo voy
+
+[00:05:27]
+a bajar ocho de la mañana Ahorita lo
+
+[00:05:29]
+vemos vamos a dejar el ocho de la mañana
+
+[00:05:30]
+agarra todo este tramo del mercado vamos
+
+[00:05:32]
+a dejarlo ocho de la mañana de este
+
+[00:05:34]
+horario que está poniendo ahí más o
+
+[00:05:35]
+menos ahí y ahora vamos a hacer que este
+
+[00:05:38]
+indicador nos dé esa hora que 9 de 9 a
+
+[00:05:43]
+ver de 9 a 10 no esto es más para
+
+[00:05:45]
+enfrente esto es como 16 así 17 17 son 8
+
+[00:05:51]
+horas 17 17 22 puede ser no es más
+
+[00:05:57]
+17 23 Vais a la una a las 2 Ajá más o
+
+[00:06:03]
+menos este es el horario creo que le vi
+
+[00:06:05]
+ya si no si me equivoco me dicen de cero
+
+[00:06:08]
+a ocho me parece está usando la hora del
+
+[00:06:10]
+broker creo que sí de cero a ocho creo
+
+[00:06:13]
+que sí sí de cero a ocho aquí están
+
+[00:06:15]
+utilizando 0 0 a 8 aproximadamente la
+
+[00:06:18]
+cosa es que creo que ahí se ve más o
+
+[00:06:20]
+menos esto qué horario es A ver pues
+
+[00:06:22]
+gente habló de mi hora Esto es de la
+
+[00:06:25]
+tarde a ver
+
+[00:06:27]
+Esto es jueves
+
+[00:06:31]
+[Música]
+
+[00:06:32]
+Sonora es súper raro sesión asiática Ah
+
+[00:06:36]
+ok es la sesión asiática a la apertura
+
+[00:06:39]
+de Londres me parece Sí esa es la
+
+[00:06:41]
+apertura de Londres OK Porque él analiza
+
+[00:06:43]
+en Londres y ya Londres decide tomar un
+
+[00:06:46]
+Trade OK Sí sí hace sentido la sesión
+
+[00:06:49]
+asiática apertura de sesión de Asia a la
+
+[00:06:52]
+apertura de Londres antes de la apertura
+
+[00:06:54]
+de Londres ya encierra el rango aquí le
+
+[00:06:56]
+vamos a poner que esto no tenga
+
+[00:06:58]
+extensiones de horas no sé dónde se
+
+[00:07:01]
+quitaba este Line y la midline y
+
+[00:07:04]
+choplines también este es el rango que
+
+[00:07:06]
+él utiliza Okay aquí ya lo tengo bien
+
+[00:07:09]
+Ahora sí a ver vamos a ver qué vemos
+
+[00:07:12]
+aquí de hecho me gustaría ver con un
+
+[00:07:14]
+tramo al mercado que yo estuve viendo
+
+[00:07:16]
+operando a ver vamos a eliminar esto
+
+[00:07:18]
+normalmente él dice que son cinco
+
+[00:07:20]
+minutos este colorcito vamos a poner un
+
+[00:07:23]
+poquito más Vamos a ponerle un poquito
+
+[00:07:25]
+más fuerte está muy para ver el rango
+
+[00:07:27]
+bien ok eso es como que el rango De
+
+[00:07:30]
+hecho ahorita se está formando Ok aquí
+
+[00:07:32]
+tenemos de la primer como ejemplo de
+
+[00:07:34]
+hecho este fue del día lunes tenemos
+
+[00:07:36]
+este Rango que está aquí tenemos el
+
+[00:07:39]
+rango todo el rango asiático hasta la
+
+[00:07:41]
+apertura Londres tenemos el induzment y
+
+[00:07:44]
+el movimiento después viene el precio y
+
+[00:07:46]
+toma estos estos mitiga esto por acá
+
+[00:07:48]
+abajo y se da el movimiento es un
+
+[00:07:51]
+básicamente Buscar una inducción vamos a
+
+[00:07:53]
+ver más días por aquí aquí tuvimos aquí
+
+[00:07:55]
+no tuvimos tanto Bueno sí tuvimos un
+
+[00:07:58]
+industria en atacar este High y después
+
+[00:07:59]
+mitigamos por acá aparte por acá arriba
+
+[00:08:01]
+de hecho estas ventas a estas ventas no
+
+[00:08:05]
+las estuve tomando yo pero tuvimos este
+
+[00:08:07]
+esta inducción todo está movimiento en
+
+[00:08:10]
+inducción y después tenemos un
+
+[00:08:11]
+movimiento contrario que aquí dice en
+
+[00:08:13]
+teoría lo que le entendí él dejaría
+
+[00:08:15]
+órdenes límites ya él Busca yo creo que
+
+[00:08:17]
+puntos de interés específicos donde
+
+[00:08:19]
+puede que pueden llegar el precio a
+
+[00:08:21]
+inducir y ahí se ahí son de donde se
+
+[00:08:24]
+mete aquí esto no tenemos tanto una
+
+[00:08:26]
+inducción Bueno este este este no hizo
+
+[00:08:29]
+tanto una inducción este y se hace una
+
+[00:08:32]
+inducción y luego una reversión aquí un
+
+[00:08:34]
+movimiento hacia abajo
+
+[00:08:36]
+vamos a ver más más parte del Rango
+
+[00:08:39]
+tenemos Aquí no aquí tenemos una ruptura
+
+[00:08:43]
+Bueno sí tenemos una inducción hacia
+
+[00:08:44]
+abajo a tomar estos Lowe's que están
+
+[00:08:47]
+aquí dos louds y ya aquí el punto
+
+[00:08:50]
+tenemos un punto de interés acá abajo Ok
+
+[00:08:53]
+este fue este día este otro día también
+
+[00:08:57]
+este otro día no funcionó también esto
+
+[00:08:59]
+sí ya es más que nada una ruptura una
+
+[00:09:01]
+ruptura ya aquí también hay que
+
+[00:09:04]
+combinarle acción de precio y todos los
+
+[00:09:06]
+conocimientos que nosotros tenemos para
+
+[00:09:08]
+poder tomar a la mejor Aquí podría haber
+
+[00:09:11]
+tomado una venta en este punto de
+
+[00:09:13]
+interés también o alguna compra por
+
+[00:09:15]
+debajo la idea es como que tu Rango es
+
+[00:09:18]
+como la zona de liquidación y después ya
+
+[00:09:21]
+a partir de ahí tú tomas alguna decisión
+
+[00:09:23]
+ahora por ejemplo este Rango no no hizo
+
+[00:09:25]
+mucho este tampoco no hizo tampoco
+
+[00:09:27]
+demasiado Sí sí tiene tiene la toma de
+
+[00:09:30]
+liquidez acá ahorita estoy viendo muy
+
+[00:09:31]
+por encima Pero ya aquí tendríamos que
+
+[00:09:33]
+hacerle un backtestino un poco más
+
+[00:09:35]
+exhaustivo aquí de nuevo tenemos la toma
+
+[00:09:38]
+de liquidez Y tenemos una venta por acá
+
+[00:09:40]
+pero hay aquí hubo otra venta más más
+
+[00:09:43]
+fuerte aquí Tenemos aquí Esta sí
+
+[00:09:45]
+funciona bastante bien tenemos la
+
+[00:09:47]
+liquidez del renglybox luego tenemos los
+
+[00:09:50]
+dos altos iguales y tenemos la
+
+[00:09:52]
+mitigación de estepo y que está aquí y
+
+[00:09:54]
+aquí sí teníamos una orden límite en
+
+[00:09:56]
+venta súper buena de hecho este día sí
+
+[00:09:58]
+fue súper Bueno este día sí fue súper
+
+[00:10:00]
+Bueno a neutralizar la cajita por la
+
+[00:10:04]
+parte baja y a neutralizar esta liquidez
+
+[00:10:06]
+que estaba acá la que tenemos una doble
+
+[00:10:07]
+trap de nuevo a liquidar ese esos dos
+
+[00:10:10]
+hites que teníamos ahí y aquí tenemos
+
+[00:10:12]
+una trampa Bueno una doble trap y
+
+[00:10:14]
+viéndolo con el rango también pues
+
+[00:10:17]
+igualmente liquida los Los highs Iguales
+
+[00:10:21]
+este High que está acá y va viene a
+
+[00:10:24]
+hacer una distribución hacia abajo aquí
+
+[00:10:25]
+tenemos una inducción para los para los
+
+[00:10:28]
+vendedores de nuevo tenemos una
+
+[00:10:31]
+para los vendedores un punto de interés
+
+[00:10:32]
+incluso aquí nos da confirmaciones yo en
+
+[00:10:35]
+mi caso no sé él Ya yo creo que tiene
+
+[00:10:38]
+predefinido muy chido el hecho de poner
+
+[00:10:40]
+una orden el límite yo en mi caso yo la
+
+[00:10:43]
+verdad me lo lo levantaría a ver a ver
+
+[00:10:48]
+el precio en vivo pero dice que para
+
+[00:10:50]
+quitarse como la presión emocional lo
+
+[00:10:52]
+que hace es poner orden en el límite y
+
+[00:10:54]
+si aparece en su profit o aparece
+
+[00:10:56]
+Entonces ya él dice al siguiente día
+
+[00:10:58]
+vuelvo a hacer otro otro análisis ha de
+
+[00:11:01]
+ser bueno porque para retirar 57 mil
+
+[00:11:03]
+dólares de una cuenta de ser bueno lo
+
+[00:11:06]
+que pasa es que me imagino que como él
+
+[00:11:08]
+estuvo mostrando varios pares él A lo
+
+[00:11:10]
+mejor utiliza un punto 25 en un decir en
+
+[00:11:15]
+el 30 creo que el señor Luis 30 otro
+
+[00:11:19]
+punto veinticinco en el euro dólar o sea
+
+[00:11:21]
+pone varias entradas otro punto
+
+[00:11:23]
+veinticinco en el oro Yo creo que pone
+
+[00:11:25]
+treinta oro y y Euro dólar y creo que
+
+[00:11:28]
+está también estaba poniendo el el chef
+
+[00:11:32]
+el GP chef yo creo que aquí por ejemplo
+
+[00:11:35]
+una entrada Aquí en límite Está buena
+
+[00:11:38]
+por debajo de esa liquidez por aquí por
+
+[00:11:42]
+ejemplo posición está podríamos Poner
+
+[00:11:43]
+este punto de interés posición larga en
+
+[00:11:47]
+SP hoy vamos a simular una entrada que
+
+[00:11:49]
+podríamos llegar a tomar con este tipo
+
+[00:11:51]
+de como estrategia aquí podríamos decir
+
+[00:11:54]
+a este comienzo y el Stop loss aquí de
+
+[00:11:58]
+dar un stop los razonable no sé cuántos
+
+[00:12:00]
+toblos se le dé la verdad Pero podríamos
+
+[00:12:03]
+poner que te gusta 6 pips 6 pipetas y un
+
+[00:12:08]
+rr y aquí podríamos ir a atacar este
+
+[00:12:12]
+High podemos decir yo creo que atacar
+
+[00:12:14]
+este hype fíjense que está decente o sea
+
+[00:12:17]
+tres punto noventa y dos no está mal
+
+[00:12:19]
+aquí Tenemos también de nuevo un
+
+[00:12:21]
+justment y podemos haber tomado esta
+
+[00:12:23]
+venta por aquí exactamente en este punto
+
+[00:12:26]
+de interés me imagino que él mismo va
+
+[00:12:29]
+refinando los puntos de interés
+
+[00:12:31]
+aplicando aplicando más cosas no
+
+[00:12:33]
+solamente va dice que él utiliza action
+
+[00:12:36]
+también para darse cuenta como que Qué
+
+[00:12:38]
+tipo de entradas quiere tomar acá
+
+[00:12:40]
+Tenemos también de nuevo estos dos highs
+
+[00:12:43]
+y tenemos el punto de interés en este
+
+[00:12:46]
+caso Creo que este es el decisional Este
+
+[00:12:49]
+es el decisional y por acá arriba estaba
+
+[00:12:51]
+todo este extremo Entonces él A quién
+
+[00:12:54]
+has podido entrar decisión al extremo
+
+[00:12:56]
+este si tiene una ruptura pero también
+
+[00:12:59]
+aquí ya estábamos para vender ya no
+
+[00:13:01]
+estábamos en compras
+
+[00:13:02]
+no estábamos porque comprar aquí en este
+
+[00:13:05]
+Rango Entonces por ejemplo estos A lo
+
+[00:13:08]
+mejor este podría haber servido pero te
+
+[00:13:10]
+hayas acabado ya tenemos una trap toma
+
+[00:13:13]
+de liquidez en este punto de interés o
+
+[00:13:17]
+sea en general no lo estoy viendo que
+
+[00:13:19]
+está bien o sea no está tan mal ya
+
+[00:13:22]
+tendría que yo probarlo más tiempo y ya
+
+[00:13:26]
+como mi estrategia no sé qué tendrías
+
+[00:13:28]
+que hacer un estrategia que tanto
+
+[00:13:32]
+confluye con esto pero se mira bueno no
+
+[00:13:35]
+se mira decente este por ejemplo aquí
+
+[00:13:37]
+tenemos un una un canal el el también lo
+
+[00:13:41]
+que veo mucho es que vea las figuras que
+
+[00:13:43]
+están viendo todos los las personas y
+
+[00:13:45]
+busca canales triángulos o cosas que
+
+[00:13:47]
+haiga para inducir al precio y ahí puede
+
+[00:13:50]
+llegar a entrar de hecho esto también es
+
+[00:13:52]
+una entrada que nosotros tomaríamos esta
+
+[00:13:54]
+venta que está aquí por mi modelo de
+
+[00:13:56]
+entrada Gustavo el rectángulo lo define
+
+[00:13:59]
+la tendencia o qué puedes explicar el
+
+[00:14:01]
+rectángulo lo decide lo Define lo que es
+
+[00:14:04]
+la acumulación de la sesión asiática
+
+[00:14:06]
+normalmente lo Define lo que es la
+
+[00:14:09]
+acumulación de la sesión asiática por
+
+[00:14:11]
+eso normalmente lo que es la liquidez de
+
+[00:14:14]
+la sesión asiática es tomada casi
+
+[00:14:16]
+siempre por Londres y es inducciones en
+
+[00:14:20]
+pueden ser inducciones en Nueva York o
+
+[00:14:23]
+en Londres Qué significan inducciones
+
+[00:14:25]
+con tomas de liquidez y después una
+
+[00:14:28]
+reversión al lado contrario por ejemplo
+
+[00:14:29]
+este Box es toda la sesión de Asia
+
+[00:14:33]
+normalmente creo que es lo que marca es
+
+[00:14:35]
+la sesión de Asia luego viene una
+
+[00:14:37]
+inducción para los compradores hacia
+
+[00:14:40]
+arriba formando un canal una línea de
+
+[00:14:42]
+tendencia liquidez en sí atacar este
+
+[00:14:45]
+alto que esto ya es cuando
+
+[00:14:48]
+Abre Londres y a mitigar algún punto de
+
+[00:14:51]
+interés por esta parte de acá
+
+[00:14:52]
+normalmente eso es lo que sucede o sea
+
+[00:14:55]
+así se define el rango o el box se
+
+[00:14:58]
+define por la sesión asiática según lo
+
+[00:15:00]
+que las horas que le pude ver a este
+
+[00:15:03]
+hombre y tiene mucho sentido O sea que
+
+[00:15:06]
+casi siempre son tomas de liquidez en
+
+[00:15:10]
+Londres del Rango asiático y después de
+
+[00:15:12]
+esas tomas de liquidez cuando sucede un
+
+[00:15:14]
+movimiento verdadero por ejemplo Aquí
+
+[00:15:16]
+hay una pequeña toma de liquidez y luego
+
+[00:15:18]
+hay un movimiento verdadero y incluso él
+
+[00:15:22]
+dice que también toma o puede llegar a
+
+[00:15:23]
+tomar las que están por debajo del box
+
+[00:15:26]
+Como por ejemplo este tipo de entradas
+
+[00:15:28]
+una vez que el precio de inducción por
+
+[00:15:31]
+debajo puede tomar una reversión
+
+[00:15:32]
+básicamente son reversiones al lado
+
+[00:15:35]
+contrario del box o de la caja por
+
+[00:15:37]
+ejemplo este poi o este punto de interés
+
+[00:15:41]
+aquí o esta toma de liquidez Bueno este
+
+[00:15:44]
+do bueno esta toma de no sé si sea
+
+[00:15:46]
+suficiente para mí no no lo es para
+
+[00:15:49]
+vender por ahí pero
+
+[00:15:51]
+esta esta reversión Bueno este
+
+[00:15:54]
+movimiento al alza si podría ser ya aquí
+
+[00:15:56]
+también falta un poquito el contexto
+
+[00:15:58]
+Macro ya tendremos que analizar con el
+
+[00:16:01]
+contexto Macro pero en general se ve que
+
+[00:16:04]
+va bien Vamos a verlo en el treinta a
+
+[00:16:07]
+ver qué rollo saberlo en el us30 a ver
+
+[00:16:10]
+qué onda Este por ejemplo es el
+
+[00:16:13]
+movimiento del día de hoy la toma de
+
+[00:16:15]
+liquidez de este Low
+
+[00:16:17]
+del box la mitigación por la parte baja
+
+[00:16:20]
+en este punto de interés y está no está
+
+[00:16:23]
+mal la compra pero tampoco es que digas
+
+[00:16:25]
+que que bárbaro no al menos ese día aquí
+
+[00:16:29]
+la inducción esta inducción sí está
+
+[00:16:31]
+buena porque ya tendríamos una
+
+[00:16:33]
+estructura que podría decirnos que esto
+
+[00:16:36]
+podría empujar para abajo problema Esto
+
+[00:16:38]
+no es un nuevo mínimo aquí Entonces
+
+[00:16:40]
+tampoco lo veo tan tan buena pero ya si
+
+[00:16:44]
+tú estás utilizando tu estrategia del
+
+[00:16:45]
+box de la caja mágica dice él
+
+[00:16:48]
+así le va a poner yo creo a esta
+
+[00:16:51]
+estrategia la caja mágica estrategia de
+
+[00:16:54]
+la caja mágica
+
+[00:16:55]
+podría ser que esto sea una entrada para
+
+[00:16:58]
+ti en ventas porque ya estás viendo que
+
+[00:17:00]
+está tomando manipulando induciendo la
+
+[00:17:02]
+liquidez de los del alto Igualmente acá
+
+[00:17:06]
+y entonces la liquidez del alto y puede
+
+[00:17:08]
+ser que puedes llegar a tomar una venta
+
+[00:17:09]
+por acá lo que me lo que si lo que veo
+
+[00:17:13]
+mucho es que si tú tienes mucha
+
+[00:17:16]
+dirección
+
+[00:17:17]
+bueno mucho mucha experiencia en lo que
+
+[00:17:20]
+es el bayas o la dirección del precio de
+
+[00:17:22]
+estructura Macro puedes esperar
+
+[00:17:24]
+solamente a que el precio tome liquidez
+
+[00:17:26]
+del box y ya dictar tu entrada o sea
+
+[00:17:30]
+esperas a que el precio tome liquidez
+
+[00:17:31]
+del box y haces tu entrada
+
+[00:17:33]
+problema esto es en Londres normalmente
+
+[00:17:36]
+pero ya podrías levantarte por ejemplo
+
+[00:17:39]
+Nueva York por aquí y ya a ver que el
+
+[00:17:42]
+precio tomó algún tipo de liquidez y o
+
+[00:17:46]
+meterte a favor de esa tendencia o
+
+[00:17:48]
+meterte al al reverso por ejemplo Aquí
+
+[00:17:51]
+más o menos por aquí Londres toma
+
+[00:17:54]
+liquidez nosotros nos despertamos por
+
+[00:17:57]
+aquí y aquí podríamos valorar también a
+
+[00:18:00]
+la mejor este punto de interés por acá
+
+[00:18:02]
+abajo y esta estructura para colmar esta
+
+[00:18:05]
+entrada a la alza
+
+[00:18:06]
+ya va a ser es siempre es subjetivo la
+
+[00:18:12]
+manera en que se puede llegar a mirar
+
+[00:18:14]
+pero ya tendrías que
+
+[00:18:17]
+paso uno batear el box ver qué par vas a
+
+[00:18:21]
+utilizar y poner reglas que te hagan
+
+[00:18:24]
+tener algo objetivo no no Simplemente me
+
+[00:18:26]
+voy a levantar y cómo mido el box A ver
+
+[00:18:28]
+pues quién sabe no O sea sino que hacer
+
+[00:18:32]
+un backtesting para poner reglas y poner
+
+[00:18:35]
+entradas objetivas para tener una
+
+[00:18:38]
+estrategia clara no no Simplemente
+
+[00:18:39]
+utilizarlo obviamente él no te va a
+
+[00:18:41]
+decir exactamente utilizo tantos tips de
+
+[00:18:44]
+stop tanto tp y veo lo veo Simplemente
+
+[00:18:46]
+te está dando como mapeado que es lo que
+
+[00:18:49]
+yo también estoy haciendo
+
+[00:18:51]
+ruptura del box toma liquidez del High
+
+[00:18:54]
+esto es una venta buenísima De hecho
+
+[00:18:55]
+también Estas son las Mármol y trap esto
+
+[00:18:57]
+es una Smart Money trap Aquí está en mi
+
+[00:19:00]
+caso yo hubiera visto esta zona para
+
+[00:19:02]
+entrar en ventas a lo que veo yo en mi
+
+[00:19:05]
+caso yo con lo que utilizo estoy sin
+
+[00:19:08]
+porque básicamente es lo mismo pero
+
+[00:19:13]
+los que operan intradía o rangos más
+
+[00:19:16]
+pequeñitos les puede llegar a ayudar eh
+
+[00:19:19]
+puede llegar a ayudar aquí ya hay una
+
+[00:19:21]
+toma de liquidez y en general no se mira
+
+[00:19:25]
+mal Pero te digo que ya depende como tú
+
+[00:19:27]
+lo tomes se puede llegar a ver tan
+
+[00:19:29]
+subjetivo este por ejemplo es una
+
+[00:19:32]
+inducción aquí a los compradores
+
+[00:19:34]
+mitigación del punto de interés y aquí
+
+[00:19:37]
+tienes una venta por ejemplo vamos a
+
+[00:19:39]
+simular esta venta tú tendrías que poner
+
+[00:19:42]
+yo pondría esta doble Mecha Porque estos
+
+[00:19:44]
+son liquidez y pondrías a doble Mecha y
+
+[00:19:48]
+aquí podría llegar a tener una entrada
+
+[00:19:50]
+en corto él dice que los hagas en
+
+[00:19:52]
+límites pero la verdad yo no me
+
+[00:19:55]
+atrevería a hacer límites yo pondría más
+
+[00:19:57]
+que nada
+
+[00:19:58]
+viendo el precio no y dice que él toma
+
+[00:20:01]
+uno a cinco uno a diez o sea es
+
+[00:20:03]
+impresionante el ratio que tiene Ya me
+
+[00:20:06]
+imagino que él ya tiene bien va testeado
+
+[00:20:08]
+ese tipo de movimientos del uno A diez y
+
+[00:20:10]
+Luna pero él como opera Londres No ya
+
+[00:20:14]
+nosotros nos levantaríamos en Nueva York
+
+[00:20:16]
+no sé qué tan bueno sea para Nueva York
+
+[00:20:18]
+por ejemplo no levantaríamos más o menos
+
+[00:20:21]
+cinco de la mañana cinco y media yo me
+
+[00:20:23]
+levanto por aquí nos levantaríamos
+
+[00:20:25]
+nosotros a lo mejor se puede llegar a
+
+[00:20:27]
+tomar una entrada Aquí en este retroceso
+
+[00:20:29]
+Igualmente es buena pero veo que en
+
+[00:20:32]
+Londres o para la sesión de Londres
+
+[00:20:34]
+funciona a veces mucho mejor no Ya por
+
+[00:20:37]
+ejemplo Bueno este ya la habíamos visto
+
+[00:20:39]
+es una una compra en este Breaker Y eso
+
+[00:20:42]
+es lo que puedo ver
+
+[00:20:44]
+[Música]

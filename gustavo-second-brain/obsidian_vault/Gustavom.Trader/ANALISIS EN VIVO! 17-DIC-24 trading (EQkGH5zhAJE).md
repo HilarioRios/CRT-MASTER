@@ -1,0 +1,871 @@
+---
+source_id: YT_CANAL_02_EQkGH5zhAJE
+video_id: EQkGH5zhAJE
+channel: "Gustavom.Trader"
+published_at: 2024-12-18
+url: https://www.youtube.com/watch?v=EQkGH5zhAJE
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 9
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# ANALISIS EN VIVO! 17-DIC-24 #trading
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=EQkGH5zhAJE)
+
+## Transcript
+
+```
+[00:00:28]
+al
+
+[00:00:58]
+al al
+
+[00:01:54]
+y Bueno estoy probando probando
+
+[00:01:58]
+audio e
+
+[00:02:54]
+bueno probando probando audio
+
+[00:03:03]
+probando probando audio probando Hola
+
+[00:03:05]
+qué tal chicos estamos en
+
+[00:03:09]
+vivo creo que se escucha bien por ahí
+
+[00:03:12]
+los que estén me dicen estamos en vivo y
+
+[00:03:15]
+en directo Vamos a darle porque
+
+[00:03:18]
+hoy qué tal andrey qué tal hoy vamos a
+
+[00:03:22]
+darle duro porque tenemos
+
+[00:03:25]
+este tengo poco tiempo hoy Hola qué está
+
+[00:03:29]
+se escucha bien todo se escucha bien se
+
+[00:03:38]
+escucha mi internet no anda muy bien que
+
+[00:03:41]
+digamos chicos Pero espero que no haiga
+
+[00:03:45]
+fallas si ven que se cae de repente
+
+[00:03:48]
+háganle
+
+[00:03:49]
+f6 f6 f5 f6 vuelvan a
+
+[00:03:54]
+hacerle que mi internet no no anda como
+
+[00:03:57]
+al 100
+
+[00:04:07]
+creo que todo va bien todo bien Todo va
+
+[00:04:09]
+bien todo bien Todo va bien okay chicos
+
+[00:04:13]
+Déjenme por acá no más pongo el chat por
+
+[00:04:16]
+este lado y vamos a darle de una gente
+
+[00:04:19]
+que hoy no tengo tantísimo tiempo como
+
+[00:04:22]
+otros días Entonces vamos a hacer unos
+
+[00:04:25]
+40 minutitos de en vivo y ya está no
+
+[00:04:30]
+entonces me pueden dejar los pares que
+
+[00:04:32]
+ustedes quieren que analice y los
+
+[00:04:33]
+analizo con todo gusto eh Ya saben que
+
+[00:04:36]
+el espacio es creado para todos ustedes
+
+[00:04:39]
+no tambén pueden ir dejando su like en
+
+[00:04:42]
+tiktok y en YouTube please Se los
+
+[00:04:45]
+agradezco bastante para que nos
+
+[00:04:46]
+recomiende la plataforma las plataformas
+
+[00:04:49]
+y vamos a empezar con en principio vamos
+
+[00:04:51]
+a empezar con
+
+[00:04:52]
+nasdaq y luego después de nasdaq vamos a
+
+[00:04:55]
+ir con los demás pares
+
+[00:04:58]
+eh también les agradezco si comparten el
+
+[00:05:01]
+directo y le dan like gente le pueden
+
+[00:05:03]
+dar like Es gratis y así más gente se
+
+[00:05:07]
+conecta estamos ya iniciando creo que me
+
+[00:05:09]
+dicen que por ahí que todo va excelente
+
+[00:05:11]
+Déjenme n más compruebo por acá creo que
+
+[00:05:14]
+todo va excelente no tengo pérdida de
+
+[00:05:16]
+paquetes
+
+[00:05:17]
+no lo digo porque no está tan tan tan
+
+[00:05:21]
+bien
+
+[00:05:22]
+el no está tambi el Internet pero creo
+
+[00:05:25]
+que va todo bien okay okay dicen
+
+[00:05:27]
+Perfecto Bueno el espacio es que ha dado
+
+[00:05:29]
+para para ustedes voy a estar aquí no
+
+[00:05:31]
+tanto tiempo unos 40 minutos Entonces el
+
+[00:05:33]
+que tenga pares que quiera que analice
+
+[00:05:35]
+pues me lo dice el momento es ahora para
+
+[00:05:39]
+que analicemos todos juntos vamos a
+
+[00:05:42]
+empezar con el gráfico del nasdaq ya
+
+[00:05:45]
+ayer quería hacer directo pero no pude
+
+[00:05:46]
+hacer directo ya avanzado un poquito la
+
+[00:05:48]
+semana y vamos a mapear el último Bueno
+
+[00:05:53]
+vamos a ver primero futuros en futuros
+
+[00:05:55]
+fíjense que tenemos en el gráfico de
+
+[00:05:58]
+futuros eh este alto que es este no ha
+
+[00:06:02]
+sido tomado y luego ya hemos en gráfico
+
+[00:06:06]
+de futuros venido a este order
+
+[00:06:09]
+block lo vamos a poner como una zona de
+
+[00:06:11]
+demanda el nasda está muy fácil chicos
+
+[00:06:14]
+eh Está muy fácil creo que voy a
+
+[00:06:16]
+terminar muy super rápido está bastante
+
+[00:06:19]
+fácil llegamos a esta zona de demanda
+
+[00:06:22]
+aparte rellenamos el el imb este que
+
+[00:06:24]
+está aquí veamos el imbalance este que
+
+[00:06:27]
+está aquí y tomamos el bajo también del
+
+[00:06:30]
+día lunes acuérdense que ya en nu en ya
+
+[00:06:34]
+para las sesiones
+
+[00:06:36]
+de eur bueno de Asia ya ha tomado este
+
+[00:06:39]
+este bajo es eses y ya la vela del día
+
+[00:06:43]
+martes está corriendo entonces Nosotros
+
+[00:06:46]
+hemos tomado este que está
+
+[00:06:48]
+aquí eso lo hemos tomado y actualmente
+
+[00:06:52]
+tenemos los dos saltos solamente por ahí
+
+[00:06:56]
+solamente tenemos los dos saltos por ahí
+
+[00:06:59]
+a ver que que me estaba marcando rror
+
+[00:07:02]
+YouTube con de repente como que se cae
+
+[00:07:05]
+pero es que por aquí si se si se llega a
+
+[00:07:08]
+caer o algo le dan f6 y ya se se vuelve
+
+[00:07:11]
+Entonces tenemos los dos salos
+
+[00:07:14]
+estos est viendo gráfico de
+
+[00:07:17]
+futuros son altos diarios altos diarios
+
+[00:07:21]
+y hemos tomado actualmente el alto
+
+[00:07:22]
+diario rellenando el bajo diario perdón
+
+[00:07:25]
+rellenando el imbalance ese que estaba
+
+[00:07:28]
+ahí
+
+[00:07:34]
+este Okay este rellenando el
+
+[00:07:41]
+imbalance se va un
+
+[00:07:44]
+poco porque este hay una una poco
+
+[00:07:48]
+pérdida de
+
+[00:07:51]
+paquetes le hacen f6 chicos
+
+[00:07:56]
+please me Rayo un poco porque creo que
+
+[00:07:59]
+vaya todo bien pero bueno tambén Saludos
+
+[00:08:01]
+a la gente de tiktok es gratis seguirme
+
+[00:08:04]
+no cobramos es gratis seguirme a la
+
+[00:08:06]
+gente de tiktok saludos en tiktok creo
+
+[00:08:08]
+que no se está cortando pero en YouTube
+
+[00:08:10]
+se está cortando un poco no más del f6 y
+
+[00:08:13]
+ya está Es que mi internet está como que
+
+[00:08:16]
+como como como que en
+
+[00:08:18]
+Rango pero se se arregla se arregla va
+
+[00:08:22]
+va mediana este imbalance que teníamos
+
+[00:08:24]
+por
+
+[00:08:25]
+aquí cerramos este imb que teníamos por
+
+[00:08:28]
+ahí
+
+[00:08:30]
+este y después llegamos a esa zona bueno
+
+[00:08:33]
+el nasdaq está fácil no vamos a ponerlo
+
+[00:08:36]
+por ejemplo acá Bueno vamos a dejarlo Sí
+
+[00:08:39]
+vamos a ponerlo acá Este es el bajo el
+
+[00:08:42]
+el el alto semanal que teníamos de esta
+
+[00:08:45]
+semana tenemos este alto semanal en esta
+
+[00:08:48]
+semana y ese alto digamos que es el que
+
+[00:08:51]
+nosotros logramos ir en futuros en cfd
+
+[00:08:56]
+no Hemos llegado pero en futuro Es
+
+[00:08:57]
+cierto que ya Hemos llegado a la zona de
+
+[00:08:59]
+de Breaker a partir de ahí yo haría una
+
+[00:09:02]
+proyección totalmente alcista vamos a
+
+[00:09:04]
+poner por ejemplo diario creo que ya no
+
+[00:09:07]
+es necesario que lo ponga Pero bueno en
+
+[00:09:09]
+cfd si se fijan no hemos tomado todavía
+
+[00:09:11]
+el imbalance pero en futuros ya futuros
+
+[00:09:14]
+ya hemos tomado el imbalance de hecho y
+
+[00:09:16]
+hemos tomado también el bajo este diario
+
+[00:09:18]
+es el
+
+[00:09:20]
+mismo hemos tomado ese que está ahí eh
+
+[00:09:24]
+luego tenemos el alto que sería este
+
+[00:09:27]
+alto de aquí que sería actualmente el
+
+[00:09:31]
+rango
+
+[00:09:32]
+diario y por por la parte baja ya no
+
+[00:09:35]
+tenemos bajos diarios hasta mero abajo
+
+[00:09:38]
+hasta la zona Esta que está acá abajo es
+
+[00:09:41]
+la zona en la que abrimos el día lunes
+
+[00:09:44]
+hasta esa zona es donde tuvimos nosotros
+
+[00:09:46]
+este por ahí tuvimos
+
+[00:09:51]
+eh abrimos a partir de ahí de esa semana
+
+[00:09:54]
+no estoy un poquito rayado porque
+
+[00:09:56]
+YouTube está perdiendo un poco paquetes
+
+[00:09:58]
+pero tiktok va excelente bueno como que
+
+[00:10:01]
+se va si se corta chicos n más denle f6
+
+[00:10:04]
+se vuel a poner normal es que mi
+
+[00:10:07]
+conexión no va super fina
+
+[00:10:10]
+hoy Voy llegando contexto estamos
+
+[00:10:13]
+analizando primero contexto David me
+
+[00:10:15]
+puedes seguir si te interesas aprender
+
+[00:10:17]
+trading y luego segundo estamos
+
+[00:10:20]
+analizando el nasdaq
+
+[00:10:22]
+100 Ese es el
+
+[00:10:25]
+contexto est analizando el índice del
+
+[00:10:28]
+nasdaq para los próximos días
+
+[00:10:31]
+Ah creo que va va bien en YouTube
+
+[00:10:34]
+sí Y creo que en YouTube sigue bien
+
+[00:10:37]
+gente YouTube Ayúdenme con los likes
+
+[00:10:39]
+también es gratis Ayúdenme con los likes
+
+[00:10:42]
+gente de YouTube También acá en tiktok
+
+[00:10:44]
+se los agradecería bastante entonces
+
+[00:10:48]
+eh les decía del nasdaq que hemos tomado
+
+[00:10:51]
+este bajo ahora en la apertura tomamos
+
+[00:10:53]
+ese abajo hicimos de hecho un un un Gap
+
+[00:10:56]
+hicimos un pequeño Gap eh
+
+[00:10:59]
+por aquí hicimos un pequeño Gap creo que
+
+[00:11:01]
+se ve mejor en 5 minutos bueno en un
+
+[00:11:04]
+minuto es donde se ve
+
+[00:11:05]
+mejor hicimos un pequeño Gap eh dónde
+
+[00:11:10]
+fue en en algunos Brokers no se vio el
+
+[00:11:14]
+Gap pero en algunos otros Sí pero por
+
+[00:11:16]
+aquí hicimos un pequeño Gap Luego fuimos
+
+[00:11:18]
+hacia abajo y luego ahora Estamos
+
+[00:11:19]
+recuperando un poco el terreno pero
+
+[00:11:22]
+eh está para mí está bastante fácil el
+
+[00:11:25]
+nasdaq simplemente a partir de de a
+
+[00:11:28]
+partir de esta zona de Breaker que les
+
+[00:11:30]
+decía de toda esta zona que está aquí a
+
+[00:11:32]
+partir de esta zona de Breaker Y a
+
+[00:11:34]
+partir de esta zona pues la proyección
+
+[00:11:36]
+que voy a hacer es
+
+[00:11:38]
+al a tomar por lo menos esos saltos que
+
+[00:11:41]
+están
+
+[00:11:42]
+ahí y ya está sencillo
+
+[00:11:47]
+No por qué hablas con la z
+
+[00:11:51]
+eh tengo algunas muletillas este Santino
+
+[00:11:56]
+Pero así hablo Ah como como
+
+[00:11:59]
+como Hola
+
+[00:12:03]
+eh No sé así
+
+[00:12:06]
+hablo No sabría decirte no
+
+[00:12:11]
+este Pero cómo ven chicos gracias por
+
+[00:12:14]
+los likes en tiktok eh Se les quiere
+
+[00:12:16]
+mucho a la gente de tiktok no iba de
+
+[00:12:19]
+hecho prender like en tiktok pero dije
+
+[00:12:21]
+no tengo que prender al Live también
+
+[00:12:23]
+para mi gente de tiktok llevamos 343
+
+[00:12:26]
+gracias a la gente por sus likes en
+
+[00:12:28]
+YouTube está un poquito más flojos con
+
+[00:12:30]
+los likes la gente no le gusta dar me
+
+[00:12:32]
+gusta no sé por qué pero bueno Ahí está
+
+[00:12:34]
+la proyección del nasdaq eh Y bueno aquí
+
+[00:12:37]
+está el gráfico de cfds en el cfds no
+
+[00:12:39]
+hemos mitigado el Breaker pero en futuro
+
+[00:12:42]
+Sí y ya saben que el gráfico que a mí me
+
+[00:12:43]
+importa siempre ha sido el de futuros el
+
+[00:12:46]
+de futuros siempre ha sido el gráfico
+
+[00:12:48]
+importante Entonces estamos bastante
+
+[00:12:50]
+bien con el nasda alguien tiene
+
+[00:12:52]
+preguntas o dudas con el nasda Yo creo
+
+[00:12:53]
+que el nazda está muy fácil está
+
+[00:12:55]
+bastante sencillo eh si a partir de aquí
+
+[00:12:58]
+no respeta esto y cae Gustavo pues
+
+[00:13:01]
+podríamos venir a una zona de 4 horas
+
+[00:13:03]
+probablemente se podría meter en este
+
+[00:13:05]
+bloque que está aquí o en este bloque
+
+[00:13:07]
+acá que está acá pero seguramente Pues
+
+[00:13:10]
+podría llegar a hacerlo pero ya saben
+
+[00:13:12]
+que a mí me gusta ponerle una flechita
+
+[00:13:14]
+yo soy un hombre de flechas y me nos
+
+[00:13:17]
+gusta aquí en este canal tenerla Clara
+
+[00:13:19]
+verdad Nos equivoquemos o no está más
+
+[00:13:22]
+feo ese nasdaq para mí se me hace lindo
+
+[00:13:25]
+no tiene una tendencia alcista y se me
+
+[00:13:29]
+me hace fácil no se me hace muy difícil
+
+[00:13:33]
+este Ok listo con el nasd Bueno dejemos
+
+[00:13:38]
+el nasda í Aparte ya lo tenemos bien
+
+[00:13:40]
+bien listo vamos a pasar con 30 vamos a
+
+[00:13:45]
+analizar el 30 Bueno ahí están las
+
+[00:13:47]
+proyecciones que les había dejado las
+
+[00:13:48]
+semanas anteriores no se ha tocado nada
+
+[00:13:51]
+ahorita lo vamos a borrar y vamos a
+
+[00:13:52]
+empezar de nuevo este Fue en un análisis
+
+[00:13:55]
+de hecho que hicimos acá el precio se
+
+[00:13:57]
+encontraba el precio enra aquí estábamos
+
+[00:14:01]
+en un análisis en vivo se encontraba en
+
+[00:14:02]
+esta aquí Exactamente no aquí se
+
+[00:14:05]
+encontraba lo hicimos
+
+[00:14:07]
+este No amigo yo no yo no analizo memes
+
+[00:14:11]
+en este canal no se analiza memes no y
+
+[00:14:13]
+no no son recomendaciones de inversión
+
+[00:14:15]
+tampoco eh solamente son análisis cada
+
+[00:14:18]
+uno toma sus propias decisiones ni son
+
+[00:14:20]
+recomendaciones de inversión ni tampoco
+
+[00:14:22]
+se analizan memes en este
+
+[00:14:26]
+canal Entonces el gráfico de eh gracias
+
+[00:14:30]
+por la rosa antom Igualmente gracias por
+
+[00:14:32]
+la Rosa
+
+[00:14:34]
+Este lo único que vi de Pepe es que una
+
+[00:14:36]
+chica ganó como 27 millones con con 27 o
+
+[00:14:42]
+2 algo así pero bueno yo no no le meto a
+
+[00:14:46]
+nada a eso Bueno vamos con el Us 30
+
+[00:14:48]
+chicos Vamos a ponernos seriecito porque
+
+[00:14:50]
+el tiempo se va y hoy no tengo tanto
+
+[00:14:51]
+tiempo como
+
+[00:14:52]
+antes Entonces el us30 les había
+
+[00:14:55]
+proyectado este movimiento bajista
+
+[00:14:57]
+habíamos visto esta primera Smart Money
+
+[00:14:59]
+trap eh Síganme acá con atención vamos a
+
+[00:15:02]
+analizarlo con atención les había
+
+[00:15:04]
+proyectado yo esta Smart Money trap el
+
+[00:15:06]
+precio fue para abajo y lo sabíamos que
+
+[00:15:09]
+venía otra zona de smt yo esperaba que
+
+[00:15:12]
+en esta zona no reaccionara tan fuerte
+
+[00:15:14]
+el precio pero fíjense que fuimos hasta
+
+[00:15:16]
+el extremo Pero igualmente termina
+
+[00:15:19]
+siendo un smt y luego en otro en vivo
+
+[00:15:21]
+que tuvimos por zoom que lo hicimos con
+
+[00:15:23]
+la comunidad de de Telegram que si no se
+
+[00:15:27]
+han unido a Telegram se pueden unir a
+
+[00:15:29]
+Telegram en cualquier video de YouTube
+
+[00:15:32]
+en la descripción se encuentra el
+
+[00:15:33]
+Telegram para que se unan casi estamos
+
+[00:15:35]
+llegando ya a los 600 en Telegram me
+
+[00:15:37]
+agradecería bastante que se unieran me
+
+[00:15:39]
+pueden seguir también es totalmente
+
+[00:15:41]
+gratis gente se pueden suscribir bueno
+
+[00:15:43]
+cosillas y en un en vivo les proyecte
+
+[00:15:46]
+este movimiento desde aquí otra ve Smart
+
+[00:15:48]
+Money trap Y luego el movimiento bajista
+
+[00:15:50]
+y fíjense todo lo que hemos caído desde
+
+[00:15:53]
+esta proyección
+```

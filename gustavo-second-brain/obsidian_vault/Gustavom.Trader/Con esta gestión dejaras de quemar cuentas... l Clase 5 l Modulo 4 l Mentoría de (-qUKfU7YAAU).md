@@ -1,0 +1,538 @@
+---
+source_id: YT_CANAL_02_-qUKfU7YAAU
+video_id: -qUKfU7YAAU
+channel: "Gustavom.Trader"
+published_at: 2024-10-12
+url: https://www.youtube.com/watch?v=-qUKfU7YAAU
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 4
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Con esta gestión dejaras de quemar cuentas... l Clase 5 l Modulo 4 l Mentoría de Trading Gratis
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=-qUKfU7YAAU)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Qué pasa a todos chicos esta vez
+
+[00:00:01]
+Gustavo aquí con la clase número cinco
+
+[00:00:04]
+de nuestra mentoría gratuita 2024 módulo
+
+[00:00:08]
+número cuatro Ya estamos en la última
+
+[00:00:09]
+clase y esta clase va a ser de gestión
+
+[00:00:11]
+de riesgo y gestión de tu Trade Cómo
+
+[00:00:14]
+podrías gestionar ese riesgo y este
+
+[00:00:16]
+Trade vamos a ver primero Qué es la
+
+[00:00:19]
+gestión de riesgo entender perfectamente
+
+[00:00:21]
+queé es la gestión de riesgo y vamos a
+
+[00:00:23]
+ver es la distribución correcta del
+
+[00:00:25]
+capital según los números de Trade que
+
+[00:00:27]
+hacemos al día semana o mes entonces la
+
+[00:00:30]
+la distribución correcta de mi capital
+
+[00:00:32]
+según la frecuencia que entro en el
+
+[00:00:34]
+mercado Cuántos trades hago al día la
+
+[00:00:36]
+semana al mes etcétera etcétera es
+
+[00:00:39]
+arriesgar un porcentaje adecuado por
+
+[00:00:42]
+Trade para no perderlo en una sola idea
+
+[00:00:45]
+de comercio verad básicamente no
+
+[00:00:47]
+arriesgar todo en una sola idea verad es
+
+[00:00:50]
+no apalancarse demasiado en una sola
+
+[00:00:52]
+idea de comercio y tener el riesgo de
+
+[00:00:55]
+perderlo todo es esencial para saber
+
+[00:00:58]
+cómo gestionar pasar una cuenta de
+
+[00:01:00]
+fondeo cómo trabajar con capital privado
+
+[00:01:03]
+capital propio Recuerden que eh la
+
+[00:01:06]
+gestión de riesgo en en empresas de
+
+[00:01:09]
+fondeo en pruebas de fondeo no es la
+
+[00:01:11]
+misma en un challenge o una cuenta real
+
+[00:01:14]
+en un broker o en un capital privado es
+
+[00:01:17]
+diferente entonces es importante Conocer
+
+[00:01:19]
+bien a fondo la gestión de riesgo
+
+[00:01:21]
+también depende mucho del número de
+
+[00:01:23]
+frecuencia de tus TR hechos verdad yo
+
+[00:01:25]
+por ejemplo para pruebas de fondeo suelo
+
+[00:01:27]
+usar un 2% agresivo y con reservad 1%
+
+[00:01:30]
+para cuentas like ya depende de qué
+
+[00:01:33]
+depende de Cuántos trad haces a la
+
+[00:01:34]
+semana Yo siempre digo esto por qué
+
+[00:01:37]
+depende tanto Gustavo Por qué haces
+
+[00:01:39]
+tanto hincapié en eso porque si tú haces
+
+[00:01:42]
+muchísimos trads y usas un riesgo que no
+
+[00:01:44]
+es adecuado vas a poder quemar tu cuenta
+
+[00:01:46]
+en cambio haces muchísimos trades
+
+[00:01:48]
+pierdes muchísimo pero usas una gestión
+
+[00:01:51]
+de riesgo adecuado no vas a perder tu
+
+[00:01:53]
+cuenta tú puedes estar operando de
+
+[00:01:55]
+manera agresiva y haciendo pocos trades
+
+[00:01:58]
+y no vas a perder tu cuenta por por
+
+[00:02:00]
+porque arriesgaste un 2% no la vas a
+
+[00:02:03]
+perder porque tú haces muy pocos trades
+
+[00:02:05]
+Entonces es importante que tú tengas muy
+
+[00:02:07]
+en cuenta eso de la gestión de riesgo
+
+[00:02:09]
+verdad Aquí vamos a ver unos puntos a
+
+[00:02:11]
+tomar en cuenta a considerar a la hora
+
+[00:02:14]
+de tener o gestionar una entrada
+
+[00:02:16]
+hablando Ya de la gestión de la
+
+[00:02:17]
+operación ya cuando ya entré ya puse mi
+
+[00:02:20]
+stop loss ya puse mi Take profit cómo
+
+[00:02:23]
+voy a estar durante el Trade es bien
+
+[00:02:25]
+importante que tú sepas Qué hacer
+
+[00:02:27]
+durante el Trade esto lo tenemos que
+
+[00:02:30]
+definir también en reglas claras Qué
+
+[00:02:32]
+hago yo durante el Trade vas a poner
+
+[00:02:34]
+breakeven por ejemplo Cuándo vas a poner
+
+[00:02:37]
+lo vas a poner el break even mucha gente
+
+[00:02:39]
+no sabe Pero puede ser dañino en
+
+[00:02:41]
+diferentes estrategias poner break even
+
+[00:02:43]
+no siempre es lo mejor muchas personas
+
+[00:02:45]
+piensan que poner break even Ah Es lo
+
+[00:02:47]
+mejor porque ya sí ya no pierdo pero
+
+[00:02:49]
+muchas veces te limita de más ganancias
+
+[00:02:51]
+yo por ejemplo no pongo break even en mi
+
+[00:02:53]
+estrategia Pero puede ser que en tu
+
+[00:02:55]
+estrategia te ayuda en otras estrategias
+
+[00:02:57]
+no entonces según la estrategia puede
+
+[00:02:59]
+ser beneficioso perjudicial vas a poner
+
+[00:03:02]
+descargas de presión que son los
+
+[00:03:03]
+parciales que ya les había hablado sobre
+
+[00:03:04]
+esto estos disminuyen tu rr pero te
+
+[00:03:07]
+aseguran estar tomando beneficios más
+
+[00:03:08]
+constantes estar más tranquilo tomar una
+
+[00:03:11]
+parte de una operación eh si tomarás
+
+[00:03:14]
+beneficios cuánto tomarás vas a tomar un
+
+[00:03:17]
+50% al beneficio al 1 a TR al 1 a cu eh
+
+[00:03:20]
+tres de 35 por un tercio un 80% etcétera
+
+[00:03:25]
+etcétera entonces todo eso lo tienes que
+
+[00:03:27]
+definir para cuando estés en el Trade
+
+[00:03:30]
+durante el Trade ya el precio está
+
+[00:03:32]
+corriendo ahí se te está yendo a favor
+
+[00:03:33]
+Se te está yendo en contra no me no te
+
+[00:03:35]
+me pongas a inventar nada Tú ya tienes
+
+[00:03:39]
+tus reglas definidas correctamente antes
+
+[00:03:42]
+ya sabes dónde vas a tomar parciales ya
+
+[00:03:44]
+sabes dónde vas a salir vas a poner bak
+
+[00:03:46]
+even vas a mover el Stop loss a stop
+
+[00:03:48]
+profit etcétera etcétera Vas a agregar
+
+[00:03:50]
+más posiciones todo eso ya lo tienes que
+
+[00:03:52]
+tener definido claramente aguantará
+
+[00:03:55]
+hasta tu Target hasta el final sin
+
+[00:03:57]
+derecho a hacer nada tienes beneficios
+
+[00:03:59]
+Como por ejemplo no tener la necesidad
+
+[00:04:00]
+de estar al pendiente de la operación eh
+
+[00:04:03]
+También la gestión del Trade tiene sus
+
+[00:04:06]
+pros y sus contras Por ejemplo yo entro
+
+[00:04:08]
+pongo stop L profit y dejo que la
+
+[00:04:10]
+operación curra tiene sus beneficios
+
+[00:04:12]
+porque no ocupo estar al pendiente del
+
+[00:04:13]
+Trade pero por ejemplo tú quieres ir
+
+[00:04:15]
+recorriendo el Stop loss poco a poco
+
+[00:04:17]
+conforme avanza tu operación tiene
+
+[00:04:19]
+también sus sus eh cosas perjudiciales
+
+[00:04:22]
+como por ejemplo estar más al pendiente
+
+[00:04:24]
+de la operación eh Tienes que ir viendo
+
+[00:04:27]
+Estos factores que todos estos detalles
+
+[00:04:29]
+te van a afectar psicológicamente Sí o
+
+[00:04:31]
+sí en tu trading es importante que
+
+[00:04:33]
+tengas tus reglas definidas antes de
+
+[00:04:35]
+estar en un Trade cuando ya estés dentro
+
+[00:04:37]
+no vas a no te vas a comportar de esa
+
+[00:04:39]
+manera verad Ya tienes tus reglas
+
+[00:04:41]
+definidas reglas adicionales como
+
+[00:04:43]
+detalles del precio zonas donde se irá
+
+[00:04:45]
+salir es importante ser objetivos con
+
+[00:04:47]
+estas reglas y tratar de mecanizar lasas
+
+[00:04:49]
+para optar por una rutina que nos ayude
+
+[00:04:52]
+a ser más consistente por último tenemos
+
+[00:04:54]
+un ejemplo de mi gestión de Trade
+
+[00:04:56]
+siempre entro en la misma for de la
+
+[00:04:58]
+misma forma pongo mi mismo tamaño de
+
+[00:05:00]
+stop loss y mantengo el mismo ratio
+
+[00:05:02]
+riesgo beneficio hay personas que dicen
+
+[00:05:04]
+bueno Gustavo yo uso un un a dos uno a
+
+[00:05:06]
+tres pero en base a qué en base a como
+
+[00:05:10]
+lo vea cómo que como lo veas chico
+
+[00:05:13]
+tienes que tener objetivamente Por qué
+
+[00:05:16]
+estás metiendo un uno a dos Y por qué
+
+[00:05:17]
+estás metiendo un uno a tres bueno
+
+[00:05:19]
+Gustavo Yo siempre tengo un uno a dos
+
+[00:05:21]
+por qué Porque mi baces me arroja que el
+
+[00:05:23]
+uno a dos siempre es el más frecuente
+
+[00:05:24]
+que se me da Ah Es diferente estás de
+
+[00:05:27]
+manera objetiva teniendo tu Target tengo
+
+[00:05:29]
+un Target fijo ya definido en mi Back
+
+[00:05:31]
+testing no pongo B nunca y dejo correr
+
+[00:05:34]
+los beneficios hasta mi Target mucha
+
+[00:05:35]
+gente dice No yo siempre pongo Bing
+
+[00:05:37]
+break cuando ya va uno a uno por qué Oh
+
+[00:05:40]
+pues porque me siento más tranquilo Okay
+
+[00:05:41]
+está bien Es válido pero si puede ser
+
+[00:05:44]
+que estadísticamente te no te beneficie
+
+[00:05:46]
+puede ser que estés dejando de ganar
+
+[00:05:48]
+cuando tu estrategia podría ser más
+
+[00:05:50]
+ganadora es más perdedora porque estás
+
+[00:05:52]
+cortando las ganancias porque el precio
+
+[00:05:54]
+lo pones en breakeven pago el precio que
+
+[00:05:56]
+se mueva mientras y si se eh si no puse
+
+[00:06:00]
+Break y se me va en contra me salgo
+
+[00:06:02]
+Igualmente Eh hay diferentes factores tú
+
+[00:06:06]
+puedes gestionar como quieras solo lo
+
+[00:06:07]
+importante es que tomes en cuenta las
+
+[00:06:09]
+debilidades y fortalezas tanto de tu
+
+[00:06:11]
+estrategia como de tu las tuyas y de tu
+
+[00:06:14]
+gestión de Trade verdad es bien
+
+[00:06:16]
+importante que tú siempre estés midiendo
+
+[00:06:18]
+este tipo de cosas verad y estos tipo de
+
+[00:06:20]
+parámetros Yo espero que esta guía te
+
+[00:06:22]
+sirva y te ayude a definir cada una de
+
+[00:06:25]
+tus reglas Gracias por estar aquí si
+
+[00:06:27]
+tienes alguna duda o pregunta te leo en
+
+[00:06:28]
+los comentarios y nos vemos en un
+
+[00:06:30]
+siguiente videoo adiós
+```

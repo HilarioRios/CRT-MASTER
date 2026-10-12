@@ -1,0 +1,806 @@
+[00:00:00]
+pues Hola Qué pasa a todos amigos
+
+[00:00:01]
+estamos en un nuevo video esta vez
+
+[00:00:02]
+nuestra clase número tres de nuestro
+
+[00:00:05]
+módulo número tres vamos a empezar con
+
+[00:00:08]
+los mapeos los mapeos acuérdense que son
+
+[00:00:10]
+para poder enfocarnos para tener un mapa
+
+[00:00:14]
+de trabajo para operaciones en el día a
+
+[00:00:17]
+día Muchas personas me preguntan Gustavo
+
+[00:00:19]
+Cómo le hago para analizar desde cero
+
+[00:00:21]
+para poder tener entradas y para poder
+
+[00:00:23]
+ejecutar muy bien una estrategia Pues
+
+[00:00:26]
+ahora les voy a decir nuestro mapeo para
+
+[00:00:28]
+la gente que quiere ser scalping el
+
+[00:00:31]
+objetivo es crear un mapa para poder
+
+[00:00:32]
+trabajar en operaciones tipo scalping de
+
+[00:00:34]
+corto plazo aprender a identificar
+
+[00:00:37]
+fractales o zonas de interés y formas de
+
+[00:00:39]
+trabajo nuestros pasos van a ser m15
+
+[00:00:42]
+tendencia m5 patrón patrón y M1 refine
+
+[00:00:48]
+básicamente es así de sencillo vamos a
+
+[00:00:50]
+identificar tendencia vamos a
+
+[00:00:52]
+identificar un patrón de entrada y
+
+[00:00:55]
+nuestro refine y ya está van a ser
+
+[00:00:57]
+operaciones de scalping operaciones que
+
+[00:00:59]
+duran muy poco tiempo Entonces vamos
+
+[00:01:03]
+allá tendencia gráficos de m15 buscar la
+
+[00:01:05]
+dirección inmediata los fractales Y a
+
+[00:01:07]
+partir de ahí revisar y altos y bajos de
+
+[00:01:09]
+sesiones Este sí es importante revisar
+
+[00:01:12]
+bajos y altos de sesiones además de su
+
+[00:01:13]
+estructura
+
+[00:01:15]
+principal el patrón m5 vamos a buscar el
+
+[00:01:18]
+fractal a trabajar y la zona de entrada
+
+[00:01:19]
+a favor de la dirección encontrada
+
+[00:01:21]
+previamente también medir el tamaño de
+
+[00:01:23]
+la zona en M1 vamos a buscar un patrón
+
+[00:01:26]
+de estructural de cambio y entrar
+
+[00:01:30]
+básicamente es así de sencillo luego
+
+[00:01:33]
+pasos de estrategia de scalping Pues
+
+[00:01:35]
+aquí tenemos los pasos paso número uno
+
+[00:01:39]
+tendencia nuestra tendencia en m15 es
+
+[00:01:41]
+alc luego después un retroceso en m5
+
+[00:01:45]
+llegando a ese punto de interés de la
+
+[00:01:47]
+tendencia de 15 minutos el punto de
+
+[00:01:49]
+interés lo vamos a identificar en 15
+
+[00:01:51]
+minutos y en nuestro último fractal de
+
+[00:01:53]
+m5 vamos a buscar nuestra entrada o
+
+[00:01:56]
+nuestro primer
+
+[00:01:57]
+eh motivo nuestro segundo motivo perdón
+
+[00:02:00]
+de nuestro primer motivo y en eh la
+
+[00:02:03]
+temporalidad menor de M1 en este caso
+
+[00:02:05]
+vamos a buscar un refine para tener un
+
+[00:02:06]
+stop block más pequeño todavía poder
+
+[00:02:09]
+tener una mejor entrada por último
+
+[00:02:12]
+tenemos recomendaciones mejores horarios
+
+[00:02:14]
+para scalping suele ser aperturas de
+
+[00:02:16]
+Nueva York y Londres operar en futuros
+
+[00:02:18]
+es mejor porque no tenemos deslizamiento
+
+[00:02:19]
+ni expreess eso son recomendaciones para
+
+[00:02:21]
+los scalpers para hacer scalp es
+
+[00:02:24]
+importante estar atento porque el precio
+
+[00:02:26]
+suele moverse rápido y tienen que estar
+
+[00:02:28]
+muy muy pegados a ahí a la pantalla
+
+[00:02:30]
+porque al hacer scalping Pues el precio
+
+[00:02:33]
+se va rápido mueve muy rápido las
+
+[00:02:35]
+entradas de los scalper 3 4 minutos 5
+
+[00:02:38]
+minutos 10 minutos como máximo eh un
+
+[00:02:41]
+scalper que dura mucho son 20 minutos en
+
+[00:02:44]
+conclusión esperar su entrada ejecutar
+
+[00:02:46]
+rápido sus targets de acuerdo a su
+
+[00:02:48]
+fatalidad y sea preciso para haer
+
+[00:02:50]
+scalper sí tenemos que tener un punto de
+
+[00:02:52]
+entrada más preciso y Ahorita les voy a
+
+[00:02:55]
+enseñar cómo vamos a estar trabajando
+
+[00:02:57]
+Bueno chicos empezamos con nuestro mapeo
+
+[00:02:59]
+en este caso de 15 minutos vamos a
+
+[00:03:02]
+estudiar 15 minutos para ver qué
+
+[00:03:04]
+operaciones pudimos haber obtenido y
+
+[00:03:06]
+para hacerles ejemplos de lo que son
+
+[00:03:09]
+tipos de mapeos por scalping verdad o
+
+[00:03:12]
+cómo vamos a estar trabajando en un mapa
+
+[00:03:14]
+para scalping Entonces vamos a simular
+
+[00:03:16]
+que nosotros pudimos haber tomado una
+
+[00:03:18]
+entrada el jueves 27 de junio del 2024
+
+[00:03:23]
+esta entrada se dio en Londres sesión de
+
+[00:03:26]
+Londres también vamos a ubicar eh
+
+[00:03:29]
+nuestros puntos altos de lo que es la
+
+[00:03:32]
+sesión asiática aquí tenemos el punto
+
+[00:03:35]
+alto de la sesión asiática y podemos
+
+[00:03:37]
+identificar también altos y bajos del
+
+[00:03:39]
+día aunque no es tan relevante pero
+
+[00:03:42]
+simplemente nos vamos a quedar con el
+
+[00:03:43]
+rango asiático este fue nuestro último
+
+[00:03:46]
+Rango asiático y ya ustedes lo pueden ir
+
+[00:03:50]
+comprobando hay muchísimos indicadores
+
+[00:03:52]
+que te dicen esto entonces cualquier
+
+[00:03:53]
+indicador te puede valer que te muestre
+
+[00:03:55]
+las sesiones operativas el más frecuente
+
+[00:03:59]
+o el el que más bueno se me hace es el
+
+[00:04:01]
+asian session Range este lo puedes poner
+
+[00:04:04]
+aquí asian session Range y es el que más
+
+[00:04:08]
+yo podría utilizar para eso no vamos a
+
+[00:04:10]
+utilizar eso para que no se me confundan
+
+[00:04:13]
+Pero simplemente ubiquen los altos y los
+
+[00:04:15]
+bajos bajos asiáticos de Londres o de
+
+[00:04:17]
+Nueva York en este caso vamos a usar
+
+[00:04:19]
+pura estructura de mercado para que
+
+[00:04:21]
+ustedes tengan más claridad entonces
+
+[00:04:23]
+Este es mi último punto bajo estamos en
+
+[00:04:25]
+15 minutos mapeando a punto de tener un
+
+[00:04:29]
+cont donde podíamos tener mejor entrada
+
+[00:04:31]
+peor entrada siempre teniendo en cuenta
+
+[00:04:34]
+nuestras zonas impulso
+
+[00:04:36]
+retroceso tenemos acá un nuevo máximo
+
+[00:04:39]
+Este es el nuevo último nuevo mínimo
+
+[00:04:41]
+relevante Este es un quiebre de
+
+[00:04:42]
+estructura Este es mi decisional y este
+
+[00:04:44]
+es mi último punto entonces a partir de
+
+[00:04:47]
+ahí tenemos decisional y extremo de
+
+[00:04:49]
+nuestra estructura entonces este sería
+
+[00:04:52]
+el ciclo o fractalidad que vamos a
+
+[00:04:54]
+trabajar después vamos a validar nuestro
+
+[00:04:58]
+punto de interés nuestra liquidez
+
+[00:05:00]
+fíjense que teníamos liquidez acá dos
+
+[00:05:02]
+bajos iguales el decisional tenía dos
+
+[00:05:04]
+bajos iguales Y a partir de ahí tienen
+
+[00:05:07]
+ustedes que tener exactamente bien
+
+[00:05:10]
+refinado el punto de interés mucha gente
+
+[00:05:12]
+enseña no que tienes que refinar el blo
+
+[00:05:14]
+el punto Exacto la verdad que no
+
+[00:05:16]
+Simplemente entendiendo que este era mi
+
+[00:05:18]
+último bloque relevante de de ahí a
+
+[00:05:22]
+partir de ahí ya podemos obtener
+
+[00:05:24]
+nosotros una mayor Claridad en el precio
+
+[00:05:27]
+ahora lo que vamos a pasar es a a m5
+
+[00:05:30]
+para ver un patrón de entrada y luego
+
+[00:05:32]
+vamos a ir a M1 para obtener todavía
+
+[00:05:35]
+mejor
+
+[00:05:42]
+probabilidad Bueno chicos ahora Estamos
+
+[00:05:44]
+en m5 en m5 ustedes ya lo pueden ir a
+
+[00:05:47]
+ver más claro fíjense que teníamos un
+
+[00:05:48]
+punto de interés que tenía dos bajos
+
+[00:05:52]
+iguales que es cierto que era el
+
+[00:05:53]
+decisional Pero tenía dos bajos iguales
+
+[00:05:55]
+era liquidez Y a partir de ahí ya pueden
+
+[00:05:58]
+ustedes tener toda esta esta zona de
+
+[00:06:00]
+interés debajito de la liquidez y
+
+[00:06:02]
+fíjense justo debajo de la liquidez se
+
+[00:06:04]
+da nuestra entrada ahora qué procede
+
+[00:06:07]
+gustado cómo vamos a llegar a tomar
+
+[00:06:09]
+nuestra entrada pues muy fácil vamos a
+
+[00:06:11]
+buscar el cambio estructural en este
+
+[00:06:14]
+caso nos podemos bajar M1 inclusive te
+
+[00:06:16]
+podrías quedar en m5 pero vamos a hacer
+
+[00:06:18]
+el ejemplo con M1 para que todavía
+
+[00:06:21]
+tengas una mayor entrada te voy a decir
+
+[00:06:23]
+dónde podrías haber gatillado Y dónde
+
+[00:06:25]
+vas a tener las mejores probabilidades
+
+[00:06:27]
+Bueno chicos finalmente me quedé en 3
+
+[00:06:29]
+minutos y aquí en este gráfico de 3
+
+[00:06:31]
+minutos les digo desde m5 se puede puede
+
+[00:06:33]
+ser m5 M1 m3 m2 donde tú te sientas más
+
+[00:06:37]
+cómodo realmente eso no es tan
+
+[00:06:39]
+importante pero eh vamos a estudiar
+
+[00:06:41]
+nuestra acción de precio fíjense que el
+
+[00:06:43]
+precio llega ya no puede hacer un mínimo
+
+[00:06:45]
+aquí lo primero que tienes que notar
+
+[00:06:47]
+llega al punto de interés y te detiene
+
+[00:06:50]
+mucha gente me dice Cómo sé que el punto
+
+[00:06:52]
+de interés va a ser respetado Okay llega
+
+[00:06:54]
+al precio y se detiene fácil como eso lo
+
+[00:06:58]
+después ves
+
+[00:07:00]
+cambios de estructura y me dices Gustavo
+
+[00:07:03]
+aquí podíamos haber entrado Sí esta es
+
+[00:07:06]
+la primera entrada por riesgo en este
+
+[00:07:08]
+caso yo la dejaría impulso retroceso
+
+[00:07:11]
+impulso y aquí tengo una entrada por
+
+[00:07:13]
+riesgo aquí podrías haber entrado por
+
+[00:07:15]
+riesgo esta es tu primera entrada de
+
+[00:07:18]
+riesgo pero ojo esto que está aquí es lo
+
+[00:07:22]
+que yo llamo entrar cuando apenas el
+
+[00:07:24]
+movimiento se está originando cuando
+
+[00:07:27]
+está empezando a originarse el
+
+[00:07:28]
+movimiento Pero si tú quieres entrar un
+
+[00:07:32]
+poquito mejor tienes que esperar la
+
+[00:07:34]
+corrección de los ciclos pequeños Cuáles
+
+[00:07:37]
+son los ciclos pequeños siempre en un
+
+[00:07:40]
+movimiento van a ver sus ciclos pequeños
+
+[00:07:43]
+entras en esos ciclos pequeños tú eso se
+
+[00:07:46]
+va a significar que vas a entrar una
+
+[00:07:48]
+entrada por más riesgo estás entrando en
+
+[00:07:50]
+estos retrocesos tan pequeñitos del
+
+[00:07:53]
+precio estos pueden ser los primeros que
+
+[00:07:57]
+van a ser los primeritos que vanana A
+
+[00:08:00]
+qué a empezar a cambiar en el precio
+
+[00:08:03]
+pero tú puedes esperar todo este ciclo
+
+[00:08:07]
+la corrección de ese ciclo un fallo de
+
+[00:08:10]
+estructura una toma de liquidez puede
+
+[00:08:12]
+ser aquí toma de liquidez en este caso
+
+[00:08:14]
+falla la estructura y en ese segundo
+
+[00:08:17]
+corrección de ese ciclo es que puedes
+
+[00:08:20]
+tener otras oportunidades de entrada son
+
+[00:08:23]
+formas diferentes de entrar o si te
+
+[00:08:26]
+quieras esperar a tod la formación de la
+
+[00:08:30]
+siguiente ruptura de ese ciclo puedes
+
+[00:08:33]
+también hacerlo aquí está la siguiente
+
+[00:08:34]
+ruptura entonces primer motivo de
+
+[00:08:37]
+entrada de riesgo en estos primeros
+
+[00:08:39]
+pequeños ciclos chiquititos o la
+
+[00:08:42]
+corrección del siguiente ciclo dónde
+
+[00:08:43]
+entre Gustavo en la corrección del
+
+[00:08:45]
+siguiente ciclo aquí ruptura de
+
+[00:08:47]
+estructura el precio no logra hacer un
+
+[00:08:49]
+nuevo mínimo se va a la alza puede
+
+[00:08:51]
+entrar la ruptura de la estructura o en
+
+[00:08:53]
+el siguiente testeo en este siguiente
+
+[00:08:55]
+testeo ahí te podrías haber montado a la
+
+[00:08:58]
+alza así de sencillo o podrías haber
+
+[00:09:01]
+esperado que el precio te diera una
+
+[00:09:03]
+mayor seguridad rompiendo esa estructura
+
+[00:09:06]
+en el siguiente retroceso te montas Este
+
+[00:09:08]
+ejemplo vamos a tener este low este
+
+[00:09:11]
+nuevo higher High y el siguiente
+
+[00:09:13]
+retroceso te puedes llegar a montar aquí
+
+[00:09:15]
+por ejemplo vas a poderte ver el precio
+
+[00:09:18]
+retrocede y aquí en este siguiente
+
+[00:09:20]
+retroceso te puedes llegar a montar
+
+[00:09:22]
+exactamente como gustado Pues fíjate que
+
+[00:09:25]
+aquí lo que tienes que hacer es medir
+
+[00:09:27]
+este ciclo pequeñito l vamos este ciclo
+
+[00:09:29]
+impulso retroceso Y a partir de ahí
+
+[00:09:31]
+fíjense que aplicamos de nuevo nuestra
+
+[00:09:34]
+teoría de Premium y descuento de este
+
+[00:09:36]
+fractal pequeñito en cuanto el precio se
+
+[00:09:39]
+meta a una zona de descuento ya tú te
+
+[00:09:41]
+puedes montar a la alza inclusiva aquí
+
+[00:09:43]
+de nuevo rompe de nuevo la estructura y
+
+[00:09:45]
+te da otra motivo de entrada o otra
+
+[00:09:47]
+entrada por acá por si se te pasó o lo
+
+[00:09:50]
+que sea y nuestro Target Por ejemplo yo
+
+[00:09:53]
+haga entrado ahí en el 50% de esa
+
+[00:09:55]
+posición hubiera puesto el Stop loss por
+
+[00:09:57]
+debajo de este nuevo mínimo o este
+
+[00:10:00]
+mínimo que no tiene que haberse roto o
+
+[00:10:02]
+que en teoría no tenía que haberse roto
+
+[00:10:04]
+Esta es una posición en scarper chicos y
+
+[00:10:07]
+podríamos haber salido Primero aquí pero
+
+[00:10:10]
+es un ratio bastante pequeño o yo de
+
+[00:10:13]
+preferencia Hubiera salido en el alto
+
+[00:10:16]
+asiático en este higher High es una
+
+[00:10:18]
+posición un 1 a 2.89 bastante bonita
+
+[00:10:22]
+hermosa una posición de scalpi rápido o
+
+[00:10:25]
+también podrías haber esperado que el
+
+[00:10:28]
+precio eh te diera un uno a dos o un uno
+
+[00:10:33]
+a uno o si querías haber aguantado hasta
+
+[00:10:35]
+el uno a tres pues un poquito ya más
+
+[00:10:38]
+lejos pero yo recomiendo ratios pequeños
+
+[00:10:41]
+no ocupas demasiado un uno a dos un uno
+
+[00:10:43]
+a tres o hasta esta liquidez del Rango
+
+[00:10:46]
+asiático está bastante bien Y esta es un
+
+[00:10:48]
+ejemplo de operaciones tipo scalping con
+
+[00:10:52]
+nuestras mapeo de rangos Bueno chicos yo
+
+[00:10:54]
+Espero que te haya gustado bastante
+
+[00:10:56]
+vamos a la siguiente clase donde vamos a
+
+[00:10:58]
+ver inad swing si tienes alguna duda o
+
+[00:11:01]
+pregunta puedes hacérmelo en los
+
+[00:11:03]
+comentarios Sígueme en instagram Gustavo
+
+[00:11:06]
+Trader y nos vamos a estar viendo en un
+
+[00:11:09]
+siguiente video adiós

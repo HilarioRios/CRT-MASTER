@@ -1,0 +1,473 @@
+[00:00:00]
+Hola Qué pasa a todos amigos de YouTube
+
+[00:00:02]
+ya estamos en un nuevo video esta vez
+
+[00:00:03]
+con la mentoría gratuita 2024 ya estamos
+
+[00:00:06]
+terminando el módulo 4ro eh nos faltan
+
+[00:00:09]
+dos clasecitas Esta es la clase número
+
+[00:00:12]
+cuatro y es dónde salir de un Trade bien
+
+[00:00:15]
+importante la salida de un Trade por qué
+
+[00:00:17]
+porque muchas gente saben entrar
+
+[00:00:19]
+bastante bien saben hacerlo bien saben
+
+[00:00:22]
+entrar saben tomar una entrada de
+
+[00:00:24]
+sniping saben aplicar su estrategia pero
+
+[00:00:27]
+no saben dónde salir de manera objetiva
+
+[00:00:30]
+I Entonces es bien importante que tú
+
+[00:00:32]
+sepas dónde vas a salir de un Trade para
+
+[00:00:35]
+que puedas tener ganancias para que
+
+[00:00:37]
+puedas tener ganancias recurrentes y
+
+[00:00:39]
+para que sobre todo tus ganancias cubran
+
+[00:00:42]
+a tus pérdidas verdad Entonces vamos a
+
+[00:00:43]
+ver qué es el Take profit o la salida
+
+[00:00:46]
+verdad Entonces el Take profit es una o
+
+[00:00:49]
+tomar ganancias es una orden de un
+
+[00:00:50]
+Trader que que el Trader coloca para
+
+[00:00:53]
+vender un activo cuando alcance un
+
+[00:00:54]
+precio determinado esta herramienta se
+
+[00:00:56]
+utiliza para asegurar las ganancias una
+
+[00:00:59]
+vez que el mer alcanzado un nivel
+
+[00:01:01]
+favorable entonces la orden Take profit
+
+[00:01:04]
+cierra automáticamente la posición Una
+
+[00:01:06]
+vez que se alcanza el precio objetivo
+
+[00:01:08]
+predeterminado del Trader para
+
+[00:01:10]
+capitalizar las ganancias el Take profit
+
+[00:01:12]
+hay muchas maneras de hacerlo pero yo lo
+
+[00:01:15]
+hago actualmente fijo Qué significa que
+
+[00:01:18]
+es fijo que eh está siempre en un nivel
+
+[00:01:22]
+basado en qué basado en un Back testing
+
+[00:01:25]
+no basado en un High en un low etcétera
+
+[00:01:29]
+etcétera Pero aquí te voy a decir o te
+
+[00:01:32]
+voy a definir unas ideas para que tú
+
+[00:01:34]
+puedas poder definir tu Take profit lo
+
+[00:01:37]
+primero es entender el máximo potencial
+
+[00:01:39]
+de tu Trade entender hasta dónde va a
+
+[00:01:42]
+llegar tu Trade como máximo verdad Y
+
+[00:01:44]
+dónde podrías estar poniendo esa orden
+
+[00:01:47]
+de de toma de ganancia lo segundo es
+
+[00:01:50]
+entender En qué parte del mercado vamos
+
+[00:01:52]
+a tomar ganancia entender Qué es la
+
+[00:01:54]
+parte de Mercado que Tú manejas mejor
+
+[00:01:56]
+luego vas a definir tus targets que sean
+
+[00:01:59]
+unos targets totalmente objetivos unos
+
+[00:02:02]
+targets que tú digas el precio siempre
+
+[00:02:04]
+me da el uno a dos el precio siempre me
+
+[00:02:06]
+da el uno a tres entonces Aquí voy a
+
+[00:02:08]
+definir mis targets de manera objetiva
+
+[00:02:10]
+luego lo que vamos a hacer es
+
+[00:02:11]
+sistematizar esta forma de tomar
+
+[00:02:14]
+ganancias Ya lo vamos a hacer una regla
+
+[00:02:16]
+fija a partir de hacerlo una regla fija
+
+[00:02:19]
+ya vamos a poder tener siempre una idea
+
+[00:02:22]
+de dónde vamos a tomar beneficios antes
+
+[00:02:24]
+de entrar un Trade es bien importante
+
+[00:02:26]
+que antes de entrar a un Trade tú sepas
+
+[00:02:28]
+dónde vas a estar tomando beneficios
+
+[00:02:30]
+si no somos capaces de dejar correr si
+
+[00:02:33]
+no eres capaz o te cuesta dejar correr
+
+[00:02:35]
+un Trade al uno a tres al uno a cuatro
+
+[00:02:37]
+al uno a c vamos a colocar lo que son
+
+[00:02:39]
+descargas de presión las descargas de
+
+[00:02:41]
+presión Qué son los parciales si tú eres
+
+[00:02:44]
+una persona que te cuesta quieres tu tu
+
+[00:02:46]
+Trade siempre te llega al uno a cco pero
+
+[00:02:48]
+te cuesta por cuestiones psicológicas
+
+[00:02:50]
+por lo que tú quieras entonces vas a
+
+[00:02:52]
+colocar parcial en el uno a dos en el
+
+[00:02:54]
+uno a uno en el uno a tres también esta
+
+[00:02:56]
+estos parciales en un futuro te van a
+
+[00:02:59]
+ayudar a a ti a ver bueno el precio
+
+[00:03:01]
+siempre llega al 1o a tres pero es un
+
+[00:03:03]
+parcial o Entonces ya a lo mejor tu
+
+[00:03:05]
+ratio riesgo beneficio en lugar de ser
+
+[00:03:07]
+uno a c que era inicialmente Ahora va a
+
+[00:03:09]
+ser uno a tres en el parcial pero ya no
+
+[00:03:11]
+vas a tomar parciales esto también te va
+
+[00:03:13]
+a ayudar para poder medir dónde podrías
+
+[00:03:16]
+tú salir con mayor objetividad luego lo
+
+[00:03:18]
+que vas a tener en cuenta que para que
+
+[00:03:20]
+sea una una operación ganadora depende
+
+[00:03:22]
+del Target El sl y la gestión del Trade
+
+[00:03:25]
+verad medir hasta cuándo somos capaces
+
+[00:03:27]
+de dejar un correo una operación muchas
+
+[00:03:29]
+personas no son capaces de dejar correr
+
+[00:03:31]
+una operación por cuestiones
+
+[00:03:32]
+psicológicas o entonces eh entender eso
+
+[00:03:35]
+no si quieres estar ganando más
+
+[00:03:36]
+frecuentemente que estar dejando correr
+
+[00:03:38]
+un Trade eh yo personalmente antes tenía
+
+[00:03:41]
+eh un rr de uno a seis tomaba un uno a
+
+[00:03:44]
+seis siempre tomaba unos parciales y se
+
+[00:03:46]
+me quedaban 1 cu y después bajé a un 1 a
+
+[00:03:50]
+1.6 y estoy teniendo unos resultados
+
+[00:03:52]
+enormes Entonces no tengas paradigmas
+
+[00:03:54]
+con lo que son eh los los targets verdad
+
+[00:03:57]
+siempre tiene que ser un Target que que
+
+[00:03:59]
+tú digas Bueno mi estrategia aquí me lo
+
+[00:04:01]
+da soy capaz de dejar psicológicamente
+
+[00:04:03]
+correr el Trade hasta ese nivel Y a
+
+[00:04:06]
+partir de ahí ya puedes tú tomar
+
+[00:04:07]
+ganancias de forma profesional es
+
+[00:04:09]
+importante que estés probando con
+
+[00:04:10]
+diferentes ratios riesgo beneficio con
+
+[00:04:13]
+el 1 a dos con el 1 TR para ver dónde te
+
+[00:04:15]
+sientes más cómodo eh B estes en tu
+
+[00:04:17]
+estrategia eh Hasta cuánto te da
+
+[00:04:19]
+ganancias hasta el 1 a 1 1 2 1 a 3 1 cu
+
+[00:04:22]
+1 C eh Y también que tengas en cuenta el
+
+[00:04:25]
+tamaño del stop loss tal vez prefiero
+
+[00:04:27]
+sacrificar stop loss tenerlo un poquito
+
+[00:04:29]
+más grande pero estoy más seguro más más
+
+[00:04:31]
+tranquilo en la operación porque mi stbl
+
+[00:04:33]
+está más grande no me va a sacar tan
+
+[00:04:34]
+fácil pero tengo un rr más pequeño o
+
+[00:04:37]
+Quiero un rr más pequeño y un stop bl
+
+[00:04:40]
+más eh eh Perdón un rr más grande y un
+
+[00:04:43]
+stop bl más pequeño por último teníamos
+
+[00:04:45]
+la teoría de Max potential Trade es
+
+[00:04:48]
+hasta dónde yo quiero tomar beneficios
+
+[00:04:50]
+dónde estoy dispuesto a tomar en verdad
+
+[00:04:53]
+mis beneficios por ejemplo aquí tenemos
+
+[00:04:55]
+el caso número a que es una entrada Aquí
+
+[00:04:56]
+en esta zona en donde dice entry aquí
+
+[00:04:59]
+tenemos una entrada en esta zona y el
+
+[00:05:01]
+precio lo dejas correr hasta acá verdad
+
+[00:05:03]
+Pero dentro de eso tú te comes todos los
+
+[00:05:06]
+retrocesos que hay en el precio hasta
+
+[00:05:08]
+llegar el precio hasta acá pero cómo
+
+[00:05:09]
+determinas esto Pues con tu Back testing
+
+[00:05:11]
+determinas que tú vas a poder salir ahí
+
+[00:05:13]
+a partir de aquí pues tú ya puedes fijar
+
+[00:05:15]
+niveles de parciales si quieres tenemos
+
+[00:05:18]
+el caso B Que fíjate que eh lo es la
+
+[00:05:21]
+misma entrada pero en lugar de de de
+
+[00:05:23]
+tomar beneficios hasta arriba pues lo
+
+[00:05:25]
+toma eh antes antes El caso es es lo
+
+[00:05:28]
+mismo pero fíjate que el caso se
+
+[00:05:30]
+solamente toma una reacción en el precio
+
+[00:05:32]
+no toma todo el movimiento o la mitad
+
+[00:05:34]
+del movimiento Entonces ya a partir de
+
+[00:05:36]
+ahí tú podrías ir Ajustando y viendo eh
+
+[00:05:39]
+Cuál podría ser la mayor o forma más
+
+[00:05:42]
+fácil de poner tu Take profit Bueno
+
+[00:05:44]
+chicos yo Espero que te haya gustado
+
+[00:05:46]
+bastante igual si tienes alguna duda
+
+[00:05:47]
+quieres que te haga un video extra sobre
+
+[00:05:49]
+esto te leo en los comentarios si deseas
+
+[00:05:51]
+una mentoría personalizada Puedes
+
+[00:05:53]
+mandarme un mensaje por Instagram o por
+
+[00:05:55]
+Whatsapp Gustavo Trader Sígueme por allá
+
+[00:05:58]
+y nos vemos en un siguiente siguiente
+
+[00:05:59]
+video adiós

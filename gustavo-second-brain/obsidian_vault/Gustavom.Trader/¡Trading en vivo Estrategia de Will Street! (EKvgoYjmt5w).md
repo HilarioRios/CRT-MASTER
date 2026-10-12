@@ -1,0 +1,10684 @@
+---
+source_id: YT_CANAL_02_EKvgoYjmt5w
+video_id: EKvgoYjmt5w
+channel: "Gustavom.Trader"
+published_at: 2025-06-06
+url: https://www.youtube.com/watch?v=EKvgoYjmt5w
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 93
+tags: [youtube, Gustavom-Trader, year/2025, status/synced]
+---
+
+# ¡Trading en vivo Estrategia de Will Street!
+
+[[Gustavom.Trader]] · [[2025]] · [Ver en YouTube](https://www.youtube.com/watch?v=EKvgoYjmt5w)
+
+## Transcript
+
+```
+[00:00:09]
+Estamos en
+
+[00:00:28]
+directo. H h hm hm hm
+
+[00:00:50]
+hm. Hola, hola. ¿Qué tal? ¿Cómo están?
+
+[00:00:53]
+¿Cómo están? ¿Cómo están? ¿Ya estos en
+
+[00:00:55]
+vivo?
+
+[00:00:57]
+Ahí por ahí me pueden decir si se
+
+[00:00:58]
+escucha
+
+[00:00:59]
+bien. Escucha
+
+[00:01:02]
+bien. Saludos David. Saludos hasta
+
+[00:01:05]
+República Dominicana. ¿Cómo estáis?
+
+[00:01:08]
+¿Cómo están todos chicos?
+
+[00:01:11]
+Vamos ya
+
+[00:01:15]
+viernes. Por ahí estoy compartiendo los
+
+[00:01:18]
+links. Espérenme que
+
+[00:01:23]
+[Música]
+
+[00:01:29]
+comparto. Estamos en
+
+[00:01:35]
+vivo. Espérenme que
+
+[00:01:39]
+[Música]
+
+[00:01:45]
+comparto. Gracias, gracias David.
+
+[00:01:48]
+Bendiciones también para ti. ¿Cómo
+
+[00:01:51]
+estás? ¿Cómo están todos,
+
+[00:01:53]
+chicos? Ojo con el Nasdaq ventas, eh,
+
+[00:01:57]
+probables. Espérenme, estoy acá.
+
+[00:02:00]
+Déjenme, envío todos los
+
+[00:02:06]
+links, pido todos los
+
+[00:02:09]
+links. ¿Se escucha bien? Todo perfecto,
+
+[00:02:11]
+chicos. A ver, ahorita
+
+[00:02:15]
+reviso. A ver, voy a revisar en TikTok
+
+[00:02:18]
+que todo vaya
+
+[00:02:20]
+bien. Revisar en TikTok que todo vaya
+
+[00:02:39]
+bien. Creo que todo va perfecto. Los
+
+[00:02:42]
+estoy leyendo igual por aquí, no más.
+
+[00:02:44]
+Déjame
+
+[00:02:44]
+[Música]
+
+[00:02:54]
+reviso. Creo que todo va
+
+[00:02:58]
+bien. No más si acaso
+
+[00:03:07]
+en TikTok.
+
+[00:03:20]
+tu. A ver si
+
+[00:03:28]
+ponemos poco
+
+[00:03:32]
+más, poco
+
+[00:03:36]
+más, poco más.
+
+[00:03:46]
+Okay, ahí está perfecto en
+
+[00:03:48]
+TikTok. Saludos a toda la gente de
+
+[00:03:50]
+TikTok. Me pueden seguir, es gratis, eh,
+
+[00:03:52]
+gente de TikTok, actívense también
+
+[00:03:55]
+pueden dejar su me gusta.
+
+[00:03:57]
+La gente de TikTok siempre va a su
+
+[00:04:01]
+rollo. Y está el gato que métete
+
+[00:04:07]
+pues. No, no te quieres
+
+[00:04:10]
+meter. Sorry, gente. Está el gato que se
+
+[00:04:12]
+quiere meter, se quiere salir, se quiere
+
+[00:04:16]
+hacer. Ah, Gustavo va a estar en directo
+
+[00:04:19]
+o ya
+
+[00:04:21]
+molesta. Este ta.
+
+[00:04:26]
+Creo que todo va perfecto. Los puedo
+
+[00:04:27]
+leer acá por acá, gente de TikTok, me
+
+[00:04:29]
+pueden seguir y pueden dejar su tap tap.
+
+[00:04:32]
+Es completamente gratis. Vamos a estar
+
+[00:04:34]
+aquí viendo la mercado en
+
+[00:04:36]
+vivo. Yo creo que se puede meter vender
+
+[00:04:39]
+un short ahí más que va muy alcista la
+
+[00:04:42]
+tendencia. 4
+
+[00:04:45]
+horas.
+
+[00:04:48]
+Sí.
+
+[00:04:49]
+TP5 30. Vamos a ver. E1.
+
+[00:04:56]
+Todavía no da una buena
+
+[00:04:58]
+confirmación. Métete pues, métete
+
+[00:05:02]
+pues.
+
+[00:05:04]
+Métete,
+
+[00:05:07]
+eh. No da ninguna buena confirma el este
+
+[00:05:12]
+para
+
+[00:05:17]
+vender. De momento solo ha rechazado
+
+[00:05:19]
+ahí.
+
+[00:05:21]
+A ver, déjenme
+
+[00:05:22]
+pongo. Ah, no he compartido
+
+[00:05:25]
+el compartido aquí el directo
+
+[00:05:30]
+en que me comparto el directo en
+
+[00:05:37]
+WhatsApp. El directo en
+
+[00:05:39]
+WhatsApp más gente vaya
+
+[00:05:41]
+[Música]
+
+[00:05:44]
+entrando. Partimos
+
+[00:05:47]
+aquí. Saludos a la gente de TikTok. Me
+
+[00:05:50]
+pueden seguir, es gratis. Vamos a ver si
+
+[00:05:51]
+llegamos a los 1000 en TikTok de una
+
+[00:05:56]
+vez. Completamente gratis seguirme y
+
+[00:05:58]
+darle me
+
+[00:06:03]
+gusta. Vamos a copiar el enlace porque
+
+[00:06:06]
+tengo que avisar por Instagram también.
+
+[00:06:10]
+Espérenme. Tu tu
+
+[00:06:13]
+tu que ando haciendo cositas de
+
+[00:06:16]
+streamer.
+
+[00:06:18]
+Espérenme, espérenme,
+
+[00:06:22]
+espérenme. Qué lento se puso de repente
+
+[00:06:24]
+ya
+
+[00:06:27]
+el Es que ha subido bastante con las
+
+[00:06:29]
+noticias.
+
+[00:06:31]
+Se puede venir una venta, pero no hay
+
+[00:06:35]
+confirmaciones.
+
+[00:06:39]
+Momento que me haga una historia para la
+
+[00:06:42]
+gente de
+
+[00:06:51]
+Instagram,
+
+[00:06:53]
+[Música]
+
+[00:06:59]
+gente, gente de Instagram, ya estamos en
+
+[00:07:03]
+vivo para que le caigan. Estamos
+
+[00:07:05]
+haciendo trading en
+
+[00:07:11]
+vívola. Es que me pongo el
+
+[00:07:14]
+[Música]
+
+[00:07:17]
+enlace.
+
+[00:07:27]
+Ya, listo. Avisamos por todos lados. Eh,
+
+[00:07:31]
+me dicen, "Muy bien desde Madrid.
+
+[00:07:33]
+Saludos hasta Madrid, David. Saludos
+
+[00:07:36]
+hasta mi gente de
+
+[00:07:38]
+Madrid. Eh, pum, pum, pum, pum, pum.
+
+[00:07:41]
+¿Qué? ¿Qué
+
+[00:07:49]
+más? Creo que va bien el directo, ¿no?
+
+[00:07:53]
+Todo va
+
+[00:07:55]
+excelente. Ah, no he checado, no he
+
+[00:07:57]
+comprobado en YouTube, pero me imagino
+
+[00:07:59]
+que va bien, ¿verdad?
+
+[00:08:06]
+Imagino que va bien en YouTube, ¿o
+
+[00:08:11]
+no? Sí, sí, va, va perfecto en
+
+[00:08:18]
+YouTube. Va, va, que te cagas.
+
+[00:08:23]
+Va
+
+[00:08:26]
+perfecto, va
+
+[00:08:31]
+excelente. Me dicen por acá, me dicen
+
+[00:08:34]
+por
+
+[00:08:35]
+aquí, siempre operas Nasdaq en la
+
+[00:08:39]
+mañana, ¿eh? No siempre, no
+
+[00:08:42]
+siempre. Para empezar no opera todos los
+
+[00:08:45]
+días, no es que yo opere todos los días.
+
+[00:08:49]
+Este, por lo general suelo
+
+[00:08:52]
+operar entre una a tres veces a la
+
+[00:08:56]
+semana.
+
+[00:08:57]
+Por ejemplo, esta semana
+
+[00:08:59]
+operé el
+
+[00:09:03]
+miércoles, lunes, ah, no recuerdo si
+
+[00:09:06]
+lunes o
+
+[00:09:08]
+martes. Operé creo que lunes, martes y
+
+[00:09:11]
+miércoles. El jueves ya no operé y hoy
+
+[00:09:13]
+viernes tampoco. Ya no voy a estar
+
+[00:09:15]
+metiendo
+
+[00:09:17]
+operaciones. Más cuando son cuentas en
+
+[00:09:19]
+vivo, mucho menos. Suelo meter pocas
+
+[00:09:23]
+operaciones a la
+
+[00:09:25]
+semana. Gracias. Gracias por los likes
+
+[00:09:27]
+en YouTube, gente. Se les agradece mucho
+
+[00:09:29]
+los likes en YouTube, se les agradece
+
+[00:09:31]
+muchísimo. Y también en TikTok se les
+
+[00:09:33]
+agradece
+
+[00:09:34]
+mucho. Por acá tengo por acá tengo el el
+
+[00:09:39]
+chat para todos ustedes leerlos. Sí,
+
+[00:09:42]
+como te digo, opero poco. Opero poco,
+
+[00:09:46]
+pero realmente muy
+
+[00:09:48]
+poco. No es que opere todos los días,
+
+[00:09:51]
+pero sí tengo ya años operando solamente
+
+[00:09:55]
+en NASDAQ. ¿Cómo te va con esta
+
+[00:09:57]
+estrategia
+
+[00:09:59]
+CRT? Bien, bien, bien. De hecho, hoy
+
+[00:10:01]
+vamos a ver cositas. Vamos a ver
+
+[00:10:03]
+cositas. Estoy viendo el NASA aquí para
+
+[00:10:05]
+una venta, pero está muy lento el
+
+[00:10:07]
+precio. Ya
+
+[00:10:10]
+hace, Fíjense que el
+
+[00:10:13]
+US30, voy a darle una analizadita así a
+
+[00:10:16]
+lo a lo que yo siempre utilizo. Ahorita
+
+[00:10:19]
+vemos un poco de CRT, ¿qué les parece?
+
+[00:10:22]
+¿Queda grabado? Siempre queda grabado,
+
+[00:10:25]
+Jorge. Siempre queda
+
+[00:10:27]
+grabado.
+
+[00:10:29]
+Siempre.
+
+[00:10:31]
+Eh, el US30 superó todos los máximos.
+
+[00:10:34]
+Ahí
+
+[00:10:35]
+está. El SP500 también superó los
+
+[00:10:38]
+máximos. Ahí está para
+
+[00:10:40]
+arriba. Siguen muy fuertes los índices,
+
+[00:10:43]
+pero el NASDAQ ya llegó a una zona
+
+[00:10:45]
+semanal.
+
+[00:10:47]
+Tocamos una zona semanal, por eso ya es
+
+[00:10:50]
+que puede venirse
+
+[00:10:52]
+venta, pero de momento no ha confirmado
+
+[00:10:55]
+en 4
+
+[00:10:57]
+horas y en una hora. Nada, nada, nada.
+
+[00:11:02]
+Ahorita vemos un poquito de CRT si
+
+[00:11:04]
+quieren en el no sé qué pares quieran
+
+[00:11:07]
+ver el eurodólar, la libra o quieran ver
+
+[00:11:12]
+Nasdaq
+
+[00:11:14]
+solamente, pero estoy viendo a ver si el
+
+[00:11:16]
+Nasdaq da una confirmación de venta. De
+
+[00:11:18]
+momento
+
+[00:11:20]
+no. Nada, nada
+
+[00:11:23]
+interesante. Nada, nada
+
+[00:11:29]
+interesante. Nasdaq.
+
+[00:11:33]
+Estoy viéndolo, les digo, para una
+
+[00:11:35]
+venta. Les puedo poner si quieren este
+
+[00:11:37]
+gráfico. Acá tengo el tengo el indicador
+
+[00:11:40]
+de CRT en este gráfico de acá, pantalla
+
+[00:11:43]
+negra
+
+[00:11:44]
+[Música]
+
+[00:11:47]
+en en 4
+
+[00:11:50]
+horas. Fíjense. Vamos a analizar aquí. 4
+
+[00:11:54]
+horas nos metimos a este
+
+[00:12:00]
+bloque. Vamos a ponerlo por
+
+[00:12:06]
+acá. 4 horas nos metimos a este bloque
+
+[00:12:08]
+que está aquí.
+
+[00:12:11]
+Está podemos hacer un análisis si
+
+[00:12:13]
+quieren. Aquí no me gusta. Casi en este
+
+[00:12:16]
+gráfico no marco nada. Es muy
+
+[00:12:19]
+raro. Por lo mismo, tengo aquí perdidos
+
+[00:12:23]
+los tengo un poco perdidos los cuadros y
+
+[00:12:27]
+y todas las herramientas para dibujar.
+
+[00:12:31]
+¿Dónde está el
+
+[00:12:35]
+cuadro? Están mis cuadros.
+
+[00:12:43]
+este bloque que es
+
+[00:12:46]
+aquí, se
+
+[00:12:48]
+fijan este, luego ya
+
+[00:12:55]
+después eh para ventas tendría que ir
+
+[00:12:59]
+tendría que ir por ese último alto. Así
+
+[00:13:03]
+no
+
+[00:13:03]
+necesariamente
+
+[00:13:06]
+necesariamente puede haber un
+
+[00:13:08]
+SMT con los demás
+
+[00:13:14]
+índices. Ahí se llevó el último low de 4
+
+[00:13:17]
+horas, si se
+
+[00:13:18]
+fijan, y luego ya después nos fuimos
+
+[00:13:21]
+alcistas. La tendencia en el Nasdaq
+
+[00:13:24]
+sigue siendo alcista, por eso todo lo
+
+[00:13:25]
+que son ventas es
+
+[00:13:27]
+riesgoso. Yo intenté buscar de hecho
+
+[00:13:29]
+unas
+
+[00:13:30]
+ventas, lo puse en Instagram, ¿verdad?
+
+[00:13:34]
+En mis historias de Instagram fue creo
+
+[00:13:36]
+que el
+
+[00:13:37]
+miércoles. El miércoles intenté buscar
+
+[00:13:40]
+unas
+
+[00:13:42]
+ventas por
+
+[00:13:46]
+aquí.
+
+[00:13:48]
+Espera, fue por aquí, por esta
+
+[00:13:50]
+estructura.
+
+[00:13:52]
+por esta estructura
+
+[00:13:54]
+aproximadamente y ahí lo intenté buscar
+
+[00:13:57]
+las
+
+[00:13:58]
+ventas. Después el precio subió, me
+
+[00:14:02]
+sacó. La idea era la era simple, ¿no? El
+
+[00:14:07]
+precio se había tomado estos estos
+
+[00:14:10]
+low de 4 horas, este high, perdón, de 4
+
+[00:14:14]
+horas.
+
+[00:14:15]
+ya había hecho el Turtle Zap y luego
+
+[00:14:19]
+después de eso me hizo el Turtle Zap en
+
+[00:14:22]
+una hora
+
+[00:14:24]
+también y ya yo intenté vender por esta
+
+[00:14:27]
+área de aquí, por esta zona de aquí en
+
+[00:14:30]
+ventas. Lo que pasa es que el precio sí
+
+[00:14:33]
+volvió a manipular, pero ya el día
+
+[00:14:36]
+siguiente y luego ya después ya bastante
+
+[00:14:39]
+tarde, el día
+
+[00:14:40]
+jueves, día jueves ayer, dio las ventas
+
+[00:14:45]
+ya muy tarde para mi
+
+[00:14:48]
+horario. Dio las ventitas aquí, 400
+
+[00:14:52]
+puntos aproximadamente, pero est eran
+
+[00:14:54]
+las ventas que yo
+
+[00:14:55]
+buscaba. Pero, ¿por qué volví a hacer un
+
+[00:14:58]
+nuevo Turtle Sat?
+
+[00:15:00]
+posiblemente
+
+[00:15:02]
+porque se llevó estos highs que están
+
+[00:15:04]
+acá,
+
+[00:15:06]
+fíjate, indujo, indujo, indujo. Estuvo
+
+[00:15:09]
+induciendo todo ese punto de interés y
+
+[00:15:12]
+luego ya después que indujo, hasta que
+
+[00:15:13]
+se cansó de inducir, lo sacó, fíjense
+
+[00:15:17]
+que lo sacó incluso dos veces, lo sacó,
+
+[00:15:20]
+rompió estructura hacia abajo, sacó de
+
+[00:15:22]
+nuevo y ya dio las ventas. La verdad es
+
+[00:15:25]
+una estructura un poco cansada.
+
+[00:15:28]
+Good. Solo usas el único indicador de
+
+[00:15:31]
+time frame. A ver, que no
+
+[00:15:34]
+veo. ¿Solo usas el único indicador de
+
+[00:15:38]
+time frame de SRT?
+
+[00:15:40]
+Eh, sí, solamente uso ese. Estoy
+
+[00:15:43]
+probando, de hecho, este es este que
+
+[00:15:45]
+tengo
+
+[00:15:46]
+acá e se llama Time Base 3C del
+
+[00:15:50]
+CRT, pero es lo mismo al otro, al que le
+
+[00:15:53]
+subió en YouTube. Es lo mismo, no más
+
+[00:15:55]
+que lo estaba
+
+[00:15:56]
+probando. Lo estaba probando yo,
+
+[00:15:59]
+digamos, para ver si me aportaba algo
+
+[00:16:03]
+distinto, pero es totalmente lo
+
+[00:16:07]
+mismo, lo
+
+[00:16:10]
+mismo. Y estas compras ya se dieron hoy
+
+[00:16:14]
+jueves, pero en Asia y ahorita ya no
+
+[00:16:17]
+estoy, tengo rato que no, pero Asia ya,
+
+[00:16:20]
+aparte que es
+
+[00:16:22]
+jueves, ya sola yo solamente suelo
+
+[00:16:25]
+entrar en Nueva York, ya en Asia. Antes
+
+[00:16:27]
+sí entraba en Asia o en
+
+[00:16:30]
+Londres. El problema de entrar cuando tú
+
+[00:16:34]
+quieras que está bien, no puedes aquí.
+
+[00:16:36]
+Esa entrada era muy
+
+[00:16:38]
+válida, pero el problema de entrar
+
+[00:16:40]
+cuando tú quieras y entrar a cualquier
+
+[00:16:42]
+hora es que si no tienes una buena
+
+[00:16:45]
+disciplina te va a [&nbsp;__&nbsp;] el mercado.
+
+[00:16:48]
+¿Por qué? Porque ya, por ejemplo, te
+
+[00:16:50]
+botas un stop loss en Asia, ya no
+
+[00:16:52]
+deberías de operar Nueva York.
+
+[00:16:55]
+Entonces puede ser que las oportunidades
+
+[00:16:56]
+buenas se den en Nueva
+
+[00:16:58]
+York y
+
+[00:17:00]
+después
+
+[00:17:03]
+eh tú ya operaste Asia, te perdiste las
+
+[00:17:06]
+oportunidades buenas de Nueva York
+
+[00:17:08]
+porque operaste Asia o operas las dos,
+
+[00:17:11]
+Asia y Nueva York y luego tienes doble
+
+[00:17:13]
+stop loss y ese es el problema.
+
+[00:17:17]
+Oportunidad potencial de ventas al
+
+[00:17:19]
+llevarse el PDH. No necesariamente voy a
+
+[00:17:23]
+hacer un failer swip, un un
+
+[00:17:28]
+fail. Estoy malísimo con el inglés,
+
+[00:17:30]
+gente. Un fallo. Fallo de la estructura.
+
+[00:17:33]
+¿Por qué puede hacer un fallo de la
+
+[00:17:35]
+estructura? Porque estamos en esta zona
+
+[00:17:38]
+semanal. Este
+
+[00:17:40]
+bloque cuando el precio hace este tipo
+
+[00:17:43]
+de cuando el precio se mete en ese tipo
+
+[00:17:45]
+de de
+
+[00:17:46]
+bloques, muchas de las veces puedes
+
+[00:17:49]
+especular que fallé.
+
+[00:17:51]
+en hacer un
+
+[00:17:53]
+nuevo un
+
+[00:17:55]
+nuevo higher
+
+[00:17:57]
+high y el precio hace una estructura de
+
+[00:18:00]
+este
+
+[00:18:01]
+estilo. El precio hace algo así para que
+
+[00:18:04]
+tú me tengas una
+
+[00:18:07]
+idea. ¿Dónde quedó el pat?
+
+[00:18:10]
+Aquí. El pat, el pat, el
+
+[00:18:13]
+pat, el pat también lo tengo que
+
+[00:18:17]
+agregar. El precio hace algo tal
+
+[00:18:21]
+que no
+
+[00:18:23]
+siempre, pero
+
+[00:18:25]
+pues él él solito te dice cuando cambio
+
+[00:18:29]
+estructura en lower frame, ya ahí te das
+
+[00:18:31]
+cuenta que va a hacer
+
+[00:18:33]
+eso. Y
+
+[00:18:37]
+aparte que no ha cambiado estructura
+
+[00:18:39]
+sigue
+
+[00:18:41]
+alcista. La estructura sigue
+
+[00:18:44]
+alcista también lo tengo que poner. Este
+
+[00:18:46]
+también.
+
+[00:18:48]
+La estructura sigue alcista. Esto es
+
+[00:18:51]
+blanco y así cuando él viene falla
+
+[00:18:55]
+también acá empieza a hacer una
+
+[00:18:57]
+estructura bajista, ya sabes que
+
+[00:19:00]
+H1 te va a fallar en hacer un nuevo
+
+[00:19:03]
+higher high. ¿Por qué? Porque estamos en
+
+[00:19:05]
+un
+
+[00:19:06]
+point de
+
+[00:19:09]
+semanal. No sé si se entienda, ¿no?
+
+[00:19:12]
+Mucha gente se lía ahí. ¿Cómo sabes,
+
+[00:19:14]
+Gustavo, que la vela de 4 horas va a
+
+[00:19:17]
+raidear y
+
+[00:19:18]
+luego se lía mucha gente ahí con eso? No
+
+[00:19:21]
+sé porque no se les hace muy
+
+[00:19:24]
+difícil. Tal vez porque nunca han
+
+[00:19:26]
+operado de esa forma, por eso se les
+
+[00:19:28]
+hace tan
+
+[00:19:29]
+difícil. Por
+
+[00:19:32]
+ejemplo, vamos a borrar los
+
+[00:19:37]
+dibujos, por
+
+[00:19:39]
+ejemplo, vamos a poner un ejemplo de 4
+
+[00:19:42]
+horas de H4.
+
+[00:19:45]
+No, este ejemplo que está aquí,
+
+[00:19:48]
+¿no? Pongamos este ejemplo, ¿no? Ahí que
+
+[00:19:52]
+esa es otra entrada. De hecho, esta
+
+[00:19:53]
+entrada no la expliqué en el video, la
+
+[00:19:55]
+puedo aprovechar para explicar aquí.
+
+[00:19:57]
+¿Qué es Poy? Poy es punto de interés o
+
+[00:20:01]
+una zona de oferta o demanda.
+
+[00:20:04]
+Point. Es en Smart Morning. Así le
+
+[00:20:07]
+dicen, point. No es lo mismo. Zona de
+
+[00:20:10]
+oferta, zona de
+
+[00:20:11]
+demanda, zona de interés, bloque de
+
+[00:20:15]
+órdenes, puedes decir como tú quieras.
+
+[00:20:17]
+Esta entrada, por ejemplo, ya ahí tienes
+
+[00:20:21]
+una estructura confirmada alcista, te
+
+[00:20:23]
+fijas acá, acá y acá. Este es un
+
+[00:20:27]
+retroceso para seguir subiendo. Está ojo
+
+[00:20:31]
+aquí. Síganme por aquí. Este es un
+
+[00:20:34]
+retroceso para seguir subiendo. Mucha
+
+[00:20:36]
+gente dice, "Gustavo, se les hace
+
+[00:20:38]
+difícil." ¿Cómo te das cuenta que la
+
+[00:20:40]
+vela
+
+[00:20:42]
+esa va a ser el punto más bajo? Primero,
+
+[00:20:47]
+no necesariamente necesitas adivinar.
+
+[00:20:49]
+Puedes esperarte a que la vela
+
+[00:20:51]
+cierre, la vela esta de 4 horas cierre.
+
+[00:20:54]
+Y una vez que cierre la vela de 4
+
+[00:20:57]
+horas, cuando veas un turtle SAP, veas
+
+[00:21:01]
+el precio hizo el tartel SAP y cerró por
+
+[00:21:03]
+encima del rango, ya puedes especular
+
+[00:21:07]
+que posiblemente la siguiente vela sea
+
+[00:21:10]
+alcista, esta vela que está ahí.
+
+[00:21:15]
+Entonces puedes especular
+
+[00:21:17]
+eso si quieres. Mucha gente dice, "¿Y
+
+[00:21:20]
+cómo me doy cuenta aquí que realmente va
+
+[00:21:22]
+a subir por lower time
+
+[00:21:25]
+frame? Es un soporte resistencia a
+
+[00:21:28]
+grandes rangos. No, no un soporte, no es
+
+[00:21:33]
+tampoco un soporte y resistencia. Es
+
+[00:21:36]
+diferente. Eso sí es diferente al
+
+[00:21:38]
+soporte y
+
+[00:21:40]
+resistencia porque por lo general los
+
+[00:21:42]
+soportes y resistencias tocan muchas
+
+[00:21:44]
+veces una zona en el precio y el poy no.
+
+[00:21:48]
+A mí, por ejemplo, un point validado no
+
+[00:21:51]
+toca muchas veces. son
+
+[00:21:52]
+vírgenes o limpios,
+
+[00:21:55]
+originales.
+
+[00:21:57]
+Eh, entonces si ya te bajas a 5 minutos,
+
+[00:22:00]
+por ejemplo, y te vas a esa
+
+[00:22:04]
+zona aquí, tú lo que
+
+[00:22:08]
+haces, eh, de hecho, me pusieron un
+
+[00:22:11]
+comentario
+
+[00:22:13]
+ayer en YouTube. Está el
+
+[00:22:17]
+comentario, creo que lo puedo ver en
+
+[00:22:19]
+estudio YouTube
+
+[00:22:22]
+Studio. Creo que era aquí en la del
+
+[00:22:31]
+NASDAQ. Aplicación de YouTube Studio
+
+[00:22:34]
+para ver comentarios es
+
+[00:22:37]
+malísima, malísima.
+
+[00:22:50]
+Ah, no, no fue en este video, fue en el
+
+[00:22:53]
+anterior video. Igual
+
+[00:22:56]
+estamos fue en el otro
+
+[00:22:59]
+video. Lo quiero leer porque es
+
+[00:23:02]
+importante, porque yo sé que mucha gente
+
+[00:23:04]
+tiene dudas y quería resolver por lo
+
+[00:23:06]
+menos esta duda aquí en este directo.
+
+[00:23:08]
+Está
+
+[00:23:10]
+bien, ¿eh?
+
+[00:23:13]
+Hay muchísimos comentarios, gente.
+
+[00:23:17]
+Excelente. Dice, "Aquí está. Es de Fabi
+
+[00:23:22]
+Conti. A ver si a lo mejor Fabi Conti
+
+[00:23:24]
+vuelve a ver esto." Me dice, "Hola, pero
+
+[00:23:27]
+¿por qué está tan mal explicado esto?"
+
+[00:23:30]
+Bueno, no es que esté mal explicado,
+
+[00:23:31]
+primero es que tú lo entiendes mal.
+
+[00:23:34]
+Todos empiezan explicando con un gráfico
+
+[00:23:35]
+donde las velas ya se imprimieron. ¿Por
+
+[00:23:38]
+qué no explican cómo saben cómo va qué
+
+[00:23:40]
+va a ser la vela que queremos operar?
+
+[00:23:42]
+¿Cómo sabemos si va a ir para arriba o
+
+[00:23:44]
+para abajo?
+
+[00:23:46]
+Y esto es porque no comprendes las
+
+[00:23:49]
+temporalidades. Si tú estás en 4 horas y
+
+[00:23:53]
+entiendes tu
+
+[00:23:54]
+contexto
+
+[00:23:56]
+alcista,
+
+[00:23:58]
+entiendes, fíjate todo lo que necesitas
+
+[00:24:00]
+entender, tu contexto alcista del
+
+[00:24:03]
+precio, entender que esto que estás
+
+[00:24:06]
+viendo aquí es un
+
+[00:24:08]
+retroceso de esa temporalidad y entender
+
+[00:24:12]
+que en lower time frame este retroceso
+
+[00:24:16]
+va a caer en una en una en forma de una
+
+[00:24:18]
+estructura bajista.
+
+[00:24:21]
+¿Cómo me doy cuenta yo que el precio no
+
+[00:24:25]
+va a empezar a imprimir o no va a
+
+[00:24:27]
+imprimir más bajos, más bajos o hacer
+
+[00:24:30]
+lower low, lower low, lower low, va a
+
+[00:24:33]
+seguir cayendo. Básicamente eso me
+
+[00:24:37]
+dice. Entonces, ¿cómo me doy cuenta que
+
+[00:24:40]
+el precio no va a seguir cayendo aquí,
+
+[00:24:41]
+que esto va a ser el mínimo? Bueno,
+
+[00:24:43]
+porque en 4
+
+[00:24:45]
+horas veo la toma de esos mínimos
+
+[00:24:48]
+importantes. Los mínimos más importantes
+
+[00:24:50]
+estaban lejos. Y en lower time frame, si
+
+[00:24:54]
+yo me bajo lower time frame, ya desde
+
+[00:24:57]
+que me bajo lower time frame estoy
+
+[00:24:59]
+sospechando el cambio
+
+[00:25:02]
+estructural porque sé que esta
+
+[00:25:05]
+estructura de 5 minutos es bajista,
+
+[00:25:08]
+¿verdad? Estamos todos de acuerdo. Esa
+
+[00:25:10]
+estructura es bajista, pero ya yo sé que
+
+[00:25:14]
+en algún momento esa estructura tiene
+
+[00:25:16]
+que tornarse alcista. ¿Por qué se va a
+
+[00:25:18]
+tornar alcista?
+
+[00:25:20]
+Porque es un retroceso para seguir
+
+[00:25:22]
+subiendo, porque la estructura mayor es
+
+[00:25:25]
+la que manda a la estructura
+
+[00:25:28]
+menor. Entonces vigilo, puedo mapear mi
+
+[00:25:32]
+estructura
+
+[00:25:33]
+menor y cuando veo este tipo de cosas en
+
+[00:25:37]
+cuatro horas, cuando veo esto al en el
+
+[00:25:41]
+horario indicado, que esto por ejemplo
+
+[00:25:43]
+fue
+
+[00:25:43]
+Londres, esa vela de Londres, yo ya
+
+[00:25:46]
+puedo sospechar que va a cambiar la
+
+[00:25:49]
+estructura. Entonces, si me voy a 5
+
+[00:25:51]
+minutos, eso fue Londres, yo lo agarré
+
+[00:25:53]
+ya arriba el precio, de
+
+[00:25:58]
+hecho. Entonces, me voy a mis 5 minutos
+
+[00:26:00]
+y mapeo correctamente la
+
+[00:26:04]
+estructura. Punto alto,
+
+[00:26:08]
+verad, lo voy a poner bien para que lo
+
+[00:26:10]
+entiendan. Punto alto, rompimiento de
+
+[00:26:15]
+estructura, punto alto de nuevo,
+
+[00:26:17]
+verad. Vaya que es una estructura
+
+[00:26:20]
+bajista, ¿verdad? Todo el mundo la
+
+[00:26:21]
+estamos viendo. Aquí hace una toma de
+
+[00:26:24]
+liquidez bajista, porque esta tomba de
+
+[00:26:27]
+liquidez, por ejemplo, no es válida para
+
+[00:26:29]
+mí para comprar o ver una estructura
+
+[00:26:31]
+alcista porque no hay confirmación y
+
+[00:26:33]
+porque no hay la toma, no hay un turtle
+
+[00:26:37]
+SAP en 4 horas.
+
+[00:26:43]
+¿Verdad? Entonces, este es mi último
+
+[00:26:47]
+punto alto que tengo acá. Fíjense, este
+
+[00:26:49]
+es mi punto alto, este es mi punto
+
+[00:26:51]
+mínimo. Es mi último mi retroceso y este
+
+[00:26:54]
+es mi último punto. Esta es la
+
+[00:26:56]
+estructura que tengo.
+
+[00:26:59]
+Ahora, ¿qué hace el qué debería hacer el
+
+[00:27:01]
+precio según esto? Si es bajista,
+
+[00:27:05]
+debería de seguir cayendo, ¿verdad?
+
+[00:27:07]
+Pero, ¿qué observamos acá? que el precio
+
+[00:27:10]
+hace un máximo mínimo nuevo, máximo,
+
+[00:27:13]
+nuevo mínimo. Oh, oh. Cuando esa
+
+[00:27:17]
+estructura, cuando el precio hace el
+
+[00:27:19]
+Turtle Zap, aquí hace el Turtle o cae
+
+[00:27:23]
+saca la liquidez, pues debería seguir
+
+[00:27:26]
+cayendo el precio, ¿no? Y fíjate lo que
+
+[00:27:29]
+hace, rompe la estructura la alza y
+
+[00:27:33]
+luego se
+
+[00:27:34]
+apoya. ¿Dónde crees que se apoya? en la
+
+[00:27:37]
+misma zona donde había hecho el turtle
+
+[00:27:40]
+sap o la sopa de tortuga, la toma de
+
+[00:27:43]
+liquidez, como ustedes quieran
+
+[00:27:45]
+llamarlo. Will dice que los time frames
+
+[00:27:48]
+de 3 días, 2 días, un día tienen
+
+[00:27:51]
+prioridad que H4 mayor temporalidad. Sí,
+
+[00:27:54]
+tienen mayor
+
+[00:27:55]
+importancia, los más relevantes. Yo
+
+[00:27:58]
+siempre lo he dicho, pero bueno, hay
+
+[00:28:00]
+gente que opina que
+
+[00:28:02]
+no tienen más relevancia. Las
+
+[00:28:05]
+temporalidades mayores mandan a las
+
+[00:28:07]
+menores, pero hacen lo
+
+[00:28:11]
+mismo. Una temporalidad de 5 minutos en
+
+[00:28:13]
+fractalidad es igual que una
+
+[00:28:15]
+temporalidad de 4 horas, pero en
+
+[00:28:17]
+jerarquía no. Una temporalidad de 4
+
+[00:28:19]
+horas es más, tiene más jerarquía que
+
+[00:28:21]
+una temporalidad de 5 minutos.
+
+[00:28:24]
+Entonces ahí me doy cuenta que ya no va
+
+[00:28:27]
+a imprimir más velas el
+
+[00:28:30]
+precio. Aparte que si tú te esperas al
+
+[00:28:32]
+cierre de 4 horas, tú te esperas
+
+[00:28:35]
+correctamente al cierre en 4 horas, ya
+
+[00:28:38]
+te das te puedes dar cuenta de que el
+
+[00:28:40]
+precio ya no va a cerrar, ya no va a
+
+[00:28:43]
+seguir imprimiendo
+
+[00:28:47]
+bajista. No sé si se entendió o no se
+
+[00:28:51]
+entendió.
+
+[00:28:53]
+Porque como que batallan mucho con eso,
+
+[00:28:55]
+¿no? O sea, dicen, "¿Cómo sabes que el
+
+[00:28:58]
+precio no va a seguir cayendo, Gustavo,
+
+[00:29:00]
+después de que raidea 4 horas o va a
+
+[00:29:03]
+seguir
+
+[00:29:06]
+subiendo?" Pues muy fácil porque tengo
+
+[00:29:08]
+un contexto de
+
+[00:29:11]
+estructura. También te puedes guiar por
+
+[00:29:13]
+la vela
+
+[00:29:15]
+diaria, dónde cerró la vela diaria,
+
+[00:29:17]
+dónde abrió y dónde es el target de la
+
+[00:29:21]
+vela diaria.
+
+[00:29:24]
+Verad, todo ese tipo de
+
+[00:29:27]
+cosas eh te ayudan, ¿no? Confirmas en
+
+[00:29:30]
+M1, no siempre. Hay veces que no más con
+
+[00:29:34]
+Ver H1, vámonos, depende del contexto,
+
+[00:29:37]
+del
+
+[00:29:38]
+precio. Sí, me encanta mucho M1, por
+
+[00:29:42]
+ejemplo,
+
+[00:29:43]
+aquí, pero muchas de las veces muy
+
+[00:29:45]
+engañoso, muy muy
+
+[00:29:47]
+engañoso, muy engañoso. Ya es como hace
+
+[00:29:52]
+mucha
+
+[00:29:53]
+trampa. ¿Por qué?
+
+[00:29:56]
+Porque es más importante tu contexto de
+
+[00:29:59]
+4 horas, de una hora para tomar una
+
+[00:30:03]
+entrada que tu confirmación de M1 o lo
+
+[00:30:06]
+que
+
+[00:30:09]
+sea. A veces en a veces en 5 minutos ya
+
+[00:30:12]
+se va. Sí, también.
+
+[00:30:16]
+De hecho, vamos a cambiarnos este
+
+[00:30:18]
+gráfico. Ahí está el precio
+
+[00:30:20]
+reaccionando. El punto de interés
+
+[00:30:23]
+ese. Es posible, como les decía desde la
+
+[00:30:27]
+desde hace
+
+[00:30:28]
+ratito, ah, tiene que raidear el el
+
+[00:30:32]
+punto alto este para vender. No, no,
+
+[00:30:35]
+muchacho, no,
+
+[00:30:37]
+muchacho. No tiene que raidear el
+
+[00:30:40]
+punto que, ¿cómo le llaman los de ACT? y
+
+[00:30:44]
+City Lovers, el PDH o cómo
+
+[00:30:48]
+le el P, el Pacho, el
+
+[00:30:55]
+pedacho. Eh, yo le llamo R diario, rango
+
+[00:31:00]
+diario. Es lo mismo. Es lo mismo,
+
+[00:31:02]
+chicos. Yo estoy aquí no más. Estamos de
+
+[00:31:05]
+cotorreo, de chill.
+
+[00:31:09]
+Eh, yo espero que saquen 4 horas y ahí
+
+[00:31:12]
+espero la confirmación en un minuto
+
+[00:31:14]
+obvio a favor de de Ari. Sí,
+
+[00:31:17]
+pero es importante tu
+
+[00:31:20]
+tu tendencia, tu estructura, tu
+
+[00:31:23]
+contexto. El contexto es más importante
+
+[00:31:26]
+a que saque o no saque.
+
+[00:31:29]
+se van al gráfico, fíjate, si se van al
+
+[00:31:33]
+gráfico,
+
+[00:31:37]
+este, no, si tú no vas a favor de la
+
+[00:31:41]
+estructura, la
+
+[00:31:42]
+tendencia, muchas de las veces pues va a
+
+[00:31:45]
+sacar el precio y te vas a a comer un
+
+[00:31:50]
+stop loss. O sea, muchas veces el
+
+[00:31:52]
+mercado va a hacer esto así y ah ya
+
+[00:31:55]
+sacó, va a ser así o así.
+
+[00:32:02]
+Entonces, ¿por qué? Por eso es
+
+[00:32:04]
+importante que ustedes entiendan que
+
+[00:32:06]
+cuando el mercado va haciendo una
+
+[00:32:07]
+estructura alcista, así, el mercado va a
+
+[00:32:10]
+ir haciendo
+
+[00:32:12]
+esto y esto lo va a ir haciendo en
+
+[00:32:15]
+puntos de
+
+[00:32:16]
+interés que la gente dice, "No,
+
+[00:32:19]
+acá aquí
+
+[00:32:22]
+esto va a ir haciendo y vas te va te va
+
+[00:32:25]
+a ir haciendo las confirmaciones,
+
+[00:32:29]
+¿no? van a hacer inducciones para el
+
+[00:32:32]
+precio seguir su
+
+[00:32:35]
+camino. Ah, me refiero a algo. Sí, sí,
+
+[00:32:40]
+estamos de acuerdos. Es lo es es sobre
+
+[00:32:42]
+lo mismo. Hablando sobre lo mismo. Lo
+
+[00:32:46]
+importante para ello es que tú sepas el
+
+[00:32:48]
+targeting mayor. ¿Cuál es el target
+
+[00:32:52]
+mayor? ¿Cuál es el target que tiene el
+
+[00:32:55]
+precio mayor?
+
+[00:32:56]
+Si
+
+[00:32:57]
+tú especulas y sabes que el precio, por
+
+[00:33:03]
+ejemplo, no sé, que tu target es
+
+[00:33:07]
+este, este es tu target, ese punto alto,
+
+[00:33:10]
+pues sí, ya si te bajas al lower time
+
+[00:33:12]
+frame, lo que tienes que esperar es que
+
+[00:33:14]
+el precio raidee
+
+[00:33:18]
+abajo. ya que el precio raidea abajo,
+
+[00:33:21]
+como puede ser este mínimo, puede ser
+
+[00:33:23]
+este mínimo, este mínimo o este mínimo.
+
+[00:33:26]
+Ahí ya es donde ya tú esperas sus
+
+[00:33:28]
+confirmaciones para
+
+[00:33:30]
+comprar, pero porque sabes que el target
+
+[00:33:33]
+es arriba, o sea, todo depende del
+
+[00:33:36]
+contexto en el que precio
+
+[00:33:37]
+usted. El contexto es muy importante. El
+
+[00:33:40]
+contexto es mucho más importante que la
+
+[00:33:42]
+entrada en sí.
+
+[00:33:44]
+Tú puedes tener un punto. Fíjense, yo es
+
+[00:33:47]
+la entrada esa, la que les comentaba
+
+[00:33:53]
+anteriormente, eh, ¿dónde
+
+[00:33:57]
+fue esta? A ver, ¿cuál fue? Fue 4
+
+[00:34:03]
+horas. Espérenme, se las pongo por acá.
+
+[00:34:10]
+Aquí esta que les estaba comentando
+
+[00:34:13]
+ahorita, esta entrada, esa entrada yo la
+
+[00:34:17]
+agarré ya tarde porque yo opero en Nueva
+
+[00:34:19]
+York y se dio en Londres.
+
+[00:34:22]
+Pero fíjense que yo
+
+[00:34:25]
+entré, yo entré una vez que el precio
+
+[00:34:28]
+hizo este raideo
+
+[00:34:32]
+aquí y tú te explicas, Gustavo, ¿cómo
+
+[00:34:36]
+sabías que el mercado no iba a caer
+
+[00:34:38]
+hasta acá de
+
+[00:34:41]
+nuevo o simplemente porque ya sé que el
+
+[00:34:44]
+target no ha sido tomado?
+
+[00:34:46]
+Esto, por ejemplo, es un un
+
+[00:34:50]
+rango previo que no ha sido tomado
+
+[00:34:55]
+todavía. Veo un raideo de baja
+
+[00:34:57]
+temporalidad. Ya aquí me puedo ayudar de
+
+[00:34:59]
+mi lower o baja temporalidad y le doy
+
+[00:35:02]
+para
+
+[00:35:03]
+arriba. Simplemente por eso yo la agarré
+
+[00:35:05]
+más o menos
+
+[00:35:06]
+así por ahí. Ahí más o menos fuimos para
+
+[00:35:11]
+arriba con
+
+[00:35:13]
+todo. No, fíjense que no necesariamente
+
+[00:35:16]
+necesité entrar en el turtle sub. ¿Por
+
+[00:35:19]
+qué no necesité entrar en el Turtle Sub
+
+[00:35:21]
+en este
+
+[00:35:23]
+caso? ¿Por qué? Porque es eh la entrada
+
+[00:35:27]
+se dio en Londres y yo pero Nueva York.
+
+[00:35:31]
+Estos son 6:30 de la mañana para mí,
+
+[00:35:33]
+9:30 de la mañana acá. Aquí es donde se
+
+[00:35:36]
+da la entrada.
+
+[00:35:37]
+De hecho, me atrevería a decir que la
+
+[00:35:40]
+tomé más o menos así, más o menos
+
+[00:35:44]
+así y se y la entrada salí yo perfecta.
+
+[00:35:50]
+Entonces, no necesariamente tienes que
+
+[00:35:53]
+tomarla siempre igual, sino que tú ya
+
+[00:35:55]
+formulas el contexto del precio y ya
+
+[00:35:58]
+cuando sabes el contexto, ya puedes
+
+[00:36:00]
+operar a favor de ese contexto. No
+
+[00:36:03]
+necesariamente
+
+[00:36:07]
+eh tienes que operar perfectamente en el
+
+[00:36:10]
+Turtle SAP.
+
+[00:36:11]
+Sí, de preferencia cuando estás viendo
+
+[00:36:13]
+que el turtle saf es hecho, pues lo que
+
+[00:36:16]
+haces es esperarte,
+
+[00:36:18]
+¿no? A que sea perfecto, a que sea lo
+
+[00:36:21]
+más perfecto o lo más cerca de que
+
+[00:36:23]
+puedas del Turtle Zap. Pero si tú no
+
+[00:36:26]
+tienes, si tú se te pasó o lo que sea,
+
+[00:36:29]
+pues operar diferente. ¿Qué te parece lo
+
+[00:36:32]
+que está realizando el euro dólar en 4
+
+[00:36:34]
+horas? Dó. A ver, va a ver algo
+
+[00:36:43]
+diferente. Dólar 4
+
+[00:36:53]
+horas. Yo tengo que verlo en mi gráfico
+
+[00:36:55]
+de
+
+[00:36:56]
+acá. Bueno, ya les había dicho desde la
+
+[00:36:58]
+mañana, ¿no? Posibles ventas ahí en el
+
+[00:37:00]
+NASDAQ.
+
+[00:37:07]
+hasta el
+
+[00:37:09]
+euro es el
+
+[00:37:12]
+análisis. Esto es la esto, esto lo
+
+[00:37:15]
+analizamos en
+
+[00:37:21]
+vivo. Ventas
+
+[00:37:24]
+aquí, luego compras. Ah, yo esperaba las
+
+[00:37:28]
+compras desde este punto de acá.
+
+[00:37:32]
+El mercado fue por la liquidez y luego
+
+[00:37:43]
+ventas. Volví a meter esa
+
+[00:37:46]
+zona. Sí, pues sigue en la zona de
+
+[00:37:49]
+ventas. En la zona de ventas.
+
+[00:37:53]
+Ah, okay.
+
+[00:37:56]
+Fíjense. Diario. Vamos a diario. E
+
+[00:38:03]
+dólar precio
+
+[00:38:05]
+raideó el
+
+[00:38:07]
+alto. ¿Cómo sacó el alto. Raideó el
+
+[00:38:10]
+alto.
+
+[00:38:11]
+Y este era el raideo de ahí. Hay que ver
+
+[00:38:15]
+cómo cierra la vela diaria, pero
+
+[00:38:18]
+posiblemente si la vela diaria cierra
+
+[00:38:19]
+abajo, el precio venga por este punto de
+
+[00:38:22]
+acá más
+
+[00:38:23]
+abajo, probablemente el eurodólar. Ahora
+
+[00:38:27]
+en 4 horas,
+
+[00:38:30]
+interesante. Ha raideado, como les digo,
+
+[00:38:32]
+esos mínimos.
+
+[00:38:34]
+[Música]
+
+[00:38:40]
+Estaría espectacular que aquí la
+
+[00:38:42]
+siguiente vela, la siguiente vela te
+
+[00:38:45]
+hiciera un raideo
+
+[00:38:47]
+aquí, confirmaciones y lo ya puedes
+
+[00:38:50]
+vender hasta acá
+
+[00:38:52]
+abajo. Estaría
+
+[00:38:54]
+espectacular,
+
+[00:38:57]
+pero se ven
+
+[00:38:59]
+más ventas que compras, aunque va con
+
+[00:39:02]
+una estructura
+
+[00:39:03]
+alcista, ya se empieza a tornar
+
+[00:39:09]
+interesante. ¿Sabes que veo que Will
+
+[00:39:12]
+entra como a las 3 a después de que
+
+[00:39:14]
+saque, que se hace el comienzo de la
+
+[00:39:16]
+vela y 4 horas decir como la podido
+
+[00:39:19]
+entrar? Puro
+
+[00:39:21]
+SL. Ah. Es precisamente lo que la gente
+
+[00:39:24]
+me
+
+[00:39:26]
+dice. La gente me está diciendo esto. Es
+
+[00:39:29]
+es precisamente lo que me dice la
+
+[00:39:32]
+gente. Vamos a poner aquí.
+
+[00:39:37]
+A ver, gente, es precisamente lo que
+
+[00:39:40]
+todo mundo me dice que no te explicas,
+
+[00:39:46]
+¿no? Vamos a poner
+
+[00:39:52]
+aquí la
+
+[00:40:02]
+vela. Ay, qué fea vela roja. Bueno, vela
+
+[00:40:06]
+roja,
+
+[00:40:12]
+este
+
+[00:40:16]
+precisamente. Bueno, tendría que copiar
+
+[00:40:21]
+otra. Esta vamos a
+
+[00:40:22]
+[Música]
+
+[00:40:24]
+ponerla, pongamos verde.
+
+[00:40:27]
+No, está verde, está
+
+[00:40:32]
+roja. Aquí está el Turtle Zap.
+
+[00:40:36]
+Y ya en los ejemplos del Trading View me
+
+[00:40:39]
+dicen mucho algo
+
+[00:40:41]
+como, "Ah, ¿cómo? Gustavo, ¿cómo
+
+[00:40:46]
+sabías? ¿Cómo sabías que había que
+
+[00:40:48]
+entrar acá? ¿Cómo le has, por ejemplo,
+
+[00:40:51]
+lo que dice este chico de Will, no? Que
+
+[00:40:53]
+él trata de entrar aquí
+
+[00:40:57]
+así y me dicen, "¿Cómo sabías?" Porque
+
+[00:41:00]
+tú cuando lo miras estamos todos de
+
+[00:41:03]
+acuerdo aquí, ¿no? Con estos ejemplos.
+
+[00:41:05]
+De hecho, lo deja lo pongo aquí para la
+
+[00:41:07]
+gente de TikTok lo
+
+[00:41:09]
+vea. Estamos de acuerdo aquí con estos
+
+[00:41:11]
+ejemplos que dice la gente, es que
+
+[00:41:14]
+cuando yo lo veo en 4 horas, la vela
+
+[00:41:16]
+está así y luego yo intento entrar y la
+
+[00:41:18]
+vela sigue
+
+[00:41:24]
+cayendo. Luego yo intento entrar y la
+
+[00:41:26]
+vela sigue, ¿no?, de largo, ¿no? Y y
+
+[00:41:28]
+cuando lo ves tú en los ejemplos, pues
+
+[00:41:31]
+ves, ¿no? entarte el sap y después la
+
+[00:41:34]
+vela alcista.
+
+[00:41:35]
+No, no. Ah, cierra, cierra ahí y lo ves
+
+[00:41:41]
+una vela así, ¿no? ¿Cómo le hacen para
+
+[00:41:43]
+saber que la vela esta no va a seguir
+
+[00:41:46]
+cayendo?
+
+[00:41:49]
+Es es como que muy así dicen, ¿no?
+
+[00:41:52]
+Cuando tú lo ves en 4 horas y la vela se
+
+[00:41:54]
+está formando, verad, esta vela se está
+
+[00:41:57]
+moviendo así en 4 horas, tú vas a ver
+
+[00:41:59]
+que el precio está
+
+[00:42:01]
+raideando. Pa pa
+
+[00:42:02]
+pa. ¿Cómo doy cuenta que el precio va a
+
+[00:42:05]
+recoger, por ejemplo, va a cerrar aquí,
+
+[00:42:08]
+va a abrir ahora acá y va a ir para
+
+[00:42:11]
+arriba? Primero el
+
+[00:42:13]
+contexto, ¿en qué zona estás?
+
+[00:42:17]
+La otra, ¿cuál es tu
+
+[00:42:19]
+target? ¿Tu target está arriba o está
+
+[00:42:22]
+abajo? Y la otra que yo que a lo mejor
+
+[00:42:25]
+Will no lo dice mucho, pero es el lower
+
+[00:42:30]
+lower time
+
+[00:42:32]
+frame. Su lower time frame va a venir
+
+[00:42:35]
+cayendo aquí.
+
+[00:42:37]
+Fíjense, su vela de 4 horas va a venir
+
+[00:42:39]
+haciendo
+
+[00:42:42]
+esto. Esto, por ejemplo, va a ser tu
+
+[00:42:44]
+lower time frame. Tu vela de 4 horas,
+
+[00:42:48]
+supongamos. Estuve la de 4 horas.
+
+[00:42:50]
+Déjenme borro incluso esta. Estuve la de
+
+[00:42:53]
+4 horas. Lo vamos a poner aquí.
+
+[00:42:57]
+Así. Vamos a poner esta estructura
+
+[00:43:00]
+aquí. Aquí.
+
+[00:43:03]
+Miren, se lo estoy dibujando así
+
+[00:43:06]
+con facilito, ¿no? Entonces, el precio
+
+[00:43:10]
+va a venir cayendo. Supongamos que esta
+
+[00:43:13]
+vela es
+
+[00:43:15]
+H4. Esta vela es H4. Y tú vas a ver esta
+
+[00:43:19]
+vela
+
+[00:43:20]
+así como viene para abajo, ¿no? Viene a
+
+[00:43:24]
+por todas, ¿no? Viene con todo. Entonces
+
+[00:43:28]
+tú antes de que raidee el precio vas a
+
+[00:43:32]
+estar revisando la estructura menor.
+
+[00:43:34]
+Esto ya puede
+
+[00:43:36]
+ser
+
+[00:43:38]
+M5,
+
+[00:43:40]
+M15, M1.
+
+[00:43:44]
+temporalidades de minutos es lo que te
+
+[00:43:47]
+vas a estar moviendo, verad. Entonces,
+
+[00:43:50]
+ves que la el comienzo de la vela viene
+
+[00:43:52]
+cayendo
+
+[00:43:53]
+aquí, viene cayendo así, pa pa
+
+[00:43:56]
+pa. ¿Qué vas a ver lower same time
+
+[00:43:59]
+frame? Ojo aquí que incluso lo voy a
+
+[00:44:00]
+poner en color meno en color
+
+[00:44:06]
+diferente. Vas a ver que el precio va a
+
+[00:44:08]
+raidear, va a ser va a venir a la zona
+
+[00:44:11]
+de oferta. Aquí voy a poner de otro
+
+[00:44:14]
+color. Vamos a poner
+
+[00:44:17]
+verde. Ya. Fíjense muy bien. Va a venir
+
+[00:44:19]
+a la zona de oferta, esta zona de oferta
+
+[00:44:23]
+de 5
+
+[00:44:24]
+minutos. Ojo, 5 minutos.
+
+[00:44:28]
+Lo que va a hacer el precio es
+
+[00:44:30]
+probablemente va a reaccionar a esa zona
+
+[00:44:33]
+de oferta. Perfecto, estamos de acuerdo
+
+[00:44:35]
+todos. Es una estructura bajista,
+
+[00:44:38]
+hombre. ¿Cómo sé que el precio va a
+
+[00:44:41]
+respetar eso? Pues la estructura
+
+[00:44:43]
+bajista, ¿qué debería de seguir
+
+[00:44:46]
+haciendo? ¿Qué debería de seguir
+
+[00:44:48]
+haciendo esta estructura bajista?
+
+[00:44:50]
+¿Debería de seguir cayendo,
+
+[00:44:53]
+no? Sí. No es bajista, no se supone que
+
+[00:44:56]
+esta vela de 4 horas es
+
+[00:44:58]
+bajista, pero da la casualidad que
+
+[00:45:01]
+cuando se mete la zona del
+
+[00:45:03]
+turtle, esta zona del turtle, lower time
+
+[00:45:07]
+frame, se mete a la zona del turtle up,
+
+[00:45:09]
+lo que hace es reaccionar, venir a la
+
+[00:45:13]
+zona de oferta que tenía ahí el precio,
+
+[00:45:16]
+cae para abajo
+
+[00:45:18]
+y haces
+
+[00:45:24]
+intenta hacer un nuevo bajo, no lo
+
+[00:45:26]
+consigue, se apoya en la misma zona del
+
+[00:45:29]
+turtle sub, que esto le
+
+[00:45:34]
+llama, ¿cómo le cómo le
+
+[00:45:36]
+llama? El PD
+
+[00:45:39]
+PD PDW.
+
+[00:45:43]
+No sé cómo le, no me acuerdo cómo le
+
+[00:45:45]
+llama, pero es el fallo de la
+
+[00:45:47]
+estructura. Y ahí tú te das cuenta,
+
+[00:45:50]
+muchacho, que el precio va a respetar
+
+[00:45:54]
+eso. Doblos
+
+[00:45:57]
+así, tu próximo target
+
+[00:46:00]
+arriba y ahí tienes tu entrada.
+
+[00:46:04]
+Sí, se entiende o no se entiende, a ver,
+
+[00:46:06]
+dudas o preguntas, porque luego no
+
+[00:46:08]
+quiero comentarios en los videos de
+
+[00:46:09]
+YouTube de Gustavo, ¿cómo le haces para
+
+[00:46:12]
+saber que la vela roja no va a seguir?
+
+[00:46:14]
+Es que yo entro y la vela le hace así
+
+[00:46:16]
+para abajo. Pues sí, porque entras tú y
+
+[00:46:18]
+no te
+
+[00:46:19]
+esperas, entras y el precio te está así.
+
+[00:46:23]
+hace
+
+[00:46:35]
+así cuando lo haga hecho en 4 horas
+
+[00:46:39]
+comienzo la primera.
+
+[00:46:51]
+Will no espera ni cambio de estructura,
+
+[00:46:54]
+pero bueno, Will Will ya tiene
+
+[00:46:56]
+experiencia operando la estrategia,
+
+[00:47:01]
+¿no? Él lo opera así porque así le
+
+[00:47:05]
+gusta. No necesariamente se tiene que
+
+[00:47:07]
+esperar cambio de
+
+[00:47:10]
+estructura. Pero si no logras entenderlo
+
+[00:47:12]
+con cambio de estructura, imagínate si
+
+[00:47:14]
+cambio de estructura menos.
+
+[00:47:18]
+Cluti, por ejemplo, él sí si él sí
+
+[00:47:20]
+espera cambio de estructura, así como yo
+
+[00:47:22]
+lo hago, lo hace él
+
+[00:47:25]
+igual. Lo sé porque lo he visto en sus
+
+[00:47:30]
+operaciones. Lo lo he lo he visto. Si se
+
+[00:47:34]
+entiende o no se entiende, gente. Es muy
+
+[00:47:38]
+difícil, ¿verdad? que sí se entiende. No
+
+[00:47:41]
+sé por qué en YouTube luego lo que pasa
+
+[00:47:44]
+es que si tú no has estudiado por lo
+
+[00:47:45]
+menos el mínimo de lo que es trading,
+
+[00:47:48]
+pues no lo vas a
+
+[00:47:50]
+entender. Ahora, Gustavo, ponme un
+
+[00:47:52]
+ejemplo de esto, un ejemplo que lo estoy
+
+[00:47:55]
+viendo
+
+[00:47:57]
+aquí. Estoy viendo
+
+[00:47:59]
+aquí tienes esta estructura alcista, el
+
+[00:48:04]
+euroólar estructura. Acá está otro. Eh,
+
+[00:48:08]
+tienes esa estructura
+
+[00:48:09]
+alcista. Al tener esa estructura
+
+[00:48:12]
+alcista, el precio si va a subir, ¿cuál
+
+[00:48:15]
+sería tu
+
+[00:48:17]
+target? Este punto de
+
+[00:48:19]
+aquí, que si nos vamos a una
+
+[00:48:23]
+temporalidad más alta es el alto
+
+[00:48:26]
+diario.
+
+[00:48:28]
+Anyways, alcista. Ahora, tu estructura
+
+[00:48:32]
+que viene acá de este lado va a venir en
+
+[00:48:35]
+forma de va a venir cayendo en forma de
+
+[00:48:37]
+retroceso, ¿no? Esta
+
+[00:48:40]
+estructura,
+
+[00:48:41]
+listo. Esta estructura va a ser
+
+[00:48:44]
+bajista. Ahora, en tu horario
+
+[00:48:48]
+determinado, en tu horario
+
+[00:48:51]
+determinado, este, ¿cuál va a ser tu
+
+[00:48:54]
+horario? Me preguntaron muchos, Gustavo,
+
+[00:48:56]
+¿qué vela, qué horario, gente? Kilson de
+
+[00:48:59]
+Nueva York y Kilson de
+
+[00:49:02]
+Londres. El que no sepa que es una
+
+[00:49:04]
+Kilson, póngase a estudiar. No me voy a
+
+[00:49:06]
+poner aquí a explicar que es una Kilson.
+
+[00:49:11]
+Imagínense. Ya deben de saber que es una
+
+[00:49:14]
+Kilson, cuándo cierra los el horario
+
+[00:49:16]
+para tu país, la vela exacta. Ya deben
+
+[00:49:18]
+de saber ustedes eso. Kilson de Londres
+
+[00:49:21]
+y Kilson de Nueva York. Son los horarios
+
+[00:49:23]
+que se manejan. también funciona en
+
+[00:49:26]
+Asia, pero bueno, si no entiende mucha
+
+[00:49:29]
+gente Londres o Nueva York, imagínense
+
+[00:49:31]
+Asia
+
+[00:49:33]
+peor. En ese horario terminado, ¿para
+
+[00:49:37]
+qué me sirve el horario? Para yo
+
+[00:49:40]
+sospechar o saber que en ese horario es
+
+[00:49:43]
+en el que el precio va a ser la
+
+[00:49:45]
+manipulación. Cuando me haga esa
+
+[00:49:47]
+manipulación determinada es que yo voy a
+
+[00:49:50]
+tener una oportunidad de entrada,
+
+[00:49:53]
+¿verdad? Entonces, nos vamos ahí. Si se
+
+[00:49:56]
+fijan, esto
+
+[00:49:57]
+[Música]
+
+[00:50:00]
+fue esto fue Londres,
+
+[00:50:03]
+Londres. El martes 3 de junio. Se pueden
+
+[00:50:07]
+ir, se pueden ir a su gráfico para que
+
+[00:50:10]
+lo vean. Martes 3 de
+
+[00:50:13]
+junio, porque luego me dicen, "¿En qué
+
+[00:50:15]
+vela exactamente?" esta vela verde.
+
+[00:50:18]
+Ahora vamos a estudiar esta vela verde
+
+[00:50:20]
+para darnos cuenta cómo sabías, Gustavo,
+
+[00:50:23]
+que ese era el último
+
+[00:50:24]
+mínimo iba a dejar el precio
+
+[00:50:31]
+ahí. Entonces, nos bajamos una hora,
+
+[00:50:33]
+gente. Bueno, vamos a marcar el raideo
+
+[00:50:35]
+de 4 horas primero antes de irnos. La
+
+[00:50:38]
+entrada como
+
+[00:50:40]
+tal.
+
+[00:50:41]
+Ahí nos vamos a a bajar a una hora.
+
+[00:50:47]
+Fíjense, este es mi fractal
+
+[00:50:49]
+alcista. Alcista, no bajista. Mi
+
+[00:50:52]
+contexto es alcista, no
+
+[00:50:55]
+bajista. Por lo tanto, mi estructura va
+
+[00:50:59]
+a venir bajista, ¿sí o no? esta
+
+[00:51:02]
+estructura, pero esta estructura la
+
+[00:51:05]
+reconozco yo o especulo que es una
+
+[00:51:07]
+estructura en forma de
+
+[00:51:09]
+retroceso, hombre, que yo no sé si el
+
+[00:51:11]
+precio va a venir hasta acá abajo, va a
+
+[00:51:13]
+romper o yo no sé lo que va a hacer,
+
+[00:51:16]
+pero sé que esta estructura es bajista
+
+[00:51:17]
+en forma de retroceso porque la
+
+[00:51:19]
+estructura principal está alineada
+
+[00:51:22]
+alcista. Ahora, ¿qué voy a esperar?
+
+[00:51:25]
+Yo voy a esperar mi estructura de 155
+
+[00:51:28]
+minutos. Vamos a bajarnos a
+
+[00:51:33]
+cinco y en 5 minutos puedo ir
+
+[00:51:37]
+escudriñando la estructura. punto alto,
+
+[00:51:40]
+rompimiento de la estructura. Punto
+
+[00:51:42]
+alto, punto mínimo, punto alto, punto
+
+[00:51:45]
+mínimo, rompimiento de la estructura,
+
+[00:51:47]
+punto
+
+[00:51:51]
+alto,
+
+[00:51:54]
+punto bajo, bajos iguales, punto alto.
+
+[00:51:59]
+Hasta aquí es una estructura bajista,
+
+[00:52:01]
+¿verdad?
+
+[00:52:02]
+Nadie me puede decir que aquí es una
+
+[00:52:04]
+estructura alcista esto, ¿no?
+
+[00:52:08]
+una estructura correctamente bajista,
+
+[00:52:12]
+pero ojo, ojo con el
+
+[00:52:16]
+pero da la
+
+[00:52:18]
+casualidad que y también, fíjense, ah,
+
+[00:52:22]
+bueno, esto sí lo lo hubiera estado
+
+[00:52:24]
+chido que lo tomara, pero da la
+
+[00:52:26]
+casualidad
+
+[00:52:28]
+que cuando el precio se encuentra en la
+
+[00:52:31]
+terminada, fíjese, esto es Londres,
+
+[00:52:32]
+exactamente, Londres. Bueno, un poquito
+
+[00:52:35]
+avanzado Londres, ya se había ido el
+
+[00:52:37]
+precio. Bueno, la confirmación sí la dio
+
+[00:52:39]
+en Londres.
+
+[00:52:41]
+Exactamente. Fíjense que aquí se empieza
+
+[00:52:43]
+a formar la vela esa de 4
+
+[00:52:48]
+horas. El precio que hace en lower time
+
+[00:52:51]
+frame, lo voy a eliminar, de hecho, de
+
+[00:52:53]
+nuevo. Eliminar dibujos.
+
+[00:52:56]
+Fíjense muy
+
+[00:52:57]
+bien. Punto mínimo, punto
+
+[00:53:01]
+máximo, punto alto, que no consigue
+
+[00:53:04]
+hacer un nuevo higher high y toma de
+
+[00:53:08]
+liquidez lo
+
+[00:53:10]
+mínimo. Ya estás en 4
+
+[00:53:13]
+horas viendo el precio te
+
+[00:53:18]
+raidea. Ahora los que me preguntan cómo
+
+[00:53:21]
+le hace Cluty, bueno, es Will, ¿cómo le
+
+[00:53:23]
+hace Will para entrar de manera agresiva
+
+[00:53:26]
+ahí sin esperar el cambio de
+
+[00:53:30]
+estructura? ¿Lo quieren saber también,
+
+[00:53:35]
+verdad? Cuando ves el raideo de 4
+
+[00:53:38]
+horas, esto es lo que hace Will, ve el
+
+[00:53:41]
+raideo de 4 horas, vamos, nos vamos a
+
+[00:53:45]
+devolver otra vez.
+
+[00:53:48]
+Ojo, ya mi valles es alcista, ¿eh? Ojo,
+
+[00:53:51]
+ya mi vayas es alcista, chicos. Veo el
+
+[00:53:54]
+raideo de 4
+
+[00:53:55]
+horas. Voy a buscar lo mismo en una
+
+[00:54:00]
+hora. Uy, esto en un en otros brokers
+
+[00:54:05]
+seguramente sí lo raideó.
+
+[00:54:10]
+Igual en otros brokers seguramente sí
+
+[00:54:13]
+raideó este mínimo. Este broker creo que
+
+[00:54:16]
+eso va, no es forex.com, creo que no,
+
+[00:54:19]
+pero en futuros y en otros brokers me
+
+[00:54:21]
+atendía que a decir que sí.
+
+[00:54:24]
+Igualmente cuando ves ese raideo en lo
+
+[00:54:28]
+mismo que sucede en 4 horas, lo mismo
+
+[00:54:31]
+que sucede en una hora, o sea, lo mismo
+
+[00:54:34]
+que sucedió en 4 horas sucede en una
+
+[00:54:36]
+hora. Tú ya entras con tu posición
+
+[00:54:39]
+larga. ¿Dónde vas a entrar? ¿Dónde está
+
+[00:54:41]
+el precio? ¿Cómo? ¿Cómo le hago
+
+[00:54:43]
+entonces, Gustavo, para calcular ahí
+
+[00:54:46]
+según tu target? ¿Cuál va a ser tu
+
+[00:54:48]
+target? Target de 4 horas. Lo más
+
+[00:54:52]
+eficiente es salirse acá,
+
+[00:54:56]
+aquí una vez el precio raidea ese ese
+
+[00:55:00]
+alto. Pero la salida todavía más
+
+[00:55:03]
+eficiente es cuando el precio toma el
+
+[00:55:06]
+alto de la última vela de 4 horas, que
+
+[00:55:10]
+era este. O sea, cuando el precio, la
+
+[00:55:13]
+siguiente vela de 4 horas abre y toma
+
+[00:55:16]
+ese alto. Una vez que la siguiente vela
+
+[00:55:18]
+de 4 horas abre y toma ese alto, ahí es
+
+[00:55:21]
+como muy bueno salirse una entrada
+
+[00:55:24]
+basada en tiempo y una salida basada en
+
+[00:55:26]
+tiempo. ¿Listo?
+
+[00:55:29]
+A partir de ahí que tú ya calculaste tu
+
+[00:55:32]
+target, ojo gente, ya tengo yo mi target
+
+[00:55:35]
+calculado, regulo el stop
+
+[00:55:38]
+loss a uno a tres o puede ser uno a 2 y
+
+[00:55:41]
+medio también, pero uno, a mí me gusta
+
+[00:55:44]
+uno a tres, pero puede ser uno a 2 y
+
+[00:55:46]
+medio. Y si te fijas, nunca te va a
+
+[00:55:49]
+sacar el precio. Nunca te va a sacar el
+
+[00:55:52]
+precio.
+
+[00:55:55]
+La gente dice, "Wil hace o deja de
+
+[00:55:57]
+hacer, pero él ya dice en sus videos que
+
+[00:55:59]
+no explica todo, se guarda una parte de
+
+[00:56:01]
+su operativa." Claro, él no muchas de
+
+[00:56:04]
+las cosas
+
+[00:56:05]
+que muchos de los conceptos no los no
+
+[00:56:09]
+los
+
+[00:56:12]
+dice. Por eso les digo, se trata de que
+
+[00:56:15]
+tú adaptes la estrategia a ti mismo, no
+
+[00:56:17]
+que intentes hacer lo mismo que él hace.
+
+[00:56:21]
+Sí, muchos conceptos y la mayoría de lo
+
+[00:56:23]
+que él hace está muy
+
+[00:56:25]
+bien,
+
+[00:56:27]
+pero tiene que funcionarte a ti y no a
+
+[00:56:30]
+él. A él ya le funciona, él ya gana
+
+[00:56:32]
+dinero. El que tienes que ganar dinero
+
+[00:56:34]
+ahora eres tú. Dice, "Esta no te sacó
+
+[00:56:37]
+por nada sin esperar cambio
+
+[00:56:42]
+estructural. ¿Qué hace lo mismo que que
+
+[00:56:45]
+sucedió en 4 horas?
+
+[00:56:48]
+Una vez que ves el raideo de 4 horas, te
+
+[00:56:51]
+vas a una
+
+[00:56:52]
+hora y lo
+
+[00:56:55]
+mismo, regulas tu
+
+[00:56:57]
+target, regulas el target.
+
+[00:57:01]
+Aquí, por ejemplo, dices tú, sí, está
+
+[00:57:03]
+bien, está bien pensado decir
+
+[00:57:06]
+tú, este, Gustavo, pues yo no sabía
+
+[00:57:09]
+hasta dónde iba a llegar la vela de 4
+
+[00:57:11]
+horas, cómo podía tener mi target si yo
+
+[00:57:14]
+esta vela de 4 horas no se ha
+
+[00:57:17]
+cerrado, pues yo no sé realmente cuál es
+
+[00:57:20]
+mi target.
+
+[00:57:24]
+Entonces lo que haces tú
+
+[00:57:27]
+es 4 horas, una hora, 3 horas también
+
+[00:57:31]
+que
+
+[00:57:35]
+son 180
+
+[00:57:39]
+minutos vas viendo los targets que tiene
+
+[00:57:42]
+el precio. Por ejemplo, este este que
+
+[00:57:44]
+tiene
+
+[00:57:46]
+acá es esto era como lo más
+
+[00:57:50]
+fácil. En 4 horas más de lo mismo, ¿no?
+
+[00:57:55]
+Este era como lo más fácil, inclusive
+
+[00:57:58]
+este que está
+
+[00:57:59]
+acá, este puede ser tu target
+
+[00:58:03]
+inicial y ya una vez que en el tiempo
+
+[00:58:05]
+ves que ves cómo se forma, pues tú te
+
+[00:58:08]
+puedes decidir salir ahí. O sea, este
+
+[00:58:11]
+arranca como tu target inicial, puede
+
+[00:58:13]
+ser tu target inicial. Este siempre van
+
+[00:58:16]
+a ser los altos de 4 horas, altos
+
+[00:58:18]
+diarios, 6 horas
+
+[00:58:20]
+también, 3 horas. Este, por ejemplo,
+
+[00:58:23]
+dices tú, este va a ser mi target
+
+[00:58:25]
+inicial, pero ya una vez tú ves la
+
+[00:58:27]
+acción de precio corriendo, pues ya lo
+
+[00:58:30]
+decides salirte en el máximo después de
+
+[00:58:32]
+que el precio ataca al máximo de la vela
+
+[00:58:34]
+anterior de 4 horas.
+
+[00:58:38]
+Ahora lo vamos a
+
+[00:58:40]
+ver cómo lo vemos ahora nosotros por
+
+[00:58:44]
+cambio estructural, cómo yo lo empleo
+
+[00:58:46]
+por cambio estructural. Estoy les estoy
+
+[00:58:49]
+explicando más o menos cómo lo hace
+
+[00:58:54]
+Will por cambio estructural. Lo mismo,
+
+[00:58:58]
+ves el
+
+[00:58:59]
+raideo de 4 horas, esto es
+
+[00:59:02]
+H4. Ves la estructura bajista.
+
+[00:59:06]
+Cambio de
+
+[00:59:07]
+estructura. En el cambio de estructura,
+
+[00:59:09]
+¿qué esperamos? Un
+
+[00:59:12]
+retroceso. Y después de ese retroceso
+
+[00:59:14]
+para
+
+[00:59:16]
+arriba. Puedes esperarte a que haga lo
+
+[00:59:18]
+mismo también si quieres en 5 minutos,
+
+[00:59:22]
+15 minutos, pero ya es no es necesario,
+
+[00:59:24]
+¿eh? Ya
+
+[00:59:27]
+es ya es demasiado, ya no es necesario.
+
+[00:59:30]
+Simplemente en el cambio estructural,
+
+[00:59:32]
+posición larga, en este mismo retroceso
+
+[00:59:35]
+que estaba ahí en el
+
+[00:59:37]
+precio, yo me protegería por aquí más o
+
+[00:59:41]
+menos para arriba. ¿Hasta dónde le
+
+[00:59:45]
+daría? En este caso, pues yo le daría
+
+[00:59:47]
+hasta estos
+
+[00:59:49]
+máximos, no más que nos queda un uno a
+
+[00:59:52]
+dos. O puedes aplicar la misma. Si ya
+
+[00:59:55]
+entraste en el cambio estructural,
+
+[00:59:57]
+puedes ir a una hora, 4 horas, etcétera,
+
+[01:00:02]
+etcétera. Vamos a ir una hora,
+
+[01:00:05]
+perdón. Y en una hora haces lo mismo.
+
+[01:00:07]
+Fijas tu target, que es pueden ser estos
+
+[01:00:10]
+máximos, y lo y regulas el stop loss a
+
+[01:00:13]
+que te quede más o menos un uno a tres,
+
+[01:00:15]
+un uno a dos.
+
+[01:00:23]
+Y
+
+[01:00:26]
+listo. Así de
+
+[01:00:31]
+sencillo. ¿Se entendió o no se entendió?
+
+[01:00:34]
+Es muy
+
+[01:00:38]
+difícil. Ya las el precio del Nasdaq ya
+
+[01:00:42]
+va a estar para la siguiente semana.
+
+[01:00:45]
+Ya
+
+[01:00:46]
+voy. Puede que dé las ventas y cierre
+
+[01:00:49]
+bajita, pero
+
+[01:00:53]
+no. Aunque el retroceso al 50% más abajo
+
+[01:00:56]
+como el más provecho por el SL más
+
+[01:00:59]
+chico. Y puedes esperarte el
+
+[01:01:02]
+50
+
+[01:01:04]
+quieres. Ya es extrao eso que, por
+
+[01:01:07]
+ejemplo, todo eso que tú dices es extra.
+
+[01:01:10]
+Ya yo lo explico así de manera para que
+
+[01:01:13]
+la gente lo entienda. Manera
+
+[01:01:16]
+simple, manera
+
+[01:01:23]
+sencilla, pero sí puedes medir el
+
+[01:01:26]
+fractal si quieres. Esto es lo que tú
+
+[01:01:28]
+dices, ¿no? Tú puedes medir el fractal
+
+[01:01:31]
+con un
+
+[01:01:34]
+Fibonacci. Puedes medir el fractal con
+
+[01:01:36]
+un
+
+[01:01:37]
+Fibonacci y entras al 50%.
+
+[01:01:44]
+haces lo mismo para el stop, fíjate, el
+
+[01:01:47]
+Fibonacci, el
+
+[01:01:48]
+50% y haces lo mismo para el TP. Puede
+
+[01:01:52]
+ser aquí. Yo lo hubiera puesto incluso
+
+[01:01:54]
+acá arriba, eh, pero bueno, si no
+
+[01:01:56]
+quieres operaciones tan como tan
+
+[01:02:00]
+largas
+
+[01:02:04]
+ahí y regulas tu stop a una
+
+[01:02:09]
+tres. Ahí está lo
+
+[01:02:13]
+mismo. Hasta acá te da un a cu a tres.
+
+[01:02:18]
+Puedes esperar cambio estructural en M1.
+
+[01:02:24]
+de que hay mis maneras de hacerlo. Es lo
+
+[01:02:29]
+mismo. Este es el fractal que estás
+
+[01:02:32]
+manejando, ¿no? Aquí ya tienes el
+
+[01:02:34]
+rompimiento de la
+
+[01:02:35]
+estructura acá.
+
+[01:02:38]
+[Música]
+
+[01:02:42]
+Y acá este es el
+
+[01:02:45]
+retroceso. Retroceso.
+
+[01:02:48]
+Retroceso. Vayan en hacer un nuevo
+
+[01:02:50]
+máximo y aquí entraría
+
+[01:02:53]
+yo. Ahí. Y haces lo
+
+[01:02:57]
+mismo. ¿Dónde está tu salida? Tu salida
+
+[01:03:00]
+va a estar probablemente acá en estos
+
+[01:03:02]
+máximos.
+
+[01:03:04]
+regulas tu stop que te dé un uno a tres
+
+[01:03:08]
+o 2 y medio. Ahí está otra forma de
+
+[01:03:12]
+entrada.
+
+[01:03:14]
+Listo. Yo creo que es fácil, ¿no? Fcil
+
+[01:03:17]
+de entender, ¿no? No creo que sea muy
+
+[01:03:19]
+difícil.
+
+[01:03:20]
+Vamos a ver, vamos a analizar otros
+
+[01:03:27]
+pares, analizar otros
+
+[01:03:33]
+pares. Créanme que parece difícil,
+
+[01:03:37]
+pero cuando ya tú una vez tienes la
+
+[01:03:40]
+práctica y el back testing,
+
+[01:03:43]
+ya es fácil, es fácil, es más fácil de
+
+[01:03:48]
+de
+
+[01:03:54]
+hacerlo. No veo nada interesante. El oro
+
+[01:03:58]
+bajista, la libra
+
+[01:03:59]
+[Música]
+
+[01:04:11]
+cayendo. Estaba viendo el NASDAQ para
+
+[01:04:14]
+una posible venta, pero más
+
+[01:04:18]
+lento. ¿Quieren que hagamos un poco de
+
+[01:04:20]
+back testing? Aquí no tengo Trading View
+
+[01:04:22]
+Premium. La verdad es que no lo tengo
+
+[01:04:24]
+porque no lo utilizo y el back
+
+[01:04:27]
+testin. Tengo una manera un poco
+
+[01:04:29]
+diferente de trabajar a la a lo que todo
+
+[01:04:32]
+el mundo
+
+[01:04:33]
+dice, pero vamos a hacer back testing
+
+[01:04:37]
+acá. ¿Qué quieren ver? A ver, eurodólar
+
+[01:04:41]
+o NASDAQ. Déjenme quito
+
+[01:04:43]
+mis mis cosas que tengo acá.
+
+[01:04:48]
+Ah, pero creo que no estoy
+
+[01:04:52]
+logueado. Ah, no, sí, ayer, ayer es como
+
+[01:04:56]
+si no estuviera
+
+[01:05:00]
+logueado. ¿Qué quieren ver,
+
+[01:05:04]
+chicos? El mercado está No veo nada
+
+[01:05:07]
+interesante.
+
+[01:05:09]
+SP500, 30, nada. El oro tampoco, el
+
+[01:05:14]
+euro poco, la libra
+
+[01:05:18]
+tampoco. Este es el último análisis de
+
+[01:05:20]
+Bitcoin. Miren, maravilloso,
+
+[01:05:23]
+¿no? Maravilloso. La lira. Le pegamos
+
+[01:05:27]
+bonito. Oro. ¿Quieren ver oro? Hacemos
+
+[01:05:31]
+back testing en el
+
+[01:05:32]
+oro. ¿Cómo está el ticket del oro?
+
+[01:05:36]
+el
+
+[01:05:40]
+chau. Vamos a hacer un de
+
+[01:05:45]
+diario para que ustedes vayan
+
+[01:05:48]
+viendo cómo funciona
+
+[01:05:52]
+esto. Sí, lo puse bien, Causa. Creo que
+
+[01:05:56]
+sí, ¿no?
+
+[01:05:59]
+Sí. Vamos a ponerlo
+
+[01:06:02]
+aquí por aquí más o menos.
+
+[01:06:06]
+Fíjense,
+
+[01:06:09]
+solo velas diarias. Vamos a
+
+[01:06:13]
+ir interpretando la dirección del
+
+[01:06:15]
+mercado, ¿no? Velas diarias.
+
+[01:06:19]
+Yo operaba estructura con mapeo de 1 H1
+
+[01:06:26]
+esperando pero después de ver esto
+
+[01:06:29]
+de Ya soy rentable y ya estoy fondeado.
+
+[01:06:32]
+Bueno, pues si si ya eres rentable y
+
+[01:06:34]
+estás fondeado, lo único que tienes que
+
+[01:06:36]
+hacer
+
+[01:06:37]
+es
+
+[01:06:39]
+este adaptarlo, adaptarlo a ti mismo,
+
+[01:06:42]
+adaptarlo a tu operativa, que te sume,
+
+[01:06:46]
+¿no? tratar de que te sume en lugar de
+
+[01:06:49]
+que te reste. No, dos máximos, dos
+
+[01:06:52]
+mínimos iguales, gente. Ha tomado este
+
+[01:06:55]
+máximo. ¿Para dónde irá el
+
+[01:06:59]
+precio? Creo que aquí.
+
+[01:07:06]
+Yo hago back testing un poco diferente a
+
+[01:07:08]
+lo que todo el mundo hace, pero yo sé
+
+[01:07:09]
+que la gente le piensa que, bueno, no
+
+[01:07:14]
+quiero no quiero hacer contra Vamos a
+
+[01:07:18]
+darle. Esta es una vela que no hace
+
+[01:07:21]
+nada, se queda donde
+
+[01:07:23]
+mismo. Probablemente venga por los dos
+
+[01:07:25]
+mínimos iguales. Probablemente venga por
+
+[01:07:28]
+los dos mínimos
+
+[01:07:31]
+iguales.
+
+[01:07:33]
+Okay. Ahí igual cuando ven esta liquidez
+
+[01:07:37]
+pendiente, no necesaria, digo,
+
+[01:07:39]
+probablemente puede venir por los
+
+[01:07:41]
+mínimos iguales, pero no necesariamente
+
+[01:07:43]
+porque estás contra la tendencia que
+
+[01:07:46]
+lleva el precio. La tendencia aquí que
+
+[01:07:48]
+lleva el precio para mí es
+
+[01:07:50]
+alcista, pero vamos a ir observando
+
+[01:07:52]
+diario. Velas diarias. Ahorita lo
+
+[01:07:55]
+podemos hacer. Así es. Estructura
+
+[01:07:58]
+alcista. Ahorita lo podemos hacer si
+
+[01:07:59]
+quieren
+
+[01:08:00]
+en 4
+
+[01:08:03]
+horas. Si se
+
+[01:08:08]
+fijan, acá está lo que acá está la el
+
+[01:08:11]
+turtle Zap.
+
+[01:08:14]
+¿Qué hace el precio? Deja dos mínimos
+
+[01:08:17]
+iguales. Vela en intrarango o vela
+
+[01:08:20]
+dentro del rango. Esta vela lo que hace
+
+[01:08:23]
+es llevarse el alto del de la al día
+
+[01:08:25]
+anterior. Fíjense como ahora raidea los
+
+[01:08:28]
+dos
+
+[01:08:30]
+mínimos. Esto me decían, Gustavo, eso no
+
+[01:08:34]
+es una estrategia, eso es una dirección
+
+[01:08:37]
+del precio. Sí, esto es más que una
+
+[01:08:40]
+estrategia.
+
+[01:08:42]
+El nombre de estrategia se le queda
+
+[01:08:45]
+corto. Esto es un lenguaje del algoritmo
+
+[01:08:49]
+interbancario. Bueno, podemos decir que
+
+[01:08:52]
+la teoría que es un algoritmo y no no es
+
+[01:08:55]
+un algoritmo, Gustavo, ¿cómo sabes?
+
+[01:08:58]
+Bueno, lo que tú creas que mueve el
+
+[01:09:00]
+mercado, ¿no? Por lo que tú creas que
+
+[01:09:02]
+mueve el
+
+[01:09:04]
+mercado. Ahora, este punto
+
+[01:09:07]
+alto y si se fijan
+
+[01:09:11]
+raideamos este
+
+[01:09:14]
+mínimo. Lo
+
+[01:09:15]
+probable lo que veo yo es que el precio
+
+[01:09:19]
+se lleve el máximo. Ahora sabe la
+
+[01:09:22]
+diaria.
+
+[01:09:23]
+la
+
+[01:09:24]
+diaria porque el PC raideado y cerrado
+
+[01:09:29]
+por
+
+[01:09:31]
+[Risas]
+
+[01:09:44]
+encima. ¿Lo ves ahí o no lo ves ahí? Por
+
+[01:09:48]
+eso es que la gente luego me dice,
+
+[01:09:50]
+"Gustavo, ¿cómo sabías?
+
+[01:09:53]
+¿Cómo
+
+[01:09:55]
+sabías? Bueno,
+
+[01:09:57]
+chico, no son 7 años aquí haciendo
+
+[01:10:00]
+trading de por nada, ¿no? No hemos
+
+[01:10:03]
+estado rascándonos la panza durante 7
+
+[01:10:08]
+años. Listo,
+
+[01:10:12]
+gente, toma de abajo y tome de arriba.
+
+[01:10:15]
+Ahora esta
+
+[01:10:17]
+estructura es
+
+[01:10:19]
+alcista aquí.
+
+[01:10:22]
+Tenemos este target acá. Fíjense cómo
+
+[01:10:26]
+vamos fijando los targets con los altos
+
+[01:10:27]
+de las
+
+[01:10:29]
+velas.
+
+[01:10:31]
+Ya vamos fijando los targets con los
+
+[01:10:33]
+altos de las
+
+[01:10:34]
+velas.
+
+[01:10:38]
+¿Listo? Probablemente el precio tome los
+
+[01:10:40]
+dos altos y ahí vemos. O vamos a ver
+
+[01:10:44]
+cómo se forma la siguiente vela
+
+[01:10:49]
+diaria. ¿Lo ves ahí?
+
+[01:10:52]
+Es que el precio no se mueve por FBG, no
+
+[01:10:55]
+se mueve porque el imbalance y el BPR y
+
+[01:10:58]
+el HGR, el precio se mueve tomando altos
+
+[01:11:02]
+y
+
+[01:11:04]
+bajos de las velas. Es lo que hace el
+
+[01:11:08]
+algoritmo, tomar altos y bajos de velas.
+
+[01:11:10]
+Es lo ú es lo único que hace
+
+[01:11:13]
+constantemente.
+
+[01:11:16]
+Ahora ahí esto ya esto es un poco más
+
+[01:11:20]
+complicado, pero como el precio cerró
+
+[01:11:22]
+por debajo
+
+[01:11:24]
+de
+
+[01:11:27]
+primero el precio cumplió su target, que
+
+[01:11:31]
+eran esos dos altos que les había dicho,
+
+[01:11:33]
+y cerró por debajo de ese rango,
+
+[01:11:35]
+probablemente ahora venga por el
+
+[01:11:40]
+mínimo,
+
+[01:11:44]
+probablemente. Bueno, aquí si me
+
+[01:11:45]
+equivoqué.
+
+[01:11:47]
+Ay, lo ideal hubiera sido que raideara
+
+[01:11:48]
+al
+
+[01:11:49]
+mínimo. Pero ahí les va una cosa. Cuando
+
+[01:11:53]
+tengan este tipo de escenarios donde el
+
+[01:11:56]
+precio te hizo el turtle sap, te hizo el
+
+[01:11:59]
+turtle, la sopa de tortuga te la hizo
+
+[01:12:01]
+aquí,
+
+[01:12:02]
+¿no?
+
+[01:12:04]
+Turtle y este rechazó, cerró por debajo
+
+[01:12:08]
+del rango. Si es muy buen especulativo
+
+[01:12:11]
+que el precio venga ahora por el mínimo,
+
+[01:12:14]
+pero el único detalle es que estás en
+
+[01:12:17]
+contra de la tendencia y cuando estás en
+
+[01:12:19]
+contra de la tendencia, el precio va a
+
+[01:12:20]
+tener solamente una reacción en el
+
+[01:12:23]
+Turtle
+
+[01:12:26]
+Zap. ¿Estás en la formación de
+
+[01:12:29]
+Will? No, no, no, no. Yo yo llevo
+
+[01:12:33]
+operando esto mucho tiempo, muchos años.
+
+[01:12:36]
+Tampoco te voy a decir que soy el s
+
+[01:12:38]
+experto, pero bueno, sé cómo
+
+[01:12:47]
+funciona. Sí, tanta vaina que le ponen.
+
+[01:12:51]
+Esto es un back testing sencillo, de
+
+[01:12:53]
+chill, tranquilito. No estamos ni
+
+[01:12:55]
+poniendo entradas aquí, eh, estamos
+
+[01:12:59]
+relajados.
+
+[01:13:01]
+Eh, tomó esa liquidez. Okay, sigamos,
+
+[01:13:04]
+sigamos viendo velas diarias, gente,
+
+[01:13:06]
+aquí como
+
+[01:13:11]
+locos. Okay, hizo el turtle
+
+[01:13:15]
+sap, la la sopa de tortuga. Veamos ahora
+
+[01:13:18]
+qué hace con el mínimo este y qué hace
+
+[01:13:21]
+con el máximo. Si se fijan, que el
+
+[01:13:23]
+precio lo que hace es ir tomando puntos
+
+[01:13:25]
+altos de velas. Acá, fíjense de este
+
+[01:13:29]
+lado. Fíjense de este lado cómo tomó los
+
+[01:13:32]
+máximos.
+
+[01:13:34]
+de esas dos velas. Igual estamos frente
+
+[01:13:36]
+a una estructura alcista en
+
+[01:13:38]
+diario. Ahora, ¿qué va a ser el precio?
+
+[01:13:41]
+Probablemente tome el mínimo. Está muy
+
+[01:13:43]
+cerca del mínimo para tomarlo. Parte
+
+[01:13:45]
+raideado ese punto
+
+[01:13:47]
+máximo. Ahí
+
+[01:13:50]
+está. Vamos. El
+
+[01:13:53]
+mínimo de esa
+
+[01:13:56]
+vela. Ahora como el precio ya ha tomado
+
+[01:13:58]
+ese y probablemente bueno él sigue
+
+[01:14:01]
+alcista.
+
+[01:14:03]
+Y y esto sin ver el contexto de 4 horas,
+
+[01:14:06]
+de una hora, de que las el horario,
+
+[01:14:10]
+solamente mirando velas, eh, no estamos
+
+[01:14:12]
+haciendo otra cosa,
+
+[01:14:14]
+¿eh? Y ya raideó ese mínimo. Bueno,
+
+[01:14:17]
+raideó el mínimo, cerró
+
+[01:14:19]
+aquí, aunque eso podría ser el comienzo
+
+[01:14:23]
+de un
+
+[01:14:25]
+retroceso. Eh, tengo mis dudas, pero
+
+[01:14:28]
+probablemente vaya por el máximo, aunque
+
+[01:14:30]
+tengo mis dudas. Porque esto ya puede
+
+[01:14:33]
+ser el comienzo de una estructura
+
+[01:14:36]
+bajista o en forma de
+
+[01:14:40]
+retroceso. Hm. Voy por el
+
+[01:14:44]
+máximo. Perfecto. Si se fijan lo que
+
+[01:14:47]
+hace, ¿están poniendo atención o no? ¿O
+
+[01:14:50]
+estoy aquí hablando como
+
+[01:14:54]
+loco?
+
+[01:15:00]
+Es Ah.
+
+[01:15:02]
+No, es que ahí hab un FBG, Gustavo. No,
+
+[01:15:05]
+no nada. Precio tomó el mínimo. Ahí va.
+
+[01:15:12]
+Okay, ahora probablemente nuestro target
+
+[01:15:14]
+sea
+
+[01:15:16]
+este. Ahora el precio, este es el
+
+[01:15:20]
+máximo. Sigue
+
+[01:15:22]
+targeteando. Y aquí por aquí va a formar
+
+[01:15:25]
+una vela a lo mejor de indecisión o que
+
+[01:15:29]
+tome ese esos dos
+
+[01:15:32]
+máximos. Ay, me adelanté, puse
+
+[01:15:36]
+dos. Hm. toma el punto alto y en algún
+
+[01:15:40]
+Gustavo, ¿y qué pasa cuando el pecio se
+
+[01:15:42]
+va a pura vela así para arriba? En algún
+
+[01:15:44]
+momento te va a formar la
+
+[01:15:46]
+liquidez en va a empezar a dejar mínimos
+
+[01:15:49]
+y luego los va a
+
+[01:15:50]
+tomar. ¿Qué significa? Va a empezar a
+
+[01:15:53]
+imprimir velas, velas, velas y va a
+
+[01:15:54]
+dejar varias, varios mínimos iguales y
+
+[01:15:56]
+luego, pum, se los va a
+
+[01:15:58]
+llevar. Eso es lo que va a hacer. Aquí
+
+[01:16:00]
+ya
+
+[01:16:01]
+tomamos eso de ahí no tenemos nada más
+
+[01:16:04]
+de este lado. Bueno, ya ni necesario
+
+[01:16:05]
+saber darse
+
+[01:16:10]
+cuenta.
+
+[01:16:14]
+Okay. Abrir las
+
+[01:16:19]
+órdenes. Vamos a ver la siguiente vela.
+
+[01:16:24]
+Bueno, raidea, fíjense, deja pasar
+
+[01:16:27]
+solamente un día y ya raideó el
+
+[01:16:31]
+mínimo. Esta vuelve a quedarse ahí como
+
+[01:16:34]
+como que ah, esta, por ejemplo, esta
+
+[01:16:37]
+vela es una vela. Sí, raidea el
+
+[01:16:41]
+máximo, pero no raidea el mínimo.
+
+[01:16:45]
+Hubiera gustado que raideara el mínimo
+
+[01:16:46]
+también. Pues si se fijan como todas las
+
+[01:16:48]
+velas van tomando los mínimos y máximos,
+
+[01:16:51]
+la mayoría hay pocas velas en su gráfico
+
+[01:16:54]
+que no tomen mínimos y máximos.
+
+[01:17:03]
+Sabo, ¿qué te parece operar dos pares o
+
+[01:17:06]
+tres tres con entradas al 0 pun uno solo
+
+[01:17:12]
+para yo opero un solo par? Solo par. El
+
+[01:17:16]
+riesgo depende de tu win ray, depende de
+
+[01:17:18]
+tu de tu estrategia y depende de qué
+
+[01:17:21]
+depende también el riesgo que vas a
+
+[01:17:22]
+utilizar de qué estés haciendo. Yo no
+
+[01:17:25]
+opero, por ejemplo, el mismo riesgo en
+
+[01:17:26]
+Challenger, en fase, en cuenta real.
+
+[01:17:29]
+Fase dos, no opero lo
+
+[01:17:32]
+mismo. Yo opero, ¿cómo operas tú? Yo
+
+[01:17:36]
+opero un solo par, que es
+
+[01:17:38]
+Nasdaq, una sola entrada al día y el
+
+[01:17:41]
+riesgo ya depende en qué cuenta esté
+
+[01:17:42]
+operando. Si estoy operando en si estoy
+
+[01:17:45]
+operando en Challenger fase uno, lo le
+
+[01:17:48]
+meto un 2%.
+
+[01:17:50]
+Si estoy operando en fase dos, puede ser
+
+[01:17:53]
+un 1 a un 1 y medio, 125
+
+[01:17:56]
+aproximadamente, entre un 1 a un 1 y
+
+[01:17:59]
+medio en fase dos y si estoy en cuenta
+
+[01:18:01]
+real, le meto un
+
+[01:18:03]
+0.50 y solamente hago una sola entrada
+
+[01:18:05]
+al día en la sesión de Nueva York y no
+
+[01:18:08]
+opero todos los días,
+
+[01:18:10]
+opero uno o tres a a tres días. Es no
+
+[01:18:14]
+hay semana en la que opere toda la
+
+[01:18:16]
+semana. Lo máximo que voy a operar son 4
+
+[01:18:19]
+días, pero por lo general suelen ser de
+
+[01:18:21]
+una a tres entradas a la semana. Es lo
+
+[01:18:23]
+que
+
+[01:18:25]
+hago. ¿Y cómo haces con varias cuentas?
+
+[01:18:28]
+Pues una semana opero una cuenta, otra
+
+[01:18:30]
+semana otra opera otra cuenta. Cuando
+
+[01:18:32]
+hago challengers pues no opero cuenta
+
+[01:18:34]
+real. Por ejemplo, hoy estoy operando,
+
+[01:18:36]
+estas semanas que han pasado, estoy
+
+[01:18:38]
+centrándome en operar cuenta real, en
+
+[01:18:40]
+sacar payouts y ya la siguiente semana
+
+[01:18:43]
+que esté, no la siguiente, creo que
+
+[01:18:46]
+hasta la ya que obtenga otro nuevo
+
+[01:18:48]
+payout, probablemente estaré operando
+
+[01:18:50]
+puro
+
+[01:18:53]
+challenger. Tengo varias cuentas y esto
+
+[01:18:56]
+me está
+
+[01:18:57]
+matando. Ah, pues no, no necesitas
+
+[01:19:01]
+operar
+
+[01:19:02]
+mucho. Hm.
+
+[01:19:04]
+Ah, acuérdate que es preferible calidad,
+
+[01:19:06]
+calidad por
+
+[01:19:09]
+cantidad. Ya depende tu estilo, ¿no? Si
+
+[01:19:11]
+tú eres scalper a lo mejor y quieres
+
+[01:19:14]
+operar mucho, pues bueno, adelante. A mí
+
+[01:19:16]
+no me funciona. A mí me sirve. Yo entre
+
+[01:19:18]
+menos opero, más resultados o más
+
+[01:19:19]
+rendimiento
+
+[01:19:24]
+tengo. Listo,
+
+[01:19:27]
+gente. Bueno, ahí nos vamos para
+
+[01:19:30]
+abajo. Probablemente ahora este sea su
+
+[01:19:33]
+target. Ese que está
+
+[01:19:37]
+ahí. Vaya a raidear
+
+[01:19:41]
+eso. Este no lo sacó, podrías decir. Ah,
+
+[01:19:44]
+Gustavo no lo sacó. Eh, ¿cómo que no lo
+
+[01:19:47]
+sacó, muchacho? No lo
+
+[01:19:55]
+sacó. Pero operas futuros, ¿no? CFD,
+
+[01:19:58]
+pero
+
+[01:20:03]
+CFDs. Solo opero, bro. Pero quiero
+
+[01:20:05]
+buscar. Pero, ¿para qué quieres buscar
+
+[01:20:07]
+más más trades? ¿Para
+
+[01:20:09]
+qué? ¿Para qué? ¿Cuál es la pica? Te le
+
+[01:20:13]
+agarra la picazón. Una rasquera por
+
+[01:20:16]
+querer estar operando todos los días.
+
+[01:20:18]
+Una rasquera te da una rasquera. Es que
+
+[01:20:21]
+qué
+
+[01:20:23]
+no para qué no es
+
+[01:20:30]
+necesario. Uy, José, llegaste tarde,
+
+[01:20:32]
+José, llegaste tarde. Ya lo expliqué.
+
+[01:20:35]
+Llegaste tarde, José. vas a poder ver el
+
+[01:20:37]
+directo resubido y en el principio
+
+[01:20:39]
+explico, hago el repaso. Ahorita estamos
+
+[01:20:42]
+haciendo back testing de la temporalidad
+
+[01:20:43]
+diaria en el
+
+[01:20:48]
+oro. Era que la comisón que les da por
+
+[01:20:52]
+querer estar operando y no una o tres
+
+[01:20:57]
+entradas a la semana y tienes
+
+[01:21:01]
+suficiente, no ocupas nada.
+
+[01:21:10]
+[Música]
+
+[01:21:12]
+Eh, ahora como lo raideó, raideó el el
+
+[01:21:16]
+low también raideó este low. Fíjense,
+
+[01:21:18]
+este patrón es muy
+
+[01:21:20]
+bueno. Raideo de
+
+[01:21:24]
+low. Ya les estoy diciendo cosas de
+
+[01:21:26]
+mentoría de Will, eh.
+
+[01:21:34]
+Ay, lu lo luego le le van a le van a
+
+[01:21:37]
+decir a Will, no hay un chico ahí en
+
+[01:21:40]
+YouTube que ya de por sí ya vio mis
+
+[01:21:42]
+videos, no le van. Hay un chico en
+
+[01:21:44]
+YouTube ahí anda revelando tu secreto de
+
+[01:21:46]
+tu de la mentoría.
+
+[01:21:50]
+Eh, como ya cerró la vela esta por
+
+[01:21:53]
+encima del rango, cerró la vela por
+
+[01:21:55]
+encima del rango y y raideó tanto este
+
+[01:22:00]
+bajo como este bajo, ahora el precio va
+
+[01:22:02]
+a venir a tomar ese high. No tengo
+
+[01:22:05]
+pruebas, pero tampoco dudas. Y este
+
+[01:22:07]
+high,
+
+[01:22:11]
+probablemente. Ay, aquí se me equivoqué.
+
+[01:22:14]
+Este generalmente no falla, ¿eh?
+
+[01:22:17]
+Ah, sí, por lo general falla.
+
+[01:22:20]
+Hay veces que hace esto,
+
+[01:22:22]
+miren, porque aquí ya no me van a creer.
+
+[01:22:25]
+Hay veces que hace
+
+[01:22:28]
+esto así, luego ya se imprime la próxima
+
+[01:22:31]
+vela para abajo, pero en este caso aquí
+
+[01:22:34]
+no lo hizo. Pero por lo general este
+
+[01:22:37]
+patrón es es muy bueno. Este, por
+
+[01:22:39]
+ejemplo, puede ser cuando esto, por
+
+[01:22:41]
+ejemplo, si puede ser una trap, una
+
+[01:22:45]
+trampa, pero probablemente porque aquí
+
+[01:22:48]
+en el en este en este fractal que
+
+[01:22:50]
+llevamos diario, pues el precio no ha
+
+[01:22:52]
+cumplido su próximo retroceso, pero
+
+[01:22:55]
+igualmente está bien, está bien irlo
+
+[01:22:57]
+testeando para que tú lo vayas viendo.
+
+[01:23:00]
+Ahora sí lo hace esta vela, por ejemplo,
+
+[01:23:03]
+esta vela que ustedes ven aquí, pues es
+
+[01:23:05]
+la vela que yo especulaba de este lado.
+
+[01:23:08]
+Lo que pasa es que ahora hizo
+
+[01:23:10]
+probablemente porque fue un día de
+
+[01:23:12]
+noticias también. Will enseña mucho los
+
+[01:23:15]
+días de noticias te dan como la clave.
+
+[01:23:18]
+Aquí yo no sabía, no, no vi. Pero ya
+
+[01:23:20]
+cuando tú estás operando en vivo es
+
+[01:23:22]
+mucho más fácil
+
+[01:23:24]
+porque ¿por qué? Porque como te como ya
+
+[01:23:27]
+tienes los el calendario económico, los
+
+[01:23:29]
+días de noticias y todo eso, pues ahí sí
+
+[01:23:33]
+mucho más fácil. Pero bueno, igualmente
+
+[01:23:35]
+hizo lo que le lo que les decía. Más que
+
+[01:23:38]
+aquíito. Volvió, hizo un doble top,
+
+[01:23:42]
+doble turtle sub. Fíjense que volvió a
+
+[01:23:44]
+echar otro doble turtle
+
+[01:23:46]
+sub. Otro aquí y ahora sí ya cerró para
+
+[01:23:52]
+arriba. Vamos a ver otra próxima vela.
+
+[01:23:55]
+Ya va. Fíjense que siempre ya va a
+
+[01:23:58]
+tarjetear este. Esto dejó un
+
+[01:24:01]
+previo previo
+
+[01:24:03]
+ahí. Probablemente ahora raide la parte
+
+[01:24:06]
+de arriba.
+
+[01:24:09]
+previo
+
+[01:24:10]
+ahí no lo
+
+[01:24:13]
+tomó. Muchas veces pasa esto también que
+
+[01:24:15]
+es cuando se forma el doble techo, pero
+
+[01:24:17]
+una vez que raideó abajo, una vez que
+
+[01:24:19]
+consigue raidear abajo también este de
+
+[01:24:22]
+aquí y este de aquí ya probablemente
+
+[01:24:24]
+después lo va a ir a sacar.
+
+[01:24:38]
+Hm. Ya. Este parece un giro de la
+
+[01:24:41]
+tendencia,
+
+[01:24:44]
+¿eh? Un giro de la Se me desconectó
+
+[01:24:46]
+TikTok. Me quedé aquí parado porque se
+
+[01:24:48]
+me desconectó
+
+[01:24:49]
+TikTok. Ah, no, volvió. Se desconectó.
+
+[01:24:52]
+Se fue. Fue TikTok. Este ya parece un
+
+[01:24:55]
+giro de la de la de la tendencia. ¿Por
+
+[01:24:58]
+qué? Porque debería del precio de haber
+
+[01:25:01]
+hecho un nuevo higher high aquí. Una vez
+
+[01:25:04]
+que raidea estos mínimos debería de
+
+[01:25:06]
+haber sido debería de haberse ido para
+
+[01:25:09]
+arriba, pero lo hizo. Está bien.
+
+[01:25:12]
+Igualmente, aparte, acuérdense que aquí
+
+[01:25:14]
+no tenemos contexto de nada, ¿no?
+
+[01:25:17]
+Contexto de nada. Estamos en la nada,
+
+[01:25:18]
+solamente estamos viendo velas diarias,
+
+[01:25:21]
+pero esto sirve mucho para ir viendo las
+
+[01:25:24]
+tomas de liquidez que va generando el
+
+[01:25:27]
+precio. Ya tú te puedes ir, ahora sí,
+
+[01:25:30]
+veamos. Ahora sí si falla el mismo
+
+[01:25:32]
+patrón que tenemos
+
+[01:25:33]
+acá. A ver, vamos a ver si ahora sí se
+
+[01:25:39]
+cumple. A ver si no me deja mal otra
+
+[01:25:42]
+vez. Ahora yo creo que va por este y por
+
+[01:25:44]
+los por los dos de arriba.
+
+[01:25:47]
+Vela cierra por eh rango. Vela cierra
+
+[01:25:51]
+por arriba, aunque falló en hacer un
+
+[01:25:53]
+nuevo higher high. Es lo único que
+
+[01:25:55]
+tengo. Bueno, sí, esta sí, esta sí fue
+
+[01:25:59]
+ideal, fíjense, fue perfecta. Esta sí.
+
+[01:26:02]
+Lo único malo es que esta vela volvió a
+
+[01:26:05]
+cerrar por debajo del
+
+[01:26:06]
+rango.
+
+[01:26:09]
+Igual está bien. Como volvió a cerrar
+
+[01:26:13]
+por, fíjense como esta vela que está
+
+[01:26:15]
+acá, esta, estoy hablando de esta
+
+[01:26:19]
+chiquitita, la anterior a esta, fíjense,
+
+[01:26:22]
+esta vela antes de que fuera
+
+[01:26:24]
+impresa, de que fuera impresa, volvió a
+
+[01:26:26]
+cerrar por debajo del rango este que
+
+[01:26:28]
+está aquí arriba, este rango que está
+
+[01:26:30]
+aquí.
+
+[01:26:32]
+este rango, ya, como esa vela volvió a
+
+[01:26:36]
+cerrar por adentro del rango, ya tú
+
+[01:26:39]
+especulas que va a ir por el low este
+
+[01:26:41]
+que está acá. Y lo mismo ahora sucede
+
+[01:26:44]
+con esta vela. En teoría, como tú como
+
+[01:26:47]
+ves que cierra por dentro del rango de
+
+[01:26:49]
+esta vela, raidea y cierra por debajo
+
+[01:26:52]
+del rango de esta vela y lo mismo
+
+[01:26:54]
+sucedió con esta vela que está acá
+
+[01:26:56]
+abajo, esta misma.
+
+[01:26:59]
+Y ahora tú especulas que va a ir por el
+
+[01:27:01]
+alto. Teoría debería
+
+[01:27:03]
+de esta
+
+[01:27:06]
+no. Esta sí funcionó bastante bien. Esta
+
+[01:27:09]
+también funcionó bastante
+
+[01:27:11]
+bien. Esta no
+
+[01:27:14]
+funcionó porque probablemente el precio
+
+[01:27:16]
+venga con una con otro contexto de
+
+[01:27:18]
+estructura bajista. Está
+
+[01:27:21]
+bien.
+
+[01:27:23]
+Ahora vamos viendo
+
+[01:27:26]
+velas. Ahora sí.
+
+[01:27:29]
+Ahora
+
+[01:27:31]
+sí, esto es lo que debería haber hecho
+
+[01:27:33]
+el precio desde un principio, no más que
+
+[01:27:36]
+tardó 3 días más. Esto también muchas de
+
+[01:27:38]
+las veces sucede por el calendario
+
+[01:27:40]
+económico. Si tú, por ejemplo, estás
+
+[01:27:42]
+aquí al lunes y las noticias relevantes
+
+[01:27:45]
+las tienes hasta el día jueves o
+
+[01:27:48]
+viernes, el el movimiento principal lo
+
+[01:27:51]
+va a hacer el precio hasta el jueves o
+
+[01:27:52]
+el viernes. Y por eso luego muchas de
+
+[01:27:54]
+las veces va a ser este tipo de velas.
+
+[01:27:57]
+el lunes, martes, miércoles y fíjense
+
+[01:27:59]
+que hasta el jueves hace el movimiento
+
+[01:28:01]
+que
+
+[01:28:02]
+queríamos desde Pero fíjense, desde que
+
+[01:28:05]
+estábamos en día viernes acá ya
+
+[01:28:08]
+estábamos especulando que después de
+
+[01:28:09]
+que, fíjense, después de que tomara esto
+
+[01:28:12]
+de aquí, el precio cierra dentro del
+
+[01:28:15]
+rango, automáticamente sabemos nosotros
+
+[01:28:17]
+que hay por este high y por el high de
+
+[01:28:19]
+acá arriba. Lo que pasa es que el precio
+
+[01:28:23]
+no va de manera lineal, no digamos que
+
+[01:28:25]
+tardó su su tiempo
+
+[01:28:27]
+en Primero hizo sus velas aquí, raideó
+
+[01:28:31]
+para abajo y luego ahora raideó para
+
+[01:28:39]
+arriba. Listo, podemos
+
+[01:28:43]
+seguir. Ahora sí tomo el target. Una vez
+
+[01:28:46]
+que está cerrado ese target, pues es
+
+[01:28:50]
+retroceso, un retroceso más agresivo el
+
+[01:28:53]
+precio. Retroceso agresivo. Retroceso
+
+[01:28:57]
+agresivo. Fíjense como ahora. Ay, se me
+
+[01:29:00]
+fue, se me fue, se me fue.
+
+[01:29:03]
+Eh, ahora lo
+
+[01:29:05]
+mismo.
+
+[01:29:07]
+El raidea este mínimo. Esta no, este es
+
+[01:29:10]
+un fail, un fallo. Este es un fallo
+
+[01:29:14]
+aquí.
+
+[01:29:16]
+fallo. Saca estos dos
+
+[01:29:18]
+[Música]
+
+[01:29:19]
+saltos. Saca estos dos
+
+[01:29:22]
+saltos. Se va acá y ya ahora sí va
+
+[01:29:26]
+raidea todo lo que está arriba. Aquí,
+
+[01:29:28]
+fíjense que a pesar de que vas con una
+
+[01:29:31]
+estructura en contra de el precio,
+
+[01:29:38]
+cierra cierra por debajo del rango.
+
+[01:29:41]
+Ahora sí ve la roja.
+
+[01:29:45]
+Y antes de creo que son dos iguales. Son
+
+[01:29:49]
+dos iguales. Probablemente ahora los
+
+[01:29:51]
+saque esos dos mínimos
+
+[01:29:53]
+iguales. Estos dos mínimos iguales y y
+
+[01:29:57]
+ahí si acaso vemos si puede volver a
+
+[01:29:59]
+subir. Deja borro tantas líneas que
+
+[01:30:01]
+tenemos
+
+[01:30:02]
+acá. Lo saco. Fíjense cómo lo saco. Y
+
+[01:30:07]
+aquí ya se da el Turtle
+
+[01:30:09]
+Zap. Turtle Zap. Ahí.
+
+[01:30:12]
+Y ahora sigue su tendencia, pero como ya
+
+[01:30:15]
+ha cumplido su target mayor, pues puede
+
+[01:30:17]
+ser que se gire, aunque no
+
+[01:30:19]
+necesariamente, porque la tendencia es
+
+[01:30:21]
+alcista, ¿no? Entonces, no sabemos si
+
+[01:30:24]
+pueda dar
+
+[01:30:25]
+reversión. Vuelve por este
+
+[01:30:27]
+máximo teoría. Okay, ahora sí se gira.
+
+[01:30:31]
+Fíjense que una vez que cumple los
+
+[01:30:33]
+targets inmediatos, en este caso era
+
+[01:30:36]
+este, fíjense cómo cumple los targets
+
+[01:30:38]
+inmediatos, esta cierra por debajo del
+
+[01:30:41]
+rango y automáticamente la siguiente ya
+
+[01:30:44]
+va a ir por los lows. Por lo menos este
+
+[01:30:47]
+low es el primero que te puedes
+
+[01:30:48]
+asegurar, este lad de esta vela.
+
+[01:30:51]
+Sigamos viendo. Ahora sí vamos a ver
+
+[01:30:53]
+posiblemente un retroceso o vimos un
+
+[01:30:58]
+retroceso.
+
+[01:31:00]
+Okay. Esta vela no me dice nada, está
+
+[01:31:02]
+dentro del propio rango. No ha tomado
+
+[01:31:04]
+nada. Esta vela ya toma aquí. Cierra por
+
+[01:31:07]
+encima
+
+[01:31:08]
+de otra vez de nuevo. Toma ahí. Cierra
+
+[01:31:11]
+por encima de toma este mínimo. Cierra
+
+[01:31:15]
+por encima de. Ahora probablemente pueda
+
+[01:31:17]
+ir tal
+
+[01:31:19]
+vez pronto por los máximos, aunque aquí
+
+[01:31:25]
+me da de que a lo
+
+[01:31:27]
+mejor no la tendencia sigue fuerce
+
+[01:31:29]
+alcista,
+
+[01:31:31]
+¿eh? Pero
+
+[01:31:34]
+ya ya hay algo ahí que me dice que puede
+
+[01:31:38]
+bajar. Así es,
+
+[01:31:39]
+efectivamente. Aún así, fíjense cómo lo
+
+[01:31:42]
+cumple. Fíjense aún así que sí cayó.
+
+[01:31:45]
+Fíjense que este sí lo lo
+
+[01:31:48]
+sacó. ¿Cómo lo sacó?
+
+[01:31:51]
+Excelentemente. Ahí lo sacó ese máximo
+
+[01:31:54]
+manera más
+
+[01:31:56]
+excelente. Eh, ahora sacó este. Vamos a
+
+[01:31:59]
+ver la siguiente
+
+[01:32:01]
+vela. La siguiente vela saco este
+
+[01:32:04]
+mínimo. Vino por este mínimo. Este no lo
+
+[01:32:07]
+no lo alcanzó a sacar.
+
+[01:32:12]
+Okay. Cierra por debajo del rango.
+
+[01:32:15]
+Genera ahora este sacó el máximo
+
+[01:32:17]
+anterior. Si se fijan, este máximo.
+
+[01:32:20]
+Ahora tiene este rango, tiene este. Como
+
+[01:32:24]
+estamos en una estructura alcista,
+
+[01:32:25]
+gente, aquí pues ya probablemente esto
+
+[01:32:28]
+sea el mínimo, ¿no?, de esa estructura.
+
+[01:32:31]
+Puede ser.
+
+[01:32:33]
+O sea, que esto haga así para arriba,
+
+[01:32:35]
+luego en retroceso y luego y luego siga
+
+[01:32:37]
+imprimiendo
+
+[01:32:39]
+máximo. Ya. Ah, sí, es
+
+[01:32:43]
+efectivamente. Tarjeteamos ahora este.
+
+[01:32:46]
+Ahora este va a ser mi liquidez de la
+
+[01:32:48]
+parte de arriba. Este es mi
+
+[01:32:53]
+rango. Fíjense como todo el rato vamos
+
+[01:32:55]
+viendo los targets que tiene el
+
+[01:32:58]
+precio, aunque no le peguemos siempre,
+
+[01:33:01]
+¿eh?
+
+[01:33:06]
+Aunque no le peguemos siempre a la
+
+[01:33:07]
+dirección, no importa. Ustedes pueden ir
+
+[01:33:10]
+haciendo el ejercicio y se van a lo van
+
+[01:33:12]
+a ir viendo, lo van a por lo menos ir
+
+[01:33:17]
+comprendiendo. Fíjense cómo lo
+
+[01:33:19]
+raideamos. ¿Se fijan? Todo el rato, todo
+
+[01:33:22]
+el
+
+[01:33:22]
+rato, todo el rato lo mismo. Esto
+
+[01:33:25]
+función y a los que se pregunten, eh,
+
+[01:33:28]
+funciona en todas las
+
+[01:33:30]
+temporalidades. Una vez que lo
+
+[01:33:34]
+raideamos, fuerte vela de para abajo,
+
+[01:33:38]
+raideamos el mínimo. Este sí me falló,
+
+[01:33:40]
+fíjense. Me hubiera
+
+[01:33:41]
+gustado. Me falló porque este cierra por
+
+[01:33:44]
+encima del rango. Es que ya tiene que
+
+[01:33:46]
+ver el contexto. El
+
+[01:33:48]
+contexto. contexto es el
+
+[01:33:50]
+contexto, no no puedes usar una sola
+
+[01:33:53]
+cosa o decir que por una sola cosa va a
+
+[01:33:55]
+ser algo el precio, pero ya cuando
+
+[01:33:57]
+tienes un contexto firme en el mercado,
+
+[01:33:59]
+pues ya ahí
+
+[01:34:01]
+puedes ahí es otra cosa diferente.
+
+[01:34:05]
+Raideamos estos dos de acá iguales, dos
+
+[01:34:08]
+mínimos iguales y raideamos este de ahí.
+
+[01:34:11]
+Cerramos por encima. Ahora probablemente
+
+[01:34:13]
+el
+
+[01:34:14]
+target sin equivocarme. A ver, vamos a
+
+[01:34:17]
+ver si me equivoco o no.
+
+[01:34:19]
+Ahí no sé si este que está acá es
+
+[01:34:22]
+alucinarse mucho, esos dos iguales, pero
+
+[01:34:25]
+probablemente esos
+
+[01:34:26]
+tres. Bueno, este si no. Ahora ya se
+
+[01:34:29]
+está alineando una estructura más
+
+[01:34:31]
+bajista. Estoy viendo el contexto, por
+
+[01:34:34]
+ejemplo, en 4
+
+[01:34:35]
+horas, eh, pues simplemente aquí no es
+
+[01:34:39]
+que no es que vayas a comprar, sino que
+
+[01:34:42]
+si tu estructura de 4 horas o de una
+
+[01:34:44]
+hora se alínea, te puedes sabes que este
+
+[01:34:47]
+va a ser tu target, estos tres que van a
+
+[01:34:50]
+ser tus targets, pero si la estructura
+
+[01:34:53]
+de 4 horas no se alínea, pues nada, ¿no?
+
+[01:34:56]
+Igual aquí que lo que hizo el precio es
+
+[01:34:59]
+nuevo máximo. Aquí está
+
+[01:35:02]
+fallando. De
+
+[01:35:04]
+pronto quiera raidear acá abajo, más
+
+[01:35:10]
+abajo. Ahora
+
+[01:35:12]
+sí me la volví a hacer. Ahora
+
+[01:35:16]
+sí. Ahora sí. Lo que pasa es que volví a
+
+[01:35:19]
+hacer otro jalón. Yo pensé que desde
+
+[01:35:20]
+aquí ya se iba a ir desde que raideó
+
+[01:35:22]
+estos dos mínimos. O sea, desde este
+
+[01:35:25]
+desde este punto ya se iba a ir a hacer
+
+[01:35:26]
+esto mismo, pero volvió a hacer otro
+
+[01:35:28]
+raideo. Y ahora
+
+[01:35:30]
+sí lo deja pendiente y luego lo va a
+
+[01:35:34]
+sacar. Lo deja pendiente. Fíjense cómo
+
+[01:35:36]
+lo deja pendiente. Esto, esto, ¿por qué
+
+[01:35:39]
+es? Porque el precio aquí tiene que
+
+[01:35:42]
+inducir y luego después de
+
+[01:35:44]
+que acá está
+
+[01:35:46]
+otro. Tiene que inducir una vez que
+
+[01:35:48]
+induce y si lo va a sacar lo induce y
+
+[01:35:51]
+luego lo saca. Estos como son dos altos
+
+[01:35:54]
+iguales de liquidez, aparte es diario
+
+[01:35:56]
+esto,
+
+[01:35:57]
+¿no? Acá de nuevo, aquí ya tiene tres
+
+[01:36:00]
+iguales. Fíjense como tiene tres. Estos
+
+[01:36:02]
+tiene. Miren, fíjense cómo acumuló todo
+
+[01:36:05]
+eso. Ahí puedes especular que venga un
+
+[01:36:08]
+velón grande aparte ahí. Fíjense, tiene
+
+[01:36:11]
+1 2 3 cu y los dos altos iguales. En
+
+[01:36:16]
+algún momento va a venir un belón ahí y
+
+[01:36:18]
+lo va a sacar.
+
+[01:36:20]
+Bueno, este no fue el belón que yo
+
+[01:36:22]
+esperaba, pero sacó tres. Está bien,
+
+[01:36:26]
+pero ándale. Fíjate el belón, si te
+
+[01:36:30]
+fijas, todo la acumulación de liquidez
+
+[01:36:32]
+de los altos
+
+[01:36:34]
+iguales. Ahí, a ver, a lo mejor es un
+
+[01:36:36]
+velón así para arriba, así de esos
+
+[01:36:40]
+gruesos, eh, verde, azul, azul y grueso.
+
+[01:36:43]
+Azul y gruesa. Verde, verde, gorda y
+
+[01:36:45]
+gruesa. ¿Cómo se llama?
+
+[01:36:48]
+una una velota ahí.
+
+[01:36:51]
+Ah, eh, bueno, está bien, está bien. Lo
+
+[01:36:54]
+haremos por lo haremos por bien
+
+[01:36:57]
+servido. Lo haremos se lo daremos por
+
+[01:37:00]
+válido, ¿no? Pero yo esperaba un velón.
+
+[01:37:02]
+Me quedaba de ver, ¿no? Me quedó de ver
+
+[01:37:04]
+ahí el
+
+[01:37:05]
+precio. Consulta, bro. El TP, ¿dónde se
+
+[01:37:07]
+pone y dónde? Ricardo, llegaste tarde.
+
+[01:37:10]
+Ricardo, llegaste tarde, Ricardo. En el
+
+[01:37:13]
+principio del streaming explico el dónde
+
+[01:37:17]
+se pone el TP y el stop loss y todo
+
+[01:37:19]
+eso. Los que llegaron tarde tienen que
+
+[01:37:22]
+mirarse el comienzo del directo. Ahí
+
+[01:37:23]
+explico las entradas y dónde se pone.
+
+[01:37:25]
+Ahorita ya estamos de chill back
+
+[01:37:27]
+testing. Mira, fíjense cómo se vuelve
+
+[01:37:29]
+raidea este.
+
+[01:37:31]
+Acá ahí quiere sigue subiendo, pero
+
+[01:37:34]
+quiere se veía como que quería cambiar.
+
+[01:37:39]
+Dos iguales, bueno, parecidos. Lo saca
+
+[01:37:42]
+esta acción de precio. Va no más
+
+[01:37:44]
+sacando. Saca los dos
+
+[01:37:47]
+mínimos. No es de mis
+
+[01:37:50]
+favoritas. Fíjense como constantemente
+
+[01:37:53]
+va raideando los mínimos para acá.
+
+[01:38:06]
+Y raid el máximo. Raide el máximo.
+
+[01:38:09]
+Raidora el máximo. Ahora tiene este
+
+[01:38:14]
+rango.
+
+[01:38:15]
+Rango. Va a sacar el máximo y luego se
+
+[01:38:17]
+va a girar. Bueno, sacó el máximo, pero
+
+[01:38:21]
+no se ha girado. Ahora sí se gira.
+
+[01:38:24]
+va a ir ahora por el
+
+[01:38:30]
+mínimo. Bueno, vino por el mínimo de
+
+[01:38:32]
+esta vela. Fíjense, esto es algo que
+
+[01:38:33]
+también dice Will, es cuando tú cuando
+
+[01:38:37]
+tú
+
+[01:38:38]
+entras cuando tú entras, por ejemplo,
+
+[01:38:40]
+ves esta vela, ¿no?, que se está
+
+[01:38:41]
+formando y esta acción de precio, lo más
+
+[01:38:44]
+seguro es que el precio te tome este que
+
+[01:38:46]
+está aquí.
+
+[01:38:47]
+Esto es lo que tiene que hacer el
+
+[01:38:49]
+algoritmo. No es necesario que el
+
+[01:38:51]
+algoritmo te tome
+
+[01:38:53]
+este. Este tiene su probabilidad. Este,
+
+[01:38:56]
+por ejemplo, tiene una probabilidad más
+
+[01:38:58]
+alta. Tiene una probabilidad como de un
+
+[01:39:01]
+85%,
+
+[01:39:03]
+90%, 80, 85%.
+
+[01:39:06]
+Este tiene una probabilidad mucho más
+
+[01:39:08]
+baja. Este, por ejemplo, es el Cell Side
+
+[01:39:11]
+Liquidity que todo el mundo tarjetea. El
+
+[01:39:13]
+los de ICT y los de toda esa gente
+
+[01:39:16]
+tarjetean este, pero el probable es
+
+[01:39:18]
+este. Aquí ya se te puede girar el
+
+[01:39:20]
+precio, a pesar de que muchas de las
+
+[01:39:22]
+veces sí va a llegar a este, pero no es
+
+[01:39:24]
+necesario que el precio llegue. Por eso
+
+[01:39:27]
+es que mucha gente se queda esperando,
+
+[01:39:28]
+ay, a que tome la liquidez. Aquí
+
+[01:39:30]
+correctamente el precio puede hacerte
+
+[01:39:31]
+otra vez la para arriba. De hecho, creo
+
+[01:39:34]
+que lo va a hacer según mi va a ir a
+
+[01:39:37]
+tomar
+
+[01:39:39]
+eso, aunque no es necesario que lo haga,
+
+[01:39:42]
+pero fijas, justo lo que les estoy
+
+[01:39:45]
+diciendo,
+
+[01:39:49]
+¿ves? El hecho de tú conocer cómo cómo
+
+[01:39:52]
+la liquidez trabaja o
+
+[01:39:58]
+funciona. ¿Ves? ¿Lo ves ahí? Llegué
+
+[01:40:02]
+tarde, Gustavo. Hiciste el análisis con
+
+[01:40:03]
+el Nasdaq. Sí, ya todos llegaron tarde.
+
+[01:40:05]
+Muy mal. Llegaron
+
+[01:40:08]
+tarde. Llegaron tarde a la clase. Hay
+
+[01:40:11]
+que ver el directo. El directo va a
+
+[01:40:12]
+estar resubido en YouTube. Lo pueden ver
+
+[01:40:14]
+desde un principio. Tranquilamente se
+
+[01:40:16]
+traen unas palomitas, un refresco, lo
+
+[01:40:19]
+que No, no tomen refresco, es malo.
+
+[01:40:23]
+Eh, algo saludable. ¿Qué hay algo
+
+[01:40:26]
+saludable? Unas almendras y un vaso de
+
+[01:40:29]
+agua.
+
+[01:40:30]
+No, no tomes refresco, es malo. Eh,
+
+[01:40:34]
+bueno, se pone en el streaming desde un
+
+[01:40:36]
+principio y pueden ver la explicación de
+
+[01:40:38]
+cuando dije cómo ponía el stop, el take
+
+[01:40:40]
+profit y todo eso. Ahorita estamos
+
+[01:40:43]
+haciendo back
+
+[01:40:45]
+testing. Gracias, gracias a ti. Gracias
+
+[01:40:48]
+a ti. Saludos ahí a mi gente de TikTok,
+
+[01:40:51]
+se les quiere también. Aunque a veces,
+
+[01:40:53]
+no sét cómo funciona, a veces hay mucha
+
+[01:40:56]
+gente, hay veces hay poca, muchos
+
+[01:40:57]
+comentarios, a veces hay pocos, no sé.
+
+[01:40:59]
+TikTok a su
+
+[01:41:02]
+rollo. Oh, okay. Ah, fíjense, es que la
+
+[01:41:06]
+anterior cerró dentro del rango.
+
+[01:41:09]
+Fíjense, esta anterior cerró dentro del
+
+[01:41:13]
+rango. Dentro del rango. Esta anterior,
+
+[01:41:16]
+cerró dentro del rango y luego ya fue
+
+[01:41:18]
+por los mínimos. Ahora esta raideó, hizo
+
+[01:41:21]
+el t y ahora va a ir por los máximos.
+
+[01:41:25]
+Máximos. Este aquí, este acá.
+
+[01:41:28]
+Máximo. Fíjense, no tiene que ir por
+
+[01:41:31]
+este, gente, eh, ni por este, ni por
+
+[01:41:34]
+este. Tiene que ir por el de la próxima
+
+[01:41:35]
+vela. Ese es el el es lo más seguro que
+
+[01:41:39]
+tú
+
+[01:41:40]
+tienes. Una urchata. Bueno, una
+
+[01:41:42]
+horchata, pero sin tanta
+
+[01:41:44]
+azúcar. Tanta azúcar.
+
+[01:41:49]
+Esto es lo este es el que tiene que ir
+
+[01:41:51]
+el precio. Ya este te lo deja de
+
+[01:41:53]
+agregado y este te lo deja de agregado.
+
+[01:41:55]
+Lo que pasa es que hay veces que el, por
+
+[01:41:58]
+ejemplo, aquí el ratio riesgo de
+
+[01:41:59]
+beneficio no te da, entonces sí vas a
+
+[01:42:01]
+tarjetear tú este o este de acá arriba,
+
+[01:42:04]
+pero sabes que el algoritmo no ahí, por
+
+[01:42:08]
+ejemplo, se puede girar porque ya cerró
+
+[01:42:10]
+por debajo del
+
+[01:42:11]
+rango. Sí, cerró por debajo. Ahí se
+
+[01:42:14]
+puede girar ya perfectamente y dejártelo
+
+[01:42:16]
+pendiente. Y si se fijan cómo giró y se
+
+[01:42:19]
+lo dejó pendiente, fíjense que no fue
+
+[01:42:21]
+por los dos máximos iguales. Por eso
+
+[01:42:23]
+mucha gente ve la liquidez y dice, "Ay,
+
+[01:42:25]
+no, es que ahí hay un doble." No, no,
+
+[01:42:27]
+no. Se mueve por velas, por el rango de
+
+[01:42:31]
+velas se mueve, no se mueve por los
+
+[01:42:34]
+máximos que tiene de este
+
+[01:42:37]
+lado. Siempre va la vela, ve la vela,
+
+[01:42:40]
+vela vela. Siempre.
+
+[01:42:44]
+Para ahí. Lo más seguro, por ejemplo,
+
+[01:42:46]
+ahora, gente, lo más seguro es que te
+
+[01:42:48]
+tome esta vela, pero este no
+
+[01:42:50]
+necesariamente te lo tienen que tomar.
+
+[01:42:52]
+Este que está
+
+[01:42:53]
+acá te va a tomar este. Este es lo más
+
+[01:42:56]
+seguro, pero este no. Estamos hablando
+
+[01:42:58]
+que este te va a
+
+[01:43:00]
+llegar un 85 90%, este te va a llegar
+
+[01:43:04]
+menos, un 50 60, o sea, no siempre te va
+
+[01:43:07]
+a llegar a ese, te lo va a dejar
+
+[01:43:08]
+pendiente, aunque creo que ahí como va
+
+[01:43:10]
+muy bajista, ahí sí lo va a tomar.
+
+[01:43:12]
+Bueno, aquí no tomó ni uno, fíjate. Aquí
+
+[01:43:15]
+yo esperaba que raideara ese. Bueno,
+
+[01:43:17]
+esto es una vela
+
+[01:43:18]
+que le llamamos Inside, que no toma
+
+[01:43:21]
+nada. También existen estas velas. Hay
+
+[01:43:24]
+velas que no toman
+
+[01:43:26]
+nada. Hizo un fallo de la estructura
+
+[01:43:28]
+ahí. Bueno, veamos ahora. Ahora se va
+
+[01:43:31]
+por el
+
+[01:43:32]
+máximo.
+
+[01:43:34]
+Perfectamente.
+
+[01:43:36]
+Máximo.
+
+[01:43:37]
+[Aplausos]
+
+[01:43:37]
+[Música]
+
+[01:43:39]
+Eh, bueno, siga imprimiendo velas. Velas
+
+[01:43:44]
+alcistas. Aquí cuando está imprimiendo
+
+[01:43:45]
+velas alcistas, pues bueno, es una
+
+[01:43:47]
+corrida alcista. Ya está. No hay nada
+
+[01:43:49]
+más, no hay misterio aquí con
+
+[01:43:52]
+esto, pero en algún momento se va a
+
+[01:43:54]
+parar y va a empezar a formar mínimos
+
+[01:43:56]
+para
+
+[01:43:57]
+tomarlos en algún
+
+[01:44:00]
+momento. Esto probablemente corría al En
+
+[01:44:02]
+algún momento se va a parar. Puede ser
+
+[01:44:04]
+que dure mucho tiempo haciendo eso. En
+
+[01:44:06]
+algún momento aquí casi lo conseguía,
+
+[01:44:08]
+fíjense, casi lo conseguía. No lo
+
+[01:44:11]
+consiguió. Ahí ya se detuvo y ahí va a
+
+[01:44:13]
+empezar su juego otra vez de nuevo. ¿Por
+
+[01:44:16]
+qué? Porque como el precio necesita
+
+[01:44:17]
+liquidez, aquí como ya había acumulado
+
+[01:44:19]
+mucho, se fue con todo, pero en algún
+
+[01:44:22]
+momento necesita liquidez. Esta, por
+
+[01:44:24]
+ejemplo, es una fase expansiva del
+
+[01:44:25]
+mercado, una tendencia acelerada que
+
+[01:44:27]
+llamo yo, pero en algún momento
+
+[01:44:30]
+necesita, fíjense,
+
+[01:44:32]
+¿ves? Un momento vas a volver a lo
+
+[01:44:34]
+mismo. En algún
+
+[01:44:36]
+momento. Ese ya lo dejó pendiente. Cerró
+
+[01:44:39]
+por encima. Ahora puede ser que vaya por
+
+[01:44:41]
+el máximo. Lo digo, va por los dos
+
+[01:44:44]
+máximos. Ahora sigue, va raidea al
+
+[01:44:47]
+máximo y cierra por debajo. Ahora puede
+
+[01:44:50]
+ser que vaya por el
+
+[01:44:53]
+mínimo. Fíjense cómo vamos especulando.
+
+[01:44:57]
+Aquí cerró ahí. Puede ser que la vaya
+
+[01:45:00]
+por el mínimo. Bueno, fue por el máximo.
+
+[01:45:03]
+Aquí, por ejemplo, cuando cuando ven una
+
+[01:45:06]
+tendencia fuerte alcista y ven
+
+[01:45:09]
+mínimos, estos mínimos, por ejemplo,
+
+[01:45:13]
+tengan cuidado porque vas en contra de
+
+[01:45:15]
+la tendencia. Es más fácil que el precio
+
+[01:45:17]
+esté llevándose los máximos que los
+
+[01:45:19]
+mínimos. Entonces vas a ver muchas de
+
+[01:45:22]
+las veces, Gustavo, aquí no se lleva
+
+[01:45:23]
+este mínimo, ni este. Este sí, este no.
+
+[01:45:26]
+¿Por qué estos no? porque la tendencia
+
+[01:45:28]
+va sin contra la tendencia y tu
+
+[01:45:31]
+probabilidad de que se lleve los mínimos
+
+[01:45:32]
+pues decrementa. Pero igualmente tú lo
+
+[01:45:35]
+tienes que tener en cuenta para cuando
+
+[01:45:36]
+veas el Turtal Sub, cuando tú veas el
+
+[01:45:39]
+Turtal Sub, por ejemplo,
+
+[01:45:41]
+aquí y ves que tienes una ves que estás
+
+[01:45:44]
+a favor de la tendencia alcista, pues te
+
+[01:45:46]
+incorporas a las compras porque estás
+
+[01:45:49]
+viendo el Tartal Sub
+
+[01:45:52]
+alcista.
+
+[01:45:54]
+Máximo, Máximos.
+
+[01:45:57]
+Okay, otra vez aquí. Aquí saca el,
+
+[01:46:00]
+fíjense, saca el máximo esta
+
+[01:46:02]
+vela, el
+
+[01:46:04]
+máximo. Ahora se va por el mínimo. Esto
+
+[01:46:07]
+es lo que tiene que hacer. No cierra por
+
+[01:46:09]
+encima del
+
+[01:46:11]
+rango. Cierra por encima del rango. Me
+
+[01:46:14]
+da la sensación de que quiere venir para
+
+[01:46:17]
+abajo otra vez. Una vela inside. Esta
+
+[01:46:20]
+vela inside o que está dentro del rango,
+
+[01:46:22]
+no toma nada del rango, toma nada de
+
+[01:46:26]
+nada del rango. Lo que va a hacer la
+
+[01:46:28]
+siguiente vela es
+
+[01:46:29]
+tarjetear esta que está aquí. Hay veces
+
+[01:46:32]
+que incluso hace una doble inside, pero
+
+[01:46:34]
+es más es más raro. Es una doble inside,
+
+[01:46:38]
+o sea, que vuelve a cerrar esta vela
+
+[01:46:40]
+aquí por dentro del rango este mismo que
+
+[01:46:43]
+está aquí. Vuelve a cerrar aquí esta
+
+[01:46:45]
+vela y no toma ni este ni este. Esta
+
+[01:46:47]
+anterior no tomó ni este ni este, pero
+
+[01:46:49]
+es más rara esa vela. Sucede cuando hay
+
+[01:46:52]
+vacaciones o cuando los bancos se van de
+
+[01:46:55]
+se van de vacaciones en
+
+[01:46:57]
+diciembre por allá.
+
+[01:47:00]
+Aquí ya cambió la era normal, ¿no?
+
+[01:47:03]
+Veníamos subiendo muy duro, ¿no? Fíjense
+
+[01:47:05]
+ahora como todos los pendientes, todo,
+
+[01:47:08]
+todas las cuentas pendientes que tenía
+
+[01:47:09]
+el precio con el con el precio. Aquí
+
+[01:47:12]
+pasó probablemente una noticia, no sé
+
+[01:47:14]
+qué pasó, habló Donald Trump o no sé
+
+[01:47:16]
+quién habló, verad,
+
+[01:47:18]
+pero todos todos los pendientes sacaron
+
+[01:47:22]
+lo sacó el precio. ¿Por qué? Porque el
+
+[01:47:24]
+precio va
+
+[01:47:25]
+constantemente moviéndose por liquidez.
+
+[01:47:29]
+por
+
+[01:47:30]
+liquidez. Siempre va moviéndose por
+
+[01:47:32]
+liquidez. Acá toma este. ¿Será que nos
+
+[01:47:35]
+será que nuestro patrón nos sirve ahora
+
+[01:47:37]
+de
+
+[01:47:38]
+nuevo? Bueno, dice Will que no le gusta
+
+[01:47:41]
+decir que es un patrón, pero bueno,
+
+[01:47:43]
+nuestra forma de interpretar el precio.
+
+[01:47:45]
+Vamos a decir, cerró por encima. ¿Será
+
+[01:47:47]
+que ahora va por el
+
+[01:47:49]
+máximo? Ahora tiene que ir por, en
+
+[01:47:51]
+teoría, por ese máximo. Único es
+
+[01:47:55]
+que vamos con un retroceso bajista
+
+[01:47:58]
+fuerte.
+
+[01:48:02]
+Veamos. Efectivamente, fíjense, aquí
+
+[01:48:04]
+funcionó perfecto. Es lo que hablo yo.
+
+[01:48:07]
+Esto normalmente porque ya el preciso su
+
+[01:48:09]
+retroceso que debiera haber hecho. Esto
+
+[01:48:11]
+es lo que tiene que hacer ya aquí. Ya él
+
+[01:48:14]
+cumplió. Él ya cumplió. Ya no le pidas
+
+[01:48:16]
+más. No le pidas que venga hasta acá.
+
+[01:48:19]
+Eso probablemente lo lo vaya a dejar
+
+[01:48:21]
+para el futuro, pero él debe de hacer
+
+[01:48:23]
+este ya turtle up y la próxima vela y ya
+
+[01:48:27]
+lo mismo que aplicamos en 4 horas es lo
+
+[01:48:29]
+mismo que sale en diario. ¿Te fijas? Ya
+
+[01:48:32]
+ahora tienes una vela inside. Es lo es
+
+[01:48:35]
+es normal. Por ejemplo, estos días,
+
+[01:48:38]
+fíjense esto, ¿para qué nos sirve saber?
+
+[01:48:40]
+para que sabes que una vez que cumplió
+
+[01:48:41]
+su target, una vez que cumplió el
+
+[01:48:43]
+target, el día bueno, por ejemplo, fue
+
+[01:48:45]
+el 13 de agosto,
+
+[01:48:47]
+fue
+
+[01:48:49]
+eh lunes, martes, miércoles, jueves, ya
+
+[01:48:53]
+sabes, por ejemplo, probablemente que el
+
+[01:48:55]
+viernes ya no haya nada porque el jueves
+
+[01:48:57]
+tú viviste el movimiento expansivo
+
+[01:48:59]
+fuerte, entonces el jueves ya son días
+
+[01:49:01]
+que no hay que
+
+[01:49:03]
+operar para también para eso te sirve,
+
+[01:49:06]
+para saber qué días no probablemente no
+
+[01:49:08]
+operes. Esto es una vela
+
+[01:49:10]
+inside, está dentro del rango,
+
+[01:49:12]
+acuérdense inside porque está dentro del
+
+[01:49:14]
+rango. Raide al mínimo de la vela
+
+[01:49:17]
+inside. Seguimos subiendo.
+
+[01:49:19]
+Perfecto. Seguimos subiendo. Raidamos el
+
+[01:49:22]
+máximo. Dejamos este mínimo. Ojo con
+
+[01:49:25]
+este mínimo que está muy cerquitas
+
+[01:49:27]
+ahí. Probablemente sigamos subiendo,
+
+[01:49:30]
+pero Ah, así es.
+
+[01:49:33]
+También acá si ustedes gustan ver más
+
+[01:49:36]
+cosas que ahorita no lo estamos
+
+[01:49:37]
+analizando, pero bueno, llegó al bloque
+
+[01:49:39]
+de órdenes, ¿no? Ah, bloque de órdenes,
+
+[01:49:43]
+¿no? Con el
+
+[01:49:45]
+imbalance, eh, raideamos este mínimo y
+
+[01:49:50]
+fallamos en hacer un nuevo lower low.
+
+[01:49:53]
+Esto es un un fallo de la
+
+[01:49:55]
+estructura. Aquí será
+
+[01:49:59]
+que no. Yo creo que vamos a venir por
+
+[01:50:02]
+los aquí vamos a raidear doble, ¿eh?
+
+[01:50:05]
+Vamos a raidear arriba y abajo. Es lo
+
+[01:50:06]
+que me da a
+
+[01:50:11]
+mí. ¿Loí o no lo deja? A ver,
+
+[01:50:17]
+gente, rayamos doble y acá cerramos por
+
+[01:50:20]
+encima del rango. Má, que estamos
+
+[01:50:24]
+bajistas. Estamos bajistas, pero podemos
+
+[01:50:27]
+especular un fallo de la estructura.
+
+[01:50:30]
+Okay. Fíjense cómo raideamos arriba y
+
+[01:50:32]
+luego abajo. Doble. ¿Por qué raideamos
+
+[01:50:35]
+doble? Porque el precio de había dejado
+
+[01:50:38]
+dos mínimos iguales y el máximo estaba
+
+[01:50:41]
+también muy
+
+[01:50:43]
+jugoso. Tradamos de nuevo el máximo.
+
+[01:50:46]
+Bueno,
+
+[01:50:49]
+venimos. Ridamos el mínimo y ahora sí
+
+[01:50:52]
+cerramos por encima del
+
+[01:50:54]
+rango. Damos este mínimo. Cerramos por
+
+[01:50:57]
+encima del rango. Ahora va a raidear. el
+
+[01:50:59]
+máximo de esta vela y el y posiblemente
+
+[01:51:02]
+el otro porque está muy cercas. Ah, cómo
+
+[01:51:06]
+raideamos este máximo y el otro que
+
+[01:51:08]
+estaba muy cercas. Si no hubiera estado
+
+[01:51:10]
+tan cercas, probablemente solamente
+
+[01:51:12]
+raideaba el máximo de la vela anterior,
+
+[01:51:13]
+que era este. Ahora sí. Ahora
+
+[01:51:16]
+probablemente ahora vengamos por este y
+
+[01:51:20]
+este que está muy cercas, está muy
+
+[01:51:21]
+cercas de acá
+
+[01:51:24]
+abajo. Cayó.
+
+[01:51:28]
+Vamos para arriba, para arriba. Ya falló
+
+[01:51:32]
+porque ya deberíamos de haber especulado
+
+[01:51:34]
+el fallo de este fractal, este que está
+
+[01:51:36]
+aquí, este
+
+[01:51:38]
+fractal. Bueno, vela inside. Va, no, si
+
+[01:51:43]
+toma esta vela si toma. Okay, ahora esta
+
+[01:51:45]
+vela de aquí toma el máximo, solo que ha
+
+[01:51:48]
+rechazado bastante bien. Probablemente
+
+[01:51:50]
+probablemente tengamos lo que iba a
+
+[01:51:53]
+decir dos eh otra vela para
+
+[01:51:56]
+abajo.
+
+[01:51:59]
+Pronto. Ahora raideamos este
+
+[01:52:02]
+mínimo. Okay. En teoría debería de
+
+[01:52:07]
+continuar. Teoría debería de
+
+[01:52:10]
+seguir
+
+[01:52:12]
+acá. Ahora sigamos.
+
+[01:52:15]
+Ah, ya. Este es este es lo que él tiene
+
+[01:52:17]
+que hacer, ¿eh? Esto es lo que tiene que
+
+[01:52:19]
+hacer. No le pidan esto ni le pidan
+
+[01:52:22]
+esto. Esto es lo que él tiene que hacer.
+
+[01:52:25]
+Ya si lo hace es diferente. Ya si él si
+
+[01:52:28]
+él es bondadoso contigo y quiere ir para
+
+[01:52:30]
+abajo, está bien. Pero esto es lo que él
+
+[01:52:33]
+tiene que hacer. Ahí cerró por encima
+
+[01:52:36]
+del rango. Probablemente supere lo vaya
+
+[01:52:38]
+por el máximo este que está
+
+[01:52:41]
+acá. Otra vez la inside. Uy, ahí cuando
+
+[01:52:44]
+hace una vela inside y no va por el
+
+[01:52:47]
+rango, ¿qué te diré? ¿Será que hay veces
+
+[01:52:51]
+que raidea para arriba y para
+
+[01:52:53]
+abajo. Bueno, raideó primero para abajo,
+
+[01:52:56]
+ahora para arriba. Perfecto. F. Raideó
+
+[01:52:59]
+para abajo. ¿Por qué? Porque como te
+
+[01:53:01]
+hice una inside, este, esta vela inside
+
+[01:53:03]
+debería haber raideado la parte alta,
+
+[01:53:06]
+pero al no hacerlo pues ya te especulas
+
+[01:53:08]
+tú que puedes raidear el mínimo, el
+
+[01:53:10]
+máximo. Yo esperaba que en la misma vela
+
+[01:53:12]
+lo hiciera, no en esta misma, pero ya lo
+
+[01:53:14]
+va a hacer en las siguientes velas.
+
+[01:53:16]
+Ahora sí,
+
+[01:53:17]
+perfecto. Esta vela cierra por raidea,
+
+[01:53:20]
+cumple el objetivo, cierra por debajo.
+
+[01:53:23]
+Probablemente ahora tengamos una vela
+
+[01:53:25]
+ahí con indecisión, aunque ya tuvo una
+
+[01:53:28]
+con indecisión.
+
+[01:53:30]
+Pero probablemente esta venga, tome el
+
+[01:53:33]
+mínimo, la siguiente venga, tome el
+
+[01:53:35]
+mínimo y ya se y se quede por ahí.
+
+[01:53:38]
+Efectivamente, fíjense, la siguiente
+
+[01:53:40]
+viene. Toma. Fíjense como podemos casi
+
+[01:53:43]
+especular a la a la perfección, ¿no? Eh,
+
+[01:53:46]
+no hay perfecto. Perfecto solamente es
+
+[01:53:48]
+Dios.
+
+[01:53:50]
+Eh, pero podemos especular muy muy muy
+
+[01:53:54]
+especulativamente, o sea, muy casi
+
+[01:53:58]
+detalladamente, cuánto se van a imprimir
+
+[01:54:00]
+las siguientes velas o cómo van a ser
+
+[01:54:03]
+impresas las siguientes velas.
+
+[01:54:07]
+Aquí como ya había raideado, cerró por
+
+[01:54:10]
+encima del rango, va por el máximo.
+
+[01:54:13]
+Ahora, ahora en teoría deber ir por los
+
+[01:54:16]
+dos máximos, los dos que
+
+[01:54:20]
+están. Perfecto. Va por los dos máximos.
+
+[01:54:23]
+Fíjense como todo el rato, como si
+
+[01:54:25]
+fuéramos nos tradamos, ¿no? Como si no
+
+[01:54:28]
+tengo otro gráfico, eh, gente, no lo
+
+[01:54:30]
+estoy viendo en otro gráfico, eh, no
+
+[01:54:31]
+estoy haciendo
+
+[01:54:33]
+trampa. Y sale mal también, ¿eh? No, no
+
+[01:54:36]
+siempre,
+
+[01:54:37]
+pero es muy
+
+[01:54:40]
+acertado. Los máximos. Aquí dejo este
+
+[01:54:45]
+mínimo. Esta no es una inside. Fíjense
+
+[01:54:47]
+cómo raideó el máximo. Él no se queda
+
+[01:54:49]
+con las ganas. Más cuando está haciendo
+
+[01:54:50]
+estos esquemas como forma de rango. Lo
+
+[01:54:53]
+van a ver muchísimo en tendencias
+
+[01:54:55]
+aceleradas. No lo no van a ver la
+
+[01:54:58]
+impresión de nuevas velas. Nuevas velas.
+
+[01:55:01]
+Aquí ya raideó estos dos mínimos,
+
+[01:55:03]
+regresó por encima del rango y ahora va
+
+[01:55:05]
+a ir por
+
+[01:55:08]
+este. Debería de
+
+[01:55:12]
+falló que sí falló porque esta vela para
+
+[01:55:14]
+mi gusto debería ir por nuevo, por el
+
+[01:55:16]
+nuevo máximo. En muchos brokers pudo
+
+[01:55:19]
+haberla, a lo mejor en otro broker pudo
+
+[01:55:21]
+haberla tomado. Eso también pasa para
+
+[01:55:23]
+que lo toman en cuenta. En un broker te
+
+[01:55:26]
+la en un broker te la tomó y en otro
+
+[01:55:28]
+broker no. A lo mejor en netro broker sí
+
+[01:55:30]
+te lo sí te lo tomó el máximo. Vienes y
+
+[01:55:32]
+lo estudias. Finalmente se va para
+
+[01:55:35]
+abajo. Rango para seguir
+
+[01:55:39]
+cayendo.
+
+[01:55:40]
+Ya abajo. Ahora va por la liquidez de
+
+[01:55:43]
+abajo y ahora va a formar. Ya se va a
+
+[01:55:45]
+salir de esta estructura de precio que
+
+[01:55:47]
+teníamos y se va a ir a una nueva, ¿no?
+
+[01:55:49]
+Ahora,
+
+[01:55:50]
+aquí a pesar de que es contratendencia,
+
+[01:55:53]
+tiene que tener cuidado con eso, pero ya
+
+[01:55:56]
+puedo especular yo
+
+[01:55:58]
+que toma, hace el tartal sub, cierra por
+
+[01:56:02]
+encima del
+
+[01:56:04]
+rango y va a ir por el máximo,
+
+[01:56:06]
+probablemente.
+
+[01:56:08]
+No lo hace. Va, vela inside. Vela
+
+[01:56:13]
+inside. Cuando hace la vela inside,
+
+[01:56:15]
+probablemente va a raidear para los dos
+
+[01:56:18]
+lados. Y le faltó poquito. Bueno, en
+
+[01:56:21]
+otro broker a lo mejor sí le faltó
+
+[01:56:23]
+poquito, pero sí raideó para los dos
+
+[01:56:26]
+lados porque a veces la vela
+
+[01:56:29]
+inside. Esto esto no esto no hay
+
+[01:56:32]
+universidad para esto, ¿eh? Esto aquí de
+
+[01:56:35]
+gratis, ¿eh? Le estoy dando una clase de
+
+[01:56:37]
+gratis.
+
+[01:56:41]
+en en el oro no funciona tamban bien
+
+[01:56:43]
+como Forex. Funciona todos los Bueno,
+
+[01:56:46]
+cada par tiene su personalidad. Hay unos
+
+[01:56:49]
+pares que van a funcionar mejor y otros
+
+[01:56:50]
+pares que va a funcionar, pero suele en
+
+[01:56:54]
+el eurodólar sí, porque el eurodólar es
+
+[01:56:57]
+más reacción reacciona mucho más. Vamos.
+
+[01:57:00]
+¿Quieren ver otro par, gente? ¿Quieren
+
+[01:57:02]
+ver otro par? Otra temporalidad. A ver,
+
+[01:57:04]
+chat. Está activo el chat, ¿eh? Está
+
+[01:57:07]
+aquí no se despega nadie.
+
+[01:57:11]
+Todos quieren conocer los secretos de
+
+[01:57:13]
+Will
+
+[01:57:15]
+Street.
+
+[01:57:17]
+Euro quieren ver US Leamos en otra
+
+[01:57:20]
+temporalidad. 4 horas, por
+
+[01:57:23]
+ejemplo. 4 horas o una hora o qué
+
+[01:57:25]
+quieren
+
+[01:57:28]
+ver, pero en 4 horas. A ver, vamos a
+
+[01:57:31]
+ver. Vamos a salirnos ya de aquí.
+
+[01:57:36]
+Eh, e
+
+[01:57:43]
+uranda, vamos a verlo en
+
+[01:57:46]
+Oanda. Dólar en ODA. Vamos a verlo en 4
+
+[01:57:50]
+horas. Los mercados, gente, ya no
+
+[01:57:52]
+hicieron
+
+[01:57:53]
+mucho. Es viernes, acuérdense que es
+
+[01:57:57]
+viernes. Pone interesante. Lo que pasa
+
+[01:57:59]
+es que cuando yo no hago directos cuando
+
+[01:58:02]
+estoy operando, ahorita ya no estoy
+
+[01:58:03]
+haciendo directos cuando estoy operando
+
+[01:58:05]
+porque estoy muy focus en la en mi
+
+[01:58:08]
+operativa y como estoy muy focus en mi
+
+[01:58:11]
+operativa, pues prefiero estar yo focus
+
+[01:58:14]
+en mi operativa y no hacer directo ni
+
+[01:58:16]
+nada por el estilo.
+
+[01:58:20]
+Por eso ya hago directos cuando estoy
+
+[01:58:22]
+más de chill. Prefiero estar más focus.
+
+[01:58:26]
+Pero igual el mercado no está haciendo
+
+[01:58:27]
+demasiado. Es viernes, no va a ser ya
+
+[01:58:29]
+mucho, ya está para irse a
+
+[01:58:34]
+descansar. Vamos a ir a Euro USD.
+
+[01:58:36]
+¿Quieren verlo Euro USD? Esto se va a
+
+[01:58:38]
+poner bueno. ¿Cuánto llevamos de
+
+[01:58:40]
+directo? Ya llevamos 2 horas aquí a por
+
+[01:58:42]
+todas, gente. Pero esto se va a poner
+
+[01:58:44]
+bueno aquí. Es viernes de chill, gente.
+
+[01:58:47]
+Es viernes. Esto se va a poner bueno
+
+[01:58:49]
+aquí. A ver, dej tomo agua porque esto
+
+[01:58:51]
+se va a poner
+
+[01:58:58]
+bueno. Esto se va a poner
+
+[01:59:00]
+sabroso. Eurodólar 4 horas.
+
+[01:59:04]
+Vamos a esconder el gráfico para no
+
+[01:59:05]
+hacer
+
+[01:59:06]
+trampa. Nos vamos a ir a una nos vamos a
+
+[01:59:09]
+ir a
+
+[01:59:10]
+[Música]
+
+[01:59:11]
+una a una fecha random. Ni siquiera voy
+
+[01:59:14]
+a mirar a qué fecha me voy a
+
+[01:59:19]
+ir. Vamos irnos
+
+[01:59:31]
+24 para acá.
+
+[01:59:34]
+Vamos a ir por
+
+[01:59:37]
+aquí. Es 4 horas, gente.
+
+[01:59:41]
+Horas. Dólar 4
+
+[01:59:45]
+horas. ¿Qué podemos ver? A ver, este lo
+
+[01:59:50]
+raideó. Raideó Máximo. No lo
+
+[01:59:54]
+raideó. Muy poquito. Sí, lo raideó.
+
+[01:59:57]
+Miren, lo raideó, pero por muy poquito.
+
+[02:00:01]
+Cerró por en
+
+[02:00:03]
+rango. Aquí no tengo todavía mucha
+
+[02:00:06]
+información, pero es este este mínimo es
+
+[02:00:10]
+el relevante. Ojo, este mínimo, pero
+
+[02:00:12]
+acuérdense siempre el que tiene que
+
+[02:00:14]
+tomar es este. El de abajo ya es
+
+[02:00:18]
+bendición de Dios. Aparte ha cumplido
+
+[02:00:20]
+este target que está
+
+[02:00:21]
+aquí. Bueno, vamos con una tendencia
+
+[02:00:23]
+bajista, gente. Bajista.
+
+[02:00:27]
+bajista. Déjenme ve un poco contexto,
+
+[02:00:29]
+¿no?
+
+[02:00:31]
+Bajista.
+
+[02:00:33]
+Okay. Entonces, eh está bien esos
+
+[02:00:36]
+mínimos ahí ha tomado este máximo que
+
+[02:00:39]
+está acá, esos dos de
+
+[02:00:41]
+ahí. Y vamos a ver a imprimir nuevas
+
+[02:00:46]
+velas. Dos. está dos mínimos
+
+[02:00:50]
+iguales. Este sí se lo había llevado,
+
+[02:00:52]
+por eso, por eso lo quería ver, porque
+
+[02:00:54]
+si eran dos máximos iguales,
+
+[02:00:55]
+probablemente hiciera una nueva vela que
+
+[02:00:57]
+se los
+
+[02:00:59]
+llevara. Ahora aquí cerró pone encima
+
+[02:01:01]
+del rango más que acuérdense que vamos
+
+[02:01:03]
+con tendencia
+
+[02:01:05]
+bajista. Gustaría ver otra vela.
+
+[02:01:10]
+A lo mejor veamos una vela inside ahí en
+
+[02:01:13]
+la
+
+[02:01:16]
+siguiente. Lleva el mínimo. Ahora sí se
+
+[02:01:19]
+lleva el mínimo. Esta vela no es inside.
+
+[02:01:22]
+Se lleva el mínimo de la de este de 4
+
+[02:01:24]
+horas. Y ahora debería ir por lo menos
+
+[02:01:26]
+por este, por lo menos por ese. Por lo
+
+[02:01:31]
+menos acuérdense que estamos en
+
+[02:01:32]
+tendencia bajista, ¿eh?
+
+[02:01:35]
+Va, está bien. Sigue, sigue tomando
+
+[02:01:42]
+mínimos
+
+[02:01:44]
+insight dentro del rango. Aquí ya se
+
+[02:01:48]
+abre un nuevo día. Aparte se abrió el
+
+[02:01:50]
+viernes.
+
+[02:01:53]
+Viernes.
+
+[02:01:55]
+Ah, aquí está el turtle sub, gente.
+
+[02:01:58]
+Turtle up cerró por encima y
+
+[02:02:01]
+probablemente ahora sí vayamos para
+
+[02:02:03]
+arriba, ¿eh?
+
+[02:02:05]
+Me tengo
+
+[02:02:07]
+que probablemente
+
+[02:02:09]
+aquí te va a ser tu
+
+[02:02:17]
+target. Hm. Perfecto. Dice, eh, ¿por qué
+
+[02:02:21]
+el precio no sube demasiado aquí? Porque
+
+[02:02:24]
+gustado por todas, porque acuérdense que
+
+[02:02:26]
+estábamos con tendencia bajista. ya
+
+[02:02:29]
+salir con tendencia bajista. Solamente
+
+[02:02:31]
+especulamos que va a ir a tomar, de
+
+[02:02:33]
+hecho él debe de tomar no más el de la
+
+[02:02:36]
+vela anterior, pero como ahí había como
+
+[02:02:39]
+estaban muy muy cercas, cuando están muy
+
+[02:02:42]
+cercas del precio, pues sí los toma.
+
+[02:02:44]
+Fíjense cómo los toma. Perfecto. Un,
+
+[02:02:45]
+dos, estos tres altos se va para abajo.
+
+[02:02:48]
+No continúa
+
+[02:02:51]
+sus Ahora, en teoría debe de tomar ese,
+
+[02:02:54]
+aunque después de esa vela y la
+
+[02:02:57]
+continuación es es lo más
+
+[02:03:00]
+apropiado. Perfecto. Vamos con una
+
+[02:03:02]
+tendencia bajista, acuérdense, 4
+
+[02:03:05]
+horas. Vamos a ver ahora si el precio
+
+[02:03:07]
+falla en hacer un nuevo lower
+
+[02:03:11]
+low. Acuérdense estructura. A ver si
+
+[02:03:14]
+falla. Puede ser que falle por acá
+
+[02:03:16]
+abajo. No sé, no soy adivino, no sé ni
+
+[02:03:19]
+cuándo estábamos, ni sé lo que vaya a
+
+[02:03:21]
+ser el precio. Literalmente como cuando
+
+[02:03:23]
+tú estás en el gráfico, sentado, parado,
+
+[02:03:25]
+ahí no sabes ni qué onda, no sabes ni
+
+[02:03:27]
+qué va a hacer,
+
+[02:03:28]
+¿verdad? No va a ha ser un nuevo mínimo.
+
+[02:03:30]
+Perfecto, sigue imprimiendo nuevos
+
+[02:03:32]
+mínimos, perfecto. Aquí ya no tienes
+
+[02:03:34]
+mucha información, solo que tenías una
+
+[02:03:36]
+tendencia
+
+[02:03:37]
+bajista. Y en este caso las
+
+[02:03:39]
+oportunidades de venta hubieran estado
+
+[02:03:42]
+aquí, aquí. una vez que el precio te
+
+[02:03:45]
+raideó los máximos de 4 horas, pero pues
+
+[02:03:48]
+yo la forma es que vamos especulando
+
+[02:03:50]
+vela a vela solamente, no estamos
+
+[02:03:52]
+poniendo entradas como tal. Para poner
+
+[02:03:54]
+entradas como tal, tendríamos que
+
+[02:03:55]
+bajarnos a una hora, 15 minutos y estar
+
+[02:03:58]
+viendo cada contexto, ver si el stop
+
+[02:04:00]
+loss te da bien. Ahorita solamente
+
+[02:04:02]
+estamos haciendo un back testing más
+
+[02:04:04]
+sencillo. Prime este mínimo. Una vez que
+
+[02:04:07]
+te rompió esto que está acá, ya puedes
+
+[02:04:11]
+ver en cuanto haga el raideo, porque en
+
+[02:04:14]
+algún momento va a tener probabilidad de
+
+[02:04:17]
+que se
+
+[02:04:18]
+gire una vez que raidee la algún mínimo
+
+[02:04:22]
+de la de una siguiente vela. No puede
+
+[02:04:24]
+ser este, pero estos mínimos no te
+
+[02:04:26]
+cierran por no te cierran por encima del
+
+[02:04:29]
+de ningún rango ni de este rango ni del
+
+[02:04:33]
+otro, solamente se están cerrando ahí.
+
+[02:04:36]
+Entonces todavía no no hay
+
+[02:04:38]
+especulaciones de que pueda suceder eso.
+
+[02:04:41]
+Sigue de momento sigue imprimiendo velas
+
+[02:04:43]
+para abajo. Este como que te quiere
+
+[02:04:45]
+cerrar por encima del rango, pero no lo
+
+[02:04:47]
+hace. Pero ya mero lo va a hacer porque
+
+[02:04:49]
+está perdiendo
+
+[02:04:51]
+volumen. Fijan aquí hace un failure s.
+
+[02:04:54]
+Falló en hacer un nuevo lower
+
+[02:04:57]
+low.
+
+[02:04:58]
+Perfecto. Me hubiera gustado que esta
+
+[02:05:01]
+vela lo tomara, pero no siempre lo toma.
+
+[02:05:03]
+Muchas veces lo que va a hacer es que va
+
+[02:05:04]
+a fallar.
+
+[02:05:07]
+Perfecto. Ahora toma estos dos iguales.
+
+[02:05:11]
+Hm. La probabilidad
+
+[02:05:16]
+ahora no. Aquí ya puede aparecer
+
+[02:05:18]
+perfectamente una velita así para abajo.
+
+[02:05:21]
+No me fío.
+
+[02:05:23]
+Ajá. Y es. Es que ya como él ha
+
+[02:05:27]
+completado su target, fíjense, como ha
+
+[02:05:28]
+completado su target, ya no te ya no te
+
+[02:05:32]
+vayas a fiar de que te va a tomar este
+
+[02:05:34]
+nuevo máximo, ya no lo va a hacer. ¿Por
+
+[02:05:36]
+qué? Porque él él su target era esta
+
+[02:05:39]
+vela que está aquí y ya esta siguiente
+
+[02:05:42]
+fue la gracia de Dios que te ayudó y te
+
+[02:05:44]
+acompañó. Pero ya no ya no esperes que
+
+[02:05:48]
+la siguiente vele te tome el target
+
+[02:05:49]
+porque no lo tiene que hacer el
+
+[02:05:51]
+algoritmo. Ya esta es una vela inside
+
+[02:05:54]
+probablemente esas velas inside es muy
+
+[02:05:56]
+grande la vela, pero muchas de las veces
+
+[02:05:59]
+raidean para los dos lados. Para los dos
+
+[02:06:01]
+lados.
+
+[02:06:03]
+En este caso es que era muy grande,
+
+[02:06:05]
+entonces le quedó corto el rango, o sea,
+
+[02:06:07]
+no alcanzó eran muchísimos pips, pero
+
+[02:06:10]
+seguimos bajistas, fijan, los bajistas
+
+[02:06:14]
+imprimiendo velas a hacia
+
+[02:06:16]
+abajo. Ahora, esta vela es importante
+
+[02:06:19]
+saber que eh cierra por encima del rango
+
+[02:06:22]
+del este es el turtle sap cierra por
+
+[02:06:26]
+encima del rango. la sierra encima
+
+[02:06:29]
+también probablemente el precio saque o
+
+[02:06:32]
+vaya a atacar estos todos estos vales
+
+[02:06:35]
+probablemente no aunque estamos contra
+
+[02:06:37]
+tendencia pero ya se puede especular ya
+
+[02:06:41]
+ahí que faltaría, Gustavo? Faltaría
+
+[02:06:43]
+bajarte una hora, 15 minutos, de pronto
+
+[02:06:46]
+te ayuda, pero ya con el puro ver las
+
+[02:06:48]
+velas de 4 horas puedes especular que la
+
+[02:06:50]
+siguiente va a hacer eso. Vuelve a hacer
+
+[02:06:53]
+otra vez la inside. Esta es una doble
+
+[02:06:55]
+inside, fíjense, esta no saca nada. Esta
+
+[02:06:57]
+sí ya saca raide mínimo, pero fíjense
+
+[02:07:00]
+cómo va a romper con fuerza toda la
+
+[02:07:02]
+liquidez. Fíjense, pum, lo ven ahí se
+
+[02:07:05]
+fijan como la especulación. No necesito
+
+[02:07:08]
+ni siquiera bajarme de baja temporalidad
+
+[02:07:11]
+para darme cuenta
+
+[02:07:12]
+de Ya fíjate cómo cómo identificamos el
+
+[02:07:16]
+starter zap, la sopa de tortugas. ¿Cómo
+
+[02:07:19]
+le llama? Will darte el
+
+[02:07:22]
+saplat, la sopa de tortugas
+
+[02:07:28]
+del Meo aquíalito,
+
+[02:07:32]
+¿no? Y luego
+
+[02:07:34]
+bom. ¿Por qué? Pues ahí tienes esa
+
+[02:07:38]
+liquidez. Si me preguntas, ¿sabías tú,
+
+[02:07:40]
+Gustavo que iba a subir? No, no. Pues yo
+
+[02:07:43]
+no soy adivino, pero yo soy especul
+
+[02:07:46]
+especulo. Conforme se van moviendo las
+
+[02:07:48]
+velas de 4 horas imprimiendo máximos y
+
+[02:07:50]
+mínimos, tengo la dirección del
+
+[02:07:52]
+precio. ¿Se
+
+[02:07:54]
+fijan? Por es que mucha gente dice,
+
+[02:07:56]
+"Gusta, es que cómo sabes tú, muchacho,
+
+[02:07:59]
+que te hace falta hacer
+
+[02:08:02]
+backestablemente máximo aquí, ¿qué va a
+
+[02:08:04]
+hacer?" Bueno, ¿qué debe hacer, por
+
+[02:08:07]
+ejemplo, el precio? Tomar el máximo
+
+[02:08:09]
+anterior de la vela anterior. Eso es lo
+
+[02:08:11]
+que debe de hacer.
+
+[02:08:13]
+Aquí eh probablemente sigue imprimiendo
+
+[02:08:16]
+nuevos máximos, pero ya aquí puede
+
+[02:08:19]
+aparecerte una vela roja así para
+
+[02:08:24]
+abajo. Ah, miren, miren, miren qué
+
+[02:08:29]
+hizo. Acuérdense, ¿por qué, Gustavo?
+
+[02:08:32]
+Bueno, ¿por qué especulaste eso? Porque
+
+[02:08:36]
+ya te había tomado el máximo de la vela
+
+[02:08:38]
+anterior, te había tomado todas estas
+
+[02:08:40]
+liquidez de aquí, te tomó este de acá
+
+[02:08:42]
+también. Fíjense, este no te lo tomó,
+
+[02:08:45]
+pero ya te había tomado toda la
+
+[02:08:46]
+liquidez. Cuando toma
+
+[02:08:49]
+cuando hace un rango, una R completado,
+
+[02:08:53]
+un rango completado, ya lo que puede
+
+[02:08:55]
+haber es una reacción
+
+[02:08:57]
+contraria. Eso se parece a la del Nasdaq
+
+[02:08:59]
+de hace unos días, ¿no? Parece a la del
+
+[02:09:01]
+Nasdaq hace unos días. Probablemente
+
+[02:09:03]
+aquí, ¿qué haga? tomar los
+
+[02:09:05]
+máximos o te hace un
+
+[02:09:10]
+inside. ¿Por qué especulas un inside,
+
+[02:09:13]
+Gustavo? Porque está muy grande el
+
+[02:09:16]
+rango, por eso especulamos una inside y
+
+[02:09:19]
+ya con la próxima vela inside ya te
+
+[02:09:21]
+puedes dar cuenta a ver qué onda, ya te
+
+[02:09:23]
+puedes dar una mayor certeza de lo que
+
+[02:09:27]
+puede hacer el
+
+[02:09:28]
+precio. Y aquí ya sabes que va a ir por
+
+[02:09:30]
+los por arriba arriba. Esta te lo te
+
+[02:09:35]
+dejó pendiente solamente, fíjense, lo
+
+[02:09:37]
+mismo de siempre, solamente te tiene que
+
+[02:09:40]
+tomar el máximo de la vela anterior. Te
+
+[02:09:43]
+tomó este, pero este no te lo tiene que
+
+[02:09:45]
+tomar a huevo. Por eso es que mucha
+
+[02:09:47]
+gente dice, "Para vender tiene que el
+
+[02:09:49]
+precio raidear acá, Gustavo. Es que para
+
+[02:09:52]
+vender tiene que raidear el máximo." No,
+
+[02:09:55]
+espérate que no tiene que tomarte este.
+
+[02:09:59]
+Ya una vez que te tomó ese, ya la
+
+[02:10:01]
+siguiente vela es la que puede empujar
+
+[02:10:02]
+para abajo. No necesariamente te tiene
+
+[02:10:05]
+que tomar eso. Mucha gente se queda
+
+[02:10:07]
+esperando. Es que mira, aquí está el
+
+[02:10:09]
+PDH. El PDH no era el PDH. De hecho,
+
+[02:10:12]
+mira, y se quedaron esperando el
+
+[02:10:15]
+PDH. Quedaron esperando el PDH. Los PDH
+
+[02:10:19]
+y eh toma. ¿Por qué? Porque el algoritmo
+
+[02:10:22]
+sabe eso. Sabe que hay gente ahí. Ahora
+
+[02:10:25]
+sí, pero ahora después de qué, después
+
+[02:10:30]
+de la sopa de
+
+[02:10:32]
+tortuga. Ahora
+
+[02:10:35]
+sí. Ahora sí la especulación es que te
+
+[02:10:38]
+tome este que está acá, pero como está
+
+[02:10:42]
+muy cercas aquí, sí que está muy
+
+[02:10:44]
+cerquitas. Ahí es casi casi seguro o
+
+[02:10:48]
+puedes tener más seguridad de que te va
+
+[02:10:50]
+a tomar los dos, pero acá no, porque
+
+[02:10:53]
+aquí es la primera vez que llega. Esto
+
+[02:10:55]
+hablando en términos de mi estrategia,
+
+[02:10:58]
+lo que yo utilizo, esto, por ejemplo, es
+
+[02:10:59]
+la inducción que hace el
+
+[02:11:01]
+precio. No, no te lo toma inmediatamente
+
+[02:11:03]
+porque te lo va a dejar la inducción.
+
+[02:11:06]
+Quiz lo llama una R previa. Una R
+
+[02:11:09]
+previa. Una R ahí que
+
+[02:11:11]
+dejó la dejó la dejó
+
+[02:11:15]
+todavía pendiente. No, pendiente,
+
+[02:11:17]
+perdón. R pendiente. R pendiente. Este R
+
+[02:11:21]
+pendiente. Ahora, ¿qué onda, Gustavo?
+
+[02:11:23]
+Pues ahora ya te puede aparecer
+
+[02:11:25]
+perfectamente una vela roja. Fíjate cómo
+
+[02:11:27]
+vamos especulando. Vela a vela. ¿Por qué
+
+[02:11:29]
+roja? Has tomado esta liquidez y esta
+
+[02:11:32]
+liquidez. No necesariamente, pero ya
+
+[02:11:34]
+sabes tú que la siguiente vela puede ser
+
+[02:11:36]
+roja. Necesariamente, solamente es
+
+[02:11:39]
+especulativo. Este no es certeza ni
+
+[02:11:41]
+nada. Ya nos vamos ahora sí alcistas,
+
+[02:11:44]
+¿no? Estamos viendo
+
+[02:11:49]
+rango rango aquí.
+
+[02:11:52]
+Elimin de
+
+[02:11:54]
+acá, poniendo otra línea. Estamos
+
+[02:11:57]
+trabajando este rango. Ya estamos
+
+[02:11:59]
+llegando a la parte alta de ese rango.
+
+[02:12:02]
+Ojo, ahora cómo nos vamos. Ahora sí
+
+[02:12:05]
+viene la vela roja. Esto es un
+
+[02:12:08]
+inside. Ya, ¿qué va a targetear el
+
+[02:12:10]
+precio? Siempre, mínimo y máximo,
+
+[02:12:12]
+acuérdense, mínimo y máximo de la vela.
+
+[02:12:14]
+Siempre, siempre, todo el rato. Ahora la
+
+[02:12:18]
+siguiente vela. H, Gustavo, no me
+
+[02:12:21]
+tarjetea ni este ni este, solamente
+
+[02:12:23]
+tiene que tarjetear la este de la
+
+[02:12:25]
+siguiente
+
+[02:12:26]
+vela. Tierra por
+
+[02:12:28]
+[Música]
+
+[02:12:30]
+encima, verad que sí, eh, yo sí, pero
+
+[02:12:34]
+está muy Ah, no, no, no. Está más
+
+[02:12:38]
+arriba. Arriba. Pensé que sí.
+
+[02:12:42]
+Si si cerraba por encima, probablemente
+
+[02:12:44]
+ya no iba a raidear el mínimo, cerraba
+
+[02:12:47]
+por encima, pero como no cerró por
+
+[02:12:49]
+encima, sí raidea al mínimo de la vela
+
+[02:12:51]
+anterior, que es
+
+[02:12:53]
+este mínimo. Y ahora ya sí va por los
+
+[02:12:56]
+máximos. Ahora tenemos una vela
+
+[02:12:59]
+ahí. La siguiente vela es
+
+[02:13:02]
+especulativa. Probablemente siga
+
+[02:13:06]
+subiendo. Hm.
+
+[02:13:09]
+Perfectamente. T el zap.
+
+[02:13:13]
+Lo especulábamos, Gustavo, ¿por qué cayó
+
+[02:13:15]
+fuerte la velita? ¿Qué pasó ahí? Bueno,
+
+[02:13:19]
+pues dejamos a la parte alta del rango
+
+[02:13:22]
+este que estábamos trabajando, ¿no? Esta
+
+[02:13:24]
+parte alta del rango este se podría
+
+[02:13:27]
+haber se se podría haber interpretado y
+
+[02:13:30]
+sabido. Sí, de hecho esto
+
+[02:13:32]
+fue Londres. Londres.
+
+[02:13:36]
+Londres. ¿Cómo te das cuenta ahí? Una
+
+[02:13:39]
+vez que se lleva el máximo, vez que se
+
+[02:13:42]
+lleva el máximo este, ya te bajas a
+
+[02:13:44]
+lower time frame y esperas lo mismo en
+
+[02:13:46]
+una hora. Y para ti este punto de
+
+[02:13:48]
+interés era bueno para vender, ¿no? Para
+
+[02:13:52]
+ventas. Pongamos, ¿no? Que ese punto era
+
+[02:13:55]
+bueno para ventas. Ahí se podría haber
+
+[02:13:57]
+sabido. Acuérdense que vamos bajistas.
+
+[02:14:00]
+Ojo también que falle el precio en algún
+
+[02:14:02]
+momento en hacer un nuevo mínimo acá de
+
+[02:14:04]
+este valado
+
+[02:14:06]
+porque no tengo un plumón.
+
+[02:14:10]
+Necesito un
+
+[02:14:13]
+plumón. Eh, estoy con
+
+[02:14:16]
+Dios. Epic
+
+[02:14:18]
+[Música]
+
+[02:14:23]
+Pen. Aquí es este el rango que estamos
+
+[02:14:26]
+trabajando. En algún momento esto va
+
+[02:14:29]
+puede fallar aquí y hacer así.
+
+[02:14:33]
+Es especulativo, no lo sé si lo va a
+
+[02:14:35]
+hacer, pero cada que hagamos impulso,
+
+[02:14:38]
+retroceso, sabemos que puede hacer eso
+
+[02:14:40]
+el
+
+[02:14:42]
+precio.
+
+[02:14:44]
+Listo,
+
+[02:14:49]
+rango. Bueno, esto no sé qué fue, fue
+
+[02:14:51]
+una noticia, no sé qué pasó, pero bueno,
+
+[02:14:53]
+ya sabíamos, fíjense que
+
+[02:14:56]
+especulativamente íbamos que podía
+
+[02:14:58]
+fallar. Solo estamos en 4 horas, ¿eh? No
+
+[02:15:00]
+nos estamos moviendo de temporalidad.
+
+[02:15:02]
+Bueno, máximo, mínimo. Ahora, ¿qué,
+
+[02:15:06]
+Gustavo? Pues ahora se llevó el máximo
+
+[02:15:08]
+de la vela anterior. No necesariamente
+
+[02:15:10]
+tiene que llevarse ese, acuérdense. No
+
+[02:15:13]
+necesariamente. Aquí ya puede aparecer
+
+[02:15:15]
+otra
+
+[02:15:16]
+vela roja. Bueno, no se lo llevó. Es
+
+[02:15:20]
+azul, pero igualmente se entiende. Es
+
+[02:15:22]
+una vela inside.
+
+[02:15:24]
+Deja su mínimo, su
+
+[02:15:26]
+máximo, eh, dos máximos iguales. Cuando
+
+[02:15:30]
+tiene esa vela inside, dos, fíjense,
+
+[02:15:32]
+liquidez arriba, dos máximos iguales y
+
+[02:15:35]
+dos y y el mínimo de la vela anterior,
+
+[02:15:37]
+casi siempre raidea para los dos lados
+
+[02:15:40]
+porque el algoritmo es
+
+[02:15:41]
+muy
+
+[02:15:44]
+jugoso. Ah, esto fue gap. Bueno, gap
+
+[02:15:47]
+raideó para
+
+[02:15:48]
+abajo. Ah, es que abrió una nueva
+
+[02:15:50]
+semana. Abrió una nueva semana.
+
+[02:15:53]
+Okay, eso no me lo
+
+[02:15:56]
+esperaba. Ahío el
+
+[02:16:00]
+mínimo. Dejó esos dos máximos iguales.
+
+[02:16:04]
+Ahí imprimiendo velas para
+
+[02:16:07]
+abajo. Esta, por ejemplo, esta vela de
+
+[02:16:09]
+acá no
+
+[02:16:11]
+cierra. Sí, esta no cierra por encima
+
+[02:16:14]
+del rango, por eso el precio sigue
+
+[02:16:17]
+cayendo. Tiene esta insight. Aquí ya
+
+[02:16:20]
+puede fallar, ¿eh? Ya mi experiencia me
+
+[02:16:23]
+indica que puede fallar en
+
+[02:16:25]
+algún porque esto probablemente es una
+
+[02:16:28]
+inducción. Esto que está
+
+[02:16:30]
+acá, esto de aquí, esto sea un fallo de
+
+[02:16:34]
+la
+
+[02:16:35]
+estructura, este sea el fallo de la
+
+[02:16:37]
+estructura y esto sea, vamos a ver si es
+
+[02:16:40]
+cierto, eh, esto sea así,
+
+[02:16:44]
+probablemente esto sea un
+
+[02:16:50]
+SMM, pero vamos a ver, dijo el ciego.
+
+[02:16:53]
+Veamos, vayamos viendo. Igual iremos a
+
+[02:16:57]
+sigamos
+
+[02:16:59]
+analizando saltos, los mínimos de la
+
+[02:17:02]
+vela. Aquí no ha cerrado por encima del
+
+[02:17:06]
+rango. Puede ser que venga una vela
+
+[02:17:08]
+inside. Ah, perfecto. Esta vela
+
+[02:17:12]
+[Música]
+
+[02:17:15]
+inside
+
+[02:17:16]
+mm no nos da mucha información. Esta va
+
+[02:17:19]
+el
+
+[02:17:22]
+inside no da tan buena información.
+
+[02:17:26]
+Pero probablemente ya suceda lo que les
+
+[02:17:28]
+había dicho, ¿no? Probablemente ya
+
+[02:17:30]
+suceda
+
+[02:17:33]
+esto. Eso es lo que creo que puede
+
+[02:17:35]
+llegar a pasar
+
+[02:17:37]
+especulando. Aunque esta vela inside
+
+[02:17:40]
+puede raidear todavía un poco más
+
+[02:17:43]
+abajo. Ganó.
+
+[02:17:45]
+Perfecto. Cierra por debajo del rango.
+
+[02:17:48]
+Esta a pesar de que cierra por debajo
+
+[02:17:50]
+del rango, pues ya se va ya vamos
+
+[02:17:53]
+especulando a lo que a lo que llegara a
+
+[02:17:56]
+poder suceder aquí, ¿no? Lo que les
+
+[02:17:59]
+dije.
+
+[02:18:01]
+Mm. ¿Por qué? ¿Por qué, Gustavo?
+
+[02:18:06]
+Porque eh esta fractalidad que teníamos
+
+[02:18:09]
+aquí, esta fractalidad era para que
+
+[02:18:12]
+desde aquí el precio hiciera un nuevo
+
+[02:18:14]
+lower low y liquidara esto. Al no
+
+[02:18:18]
+haberlo hecho y hacerme este movimiento
+
+[02:18:21]
+aquí, yo especulo que esto va a ser una
+
+[02:18:23]
+inducción para
+
+[02:18:25]
+sacarlo y ya va probablemente puede
+
+[02:18:28]
+llegar a cambiar la la tendencia o
+
+[02:18:30]
+revertir la tendencia.
+
+[02:18:33]
+Ojo, es
+
+[02:18:35]
+especulativo. Ahí ya tomó el máximo de
+
+[02:18:38]
+la vela anterior. Perfectamente puede
+
+[02:18:39]
+aparecer una vela roja, pero no tiene
+
+[02:18:41]
+por qué aparecer también.
+
+[02:18:44]
+Aquí hay veces que aparece una nueva
+
+[02:18:46]
+vela roja. Por eso ya cuando tú tomas
+
+[02:18:48]
+una posición, por ejemplo, si tomas una
+
+[02:18:50]
+posición en este Turtle Zap y tomas una
+
+[02:18:52]
+posición ahí, ya te sales aquí. Fíjense,
+
+[02:18:56]
+tomes una posición en el tartal este
+
+[02:18:59]
+aquí a la alza y ya una vez que ves que
+
+[02:19:02]
+el precio toma el esta vela toma el
+
+[02:19:04]
+máximo de la vela anterior, te sales te
+
+[02:19:08]
+sales en esta vela. ¿Por qué te sales en
+
+[02:19:09]
+esta vela? Porque aquí puede venir una
+
+[02:19:12]
+vela contraria así que baje los
+
+[02:19:15]
+calzones. No siempre es así. Hay veces
+
+[02:19:18]
+que hace una vela así también. Es
+
+[02:19:21]
+especulativo, pero tú ya sabes que puede
+
+[02:19:23]
+suceder en cuanto
+
+[02:19:25]
+tienes en cuanto ya lo especulas en
+
+[02:19:28]
+cuanto pasa, pues en cuanto saca el
+
+[02:19:30]
+máximo de la vela anterior. En este caso
+
+[02:19:32]
+sí siguió imprimiendo para arriba, pero
+
+[02:19:34]
+también pudo haber hecho así esta vela
+
+[02:19:36]
+pudo haber sido contraria así para
+
+[02:19:39]
+abajo. Ahora que tenemos el máximo, el
+
+[02:19:42]
+mínimo, muy cercas, está muy mínimo,
+
+[02:19:47]
+puede ser que probablemente vuelva a
+
+[02:19:48]
+inducir. Sería raro, pero a lo mejor
+
+[02:19:51]
+puede volver a inducir desde
+
+[02:19:53]
+acá. Si vuelve a inducir, ¿qué va a
+
+[02:19:56]
+hacer? Un turtle sub y luego va va a
+
+[02:19:58]
+subir turtle sub en 4 horas, o sea, de
+
+[02:20:02]
+mínimos y lo va a subir.
+
+[02:20:06]
+Perfecto. No la esa es una vela inside,
+
+[02:20:08]
+no tomó para ni arriba ni abajo. Aquí
+
+[02:20:11]
+está el tartalp.
+
+[02:20:13]
+Fíjense lo que les decía. ¿Se fijan?
+
+[02:20:16]
+¿Cómo les dije? va a inducir aquí y
+
+[02:20:19]
+luego acá está el turtle
+
+[02:20:21]
+sap. Vamos adelantando, eh, no lo
+
+[02:20:24]
+pudimos tomar en vivo, pero en back
+
+[02:20:27]
+testings vamos adelantando. Ahí está el
+
+[02:20:29]
+Turtal S. hace perfecto, perfecto. Ahora
+
+[02:20:34]
+va a sacar el máximo. Probablemente. Hay
+
+[02:20:36]
+veces que lo deja pendiente. Si lo deja
+
+[02:20:38]
+pendiente, ya veremos, pero
+
+[02:20:40]
+probablemente lo
+
+[02:20:42]
+saque. Acuérdense siempre esta vela eh
+
+[02:20:47]
+una vez que hace el turtle sop sacó el
+
+[02:20:48]
+mínimo. En lo que tiene que hacer el
+
+[02:20:50]
+precio es solamente tomar el máximo de
+
+[02:20:52]
+esta vela y ya la siguiente vela
+
+[02:20:54]
+solamente tiene que tomar el máximo. No
+
+[02:20:56]
+tiene que ir a huevo a fuerzas por el
+
+[02:20:59]
+por este que está acá de este lado, como
+
+[02:21:01]
+todo el mundo cree. No, es que tiene que
+
+[02:21:03]
+ir
+
+[02:21:04]
+acá. Ay, por ese máximo. No, no, no, no
+
+[02:21:08]
+tiene que ir por este. Él tiene que ir
+
+[02:21:10]
+por él porque se va moviendo. Va,
+
+[02:21:13]
+vela. Ese es para otra vela. Es para
+
+[02:21:16]
+velas de temporalidad mayor. Pero bueno,
+
+[02:21:18]
+anyway, sigamos. Si está entendiendo,
+
+[02:21:21]
+¿no? Gente, a ver, chat de YouTube,
+
+[02:21:24]
+¿está entendiendo o no?
+
+[02:21:26]
+Estoy hablando aquí chino
+
+[02:21:28]
+japonés. ¿Están aprendiendo o no están
+
+[02:21:30]
+aprendiendo? A
+
+[02:21:31]
+ver, pongan estoy aprendiendo. O se está
+
+[02:21:34]
+entendiendo. Pónganme
+
+[02:21:38]
+algo. Llevo aquí, ¿cuánto llevo en
+
+[02:21:41]
+directo? Madre de Dios santísima,
+
+[02:21:43]
+¿cuánto llevo en
+
+[02:21:45]
+directo? 2 horas 21. Madre de Dios
+
+[02:21:48]
+santísimo. Aquí no está haciendo un
+
+[02:21:49]
+maratón de
+
+[02:21:51]
+trading. ¿Se está entendiendo o no se
+
+[02:21:53]
+está entendiendo,
+
+[02:21:55]
+gente? A ver, si no me pones nada, no
+
+[02:21:57]
+voy a
+
+[02:22:04]
+continuar. ¿Sí o no, gente? ¿Sí o
+
+[02:22:13]
+no? El sap de arriba.
+
+[02:22:18]
+Pero vamos alcistas
+
+[02:22:21]
+todavía. Sí, gente, ¿se entendió? ¿Se
+
+[02:22:23]
+está entendiendo o no se está
+
+[02:22:24]
+entendiendo? A ver, pónganme ahí en el
+
+[02:22:26]
+chat. Se quedaron dormidos. Pónganme en
+
+[02:22:28]
+el chat.
+
+[02:22:32]
+Sí, yo creo que sí, ¿no? ¿Cuántos likes
+
+[02:22:35]
+tenemos? Tenemos 27 likes. Si pueden
+
+[02:22:37]
+dejar su me gusta, les agradecería
+
+[02:22:40]
+bastante. Vamos a seguir un poco más. Un
+
+[02:22:41]
+ratito
+
+[02:22:42]
+más. Vamos a seguir un ratito más. Unos
+
+[02:22:45]
+minutos más.
+
+[02:22:47]
+Ya, porque ya llevamos 2 horas ya
+
+[02:22:50]
+estamos estamos bastante
+
+[02:22:52]
+directo. Okay, tomamos el máximo. Ahora
+
+[02:22:55]
+sí tomamos ese
+
+[02:22:58]
+máximo. Ahora
+
+[02:23:01]
+fallamos. Ojo aquí que vamos acumulando
+
+[02:23:03]
+este este de acá
+
+[02:23:05]
+abajo. Ya lo podemos eliminar.
+
+[02:23:10]
+Y tenemos
+
+[02:23:12]
+este máximo. El precio debería de tomar
+
+[02:23:16]
+sola. Bueno, tiene tres. Cuando tiene
+
+[02:23:19]
+tres está muy jugoso para que los tome
+
+[02:23:21]
+los tres. Lo único que vamos sería
+
+[02:23:24]
+contratendencia. V insight. Abrimos un
+
+[02:23:27]
+nuevo día aquí este dejamos este el
+
+[02:23:31]
+máximo del día anterior, el mínimo del
+
+[02:23:34]
+día anterior y tenemos varios acumulados
+
+[02:23:37]
+ahí.
+
+[02:23:41]
+Vamos a ver dónde hace el turtle zap el
+
+[02:23:47]
+precio. Turtle zap aquí cierra por
+
+[02:23:50]
+debajo del rango, lo que me da que va a
+
+[02:23:52]
+tomar los lows. Cierra por debajo del
+
+[02:23:55]
+rango de esta vela, de la vela inside.
+
+[02:23:58]
+La vela inside ya te dice ya
+
+[02:24:01]
+generalmente, aunque vas en contra de la
+
+[02:24:05]
+tendencia, generalmente te avisa.
+
+[02:24:09]
+de que cerró por debajo del rango.
+
+[02:24:11]
+Probablemente sí continúe bajista o al
+
+[02:24:14]
+menos a al menos a tomar el low de esa
+
+[02:24:17]
+vela, de esta vela que está aquí.
+
+[02:24:18]
+Debería de hm mínimo esta vela. Y
+
+[02:24:22]
+fíjense, no tiene por qué tomar las de
+
+[02:24:24]
+las siguientes, solamente esta vela. Hay
+
+[02:24:27]
+veces que cuando el movimiento es más
+
+[02:24:29]
+agresivo, porque hay noticias o lo que
+
+[02:24:30]
+sea, pues ahí sí te toma lo de todos.
+
+[02:24:34]
+Ahora toma el de esta vela, el todo el
+
+[02:24:37]
+rango de este de hasta arriba, porque
+
+[02:24:39]
+tenía varias
+
+[02:24:40]
+velas ahí y cierra por debajo
+
+[02:24:44]
+de del rango. Cierra por debajo del
+
+[02:24:47]
+rango. Entonces va a ser una vela inside
+
+[02:24:50]
+probablemente está acumulando bastante
+
+[02:24:52]
+el
+
+[02:24:53]
+precio. To, ahora sí te toma los todos
+
+[02:24:57]
+estos loss que estaban aquí. Ahora sí te
+
+[02:25:00]
+los toma. Continúa bajando. Okay.
+
+[02:25:02]
+Viendo. Ahora te tomo el
+
+[02:25:05]
+máximo. Este máximo que está
+
+[02:25:07]
+acá.
+
+[02:25:11]
+Eh, ahora te toma. Sí, de de esta vela
+
+[02:25:16]
+siguiente está acumulando, como les
+
+[02:25:18]
+había dicho, bastante acumulando muy
+
+[02:25:21]
+acumulativo. Ahora siempre rango, a
+
+[02:25:24]
+pesar de que de siempre mi rango, rango,
+
+[02:25:28]
+mi rango, rango. Ya los que ya tomo ya
+
+[02:25:30]
+no me sirven, pero mi rango cerró por
+
+[02:25:33]
+encima de puede ser que
+
+[02:25:36]
+suba tomar el máximo de la vela
+
+[02:25:38]
+anterior. No tiene por qué ir a este.
+
+[02:25:41]
+Ojo, ahora puede ir perfectamente a
+
+[02:25:43]
+tomar el mínimo de esta vela. No tiene
+
+[02:25:46]
+que ir por No tiene por qué
+
+[02:25:48]
+ir. Está muy cercas. Probablemente sí lo
+
+[02:25:51]
+haga, pero no tiene por
+
+[02:25:55]
+qué. Okay, perfecto. Ahora toma. Ahora
+
+[02:25:59]
+sí,
+
+[02:26:02]
+máximo. Aquí hay un turtle. Cerró por
+
+[02:26:05]
+encima. Fíjense, aquí hay una sopa de
+
+[02:26:06]
+tortuga.
+
+[02:26:08]
+el de nuevo. Toma este y cierra por
+
+[02:26:12]
+encima del rango. Lo único es que ha
+
+[02:26:14]
+tomado la liquidez de encima también,
+
+[02:26:18]
+pero yo podría, me gusta más para que
+
+[02:26:21]
+suba más, para que
+
+[02:26:24]
+siga. Aquí ni siquiera estamos ¿Dónde
+
+[02:26:26]
+estamos ya
+
+[02:26:27]
+ubicados? Estamos ubicados
+
+[02:26:30]
+ya. Hemos tomado todos los máximos estos
+
+[02:26:34]
+que están aquí. Estamos ubicados en una
+
+[02:26:36]
+parte más alta.
+
+[02:26:38]
+Okay. Hizo este
+
+[02:26:42]
+raideo para arriba probablemente. Ay,
+
+[02:26:45]
+Dios. Y me equivoqué, pero gacho, ¿eh?
+
+[02:26:48]
+Aquí
+
+[02:26:49]
+sí probablemente haya tomado algo de una
+
+[02:26:52]
+mayor temporalidad de este lado.
+
+[02:26:55]
+Probablemente una mayor temporalidad.
+
+[02:26:57]
+Aquí la probabilidad en esta
+
+[02:27:00]
+vela, como traíamos una estructura
+
+[02:27:02]
+alcista esta vela, a mí me gustaba más
+
+[02:27:05]
+para que siguiera subiendo, pero hizo el
+
+[02:27:09]
+hizo el turtle sap aquí de esta vela y
+
+[02:27:14]
+tomó la anterior y tomó la anterior.
+
+[02:27:16]
+Como ya había liquidado todo esto, los
+
+[02:27:19]
+dos, pues
+
+[02:27:20]
+ya por eso, por eso se por eso ya
+
+[02:27:23]
+retrocedió, ya no se fue para arriba
+
+[02:27:25]
+como esperábamos.
+
+[02:27:28]
+Pero igual en tendencia pues hizo lo que
+
+[02:27:30]
+le esperábamos desde antes, ¿no se
+
+[02:27:35]
+acuerdan? Dujo para arriba. Ahora
+
+[02:27:38]
+debería hacer esto. Debería de hacer
+
+[02:27:40]
+esto. Ahora vamos a ver si lo hace.
+
+[02:27:44]
+Debería de hacer eso en
+
+[02:27:46]
+teoría. Hm.
+
+[02:27:48]
+Entonces, en algún momento cuando
+
+[02:27:50]
+liquide abajo, siga liquidando,
+
+[02:27:52]
+imprimiendo, vamos a especular un nuevo
+
+[02:27:55]
+Turtle sub y
+
+[02:27:58]
+comprar para abajo. Perfecto, está
+
+[02:28:01]
+bien. Está extendiendo todo ese
+
+[02:28:05]
+fractal.
+
+[02:28:10]
+M, quiero otra vela.
+
+[02:28:15]
+Probablemente en la siguiente en el
+
+[02:28:17]
+siguiente retroceso que pueda haber
+
+[02:28:18]
+aquí, fíjense, aquí eliminó
+
+[02:28:20]
+este, no hizo no hizo Tartel SA, este
+
+[02:28:25]
+hace un
+
+[02:28:27]
+fallo en el siguiente que vaya a ser
+
+[02:28:33]
+aquí
+
+[02:28:35]
+probablemente. Ah, en este está el SAP.
+
+[02:28:41]
+Lo vimos antes. Aquí no hay trampa. Lo
+
+[02:28:44]
+vimos
+
+[02:28:45]
+antes. Ahí era para montarse a la
+
+[02:28:49]
+compra. Ese es el raideo de 4 horas.
+
+[02:28:51]
+Este es de continuación, por ejemplo.
+
+[02:28:53]
+Este es de continuación. Fíjate que no
+
+[02:28:55]
+te hace el tartal sub aquí, pero te hace
+
+[02:28:58]
+el fallo. Felip, ¿cómo le
+
+[02:29:01]
+llama? Hace el fallo. Aquí lo ideal
+
+[02:29:04]
+hubiera sido que te tomara, te hiciera
+
+[02:29:06]
+el turtle sub
+
+[02:29:08]
+aquí. Así.
+
+[02:29:11]
+Esto está perfecto. Y luego ya tienes
+
+[02:29:13]
+como como continuación el mismo Turtle.
+
+[02:29:18]
+Aquí ya les había dicho que te que
+
+[02:29:21]
+íbamos a especular. ¿Por qué especulé
+
+[02:29:23]
+ahí? Porque ahí
+
+[02:29:26]
+especulé que iba a venir que les dije,
+
+[02:29:29]
+¿no? Les dije así y luego así, ¿no? ¿Por
+
+[02:29:31]
+qué especulé eso? Porque el precio
+
+[02:29:34]
+acababa de tomar este último target de
+
+[02:29:37]
+aquí.
+
+[02:29:39]
+Como acababa de tomar ese ese alto,
+
+[02:29:42]
+cuando acababa de tomar ese alto, pues
+
+[02:29:44]
+ya sabíamos que iba a venir una vela. No
+
+[02:29:46]
+sabía si en una vela o en dos, pero
+
+[02:29:48]
+sabíamos que iba a venir el movimiento.
+
+[02:29:49]
+Así hace el turtle
+
+[02:29:52]
+Zap, hace el Turtle Zap
+
+[02:29:55]
+ahí y ahí era para comprar. Ahora, por
+
+[02:29:59]
+ejemplo, en dónde es la salida más
+
+[02:30:02]
+segura. La segía más segura es cuando te
+
+[02:30:05]
+rode la próxima máximo de la próxima el
+
+[02:30:08]
+máximo de la próxima vela de 4 horas,
+
+[02:30:11]
+pero pues siempre puedes apuntar un poco
+
+[02:30:14]
+más alto, ¿no? Si te gusta apuntar hacia
+
+[02:30:16]
+las
+
+[02:30:17]
+estrellas, puedes apuntar un poco más
+
+[02:30:19]
+alto o puedes ir viendo la tendencia. En
+
+[02:30:23]
+este caso se giró.
+
+[02:30:26]
+Está bien aquí. Este me hubiera sacado
+
+[02:30:30]
+probablemente en stop loss, ¿no? A lo
+
+[02:30:32]
+mejor en break even. Lo mejor en break
+
+[02:30:34]
+even.
+
+[02:30:36]
+Pero lo ideal a mí, yo me hubiera salido
+
+[02:30:38]
+cuando tomara el alto de este.
+
+[02:30:40]
+Igualmente, esto la mayoría de las veces
+
+[02:30:43]
+sucede. Aquí no sucedió, está bien, pero
+
+[02:30:46]
+si ustedes van y lo testean en el
+
+[02:30:48]
+tiempo, la mayoría de las veces lo que
+
+[02:30:50]
+va a hacer esta vela es tomar el máximo
+
+[02:30:51]
+y lograrás así
+
+[02:30:54]
+revertir más que ahí más fue más
+
+[02:30:56]
+agresivo para abajo. Cayendo. Okay,
+
+[02:31:00]
+perfecto.
+
+[02:31:03]
+Cayendo. Viene haciendo lo mismo. Toma
+
+[02:31:05]
+el
+
+[02:31:07]
+máximo. Máximo esta vela. Vamos a ver si
+
+[02:31:10]
+la siguiente hace el
+
+[02:31:19]
+retroceso. Vamos a ver si en algún
+
+[02:31:21]
+momento nos hace un turtle top y
+
+[02:31:24]
+podemos comprar. Está había dicho a ver
+
+[02:31:30]
+si en algún momento nos hace el Turtle
+
+[02:31:31]
+Sap y podemos comprar. Aquí no lo hace.
+
+[02:31:33]
+Lo que pasa es que aquí yo no me puedo
+
+[02:31:35]
+adelantar a la vela porque es back
+
+[02:31:36]
+testing. No tendría que poner, no, no se
+
+[02:31:39]
+puede, no, no se puede. Ustedes
+
+[02:31:40]
+entienden, ¿no? No me puedo no puedo
+
+[02:31:43]
+poner la vela que cotice como en tiempo
+
+[02:31:46]
+real, ¿no? Ya te la dibuj te la dibuja
+
+[02:31:49]
+toda completa, ¿no? Digamos que desde su
+
+[02:31:52]
+principio hasta su final. No se
+
+[02:31:55]
+puede ver la vela o de pronto si le
+
+[02:31:58]
+bajo. No, no, no se puede. Necesito ver.
+
+[02:32:00]
+Ya se forma vela vela. Pero ustedes me
+
+[02:32:03]
+entienden, ¿no? Entonces, cuando abre la
+
+[02:32:05]
+vela, la vela abre
+
+[02:32:09]
+aquí, eh sí, aquí viene la la vela abre
+
+[02:32:14]
+aquí,
+
+[02:32:16]
+luego baja, la vela abre aquí,
+
+[02:32:20]
+baja y luego
+
+[02:32:22]
+recoge, luego recoge
+
+[02:32:26]
+y así hace la vela o menos, para que me
+
+[02:32:30]
+entiendan.
+
+[02:32:31]
+donde tú entras cuando veas que raidea
+
+[02:32:33]
+el turtle sub, vas al cesta parte aquí y
+
+[02:32:36]
+ahí te corporas. ¿Dónde es la salida más
+
+[02:32:39]
+segura? Cuando el precio te tome el
+
+[02:32:40]
+máximo este vela. Puedes esperarte a que
+
+[02:32:44]
+te tome el máximo de esta vela también,
+
+[02:32:46]
+pero puede pasarte como aquí que nos
+
+[02:32:48]
+quedamos
+
+[02:32:50]
+esperando. Fijan, aquí nos quedamos
+
+[02:32:52]
+mirando y se revirtió el
+
+[02:32:55]
+precio. Pasa, pero la mayoría de las
+
+[02:32:57]
+veces, la mayoría de las veces por
+
+[02:32:59]
+experiencia propia se los voy a decir,
+
+[02:33:01]
+te toma el máximo ese, luego ya ahí sí
+
+[02:33:04]
+cae. O sea, que te va a hacer te hace
+
+[02:33:06]
+esto, ¿no? Toma el máximo y luego ahí sí
+
+[02:33:09]
+ya se puede llegar a caer o a
+
+[02:33:12]
+revertirse.
+
+[02:33:14]
+Eh, casi siempre hace eso. Ahí
+
+[02:33:18]
+está.
+
+[02:33:20]
+Mm. Ahora sí ya rompemos
+
+[02:33:22]
+estructura. Aquí en los nuevos turtle
+
+[02:33:25]
+sub de 4 horas nos podemos incorporar al
+
+[02:33:27]
+alza. Ojo, nuevos turtle sub de 4 horas
+
+[02:33:30]
+a la
+
+[02:33:30]
+alza. Va, insight. Aquí está el turtle
+
+[02:33:34]
+sub.
+
+[02:33:36]
+Aunque eh pues no no hay
+
+[02:33:41]
+nada. Tal vez en el de esta vela. Tal
+
+[02:33:44]
+vez en el de esta vela. A ver si nos
+
+[02:33:46]
+quedamos
+
+[02:33:47]
+esperando. Perfecto. Aquí no había nada,
+
+[02:33:49]
+fíjense. No hay ningún turtle sub.
+
+[02:33:51]
+Claro,
+
+[02:33:53]
+nada. Sigue sigue imprimiendo las velas.
+
+[02:33:56]
+tiene que verse claramente como algo
+
+[02:33:59]
+así,
+
+[02:34:00]
+¿no? Casi casi debo de adivinar la
+
+[02:34:03]
+siguiente vela, fíjense. Algo
+
+[02:34:07]
+así. Lo a ver así casi casi. Mira,
+
+[02:34:11]
+fíjense, lo vamos a dejar ahí. va a
+
+[02:34:12]
+pasar eso. Casi, casi puedo decirles,
+
+[02:34:15]
+bueno, fallo sub no siempre
+
+[02:34:19]
+pasa, pero la idea estaba bien. Aquí lo
+
+[02:34:22]
+ideal hubiera sido esto,
+
+[02:34:25]
+¿no? Ya especulábamos que podía pasar.
+
+[02:34:28]
+¿Por qué? Porque va a fallar. ¿Por qué
+
+[02:34:29]
+podíamos especular que podía pasar?
+
+[02:34:31]
+Porque la estructura se está
+
+[02:34:33]
+convirtiendo en alcista y por eso
+
+[02:34:36]
+estábamos buscando esto. Pero ahí falla,
+
+[02:34:39]
+vayan a hacer un nuevo lower. Este es el
+
+[02:34:41]
+el que le llama WH, el Fel S o cómo le
+
+[02:34:45]
+llama, le llamo
+
+[02:34:46]
+Fire. Este también es muy es muy
+
+[02:34:49]
+detectable en temporalidades menores,
+
+[02:34:53]
+pero eh lo voy
+
+[02:34:56]
+a lo voy a traer un video hablando sobre
+
+[02:34:59]
+eso
+
+[02:35:00]
+específicamente. Back testing de Met
+
+[02:35:02]
+Trader. Sí, se ve cómo se forman las
+
+[02:35:06]
+velas.
+
+[02:35:08]
+Traders Metatrader 4 o C.
+
+[02:35:12]
+Estaría chéver un back testing de
+
+[02:35:13]
+Matater
+
+[02:35:16]
+45. Estaría ver, necesitaría
+
+[02:35:19]
+revisarlo. Revisarlo porque en este ya
+
+[02:35:22]
+se la no se ve cómo se forman las velas,
+
+[02:35:25]
+sino que o no sé que tengas que
+
+[02:35:27]
+configurar. Se
+
+[02:35:30]
+se en este no se ve v la vela. Pues ya
+
+[02:35:34]
+se forma la vela vela. Por eso estaría
+
+[02:35:38]
+chévere ver cómo se está formando la
+
+[02:35:40]
+vela, o sea, su recorrido, su camino que
+
+[02:35:43]
+está haciendo la vela. En Trading View
+
+[02:35:45]
+también es así, ¿verdad? En Trading View
+
+[02:35:48]
+es así. Los
+
+[02:35:50]
+dos, ¿no? En este overting no se
+
+[02:35:54]
+puede
+
+[02:35:55]
+en de pronto en FX Replay. La verdad es
+
+[02:35:58]
+que yo no uso mucho las cosas de back
+
+[02:36:00]
+testing, no los uso demasiado, por eso
+
+[02:36:04]
+no tengo ni idea. Me enterado, no me he
+
+[02:36:12]
+enterado. Okay, ahí igual vamos al
+
+[02:36:17]
+chistas. Ahí
+
+[02:36:21]
+posiblemente está bueno para comprar.
+
+[02:36:24]
+Cerró por encima del
+
+[02:36:26]
+rango. Está bien. Compramos se por
+
+[02:36:29]
+encima del rango.
+
+[02:36:35]
+Subió para
+
+[02:36:38]
+arriba. Aquí ya está formando varias
+
+[02:36:40]
+velas. T. Estas esta toma, cierra por
+
+[02:36:44]
+encima del rango. Toma, cierra por
+
+[02:36:46]
+encima del rango. Probablemente ahí se
+
+[02:36:48]
+vaya. Está bien para
+
+[02:36:52]
+comprar. Este hace un doble raideo, pero
+
+[02:36:54]
+igual el rango general que era este no
+
+[02:36:56]
+te lo
+
+[02:36:57]
+tomó, pero
+
+[02:36:59]
+probablemente
+
+[02:37:01]
+puro duro para arriba. Lo lo que les
+
+[02:37:04]
+decía que iba a pasar,
+
+[02:37:06]
+¿no? Para abajo,
+
+[02:37:09]
+arriba, abajo. Ahora, ahora tiene que ir
+
+[02:37:12]
+a atacar eso máximo. Vamos a terminar
+
+[02:37:15]
+yéndonos por el máximo de este máximo
+
+[02:37:21]
+histórico máximo
+
+[02:37:23]
+es. Estaría bien en Trading View. Es
+
+[02:37:26]
+así, pero
+
+[02:37:27]
+puedes puedes configurar cuánto tiempo
+
+[02:37:31]
+quieres a la
+
+[02:37:37]
+vela. Ah, okay. No, me gustaría ver la
+
+[02:37:40]
+vela, la
+
+[02:37:42]
+[Música]
+
+[02:37:43]
+vela. ¿Cómo se está imprimiendo la vela
+
+[02:37:46]
+así en tiempo en en
+
+[02:37:51]
+en baja en cómo podría decir? en cámara
+
+[02:37:55]
+lenta, cómo se imprime la vela esta,
+
+[02:37:57]
+¿no? Para yo decirles, "Mira, aquí está
+
+[02:37:59]
+raideando, aquí nos vamos a meter."
+
+[02:38:01]
+Cuando está raideando esta vela, estaría
+
+[02:38:03]
+bien. Dicen que Trading View se puede.
+
+[02:38:06]
+Nunca lo he visto. No sé si en Trading
+
+[02:38:08]
+View se puede o
+
+[02:38:09]
+Metatrader para arriba.
+
+[02:38:14]
+Es que este este Goharin te da
+
+[02:38:18]
+ya te da vela vela, pues no te no te no
+
+[02:38:22]
+te no te imprime la vela y ya te da la
+
+[02:38:25]
+vela en completa. Eso es un poco
+
+[02:38:28]
+más pues sí podemos especular vela a
+
+[02:38:30]
+vela, pero queremos especular antes de
+
+[02:38:32]
+que la vela se cierre, ¿no? Puntos estos
+
+[02:38:35]
+máximos.
+
+[02:38:38]
+Yo lo entiendo, pero yo creo que lo
+
+[02:38:40]
+vamos a dejar por aquí,
+
+[02:38:41]
+gente. Ha estado bastante bien. Lo vamos
+
+[02:38:44]
+a dejar por
+
+[02:38:45]
+aquí el mercado. Vamos a verlo
+
+[02:38:49]
+rápidamente. Ha hecho demasiado. Puede
+
+[02:38:51]
+ser que por aquí ya
+
+[02:38:53]
+caiga. Lo voy a estar operando yo.
+
+[02:38:55]
+Lunes. Lunes lo voy a estar operando yo.
+
+[02:38:58]
+Pero ya por aquí ya va ahí ya va a
+
+[02:39:01]
+cerrar. Ya es mejor lunes. No ha hecho
+
+[02:39:04]
+demasiado el oro.
+
+[02:39:10]
+EUR
+
+[02:39:12]
+USD
+
+[02:39:14]
+poco está ya para irse a descansar y
+
+[02:39:16]
+dejarlo ya para la
+
+[02:39:18]
+siguiente. Voy a ver si se
+
+[02:39:21]
+puede en Metatrader 5
+
+[02:39:24]
+próximamente. Con eso que te mencioné de
+
+[02:39:26]
+poner en tiempo
+
+[02:39:28]
+que
+
+[02:39:43]
+ayudaría.
+
+[02:39:48]
+Okay. A
+
+[02:39:52]
+ver. Ah, es que este tiene hasta 10
+
+[02:39:55]
+segundos.
+
+[02:39:58]
+No, pero este forma vela
+
+[02:40:00]
+vela. No creo que en Trading Views
+
+[02:40:02]
+igual, eh, vi igual. No sé si en
+
+[02:40:05]
+Metatraders 4 C así. ¿Qué quiero yo? Que
+
+[02:40:10]
+ver cómo la vela se va
+
+[02:40:11]
+formando para Ah, no, le faltan 30
+
+[02:40:14]
+segundos, una hora. Ver, ver, eso lo
+
+[02:40:17]
+sería lo ideal para poder explicarlo más
+
+[02:40:19]
+fácil, ¿no? Ver cómo la vela llega aquí,
+
+[02:40:23]
+ver cómo se va
+
+[02:40:27]
+formando en Trin Viw. Sí, ¿quieres algo
+
+[02:40:30]
+te puede
+
+[02:40:31]
+ayudar? Sí, en Ghartin no se puede. En
+
+[02:40:34]
+Gor Sharting es vela vela. Yo lo yo me
+
+[02:40:37]
+sirve porque yo lo analizo de esa
+
+[02:40:40]
+manera, pero podría ser bueno hacer, no
+
+[02:40:43]
+sé si en Metatrader 45 o en FX Replay se
+
+[02:40:46]
+pueda. FX Replay te lo da también.
+
+[02:40:50]
+¿Alguno de ustedes ha usado FX Replay?
+
+[02:40:52]
+También se puede
+
+[02:40:54]
+hallar, o sea, que me dé el tiempo de la
+
+[02:40:59]
+vela antes de para cuando veamos el
+
+[02:41:02]
+raideo, por ejemplo. Ah, aquí vemos el
+
+[02:41:03]
+raideo de la vela de 4 horas. No, ahí
+
+[02:41:07]
+está la entrada, gente. Y ahí ya nos
+
+[02:41:08]
+podamos incluso porque aquí creo que si
+
+[02:41:11]
+te bajas, si estás ahí, te bajas a una
+
+[02:41:13]
+hora te saca,
+
+[02:41:19]
+¿no? No te saca,
+
+[02:41:23]
+pero sí, sí. Por ejemplo, que estemos
+
+[02:41:26]
+aquí,
+
+[02:41:27]
+¿no? Estemos
+
+[02:41:30]
+acá y
+
+[02:41:32]
+no ir viendo como la vela de 4 horas
+
+[02:41:35]
+llega ahí. Por ejemplo, vamos a poner 4
+
+[02:41:38]
+horas.
+
+[02:41:41]
+como la vela de 4 horas llega aquí, como
+
+[02:41:45]
+esa vela cierra, abre la nueva, raidea,
+
+[02:41:49]
+etcétera,
+
+[02:41:50]
+etcétera. Creo que Interview View es
+
+[02:41:53]
+vela a vela, solo cambia la velocidad.
+
+[02:41:55]
+Sí, es lo que les digo, es vela vela. Es
+
+[02:41:59]
+vela vela.
+
+[02:42:00]
+Lo que me gustaría es ver la vela cómo
+
+[02:42:02]
+abre y cómo se va viendo cómo cierra
+
+[02:42:05]
+para pararla exactamente cuando hace el
+
+[02:42:07]
+tel sub y decir y aquí ver lower time
+
+[02:42:11]
+frame y decirles, "Ah, aquí se
+
+[02:42:17]
+entra." FX replay te permite ver cómo se
+
+[02:42:20]
+va formando la vela.
+
+[02:42:24]
+Okay, tal vez lo podamos hacer en FX
+
+[02:42:27]
+Replay.
+
+[02:42:28]
+Entonces, si te permite ver vendo cómo o
+
+[02:42:31]
+es vela a vela también más como más
+
+[02:42:34]
+lenta la vela.
+
+[02:42:37]
+Entonces, si Effic Replay te permite ir
+
+[02:42:39]
+viendo cómo cómo se forma la vela, pues
+
+[02:42:41]
+mejor, ¿no? Podemos probarlo ahí algún
+
+[02:42:48]
+día de pronto podamos probarlo ahí en FX
+
+[02:42:51]
+Replay. Vamos a finalizar stream en
+
+[02:42:55]
+TikTok.
+
+[02:43:02]
+Entonces de pronto algún día lo podemos
+
+[02:43:04]
+hacer en Ific Replay si quieren hacer
+
+[02:43:05]
+que haga back
+
+[02:43:08]
+testing. Listo, ya nos fuimos
+
+[02:43:13]
+de Gracias a todos ustedes por haber
+
+[02:43:16]
+estado aquí, gente. Nos vamos a
+
+[02:43:17]
+despedir. Voy a voy a ver si FX Replay
+
+[02:43:20]
+deja y algún día nos podemos conectar a
+
+[02:43:23]
+lo mejor en vivo a hacer back testing de
+
+[02:43:27]
+la estrategia para que lo entiendan
+
+[02:43:29]
+mejor. Yo espero que lo que hayan visto
+
+[02:43:31]
+aquí les haya aportado, les haya servido
+
+[02:43:33]
+para su trading, para mejorar como
+
+[02:43:36]
+trading y nos vamos a estar viendo en
+
+[02:43:38]
+una próxima emisión. No se vayan sin
+
+[02:43:40]
+dejar su me gusta.
+
+[02:43:43]
+En Metatrader sí se forma como en
+
+[02:43:46]
+real y es gratis en Metatrader, ¿verdad?
+
+[02:43:50]
+Es gratis o
+
+[02:43:52]
+no. Sí, no es gratis en Metatrader,
+
+[02:43:56]
+¿no? Ah, pues también podemos ver en Sí,
+
+[02:43:59]
+es gratis.
+
+[02:44:01]
+Mete 5. Me gustaría probarlo antes de
+
+[02:44:03]
+irme. Lo probamos antes de irme. No es
+
+[02:44:05]
+que, ¿qué plataforma tengo que Es que no
+
+[02:44:07]
+tengo
+
+[02:44:10]
+Metatrader, no tengo ningún Metatrader,
+
+[02:44:17]
+gente. No, es que yo no lo utilizo en
+
+[02:44:21]
+mi no lo
+
+[02:44:24]
+utilizo. A ver, vamos a probarlo a ver
+
+[02:44:26]
+si se puede.
+
+[02:44:29]
+descargué aquí un MT5 en el CCO se
+
+[02:44:32]
+puede, no, no sé usarlo aparte muy bien
+
+[02:44:35]
+que
+
+[02:44:42]
+digamos este porque yo sola siempre lo
+
+[02:44:45]
+uso en el de
+
+[02:44:46]
+móvil, en el en el móvil lo utilizo el
+
+[02:44:50]
+Metatrader
+
+[02:44:51]
+5. A ver, lo vamos a no más para no
+
+[02:44:55]
+quedarme con la espinita que sí se
+
+[02:44:59]
+puede. Si me ven un poco que no sé
+
+[02:45:02]
+usarlo, ahí me van
+
+[02:45:13]
+orientando y y ¿dónde sería para hacer?
+
+[02:45:16]
+¿Dónde le doy, gente? A ver, ayúdenme.
+
+[02:45:19]
+Este yo no lo utilizo, eh, ni lo tengo
+
+[02:45:21]
+instalado. Yo utilizo móvil siempre,
+
+[02:45:24]
+siempre, toda la
+
+[02:45:25]
+vida. ¿Dónde le doy, por
+
+[02:45:29]
+ejemplo? Ah, aquí,
+
+[02:45:40]
+aquí.
+
+[02:45:43]
+Ah, no sé dónde le dé. ¿Dónde es para
+
+[02:45:46]
+hacer back testing, gente? A ver,
+
+[02:45:49]
+ayúdenme. Algo aquí, algo
+
+[02:45:53]
+trading. De hecho, aquí estamos en el
+
+[02:45:55]
+eurodólar,
+
+[02:45:57]
+¿no? Estamos en el eurodólar. No sé ni
+
+[02:46:00]
+cómo se cambia de temporalidad, gente.
+
+[02:46:01]
+Estoy un poco Ah, acá 4
+
+[02:46:09]
+horas. También me gustaría hacer zoom.
+
+[02:46:16]
+Oh, es al
+
+[02:46:30]
+revés. Más que no sé en qué parte
+
+[02:46:32]
+aparece para ver.
+
+[02:46:37]
+No sé en qué parte aparece para ver
+
+[02:46:39]
+el para ver para hacer back testing.
+
+[02:46:43]
+¿Dónde
+
+[02:46:46]
+es? Es que no les digo, no lo sé usar.
+
+[02:46:49]
+Nunca lo he usado en el Nunca lo he
+
+[02:46:51]
+usado
+
+[02:46:53]
+en Nunca lo he usado aquí en la PC.
+
+[02:46:57]
+Pongo que necesitaría, pero quiero ver
+
+[02:46:59]
+eso que me
+
+[02:47:04]
+dicen. Yo tengo cuatro, no cinco, pero
+
+[02:47:06]
+en YouTube explican para la
+
+[02:47:08]
+próxima. Sí, probablemente para la
+
+[02:47:11]
+próxima. View no necesitas instalar
+
+[02:47:16]
+algo. A lo mejor ocupas instalar algo
+
+[02:47:18]
+para darle
+
+[02:47:20]
+al No tiene como un replay aquí.
+
+[02:47:27]
+más tiene como que
+
+[02:47:29]
+es no hay como file
+
+[02:47:50]
+prima,
+
+[02:47:52]
+¿no? No, la verdad es que no sé, gente,
+
+[02:47:54]
+no sé
+
+[02:47:55]
+dónde. Yo creo que para la próxima lo
+
+[02:47:57]
+vemos,
+
+[02:47:58]
+pero quería probarlo ahorita a ver si si
+
+[02:48:01]
+era
+
+[02:48:02]
+cierto de que te deja ver la vela así
+
+[02:48:05]
+chévere.
+
+[02:48:07]
+Bueno, lo preparo para un siguiente
+
+[02:48:10]
+stream de back testing, lo preparo y
+
+[02:48:13]
+sirve, lo arreglo el gráfico y todo, lo
+
+[02:48:15]
+pongo como
+
+[02:48:16]
+amigos y lo hacemos o lo hacemos en un
+
+[02:48:20]
+siguiente
+
+[02:48:21]
+directo porque no sé dónde. Por aquí
+
+[02:48:23]
+debe de estar, seguramente es una
+
+[02:48:25]
+chorrada y por aquí debe estar. Yo la
+
+[02:48:27]
+verdad es que nunca lo utilizo. Yo
+
+[02:48:28]
+utilizo
+
+[02:48:30]
+puro Yo utilizo
+
+[02:48:32]
+puro puro celular. Candlist
+
+[02:48:40]
+Barchart Trading View también permite
+
+[02:48:42]
+cómo se forma la vela.
+
+[02:48:45]
+Okay, pero está chido o se ve o o es
+
+[02:48:51]
+decadente,
+
+[02:48:53]
+¿eh? Porque yo la última vez que probé
+
+[02:48:56]
+en Terding View no se veía muy bien, por
+
+[02:48:58]
+eso es algo que a mí no me gustaba.
+
+[02:49:01]
+Te daba ver la vela y ya cuando la vela
+
+[02:49:03]
+ya se cerró, pues sí está bien, lo
+
+[02:49:07]
+puedes back testear, pero no es lo
+
+[02:49:09]
+mismo.
+
+[02:49:14]
+Obviamente seguramente tengas que hacer
+
+[02:49:16]
+alguna otra cosa. Bueno, lo voy a dejar
+
+[02:49:18]
+para un siguiente video. Voy a probar,
+
+[02:49:21]
+tal vez pruebo o a lo mejor lo pruebo en
+
+[02:49:23]
+Trading View o checo aquí en Metatrader
+
+[02:49:26]
+5 cómo se hace back testing y lo
+
+[02:49:28]
+probamos para un siguiente o tal vez
+
+[02:49:31]
+Metater ocupa descargar algún este
+
+[02:49:35]
+alguna plantilla o algo así ya en eso se
+
+[02:49:38]
+pueda. Vamos a dejar para un siguiente
+
+[02:49:40]
+video, un siguiente stream donde haremos
+
+[02:49:41]
+back testing
+
+[02:49:42]
+probablemente de la estrategia y ahí nos
+
+[02:49:46]
+estemos viendo. Gente, gracias por haber
+
+[02:49:48]
+estado aquí. nos vamos a estar viendo.
+
+[02:49:50]
+Bye bye a todos.
+```

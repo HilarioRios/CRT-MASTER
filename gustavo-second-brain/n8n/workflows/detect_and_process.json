@@ -1,0 +1,279 @@
+{
+  "id": "gustavo-second-brain-detect-process",
+  "name": "Gustavo Second Brain — Detect & Process New Videos",
+  "active": false,
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "c3c3c3c3-0001-4000-8000-000000000001",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 0]
+    },
+    {
+      "parameters": { "url": "http://host.docker.internal:8731/health", "options": {} },
+      "id": "c3c3c3c3-0002-4000-8000-000000000002",
+      "name": "GET /health",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [220, 0]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "strict" },
+          "conditions": [{ "id": "c1", "leftValue": "={{$json.ok}}", "rightValue": true,
+            "operator": { "type": "boolean", "operation": "equals" } }],
+          "combinator": "and"
+        }, "options": {}
+      },
+      "id": "c3c3c3c3-0003-4000-8000-000000000003",
+      "name": "IF health OK",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [440, 0]
+    },
+    {
+      "parameters": { "method": "POST", "url": "http://host.docker.internal:8731/jobs/detect-new", "options": {} },
+      "id": "c3c3c3c3-0004-4000-8000-000000000004",
+      "name": "POST /jobs/detect-new",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [660, -100]
+    },
+    {
+      "parameters": { "amount": 3 },
+      "id": "c3c3c3c3-0005-4000-8000-000000000005",
+      "name": "Wait (detect)",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [880, -100]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:8731/jobs/{{$('POST /jobs/detect-new').item.json.job_id}}",
+        "options": {}
+      },
+      "id": "c3c3c3c3-0006-4000-8000-000000000006",
+      "name": "GET /jobs/{detect_id}",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1100, -100]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "strict" },
+          "conditions": [{ "id": "c2", "leftValue": "={{$json.status}}", "rightValue": "QUEUED,RUNNING",
+            "operator": { "type": "string", "operation": "regex" } }],
+          "combinator": "and"
+        }, "options": {}
+      },
+      "id": "c3c3c3c3-0007-4000-8000-000000000007",
+      "name": "IF detect still running",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1320, -100]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "strict" },
+          "conditions": [{ "id": "c3", "leftValue": "={{$json.status}}", "rightValue": "FAILED",
+            "operator": { "type": "string", "operation": "equals" } }],
+          "combinator": "and"
+        }, "options": {}
+      },
+      "id": "c3c3c3c3-0008-4000-8000-000000000008",
+      "name": "IF detect failed",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1540, -60]
+    },
+    {
+      "parameters": {
+        "assignments": { "assignments": [
+          { "id": "a1", "name": "detect_error", "type": "string",
+            "value": "=detect-new FAILED: {{JSON.stringify($json.metrics)}}" }
+        ] }, "options": {}
+      },
+      "id": "c3c3c3c3-0009-4000-8000-000000000009",
+      "name": "Log detect error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [1760, -140]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "strict" },
+          "conditions": [{ "id": "c4", "leftValue": "={{$json.metrics.NEW_READY_FOR_PIPELINE}}", "rightValue": 0,
+            "operator": { "type": "number", "operation": "gt" } }],
+          "combinator": "and"
+        }, "options": {}
+      },
+      "id": "c3c3c3c3-0010-4000-8000-000000000010",
+      "name": "IF new videos ready",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1760, 0]
+    },
+    {
+      "parameters": {
+        "assignments": { "assignments": [
+          { "id": "a2", "name": "no_new_videos", "type": "string",
+            "value": "=Deteccion OK, nada nuevo para procesar. NEW_VIDEOS_FOUND={{$json.metrics.NEW_VIDEOS_FOUND}} NEW_EXCLUDED_SHORTS={{$json.metrics.NEW_EXCLUDED_SHORTS}}" }
+        ] }, "options": {}
+      },
+      "id": "c3c3c3c3-0011-4000-8000-000000000011",
+      "name": "Log: no new videos",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [1980, 80]
+    },
+    {
+      "parameters": { "method": "POST", "url": "http://host.docker.internal:8731/jobs/run-pipeline", "options": {} },
+      "id": "c3c3c3c3-0012-4000-8000-000000000012",
+      "name": "POST /jobs/run-pipeline",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1980, -60]
+    },
+    {
+      "parameters": { "amount": 10 },
+      "id": "c3c3c3c3-0013-4000-8000-000000000013",
+      "name": "Wait (pipeline)",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [2200, -60]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:8731/jobs/{{$('POST /jobs/run-pipeline').item.json.job_id}}",
+        "options": {}
+      },
+      "id": "c3c3c3c3-0014-4000-8000-000000000014",
+      "name": "GET /jobs/{pipeline_id}",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2420, -60]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "strict" },
+          "conditions": [{ "id": "c5", "leftValue": "={{$json.status}}", "rightValue": "QUEUED,RUNNING",
+            "operator": { "type": "string", "operation": "regex" } }],
+          "combinator": "and"
+        }, "options": {}
+      },
+      "id": "c3c3c3c3-0015-4000-8000-000000000015",
+      "name": "IF pipeline still running",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [2640, -60]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": true, "leftValue": "", "typeValidation": "strict" },
+          "conditions": [{ "id": "c6", "leftValue": "={{$json.status}}", "rightValue": "FAILED",
+            "operator": { "type": "string", "operation": "equals" } }],
+          "combinator": "and"
+        }, "options": {}
+      },
+      "id": "c3c3c3c3-0016-4000-8000-000000000016",
+      "name": "IF pipeline failed",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [2860, -20]
+    },
+    {
+      "parameters": {
+        "assignments": { "assignments": [
+          { "id": "a3", "name": "pipeline_error", "type": "string",
+            "value": "=run-pipeline FAILED: {{JSON.stringify($json.metrics)}}" }
+        ] }, "options": {}
+      },
+      "id": "c3c3c3c3-0017-4000-8000-000000000017",
+      "name": "Log pipeline error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [3080, -100]
+    },
+    {
+      "parameters": {
+        "assignments": { "assignments": [
+          { "id": "a4", "name": "pipeline_summary", "type": "string",
+            "value": "=OK status={{$json.status}} PROCESSED={{$json.metrics.PROCESSED}} SUCCEEDED={{$json.metrics.SUCCEEDED}} FAILED={{$json.metrics.FAILED}} CHUNKS={{$json.metrics.CHUNKS_GENERATED}}" }
+        ] }, "options": {}
+      },
+      "id": "c3c3c3c3-0018-4000-8000-000000000018",
+      "name": "Log pipeline summary",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [3080, 60]
+    },
+    {
+      "parameters": {
+        "assignments": { "assignments": [
+          { "id": "a5", "name": "health_error", "type": "string",
+            "value": "=orchestrator /health ok=false: {{JSON.stringify($json)}}" }
+        ] }, "options": {}
+      },
+      "id": "c3c3c3c3-0019-4000-8000-000000000019",
+      "name": "Log health error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [660, 160]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": { "main": [[{ "node": "GET /health", "type": "main", "index": 0 }]] },
+    "GET /health": { "main": [[{ "node": "IF health OK", "type": "main", "index": 0 }]] },
+    "IF health OK": {
+      "main": [
+        [{ "node": "POST /jobs/detect-new", "type": "main", "index": 0 }],
+        [{ "node": "Log health error", "type": "main", "index": 0 }]
+      ]
+    },
+    "POST /jobs/detect-new": { "main": [[{ "node": "Wait (detect)", "type": "main", "index": 0 }]] },
+    "Wait (detect)": { "main": [[{ "node": "GET /jobs/{detect_id}", "type": "main", "index": 0 }]] },
+    "GET /jobs/{detect_id}": { "main": [[{ "node": "IF detect still running", "type": "main", "index": 0 }]] },
+    "IF detect still running": {
+      "main": [
+        [{ "node": "Wait (detect)", "type": "main", "index": 0 }],
+        [{ "node": "IF detect failed", "type": "main", "index": 0 }]
+      ]
+    },
+    "IF detect failed": {
+      "main": [
+        [{ "node": "Log detect error", "type": "main", "index": 0 }],
+        [{ "node": "IF new videos ready", "type": "main", "index": 0 }]
+      ]
+    },
+    "IF new videos ready": {
+      "main": [
+        [{ "node": "POST /jobs/run-pipeline", "type": "main", "index": 0 }],
+        [{ "node": "Log: no new videos", "type": "main", "index": 0 }]
+      ]
+    },
+    "POST /jobs/run-pipeline": { "main": [[{ "node": "Wait (pipeline)", "type": "main", "index": 0 }]] },
+    "Wait (pipeline)": { "main": [[{ "node": "GET /jobs/{pipeline_id}", "type": "main", "index": 0 }]] },
+    "GET /jobs/{pipeline_id}": { "main": [[{ "node": "IF pipeline still running", "type": "main", "index": 0 }]] },
+    "IF pipeline still running": {
+      "main": [
+        [{ "node": "Wait (pipeline)", "type": "main", "index": 0 }],
+        [{ "node": "IF pipeline failed", "type": "main", "index": 0 }]
+      ]
+    },
+    "IF pipeline failed": {
+      "main": [
+        [{ "node": "Log pipeline error", "type": "main", "index": 0 }],
+        [{ "node": "Log pipeline summary", "type": "main", "index": 0 }]
+      ]
+    }
+  },
+  "settings": { "executionOrder": "v1" }
+}

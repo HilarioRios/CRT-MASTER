@@ -1,0 +1,1918 @@
+---
+source_id: YT_CANAL_02_gjC8RhL90qo
+video_id: gjC8RhL90qo
+channel: "Gustavom.Trader"
+published_at: 2024-04-24
+url: https://www.youtube.com/watch?v=gjC8RhL90qo
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 14
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# CURSO GRATIS de ANALISIS TECNICO en un SOLO VIDEO
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=gjC8RhL90qo)
+
+## Transcript
+
+```
+[00:00:00]
+en este video englobe los mejores
+
+[00:00:02]
+conceptos para empezar a aprender
+
+[00:00:05]
+análisis técnico y para que ustedes
+
+[00:00:06]
+tengan una mejor noción de lo que está
+
+[00:00:08]
+haciendo el mercado cada día eh Les
+
+[00:00:11]
+recomiendo que se suscriban a este canal
+
+[00:00:13]
+porque van a encontrar aquí muy buenos
+
+[00:00:15]
+videos más sobre este estos temas y
+
+[00:00:19]
+también Les recomiendo que se una
+
+[00:00:21]
+nuestra comunidad de Telegram y de
+
+[00:00:23]
+WhatsApp que se encuentra en la
+
+[00:00:24]
+descripción y bueno sin más preámbulos
+
+[00:00:27]
+Vamos al video Bueno chicos el primer
+
+[00:00:30]
+tema que quería tratar con todos ustedes
+
+[00:00:31]
+es el tema de las velas japonesas la
+
+[00:00:34]
+lectura de las velas japonesas es bien
+
+[00:00:35]
+importante eh como ustedes ya saben en
+
+[00:00:38]
+los mercados financieros nosotros para
+
+[00:00:40]
+poder entender un gráfico debemos de
+
+[00:00:43]
+entender las velas Ese es el método eh
+
+[00:00:46]
+No es el único método que hay para la
+
+[00:00:48]
+lectura del gráfico están las líneas hay
+
+[00:00:51]
+otro tipo de velas pero las velas
+
+[00:00:52]
+japonesas la verdad es que es el método
+
+[00:00:54]
+más sencillo que hay para poder aprender
+
+[00:00:57]
+o para poder tener una lectura correcta
+
+[00:00:59]
+al gráfico y Bueno aquí tengo una foto
+
+[00:01:02]
+muy básica de las velas japonesas la
+
+[00:01:04]
+verdad es que no quiero hacer un video
+
+[00:01:06]
+tan eh confuso quiero hacer un video muy
+
+[00:01:09]
+simple y es simplemente entender cuál es
+
+[00:01:12]
+el máximo el mínimo la apertura y el
+
+[00:01:15]
+cierre de cada una de las velas y
+
+[00:01:17]
+ahorita también vamos a profundidad
+
+[00:01:18]
+profundizar un poquito más sobre el tema
+
+[00:01:21]
+de las velas japonesas verdad esto es
+
+[00:01:23]
+una vela japonesa y se se compone del lo
+
+[00:01:26]
+que es el cuerpo el cuerpo es todo esto
+
+[00:01:28]
+Válgame lo lo que está rellenito de la
+
+[00:01:31]
+vela no Y la Mecha es la parte que es
+
+[00:01:34]
+como el palito No aquí no esta es la
+
+[00:01:36]
+Mecha de la vela y este es el cuerpo y
+
+[00:01:39]
+Se comprende a su vez también por lo que
+
+[00:01:41]
+es el el el open y el cierre verdad en
+
+[00:01:45]
+este caso tenemos la apertura de una
+
+[00:01:47]
+vela alcista por la parte baja y el
+
+[00:01:49]
+cierre por la parte alta esto es que el
+
+[00:01:52]
+precio está cerrando a la alza y se está
+
+[00:01:54]
+formando una vela alcista Igualmente
+
+[00:01:57]
+para una vela bajista tenemos una vela
+
+[00:01:59]
+que Abre por la parte alta y que cierra
+
+[00:02:02]
+por la parte baja y así se forma una
+
+[00:02:04]
+vela bajista luego tenemos un máximo que
+
+[00:02:07]
+es donde la vela máximo llegó la vela
+
+[00:02:09]
+Válgame que se está moviendo así para
+
+[00:02:11]
+arriba y para abajo y finalmente se va
+
+[00:02:14]
+construyendo Igualmente ahorita vamos a
+
+[00:02:16]
+ir al gráfico y lo vamos a entender más
+
+[00:02:17]
+fácil y después tenemos lo que es el
+
+[00:02:20]
+cierre de la vela verdad Entonces esto
+
+[00:02:23]
+es lo básico para entender o empezar a
+
+[00:02:26]
+comprender el mercado las velas
+
+[00:02:28]
+japonesas verdad pero ahorita solamente
+
+[00:02:31]
+entendemos la vela por ejemplo esta vela
+
+[00:02:33]
+es una vela que no tuvo una decisión
+
+[00:02:36]
+sólida por ejemplo este yo le llamo una
+
+[00:02:38]
+vela indecision Esta que está aquí
+
+[00:02:41]
+porque el precio no hizo como ni ni bajó
+
+[00:02:44]
+ni subió sino que se quedó donde mismo o
+
+[00:02:46]
+sea cerró en la parte media o en la
+
+[00:02:48]
+parte de en medio por ejemplo el precio
+
+[00:02:50]
+cerró en la parte de medio y no hizo
+
+[00:02:53]
+como un recorrido a la baja ni a la Alfa
+
+[00:02:56]
+pero por ejemplo esta vela que está
+
+[00:02:57]
+haciendo ahora mismo el precio si es una
+
+[00:02:59]
+vela baj si se fijan cerró por abrió por
+
+[00:03:02]
+la parte de aquí alta y va posiblemente
+
+[00:03:04]
+si el precio continúa bajando a cerrar
+
+[00:03:07]
+por la parte baja verdad por ejemplo
+
+[00:03:10]
+Aquí también tenemos una vela alcista
+
+[00:03:12]
+que el precio Abre por la parte baja y
+
+[00:03:14]
+cierra por la parte alta la verdad es
+
+[00:03:16]
+que es algo muy básico y quería que se
+
+[00:03:19]
+entendiera muy bien porque esta es la
+
+[00:03:21]
+lectura que vamos a tener en los
+
+[00:03:23]
+gráficos principalmente las velas
+
+[00:03:25]
+ahorita eh más adelante les voy a decir
+
+[00:03:27]
+algunos patrones de velas este dónde el
+
+[00:03:30]
+precio suele reaccionar mejor para que
+
+[00:03:32]
+ustedes tengan como tips Cómo pueden
+
+[00:03:34]
+operar
+
+[00:03:35]
+este con estas velitas japonesas verdad
+
+[00:03:39]
+la verdad es que es un gráfico que si
+
+[00:03:41]
+eres muy nuevo parece que es difícil
+
+[00:03:43]
+pero eh una vez que te acostumbras va a
+
+[00:03:46]
+ser más fácil verdad otro concepto que
+
+[00:03:49]
+quería explicar que es muy muy
+
+[00:03:51]
+importante es el lo que son los altos y
+
+[00:03:54]
+los bajos verdad Entonces por ejemplo
+
+[00:03:56]
+aquí en la parte alta de de de esta vela
+
+[00:03:59]
+tenemos lo que es el alto que eso lo
+
+[00:04:01]
+llamamos un High y aquí tenemos el bajo
+
+[00:04:03]
+de esta vela verdad Pero todo un
+
+[00:04:05]
+conjunto de velas Pues nos pueden llegar
+
+[00:04:07]
+a formar lo que Nosotros llamamos
+
+[00:04:09]
+fractales verdad que los fractales es un
+
+[00:04:12]
+conjunto de velas que tienen un máximo y
+
+[00:04:14]
+un mínimo es como una pierna del mercado
+
+[00:04:17]
+verdad es como por ejemplo todo este
+
+[00:04:19]
+movimiento que está aquí esto sería como
+
+[00:04:21]
+una pierna del mercado y ahorita vamos a
+
+[00:04:23]
+profundizar un poquito más en en en eso
+
+[00:04:26]
+con la estructura de Mercado verdad
+
+[00:04:28]
+Entonces esto es lo básico de las velas
+
+[00:04:30]
+japonesas que tienes que saber por
+
+[00:04:32]
+ejemplo aquí tenemos una vela con gran
+
+[00:04:34]
+volumen fíjense que es una vela grande
+
+[00:04:36]
+aquí por ejemplo tenemos una vela de
+
+[00:04:38]
+rechazo fíjense como esta Mecha rechaza
+
+[00:04:41]
+esta área de aquí y esta yo llamaría una
+
+[00:04:43]
+vela de rechazo Esta es una vela
+
+[00:04:45]
+envolvente grande las las envolventes
+
+[00:04:48]
+Generalmente suelen ser velas Grandes
+
+[00:04:50]
+como esta vela envolvente y las
+
+[00:04:52]
+indecisiones son velas que que tienen un
+
+[00:04:55]
+cuerpo chiquitito que cierran por la
+
+[00:04:56]
+parte de medio como esta y estas ya
+
+[00:04:59]
+serían velas como de rechazo verdad por
+
+[00:05:01]
+ejemplo esto es un rechazo en la parte
+
+[00:05:03]
+de abajo esto es una continuación aquí
+
+[00:05:05]
+una vela de indecisión luego tenemos una
+
+[00:05:08]
+vela que de continuación continuación
+
+[00:05:10]
+alcista continuación alcista
+
+[00:05:12]
+continuación alcista y finalmente
+
+[00:05:14]
+tenemos una vela con cuerpo grande pero
+
+[00:05:17]
+un terrible rechazo en la parte alta
+
+[00:05:19]
+para posteriormente formar una vela
+
+[00:05:22]
+eh bajista con gran volumen que revierte
+
+[00:05:26]
+toda parte de esa tendencia que venía
+
+[00:05:28]
+llevando el precio para finalmente el
+
+[00:05:30]
+precio volver a bajar Pero rechazar de
+
+[00:05:33]
+nuevo toda esta área y así sucesivamente
+
+[00:05:36]
+el precio va formándose o va formando
+
+[00:05:38]
+estas velas japonesas con las que
+
+[00:05:40]
+posteriormente nosotros vamos a hacer la
+
+[00:05:42]
+lectura del precio verdad aquí pueden
+
+[00:05:44]
+ver un gráfico un minuto y vean como la
+
+[00:05:46]
+vela se está formando en tiempo real
+
+[00:05:48]
+ahorita que estoy grabando esto no hay
+
+[00:05:49]
+mucho volumen entonces no es como que se
+
+[00:05:51]
+esté moviendo demasiado el precio y más
+
+[00:05:53]
+eurod dólar que es un par muy tranquilo
+
+[00:05:55]
+pero si se fijan son el precio por
+
+[00:05:58]
+ejemplo aquí formó una vela de Gran
+
+[00:06:00]
+volumen rechazó toda esta zona y se fue
+
+[00:06:03]
+para arriba por ejemplo aquí tenemos
+
+[00:06:05]
+este tipo de velas también que son a
+
+[00:06:06]
+veces no tan comunes pero son velas que
+
+[00:06:09]
+el precio también hace y estas son velas
+
+[00:06:13]
+sin decisión el precio terminó por la
+
+[00:06:16]
+parte en medio o sea que el precio ni
+
+[00:06:19]
+bajó rechazó subió rechazó y quedó en la
+
+[00:06:21]
+parte del medio esas son velas de ahí si
+
+[00:06:24]
+se fijan acá Tenemos un gran rechazo con
+
+[00:06:26]
+esta Mecha eh tenemos otra vez la de
+
+[00:06:29]
+rechazo y constantemente vamos a ver
+
+[00:06:32]
+todo eso ahorita voy a explicarles un
+
+[00:06:34]
+poquito más o vamos a hacer más hincapié
+
+[00:06:37]
+en lo que es la estructura de Mercado y
+
+[00:06:40]
+vamos a combinarlo un poquitín con lo
+
+[00:06:42]
+que ya sabemos de velas japonesas verdad
+
+[00:06:44]
+Qué es la estructura de Mercado más
+
+[00:06:46]
+básica amigos que se comprende de un
+
+[00:06:48]
+inicio luego de un alto más alto luego
+
+[00:06:51]
+de un bajo más alto luego de un alto más
+
+[00:06:54]
+alto un bajo más alto un alto más alto
+
+[00:06:57]
+un bajo más alto a mí me gusta decirle
+
+[00:07:00]
+en inglés pero la verdad es que saltos
+
+[00:07:02]
+más altos y bajos más altos Esto es lo
+
+[00:07:04]
+básico para entender la estructura de
+
+[00:07:06]
+mercado por ejemplo aquí estamos
+
+[00:07:07]
+nosotros formando una tendencia alcista
+
+[00:07:10]
+con un higher High un higher low higher
+
+[00:07:12]
+High higher low Y así sucesivamente
+
+[00:07:15]
+formamos una tendencia alcista estos que
+
+[00:07:17]
+están aquí por ejemplo se le conocen
+
+[00:07:19]
+como impulsos y retrocesos impulsos y
+
+[00:07:22]
+retrocesos por ejemplo impulso a la baja
+
+[00:07:25]
+retroceso impulso a la baja retroceso
+
+[00:07:27]
+cuando estamos en una tendencia alcista
+
+[00:07:29]
+pues sería un impulso a la alza un
+
+[00:07:31]
+retroceso impulso a la alza un retroceso
+
+[00:07:34]
+es lo más básico amigos para entender la
+
+[00:07:36]
+estructura de Mercado y cuando el precio
+
+[00:07:38]
+está rebotando de una zona a otra le
+
+[00:07:41]
+llamamos que el precio está en una
+
+[00:07:42]
+consolidación o en un Rango y luego
+
+[00:07:45]
+tenemos lo que es la tendencia bajista
+
+[00:07:47]
+Un inicio para tener un bajo más bajo un
+
+[00:07:49]
+alto más bajo un bajo más bajo un alto
+
+[00:07:52]
+más bajo y así sucesivamente amigos
+
+[00:07:55]
+entonces ahorita vamos a ir al gráfico y
+
+[00:07:58]
+les voy a explicar un poquito má de
+
+[00:07:59]
+estructura de mercado para que empezamos
+
+[00:08:01]
+a entender junto con esas velitas Cómo
+
+[00:08:04]
+el mercado va formando su estructura
+
+[00:08:06]
+Pues bueno chicos ya estamos aquí en un
+
+[00:08:07]
+gráfico de 4 horas del eurod dólar de
+
+[00:08:09]
+nuevo y vamos a ver cómo con las velitas
+
+[00:08:12]
+el precio nos va haciendo nuestros
+
+[00:08:14]
+impulsos y retrocesos para ver cómo el
+
+[00:08:16]
+precio está formando esa estructura por
+
+[00:08:18]
+ejemplo vamos a tomar de ejemplo toda
+
+[00:08:20]
+esta estructura que estaba aquí y vamos
+
+[00:08:23]
+a ver cómo el mercado va formando esa
+
+[00:08:25]
+estructura y ustedes me van a poder ir
+
+[00:08:27]
+haciendo Fall up de lo que est hoy
+
+[00:08:29]
+hablándoles verdad por ejemplo aquí
+
+[00:08:31]
+tenemos el bajo que dejó el precio dejó
+
+[00:08:33]
+este bajo el euro dólar y después de
+
+[00:08:35]
+haber dejado este bajo tuvimos un gran
+
+[00:08:37]
+impulso y un pequeño descanso este
+
+[00:08:40]
+pequeño descanso podía tomarse como
+
+[00:08:42]
+retroceso pero realmente no es un
+
+[00:08:44]
+retroceso si ustedes lo ven es un
+
+[00:08:46]
+pequeño Rango entonces el precio
+
+[00:08:48]
+realmente hizo un impulso hasta acá
+
+[00:08:50]
+entonces este sería nuestro primer
+
+[00:08:53]
+impulso de esta estructura verdad luego
+
+[00:08:56]
+posteriormente el precio hizo un
+
+[00:08:58]
+retroceso ahora sí Sí porque si se vean
+
+[00:09:00]
+notablemente considerablemente el precio
+
+[00:09:03]
+hace un buen retroceso a la baja y esto
+
+[00:09:05]
+sería nuestro retroceso después el
+
+[00:09:08]
+precio en esta estructura que llevamos
+
+[00:09:10]
+hace un nuevo impulso después de hacer
+
+[00:09:13]
+ese nuevo impulso alcanzando de nuevo
+
+[00:09:15]
+ese alto por ejemplo aquí ya podemos
+
+[00:09:18]
+encontrar nuestro bajo nuestro nuevo
+
+[00:09:21]
+alto y nuestro nuevo bajo nuestro nuevo
+
+[00:09:23]
+alto y ahora tendríamos nuestro nuevo
+
+[00:09:25]
+bajo acá que esta es una estructura de
+
+[00:09:28]
+Mercado bellísima o una estructura de
+
+[00:09:30]
+Mercado muy muy simple que ha hecho el
+
+[00:09:32]
+gráfico del eurod dólar la verdad es que
+
+[00:09:34]
+en el en el en el trading lo más
+
+[00:09:37]
+sencillo que podamos hacer los conceptos
+
+[00:09:38]
+es mucho mejor verdad Luego aquí tenemos
+
+[00:09:41]
+un nuevo alto y aquí tenemos un nuevo
+
+[00:09:43]
+bajo eh que hace un nuevo impulso y un
+
+[00:09:45]
+nuevo retroceso un nuevo impulso y un
+
+[00:09:47]
+nuevo retroceso actualmente el precio
+
+[00:09:49]
+que se encuentra haciendo Gustavo Pues
+
+[00:09:51]
+el precio no ha podido hacer un nuevo
+
+[00:09:53]
+alto esto le llamo yo un fallo de la
+
+[00:09:56]
+estructura aquí la estructura de Mercado
+
+[00:09:59]
+me tiene que hacer un nuevo alto verdad
+
+[00:10:01]
+para que siga alcista Qué pasa Gustavo
+
+[00:10:04]
+Entonces si el precio no va hace un
+
+[00:10:05]
+nuevo alto y empieza a caer aquí pueden
+
+[00:10:08]
+pasar dos cosas Una es que el mercado
+
+[00:10:10]
+haga un Rango aquí que se forme una
+
+[00:10:14]
+consolidación o la otra es que el
+
+[00:10:16]
+mercado venga y me rompas esas
+
+[00:10:18]
+estructuras a la baja y posiblemente
+
+[00:10:21]
+después de romper esas estructuras ya el
+
+[00:10:23]
+mercado lo que puede hacer es venir a
+
+[00:10:25]
+tomar este bajo y continuar con su
+
+[00:10:28]
+tendencia o la otra es cambiar de
+
+[00:10:30]
+tendencia verdad siempre son
+
+[00:10:32]
+probabilidades amigos no hay nada cierto
+
+[00:10:35]
+y o o seguro en el mercado Y esta es la
+
+[00:10:38]
+lectura muy básica de una estructura de
+
+[00:10:41]
+Mercado ahorita vamos a pasar al
+
+[00:10:42]
+siguiente tema Bueno chicos Aquí vamos a
+
+[00:10:45]
+usar este mismo gráfico para estudiar
+
+[00:10:48]
+otro concepto que son soportes y
+
+[00:10:50]
+resistencias o pisos y techos Qué son
+
+[00:10:53]
+los soportes y resistencias o pisos y
+
+[00:10:55]
+techos Pues bueno un soporte o una
+
+[00:10:58]
+resistencia es una parte donde el precio
+
+[00:11:00]
+está tocando bastantes veces por ejemplo
+
+[00:11:03]
+el precio viene y toca esta zona viene y
+
+[00:11:05]
+toca de nuevo esta zona viene y toca de
+
+[00:11:07]
+nuevo esta zona esto por ejemplo lo
+
+[00:11:09]
+podríamos conocer como un soporte verdad
+
+[00:11:12]
+la teoría normalmente nos dicen en todos
+
+[00:11:14]
+lados nos enseñan que cuando el precio
+
+[00:11:17]
+venga y toque muchas veces es una área
+
+[00:11:19]
+fuerte para el mercado pero normalmente
+
+[00:11:22]
+nosotros Bueno al menos yo en eh conozco
+
+[00:11:26]
+estas zonas como que entre más el precio
+
+[00:11:29]
+que son zonas que se que se van
+
+[00:11:31]
+debilitando porque ya no hay eh dinero
+
+[00:11:35]
+ya no se encuentra dinero ahí al menos
+
+[00:11:37]
+en la teoría y la resistencia amigos Qué
+
+[00:11:40]
+sería la resistencia pues la resistencia
+
+[00:11:42]
+muy fácil sería lo contrario verad
+
+[00:11:44]
+Aunque algunos dicen que todos son
+
+[00:11:47]
+soportes o todos son resistencias pero
+
+[00:11:49]
+eh Para mí yo lo conozco como
+
+[00:11:51]
+resistencia cuando el precio está arriba
+
+[00:11:54]
+arriba está teniendo una resistencia
+
+[00:11:56]
+aquí que generalmente por ejemplo es
+
+[00:11:58]
+cuando el precio Igualmente toca muchas
+
+[00:12:00]
+veces una zona pero arriba esto sería
+
+[00:12:03]
+una resistencia ejemplos por ejemplo
+
+[00:12:06]
+ejemplos por ejemplo de este gráfico de
+
+[00:12:09]
+de de de gráfico por ejemplo de eurod
+
+[00:12:12]
+dólar podríamos ver una una un soporte
+
+[00:12:16]
+Perdón una resistencia aquí aquí el
+
+[00:12:19]
+precio tocó varias de las veces son
+
+[00:12:21]
+zonas no tiene que ser Exacto como lo
+
+[00:12:23]
+dicen los muchos de los libros pero por
+
+[00:12:26]
+ejemplo aquí toca Una vez otra vez y
+
+[00:12:27]
+otra vez esto por ejemplo podría ser una
+
+[00:12:29]
+resistencia pero si se fijan el precio
+
+[00:12:32]
+finalmente viene y saca esa resistencia
+
+[00:12:35]
+nosotros conocemos que cuando el precio
+
+[00:12:37]
+acumula o toca muchas veces una zona es
+
+[00:12:39]
+que hay mucho dinero ahí y el precio
+
+[00:12:42]
+tiende a sacarlo esa sería una
+
+[00:12:45]
+resistencia por ejemplo y yo les podría
+
+[00:12:48]
+enseñar algún soporte Aunque este no
+
+[00:12:51]
+está tan claro y dices Gustavo no es tan
+
+[00:12:53]
+claro pero esta sí es una área que ha
+
+[00:12:55]
+sido tocada varias veces por ejemplo
+
+[00:12:58]
+aquí tocó una vez aquí tocó y sacó tocó
+
+[00:13:02]
+pero rápidamente con nuestro estudio de
+
+[00:13:04]
+velas podemos ver que rechazó tocó tocó
+
+[00:13:06]
+y esto podríamos considerarlo como un un
+
+[00:13:08]
+soporte verad esto podría considerarlo
+
+[00:13:11]
+como un soporte y vean que el precio
+
+[00:13:13]
+después tiende a sacar ese soporte y acá
+
+[00:13:17]
+por la parte alta también vemos que el
+
+[00:13:19]
+precio toca dos veces y toca aquí varias
+
+[00:13:21]
+veces con estas velas Igualmente
+
+[00:13:24]
+podríamos catalogarlo como una
+
+[00:13:27]
+resistencia para qué principalmente yo
+
+[00:13:29]
+estoy usando los soportes y resistencias
+
+[00:13:32]
+Esto no es una estrategia solo es un
+
+[00:13:33]
+curso de análisis técnico yo lo estoy
+
+[00:13:36]
+utilizando principalmente para ver donde
+
+[00:13:38]
+el precio toca muchas veces y dónde el
+
+[00:13:40]
+precio va a tender a sacar a a reventar
+
+[00:13:44]
+o a sacar esa liquidez de esas zonas o o
+
+[00:13:47]
+a ir por esas zonas de aquí pero muchas
+
+[00:13:50]
+de las veces el precio también no voy a
+
+[00:13:52]
+negar que te va a hac un soporte una
+
+[00:13:54]
+resistencia y lo va a respetar muchas de
+
+[00:13:56]
+las veces pasa pero casi siempre hay
+
+[00:13:59]
+veces que el precio por ejemplo aquí
+
+[00:14:00]
+había tenido ese doble piso ese es un
+
+[00:14:03]
+soporte un dos dos pisos o dos bajos
+
+[00:14:06]
+iguales dos lows iguales aquí y después
+
+[00:14:09]
+el precio saca un poco de liquidez y y
+
+[00:14:11]
+ahí es que se va pero por ejemplo esto
+
+[00:14:14]
+es un soporte Gustavo eso sería un
+
+[00:14:16]
+soporte ahí pero en un en un futuro yo
+
+[00:14:19]
+no tomaría como muy válida esa zona para
+
+[00:14:21]
+poderla analizar porque el precio ha
+
+[00:14:24]
+tocado muchas veces ahí esa zona verdad
+
+[00:14:26]
+el el el precio tiende a a sacar esas
+
+[00:14:29]
+zonas pero Generalmente va va haciendo
+
+[00:14:31]
+sus soportes y resistencias por ejemplo
+
+[00:14:34]
+acá tenemos otro a la alza que
+
+[00:14:36]
+tendríamos una resistencia un triple en
+
+[00:14:39]
+este caso un toque otro toque un triple
+
+[00:14:41]
+toque aquí Y fíjense como aquí el precio
+
+[00:14:43]
+toma la liquidez o saca esa área o
+
+[00:14:46]
+revienta o hace un falso rompimiento
+
+[00:14:48]
+verdad eso lo llamamos nosotros un falso
+
+[00:14:50]
+rompimiento y para eso estamos
+
+[00:14:52]
+utilizando muy básicamente lo que son
+
+[00:14:54]
+nuestros soportes y resistencia bueno
+
+[00:14:57]
+bueno chicos aquí estamos eh de nuevo en
+
+[00:14:59]
+nuestro queridísimo gráfico del eurod
+
+[00:15:01]
+dólar y vamos a ver lo que son los
+
+[00:15:03]
+indicadores un poquito de de de Para qué
+
+[00:15:07]
+nos pueden llegar a servir Los
+
+[00:15:08]
+indicadores Cómo podamos emplearlos son
+
+[00:15:11]
+buenos son malos etcétera etcétera yo en
+
+[00:15:13]
+el canal les estaré subiendo más
+
+[00:15:15]
+información sobre indicadores para que
+
+[00:15:17]
+estén suscritos ahí al Canal y y no se
+
+[00:15:20]
+pierdan la información pero ahorita les
+
+[00:15:22]
+voy a dar como un breve análisis de lo
+
+[00:15:25]
+que son los indicadores Los indicadores
+
+[00:15:27]
+primera recomendación que yo les puedo
+
+[00:15:28]
+dar en base a mi experiencia es que no
+
+[00:15:30]
+los utilicen si no te ayudan si
+
+[00:15:33]
+realmente esos indicadores te están
+
+[00:15:35]
+confundiendo No te ayudan para nada Yo
+
+[00:15:37]
+te recomiendo que no estés utilizando un
+
+[00:15:39]
+indicador te recomiendo que pases de los
+
+[00:15:42]
+indicadores y realmente el indicador no
+
+[00:15:44]
+te va a ayudar pero hay muchísimos tipos
+
+[00:15:46]
+de indicadores los más frecuentes o los
+
+[00:15:49]
+que yo suelo más utilizar aquí hay
+
+[00:15:51]
+muchísimos son los eh indicadores como
+
+[00:15:54]
+tipo rci o como tipo osciladores
+
+[00:15:59]
+adores como rci estocástico
+
+[00:16:02]
+eh el macd por ejemplo ya si tú te vas
+
+[00:16:06]
+aquí a la sección de indicadores tú
+
+[00:16:08]
+puedes poner muchísimos y los más los
+
+[00:16:11]
+más este este frecuentes o los más este
+
+[00:16:16]
+populares son las medias móviles
+
+[00:16:17]
+exponenciales o o simples y los
+
+[00:16:20]
+osciladores es los que más suelen eh
+
+[00:16:23]
+utilizarse Y yo te recomiendo que que si
+
+[00:16:25]
+tú quieres utilizar un indicador lo
+
+[00:16:27]
+puedas hacer la verdad es que totalmente
+
+[00:16:29]
+válido pero que te ayude a confirmar
+
+[00:16:31]
+solamente o te o te dé una mejor visión
+
+[00:16:33]
+del precio
+
+[00:16:35]
+eh este si si puedes no utilizar
+
+[00:16:38]
+indicadores es mejor pero Hay muchísimas
+
+[00:16:40]
+estrategias que yo posteriormente te
+
+[00:16:43]
+estaré subiendo videos sobre estrategias
+
+[00:16:45]
+para que utilizan indicadores y no son
+
+[00:16:47]
+malos Los indicadores la verdad es que
+
+[00:16:49]
+los indicadores pueden llegar a servir
+
+[00:16:51]
+hasta cierto punto pero este siempre hay
+
+[00:16:54]
+que entender el indicador qué es lo que
+
+[00:16:56]
+hace Y a partir de ahí este podemos
+
+[00:16:59]
+usarlo yo te voy a poner un ejemplo
+
+[00:17:01]
+ejemplos muy simples para que tú por
+
+[00:17:05]
+ejemplo para que tú tengas una mejor
+
+[00:17:07]
+idea pero cada cada en el canal se van a
+
+[00:17:11]
+ver más
+
+[00:17:12]
+videos concretamente de indicadores por
+
+[00:17:15]
+ejemplo Aquí vamos a poner una media
+
+[00:17:16]
+móvil exponencial que esta media media
+
+[00:17:19]
+móvil exponencial te da el promedio
+
+[00:17:22]
+móvil Ahora sí el promedio de nueve
+
+[00:17:25]
+velas de 10 velas de lo que tú le pongas
+
+[00:17:27]
+normalmente mis grficos los que llevan
+
+[00:17:30]
+tiempo siguiéndome van a ver que yo
+
+[00:17:31]
+suelo utilizar una media de 55 periodos
+
+[00:17:34]
+que son las últimas 55 velas para atrás
+
+[00:17:37]
+el precio te va a estar diciendo por
+
+[00:17:39]
+dónde estuvo moviéndose por encima o por
+
+[00:17:41]
+debajo por ejemplo el precio aquí se
+
+[00:17:44]
+estuvo moviendo por encima en las
+
+[00:17:46]
+últimas 55 velas la media móvil se
+
+[00:17:49]
+encuentra por debajo y el precio se se
+
+[00:17:51]
+suele o se está moviendo por encima y ya
+
+[00:17:54]
+en estas medias móviles pues Hay
+
+[00:17:56]
+muchísimas cosas que acotar no Cómo
+
+[00:17:59]
+podrían emplearse una estrategia o en
+
+[00:18:01]
+otra pero la verdad es que en próximos
+
+[00:18:04]
+videos yo te estaré trayendo videos eh
+
+[00:18:07]
+solamente específicos de indicadores
+
+[00:18:09]
+Okay aquí solamente quería ver la
+
+[00:18:11]
+cuestión de indicadores para explicarte
+
+[00:18:13]
+que existen y que no son malos y que si
+
+[00:18:17]
+te ayudan a confluir mejor una
+
+[00:18:19]
+estrategia puedes llegar a usarlos por
+
+[00:18:21]
+ejemplo aquí muchos osciladores el
+
+[00:18:23]
+oscilador de volumen por ejemplo están
+
+[00:18:25]
+los volumen eh de tendencia de muchos de
+
+[00:18:30]
+El más popular es el mcd por ejemplo el
+
+[00:18:33]
+mcd y yo el que suele por ejemplo te voy
+
+[00:18:37]
+a poner el ejemplo del que yo suelo
+
+[00:18:38]
+utilizar que es el sque momentum que a
+
+[00:18:42]
+la mejor vas a decir ese indicador Está
+
+[00:18:43]
+bien raro Gustavo pero este yo soy el
+
+[00:18:46]
+que suele utilizar y es un oscilador si
+
+[00:18:49]
+te fijas Igualmente haciendo el Fall up
+
+[00:18:51]
+de nuestra estructura el precio nos da
+
+[00:18:53]
+aquí un bajo y luego nos da un alto y
+
+[00:18:55]
+fíjate como el vallecito se va girando a
+
+[00:18:58]
+la al y nos va diciendo que el precio
+
+[00:19:00]
+está entrando en un momento un alcista y
+
+[00:19:03]
+aquí el vallecito se va girando a la
+
+[00:19:04]
+baja y nos va diciendo que el precio
+
+[00:19:06]
+está eh probablemente entrando en un
+
+[00:19:08]
+movimiento bajista y solamente nos
+
+[00:19:11]
+sirven para para confluencias por
+
+[00:19:13]
+ejemplo a partir de aquí el precio nos
+
+[00:19:15]
+está diciendo que el precio está
+
+[00:19:16]
+entrando en un nuevo momento bajista y
+
+[00:19:19]
+es un esto es un oscilador oscila a
+
+[00:19:21]
+través del precio Antes que nada también
+
+[00:19:23]
+recalcar que todos los indicadores van
+
+[00:19:25]
+retrasados a lo que realmente el precio
+
+[00:19:27]
+hace realmente la estructura de Mercado
+
+[00:19:30]
+y la acción de precio son mucho mejor
+
+[00:19:32]
+que cualquier indicador Pero bueno en el
+
+[00:19:35]
+canal van a tener videos detallados les
+
+[00:19:37]
+prometo que van a tener videos
+
+[00:19:38]
+detallados de muchísimos indicadores de
+
+[00:19:41]
+hecho en la si alguien está escuchando
+
+[00:19:43]
+llegó hasta aquí en la parte de este
+
+[00:19:44]
+video Déjenme en los comentarios qué
+
+[00:19:47]
+indicador quieres que en un futuro
+
+[00:19:48]
+traiga o analice pueden ver un primer
+
+[00:19:52]
+eh imagen de lo que son patrones de
+
+[00:19:54]
+velas la verdad bastante sencillos
+
+[00:19:57]
+funcionan o no funcionan los patrones de
+
+[00:19:59]
+velas Claro que sí funcionan amigos y yo
+
+[00:20:01]
+Considero que pueden ustedes emplearlos
+
+[00:20:04]
+y estudiarlos es bueno estudiarlos Ahí
+
+[00:20:06]
+en internet muchísimos pdfs y libros y
+
+[00:20:09]
+Estos son como por ejemplo el martillo
+
+[00:20:12]
+son patrones de velas bastante sencillos
+
+[00:20:14]
+que nos pueden mantener una operativa
+
+[00:20:16]
+limpia Lo importante es que ustedes los
+
+[00:20:18]
+conozcan y que si pueden estar empleados
+
+[00:20:21]
+en una estrategia puedan llegar a
+
+[00:20:23]
+funcionar les la verdad que en mi caso
+
+[00:20:26]
+yo no utilizo ningún patrón de Vela así
+
+[00:20:28]
+en específico pero sí me gusta
+
+[00:20:29]
+observarlos para conocer mejor la acción
+
+[00:20:33]
+de precio por ejemplo aquí tenemos un
+
+[00:20:35]
+martillo invertido que son dos velitas
+
+[00:20:37]
+luego esta vela tipo tipo rechazo arriba
+
+[00:20:41]
+que es un martillo invertido y luego
+
+[00:20:43]
+tenemos una dogy verad esto es una vela
+
+[00:20:46]
+dogy un trompo alcista que es una vela
+
+[00:20:48]
+indecision para mí Igualmente el hombre
+
+[00:20:51]
+colgado o o martillo invertido la
+
+[00:20:54]
+estrella fugaz y doggy lápida trompo
+
+[00:20:57]
+bajista también y Estos son patrones de
+
+[00:21:00]
+velas muy sencillos la verdad es que hay
+
+[00:21:02]
+muchísimos si ustedes Ven aquí por
+
+[00:21:04]
+ejemplo en internet van a ver muchísimos
+
+[00:21:06]
+pero yo ahorita les voy a decir la a la
+
+[00:21:09]
+práctica cómo nosotros podemos
+
+[00:21:11]
+emplearlos de una manera mejor para que
+
+[00:21:14]
+ustedes los entiendan más fácil verdad
+
+[00:21:16]
+por ejemplo Cuando hacemos acá abajo un
+
+[00:21:18]
+mínimo vean que formamos
+
+[00:21:22]
+este esto es acción de precio pura
+
+[00:21:25]
+amigos y vayan un poquito siguiendo
+
+[00:21:27]
+formamos esta vela bajista donde después
+
+[00:21:30]
+de esa vela bajista poderosa grande
+
+[00:21:34]
+tenemos una vela alcista que que que
+
+[00:21:38]
+esta vela
+
+[00:21:39]
+eh Abre por encima del mínimo de la vela
+
+[00:21:43]
+anterior y cierra por la parte de medio
+
+[00:21:47]
+verdad o entonces después posteriormente
+
+[00:21:50]
+vemos que el precio va romper con esta
+
+[00:21:53]
+vela fuerte y aquí podremos tener una
+
+[00:21:55]
+característica de las velas japonesas es
+
+[00:21:58]
+una vela envolvente fuerte que
+
+[00:22:01]
+posteriormente después el precio tiene
+
+[00:22:03]
+un descanso fíjense que aquí tenemos una
+
+[00:22:06]
+vela de indecisión una vela bajista pero
+
+[00:22:08]
+muy pequeña y aquí Tenemos también una
+
+[00:22:11]
+vela doggy de indecisión dos velas de
+
+[00:22:13]
+indecisión que después lo que hacen en
+
+[00:22:16]
+el precio es hacer un rompimiento un
+
+[00:22:20]
+breakout hacen un breakout y después
+
+[00:22:23]
+continuamos a la alza esa tendencia
+
+[00:22:26]
+alcista haciendo de nuevo una vela
+
+[00:22:28]
+envolvente verdad después de que el
+
+[00:22:31]
+precio llegue a la parte alta el precio
+
+[00:22:34]
+en esta Mecha tenía una zona importante
+
+[00:22:37]
+verdad porque es donde el precio había
+
+[00:22:40]
+anteriormente rechazado ahí y nos forma
+
+[00:22:43]
+una vela nueva indecision verdad tiene
+
+[00:22:47]
+esta vela nueva indecision aquí que el
+
+[00:22:50]
+precio después intenta ir a la alza y
+
+[00:22:52]
+después forma una nueva vela bajista que
+
+[00:22:56]
+posteriormente el precio forma una
+
+[00:22:58]
+cambio de tendencia para venir ahora de
+
+[00:23:02]
+nuevo a esta nueva zona donde el precio
+
+[00:23:05]
+había hecho su consolidación Y obtener
+
+[00:23:09]
+un rechazo fuerte con esta Mecha Y
+
+[00:23:12]
+obtener un nuevo impulso con una vela
+
+[00:23:14]
+nueva envolvente verdad fíjense que
+
+[00:23:16]
+también aquí se da un poquito de
+
+[00:23:18]
+reversión en el precio con este martillo
+
+[00:23:20]
+podríamos decir o una vela de reversión
+
+[00:23:23]
+fíjense cómo forma el precio aquí un
+
+[00:23:25]
+rechazo en esta vela de reversión
+
+[00:23:27]
+después de recibir un retroceso a lo que
+
+[00:23:30]
+trato de decirles amigos que aquí los
+
+[00:23:33]
+patrones de velas y las velas en general
+
+[00:23:36]
+las vamos a combinar con nuestra
+
+[00:23:38]
+estructura de mercado para ir viendo
+
+[00:23:41]
+cómo el precio está rechazando zonas
+
+[00:23:42]
+importantes y como el precio está
+
+[00:23:45]
+moviéndose de esa manera y también para
+
+[00:23:48]
+ver dónde el precio tiene zonas
+
+[00:23:50]
+importantes dónde el precio en el pasado
+
+[00:23:52]
+estuvo rechazando y donde en el precio
+
+[00:23:55]
+en el futuro va a tener un rechazo por
+
+[00:23:58]
+ejemplo el precio tiene aquí una Mecha
+
+[00:24:01]
+que tuvo un terrible rechazo y fíjense
+
+[00:24:03]
+que a partir de ahí se da un retroceso
+
+[00:24:05]
+después el precio tiene una
+
+[00:24:07]
+consolidación aquí en la parte de abajo
+
+[00:24:09]
+y fíjense como tenemos un nuevo rechazo
+
+[00:24:11]
+acá después el precio Qué hace tener de
+
+[00:24:15]
+nuevo un rechazo aquí en esta
+
+[00:24:16]
+resistencia y hacer un pequeño descanso
+
+[00:24:19]
+pero ya El precio ya no logra bajar tan
+
+[00:24:22]
+alto porque viene al 50% de esta vela
+
+[00:24:25]
+envolvente fuerte y hace un rompimiento
+
+[00:24:29]
+de acá hace un nuevo rompimiento
+
+[00:24:31]
+consiguiendo sacar este High que tenía
+
+[00:24:33]
+por la parte de ahí alta y consiguiendo
+
+[00:24:36]
+sacar posteriormente el nuevo High o el
+
+[00:24:40]
+nuevo alto verdad lo vamos a ver más
+
+[00:24:43]
+fácil este alto y este alto con estas
+
+[00:24:47]
+dos velas envolventes de continuación el
+
+[00:24:49]
+precio rechaza de nuevo un área
+
+[00:24:51]
+importante y obtiene su retroceso verdad
+
+[00:24:55]
+rechazamos fíjense como aquí estamos
+
+[00:24:57]
+rechazando con dos velas para
+
+[00:24:59]
+posteriormente haciendo un breakout y
+
+[00:25:01]
+continuar a la alza verdad acá me siguen
+
+[00:25:04]
+rechazamos rechazamos hacemos un
+
+[00:25:06]
+breakout aquí y continuamos nuestra
+
+[00:25:09]
+tendencia alcista eso es lo que es la
+
+[00:25:11]
+acción de precio y un poquito de
+
+[00:25:14]
+patrones de velas verdad de nuevo
+
+[00:25:16]
+rechazar de nuevo rechazar en la parte
+
+[00:25:18]
+de abajo vela envolvente que confirma
+
+[00:25:21]
+que posiblemente que una reversión en la
+
+[00:25:23]
+tendencia pero finalmente el precio se
+
+[00:25:25]
+agarra siendo un Rango para tener tres
+
+[00:25:27]
+velas de continu inación alcistas y un
+
+[00:25:29]
+nuevo retroceso entonces es importante
+
+[00:25:32]
+combinar nuestra acción de precio con
+
+[00:25:34]
+nuestras velas japonesas y para puedes
+
+[00:25:38]
+tú estudiar algunos patrones de velas Y
+
+[00:25:41]
+a partir de los patrones de velas tú
+
+[00:25:43]
+obtener
+
+[00:25:44]
+eh una mejor dirección de lo que el
+
+[00:25:47]
+precio está haciendo
+```

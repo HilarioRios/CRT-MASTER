@@ -1,0 +1,1720 @@
+---
+source_id: YT_CANAL_02_7cmUHoUkqeg
+video_id: 7cmUHoUkqeg
+channel: "Gustavom.Trader"
+published_at: 2022-09-01
+url: https://www.youtube.com/watch?v=7cmUHoUkqeg
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 15
+tags: [youtube, Gustavom-Trader, year/2022, status/synced]
+---
+
+# TRADING VIEW [AVANZADO] GUÍA COMPLETA PART 2 l SHARP SHOOTERS
+
+[[Gustavom.Trader]] · [[2022]] · [Ver en YouTube](https://www.youtube.com/watch?v=7cmUHoUkqeg)
+
+## Transcript
+
+```
+[00:00:00]
+[Música]
+
+[00:00:05]
+know how to go and europe porque uno
+
+[00:00:10]
+tiene varias pestañas acá también
+
+[00:00:12]
+obviamente pero a mí es como más
+
+[00:00:14]
+versátil más interesante ahora sigamos
+
+[00:00:18]
+acá donde está el símbolo vamos a ver
+
+[00:00:21]
+una serie de símbolos
+
+[00:00:25]
+acá están todos que son todos los
+
+[00:00:27]
+símbolos que tienen
+
+[00:00:29]
+rating view pero digamos tú puedes
+
+[00:00:32]
+filtrar por acciones
+
+[00:00:33]
+este es la
+
+[00:00:36]
+envidia
+
+[00:00:37]
+de amazon sean todas las acciones pues
+
+[00:00:41]
+filtramos por futuros serían todos los
+
+[00:00:43]
+duros
+
+[00:00:46]
+para filtrar por forex todos los pares
+
+[00:00:50]
+de forex cripto puedes entrar porque
+
+[00:00:52]
+escritos a calado que aparecen digamos
+
+[00:00:55]
+los brokers uex singers que sea la
+
+[00:01:00]
+gráfica que te da el broker a ti donde
+
+[00:01:02]
+tú puedes operar
+
+[00:01:04]
+acá en este caso es best buy and it's
+
+[00:01:07]
+time coin veis así en forex también
+
+[00:01:12]
+aparece el re 15 efe sm o anda por ahí
+
+[00:01:17]
+debe estar también
+
+[00:01:19]
+forex.com
+
+[00:01:21]
+hay varios que pueden sacar por ejemplo
+
+[00:01:24]
+euro
+
+[00:01:26]
+usb te aparecen todos los usb con sus
+
+[00:01:31]
+brokers pero acá en el anterior no
+
+[00:01:34]
+aparecía peppers ton pero ahora si
+
+[00:01:35]
+aparecen están entrando solamente por
+
+[00:01:37]
+nombre tenemos manda peppers ton capital
+
+[00:01:40]
+global prime y si markets
+
+[00:01:45]
+save demasiado demasiado si sigues ahí
+
+[00:01:46]
+lo que esto ellos
+
+[00:01:48]
+escrito es igual acá tenemos índices
+
+[00:01:52]
+vemos los bonos
+
+[00:01:55]
+tengo la economía aunque esto
+
+[00:01:58]
+está filtrando
+
+[00:02:02]
+acá tenemos de p 500
+
+[00:02:05]
+y el nasdaq
+
+[00:02:07]
+están todos los índices económicos
+
+[00:02:10]
+buenos ahora si me aparecen porque usted
+
+[00:02:12]
+lo está filtrando
+
+[00:02:15]
+un montón de cosillas aquí acá donde
+
+[00:02:17]
+ustedes eligen los símbolos digamos
+
+[00:02:20]
+vamos a cripto quiero agregar el
+
+[00:02:23]
+interior
+
+[00:02:24]
+mirad mirad en esta sección la canoa
+
+[00:02:28]
+parece tener yo les quiero agregar el
+
+[00:02:30]
+interior de
+
+[00:02:31]
+éste
+
+[00:02:33]
+y aquí me parece termina aquí abajo se
+
+[00:02:35]
+lo quitó
+
+[00:02:42]
+y le clic encima y me apareció todo
+
+[00:02:44]
+apareció en todo tobillo
+
+[00:02:48]
+entonces nos vamos para atrás
+
+[00:02:52]
+por eso no lo que me interesa
+
+[00:02:55]
+y bueno
+
+[00:02:58]
+ahora
+
+[00:03:00]
+tenemos acá las temporalidades como la
+
+[00:03:02]
+temporalidad minutos tres minutos cinco
+
+[00:03:05]
+minutos quince minutos una hora cuatro
+
+[00:03:08]
+horas están muchas temporalidades y acá
+
+[00:03:12]
+donde ustedes eligen la temporalidad que
+
+[00:03:14]
+les gusta si le damos acá podemos ver
+
+[00:03:16]
+más temporalidad de segundos
+
+[00:03:18]
+esto es para alto el recibió más premium
+
+[00:03:21]
+diesel premium perdón normalito hay otro
+
+[00:03:24]
+más premium porque pueden ver todo esto
+
+[00:03:26]
+puedes tener más indicadores puedes
+
+[00:03:28]
+tener más alertas cosas y acá tienes
+
+[00:03:32]
+todos minutos horas días
+
+[00:03:35]
+rangos de tiempo en las estrellas es
+
+[00:03:38]
+para poner favoritos o sea que en esta
+
+[00:03:40]
+barra te aparezca si borró acá esto
+
+[00:03:42]
+hicieron desapareció en 10 minutos si lo
+
+[00:03:45]
+pongo apareció en el minuto acá el tipo
+
+[00:03:48]
+de barras
+
+[00:03:50]
+este tipo de velas si quieres
+
+[00:03:52]
+que sean velas pues si quieres que sean
+
+[00:03:55]
+este
+
+[00:03:58]
+huecas barras columnas
+
+[00:04:03]
+líneas
+
+[00:04:05]
+áreas
+
+[00:04:08]
+pekín así
+
+[00:04:11]
+aquí es donde eliges qué tipos de ebooks
+
+[00:04:14]
+o velas
+
+[00:04:15]
+bien
+
+[00:04:19]
+bueno y ya que vimos el tipo de barras
+
+[00:04:22]
+pueden ser muchas barras depende de
+
+[00:04:26]
+barra no de cómo quieres te de graphic
+
+[00:04:28]
+en las de los precios y ya depende de
+
+[00:04:32]
+cómo te guste o cómo manejas acá estamos
+
+[00:04:34]
+la sección indicadores le damos clic
+
+[00:04:37]
+encima nos muestra los indicadores que
+
+[00:04:39]
+nosotros tenemos
+
+[00:04:41]
+guardados como favoritos
+
+[00:04:44]
+script yo lo tengo escrito
+
+[00:04:46]
+lo
+
+[00:04:48]
+tenemos acá varios indicadores técnicos
+
+[00:04:51]
+de la comunidad y si venimos a esta
+
+[00:04:54]
+barra podemos elegir los indicadores
+
+[00:04:57]
+nosotros por ejemplo quiere volver uno
+
+[00:05:00]
+de
+
+[00:05:01]
+de horario
+
+[00:05:04]
+no aparece
+
+[00:05:07]
+ok si lo ves a que aparecen varios casi
+
+[00:05:10]
+todos están en inglés así que hay que
+
+[00:05:13]
+tenerlo en cuenta
+
+[00:05:15]
+entonces si damos a clark acá nos
+
+[00:05:17]
+aparecen luego nuestros favoritos vamos
+
+[00:05:20]
+a favoritos y lo vamos a ver
+
+[00:05:21]
+cuando estáis donde está y mirar aquí
+
+[00:05:25]
+damos clic encima y yo tengo más
+
+[00:05:29]
+indicadores luego acá voy a borrar
+
+[00:05:32]
+alguno
+
+[00:05:35]
+corro este
+
+[00:05:37]
+e indicadores
+
+[00:05:40]
+voy a este y si vieron nos aparecieron
+
+[00:05:43]
+más líneas
+
+[00:05:45]
+entonces acá tenemos es en calor no sé
+
+[00:05:48]
+qué hace tendría que ver qué haces pero
+
+[00:05:50]
+la idea esto es que sepamos si quieres
+
+[00:05:53]
+apagar lo hacen el ojito y lo cierras lo
+
+[00:05:56]
+enciendes lo pagan el dinero apagando y
+
+[00:05:58]
+aquí lo eliminas o los indicadores y
+
+[00:06:01]
+pero no desordenar este punto quito acá
+
+[00:06:04]
+en esta sección te aparece quien lo hizo
+
+[00:06:07]
+el script y acá la cantidad de personas
+
+[00:06:10]
+que usaron este indicador obviamente uno
+
+[00:06:13]
+dice o no que entre más personas lo
+
+[00:06:15]
+hayan usado quiere decir que les hace
+
+[00:06:17]
+ruido si puede ser una buena razón
+
+[00:06:20]
+también indicadores privados que alguien
+
+[00:06:23]
+hace que sólo cierta cantidad de
+
+[00:06:25]
+personas pueden usar
+
+[00:06:27]
+así que es bueno saber eso
+
+[00:06:34]
+money money miralo acá el ejemplo que
+
+[00:06:38]
+les digo acá está bloqueado si desea
+
+[00:06:41]
+obtener más información pues en contacto
+
+[00:06:43]
+con el autor entonces no lo podemos
+
+[00:06:45]
+elegir si el indicador no se puede
+
+[00:06:47]
+elegir porque está bloqueado por la
+
+[00:06:49]
+persona
+
+[00:06:51]
+está bloqueado por la persona
+
+[00:06:53]
+ahora seguimos
+
+[00:06:56]
+esta es una plantilla de indicadores
+
+[00:06:58]
+plantillas que tú puedes tener
+
+[00:07:02]
+y qué
+
+[00:07:04]
+este tu luego vas a usar
+
+[00:07:07]
+es como si tú guardara la línea y luego
+
+[00:07:10]
+cuando las guardas que hay guardada y
+
+[00:07:13]
+luego tú los usar como ejemplo que puse
+
+[00:07:15]
+ahorita que como se prueba eso es lo
+
+[00:07:16]
+mismo
+
+[00:07:17]
+esto es cuando hacía trading soy de
+
+[00:07:20]
+normal
+
+[00:07:22]
+jaime área
+
+[00:07:25]
+acá hay otros que otros indicadores
+
+[00:07:27]
+predeterminados ya que guardan la
+
+[00:07:30]
+plantilla de indicadores
+
+[00:07:34]
+pero no nunca lo había borrado
+
+[00:07:37]
+bueno seguimos acá en alertas que puedes
+
+[00:07:41]
+poner alertas de varias formas puedes
+
+[00:07:43]
+darle clic aquí acá escribe el valor del
+
+[00:07:47]
+plazo de vencimiento si quieres que cruz
+
+[00:07:49]
+y todo es como lo expliqué previamente
+
+[00:07:50]
+la condición
+
+[00:07:53]
+y bueno pues esa es una de las formas
+
+[00:07:55]
+las crear donde está el precio quiero
+
+[00:07:58]
+crear una alerta en tres dedos 63 13 2
+
+[00:08:06]
+2263 le hacen crear
+
+[00:08:10]
+y si ves
+
+[00:08:14]
+dios
+
+[00:08:19]
+si vieron la alerta eso es hacer la
+
+[00:08:21]
+alerta te aparece una línea naranja otra
+
+[00:08:23]
+opción puede ser darle clic derecho
+
+[00:08:26]
+añadir alerta y te le añade justo donde
+
+[00:08:30]
+twisted clics vinieron por ejemplo
+
+[00:08:32]
+quiero que esté justo donde está la
+
+[00:08:34]
+línea de bien
+
+[00:08:35]
+el precio damos clic acá y le damos en
+
+[00:08:39]
+añadir alerta y ahí te da igual una loca
+
+[00:08:42]
+pero añadió justo donde tú lo has puesto
+
+[00:08:45]
+y ya es para añadir alertas repetición
+
+[00:08:49]
+repeticiones cuando tienes trading vip
+
+[00:08:51]
+premium digamos cuando tú quieres hacer
+
+[00:08:54]
+backtesting vamos a ir al diario que
+
+[00:08:57]
+quiera ser backtesting de quiero que me
+
+[00:08:59]
+backtesting empieza el 22 de noviembre
+
+[00:09:01]
+del 21 estudiar le hacen repetición
+
+[00:09:04]
+vamos al 21 de noviembre el 21 y
+
+[00:09:07]
+pusieron recortó todo lo que tenía
+
+[00:09:09]
+enfrente y lo puso acá atrás pues tú
+
+[00:09:12]
+puedes empezar a hacer tu análisis
+
+[00:09:14]
+tienes a con bloque orden esta
+
+[00:09:16]
+moderación canal 2 y le empiezas a play
+
+[00:09:18]
+acá place que la gráfica vaya dando eso
+
+[00:09:21]
+está la velocidad que quiere es que sólo
+
+[00:09:23]
+de la cia más lenta
+
+[00:09:25]
+más al más rápida
+
+[00:09:29]
+tele hablando play a perder display de
+
+[00:09:32]
+aquí mira
+
+[00:09:34]
+y hasta la velocidad acaba en la
+
+[00:09:36]
+velocidad le disminuyó la velocidad
+
+[00:09:37]
+vieron se disminuyó bastante
+
+[00:09:42]
+la frecuencia con la que sale si el
+
+[00:09:44]
+aumento vuelve hace directos en sus
+
+[00:09:46]
+recursos a los paus o esté aquí es para
+
+[00:09:50]
+mover de la vela a una vela de la vela
+
+[00:09:54]
+ha aparecido las cosas y este escribano
+
+[00:09:59]
+sabe no quiere retroceder lo otra vez
+
+[00:10:02]
+pelea y usted lo corta nuevamente donde
+
+[00:10:05]
+estaba y este es para volver al tiempo
+
+[00:10:09]
+actual
+
+[00:10:11]
+y vuelves y retro retroceso y la equis
+
+[00:10:15]
+es para cerrar este modo de producción
+
+[00:10:17]
+de barras
+
+[00:10:20]
+aquí esta opción es para seleccionar el
+
+[00:10:23]
+diseño cómo quieres que se vea esto si
+
+[00:10:25]
+quieres que sean dos
+
+[00:10:28]
+bueno si en otra tengo nada y bitcoin
+
+[00:10:32]
+si quiere que se vea así
+
+[00:10:35]
+o si quieren que se vea
+
+[00:10:37]
+creo que es para prince y
+
+[00:10:40]
+a la pantalla más grande y fuera de eso
+
+[00:10:43]
+tengo que estar en más premium
+
+[00:10:45]
+bueno yo sigo en el que estaba siempre
+
+[00:10:48]
+acá tu puedes elegir guard acá uno
+
+[00:10:53]
+guarda el diseño obviamente pero acá tú
+
+[00:10:55]
+puedes elegir renombrar el diseño donde
+
+[00:10:58]
+estoy compartirlo hacer una copia
+
+[00:11:01]
+exportar datos y la otra información
+
+[00:11:04]
+útil crear un nuevo diseño carga de
+
+[00:11:09]
+diseño agarrar diseño es que cargan los
+
+[00:11:11]
+diseños que tú guardas por default
+
+[00:11:13]
+ahorita te muestro aquí como los guardas
+
+[00:11:17]
+y estas son otras opciones varias acá
+
+[00:11:19]
+cómo quieres tú cambiar la configuración
+
+[00:11:21]
+de los gráficos los símbolos por ejemplo
+
+[00:11:24]
+ustedes ven que yo tengo los símbolos
+
+[00:11:25]
+negros y grises y todos los quieres
+
+[00:11:27]
+verdes verdes y
+
+[00:11:29]
+rojos entonces tú pones el cuerpo el
+
+[00:11:34]
+gris con para mi dispositivo lo pone en
+
+[00:11:36]
+verde si lo vieron que cambió a verde
+
+[00:11:39]
+para obtener un verde más claro porque
+
+[00:11:40]
+si no te y esto lo vamos a poner rojo
+
+[00:11:43]
+ese es el cuerpo
+
+[00:11:46]
+es el cuerpo
+
+[00:11:49]
+no lo voy a alterar
+
+[00:11:53]
+y este es los bordes los bordes
+
+[00:11:56]
+del borde
+
+[00:11:59]
+es el borde
+
+[00:12:01]
+y esta es la mecha para la mecha
+
+[00:12:04]
+quiero que sólo las mechas se volvieron
+
+[00:12:06]
+rojas es eso
+
+[00:12:08]
+tres cuerpos borde mecha hay que cambiar
+
+[00:12:11]
+los tres si tú quieres que se vea así
+
+[00:12:13]
+pues todo simétrico y proporcional
+
+[00:12:18]
+hasta la zona horaria tu zona horaria
+
+[00:12:20]
+misionera en bogotá así que es un
+
+[00:12:23]
+horario
+
+[00:12:24]
+a las apariencias
+
+[00:12:26]
+si quieres que se vea un poquito más
+
+[00:12:29]
+oscuro y claro todo eso se hace aquí
+
+[00:12:33]
+acá tienes otras cosas que puedes mover
+
+[00:12:36]
+si quieres qué
+
+[00:12:37]
+[Música]
+
+[00:12:39]
+te parezca un hi loprais es la etiqueta
+
+[00:12:43]
+de sólo luego así lo más simple posible
+
+[00:12:46]
+para que no me afecte mucho la vista
+
+[00:12:49]
+si quieres el pnv y el pse a él
+
+[00:12:54]
+en realidad al jugar el sprint es el
+
+[00:12:58]
+broker acá los bienes
+
+[00:13:00]
+pero no lo uso y tampoco la apariencia
+
+[00:13:03]
+de apariencia la retícula de la retícula
+
+[00:13:07]
+y sea blanca
+
+[00:13:11]
+la pongo siempre casi siempre pongo en
+
+[00:13:13]
+todo eso sí claro
+
+[00:13:16]
+ya que los margen de marca de agua
+
+[00:13:18]
+evitando y cambiando
+
+[00:13:21]
+igual tú puedes ir por ejemplo unidades
+
+[00:13:23]
+y líneas horizontales
+
+[00:13:27]
+este va a poner líneas verticales
+
+[00:13:29]
+si lo van viendo ustedes pueden ir a ir
+
+[00:13:32]
+mirando cómo manejar esto el fondo
+
+[00:13:35]
+quieren negro
+
+[00:13:38]
+y si lo quieren negro totalmente
+
+[00:13:41]
+acá como tengo negro y blanco entender
+
+[00:13:43]
+con el apartado
+
+[00:13:45]
+corte arriba
+
+[00:13:47]
+esto es para los que les gusta operar
+
+[00:13:49]
+así con fondo fue el negro que
+
+[00:13:50]
+obviamente ayuda más a la vista
+
+[00:13:53]
+me gusta púrpura azul azul y negro es
+
+[00:13:57]
+muy versátil hay muchas cosas cambiar yo
+
+[00:13:59]
+les sugiero que utilicen fondos blancos
+
+[00:14:01]
+porque te permite así ver mejor la
+
+[00:14:04]
+estructura del mercado los movimientos
+
+[00:14:06]
+donde liquide es donde está estación más
+
+[00:14:08]
+figuras cosas así porque cuando el negro
+
+[00:14:11]
+más las velas que se va perdiendo mucho
+
+[00:14:13]
+esa agilidad para declarar los
+
+[00:14:15]
+movimientos del mercado y no te ayuda
+
+[00:14:16]
+tanto a ser muy rápido pues porque es
+
+[00:14:20]
+todo esto ayuda bastante ser rápido del
+
+[00:14:21]
+sueño entonces aquí vas a ver capturar
+
+[00:14:25]
+una imagen de lo que se tiene es como un
+
+[00:14:26]
+screenshot
+
+[00:14:28]
+es publicar publicar ideas si tú quieres
+
+[00:14:32]
+digamos guardar ese análisis
+
+[00:14:34]
+ponerle un título no sé análisis
+
+[00:14:39]
+[Música]
+
+[00:14:41]
+y proyección
+
+[00:14:44]
+te lo pones a capón esa con la
+
+[00:14:46]
+descripción
+
+[00:14:47]
+[Música]
+
+[00:14:49]
+acabas elegir el tipo de análisis
+
+[00:14:51]
+tutorial si es análisis luego rellenas
+
+[00:14:54]
+todo y publica la idea y luego a futuro
+
+[00:14:56]
+este puedes verlas las proyecciones si
+
+[00:15:00]
+se ha dado si no sean claramente
+
+[00:15:02]
+y luego seguimos acá hay otra lista de
+
+[00:15:06]
+opciones acá donde tienes agrupados los
+
+[00:15:09]
+pares que más te gustan utilizar
+
+[00:15:12]
+una parte que ayuda bastante en este
+
+[00:15:14]
+caso yo tengo en interjet arroja los
+
+[00:15:17]
+pares que utilizó esos son los que
+
+[00:15:19]
+utilizó más frecuentemente y estos son
+
+[00:15:21]
+los que suelo utilizar porque acabaría
+
+[00:15:23]
+subir nada y bajar esté viniendo al uso
+
+[00:15:27]
+tanto hasta que no haga un borrón y así
+
+[00:15:30]
+estos son los pares que yo utilizo estos
+
+[00:15:32]
+5
+
+[00:15:33]
+acá puede sentir quedar los símbolos o
+
+[00:15:37]
+acá pueden mover si quieres que sea más
+
+[00:15:38]
+ancho es lo menos ancho aquí si quieres
+
+[00:15:41]
+agregar símbolo de haz clic acá que te
+
+[00:15:44]
+abre lo mismo que tiene sacar plata
+
+[00:15:45]
+puedes buscar qué parte quieres agregar
+
+[00:15:48]
+entre tus favoritos
+
+[00:15:51]
+acá puede hacer una copia hacer una
+
+[00:15:55]
+copia el nombre de la copia y esto te va
+
+[00:15:58]
+a parecer esta información que les
+
+[00:16:01]
+mostré ahora
+
+[00:16:03]
+3 acá vamos a hacer una copia
+
+[00:16:06]
+después renombrar la lista actual la mía
+
+[00:16:08]
+se lleva para cursos acá puedes elegir
+
+[00:16:11]
+qué quieres que te aparezca en las
+
+[00:16:13]
+columnas de las columnas es esto esto
+
+[00:16:15]
+que están moviendo ahorita qué quieres
+
+[00:16:17]
+que te aparezca allí lo que tienes el
+
+[00:16:18]
+usuario que te aparecerá y eso qué
+
+[00:16:21]
+quieres que te aparezca el logo el
+
+[00:16:22]
+ticker la destrucción entonces muchas
+
+[00:16:26]
+cosas acá te dicen
+
+[00:16:28]
+digamos la distribución de los símbolos
+
+[00:16:33]
+y símbolos tienen mas forex que lo demás
+
+[00:16:36]
+es a la distribución de los símbolos que
+
+[00:16:38]
+tienes pones allí
+
+[00:16:43]
+entonces quiero añadir otro símbolo como
+
+[00:16:46]
+le mostré ahorita vamos a forex cuando
+
+[00:16:49]
+hay añadir él
+
+[00:16:51]
+la libra yen y si desaparición no lo
+
+[00:16:55]
+puedo abrir y miralo acá yo quiero que
+
+[00:16:58]
+me aparezca en la especialidad de los
+
+[00:17:00]
+juegos o sea las clic los presionado y
+
+[00:17:03]
+lo mueves quiero que caiga frutitas si
+
+[00:17:06]
+le haz clic derecho en cada símbolo
+
+[00:17:07]
+puedes elegir el color de la marca por
+
+[00:17:11]
+ejemplo a ello lo que hay desapareció
+
+[00:17:13]
+porque yo lo puse una marca otro color
+
+[00:17:15]
+de la vaca está azul pero si lo pongo en
+
+[00:17:18]
+rojo aparecen las marcas rojas miralo
+
+[00:17:20]
+acá
+
+[00:17:22]
+y obviamente el azul de desaparecer
+
+[00:17:24]
+porque ya no hay nadie azul si ustedes
+
+[00:17:26]
+pueden editar digamos
+
+[00:17:28]
+[Música]
+
+[00:17:30]
+los símbolos que más me gustan los voy a
+
+[00:17:32]
+poner en rojo los símbolos que yo voy a
+
+[00:17:34]
+comunicar a futuro porque yo hice una
+
+[00:17:37]
+proyección y a futuro quiero ver si se
+
+[00:17:39]
+cumplen los voy a poner en azul y los
+
+[00:17:41]
+símbolos que de acciones por ejemplo que
+
+[00:17:44]
+yo tengo comprar ciertas acciones lo que
+
+[00:17:46]
+ve por ella 12 años los pongo en verde
+
+[00:17:50]
+si lo vas dejando acá te dice lo que
+
+[00:17:55]
+tiene es de 99 en krypton 2 en forex o
+
+[00:17:58]
+sea son estas son listas que yo creé
+
+[00:18:00]
+porque es crear lista y le voy a poner a
+
+[00:18:03]
+esta lista de prueba
+
+[00:18:06]
+se les guardar y acá te creó la lista
+
+[00:18:08]
+prueba luego le das aquí y empieza a
+
+[00:18:12]
+agregar pares a la lista prueba muy a
+
+[00:18:14]
+futuro después elegimos etc
+
+[00:18:18]
+obviamente 20s nuestro bebé gold
+
+[00:18:21]
+obviamente golf cobre y así nos vamos ya
+
+[00:18:26]
+tengo esos tres en esta lista
+
+[00:18:29]
+están en la lista prueba y si ven la
+
+[00:18:31]
+cama por esa prueba con tres que acabo
+
+[00:18:33]
+de crearlos
+
+[00:18:37]
+ahora
+
+[00:18:38]
+y así ya vimos todo esto ya vimos que
+
+[00:18:40]
+esto se puede hacer importar listas que
+
+[00:18:42]
+nos traemos la lista que ya hayamos
+
+[00:18:44]
+creado
+
+[00:18:47]
+y bueno acabamos renombrar si queremos
+
+[00:18:49]
+recordar la prueba
+
+[00:18:53]
+2.0 ya que a renombradas ya no es prueba
+
+[00:18:57]
+uno sido un prueba 2.0 hacer una copia
+
+[00:19:00]
+limpiar lista nos borra todo o si yo que
+
+[00:19:04]
+limpiar lista le damos a los borro todo
+
+[00:19:07]
+si lo vieron envolvemos otra vez con
+
+[00:19:10]
+teníamos como del club
+
+[00:19:13]
+y agregamos varios y agregamos varios
+
+[00:19:19]
+podemos dañarse añadir secciones acá
+
+[00:19:22]
+añadimos una sección a esta sección le
+
+[00:19:24]
+damos clic derecho vamos a renombrar le
+
+[00:19:27]
+vamos a poner
+
+[00:19:28]
+especialidad o le podemos poner
+
+[00:19:34]
+o sea los que más trineos o los que más
+
+[00:19:39]
+uso algo así ya creaste una sección las
+
+[00:19:43]
+nuevas para bajo lo molestaba abajo
+
+[00:19:46]
+abajo puedes crear otra sección si
+
+[00:19:49]
+quieres
+
+[00:19:50]
+[Música]
+
+[00:19:52]
+solo para
+
+[00:19:54]
+curiosear
+
+[00:19:55]
+[Música]
+
+[00:19:57]
+tenemos esto puedes ir agregando bueno
+
+[00:20:00]
+yo quiero curiosear que hacen indicar
+
+[00:20:02]
+que hace
+
+[00:20:04]
+este que hace este
+
+[00:20:07]
+acá te pareció te apareció un rojo eso
+
+[00:20:10]
+quiere decir que estos están marcados en
+
+[00:20:13]
+esta lista roja que tú tienes
+
+[00:20:17]
+hay que tener esto en cuenta
+
+[00:20:19]
+que acá tu creas listas
+
+[00:20:23]
+y cuando tú marcas te crean listas de
+
+[00:20:25]
+colores digamos está lista yo la voy a
+
+[00:20:28]
+poner
+
+[00:20:30]
+entonces si bien seguimos tenemos lista
+
+[00:20:32]
+roja lista naranja y debajo árabes
+
+[00:20:34]
+listas con nombres que nosotros pusimos
+
+[00:20:38]
+es importante saber eso y tenerlo en
+
+[00:20:40]
+cuenta y acá lo que como queremos
+
+[00:20:42]
+personalizar nuestras
+
+[00:20:44]
+listas pues
+
+[00:20:47]
+si le damos aquí
+
+[00:20:52]
+aquí es para guardar si vamos clic en
+
+[00:20:54]
+sin maestros para guardar ahora quiero
+
+[00:20:57]
+borrar todo esto le damos acá nueva la
+
+[00:21:00]
+noche y ya nos borró esa lista si ven ya
+
+[00:21:02]
+no existen
+
+[00:21:04]
+no existe ahora seguimos para esta
+
+[00:21:07]
+sección acá tenemos las alarmas alertas
+
+[00:21:09]
+que tenemos activadas que ya ha sido
+
+[00:21:12]
+activada o que están activas te voy a
+
+[00:21:15]
+quitar todas estas esto lo malo porque
+
+[00:21:17]
+cuando las interrumpes te van a quedar
+
+[00:21:19]
+ahí hasta que el amor estrés
+
+[00:21:22]
+es tocar borrar una por una a no ser de
+
+[00:21:26]
+que haya una opción por aquí por las
+
+[00:21:28]
+todas
+
+[00:21:29]
+a
+
+[00:21:30]
+eliminar todas las miradas acá todas las
+
+[00:21:32]
+inactivas y eliminar todas las todo
+
+[00:21:36]
+después quiere eliminar todo es por día
+
+[00:21:40]
+acá también tenemos muestra podemos
+
+[00:21:42]
+mostrar alertas por tipo por nombre como
+
+[00:21:45]
+quieran las alertas acá tenemos la
+
+[00:21:48]
+sección de noticias lo que ha salido la
+
+[00:21:50]
+noticia saca te aparecen las horas de
+
+[00:21:52]
+donde salió la noticia
+
+[00:21:55]
+ventana de datos como qué datos hay
+
+[00:21:58]
+actualmente para participar de su lista
+
+[00:22:01]
+de interés calendario
+
+[00:22:04]
+calendario económico
+
+[00:22:06]
+el chat donde la gente publica sus cosas
+
+[00:22:11]
+y bueno eso a mí no me interesa mucho
+
+[00:22:13]
+hasta que llegamos aquí nuevo árbol de
+
+[00:22:15]
+objetos le damos en nuevo árbol de
+
+[00:22:17]
+objetos y vemos toda esta información de
+
+[00:22:21]
+información los indicadores cada vez que
+
+[00:22:23]
+tú creas algo
+
+[00:22:26]
+se te crea un círculo
+
+[00:22:30]
+micrón ali a un cuadrado un precio una
+
+[00:22:34]
+línea horizontal una flecha un texto
+
+[00:22:40]
+texto
+
+[00:22:42]
+creamos también vamos a poner un fijo
+
+[00:22:45]
+ciento o sea creando acá y así tú puedes
+
+[00:22:49]
+administrar tus
+
+[00:22:51]
+indicadores y desde acá mismo tú los
+
+[00:22:53]
+puedes borrar digamos hay no es texto me
+
+[00:22:55]
+gusta no ahorrar este texto el 10 de
+
+[00:22:58]
+esta flecha y lieja la ue borrando damos
+
+[00:23:00]
+de la x ahí no esté cuadrado no quiero
+
+[00:23:03]
+que no quiero verlo quiero verlo luego
+
+[00:23:04]
+un análisis lo cual lo cierto no no lo
+
+[00:23:07]
+cierran lo apagas acaben y lo apaguen y
+
+[00:23:11]
+no apague no es para bloquearlo
+
+[00:23:13]
+para que no lo pueda mover
+
+[00:23:16]
+ahora los bloqueos lo eliminó
+
+[00:23:20]
+cuando tú selecciona varias por ejemplo
+
+[00:23:23]
+acá si vieron que estos activos acá es
+
+[00:23:26]
+para clonar la línea
+
+[00:23:28]
+por ejemplo a campo es copiarlo clonarla
+
+[00:23:30]
+a la clones y apareció otra línea o
+
+[00:23:32]
+listas y laver y este es para crear un
+
+[00:23:35]
+grupo reflejar grupo 1 le damos clic
+
+[00:23:38]
+derecho y lo podemos renombrar la
+
+[00:23:40]
+podemos poner de grupos top del grupo
+
+[00:23:45]
+top y luego acá lo puedes minimizar
+
+[00:23:49]
+maximizarse luego tú puedes arrastrar
+
+[00:23:51]
+cada uno de los indicadores con cada uno
+
+[00:23:54]
+de
+
+[00:23:54]
+digamos la línea sólo que trazas a ese
+
+[00:23:58]
+grupo por ejemplo lo agarró desde el hoy
+
+[00:24:00]
+clic y luego pegado o sea no despegó el
+
+[00:24:02]
+clic y lo pongo acá así porque me lo
+
+[00:24:05]
+guardo cierto y ahí lo tengo tenemos el
+
+[00:24:09]
+pincel también quiero agregarlo en
+
+[00:24:10]
+retroceso también la línea también que
+
+[00:24:13]
+puedo hacer cuando creó grupos digamos
+
+[00:24:16]
+creó grupos para la semana mes días no
+
+[00:24:18]
+quiero verlos la sistema de lo de acá
+
+[00:24:20]
+todos los desaparecidos
+
+[00:24:22]
+vuelvo a aparecer
+
+[00:24:25]
+y desaparezco y eliminó mis fotos se
+
+[00:24:28]
+eliminaron también puede activar los
+
+[00:24:31]
+indicadores desde acá desactivar activar
+
+[00:24:34]
+activar activa y bueno y así lo puedes
+
+[00:24:38]
+ir haciendo
+
+[00:24:40]
+ahí se ven todos los indicadores se
+
+[00:24:42]
+activaron catalán ahora lo desactivó y
+
+[00:24:46]
+siguen desaparecidos todos
+
+[00:24:49]
+y listo
+
+[00:24:51]
+espero que les haya servido que les
+
+[00:24:54]
+sirva toda esta información es bastante
+
+[00:24:56]
+los vídeo un poco largo pero bien bien
+
+[00:25:00]
+bien bien sustancial con esto ya puede
+
+[00:25:03]
+ser un pro crack el mejor el 30 de
+
+[00:25:07]
+repente puedes aprender otras cosillas y
+
+[00:25:10]
+ya es útiles
+
+[00:25:11]
+hasta puede ser mucho mejor que nosotros
+
+[00:25:14]
+cualquiera que vive más tiempo trading
+
+[00:25:16]
+así que espero que les guste a quien
+
+[00:25:19]
+estamos para servir para ayudar y abajo
+
+[00:25:22]
+tienes el control para que se suscriban
+
+[00:25:24]
+nos dan mega like si tienen redes
+
+[00:25:26]
+sociales nos siguen en redes sociales y
+
+[00:25:28]
+vamos a seguir tratando de dar estos
+
+[00:25:30]
+tipos de inducción al training view a
+
+[00:25:34]
+meta más hay algunos vídeos donde ya
+
+[00:25:38]
+hemos hablado del prater fondeo así que
+
+[00:25:40]
+tengo mucha información que puede
+
+[00:25:42]
+servirles y les deseo un muy bonito año
+
+[00:25:46]
+y muchas bendiciones mucha prosperidad y
+
+[00:25:49]
+que sea un éxito para todos
+
+[00:25:53]
+[Música]
+
+[00:26:02]
+t
+
+[00:26:03]
+[Música]
+```

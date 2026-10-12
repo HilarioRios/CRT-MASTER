@@ -1,0 +1,45 @@
+{
+  "source_id": "YT_CANAL_01_bDVDNGW8IIE",
+  "video_id": "bDVDNGW8IIE",
+  "metadata": {
+    "channel": "MentoTrading",
+    "title": "Nunca nadie te lo explico bien | Estructura de CRT (Curso GRATIS CRT #6)",
+    "url": "https://www.youtube.com/watch?v=bDVDNGW8IIE",
+    "published_at": "2026-09-26",
+    "duration_sec": 935,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "educativo"
+  },
+  "topics": ["crt", "estructura_de_mercado", "liquidez"],
+  "concepts": ["estructura de mercado", "DOL", "TS / Turtle Soup", "rango dentro de rango", "patron de tres velas", "Overlay Candle"],
+  "key_ideas": [
+    {"timestamp_sec": 79, "title": "La estructura de mercado es subjetiva, solo confluencia", "text": "El concepto de estructura de mercado es subjetivo y sirve como confluencia para formular ideas sobre cada rango, no como base principal de CRT.", "deep_link": "https://www.youtube.com/watch?v=bDVDNGW8IIE&t=79s"},
+    {"timestamp_sec": 259, "title": "Regla: el cambio estructural solo funciona si el precio llego a su objetivo", "text": "Un cambio de estructura solo es valido cuando el precio ya completo su DOL principal; si sigue buscando el objetivo, no hay cambio real.", "deep_link": "https://www.youtube.com/watch?v=bDVDNGW8IIE&t=259s"},
+    {"timestamp_sec": 463, "title": "Usar solo marcos temporales superiores, nunca como base unica", "text": "La estructura solo se usa como confluencia; Gustavo personalmente solo usa marcos temporales superiores (sesgo diario, 4H, 1H).", "deep_link": "https://www.youtube.com/watch?v=bDVDNGW8IIE&t=463s"},
+    {"timestamp_sec": 816, "title": "Ejemplo practico: alineando 12H, 3H y 5 minutos", "text": "Rango de 12 horas marca el DOL, estructura de 3 horas confirma contexto en horario NY 9am, entrada en temporalidad de 5 minutos.", "deep_link": "https://www.youtube.com/watch?v=bDVDNGW8IIE&t=816s"}
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 79, "text": "La estructura de mercado es subjetiva: sirve como confluencia, nunca como base principal del analisis."},
+    {"timestamp_sec": 259, "text": "Un cambio estructural solo es valido si el precio ya llego a su objetivo (DOL) principal."},
+    {"timestamp_sec": 463, "text": "Gustavo solo usa marcos temporales superiores (sesgo diario, 4H, 1H como mucho) para leer estructura."}
+  ],
+  "mistakes_mentioned": [
+    {"timestamp_sec": 463, "text": "Usar la estructura de mercado como base principal del analisis en vez de como confluencia."},
+    {"timestamp_sec": 338, "text": "Vender en un cambio de estructura aparente sin que el precio haya completado su objetivo principal."}
+  ],
+  "terminology": {
+    "TS": "Turtle Soup -- patron de toma de liquidez.",
+    "DOL": "Objetivo principal hacia el cual se dirige el precio.",
+    "Overlay Candle": "Indicador propio de Gustavo Martinez, se consigue pidiendolo por Instagram."
+  },
+  "entities": {
+    "people": ["Gustavo Martinez"],
+    "tools": ["Overlay Candle (indicador propio)", "Instagram"],
+    "markets": []
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=bDVDNGW8IIE",
+  "series_note": "Clase #6 de un curso gratuito de CRT (playlist).",
+  "chunks": []
+}

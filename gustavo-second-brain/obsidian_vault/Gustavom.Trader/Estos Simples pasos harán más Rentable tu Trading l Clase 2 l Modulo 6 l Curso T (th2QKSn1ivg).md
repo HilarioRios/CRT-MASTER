@@ -1,0 +1,592 @@
+---
+source_id: YT_CANAL_02_th2QKSn1ivg
+video_id: th2QKSn1ivg
+channel: "Gustavom.Trader"
+published_at: 2024-11-11
+url: https://www.youtube.com/watch?v=th2QKSn1ivg
+processing_status: DRIVE_SYNCED
+transcript_source: yt_dlp_auto
+chunk_count: 4
+tags: [youtube, Gustavom-Trader, year/2024, status/synced]
+---
+
+# Estos Simples pasos harán más Rentable tu Trading l Clase 2 l Modulo 6 l Curso Trading
+
+[[Gustavom.Trader]] · [[2024]] · [Ver en YouTube](https://www.youtube.com/watch?v=th2QKSn1ivg)
+
+## Transcript
+
+```
+[00:00:00]
+Hola Qué pasa a todos amigos estamos en
+
+[00:00:01]
+un nuevo video de mentoría gratuita 2024
+
+[00:00:04]
+otra vez con el módulo número 6 ya
+
+[00:00:06]
+tenemos nuestra clase número dos que es
+
+[00:00:08]
+la mejora continua de mi plan de trading
+
+[00:00:10]
+si se fijan este módulo es de mejorar
+
+[00:00:13]
+continuamente es cómo voy a tener esos
+
+[00:00:16]
+resultados mejores cómo voy a tener cada
+
+[00:00:18]
+vez resultados mejores cómo voy a
+
+[00:00:19]
+asegurar de estar mejorando y
+
+[00:00:21]
+precisamente hoy vamos a hablar de
+
+[00:00:22]
+mejora continua de tu plan de trading lo
+
+[00:00:25]
+primero que voy a ver es mejorar Sí o sí
+
+[00:00:27]
+no nos podemos quedar en un solo plan de
+
+[00:00:29]
+negocio tenemos que mejorarlo día con
+
+[00:00:31]
+día siempre hay cosas que podemos
+
+[00:00:33]
+mejorar obviamente cosas que estás
+
+[00:00:35]
+haciendo bien no las vas a tocar Si tú
+
+[00:00:37]
+ya tienes un plan de negocio sólido eh
+
+[00:00:39]
+No deberías de estarlo tocando pero al
+
+[00:00:41]
+principio que sientes que todavía no
+
+[00:00:43]
+estás teniendo resultados importantes
+
+[00:00:45]
+como a lo mejor pasar una prenta de
+
+[00:00:47]
+fondeo o ser consistente durante 2 TR
+
+[00:00:50]
+meses
+
+[00:00:50]
+eh en una cuenta real cuando tienes esto
+
+[00:00:54]
+tienes que pensar en mejorar Sí o sí no
+
+[00:00:57]
+te puedes quedar en lo mismo estas
+
+[00:00:59]
+clases son de reflexión en las que te
+
+[00:01:00]
+sirven para darte cuenta que muchas
+
+[00:01:02]
+veces estás estancado porque no estás
+
+[00:01:04]
+midiendo tus resultados por eso no estás
+
+[00:01:07]
+avanzando ahora vamos a ver lo que es la
+
+[00:01:10]
+Mejora conina y cómo va a influir en tu
+
+[00:01:12]
+operativa Entonces lo lo definí por el
+
+[00:01:14]
+acto de no quedar separado donde mismo y
+
+[00:01:17]
+estar en una mentalidad de avanzando
+
+[00:01:19]
+siempre aplicar la mejora cona a ti
+
+[00:01:21]
+mismo implica un enfoque sistemático
+
+[00:01:23]
+para mejorar tus habilidades hábitos y
+
+[00:01:24]
+rendimiento personal de manera constante
+
+[00:01:26]
+entes de manera constante vas a estar
+
+[00:01:29]
+midiendo cada un uno de los resultados
+
+[00:01:30]
+que tienes y a través de eso vas a estar
+
+[00:01:33]
+estudiando esos resultados va cómo me
+
+[00:01:35]
+fue en este mes de trading Okay Mira
+
+[00:01:37]
+esta semana sobre operé mucho y me fue
+
+[00:01:39]
+mal esta otra semana no sobre operé
+
+[00:01:42]
+tanto y me fue mejor Entonces vas a
+
+[00:01:44]
+empezar a diseñar reglas que te permitan
+
+[00:01:46]
+eh No no operar mucho no operar
+
+[00:01:49]
+demasiado Mira Resulta ser que si
+
+[00:01:51]
+aumento el riesgo eh A lo mejor puedo
+
+[00:01:53]
+tener un Drop down controlado pero puedo
+
+[00:01:56]
+este tener mejores rendimientos en
+
+[00:01:58]
+ganancias todo ese tipo de cosas es bien
+
+[00:02:00]
+importante que tú te centres en estar
+
+[00:02:02]
+mejorando verdad pasos aplicables para
+
+[00:02:05]
+no parar de mejorar qué deberías de tú
+
+[00:02:07]
+hacer para estar mejorando siempre
+
+[00:02:09]
+Cuáles son los pasos que deberías de
+
+[00:02:11]
+seguir y por eso hice seis pasos
+
+[00:02:13]
+aplicables para que tú estés inconstante
+
+[00:02:16]
+mejora Entonces lo primero que vas a
+
+[00:02:18]
+hacer es identificación de áreas de
+
+[00:02:19]
+mejora vas a identificar Cuáles son las
+
+[00:02:22]
+áreas en las que deberías de mejorar
+
+[00:02:24]
+autoconocimiento Reflexiona sobre tus
+
+[00:02:26]
+fortalezas y debilidades ver lo que
+
+[00:02:28]
+estás haciendo bien y lo que no estás
+
+[00:02:30]
+haciendo también luego vas a realizar
+
+[00:02:32]
+una autoevaluación honesta tuya vas a
+
+[00:02:35]
+realizar una autoevaluación de tus
+
+[00:02:36]
+resultados honesta y mediante ese
+
+[00:02:38]
+feedback vas a pedir retroalimentación a
+
+[00:02:41]
+tus amigos familiares colegas obtener
+
+[00:02:42]
+una perspectiva externa eso también
+
+[00:02:45]
+ayuda mucho Tú puedes ponerle decirle a
+
+[00:02:47]
+un amigo Trader o que tenga resultados
+
+[00:02:50]
+verdad o por eso también es importante
+
+[00:02:52]
+tener un mentor de trading porque tu
+
+[00:02:54]
+mentor de trading Le puedes preguntar y
+
+[00:02:56]
+le puedes decir he tenido estos
+
+[00:02:58]
+resultados en los últimos meses verdad
+
+[00:03:00]
+Cómo podría poner mejores operaciones
+
+[00:03:03]
+qué podría ser mejor etcétera etcétera
+
+[00:03:05]
+Luego lo segundo que tenemos es la
+
+[00:03:07]
+planificación de objetivos específicos
+
+[00:03:10]
+definir metas claras Y específicas que
+
+[00:03:12]
+deseas alcanzar verdad siempre estar
+
+[00:03:14]
+como con una meta no estarse afanando en
+
+[00:03:16]
+querer conseguir resultados antes pero
+
+[00:03:19]
+sí tener una meta clara que deseas
+
+[00:03:20]
+alcanzar porque esa meta te va a ayudar
+
+[00:03:22]
+a ti a estar en constante mejora utiliza
+
+[00:03:24]
+la metodología Smart específicos
+
+[00:03:26]
+medibles y alcanzables relevantes y
+
+[00:03:29]
+porales que significa que van a ser
+
+[00:03:31]
+objetivos específicos que son objetivos
+
+[00:03:34]
+que puedes ir midiendo que sean
+
+[00:03:36]
+alcanzables O sea que sean este
+
+[00:03:38]
+realistas que sean objetivos también
+
+[00:03:41]
+relevantes que te vayan a impactar
+
+[00:03:42]
+cuando tú los cumplas Ah digas te
+
+[00:03:44]
+sientas con la satisfacción de que
+
+[00:03:46]
+cumpliste esos objetivos y luego van a
+
+[00:03:48]
+ser eh temporales verad objetivos
+
+[00:03:51]
+temporales que pueda seguir alcanzando
+
+[00:03:53]
+nuevos objetivos también para eso tienes
+
+[00:03:55]
+que tener un plan de acción elabora un
+
+[00:03:57]
+plan detallado con pasos concretos para
+
+[00:03:59]
+alcanzar tus objetivos y asigna plazos y
+
+[00:04:01]
+recursos necesarios aquí estamos
+
+[00:04:02]
+hablando un poquito más de planificación
+
+[00:04:04]
+que te puede ayudar tanto para tu plan
+
+[00:04:06]
+de trading o para tu trading en Sí para
+
+[00:04:08]
+ir mejorando tu tu trading en Sí verdad
+
+[00:04:10]
+luego el tres tenemos implementación vas
+
+[00:04:13]
+a implementar acciones diarias o sea vas
+
+[00:04:15]
+a dividir tus metas en tareas diarias o
+
+[00:04:17]
+semanales que sean manejables dice un
+
+[00:04:19]
+dicho que me gusta mucho que los
+
+[00:04:21]
+pequeños pasos construyen grandes
+
+[00:04:23]
+resultados O sea qué quiere decir que tú
+
+[00:04:25]
+puedes construir grandes resultados con
+
+[00:04:28]
+el día a día día a día vas cada vez un
+
+[00:04:30]
+paso más de alcanzar tu meta día a día
+
+[00:04:33]
+vas poquito a poquito luchando ese día
+
+[00:04:36]
+Ya aportaste algo que va a ayudar a que
+
+[00:04:39]
+tu meta se cumpla a largo plazo y
+
+[00:04:41]
+durante ser consistente durante muchos
+
+[00:04:42]
+días Vas a alcanzar tu meta verdad
+
+[00:04:44]
+Entonces eh precisamente este punto de
+
+[00:04:46]
+acá habla de la consistencia
+
+[00:04:48]
+comprométete a seguir tu plan de acción
+
+[00:04:50]
+consistentemente o sea todos los días ir
+
+[00:04:52]
+avanzando poco a poco luego pues ya
+
+[00:04:54]
+tenemos el tip número cuatro para poder
+
+[00:04:57]
+tener mejores reglas de trading no
+
+[00:04:58]
+mejores reglas de trading solamente sino
+
+[00:05:00]
+también para tener mejor trading o mejor
+
+[00:05:03]
+avance Entonces es la revisión el check
+
+[00:05:05]
+el monitoreo constante lleva un registro
+
+[00:05:07]
+de tus progresos utiliza diarios
+
+[00:05:08]
+aplicaciones de seguimiento cualquier
+
+[00:05:10]
+herramienta que te ayude puedes utilizar
+
+[00:05:12]
+programas que te ayuden a llevar un un
+
+[00:05:14]
+monitoreo pero aquí estamos hablando
+
+[00:05:16]
+también de progresos diarios Cómo están
+
+[00:05:18]
+tus progresos todos los días Vas a tener
+
+[00:05:20]
+también evaluación revisar regularmente
+
+[00:05:22]
+tus avances comparar los resultados con
+
+[00:05:24]
+los objetivos establecidos luego tenemos
+
+[00:05:26]
+el cinco acción si no alcanzas sus
+
+[00:05:28]
+objetivos analiza la zones ajusta tu
+
+[00:05:30]
+plan si tienes éxito Ah entonces busca
+
+[00:05:33]
+maneras de mantener y Mejor aún más
+
+[00:05:34]
+luego estándares que se estandarizan las
+
+[00:05:37]
+mejoras que funcionan bien para ti ya
+
+[00:05:39]
+una vez que tú ya tienes lo ya buscaste
+
+[00:05:40]
+ese plan de negocio ya lo monitoree eh Y
+
+[00:05:43]
+ya tienes reglas específicas vas a
+
+[00:05:45]
+estandarizar las reglas que funcionan
+
+[00:05:47]
+mejor Y a partir de ahí vas a crear una
+
+[00:05:49]
+rutina porque ya sabes que Esas reglas
+
+[00:05:51]
+funcionan bien para ti luego lo que
+
+[00:05:52]
+tenemos el seis son ciclos continuos
+
+[00:05:55]
+repetición repite el ciclo para fomentar
+
+[00:05:57]
+la mejora continua repite repite repite
+
+[00:05:59]
+ya sabes que siempre te sale bien esta
+
+[00:06:01]
+forma de entrada pues repítela repítela
+
+[00:06:04]
+repítela entonces cada ciclo te acerca
+
+[00:06:06]
+más a tus objetivos por último tenemos
+
+[00:06:08]
+la innovación siempre Busca nuevas
+
+[00:06:10]
+formas y métodos para mejorar siempre
+
+[00:06:12]
+estar en constante crecimiento y Mejora
+
+[00:06:14]
+y esto van a ser los tips para mejorar
+
+[00:06:16]
+nuestra nuestro trading y nuestras
+
+[00:06:18]
+reglas de de negocio nuestro plan de
+
+[00:06:20]
+negocio Bueno chicos Yo espero que se
+
+[00:06:21]
+haya entendido bastante bien gracias por
+
+[00:06:23]
+haber estado aquí si tienen alguna duda
+
+[00:06:24]
+o pregunta lo leo los leo en los
+
+[00:06:26]
+comentarios y si quieren tener una
+
+[00:06:28]
+mentoría personalizada también pueden
+
+[00:06:30]
+contactarme como Gustavo Trader en
+
+[00:06:33]
+WhatsApp también me pueden mandar un
+
+[00:06:34]
+mensaje que está el link en la
+
+[00:06:36]
+descripción o por Instagram gustav m.
+
+[00:06:38]
+Trader nos vemos en un siguiente video
+
+[00:06:40]
+adiós
+```

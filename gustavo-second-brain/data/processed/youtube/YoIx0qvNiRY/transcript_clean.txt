@@ -1,0 +1,1355 @@
+[00:00:00]
+en este video te traigo una estrategia
+
+[00:00:01]
+bien sencilla que solo consta de tres
+
+[00:00:03]
+pasos y es una estrategia que se utiliza
+
+[00:00:05]
+con acción de precio para que puedas
+
+[00:00:08]
+llevar tu trading al siguiente nivel es
+
+[00:00:10]
+importante que hagas Back testing a la
+
+[00:00:12]
+estrategia y que la adaptes precisamente
+
+[00:00:14]
+a lo que tú ya conoces para que te
+
+[00:00:16]
+funcione Entonces en este video te voy a
+
+[00:00:19]
+dejar toda la explicación y recuerda
+
+[00:00:21]
+suscribirte darle me gusta y comentar si
+
+[00:00:24]
+te ha servido la estrategia y nos vemos
+
+[00:00:26]
+en este video dentro video Entonces los
+
+[00:00:28]
+tres únicos pasos
+
+[00:00:30]
+el primer paso sería identificar la
+
+[00:00:33]
+tendencia y la estructura esta esta
+
+[00:00:35]
+estrategia es una estrategia
+
+[00:00:37]
+principalmente tendencial que vamos a
+
+[00:00:39]
+tratar o vamos a operar siempre a favor
+
+[00:00:42]
+de la tendencia la mayoría de las veces
+
+[00:00:45]
+vamos a operar a favor de la tendencia y
+
+[00:00:46]
+de la estructura que llevemos si la
+
+[00:00:49]
+estructura es alcista pues vamos a
+
+[00:00:51]
+tratar de estar buscando compras si la
+
+[00:00:52]
+estructura es bajista pues vamos a estar
+
+[00:00:54]
+intentando Buscar ventas luego vamos a
+
+[00:00:57]
+esperar confirmaciones en zonas
+
+[00:01:00]
+o en zonas de oferta y demanda y luego
+
+[00:01:04]
+vamos a por siguiente ejecutar una
+
+[00:01:06]
+entrada después de tener confirmaciones
+
+[00:01:08]
+bajo un plan de trading y es el primer
+
+[00:01:11]
+paso por ejemplo identificar la
+
+[00:01:13]
+estructura de Mercado aquí podemos
+
+[00:01:14]
+identificar estructura de Mercado
+
+[00:01:16]
+estamos una estructura bullish alcista
+
+[00:01:20]
+este segundo paso identificar una
+
+[00:01:23]
+posible zona a favor de esa tendencia
+
+[00:01:25]
+una zona de compra en este caso me gusta
+
+[00:01:28]
+mucho porque identificando la estructura
+
+[00:01:31]
+la tendencia ya tienes Clara una
+
+[00:01:34]
+dirección ya lo único que tienes que
+
+[00:01:35]
+esperar es que el mercado te dé una
+
+[00:01:37]
+oportunidad de compra que en este caso
+
+[00:01:39]
+es compra puede ser venta también si es
+
+[00:01:41]
+una estructura bajista y después por
+
+[00:01:43]
+consiguiente cuando el precio esté en tu
+
+[00:01:46]
+zona o o o esté en una zona apropiada ya
+
+[00:01:49]
+tú puedes ejecutar una entrada bajo un
+
+[00:01:53]
+plan de trading aquí puedes usar
+
+[00:01:54]
+cualquier tipo de confirmaciones vamos a
+
+[00:01:57]
+hablar de confirmaciones también las más
+
+[00:01:59]
+las que más me gustan a mí son
+
+[00:02:01]
+confirmaciones pueden ser con cambios
+
+[00:02:03]
+estructurales tomas de liquidez o
+
+[00:02:06]
+también puede ser con indicadores
+
+[00:02:08]
+patrones de velas o puede ser que
+
+[00:02:10]
+tampoco utilices confirmaciones les voy
+
+[00:02:12]
+a poner un ejemplo de una entrada que
+
+[00:02:14]
+tuve yo en el oro la puse en un gráfico
+
+[00:02:17]
+de 4 horas y les voy a explicar el
+
+[00:02:19]
+contexto Y cómo tomé esa entrada
+
+[00:02:21]
+basándome en la acción de precio eh
+
+[00:02:24]
+primero que nada como decían los pasos
+
+[00:02:26]
+es la tendencia yo utilizo las medias
+
+[00:02:28]
+móviles estás de una de 55 periodos
+
+[00:02:31]
+exponencial y una de 10 exponencial la
+
+[00:02:33]
+media 10 es la rápida y la medida de 55
+
+[00:02:36]
+es la media lenta esto para qué lo
+
+[00:02:38]
+utilizo pues para yo inmediatamente ver
+
+[00:02:40]
+la tendencia aquí como podemos ver aquí
+
+[00:02:42]
+en el oro Si vemos este gráfico Pues nos
+
+[00:02:45]
+damos cuenta que la tendencia es alcista
+
+[00:02:48]
+entonces principalmente vamos a estar
+
+[00:02:50]
+buscando compras no ventas Gustavo se
+
+[00:02:53]
+puede operar en contratendencia sí se
+
+[00:02:56]
+puede operar en contratendencia pero
+
+[00:02:58]
+siempre nos va a ir mejor operando a
+
+[00:03:00]
+favor de la tendencia la tendencia
+
+[00:03:02]
+acuérdense de ese dicho que es muy
+
+[00:03:03]
+cierto y que siempre nos lo han repetido
+
+[00:03:05]
+la tendencia es tu amiga o entonces
+
+[00:03:08]
+Tratamos de operar en mayor en mayor
+
+[00:03:11]
+tiempo a favor de la tendencia Esto es
+
+[00:03:13]
+lo primero identificar la tendencia y la
+
+[00:03:14]
+estructura este por ejemplo aquí tenemos
+
+[00:03:17]
+un alto un bajo un nuevo alto un nuevo
+
+[00:03:20]
+bajo alto bajo ya simplemente vemos como
+
+[00:03:24]
+el precio aquí por ejemplo rompió a la
+
+[00:03:27]
+alza venía aquí a partir de vamos a
+
+[00:03:30]
+estudiar esta entrada que tuvimos Aquí
+
+[00:03:31]
+esta esta entrada la tuvimos en vivo
+
+[00:03:33]
+esta no la mandé en vivo pero la tomé yo
+
+[00:03:36]
+también en vivo cuando el precio estaba
+
+[00:03:37]
+aquí las dos entradas por eso me gusta
+
+[00:03:39]
+hacerlo con ejemplos reales del mercado
+
+[00:03:42]
+Esta sí la mandé yo en vivo en mi
+
+[00:03:44]
+Telegram una entrada en en el oro este
+
+[00:03:48]
+es parte de la estrategia que voy a yo
+
+[00:03:50]
+estar manejando les estoy dejando una
+
+[00:03:52]
+porcion de mi estrategia que voy a estar
+
+[00:03:54]
+manejando en 2025 este y fíjense cómo
+
+[00:03:58]
+identificamos la tendencia Y a partir de
+
+[00:04:00]
+ahí por ejemplo las medias móviles me
+
+[00:04:02]
+ayudan para ver los retrocesos ya
+
+[00:04:05]
+posibles retrocesos de mi temporalidad
+
+[00:04:07]
+de 4 horas y ya en 4 horas yo puedo
+
+[00:04:10]
+estar buscando zonas de soporte y
+
+[00:04:12]
+resistencia Como por ejemplo en aquel
+
+[00:04:14]
+tiempo estaba viendo yo esta zona de
+
+[00:04:16]
+soporte que era que fue resistencia en
+
+[00:04:18]
+el pasado pero yo me ayudo mucho de las
+
+[00:04:21]
+medias móviles porque
+
+[00:04:23]
+promedian promedian un promedio de lo
+
+[00:04:25]
+que está haciendo la tendencia Aparte
+
+[00:04:27]
+también analizo como el precio fíjense
+
+[00:04:30]
+que cada por ejemplo vamos a ver la
+
+[00:04:32]
+acción de precio aquí cada que el precio
+
+[00:04:33]
+caía esta zona era una zona de compras
+
+[00:04:36]
+cada que el precio caía poquito por
+
+[00:04:38]
+debajo en una zona de compras zona de
+
+[00:04:40]
+compras zona de compras por acá fíjense
+
+[00:04:44]
+cómo voy identificando la tendencia y la
+
+[00:04:46]
+estructura del mercado voy
+
+[00:04:48]
+razonando Cómo el precio se está
+
+[00:04:50]
+comportando y cómo se podría comportar
+
+[00:04:53]
+en el futuro entonces en base a eso yo
+
+[00:04:55]
+sé que cuando el precio llegue a estas
+
+[00:04:57]
+zonas van a ser zonas importantes puedo
+
+[00:05:00]
+ayudar de mi gráfica diaria para darme
+
+[00:05:01]
+cuenta que pues mi próxima zona de
+
+[00:05:04]
+soporte van a ser Van a ser estas áreas
+
+[00:05:06]
+donde la media ha pasado y ya me puedo
+
+[00:05:09]
+ir a mi temporalidad de h1 ya viendo la
+
+[00:05:12]
+la la estructura y ya aquí puedo
+
+[00:05:14]
+descifrar o leer o interpretar la
+
+[00:05:17]
+estructura que lleva el precio ya un
+
+[00:05:18]
+poquito más en una temporalidad más
+
+[00:05:20]
+menor verdad por ejemplo Aquí vamos a
+
+[00:05:23]
+poner menor alcista vamos a poner esto
+
+[00:05:26]
+sería h1
+
+[00:05:27]
+yaad podemos ver aquí como el preci ha
+
+[00:05:31]
+un nuevo High tenía este nuevo low
+
+[00:05:33]
+también me puedo ayudar de zonas de como
+
+[00:05:36]
+un fibonacci son herramientas que pueden
+
+[00:05:38]
+complementar tu tu trading por aquí por
+
+[00:05:40]
+ejemplo un fibonacci yo me ayudo mucho
+
+[00:05:43]
+de las medias móviles per principalmente
+
+[00:05:45]
+la de la estructura del precio ya me
+
+[00:05:48]
+puedo ayudar de zonas de oferta y de
+
+[00:05:50]
+demanda imbalances como ustedes quieran
+
+[00:05:53]
+por ejemplo aquí yo vi una zona de
+
+[00:05:56]
+demanda bastante bastante importante
+
+[00:05:59]
+entonces ya en m fíjense en mi gráfico
+
+[00:06:01]
+de h1 yo me voy dando cuenta hasta dónde
+
+[00:06:04]
+fíjense que casi siempre la acción de
+
+[00:06:05]
+precio aquí el precio siempre no no
+
+[00:06:07]
+suele respetar la Ema de h1 suele
+
+[00:06:10]
+respetar más 4 horas h1 el precio está
+
+[00:06:13]
+pasando por debajo de la media y luego
+
+[00:06:16]
+sube por debajo de la media y luego sube
+
+[00:06:19]
+o Entonces es la propia acción de precio
+
+[00:06:21]
+que está haciendo vasa por debajo de la
+
+[00:06:22]
+media y sube porque probablemente esté
+
+[00:06:25]
+en una temporalidad más alta como 4
+
+[00:06:28]
+horas puede ser es donde esté el precio
+
+[00:06:30]
+respetando entonces ahí dejamos ese
+
+[00:06:32]
+último punto fractal ese último punto
+
+[00:06:35]
+fractal simplemente el precio viene a
+
+[00:06:38]
+ser un retroceso Ya sé yo que son
+
+[00:06:41]
+compras cada que el precio caiga y voy a
+
+[00:06:43]
+tratar de seguir la tendencia Ahorita
+
+[00:06:45]
+les voy a mostrar un cómo lo trabajamos
+
+[00:06:47]
+en posibles cambios cambios de tendencia
+
+[00:06:49]
+pero ahorita estamos viendo solamente el
+
+[00:06:51]
+fallout o el seguimiento de la tendencia
+
+[00:06:53]
+entonces ahí vemos que el precio se mete
+
+[00:06:55]
+a mi zona y ya aquí Yo la siguiente paso
+
+[00:06:58]
+es confirmar
+
+[00:07:00]
+aquí ya me puedo ir a mi temporalidad
+
+[00:07:02]
+menor en mi temporalidad menor aquí
+
+[00:07:04]
+puede ser 15 minutos y ahí ifico cambios
+
+[00:07:08]
+estructurales o puedo ayudarme de este
+
+[00:07:12]
+patrones de velas eso puede ser uno por
+
+[00:07:14]
+ejemplo aquí tenemos un patrón de Vela
+
+[00:07:16]
+que es es una vela que me gusta a mí
+
+[00:07:18]
+bastante O puedes ayudarte de cambios
+
+[00:07:20]
+estructurales en temporalidades menores
+
+[00:07:23]
+o también puedes ayudarte un indicador
+
+[00:07:25]
+Como por ejemplo Aquí tengo yo un
+
+[00:07:27]
+oscilador que te puede ayudar a
+
+[00:07:29]
+confirmar un rci puedes ayudarte de
+
+[00:07:32]
+muchas herramientas que hay un fibonacci
+
+[00:07:35]
+etcétera etcétera vamos a ver un cambio
+
+[00:07:37]
+de estructural Esa es la como la más
+
+[00:07:39]
+clásica que todo que que que podemos ver
+
+[00:07:42]
+fíjense como el precio viene aquí
+
+[00:07:45]
+rechaza
+
+[00:07:46]
+ya viene aquí rechaza hace un nuevo alto
+
+[00:07:50]
+falla en hacer un nuevo bajo rompe la
+
+[00:07:53]
+estructura y aquí ya tengo una entrada
+
+[00:07:55]
+por confirmación en mi temporalidad de
+
+[00:07:58]
+m15 e yo tendría una confirmación de
+
+[00:08:01]
+entrada Simplemente porque y voy a hac
+
+[00:08:04]
+la tendencia hac la dirección y tengo
+
+[00:08:06]
+una confirmación ya después lo que
+
+[00:08:08]
+vendría es una ejecución de la entrada y
+
+[00:08:11]
+de la ejecución pues esperar que tener
+
+[00:08:13]
+un Target es bien importante la salida
+
+[00:08:15]
+la salida ya ustedes la pueden definir
+
+[00:08:17]
+bajo un plan de negocio o simplemente
+
+[00:08:19]
+definir los últimos puntos altos o si no
+
+[00:08:22]
+hay ningún punto alto pues tener un un
+
+[00:08:24]
+ratio de 1 dos una TR dependiendo como
+
+[00:08:28]
+ustedes quieran trabajar fíjense que mi
+
+[00:08:30]
+stop loss por qué lo pongo tan grande
+
+[00:08:32]
+porque yo no estoy tomando una
+
+[00:08:33]
+confirmación en m15 en este caso de esta
+
+[00:08:35]
+entrada yo estaba tomando una
+
+[00:08:37]
+confirmación o una entrada en h1 pero
+
+[00:08:40]
+ustedes si refinan un poquito pueden
+
+[00:08:42]
+tener entradas con una stop loss más
+
+[00:08:45]
+reducido por ejemplo nosotros podríamos
+
+[00:08:47]
+haber entrado en este punto y habernos
+
+[00:08:50]
+protegido por debajo de este punto
+
+[00:08:51]
+estructural dejando un stop los mucho
+
+[00:08:54]
+más reducido por lo tanto teniendo un
+
+[00:08:55]
+ratio riesgo beneficio más alto ya ya
+
+[00:08:58]
+hay varias formas de las que se puede
+
+[00:09:00]
+hacer pero este es en sí la estrategia
+
+[00:09:03]
+con acción de precio vamos a ver por
+
+[00:09:05]
+ejemplo Esta que está acá esta entrada
+
+[00:09:08]
+que la puse también y simplemente cuando
+
+[00:09:10]
+veo un retroceso yo seguiré comprando a
+
+[00:09:14]
+favor de mi tendencia de mi estructura
+
+[00:09:16]
+de Mercado este mucha gente podría decir
+
+[00:09:20]
+Gustavo pero es que ya pue está subió
+
+[00:09:22]
+mucho nada que subió mucho las
+
+[00:09:25]
+tendencias el mercado puede seguir
+
+[00:09:28]
+tendencial Durante los próximos 5 años o
+
+[00:09:30]
+mañana cambiar de tendencia pero
+
+[00:09:32]
+mientras yo siga viendo las señales de
+
+[00:09:34]
+una tendencia alcista yo puedo seguir
+
+[00:09:36]
+comprando a favor de esa tendencia
+
+[00:09:39]
+entonces aquí tendencia espero mi zona
+
+[00:09:43]
+aquí ustedes pueden trabajar zonas de
+
+[00:09:44]
+oferta y de demanda aquí tenemos por
+
+[00:09:47]
+ejemplo una zona de demanda tenemos un
+
+[00:09:49]
+retroceso la media móvil de confirmación
+
+[00:09:52]
+me puedo bajar a mi temporalidad de h1
+
+[00:09:54]
+ya y en temporalidad de m15 puedo
+
+[00:09:57]
+esperar un cambio estructural si así lo
+
+[00:09:59]
+deseo si así lo quiero como confirmación
+
+[00:10:02]
+o un patrón de Vela que ustedes
+
+[00:10:05]
+reconozcan que que les guste este una
+
+[00:10:08]
+vela de rechazo una Cómo están las
+
+[00:10:10]
+famosas martillo o lo que a mí más me
+
+[00:10:14]
+gusta un cambio estructural verad en la
+
+[00:10:17]
+temporalidad menor puede ser aquí m15 a
+
+[00:10:19]
+mí me gusta mucho m15 también puedo
+
+[00:10:22]
+utilizar un un ifg pueden utilizar
+
+[00:10:25]
+realmente como confirmación muchísimas
+
+[00:10:27]
+cosas no ahí tenemos la última toma
+
+[00:10:30]
+luego tenemos que el precio hace una
+
+[00:10:33]
+inducción ahí falla en hacer un nuevo
+
+[00:10:35]
+mínimo por acá luego vuelve y rompe la
+
+[00:10:38]
+estructura y aquí tendríamos una entrada
+
+[00:10:40]
+por ejemplo en largo en compras después
+
+[00:10:43]
+de la ruptura de esa estructura
+
+[00:10:45]
+simplemente utilizando eh tendencia
+
+[00:10:48]
+utilizando acción de precio y
+
+[00:10:50]
+comportamiento del mercado entonces Esas
+
+[00:10:52]
+son dos entradas simples de las forma de
+
+[00:10:55]
+que yo lo utilizo o del nasdaq vamos a
+
+[00:10:58]
+utilizar ahora el gráfico del nasda
+
+[00:11:00]
+utilizamos el oro algo más rápido algo
+
+[00:11:02]
+más Gustavo yo estoy operando la sesión
+
+[00:11:04]
+de Nueva York me gusta operar la
+
+[00:11:06]
+apertura me gusta la velita rápida me
+
+[00:11:09]
+gusta una entrada un 1 A3 rápido pues
+
+[00:11:11]
+bueno ya está fíjense que este aquí va a
+
+[00:11:15]
+ha serer vamos a utilizar 15 minutos
+
+[00:11:18]
+puede ser también que te ayudes de h1 15
+
+[00:11:22]
+h1 puede ser o 5 minutos y un minuto
+
+[00:11:26]
+pero vamos a utilizar 15 5 minutos y un
+
+[00:11:28]
+minuto para intradía a mí me encanta 15
+
+[00:11:31]
+minutos porque es el gráfico como que
+
+[00:11:33]
+más que más limpio se ve la tendencia se
+
+[00:11:36]
+ve muy marcado los movimientos y son
+
+[00:11:38]
+movimientos de este estilo movimientos
+
+[00:11:40]
+de este estilo movimientos de este
+
+[00:11:42]
+estilo entonces este vamos a vamos a ir
+
+[00:11:46]
+trabajando por ejemplo Esa esa esta
+
+[00:11:49]
+temporalidad vamos a empezar por ejemplo
+
+[00:11:52]
+con esta tendencia esta tendencia que
+
+[00:11:56]
+está aquí vamos a poner vamos a empezar
+
+[00:11:58]
+desde aquí entonces aquí el precio venía
+
+[00:12:00]
+con una tendencia bajista a partir de
+
+[00:12:03]
+aquí el precio tenía este punto de aquí
+
+[00:12:06]
+y este punto de aquí bajistas luego el
+
+[00:12:09]
+mercado hace un quiebre estructural aquí
+
+[00:12:11]
+en 15 minutos ya estamos identificando
+
+[00:12:14]
+lo primero que es acuérdense los pasos
+
+[00:12:17]
+identificar la tendencia estructura de
+
+[00:12:19]
+Mercado y luego identificar zonas eh
+
+[00:12:23]
+confirmaciones Y entrada entonces ahí
+
+[00:12:26]
+rompe la estructura del mercado nos deja
+
+[00:12:28]
+este fract
+
+[00:12:29]
+Y luego el mercado nos hace un retroceso
+
+[00:12:32]
+en este primer retroceso nosotros
+
+[00:12:34]
+podríamos haber ejecutado una entrada al
+
+[00:12:36]
+la alza esta entrada al alza puede tener
+
+[00:12:38]
+varios targets uno de los targets puede
+
+[00:12:40]
+ser a este punto o puede ser inclusive a
+
+[00:12:43]
+puntos más altos identificando solamente
+
+[00:12:46]
+estructura de Mercado fíjense acá
+
+[00:12:48]
+tenemos un nuevo High el mercado hace un
+
+[00:12:51]
+nuevo low hace un nuevo High un nuevo
+
+[00:12:53]
+retroceso y fíjense como nosotros
+
+[00:12:55]
+tenemos entradas acá tenemos entradas
+
+[00:12:56]
+acá luego el mercado regresa aquí y acá
+
+[00:13:01]
+Gustavo el mercado va hasta abajo y
+
+[00:13:03]
+quiebra la estructura Qué onda Bueno
+
+[00:13:04]
+pero ya nosotros teníamos antecedentes
+
+[00:13:06]
+de que la tendencia esta venía alcista
+
+[00:13:10]
+esto simplemente lo vemos Nosotros como
+
+[00:13:12]
+tomas de liquidez esta parte se había
+
+[00:13:15]
+podido tradear constantemente en 15
+
+[00:13:17]
+minutos a la alza tomemos de ejemplo
+
+[00:13:19]
+estas zonas y aquí nos bajemos a m5
+
+[00:13:22]
+Entonces ya en m5 sea en el día que tú
+
+[00:13:25]
+estés vamos a poder por ejemplo ubicar
+
+[00:13:27]
+horario aquí aquí se da la sesión de de
+
+[00:13:30]
+de Nueva York fíjense que si nosotros
+
+[00:13:33]
+estamos ubicados acá
+
+[00:13:35]
+chicos nosotros estamos ubicados aquí
+
+[00:13:38]
+en antes de la de la apertura de de
+
+[00:13:42]
+Chicago verad la apertura de Chicago es
+
+[00:13:44]
+exactamente aquí si nosotros tenemos una
+
+[00:13:46]
+tendencia previa alcista es esta
+
+[00:13:49]
+tendencia previa alcista esta tendencia
+
+[00:13:51]
+previa alcista qué nosotros tenemos que
+
+[00:13:54]
+esperar para operar esa tendencia pues
+
+[00:13:56]
+lo único que tenemos que esperar es un
+
+[00:13:58]
+retroceso
+
+[00:13:59]
+simplemente esperar un retroceso y
+
+[00:14:01]
+cuando el mercado se ponga en zona de
+
+[00:14:03]
+compras comprarlo básicamente eso y
+
+[00:14:06]
+después esperar una confirmación cuando
+
+[00:14:09]
+lo veamos en una zona mercado retrocede
+
+[00:14:12]
+y aquí ya nos podríamos Bajar una
+
+[00:14:13]
+temporalidad de M1 o inclusive de tu
+
+[00:14:16]
+temporalidad m5 que ya es una
+
+[00:14:17]
+temporalidad rápida esperar un cambio de
+
+[00:14:21]
+tendencia o esperar una vela en
+
+[00:14:23]
+específico lo que a ti te guste un
+
+[00:14:25]
+indicador que est el rci o lo que tú
+
+[00:14:29]
+quieras un oscilador cualquier indicador
+
+[00:14:32]
+que te pueda ayudar o simplemente con
+
+[00:14:33]
+estructura de Mercado nosotros mapeamos
+
+[00:14:36]
+fíjense aquí tenemos un bajo aquí
+
+[00:14:38]
+tenemos un alto un nuevo bajo un nuevo
+
+[00:14:40]
+alto un nuevo bajo quiebre de estructura
+
+[00:14:43]
+quiebre de estructura y aquí tenemos un
+
+[00:14:44]
+reteste a esa estructura simplemente con
+
+[00:14:47]
+utilizando eso nosotros aquí tenemos una
+
+[00:14:49]
+entrada que yo la hubiera
+
+[00:14:52]
+ejecutado aquí con confirmación puede
+
+[00:14:56]
+ser protegido ahí 88 puntos y y aquí
+
+[00:15:00]
+tenemos si no me equivoco un 1 a
+
+[00:15:02]
+1.67 o inclusive tú hubieras podido
+
+[00:15:05]
+esperar que si el mercado llegó no más
+
+[00:15:07]
+que tú tendrías que haber esperado un
+
+[00:15:08]
+poquito más te habías podido llegar casi
+
+[00:15:10]
+al uno a tres sencillito se puede tener
+
+[00:15:14]
+un stop los más chicos Sí si te bajas a
+
+[00:15:16]
+una temporalidad más pequeña como es M1
+
+[00:15:18]
+puedes tener un stbl más de este estilo
+
+[00:15:21]
+no y puedes salir acá aquí pues aquí
+
+[00:15:25]
+puede salir que son una entrada Este es
+
+[00:15:27]
+un 1 a TR son estilos de de trading
+
+[00:15:29]
+verdad ya depende de ti qué tanto
+
+[00:15:31]
+quieras refinar si quieres refinar
+
+[00:15:32]
+bastante pues vas a tener que estar más
+
+[00:15:34]
+al pendiente del mercado entonces eso es
+
+[00:15:37]
+eh un ejemplo aquí volvámonos de nuevo a
+
+[00:15:41]
+15 minutos y les voy a dar un poquito
+
+[00:15:43]
+más de ejemplos para que ustedes puedan
+
+[00:15:45]
+tradear eso supongamos que aquí el
+
+[00:15:47]
+mercado subió bastante se fue con todo
+
+[00:15:50]
+para arriba y de nuevo nosotros vamos a
+
+[00:15:53]
+hacer un fallout de nuestra estructura
+
+[00:15:55]
+tenemos un punto bajo un punto alto
+
+[00:15:57]
+seguimos la tendencia la tendencia sigue
+
+[00:15:59]
+siendo alcista vamos a tradear a favor
+
+[00:16:01]
+de la tendencia tenemos un punto bajo un
+
+[00:16:04]
+punto alto el mercado se encuentra en
+
+[00:16:06]
+las partes altas que tenemos que esperar
+
+[00:16:07]
+retrocesos ya fíjense como el mercado
+
+[00:16:10]
+aquí correctamente hace un retroceso
+
+[00:16:12]
+donde para ti son oportunidades de
+
+[00:16:14]
+compra qué esperas que el mercado llegue
+
+[00:16:16]
+a una zona de demanda o de oferta en
+
+[00:16:18]
+este caso de demanda porque son compras
+
+[00:16:20]
+a favor de esa tendencia llega a tu zona
+
+[00:16:23]
+de demanda y después de llegar a tu zona
+
+[00:16:25]
+de demanda vas a esperar un cambio
+
+[00:16:26]
+estructural aquí ya te puedes bajar
+
+[00:16:29]
+vamos a bajarnos en este ejemplo a 3
+
+[00:16:31]
+minutos para que ustedes lo vean un
+
+[00:16:33]
+poquito más claro No no más pueden
+
+[00:16:36]
+ayudarse de esto chicos pueden ayudarse
+
+[00:16:38]
+de mucho más cosas no lo es todo esto
+
+[00:16:40]
+ver pero ustedes esto solamente es un
+
+[00:16:43]
+ejemplo fíjense que aquí el el mercado
+
+[00:16:45]
+me deja este punto High este mínimo me
+
+[00:16:48]
+hace un nuevo mínimo luego me hace un
+
+[00:16:50]
+quiebre de estructura luego me hace un
+
+[00:16:53]
+nuevo alto con el quiebre de estructura
+
+[00:16:55]
+ya falla en hacer un nuevo mínimo me
+
+[00:16:57]
+quiebra la estructura y me reteste aquí
+
+[00:17:00]
+por ejemplo yo tengo una entrada en
+
+[00:17:02]
+posición larga por aquí me protejo por
+
+[00:17:05]
+debajo de estos mínimos aproximadamente
+
+[00:17:07]
+y sigo mi tendencia Cuál era el punto
+
+[00:17:10]
+más fácil de salir pues el punto más
+
+[00:17:12]
+fácil Era ese doble techo que estaba
+
+[00:17:14]
+aquí que aparte eso es liquidez el doble
+
+[00:17:16]
+techo ese y ahí fíjense cómo tengo una
+
+[00:17:18]
+entrada un un a dos facilito simplemente
+
+[00:17:21]
+eso obviamente ahorita porque ya pasó
+
+[00:17:24]
+Está más fácil pero básicamente es
+
+[00:17:26]
+práctica chicos es pura práctica la
+
+[00:17:28]
+práctica hace al maestro Entonces es
+
+[00:17:31]
+práctica y esas son operaciones intradía
+
+[00:17:33]
+yo hago Exactamente lo mismo no más que
+
+[00:17:36]
+yo lo haga en temporalidades de 4 horas
+
+[00:17:37]
+y de una hora porque no me gusta estar
+
+[00:17:39]
+al pendiente no me gusta estar muy
+
+[00:17:42]
+pendiente del mercado porque normalmente
+
+[00:17:44]
+tengo cosas que hacer y y me gustan más
+
+[00:17:47]
+las temporalidades altas porque son más
+
+[00:17:48]
+lentas al ser más lentas pues tiene uno
+
+[00:17:51]
+que estar menos pendiente del mercado No
+
+[00:17:53]
+simplemente estás esperando una
+
+[00:17:55]
+estructura una zona en 4 horas en una
+
+[00:17:57]
+hora el mercado tarda su tiempo en
+
+[00:17:59]
+llegar verdad Y así sucesivamente chicos
+
+[00:18:02]
+aquí Podrían haber estirado un poquito
+
+[00:18:03]
+más hasta este High que no lo había
+
+[00:18:05]
+visto en la temporalidad menor un un a
+
+[00:18:07]
+dos un un a TR un un a un es suficiente
+
+[00:18:10]
+para poder ser rentable en el mercado

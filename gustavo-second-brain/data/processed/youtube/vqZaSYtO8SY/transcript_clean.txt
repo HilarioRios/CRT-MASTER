@@ -1,0 +1,527 @@
+[00:00:00]
+[Música]
+
+[00:00:03]
+estamos aquí en un nuevo vídeo para el
+
+[00:00:05]
+canal donde les voy a traer la
+
+[00:00:08]
+configuración del fibonacci que estamos
+
+[00:00:10]
+utilizando para nuestra súper estrategia
+
+[00:00:12]
+de scalping y de intraday que al día de
+
+[00:00:15]
+que estoy grabando esto y probablemente
+
+[00:00:17]
+que se ha subido el vídeo no lo hemos
+
+[00:00:19]
+subido al Canal pero Próximamente
+
+[00:00:21]
+esperela en el canal pero para la
+
+[00:00:23]
+comunidad gratuita de Telegram ya se la
+
+[00:00:26]
+impartimos en vivo Entonces los que no
+
+[00:00:29]
+estén unidos al Canal de Telegram se
+
+[00:00:31]
+pueden unir al Canal de Telegram porque
+
+[00:00:33]
+ya saben ahí las clases llegan antes y
+
+[00:00:35]
+también subimos contenido totalmente
+
+[00:00:37]
+exclusivo para la comunidad de Telegram
+
+[00:00:40]
+También estamos en WhatsApp y nos pueden
+
+[00:00:42]
+suscribirse al canal de YouTube que van
+
+[00:00:45]
+a esperar próximos vídeos bastante
+
+[00:00:48]
+buenos donde estamos matando la liga de
+
+[00:00:50]
+verdad Entonces si tú estás mirando Este
+
+[00:00:52]
+vídeo y no te has suscrito suscríbete
+
+[00:00:55]
+apóyanos con un like para que el
+
+[00:00:57]
+algoritmo nos recomiende y síguenos en
+
+[00:00:59]
+en tiktok en Facebook estamos ahí en
+
+[00:01:02]
+todos lados estamos partiendo el mercado
+
+[00:01:05]
+en dos y no te olvides de mirar todo el
+
+[00:01:08]
+bookcam gratuito que vamos a estar
+
+[00:01:10]
+subiendo Próximamente ya está la primera
+
+[00:01:12]
+clase disponible para que la vayas a
+
+[00:01:14]
+mirar y les voy a traer la configuración
+
+[00:01:16]
+de este fibonacci el día de hoy que
+
+[00:01:18]
+muchos me lo habían estado pidiendo Aquí
+
+[00:01:21]
+tengo los niveles de vivo que ustedes me
+
+[00:01:23]
+habían estado pidiendo la configuración
+
+[00:01:24]
+de este fibonacci y a su vez le voy a
+
+[00:01:27]
+enseñar un poquito cómo funciona pero
+
+[00:01:28]
+ustedes ya lo van a poder estar viendo a
+
+[00:01:31]
+detalle en la estrategia este Facebook
+
+[00:01:33]
+saben que es una herramienta que
+
+[00:01:35]
+nosotros utilizamos como ayuda visual y
+
+[00:01:37]
+para identificar zonas importantes donde
+
+[00:01:40]
+vamos a poder entrar al mercado entonces
+
+[00:01:42]
+Esta es la configuración del fibo lo
+
+[00:01:44]
+demás los colores y todo lo demás son
+
+[00:01:46]
+cuestiones ya visuales que se configuran
+
+[00:01:49]
+a gusto Pero lo importante son los
+
+[00:01:51]
+niveles del 50 por ciento
+
+[00:01:53]
+niveles del 61.8% 70 80
+
+[00:01:58]
+88.6 95 100% 110 y 127 por ciento
+
+[00:02:04]
+entonces interesante Aquí está para que
+
+[00:02:06]
+ustedes lo configuren y lo vean cómo
+
+[00:02:08]
+funciona Entonces paso algo que quiero
+
+[00:02:12]
+recalcar primero siempre el fibonacci lo
+
+[00:02:14]
+vamos a tratar de izquierda a derecha
+
+[00:02:16]
+siempre bueno en este caso de mi
+
+[00:02:19]
+izquierda hacia mi derecha de de aquí
+
+[00:02:22]
+hacia este punto según el fractal que
+
+[00:02:25]
+quiera que queramos medir fíjense muy
+
+[00:02:28]
+bien Vamos a hacer primero les voy a
+
+[00:02:30]
+explicar cómo funcionan y después vamos
+
+[00:02:32]
+a hacer una pequeña práctica para que
+
+[00:02:34]
+este vídeo quede totalmente completo y
+
+[00:02:36]
+no haya duda vamos a tomar en cuenta
+
+[00:02:38]
+este pequeño fractal que tenemos por
+
+[00:02:40]
+aquí o este movimiento y fíjense vamos a
+
+[00:02:43]
+medir este pequeño retroceso que ha
+
+[00:02:45]
+tenido el precio bueno vamos a medir
+
+[00:02:47]
+este pequeñito para que ustedes me
+
+[00:02:48]
+entiendan y se entienda bastante bien
+
+[00:02:50]
+este fibonacci fíjense si nosotros
+
+[00:02:52]
+medimos de este punto a este punto vamos
+
+[00:02:55]
+a ver que el precio muy probablemente
+
+[00:02:57]
+retrocedió a un 80%, entonces niveles de
+
+[00:03:01]
+110 127 por ciento niveles de entre 80
+
+[00:03:06]
+88 95% son niveles que nosotros vamos a
+
+[00:03:10]
+poder estar en este caso vendiendo todo
+
+[00:03:12]
+lo que esté por encima del 50% van a ser
+
+[00:03:14]
+zonas de venta en este caso todo lo que
+
+[00:03:16]
+esté por debajo del 50% van a ser zonas
+
+[00:03:19]
+de compras ventas arriba compras abajo y
+
+[00:03:22]
+niveles del 61.8 lo utilizamos para ver
+
+[00:03:25]
+las inducciones o las manipulaciones que
+
+[00:03:27]
+hace mucho el mercado niveles de entre
+
+[00:03:29]
+el 70 y el 80%
+
+[00:03:32]
+88% son niveles de zonas decisionales
+
+[00:03:35]
+donde el precio decidió romper la
+
+[00:03:38]
+estructura por estructura niveles del 88
+
+[00:03:41]
+al 95 incluso 100% son áreas de extremo
+
+[00:03:46]
+entonces áreas de extremo áreas de
+
+[00:03:48]
+adicional entre el 70 y el 88 decisional
+
+[00:03:51]
+entre el 88 y 100% aproximadamente
+
+[00:03:53]
+extrema y zonas de manipulación o zonas
+
+[00:03:57]
+de stopcond 127 y 110 por ciento y así
+
+[00:04:01]
+es como se vería nuestro poderoso
+
+[00:04:04]
+fibonacci Se los voy a explicar con una
+
+[00:04:06]
+entrada que tuvimos el día de hoy
+
+[00:04:07]
+fíjense muy bien gráfico de una hora de
+
+[00:04:09]
+30 nosotros tuvimos una entrada por acá
+
+[00:04:12]
+por acá Tuvimos una entrada fíjense muy
+
+[00:04:15]
+bien cómo funciona este fue una noche Yo
+
+[00:04:16]
+me di si se fijan de este punto a este
+
+[00:04:20]
+punto me di nuestro fractal que
+
+[00:04:22]
+llevábamos y el precio pegó un mechas
+
+[00:04:24]
+hacia arriba una vez la fuerte y llegó a
+
+[00:04:28]
+nuestra zona de stopcond 110 y 127 por
+
+[00:04:32]
+aproximadamente por encima del 110 la
+
+[00:04:35]
+zona sería todo este cuadrito entre el
+
+[00:04:37]
+110 y el 127 zona de stopcolm también
+
+[00:04:39]
+teníamos nuestro order block extremo
+
+[00:04:42]
+entre el 100 y el 88 aproximadamente un
+
+[00:04:44]
+poquito más abajo del 88 y nuestra zona
+
+[00:04:47]
+de decisional entre ese mismo nivel que
+
+[00:04:49]
+sería del 88 85 86% por ahí anda blogs y
+
+[00:04:54]
+un 70% y nuestra zona de equilibrio el
+
+[00:04:57]
+50%, por eso si se fijan aquí tuvo un
+
+[00:05:00]
+retroceso el precio para luego ir a
+
+[00:05:02]
+buscar finalmente la zona que le
+
+[00:05:03]
+interesaba Ok excelente entonces así
+
+[00:05:06]
+funcionaría nuestro fibonacci como les
+
+[00:05:09]
+digo lo tenemos mucho más detallado en
+
+[00:05:12]
+la clase que tuvimos las clases que
+
+[00:05:14]
+tuvimos del vodka Entonces no se
+
+[00:05:16]
+preocupen por eso ahora les voy a
+
+[00:05:17]
+enseñar a la inversa si medimos de
+
+[00:05:21]
+del del de este punto a este punto más o
+
+[00:05:26]
+menos el nivel
+
+[00:05:28]
+que había tenido el el High el precio de
+
+[00:05:31]
+este punto vamos a señalarlo por acá de
+
+[00:05:34]
+este punto al alto que había tenido el
+
+[00:05:37]
+precio si se fija en el precio del nuevo
+
+[00:05:38]
+se metió en una zona de un
+
+[00:05:40]
+127%. zona de compras o zona de stop
+
+[00:05:43]
+Hunt donde liquidó estos bajos y a
+
+[00:05:46]
+partir de ahí hizo un pequeño retroceso
+
+[00:05:47]
+para seguir su tendencia e ir a una zona
+
+[00:05:50]
+mucho más mayor que es esa zona de acá
+
+[00:05:51]
+que era la que le entonces así
+
+[00:05:55]
+funcionaría nuestro fibonacci Entonces
+
+[00:05:58]
+vamos a resumirlo de nuevo para que
+
+[00:06:00]
+quede muy claro muy cortito el vídeo
+
+[00:06:01]
+pero muy claro fíjense nuestro fibonacci
+
+[00:06:04]
+zonas de 50% zona de equilibrio donde
+
+[00:06:08]
+vamos a estar teniendo ojo con el precio
+
+[00:06:09]
+si venimos en compra porque por aquí
+
+[00:06:12]
+podría regresarse no supongamos que
+
+[00:06:13]
+venimos en una tendencia completamente
+
+[00:06:15]
+bajista entonces aquí podría retornar el
+
+[00:06:18]
+precio luego zonas óptimas de
+
+[00:06:20]
+decisionales entre un 70 y un 88 por
+
+[00:06:26]
+88.6% aproxima
+
+[00:06:29]
+más pero son niveles institucionales y
+
+[00:06:32]
+zona extrema originador de este
+
+[00:06:35]
+movimiento fractal podríamos decir que
+
+[00:06:36]
+el movimiento fractal sería este el
+
+[00:06:38]
+original Aunque aquí este sería el
+
+[00:06:42]
+originador del fractal entre un 100%
+
+[00:06:44]
+Igualmente si el precio viene por acá
+
+[00:06:46]
+Este les decisional y nuestro extremo
+
+[00:06:49]
+podría encontrarse en esta zona que está
+
+[00:06:51]
+aquí entre 100% 95 y 38.6 y las zonas de
+
+[00:06:56]
+stopcolm donde también el precio puede
+
+[00:06:58]
+tener una reversión como lo vimos el día
+
+[00:06:59]
+de hoy en los 30 entre el 110 127% y por
+
+[00:07:03]
+ahí podría el precio reaccionar tomar
+
+[00:07:05]
+liquidez del High y ahí caer que fue
+
+[00:07:08]
+exactamente lo que hizo el día de hoy
+
+[00:07:10]
+Bueno espero que se haya entendido
+
+[00:07:12]
+totalmente Este fibonache es un video
+
+[00:07:13]
+bastante cortito para que lo vean
+
+[00:07:16]
+ustedes esta herramienta que estamos
+
+[00:07:18]
+manejando en nuestra estrategia Espero
+
+[00:07:19]
+que les haya gustado suscribanse al
+
+[00:07:21]
+Canal para más y nos vemos en la próxima
+
+[00:07:26]
+[Música]

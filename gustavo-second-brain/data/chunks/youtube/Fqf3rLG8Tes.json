@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "YT_Fqf3rLG8Tes_001",
+    "video_id": "Fqf3rLG8Tes",
+    "start_sec": 0.16,
+    "end_sec": 121.4,
+    "text": "El tema de SMT, ¿qué es un primero que nada, qué es una SMT? Ya le dicen así, SMT, divergencia, tiene muchos nombres, ¿no? Es, por ejemplo, nosotros que usamos la metodología CRT y que tenemos este el típico Turtle sub, donde el precio toma el alto de la vela anterior y tal, este, para que se forme el Tortel Sop. Por ejemplo, vamos a poner un caso como este, ¿no? Aquí el precio aquí toma el low de la vela anterior, este, y sube, ¿no? Esto para nosotros es un indicativo de que probablemente el objetivo se va a encontrar arriba, ¿no? En dentro de las velas, porque las velas están este conformadas o están hechas o el algoritmo está hecho para tomar máximos y mínimos de velas, que es donde se encuentra eh la liquidez. Ahora, dicho esto, ¿qué es eso entonces una SMT? SMT. Una SMT es como una especie de divergencia en la que el parco relacionado, en este caso, si estamos hablando del NASDAQ 100, sería el SP500. Este, por ejemplo, te toma la liquidez de este mínimo y el otro par no te la toma. Entonces, a la hora de tú ver un rango, tú dices, realmente esto no es un rango, ¿no? En este en el SP500, por ejemplo, el SP. Pero como ya te la tomó en tu parco relacionado, tú asumes que ese sí será un buen rango. Vamos a poner varios ejemplos de pares, ¿no? El eurodólar con el DXI o el índice del dólar con la libra dólar. Este, el oro con la plata pares correlacionados. Funciona para pares correlacionados o inversamente correlacionados. O sea, que si uno sube, el otro baje. Por ejemplo, el dólar cuando sube baja el euro y viceversa no sube el euro, baja el dólar. Por ejemplo, ahora estado subiendo el el dólar y bajando el euro. Entonces, funciona así. ¿Cómo funcionaría en un par inversamente correlacionado? Pues uno tendría que dar una señal de baja y el otro una señal de alza. Ejemplo, yo tengo un Turtle Sop de así",
+    "source_id": "YT_CANAL_02_Fqf3rLG8Tes",
+    "title": "Por Qué SMT Hace Mucho Más Precisa la Estrategia CRT",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=Fqf3rLG8Tes",
+    "deep_link": "https://www.youtube.com/watch?v=Fqf3rLG8Tes&t=0s"
+  },
+  {
+    "chunk_id": "YT_Fqf3rLG8Tes_002",
+    "video_id": "Fqf3rLG8Tes",
+    "start_sec": 109.4,
+    "end_sec": 230.88,
+    "text": "funciona así. ¿Cómo funcionaría en un par inversamente correlacionado? Pues uno tendría que dar una señal de baja y el otro una señal de alza. Ejemplo, yo tengo un Turtle Sop de así bajista, pero en el eurodólar yo tengo un patrón así. O sea, automáticamente intuiré que el precio ya no va a ir por este mínimo, sino que continuará alcista hasta llevarse el objetivo. Entonces ahí se dice que hay una divergencia o un SNT entre los dos pares que están correlacionados o inversamente correlacionados. Si se entiende bien esto. Entonces, ahora, ¿cómo está el aplicativo? ¿Cómo lo aplicas tú, Gustavo? En cualquier temporalidad se puede llegar a aplicar, pero por ejemplo voy a poner un ejemplo del NASDAQ 100, este que está aquí, que yo tomé una entrada al alza con la de Senti. Por ejemplo, yo voy aquí a esta gráfica, me doy cuenta que el precio formó justo este punto de aquí, este rango, ¿no? Tanto me sirve para saber entrar, por ejemplo, aquí en este load o tanto me sirve para entrar en una continuación aquí hacia este punto. Me sirve para las dos cosas. Entonces, vamos a ver los dos casos. Aquí cuando el precio no ha tomado el low este y cuando el precio lo continúa, ¿no? Mira, vemos nuestro parco relacionado. Aquí yo les recomiendo que si usan Nasdaq pues puedan hacer el SP500. En el caso del también muchas veces pasa con los brokers, esto también es otra cosa, en un broker toma la liquidez y en otro broker no la toma, etcétera, etcétera. Eh, yo les recomiendo para el caso de índices, que es donde como más lo uso yo, eh, lo que tengan es el par de futuros, el contrato de futuros. Yo tengo, por ejemplo, aquí el el SP500, el de futuros. Yo opero CFDs, pero pues el de futuros es como el más fiable. Y luego después tienes el el se llama así o el SP500, ¿no? Mira, vamos a estudiar los dos para este caso que te estaba mostrando acá en la gráfica. Mira como el SP500 sí que tomó",
+    "source_id": "YT_CANAL_02_Fqf3rLG8Tes",
+    "title": "Por Qué SMT Hace Mucho Más Precisa la Estrategia CRT",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=Fqf3rLG8Tes",
+    "deep_link": "https://www.youtube.com/watch?v=Fqf3rLG8Tes&t=109s"
+  },
+  {
+    "chunk_id": "YT_Fqf3rLG8Tes_003",
+    "video_id": "Fqf3rLG8Tes",
+    "start_sec": 217.88,
+    "end_sec": 338.2,
+    "text": "luego después tienes el el se llama así o el SP500, ¿no? Mira, vamos a estudiar los dos para este caso que te estaba mostrando acá en la gráfica. Mira como el SP500 sí que tomó el bajo, del día anterior y luego fíjate acá como el NASDAQ 100 sí que no tomó, por ejemplo, el low acá. ¿Ves como el Nasdaq 100 no tomó este bajo este bajo que está aquí? Entonces, automáticamente yo haría como si esto sí es un rango o como si el PC sí eliminó la liquidez del Nasdaq 100 porque ya lo hizo el SP500. Hay veces que el precio sí que irá volverá a tomar el low, aunque no lo haya tomado, lo volverá a tomar, pero por lo general es así, así como te lo estoy diciendo, ya lo validamos como un rango. Entonces, ¿cómo dónde, por ejemplo, estaría mi entrada? No, aquí en el en el NASD, en el SP500 primero que el que tomó la liquidez y luego en el Nasdaq 100. Al ver que ya sí tomó la liquidez el SP500, yo buscaría un rango, no sé, en cuatro, una hora. Voy a hacer algo muy sencillo, 4, una hora, por ejemplo, en 4 horas aquí en esta vela o en esta vela de continuación o en esta vela de continuación y ya podrías buscar tu señal de entrada en una hora, en un rango reiniciado, un rango a favor. Por ejemplo, aquí el precio hace un rango contrario bajista, después lo reinició aquí y aquí tendrías una entrada justo en este punto cuando ha este. Ya. Ahora vamos a irnos al mismo punto del NAD acción para que veas la SMT, por ejemplo. Aquí está la SMT. Mira aquí SMT porque se tomó liquidez y el otro no. Fue de manera muy tenue, pero igualmente lo hizo. Si vemos el SP es como el SP500, por ejemplo, perdón, el Nadda. el SP llegaba y hacía esto y el Nasdaq, fíjate que no hizo eso, no tomó la liquidez, pero entonces lo damos como válido porque ya vemos la confirmación del SP500 y ya intuimos que el precio ya no va a venir para abajo. Y entonces igualmente cuando el precio forma este",
+    "source_id": "YT_CANAL_02_Fqf3rLG8Tes",
+    "title": "Por Qué SMT Hace Mucho Más Precisa la Estrategia CRT",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=Fqf3rLG8Tes",
+    "deep_link": "https://www.youtube.com/watch?v=Fqf3rLG8Tes&t=217s"
+  },
+  {
+    "chunk_id": "YT_Fqf3rLG8Tes_004",
+    "video_id": "Fqf3rLG8Tes",
+    "start_sec": 327.12,
+    "end_sec": 447.6,
+    "text": "liquidez, pero entonces lo damos como válido porque ya vemos la confirmación del SP500 y ya intuimos que el precio ya no va a venir para abajo. Y entonces igualmente cuando el precio forma este rango bajista, este que está aquí bajista y lo toma, ¿verdad? Nosotros también este lo damos como que ya está en lo mismo, ¿no? Este rango está hecho o está formado, aunque no tomó la liquidez. Yo me pongo exactamente, por ejemplo, en esta vela que está aquí, justo en esta vela, ves que hay un rango bajista en una hora que también se está formando en diario. Mismo rango, perdón, el el sí, la toma de liquidez en el SP y en el Nasdaq. ¿Ves que aquí, por ejemplo, observa muy bien como el SP500 lo completó y el Nasdaq no? Entonces, ahí es donde existe un SMT, una divergencia entre los dos pares. Por lo tanto, entonces nosotros lo daremos como válido en el NASDAQ porque ya el SP500 lo lo dio. Entonces, en ese caso, fíjate como ya el precio arranca para arriba, ¿no? O sube para arriba porque ya reinició ese rango, ese range. En el caso también de de esto, en el caso también de esto, vamos nosotros también a ver que pasa lo mismo en 12 horas. en en las mismas 12 horas pasa lo mismo. Mira, vemos el NASDAQ 100 y aparentemente esto no sería ningún rango, ningún range. ¿Por qué? Porque el precio no eh tiene como esa toma de liquidez, entonces no se consía como un TLE Sop en el en el en el caso del Nasdaq 100, pero mira como en el SP500 sí que lo hizo. Por lo tanto, yo intuyo que ya el precio no va a regresar y que va a continuar alcista. Si nosotros le damos play para adelante, ves como el precio va hacia el objetivo y le damos play para adelante en el Nasdaq y ves como el objetivo va por el objetivo del precio los dos pares. Mira la diferencia, por ejemplo, te voy a poner la diferencia acá en la misma temporalidad. Aquí, por ejemplo, los dos pares no es un rango este válido porque el precio no toma el bajo. Pues al que al haber un par que no toma el bajo y el otro sí, pues incrementa la probabilidad de que el precio sí vaya por este alto. Pero aquí fíjate la",
+    "source_id": "YT_CANAL_02_Fqf3rLG8Tes",
+    "title": "Por Qué SMT Hace Mucho Más Precisa la Estrategia CRT",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=Fqf3rLG8Tes",
+    "deep_link": "https://www.youtube.com/watch?v=Fqf3rLG8Tes&t=327s"
+  },
+  {
+    "chunk_id": "YT_Fqf3rLG8Tes_005",
+    "video_id": "Fqf3rLG8Tes",
+    "start_sec": 437.08,
+    "end_sec": 557.72,
+    "text": "el precio no toma el bajo. Pues al que al haber un par que no toma el bajo y el otro sí, pues incrementa la probabilidad de que el precio sí vaya por este alto. Pero aquí fíjate la peculiaridad, que los dos pares, ninguno de los dos toma el bajo. Entonces, ninguno de los dos no hay SMT. Albert, entonces la probabilidad de que esto no sea un verdadero rango es alta. y mega por consiguiente lo que pasa. El precio viene y toma la liquidez en el NZDAQ y en el SP500 y tira para abajo, ¿no? La siguiente barra imprime para abajo, sigue para abajo, ¿no? Igual en el Nasda 100 y por eso este no es un rango alcista. Acá pasa lo contrario. ¿Por qué? Porque el precio, si te fijas, toma la liquidez en el SP y en el NASDAQ, ¿no? Entonces, esa es la diferencia. Y esto ocurre en todas las mayoría de las temporalidades, también ocurre para las confirmaciones. Entonces, al menos que el precio quiera buscar una un rango más abajo de una alta temporalidad o lo que sea, pero ahí ocurrió justo así. Así. Vamos a ver, por ejemplo, si tiene confluencias de otras temporalidades, porque a veces las tiene. 8 horas, 8 horas. Mira, en 8 horas no mucho porque esta habilita no me gusta demasiado, pero puede ser que en 6 horas sí. Un SM, eh, que tenga también un SMT. 6 horas. Mira, toma low, ahí va por el extremo y mira, en 6 horas también va por el extremo. Eso está exactamente lo mismo. Y esto puede ocurrir en múltiples temporalidades. Mira, en 4 horas, por ejemplo, este ya tiene este sí que es un rango en 4 horas, pero tú dirías, no hay un rango en una temporalidad mayor, solamente en 4 horas. Realmente hay un rango en diario y en 12 horas también, que son temporalidades más altas que te dan una buena confirmación de entrada, ¿no? Entonces eso ocurre bastante bastante con el mercado. Esto es en el caso de el Nanza 100. Yo no recuerdo qué entrada exactamente agarré, pero creo que por ahí agarré una entrada. Creo que agarré una a continuación. Esto sería, o verás. Sí, 19 de",
+    "source_id": "YT_CANAL_02_Fqf3rLG8Tes",
+    "title": "Por Qué SMT Hace Mucho Más Precisa la Estrategia CRT",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=Fqf3rLG8Tes",
+    "deep_link": "https://www.youtube.com/watch?v=Fqf3rLG8Tes&t=437s"
+  },
+  {
+    "chunk_id": "YT_Fqf3rLG8Tes_006",
+    "video_id": "Fqf3rLG8Tes",
+    "start_sec": 544.72,
+    "end_sec": 666.8,
+    "text": "Esto es en el caso de el Nanza 100. Yo no recuerdo qué entrada exactamente agarré, pero creo que por ahí agarré una entrada. Creo que agarré una a continuación. Esto sería, o verás. Sí, 19 de diciembre. Mira, 19 de diciembre. Yo agarré la continuación porque ya entendía que el rango estaba, el objetivo estaba acá arriba, ¿no? Objetivo diario estaba acá arriba. Justo y agarramos esa continuación mirando, usándole esa la SMT con el con el SP500, ¿no? También también muchas veces pasa, por ejemplo, que este no tomó la liquidez y el otro par sí la tomó. Entonces, ahí, ¿qué haces, Gustavo? Pues muy sencillo. Si si uno ya la tomo, ya yo puedo decir o puedo intuir que ya este el objetivo está tomado y que tengo que tener cuidado con el reinicio del rango en en un par o en el otro. Entonces, de esa manera se utilizan. Este este es solamente un ejemplo así muy práctico para que tú vayas agarrándole como más el ritmo al tema ese. Voy voy a poder poner un ejemplo más ahorita no más lo tengo que buscar en la plata y el oro. Tengo por aquí en este caso el CFD de la del oro. Esto también ocurre muchísimo en en el par del oro también, por ejemplo, y ya eh puedo verlo. En el caso también de Bitcoin ocurre con Bitcoin, Ethereum, etcétera, etcétera, ¿no? Vamos a ver, por ejemplo, mira, estos lows, ya aquí, por ejemplo, nosotros tenemos en el 4 de noviembre del 2025, el precio no formó un rango realmente, pero tú dirás, \"Gustavo, mira, te agarró subiéndose, verad, ¿es un rango o no es un rango?\" Pues muy fácil, nosotros nos vamos aquí al a la plata y mira la plata. ¿Ves la diferencia? Es la plata como eliminó low. Por lo tanto, nosotros ya sabemos que ese rango del enel oro va a ser un rango aunque no haya tomado la liquidez o la haya tomado de manera muy térme. ¿Ves el ejemplo? Y esto seguramente también vaya pasando en otras temporalidades, como en 12 horas, en 6, en 8, en 4 horas, en una hora, etcétera, etcétera. Mira, en 12 horas pasa lo mismo. Nosotros teníamos este objetivo. Si",
+    "source_id": "YT_CANAL_02_Fqf3rLG8Tes",
+    "title": "Por Qué SMT Hace Mucho Más Precisa la Estrategia CRT",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=Fqf3rLG8Tes",
+    "deep_link": "https://www.youtube.com/watch?v=Fqf3rLG8Tes&t=544s"
+  },
+  {
+    "chunk_id": "YT_Fqf3rLG8Tes_007",
+    "video_id": "Fqf3rLG8Tes",
+    "start_sec": 655.88,
+    "end_sec": 711.2,
+    "text": "pasando en otras temporalidades, como en 12 horas, en 6, en 8, en 4 horas, en una hora, etcétera, etcétera. Mira, en 12 horas pasa lo mismo. Nosotros teníamos este objetivo. Si nosotros nos vamos, por ejemplo, a la plata, nos damos cuenta que en la plata, por ejemplo, el precio no. Y aquí eh ya nosotros sabiendo el diario, la temporalidad diaria tiene el objetivo y viendo la plata, que por ejemplo la plata tomó el alto, pero sabiendo que el oro le falta por tomar el objetivo, nosotros seguiríamos alcistas la plata. Hasta que el oro no tomó el objetivo, es que la plata ya pudo haber hecho el retroceso. ¿Ves? ¿Ves que la plata siguió subiendo después de haber tomado el objetivo? Es porque hay un tí entre la plata y el oro. Entonces, el oro subió más todavía y ya que el oro se llevó el objetivo es cuando la plata cayó. No cayó desde que se llevó el objetivo. Este es porque había un SMT entre los dos pares correlacionados o también funciona con los inversamente correlacionados.",
+    "source_id": "YT_CANAL_02_Fqf3rLG8Tes",
+    "title": "Por Qué SMT Hace Mucho Más Precisa la Estrategia CRT",
+    "channel": "Gustavom.Trader",
+    "topics": [],
+    "source_url": "https://www.youtube.com/watch?v=Fqf3rLG8Tes",
+    "deep_link": "https://www.youtube.com/watch?v=Fqf3rLG8Tes&t=655s"
+  }
+]

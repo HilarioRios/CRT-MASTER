@@ -1,0 +1,27 @@
+{
+  "source_id": "YT_CANAL_02_UuP9hQXkzj0",
+  "video_id": "UuP9hQXkzj0",
+  "metadata": {
+    "channel": "Gustavom.Trader",
+    "title": "ENTRADAS SNIPER",
+    "url": "https://www.youtube.com/watch?v=UuP9hQXkzj0",
+    "published_at": "2022-02-06",
+    "duration_sec": 37,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "short_sin_narracion"
+  },
+  "visibility_of_content": "UNVERIFIED",
+  "topics": [],
+  "concepts": [],
+  "key_ideas": [],
+  "rules_principles": [],
+  "mistakes_mentioned": [],
+  "terminology": {},
+  "entities": {"people": [], "tools": [], "markets": []},
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=UuP9hQXkzj0",
+  "series_note": null,
+  "chunks": [],
+  "note": "No extractable spoken content -- auto-caption is just [Musica] + one stray word. Likely a visual-only Short. Do not cite as evidence for any content claim; would need visual/OCR review to recover real content."
+}

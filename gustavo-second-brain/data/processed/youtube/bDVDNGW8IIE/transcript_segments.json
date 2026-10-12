@@ -1,0 +1,2262 @@
+[
+  {
+    "start_sec": 0.0,
+    "end_sec": 1.24,
+    "text": "Pues hola, ¿qué pasa a todos amigos de"
+  },
+  {
+    "start_sec": 1.24,
+    "end_sec": 3.32,
+    "text": "YouTube? Estamos en un nuevo video,"
+  },
+  {
+    "start_sec": 3.32,
+    "end_sec": 6.2,
+    "text": "trayéndoles un video más del curso de"
+  },
+  {
+    "start_sec": 6.2,
+    "end_sec": 9.2,
+    "text": "CRT Master y esta vez con el tema de"
+  },
+  {
+    "start_sec": 9.2,
+    "end_sec": 10.72,
+    "text": "estructura de mercado avanzada. En este"
+  },
+  {
+    "start_sec": 10.72,
+    "end_sec": 13.8,
+    "text": "video vas a comprender al 100% cómo es"
+  },
+  {
+    "start_sec": 13.8,
+    "end_sec": 15.52,
+    "text": "la estructura interna dentro de un"
+  },
+  {
+    "start_sec": 15.52,
+    "end_sec": 17.2,
+    "text": "rango, porque es importante [música]"
+  },
+  {
+    "start_sec": 17.2,
+    "end_sec": 19.64,
+    "text": "conocerla para tener un contexto del"
+  },
+  {
+    "start_sec": 19.64,
+    "end_sec": 21.68,
+    "text": "precio y no simplemente tradear por"
+  },
+  {
+    "start_sec": 21.68,
+    "end_sec": 24.24,
+    "text": "patrón. Y es muy importante porque si tú"
+  },
+  {
+    "start_sec": 24.24,
+    "end_sec": 27.04,
+    "text": "no conoces o no formulas un contexto del"
+  },
+  {
+    "start_sec": 27.04,
+    "end_sec": 29.64,
+    "text": "precio, vas a equivocarte muchas veces"
+  },
+  {
+    "start_sec": 29.64,
+    "end_sec": 31.72,
+    "text": "simplemente por querer ver un patrón. Y"
+  },
+  {
+    "start_sec": 31.72,
+    "end_sec": 33.36,
+    "text": "bueno, vamos a empezar con el tema que"
+  },
+  {
+    "start_sec": 33.36,
+    "end_sec": 36.28,
+    "text": "es bastante abundante y muy interesante"
+  },
+  {
+    "start_sec": 36.28,
+    "end_sec": 38.16,
+    "text": "y nos dice los primeros puntos que el"
+  },
+  {
+    "start_sec": 38.16,
+    "end_sec": 39.48,
+    "text": "marco dentro del cual ocurren los"
+  },
+  {
+    "start_sec": 39.48,
+    "end_sec": 40.76,
+    "text": "movimientos de precio se denomina"
+  },
+  {
+    "start_sec": 40.76,
+    "end_sec": 42.84,
+    "text": "estructura de mercado. Y para eso he"
+  },
+  {
+    "start_sec": 42.84,
+    "end_sec": 44.76,
+    "text": "hecho un dibujito muy sencillo. cada"
+  },
+  {
+    "start_sec": 44.76,
+    "end_sec": 46.36,
+    "text": "vela, por ejemplo, en este caso que tú"
+  },
+  {
+    "start_sec": 46.36,
+    "end_sec": 49.12,
+    "text": "tengas una vela alcista dentro de esa"
+  },
+  {
+    "start_sec": 49.12,
+    "end_sec": 50.84,
+    "text": "vela, que tú puedes ver una temporalidad"
+  },
+  {
+    "start_sec": 50.84,
+    "end_sec": 53.0,
+    "text": "diaria, en un semanal, para, por así"
+  },
+  {
+    "start_sec": 53.0,
+    "end_sec": 55.52,
+    "text": "decirlo, como un ejemplo sencillo, en"
+  },
+  {
+    "start_sec": 55.52,
+    "end_sec": 57.24,
+    "text": "una temporalidad de una hora de 15"
+  },
+  {
+    "start_sec": 57.24,
+    "end_sec": 59.16,
+    "text": "minutos vas a tener impulsos y"
+  },
+  {
+    "start_sec": 59.16,
+    "end_sec": 61.76,
+    "text": "retrocesos que van a ser prácticamente a"
+  },
+  {
+    "start_sec": 61.76,
+    "end_sec": 64.2,
+    "text": "ser máximos y mínimos. En una tendencia"
+  },
+  {
+    "start_sec": 64.2,
+    "end_sec": 66.12,
+    "text": "alcista, el precio hace máximos cada vez"
+  },
+  {
+    "start_sec": 66.12,
+    "end_sec": 68.8,
+    "text": "más altos y mínimos cada vez más altos."
+  },
+  {
+    "start_sec": 68.8,
+    "end_sec": 70.88,
+    "text": "Y en una tendencia bajista, pues el"
+  },
+  {
+    "start_sec": 70.88,
+    "end_sec": 73.32,
+    "text": "precio en una barra bajista formaría en"
+  },
+  {
+    "start_sec": 73.32,
+    "end_sec": 76.64,
+    "text": "este caso eh bajos cada vez más bajos y"
+  },
+  {
+    "start_sec": 76.64,
+    "end_sec": 79.04,
+    "text": "altos cada vez más bajos. Es importante"
+  },
+  {
+    "start_sec": 79.04,
+    "end_sec": 80.52,
+    "text": "comprender esto porque si no lo"
+  },
+  {
+    "start_sec": 80.52,
+    "end_sec": 83.04,
+    "text": "comprendemos al 100% nosotros nos vamos"
+  },
+  {
+    "start_sec": 83.04,
+    "end_sec": 84.48,
+    "text": "a equivocar o por eso vamos a tener"
+  },
+  {
+    "start_sec": 84.48,
+    "end_sec": 86.72,
+    "text": "muchos stop loss. Entonces los elementos"
+  },
+  {
+    "start_sec": 86.72,
+    "end_sec": 88.2,
+    "text": "claves de la estructura básica incluyen"
+  },
+  {
+    "start_sec": 88.2,
+    "end_sec": 89.8,
+    "text": "simplemente máximos y mínimos. El"
+  },
+  {
+    "start_sec": 89.8,
+    "end_sec": 91.28,
+    "text": "concepto de estructura de mercado es"
+  },
+  {
+    "start_sec": 91.28,
+    "end_sec": 93.56,
+    "text": "inherente y subjetivo. Sirve, o sea, que"
+  },
+  {
+    "start_sec": 93.56,
+    "end_sec": 95.16,
+    "text": "esto es subjetivo, sirve principalmente"
+  },
+  {
+    "start_sec": 95.16,
+    "end_sec": 98.68,
+    "text": "como confluencia para ideas de lo que es"
+  },
+  {
+    "start_sec": 98.68,
+    "end_sec": 100.72,
+    "text": "cada rango. O sea, no es una base"
+  },
+  {
+    "start_sec": 100.72,
+    "end_sec": 103.04,
+    "text": "principal, no es como que lo principal"
+  },
+  {
+    "start_sec": 103.04,
+    "end_sec": 105.28,
+    "text": "que nosotros estudiamos en CRT, sirven"
+  },
+  {
+    "start_sec": 105.28,
+    "end_sec": 108.2,
+    "text": "solamente para ver o formular eh cómo se"
+  },
+  {
+    "start_sec": 108.2,
+    "end_sec": 110.08,
+    "text": "mueve el precio dentro de lo que puede"
+  },
+  {
+    "start_sec": 110.08,
+    "end_sec": 111.48,
+    "text": "ver un rango. Por ejemplo, que aquí"
+  },
+  {
+    "start_sec": 111.48,
+    "end_sec": 113.8,
+    "text": "puedes tener un patrón clásico de tres"
+  },
+  {
+    "start_sec": 113.8,
+    "end_sec": 116.48,
+    "text": "velas y cuando tú tienes el punto máximo"
+  },
+  {
+    "start_sec": 116.48,
+    "end_sec": 118.8,
+    "text": "y el punto bajo, el precio no va a"
+  },
+  {
+    "start_sec": 118.8,
+    "end_sec": 121.72,
+    "text": "llegar o no va a atacar ese a veces ese"
+  },
+  {
+    "start_sec": 121.72,
+    "end_sec": 124.32,
+    "text": "ese rango, ese low en este caso en la"
+  },
+  {
+    "start_sec": 124.32,
+    "end_sec": 126.48,
+    "text": "parte baja del rango de una sola vez."
+  },
+  {
+    "start_sec": 126.48,
+    "end_sec": 127.68,
+    "text": "muchas veces lo va a hacer con un"
+  },
+  {
+    "start_sec": 127.68,
+    "end_sec": 130.28,
+    "text": "impulso, un retroceso, un nuevo impulso,"
+  },
+  {
+    "start_sec": 130.28,
+    "end_sec": 131.76,
+    "text": "un retroceso y finalmente llegar al"
+  },
+  {
+    "start_sec": 131.76,
+    "end_sec": 134.08,
+    "text": "objetivo. Es por eso que para esto es"
+  },
+  {
+    "start_sec": 134.08,
+    "end_sec": 136.36,
+    "text": "importante saber o conocer un poquito de"
+  },
+  {
+    "start_sec": 136.36,
+    "end_sec": 138.08,
+    "text": "estructura de mercado, aunque como bien"
+  },
+  {
+    "start_sec": 138.08,
+    "end_sec": 139.64,
+    "text": "dice la dispositiva de este material de"
+  },
+  {
+    "start_sec": 139.64,
+    "end_sec": 141.6,
+    "text": "estudio puede llegar a ser subjetivo,"
+  },
+  {
+    "start_sec": 141.6,
+    "end_sec": 143.6,
+    "text": "pero nos va a ayudar mucho a formular"
+  },
+  {
+    "start_sec": 143.6,
+    "end_sec": 146.28,
+    "text": "contexto del precio. Decirte también que"
+  },
+  {
+    "start_sec": 146.28,
+    "end_sec": 148.2,
+    "text": "si tú quieres empezar a estudiar esto"
+  },
+  {
+    "start_sec": 148.2,
+    "end_sec": 150.36,
+    "text": "para que puedas comprender mejor el CRT,"
+  },
+  {
+    "start_sec": 150.36,
+    "end_sec": 152.76,
+    "text": "hecho esta guía completamente gratuita"
+  },
+  {
+    "start_sec": 152.76,
+    "end_sec": 154.32,
+    "text": "para ti. Puedes pedírmela abajo en la"
+  },
+  {
+    "start_sec": 154.32,
+    "end_sec": 155.84,
+    "text": "descripción, en el comentario fijado."
+  },
+  {
+    "start_sec": 155.84,
+    "end_sec": 157.4,
+    "text": "vas a poder pedirme esta guía y te la"
+  },
+  {
+    "start_sec": 157.4,
+    "end_sec": 158.96,
+    "text": "voy a poder estar pasando totalmente"
+  },
+  {
+    "start_sec": 158.96,
+    "end_sec": 161.16,
+    "text": "gratis. Pero, ¿cómo vas a confluir"
+  },
+  {
+    "start_sec": 161.16,
+    "end_sec": 164.72,
+    "text": "entonces la estructura de mercado con el"
+  },
+  {
+    "start_sec": 164.72,
+    "end_sec": 167.2,
+    "text": "TS o los rangos? En este caso vamos a"
+  },
+  {
+    "start_sec": 167.2,
+    "end_sec": 170.44,
+    "text": "tener varios puntos. Eh, vas a tener una"
+  },
+  {
+    "start_sec": 170.44,
+    "end_sec": 172.84,
+    "text": "perspectiva más refinada y más precisa."
+  },
+  {
+    "start_sec": 172.84,
+    "end_sec": 175.48,
+    "text": "Y una cosa muy importante, vas a querer"
+  },
+  {
+    "start_sec": 175.48,
+    "end_sec": 177.8,
+    "text": "tradear siempre al objetivo. ¿Por qué?"
+  },
+  {
+    "start_sec": 177.8,
+    "end_sec": 179.28,
+    "text": "Porque, por ejemplo, cuando el precio"
+  },
+  {
+    "start_sec": 179.28,
+    "end_sec": 181.36,
+    "text": "aquí forme rangos contrarios, tú lo vas"
+  },
+  {
+    "start_sec": 181.36,
+    "end_sec": 183.24,
+    "text": "a ver como que son retrocesos para ir"
+  },
+  {
+    "start_sec": 183.24,
+    "end_sec": 185.4,
+    "text": "hacia el objetivo principal y casi"
+  },
+  {
+    "start_sec": 185.4,
+    "end_sec": 187.16,
+    "text": "siempre vas a estar tradeando a favor de"
+  },
+  {
+    "start_sec": 187.16,
+    "end_sec": 189.08,
+    "text": "la tendencia. ¿Por qué? Porque muchas de"
+  },
+  {
+    "start_sec": 189.08,
+    "end_sec": 191.08,
+    "text": "las veces el precio va a formar rangos"
+  },
+  {
+    "start_sec": 191.08,
+    "end_sec": 192.36,
+    "text": "contrarios que ni siquiera los va a"
+  },
+  {
+    "start_sec": 192.36,
+    "end_sec": 194.4,
+    "text": "completar o va a completar al 50% y va a"
+  },
+  {
+    "start_sec": 194.4,
+    "end_sec": 196.64,
+    "text": "seguir subiendo. Eso es muy importante."
+  },
+  {
+    "start_sec": 196.64,
+    "end_sec": 197.72,
+    "text": "Entonces, la estructura de mercado"
+  },
+  {
+    "start_sec": 197.72,
+    "end_sec": 199.24,
+    "text": "avanzada considera el rompimiento y el"
+  },
+  {
+    "start_sec": 199.24,
+    "end_sec": 201.28,
+    "text": "rechazo de máximos y mínimos. También"
+  },
+  {
+    "start_sec": 201.28,
+    "end_sec": 203.4,
+    "text": "incorpora otros métodos para verlo, ¿no?"
+  },
+  {
+    "start_sec": 203.4,
+    "end_sec": 205.2,
+    "text": "Para ver todo lo que es la estructura."
+  },
+  {
+    "start_sec": 205.2,
+    "end_sec": 206.68,
+    "text": "Básicamente una tendencia alcista al"
+  },
+  {
+    "start_sec": 206.68,
+    "end_sec": 210.24,
+    "text": "precio eh eh cuando consiste en que"
+  },
+  {
+    "start_sec": 210.24,
+    "end_sec": 212.04,
+    "text": "rompe por encima de máximos, o sea, hace"
+  },
+  {
+    "start_sec": 212.04,
+    "end_sec": 215.2,
+    "text": "máximos cada vez más altos y eh rechaza"
+  },
+  {
+    "start_sec": 215.2,
+    "end_sec": 217.6,
+    "text": "mínimos. Entonces, muchas de las veces"
+  },
+  {
+    "start_sec": 217.6,
+    "end_sec": 219.2,
+    "text": "la gente piensa que normalmente la"
+  },
+  {
+    "start_sec": 219.2,
+    "end_sec": 221.6,
+    "text": "estructura de precio es como esto, ¿no?"
+  },
+  {
+    "start_sec": 221.6,
+    "end_sec": 222.96,
+    "text": "Pero realmente la estructura de precio"
+  },
+  {
+    "start_sec": 222.96,
+    "end_sec": 225.44,
+    "text": "generalmente hace esto. El precio toma"
+  },
+  {
+    "start_sec": 225.44,
+    "end_sec": 228.36,
+    "text": "un low, elimina liquidez, hace el TS"
+  },
+  {
+    "start_sec": 228.36,
+    "end_sec": 231.48,
+    "text": "aquí y el precio sube. Elimina liquidez,"
+  },
+  {
+    "start_sec": 231.48,
+    "end_sec": 233.4,
+    "text": "hacia el TS y el precio sube hacia"
+  },
+  {
+    "start_sec": 233.4,
+    "end_sec": 236.12,
+    "text": "dónde? subjetivo o su dol principal."
+  },
+  {
+    "start_sec": 236.12,
+    "end_sec": 238.32,
+    "text": "Entonces, principalmente nos va nos va a"
+  },
+  {
+    "start_sec": 238.32,
+    "end_sec": 240.76,
+    "text": "este ayudar a entender esto. Acá tenemos"
+  },
+  {
+    "start_sec": 240.76,
+    "end_sec": 243.12,
+    "text": "un ejemplo en este caso bajista. Fíjate,"
+  },
+  {
+    "start_sec": 243.12,
+    "end_sec": 244.76,
+    "text": "normalmente todo el mundo piensa que la"
+  },
+  {
+    "start_sec": 244.76,
+    "end_sec": 246.72,
+    "text": "estructura de mercado es esto. Inclusive"
+  },
+  {
+    "start_sec": 246.72,
+    "end_sec": 249.0,
+    "text": "hay algunas personas que ven como que"
+  },
+  {
+    "start_sec": 249.0,
+    "end_sec": 251.4,
+    "text": "esto intentan comprar y el precio hace"
+  },
+  {
+    "start_sec": 251.4,
+    "end_sec": 253.68,
+    "text": "esto y este realmente era el objetivo,"
+  },
+  {
+    "start_sec": 253.68,
+    "end_sec": 255.84,
+    "text": "el doll. Entonces, siempre nosotros para"
+  },
+  {
+    "start_sec": 255.84,
+    "end_sec": 257.44,
+    "text": "ver esto vamos a estar trabajando hacia"
+  },
+  {
+    "start_sec": 257.44,
+    "end_sec": 259.08,
+    "text": "el doll. Ahorita voy a ir a la gráfica."
+  },
+  {
+    "start_sec": 259.08,
+    "end_sec": 260.64,
+    "text": "Quédate en este video hasta el final"
+  },
+  {
+    "start_sec": 260.64,
+    "end_sec": 262.36,
+    "text": "para que no te lo pierdas, porque ahora"
+  },
+  {
+    "start_sec": 262.36,
+    "end_sec": 263.72,
+    "text": "voy a ir a la gráfica y te voy a enseñar"
+  },
+  {
+    "start_sec": 263.72,
+    "end_sec": 266.36,
+    "text": "ejemplos prácticos y claves en el"
+  },
+  {
+    "start_sec": 266.36,
+    "end_sec": 267.8,
+    "text": "mercado para que tú puedas estarlo"
+  },
+  {
+    "start_sec": 267.8,
+    "end_sec": 270.4,
+    "text": "viendo en una gráfica totalmente real. y"
+  },
+  {
+    "start_sec": 270.4,
+    "end_sec": 272.2,
+    "text": "te voy a mostrar un truquito que utilizo"
+  },
+  {
+    "start_sec": 272.2,
+    "end_sec": 274.16,
+    "text": "para poder entender o comprender mejor"
+  },
+  {
+    "start_sec": 274.16,
+    "end_sec": 275.4,
+    "text": "esto. Entonces, en una tendencia"
+  },
+  {
+    "start_sec": 275.4,
+    "end_sec": 276.96,
+    "text": "bajista, prácticamente el precio viene"
+  },
+  {
+    "start_sec": 276.96,
+    "end_sec": 279.56,
+    "text": "siendo bajos, cada vez más bajos y el"
+  },
+  {
+    "start_sec": 279.56,
+    "end_sec": 281.12,
+    "text": "precio por lo general hace una toma de"
+  },
+  {
+    "start_sec": 281.12,
+    "end_sec": 284.24,
+    "text": "liquidez, hace el tortel soft ts o la"
+  },
+  {
+    "start_sec": 284.24,
+    "end_sec": 286.0,
+    "text": "toma de liquidez y ahí el precio sigue"
+  },
+  {
+    "start_sec": 286.0,
+    "end_sec": 287.48,
+    "text": "para abajo, sigue para abajo hasta"
+  },
+  {
+    "start_sec": 287.48,
+    "end_sec": 290.36,
+    "text": "llegar a su objetivo o su dol, en este"
+  },
+  {
+    "start_sec": 290.36,
+    "end_sec": 292.6,
+    "text": "caso subjetivo. Y ya vimos los dos"
+  },
+  {
+    "start_sec": 292.6,
+    "end_sec": 295.36,
+    "text": "ejemplos. Ahora, cuando un mínimo que"
+  },
+  {
+    "start_sec": 295.36,
+    "end_sec": 297.36,
+    "text": "rompe un máximo y lleva el precio a"
+  },
+  {
+    "start_sec": 297.36,
+    "end_sec": 299.64,
+    "text": "probobar un nivel clave, es roto, la"
+  },
+  {
+    "start_sec": 299.64,
+    "end_sec": 301.48,
+    "text": "estructura cambia y se vuelve bajista. O"
+  },
+  {
+    "start_sec": 301.48,
+    "end_sec": 304.2,
+    "text": "sea, normalmente cuando el precio"
+  },
+  {
+    "start_sec": 304.2,
+    "end_sec": 306.24,
+    "text": "completa un rango, vamos a ponerlo, por"
+  },
+  {
+    "start_sec": 306.24,
+    "end_sec": 307.48,
+    "text": "ejemplo, que el precio tenía un rango"
+  },
+  {
+    "start_sec": 307.48,
+    "end_sec": 310.84,
+    "text": "aquí y el precio expande la tercera vela"
+  },
+  {
+    "start_sec": 310.84,
+    "end_sec": 312.4,
+    "text": "completa, esto sería, por ejemplo, un"
+  },
+  {
+    "start_sec": 312.4,
+    "end_sec": 314.36,
+    "text": "nivel clave, un nivel clave este una vez"
+  },
+  {
+    "start_sec": 314.36,
+    "end_sec": 316.64,
+    "text": "que completa ese rango, el precio tiende"
+  },
+  {
+    "start_sec": 316.64,
+    "end_sec": 319.44,
+    "text": "que a tocar ese nivel clave y"
+  },
+  {
+    "start_sec": 319.44,
+    "end_sec": 321.44,
+    "text": "generalmente ya la estructura empieza a"
+  },
+  {
+    "start_sec": 321.44,
+    "end_sec": 324.24,
+    "text": "cambiar, pero solamente cuando solamente"
+  },
+  {
+    "start_sec": 324.24,
+    "end_sec": 325.84,
+    "text": "cuando el precio llegó a su objetivo"
+  },
+  {
+    "start_sec": 325.84,
+    "end_sec": 328.0,
+    "text": "principal, si el precio no llegó a su"
+  },
+  {
+    "start_sec": 328.0,
+    "end_sec": 330.52,
+    "text": "objetivo principal, no vamos a nosotros"
+  },
+  {
+    "start_sec": 330.52,
+    "end_sec": 331.76,
+    "text": "a ver ningún algún cambio de la"
+  },
+  {
+    "start_sec": 331.76,
+    "end_sec": 333.48,
+    "text": "estructura. O sea, mientras el precio"
+  },
+  {
+    "start_sec": 333.48,
+    "end_sec": 334.8,
+    "text": "esté intentando llegar a su objetivo"
+  },
+  {
+    "start_sec": 334.8,
+    "end_sec": 336.68,
+    "text": "principal, esto no te sirve, no"
+  },
+  {
+    "start_sec": 336.68,
+    "end_sec": 338.4,
+    "text": "funciona. Es por eso que no les funciona"
+  },
+  {
+    "start_sec": 338.4,
+    "end_sec": 339.8,
+    "text": "a muchas personas la estructura del"
+  },
+  {
+    "start_sec": 339.8,
+    "end_sec": 341.68,
+    "text": "precio, porque ven este cambio, intentan"
+  },
+  {
+    "start_sec": 341.68,
+    "end_sec": 343.6,
+    "text": "vender aquí y el precio sigue subiendo."
+  },
+  {
+    "start_sec": 343.6,
+    "end_sec": 344.92,
+    "text": "Y después, ¿por qué sí funciona,"
+  },
+  {
+    "start_sec": 344.92,
+    "end_sec": 346.72,
+    "text": "Gustavo? Porque el precio ya completó su"
+  },
+  {
+    "start_sec": 346.72,
+    "end_sec": 349.36,
+    "text": "objetivo o porque formó una nuevo rango,"
+  },
+  {
+    "start_sec": 349.36,
+    "end_sec": 351.2,
+    "text": "en este caso hacia la dirección"
+  },
+  {
+    "start_sec": 351.2,
+    "end_sec": 352.68,
+    "text": "contraria, que puede ser el objetivo, no"
+  },
+  {
+    "start_sec": 352.68,
+    "end_sec": 354.84,
+    "text": "sé, aquí abajo. Y el precio, entonces en"
+  },
+  {
+    "start_sec": 354.84,
+    "end_sec": 356.6,
+    "text": "ese caso sí va a funcionar el cambio"
+  },
+  {
+    "start_sec": 356.6,
+    "end_sec": 358.32,
+    "text": "estructural. Entonces, ¿ves la"
+  },
+  {
+    "start_sec": 358.32,
+    "end_sec": 360.04,
+    "text": "diferencia? Entonces, eso es un cambio"
+  },
+  {
+    "start_sec": 360.04,
+    "end_sec": 361.36,
+    "text": "estructural bajista, pero como quien"
+  },
+  {
+    "start_sec": 361.36,
+    "end_sec": 363.8,
+    "text": "dice de verdad que nosotros siempre lo"
+  },
+  {
+    "start_sec": 363.8,
+    "end_sec": 365.92,
+    "text": "vamos a ver por el CRT. Ahora, no es"
+  },
+  {
+    "start_sec": 365.92,
+    "end_sec": 367.52,
+    "text": "necesario que tú te aprendas esto al"
+  },
+  {
+    "start_sec": 367.52,
+    "end_sec": 369.64,
+    "text": "100% porque nosotros realmente a la hora"
+  },
+  {
+    "start_sec": 369.64,
+    "end_sec": 371.04,
+    "text": "de que aplicamos el CRT pues vemos"
+  },
+  {
+    "start_sec": 371.04,
+    "end_sec": 373.24,
+    "text": "rangos y ya está. Pero sí es importante"
+  },
+  {
+    "start_sec": 373.24,
+    "end_sec": 375.92,
+    "text": "que lo sepas y que puedas aprender a"
+  },
+  {
+    "start_sec": 375.92,
+    "end_sec": 379.16,
+    "text": "formularlo, porque a través de esto eh"
+  },
+  {
+    "start_sec": 379.16,
+    "end_sec": 380.28,
+    "text": "nosotros vamos a tener un mayor"
+  },
+  {
+    "start_sec": 380.28,
+    "end_sec": 382.24,
+    "text": "razonamiento del precio y es importante"
+  },
+  {
+    "start_sec": 382.24,
+    "end_sec": 384.04,
+    "text": "saberlo para que sepas lo que no"
+  },
+  {
+    "start_sec": 384.04,
+    "end_sec": 386.32,
+    "text": "funciona y lo que sí funciona."
+  },
+  {
+    "start_sec": 386.32,
+    "end_sec": 388.52,
+    "text": "Exactamente. Esto sería exactamente lo"
+  },
+  {
+    "start_sec": 388.52,
+    "end_sec": 390.64,
+    "text": "mismo. ¿Por qué no va a funcionar aquí"
+  },
+  {
+    "start_sec": 390.64,
+    "end_sec": 392.76,
+    "text": "un rompimiento y porque aquí el precio"
+  },
+  {
+    "start_sec": 392.76,
+    "end_sec": 394.6,
+    "text": "sí cambia de estructura de dirección?"
+  },
+  {
+    "start_sec": 394.6,
+    "end_sec": 396.32,
+    "text": "Porque probablemente el mercado formó un"
+  },
+  {
+    "start_sec": 396.32,
+    "end_sec": 398.0,
+    "text": "patrón de tres velas, un rango de tres"
+  },
+  {
+    "start_sec": 398.0,
+    "end_sec": 399.16,
+    "text": "velas claro que decía que nuestro"
+  },
+  {
+    "start_sec": 399.16,
+    "end_sec": 401.2,
+    "text": "objetivo era exactamente este. Y por eso"
+  },
+  {
+    "start_sec": 401.2,
+    "end_sec": 403.68,
+    "text": "es que así aquí sí funciona y aquí no. Y"
+  },
+  {
+    "start_sec": 403.68,
+    "end_sec": 405.48,
+    "text": "ahora también lo vamos a combinar que el"
+  },
+  {
+    "start_sec": 405.48,
+    "end_sec": 407.28,
+    "text": "precio puede sacar puntos de liquidez"
+  },
+  {
+    "start_sec": 407.28,
+    "end_sec": 409.52,
+    "text": "importante como un semanal, un diario,"
+  },
+  {
+    "start_sec": 409.52,
+    "end_sec": 411.84,
+    "text": "etcétera, etcétera. Solo se usa como"
+  },
+  {
+    "start_sec": 411.84,
+    "end_sec": 413.72,
+    "text": "confluencia para ganar convicción en el"
+  },
+  {
+    "start_sec": 413.72,
+    "end_sec": 416.32,
+    "text": "análisis. Nunca debe usarse sola ni como"
+  },
+  {
+    "start_sec": 416.32,
+    "end_sec": 418.52,
+    "text": "base principal de la del análisis. La"
+  },
+  {
+    "start_sec": 418.52,
+    "end_sec": 419.88,
+    "text": "estructura del precio, la estructura de"
+  },
+  {
+    "start_sec": 419.88,
+    "end_sec": 421.68,
+    "text": "mercado que estamos viendo ahí aquí. y"
+  },
+  {
+    "start_sec": 421.68,
+    "end_sec": 423.92,
+    "text": "se usa para obtener una perspectiva más"
+  },
+  {
+    "start_sec": 423.92,
+    "end_sec": 425.76,
+    "text": "refinada del aspecto estructural de los"
+  },
+  {
+    "start_sec": 425.76,
+    "end_sec": 428.0,
+    "text": "gráficos. Usar únicamente el marco"
+  },
+  {
+    "start_sec": 428.0,
+    "end_sec": 430.44,
+    "text": "avanzado. Personalmente solo uso marcos"
+  },
+  {
+    "start_sec": 430.44,
+    "end_sec": 432.2,
+    "text": "temporales superiores. Generalmente yo"
+  },
+  {
+    "start_sec": 432.2,
+    "end_sec": 434.32,
+    "text": "suelo ver solamente las temporalidades,"
+  },
+  {
+    "start_sec": 434.32,
+    "end_sec": 435.92,
+    "text": "pues el sesgo diario, el sesgo de 4"
+  },
+  {
+    "start_sec": 435.92,
+    "end_sec": 438.32,
+    "text": "horas o de una hora como mucho para"
+  },
+  {
+    "start_sec": 438.32,
+    "end_sec": 440.92,
+    "text": "poder ver lo que está sucediendo en ese"
+  },
+  {
+    "start_sec": 440.92,
+    "end_sec": 443.08,
+    "text": "rango o qué está pasando dentro de ese"
+  },
+  {
+    "start_sec": 443.08,
+    "end_sec": 444.72,
+    "text": "rango. Y este es un truquito muy"
+  },
+  {
+    "start_sec": 444.72,
+    "end_sec": 446.04,
+    "text": "importante, muy interesante que te va a"
+  },
+  {
+    "start_sec": 446.04,
+    "end_sec": 448.56,
+    "text": "ayudar a mejorar. Ahora bien, vamos a la"
+  },
+  {
+    "start_sec": 448.56,
+    "end_sec": 450.32,
+    "text": "gráfica para darte un truco muy"
+  },
+  {
+    "start_sec": 450.32,
+    "end_sec": 452.0,
+    "text": "importante que te va a ayudar a mejor o"
+  },
+  {
+    "start_sec": 452.0,
+    "end_sec": 454.36,
+    "text": "a comprender mejor los rangos utilizando"
+  },
+  {
+    "start_sec": 454.36,
+    "end_sec": 456.08,
+    "text": "los conceptos que hemos visto o"
+  },
+  {
+    "start_sec": 456.08,
+    "end_sec": 457.8,
+    "text": "aprendido en esta clase. Bueno, para"
+  },
+  {
+    "start_sec": 457.8,
+    "end_sec": 459.6,
+    "text": "este truco te iba a decir que pusieras"
+  },
+  {
+    "start_sec": 459.6,
+    "end_sec": 461.32,
+    "text": "en 15 minutos en una hora, estoy aquí en"
+  },
+  {
+    "start_sec": 461.32,
+    "end_sec": 463.56,
+    "text": "15 minutos, este indicador que si no lo"
+  },
+  {
+    "start_sec": 463.56,
+    "end_sec": 465.44,
+    "text": "tienes se llama Overl Candle B Gustavo"
+  },
+  {
+    "start_sec": 465.44,
+    "end_sec": 467.8,
+    "text": "Martínez, Gustavo M.trader, perdón. Y si"
+  },
+  {
+    "start_sec": 467.8,
+    "end_sec": 469.92,
+    "text": "no lo tienes, me lo puedes pedir este"
+  },
+  {
+    "start_sec": 469.92,
+    "end_sec": 471.92,
+    "text": "por Instagram. En este caso vamos a ver"
+  },
+  {
+    "start_sec": 471.92,
+    "end_sec": 473.92,
+    "text": "un rango diario y vamos a ver la"
+  },
+  {
+    "start_sec": 473.92,
+    "end_sec": 476.0,
+    "text": "estructura detrás de 15 minutos. ¿Cómo"
+  },
+  {
+    "start_sec": 476.0,
+    "end_sec": 478.68,
+    "text": "puedes utilizar esto? Mira no más lo que"
+  },
+  {
+    "start_sec": 478.68,
+    "end_sec": 480.0,
+    "text": "tienes que entender. Mira, cuando el"
+  },
+  {
+    "start_sec": 480.0,
+    "end_sec": 482.68,
+    "text": "precio forma este patrón de tres velas,"
+  },
+  {
+    "start_sec": 482.68,
+    "end_sec": 484.08,
+    "text": "aquí fue es donde justo toma la"
+  },
+  {
+    "start_sec": 484.08,
+    "end_sec": 485.72,
+    "text": "liquidez. Fíjate como el precio viene"
+  },
+  {
+    "start_sec": 485.72,
+    "end_sec": 487.12,
+    "text": "construyéndose por impulsos y"
+  },
+  {
+    "start_sec": 487.12,
+    "end_sec": 488.96,
+    "text": "retrocesos. Impulsos y retrocesos."
+  },
+  {
+    "start_sec": 488.96,
+    "end_sec": 490.56,
+    "text": "Tampoco le tienes que meter tanta"
+  },
+  {
+    "start_sec": 490.56,
+    "end_sec": 493.44,
+    "text": "ciencia, sino simplemente entender esto."
+  },
+  {
+    "start_sec": 493.44,
+    "end_sec": 495.52,
+    "text": "Mira el precio, cómo forma el patrón y"
+  },
+  {
+    "start_sec": 495.52,
+    "end_sec": 497.96,
+    "text": "fíjate como la vela cierra. Y nos indica"
+  },
+  {
+    "start_sec": 497.96,
+    "end_sec": 499.64,
+    "text": "qué nos indica que el precio hizo un"
+  },
+  {
+    "start_sec": 499.64,
+    "end_sec": 502.56,
+    "text": "impulso para abajo, cierra la vela. Este"
+  },
+  {
+    "start_sec": 502.56,
+    "end_sec": 504.24,
+    "text": "es el objetivo y fíjate que justo"
+  },
+  {
+    "start_sec": 504.24,
+    "end_sec": 506.28,
+    "text": "estamos en un punto retroceso. Entonces,"
+  },
+  {
+    "start_sec": 506.28,
+    "end_sec": 509.0,
+    "text": "es ideal para vender justo en la tercera"
+  },
+  {
+    "start_sec": 509.0,
+    "end_sec": 511.04,
+    "text": "vela por acá. Y fíjate como ahora el"
+  },
+  {
+    "start_sec": 511.04,
+    "end_sec": 512.52,
+    "text": "precio hace el cambio estructural que te"
+  },
+  {
+    "start_sec": 512.52,
+    "end_sec": 514.64,
+    "text": "decía, pero sí va a funcionar. ¿Por qué?"
+  },
+  {
+    "start_sec": 514.64,
+    "end_sec": 516.44,
+    "text": "Porque tú estás alineado hacia el doll,"
+  },
+  {
+    "start_sec": 516.44,
+    "end_sec": 518.28,
+    "text": "hacia el objetivo que es este bajo en"
+  },
+  {
+    "start_sec": 518.28,
+    "end_sec": 521.48,
+    "text": "este caso de este rango diario. Entonces"
+  },
+  {
+    "start_sec": 521.48,
+    "end_sec": 524.04,
+    "text": "es simplemente entender esto, impulsos,"
+  },
+  {
+    "start_sec": 524.04,
+    "end_sec": 526.08,
+    "text": "retrocesos dentro de un rango. ¿Para"
+  },
+  {
+    "start_sec": 526.08,
+    "end_sec": 528.2,
+    "text": "qué? para que si nosotros estamos en"
+  },
+  {
+    "start_sec": 528.2,
+    "end_sec": 530.6,
+    "text": "este punto o o tal, nosotros tratemos de"
+  },
+  {
+    "start_sec": 530.6,
+    "end_sec": 533.44,
+    "text": "estar vendiendo en zonas apropiadas o"
+  },
+  {
+    "start_sec": 533.44,
+    "end_sec": 535.56,
+    "text": "estemos intentando ver el rango, pero"
+  },
+  {
+    "start_sec": 535.56,
+    "end_sec": 537.68,
+    "text": "con un contexto, no simplemente viendo"
+  },
+  {
+    "start_sec": 537.68,
+    "end_sec": 539.92,
+    "text": "un patrón como tal, porque sabiendo"
+  },
+  {
+    "start_sec": 539.92,
+    "end_sec": 541.92,
+    "text": "esto, entonces tú sabiendo esto, ves que"
+  },
+  {
+    "start_sec": 541.92,
+    "end_sec": 543.92,
+    "text": "el precio hizo esta toma de liquidez,"
+  },
+  {
+    "start_sec": 543.92,
+    "end_sec": 546.8,
+    "text": "hizo aquí un cambio estructural. Justo"
+  },
+  {
+    "start_sec": 546.8,
+    "end_sec": 548.96,
+    "text": "cuándo, ojo, ¿cuándo me funciona? me"
+  },
+  {
+    "start_sec": 548.96,
+    "end_sec": 552.08,
+    "text": "funciona cuando ya tengo mi patrón de"
+  },
+  {
+    "start_sec": 552.08,
+    "end_sec": 554.48,
+    "text": "CRT confirmado. Si no tengo mi patrón de"
+  },
+  {
+    "start_sec": 554.48,
+    "end_sec": 556.48,
+    "text": "CRT confirmado, no vale para nada, es"
+  },
+  {
+    "start_sec": 556.48,
+    "end_sec": 558.84,
+    "text": "subjetivo, no funciona, no sirve. Pero"
+  },
+  {
+    "start_sec": 558.84,
+    "end_sec": 560.28,
+    "text": "cuando yo ya tengo un patrón de tres"
+  },
+  {
+    "start_sec": 560.28,
+    "end_sec": 562.24,
+    "text": "velas confirmado, tengo el CRT, tengo el"
+  },
+  {
+    "start_sec": 562.24,
+    "end_sec": 564.44,
+    "text": "doll ahí, en ese caso yo puedo tradear"
+  },
+  {
+    "start_sec": 564.44,
+    "end_sec": 566.16,
+    "text": "esto, puedo poner mi stoploss aquí,"
+  },
+  {
+    "start_sec": 566.16,
+    "end_sec": 568.48,
+    "text": "tener un mejor ratio, riesgo beneficio,"
+  },
+  {
+    "start_sec": 568.48,
+    "end_sec": 570.64,
+    "text": "entendiendo exactamente lo que te estoy"
+  },
+  {
+    "start_sec": 570.64,
+    "end_sec": 572.4,
+    "text": "diciendo o esto que te estoy diciendo,"
+  },
+  {
+    "start_sec": 572.4,
+    "end_sec": 573.96,
+    "text": "justo por aquí podrías haber entrado,"
+  },
+  {
+    "start_sec": 573.96,
+    "end_sec": 576.36,
+    "text": "pones tu stop loss aquí de esta manera y"
+  },
+  {
+    "start_sec": 576.36,
+    "end_sec": 578.04,
+    "text": "de esta manera vas a poder tener un"
+  },
+  {
+    "start_sec": 578.04,
+    "end_sec": 580.04,
+    "text": "mejor ratio, riesgo beneficio que si"
+  },
+  {
+    "start_sec": 580.04,
+    "end_sec": 582.52,
+    "text": "simplemente tradeabas esto y tendrías"
+  },
+  {
+    "start_sec": 582.52,
+    "end_sec": 584.48,
+    "text": "que poner tu stop loss acá y poner tu"
+  },
+  {
+    "start_sec": 584.48,
+    "end_sec": 586.08,
+    "text": "objetivo acá. A lo mejor era un uno a"
+  },
+  {
+    "start_sec": 586.08,
+    "end_sec": 587.36,
+    "text": "uno. Aquí de esta manera a lo mejor"
+  },
+  {
+    "start_sec": 587.36,
+    "end_sec": 589.44,
+    "text": "puedes agarrar un uno a dos, un uno a"
+  },
+  {
+    "start_sec": 589.44,
+    "end_sec": 592.12,
+    "text": "tres, etcétera, etcétera. ¿Listo? Te voy"
+  },
+  {
+    "start_sec": 592.12,
+    "end_sec": 594.16,
+    "text": "a mostrar más ejemplos prácticos para"
+  },
+  {
+    "start_sec": 594.16,
+    "end_sec": 596.92,
+    "text": "que tú puedas entender esto. Para ello"
+  },
+  {
+    "start_sec": 596.92,
+    "end_sec": 599.12,
+    "text": "te voy a mostrar una temporalidad baja,"
+  },
+  {
+    "start_sec": 599.12,
+    "end_sec": 600.24,
+    "text": "para que veas que también puede"
+  },
+  {
+    "start_sec": 600.24,
+    "end_sec": 602.24,
+    "text": "funcionar prácticamente en cualquier"
+  },
+  {
+    "start_sec": 602.24,
+    "end_sec": 604.64,
+    "text": "temporalidad. Esto yo lo pongo con"
+  },
+  {
+    "start_sec": 604.64,
+    "end_sec": 606.32,
+    "text": "ejemplos diarios porque es como"
+  },
+  {
+    "start_sec": 606.32,
+    "end_sec": 607.88,
+    "text": "generalmente todo el mundo somos"
+  },
+  {
+    "start_sec": 607.88,
+    "end_sec": 609.96,
+    "text": "intradías, pero esto puede funcionar en"
+  },
+  {
+    "start_sec": 609.96,
+    "end_sec": 611.56,
+    "text": "cualquier temporalidad. El mercado es"
+  },
+  {
+    "start_sec": 611.56,
+    "end_sec": 613.32,
+    "text": "fractal, funciona para todo. Bueno,"
+  },
+  {
+    "start_sec": 613.32,
+    "end_sec": 615.04,
+    "text": "chicos, en este caso estamos en la"
+  },
+  {
+    "start_sec": 615.04,
+    "end_sec": 617.44,
+    "text": "temporalidad de 5 minutos para mostrarte"
+  },
+  {
+    "start_sec": 617.44,
+    "end_sec": 618.96,
+    "text": "que esto puede llegar a funcionar"
+  },
+  {
+    "start_sec": 618.96,
+    "end_sec": 621.52,
+    "text": "prácticamente en cualquier lado. Y para"
+  },
+  {
+    "start_sec": 621.52,
+    "end_sec": 623.92,
+    "text": "esto que tenemos, fíjate muy bien, para"
+  },
+  {
+    "start_sec": 623.92,
+    "end_sec": 626.8,
+    "text": "esto tenemos un rango de 4 horas por"
+  },
+  {
+    "start_sec": 626.8,
+    "end_sec": 628.96,
+    "text": "detrás de este gráfico con el indicador,"
+  },
+  {
+    "start_sec": 628.96,
+    "end_sec": 631.64,
+    "text": "que sería exactamente un patrón clásico"
+  },
+  {
+    "start_sec": 631.64,
+    "end_sec": 633.92,
+    "text": "de tres velas o bueno, este múltiples"
+  },
+  {
+    "start_sec": 633.92,
+    "end_sec": 635.44,
+    "text": "velas porque lo completan la cuarta"
+  },
+  {
+    "start_sec": 635.44,
+    "end_sec": 637.52,
+    "text": "vela, pero tú ya lo conoces, es el pator"
+  },
+  {
+    "start_sec": 637.52,
+    "end_sec": 639.2,
+    "text": "clásico que hace el precio. Aquí hace el"
+  },
+  {
+    "start_sec": 639.2,
+    "end_sec": 642.12,
+    "text": "TS. Fíjate como el precio entonces por"
+  },
+  {
+    "start_sec": 642.12,
+    "end_sec": 645.44,
+    "text": "acá nos hace un impulso bajista. Todo"
+  },
+  {
+    "start_sec": 645.44,
+    "end_sec": 648.32,
+    "text": "esto nos hace un impulso alcista. Cierra"
+  },
+  {
+    "start_sec": 648.32,
+    "end_sec": 649.88,
+    "text": "dentro del cuerpo de la vela anterior."
+  },
+  {
+    "start_sec": 649.88,
+    "end_sec": 651.84,
+    "text": "Este sería el objetivo. Y fíjate como el"
+  },
+  {
+    "start_sec": 651.84,
+    "end_sec": 654.84,
+    "text": "precio nos hace un retroceso. Aquí nos"
+  },
+  {
+    "start_sec": 654.84,
+    "end_sec": 656.24,
+    "text": "termina de hacer un retroceso y el"
+  },
+  {
+    "start_sec": 656.24,
+    "end_sec": 659.28,
+    "text": "precio cambia y se va hacia nuestro"
+  },
+  {
+    "start_sec": 659.28,
+    "end_sec": 661.76,
+    "text": "objetivo. Es sencillo de interpretar. De"
+  },
+  {
+    "start_sec": 661.76,
+    "end_sec": 663.56,
+    "text": "esta manera lo puedes interpretar. No es"
+  },
+  {
+    "start_sec": 663.56,
+    "end_sec": 665.84,
+    "text": "tampoco mucho, no le metas tanta"
+  },
+  {
+    "start_sec": 665.84,
+    "end_sec": 667.88,
+    "text": "ciencia. es como interpretar los"
+  },
+  {
+    "start_sec": 667.88,
+    "end_sec": 669.44,
+    "text": "impulsos y retrocesos dentro de las"
+  },
+  {
+    "start_sec": 669.44,
+    "end_sec": 673.48,
+    "text": "velas o de los rangos de CRT. Y es muy"
+  },
+  {
+    "start_sec": 673.48,
+    "end_sec": 676.84,
+    "text": "importante que tú veas o siempre marques"
+  },
+  {
+    "start_sec": 676.84,
+    "end_sec": 679.16,
+    "text": "el rango o que tengas el objetivo,"
+  },
+  {
+    "start_sec": 679.16,
+    "end_sec": 680.88,
+    "text": "porque si tú no tienes ningún objetivo"
+  },
+  {
+    "start_sec": 680.88,
+    "end_sec": 683.0,
+    "text": "en este caso, pues no te sirve para"
+  },
+  {
+    "start_sec": 683.0,
+    "end_sec": 685.04,
+    "text": "nada. Es muy objetivo interpretar esto"
+  },
+  {
+    "start_sec": 685.04,
+    "end_sec": 686.84,
+    "text": "que está acá, por ejemplo. ¿Por qué?"
+  },
+  {
+    "start_sec": 686.84,
+    "end_sec": 688.2,
+    "text": "porque el precio va a romper arriba, va"
+  },
+  {
+    "start_sec": 688.2,
+    "end_sec": 690.44,
+    "text": "a romper abajo y no funciona. Pero"
+  },
+  {
+    "start_sec": 690.44,
+    "end_sec": 691.72,
+    "text": "cuando tú ya tienes un doll, un"
+  },
+  {
+    "start_sec": 691.72,
+    "end_sec": 693.68,
+    "text": "objetivo, simplemente vas a entender que"
+  },
+  {
+    "start_sec": 693.68,
+    "end_sec": 695.0,
+    "text": "en una temporalidad menor puede el"
+  },
+  {
+    "start_sec": 695.0,
+    "end_sec": 696.8,
+    "text": "precio hacer un impulso, un retroceso y"
+  },
+  {
+    "start_sec": 696.8,
+    "end_sec": 699.24,
+    "text": "vas a intentar en este caso tratar de"
+  },
+  {
+    "start_sec": 699.24,
+    "end_sec": 701.76,
+    "text": "estar comprando en este caso por debajo"
+  },
+  {
+    "start_sec": 701.76,
+    "end_sec": 705.16,
+    "text": "aquí, aquí. Y aparte esto ya lo puedes"
+  },
+  {
+    "start_sec": 705.16,
+    "end_sec": 707.76,
+    "text": "alinear con horarios y con más cosas que"
+  },
+  {
+    "start_sec": 707.76,
+    "end_sec": 709.76,
+    "text": "vamos a ver después en este curso de"
+  },
+  {
+    "start_sec": 709.76,
+    "end_sec": 712.16,
+    "text": "CRT. Te voy a poner un último ejemplo y"
+  },
+  {
+    "start_sec": 712.16,
+    "end_sec": 713.68,
+    "text": "terminamos con este video. Bueno,"
+  },
+  {
+    "start_sec": 713.68,
+    "end_sec": 715.76,
+    "text": "chicos, para este ejemplo, en este caso,"
+  },
+  {
+    "start_sec": 715.76,
+    "end_sec": 718.08,
+    "text": "vamos a usar la temporalidad de 3 horas"
+  },
+  {
+    "start_sec": 718.08,
+    "end_sec": 719.6,
+    "text": "y para este ejemplo lo voy a hacer un"
+  },
+  {
+    "start_sec": 719.6,
+    "end_sec": 721.28,
+    "text": "poco más avanzado para las personas que"
+  },
+  {
+    "start_sec": 721.28,
+    "end_sec": 724.12,
+    "text": "se quedaron en este video y vamos a ver"
+  },
+  {
+    "start_sec": 724.12,
+    "end_sec": 726.6,
+    "text": "el rango o la R que tenemos en alta"
+  },
+  {
+    "start_sec": 726.6,
+    "end_sec": 728.64,
+    "text": "temporalidad. Luego vamos a ver la vela"
+  },
+  {
+    "start_sec": 728.64,
+    "end_sec": 730.4,
+    "text": "de las 9 de la mañana, que sería horario"
+  },
+  {
+    "start_sec": 730.4,
+    "end_sec": 732.4,
+    "text": "de Nueva York, la continuación y el"
+  },
+  {
+    "start_sec": 732.4,
+    "end_sec": 734.12,
+    "text": "rango y la estructura que se produjo"
+  },
+  {
+    "start_sec": 734.12,
+    "end_sec": 736.6,
+    "text": "justo ahí para que tú comprendas muy"
+  },
+  {
+    "start_sec": 736.6,
+    "end_sec": 738.16,
+    "text": "bien todo. Entonces, vamos a usar como"
+  },
+  {
+    "start_sec": 738.16,
+    "end_sec": 739.88,
+    "text": "quien dice tres temporalidades y vamos a"
+  },
+  {
+    "start_sec": 739.88,
+    "end_sec": 741.52,
+    "text": "ver los rangos y la estructura del"
+  },
+  {
+    "start_sec": 741.52,
+    "end_sec": 743.44,
+    "text": "mercado y vamos a ver en este caso"
+  },
+  {
+    "start_sec": 743.44,
+    "end_sec": 744.92,
+    "text": "también el tiempo o el horario de"
+  },
+  {
+    "start_sec": 744.92,
+    "end_sec": 746.56,
+    "text": "entrada. Bueno, chicos, tenemos el"
+  },
+  {
+    "start_sec": 746.56,
+    "end_sec": 748.32,
+    "text": "primer paso, nuestra temporalidad de 12"
+  },
+  {
+    "start_sec": 748.32,
+    "end_sec": 750.4,
+    "text": "horas. Fíjate muy bien que el precio"
+  },
+  {
+    "start_sec": 750.4,
+    "end_sec": 751.92,
+    "text": "completa este rango, en este caso"
+  },
+  {
+    "start_sec": 751.92,
+    "end_sec": 754.12,
+    "text": "bajista, la tendencia también es alcista"
+  },
+  {
+    "start_sec": 754.12,
+    "end_sec": 755.96,
+    "text": "y luego el precio nos forma una nueva R"
+  },
+  {
+    "start_sec": 755.96,
+    "end_sec": 758.12,
+    "text": "por ahí. Esto lo vamos a marcar para que"
+  },
+  {
+    "start_sec": 758.12,
+    "end_sec": 760.56,
+    "text": "veas como uno tres temporalidades y es"
+  },
+  {
+    "start_sec": 760.56,
+    "end_sec": 762.8,
+    "text": "bastante sencillo. Este sería la R o el"
+  },
+  {
+    "start_sec": 762.8,
+    "end_sec": 765.68,
+    "text": "rango y el objetivo era prácticamente"
+  },
+  {
+    "start_sec": 765.68,
+    "end_sec": 767.84,
+    "text": "estos máximos. Y ahora vamos a utilizar"
+  },
+  {
+    "start_sec": 767.84,
+    "end_sec": 770.84,
+    "text": "nuestra vela de 3 horas y vamos a ver la"
+  },
+  {
+    "start_sec": 770.84,
+    "end_sec": 773.04,
+    "text": "estructura que hay dentro de 3 horas y"
+  },
+  {
+    "start_sec": 773.04,
+    "end_sec": 775.2,
+    "text": "de todo esto por acá. Bueno, como parte"
+  },
+  {
+    "start_sec": 775.2,
+    "end_sec": 777.04,
+    "text": "final dentro antes de llegarle el precio"
+  },
+  {
+    "start_sec": 777.04,
+    "end_sec": 779.72,
+    "text": "a su objetivo forma un rango, bueno,"
+  },
+  {
+    "start_sec": 779.72,
+    "end_sec": 781.72,
+    "text": "forma un retroceso para abajo y luego"
+  },
+  {
+    "start_sec": 781.72,
+    "end_sec": 783.36,
+    "text": "nos forma el rango, el patrón típico de"
+  },
+  {
+    "start_sec": 783.36,
+    "end_sec": 785.72,
+    "text": "tres velas y aparte esto sucede en el"
+  },
+  {
+    "start_sec": 785.72,
+    "end_sec": 787.44,
+    "text": "horario de Nueva York, que sucede a las"
+  },
+  {
+    "start_sec": 787.44,
+    "end_sec": 789.92,
+    "text": "9 de la mañana cuando nosotros creamos"
+  },
+  {
+    "start_sec": 789.92,
+    "end_sec": 791.64,
+    "text": "en este caso ese extremo que"
+  },
+  {
+    "start_sec": 791.64,
+    "end_sec": 793.64,
+    "text": "prácticamente nos confirma que el precio"
+  },
+  {
+    "start_sec": 793.64,
+    "end_sec": 795.2,
+    "text": "va a ir hacia arriba. Tenemos contexto"
+  },
+  {
+    "start_sec": 795.2,
+    "end_sec": 797.68,
+    "text": "de dos temporalidades y ya lo único que"
+  },
+  {
+    "start_sec": 797.68,
+    "end_sec": 799.4,
+    "text": "vamos a ver nosotros es estar en una"
+  },
+  {
+    "start_sec": 799.4,
+    "end_sec": 801.84,
+    "text": "temporalidad lo de baja temporalidad 5"
+  },
+  {
+    "start_sec": 801.84,
+    "end_sec": 803.8,
+    "text": "minutos para ver la estructura interno"
+  },
+  {
+    "start_sec": 803.8,
+    "end_sec": 805.12,
+    "text": "dentro de esas velas y que puedas"
+  },
+  {
+    "start_sec": 805.12,
+    "end_sec": 806.84,
+    "text": "comprender mejor esto. Bueno, por acá"
+  },
+  {
+    "start_sec": 806.84,
+    "end_sec": 808.84,
+    "text": "estamos ya en 5 minutos. Ponemos nuestro"
+  },
+  {
+    "start_sec": 808.84,
+    "end_sec": 810.96,
+    "text": "indicador en este caso y vamos a poner"
+  },
+  {
+    "start_sec": 810.96,
+    "end_sec": 812.68,
+    "text": "primero 12 horas para que entiendas la"
+  },
+  {
+    "start_sec": 812.68,
+    "end_sec": 814.76,
+    "text": "estructura y luego vamos a poner en este"
+  },
+  {
+    "start_sec": 814.76,
+    "end_sec": 816.4,
+    "text": "caso también la temporalidad de 3 horas."
+  },
+  {
+    "start_sec": 816.4,
+    "end_sec": 818.32,
+    "text": "Mira, dentro de la temporalidad de 12"
+  },
+  {
+    "start_sec": 818.32,
+    "end_sec": 820.04,
+    "text": "horas, nosotros tenemos el rango que te"
+  },
+  {
+    "start_sec": 820.04,
+    "end_sec": 821.88,
+    "text": "acaba de yo marcar, por eso lo hice paso"
+  },
+  {
+    "start_sec": 821.88,
+    "end_sec": 824.32,
+    "text": "por paso. Mira, más como el precio hace."
+  },
+  {
+    "start_sec": 824.32,
+    "end_sec": 825.76,
+    "text": "La toma de liquida es bastante agresiva"
+  },
+  {
+    "start_sec": 825.76,
+    "end_sec": 827.64,
+    "text": "por acá abajo. Nos forma el rango. Una"
+  },
+  {
+    "start_sec": 827.64,
+    "end_sec": 828.96,
+    "text": "vez que cierra esta vela, hace un"
+  },
+  {
+    "start_sec": 828.96,
+    "end_sec": 830.96,
+    "text": "retroceso, un nuevo impulso. Y fíjate"
+  },
+  {
+    "start_sec": 830.96,
+    "end_sec": 832.72,
+    "text": "que antes de aperturar la siguiente vela"
+  },
+  {
+    "start_sec": 832.72,
+    "end_sec": 834.32,
+    "text": "y antes del precio llevarse el objetivo,"
+  },
+  {
+    "start_sec": 834.32,
+    "end_sec": 836.88,
+    "text": "que era estos este doll confirmado, el"
+  },
+  {
+    "start_sec": 836.88,
+    "end_sec": 839.16,
+    "text": "precio empieza a retroceder o a caer. Y"
+  },
+  {
+    "start_sec": 839.16,
+    "end_sec": 840.56,
+    "text": "ahora nosotros vamos a tener nuestra"
+  },
+  {
+    "start_sec": 840.56,
+    "end_sec": 842.96,
+    "text": "entrada en instetroceso. Esto es un solo"
+  },
+  {
+    "start_sec": 842.96,
+    "end_sec": 845.0,
+    "text": "impulso, esto es un retroceso. Y para"
+  },
+  {
+    "start_sec": 845.0,
+    "end_sec": 846.68,
+    "text": "ello nosotros vamos a ver nuestra"
+  },
+  {
+    "start_sec": 846.68,
+    "end_sec": 848.4,
+    "text": "temporalidad de 3 horas, que ya sería el"
+  },
+  {
+    "start_sec": 848.4,
+    "end_sec": 851.08,
+    "text": "rango, o sea, el rango dentro del rango,"
+  },
+  {
+    "start_sec": 851.08,
+    "end_sec": 852.76,
+    "text": "¿no? Un rango formado dentro del rango"
+  },
+  {
+    "start_sec": 852.76,
+    "end_sec": 854.92,
+    "text": "de 12 horas. que va a ser ya una"
+  },
+  {
+    "start_sec": 854.92,
+    "end_sec": 856.64,
+    "text": "temporalidad alta, una temporalidad"
+  },
+  {
+    "start_sec": 856.64,
+    "end_sec": 858.68,
+    "text": "intermedia o baja y nuestra entrada ya"
+  },
+  {
+    "start_sec": 858.68,
+    "end_sec": 860.52,
+    "text": "podría ser en una temporalidad de 5"
+  },
+  {
+    "start_sec": 860.52,
+    "end_sec": 862.12,
+    "text": "minutos por acá. Entonces, estamos"
+  },
+  {
+    "start_sec": 862.12,
+    "end_sec": 863.88,
+    "text": "utilizando cada uno de los conceptos que"
+  },
+  {
+    "start_sec": 863.88,
+    "end_sec": 865.64,
+    "text": "te estoy diciendo. Fíjate como el precio"
+  },
+  {
+    "start_sec": 865.64,
+    "end_sec": 867.16,
+    "text": "ya viene acá, toma vuelve y toma"
+  },
+  {
+    "start_sec": 867.16,
+    "end_sec": 868.92,
+    "text": "liquidez. Esta sería la parte del"
+  },
+  {
+    "start_sec": 868.92,
+    "end_sec": 870.84,
+    "text": "retroceso de la estructura y luego"
+  },
+  {
+    "start_sec": 870.84,
+    "end_sec": 873.16,
+    "text": "después el precio viene y cierra dentro"
+  },
+  {
+    "start_sec": 873.16,
+    "end_sec": 874.88,
+    "text": "del cuerpo de la vela anterior y"
+  },
+  {
+    "start_sec": 874.88,
+    "end_sec": 876.56,
+    "text": "nosotros vamos a estar viendo que ahora"
+  },
+  {
+    "start_sec": 876.56,
+    "end_sec": 879.2,
+    "text": "sería nuestro objetivo este máximo y"
+  },
+  {
+    "start_sec": 879.2,
+    "end_sec": 881.48,
+    "text": "este otro máximo. Sabiendo tú esto,"
+  },
+  {
+    "start_sec": 881.48,
+    "end_sec": 883.76,
+    "text": "puedes anticiparte también a esta vela,"
+  },
+  {
+    "start_sec": 883.76,
+    "end_sec": 886.04,
+    "text": "puedes anticiparte correctamente cuando"
+  },
+  {
+    "start_sec": 886.04,
+    "end_sec": 887.68,
+    "text": "cambia la estructura por aquí en este"
+  },
+  {
+    "start_sec": 887.68,
+    "end_sec": 890.2,
+    "text": "punto, pero en este caso también puedes"
+  },
+  {
+    "start_sec": 890.2,
+    "end_sec": 892.76,
+    "text": "agarrarlo en el siguiente retroceso. Una"
+  },
+  {
+    "start_sec": 892.76,
+    "end_sec": 894.36,
+    "text": "vez que sabes que el precio ya hizo un"
+  },
+  {
+    "start_sec": 894.36,
+    "end_sec": 896.96,
+    "text": "impulso, retroceso y ya nos confirmó que"
+  },
+  {
+    "start_sec": 896.96,
+    "end_sec": 899.16,
+    "text": "los objetivos son estos en esta vela."
+  },
+  {
+    "start_sec": 899.16,
+    "end_sec": 901.04,
+    "text": "Esto ya sería un poco más tarde y esto"
+  },
+  {
+    "start_sec": 901.04,
+    "end_sec": 903.08,
+    "text": "sería un poco más temprano, pero más que"
+  },
+  {
+    "start_sec": 903.08,
+    "end_sec": 904.68,
+    "text": "nada de ver la entrada lo que quiero es"
+  },
+  {
+    "start_sec": 904.68,
+    "end_sec": 906.92,
+    "text": "que comprendas cómo puedo formular un"
+  },
+  {
+    "start_sec": 906.92,
+    "end_sec": 909.64,
+    "text": "contexto uniendo el rango de CRT y un"
+  },
+  {
+    "start_sec": 909.64,
+    "end_sec": 911.4,
+    "text": "poquito de la estructura de mercado que"
+  },
+  {
+    "start_sec": 911.4,
+    "end_sec": 914.44,
+    "text": "te he enseñado justo en esta clase. Por"
+  },
+  {
+    "start_sec": 914.44,
+    "end_sec": 915.92,
+    "text": "acá lo vamos a dejar por esta clase."
+  },
+  {
+    "start_sec": 915.92,
+    "end_sec": 917.76,
+    "text": "Espero que te haya gustado muchísimo. Te"
+  },
+  {
+    "start_sec": 917.76,
+    "end_sec": 920.24,
+    "text": "voy a estar esperando en esta playlist"
+  },
+  {
+    "start_sec": 920.24,
+    "end_sec": 921.92,
+    "text": "que te he dejado de todo este curso. Voy"
+  },
+  {
+    "start_sec": 921.92,
+    "end_sec": 923.16,
+    "text": "a ver todos los videos de cada uno de"
+  },
+  {
+    "start_sec": 923.16,
+    "end_sec": 925.04,
+    "text": "este curso que te van a servir mucho y"
+  },
+  {
+    "start_sec": 925.04,
+    "end_sec": 926.76,
+    "text": "te van a importar o te van a dar"
+  },
+  {
+    "start_sec": 926.76,
+    "end_sec": 928.2,
+    "text": "muchísimo valor para entender la"
+  },
+  {
+    "start_sec": 928.2,
+    "end_sec": 930.6,
+    "text": "metodología CRT. Te espero por acá en la"
+  },
+  {
+    "start_sec": 930.6,
+    "end_sec": 932.44,
+    "text": "playlist. mírate todos los videos del"
+  },
+  {
+    "start_sec": 932.44,
+    "end_sec": 935.0,
+    "text": "curso."
+  }
+]

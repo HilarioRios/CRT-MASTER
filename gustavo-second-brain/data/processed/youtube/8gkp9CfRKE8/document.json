@@ -1,0 +1,49 @@
+{
+  "source_id": "YT_CANAL_01_8gkp9CfRKE8",
+  "video_id": "8gkp9CfRKE8",
+  "metadata": {
+    "channel": "MentoTrading",
+    "title": "El SECRETO para GANAR SIEMPRE en el TRADING",
+    "url": "https://www.youtube.com/watch?v=8gkp9CfRKE8",
+    "published_at": "2025-10-02",
+    "duration_sec": 2357,
+    "transcript_source": "yt_dlp_auto",
+    "processing_version": "v1-pilot",
+    "content_type": "podcast_monologo_psicotrading"
+  },
+  "topics": ["gestion_de_riesgo", "sobreoperar"],
+  "concepts": ["timing de la entrada", "mecanizacion del contexto", "niveles psicologicos de progreso", "multiples fuentes de ingreso"],
+  "key_ideas": [
+    {"timestamp_sec": 127, "title": "El timing de la entrada: el error mas comun no es de estrategia", "text": "La mayoria de sus perdidas no venian de la estrategia sino de no saber esperar el momento adecuado de la entrada.", "deep_link": "https://www.youtube.com/watch?v=8gkp9CfRKE8&t=127s"},
+    {"timestamp_sec": 611, "title": "El trading es 80% esperar y 20% actuar", "text": "La impaciencia cuesta dinero, la paciencia lo multiplica; un trade forzado es un trade perdido.", "deep_link": "https://www.youtube.com/watch?v=8gkp9CfRKE8&t=611s"},
+    {"timestamp_sec": 861, "title": "No existe la estrategia perfecta, existe el dominio de la estrategia", "text": "Lo importante no es cual estrategia es la mejor sino mecanizarla y tener un ritual de analisis diario.", "deep_link": "https://www.youtube.com/watch?v=8gkp9CfRKE8&t=861s"},
+    {"timestamp_sec": 1261, "title": "El incidente de My Forex Funds: payout de 42000 no pagado", "text": "Atribuye parte de su estancamiento psicologico a un payout de 42000 dolares que nunca le pagaron.", "deep_link": "https://www.youtube.com/watch?v=8gkp9CfRKE8&t=1261s"},
+    {"timestamp_sec": 1668, "title": "Compaginar el trading con el trabajo, no saltar al vacio", "text": "No dejar el trabajo de forma abrupta; tener ahorro, un plan y otra fuente de ingreso antes de vivir 100% del trading.", "deep_link": "https://www.youtube.com/watch?v=8gkp9CfRKE8&t=1668s"}
+  ],
+  "rules_principles": [
+    {"timestamp_sec": 156, "text": "Esperar el cierre de las velas y la confirmacion antes de entrar."},
+    {"timestamp_sec": 850, "text": "No se trata de encontrar la estrategia perfecta, sino de dominar y mecanizar una."},
+    {"timestamp_sec": 808, "text": "Tener un ritual repetible de analisis diario da solidez a cualquier estrategia."},
+    {"timestamp_sec": 2098, "text": "Antes de vivir 100% del trading, tener otra fuente de ingreso y un plan de ahorro."}
+  ],
+  "mistakes_mentioned": [
+    {"timestamp_sec": 528, "text": "Adelantarse a la entrada antes del cierre de la vela de confirmacion por miedo a perderse el movimiento."},
+    {"timestamp_sec": 560, "text": "Confundir mas horas frente al grafico con mejores resultados."},
+    {"timestamp_sec": 457, "text": "Querer capturar todos los movimientos del mercado en vez de enfocarse en pocas entradas de calidad."},
+    {"timestamp_sec": 1904, "text": "No hacer el analisis previo en la sesion de Tokio y querer improvisar justo antes de la apertura."}
+  ],
+  "terminology": {
+    "Timing de la entrada": "Saber esperar el momento correcto, ni demasiado pronto ni demasiado tarde.",
+    "Niveles": "Etapas psicologicas de progreso al escalar cuentas de fondeo.",
+    "Mecanizar el contexto": "Tener un ritual repetible de analisis que no dependa del feeling del dia."
+  },
+  "entities": {
+    "people": ["Guille"],
+    "tools": [],
+    "markets": ["oro (como ejemplo/metafora)"]
+  },
+  "transcript_source": "yt_dlp_auto",
+  "source_url": "https://www.youtube.com/watch?v=8gkp9CfRKE8",
+  "series_note": "Primer episodio de un nuevo formato tipo podcast en el canal.",
+  "chunks": []
+}

@@ -1,0 +1,424 @@
+---
+source_id: YT_CANAL_01_LlwzhWMtrhg
+video_id: LlwzhWMtrhg
+channel: "MentoTrading"
+published_at: 2026-04-25
+url: https://www.youtube.com/watch?v=LlwzhWMtrhg
+processing_status: DRIVE_SYNCED
+transcript_source: youtube_official
+chunk_count: 3
+tags: [youtube, MentoTrading, year/2026, status/synced]
+---
+
+# Estrategia CRT + mentoría 1-1: el cambio que lo llevó a retirar l Toni Garcia
+
+[[MentoTrading]] · [[2026]] · [Ver en YouTube](https://www.youtube.com/watch?v=LlwzhWMtrhg)
+
+## Transcript
+
+```
+[00:00:00]
+Bueno, gente, pues estamos aquí con una
+
+[00:00:01]
+entrevista más. Esta vez estamos con el
+
+[00:00:03]
+gran Tony de ¿Cómo estás, Tony?
+
+[00:00:07]
+Cuéntanos un poquito cómo te ha ido en
+
+[00:00:09]
+la en la mentoría uno a uno y estamos
+
+[00:00:11]
+aquí también para contar un poquito su
+
+[00:00:12]
+proceso desde que llegó conmigo. ¿Cuánto
+
+[00:00:16]
+hará, Tony? Unas unas dos meses por ahí,
+
+[00:00:19]
+más o menos.
+
+[00:00:21]
+Sí, sí, unos dos meses.
+
+[00:00:22]
+Cuéntame cómo cómo te ha ido este
+
+[00:00:24]
+quisiera saber sobre todo cómo llegaste
+
+[00:00:26]
+y cómo estás ahora.
+
+[00:00:28]
+Bueno, pues nada, pues cuando me
+
+[00:00:30]
+comentaste un poco la formación en qué
+
+[00:00:32]
+consistía, ¿no? Y después de las
+
+[00:00:35]
+primeras clases, vi un poco eh los
+
+[00:00:39]
+conceptos de CRT y la verdad que muy
+
+[00:00:43]
+bien. era un cambio a lo que yo hacía
+
+[00:00:45]
+antiguamente, era [&nbsp;__&nbsp;] como un concepto
+
+[00:00:48]
+más y la verdad que lo entendía más,
+
+[00:00:53]
+entendía mejor el gráfico a la hora de
+
+[00:00:56]
+poner las entradas y bueno, eh poco a
+
+[00:01:00]
+poco contigo durante las clases muy
+
+[00:01:03]
+bien, la verdad la las cuentas de fondeo
+
+[00:01:06]
+las iba probando, que eso también noté
+
+[00:01:09]
+la diferencia. Muy bien.
+
+[00:01:11]
+Llegaste, tenías una cuenta negativo, me
+
+[00:01:14]
+que fue la que tenías una cuenta
+
+[00:01:16]
+negativo, me parece, ¿no? Y luego
+
+[00:01:18]
+después, ¿cómo? Cuéntame el proceso,
+
+[00:01:20]
+cómo fuiste ahí aprobando las cuentas,
+
+[00:01:22]
+cómo cómo te fue yendo en cuanto a los
+
+[00:01:24]
+resultados.
+
+[00:01:25]
+Pues había una cuenta que la tenía ya en
+
+[00:01:28]
+un -4%
+
+[00:01:30]
+y a raíz de ir cogiendo los conceptos de
+
+[00:01:33]
+CRT, pues la verdad que muy bien. Iba
+
+[00:01:36]
+entrando y las operaciones las veía más
+
+[00:01:39]
+seguras, la verdad. entraba en
+
+[00:01:42]
+temporalidades un poquito más más grande
+
+[00:01:44]
+que antes de como esperaba yo antes. Y
+
+[00:01:48]
+nada, poco a poco iba remontando la
+
+[00:01:50]
+cuenta hasta quedarme en break even y
+
+[00:01:52]
+después ya en positivo y y es más, eh a
+
+[00:01:57]
+las dos semanas esa cuenta la la probé
+
+[00:02:01]
+y luego lograste hacer pasar otras
+
+[00:02:03]
+cuentas y luego lograste también el gran
+
+[00:02:06]
+retiro, ¿no? Tuviste también ya retiro.
+
+[00:02:08]
+Sí, sí, sí, sí. A la nada, en la clase
+
+[00:02:12]
+34 fue mi contigo mi primer retiro, la
+
+[00:02:16]
+verdad que una una pasada. Retiré nada a
+
+[00:02:19]
+$600.
+
+[00:02:21]
+Muy bien, muy bien,
+
+[00:02:22]
+muy bien, muy bien, muy bien. Que ya es
+
+[00:02:24]
+un gran avance aparte de de estar un
+
+[00:02:27]
+poco batallando, ¿no? O sea, cuando
+
+[00:02:28]
+llegaste que estabas un poco batallando,
+
+[00:02:30]
+ahora ya pues no decir que tienes el
+
+[00:02:33]
+camino hecho al 100%, ¿verdad? Porque
+
+[00:02:35]
+siempre se puede mejorar como trader
+
+[00:02:37]
+cualquier persona o el tiempo que tú
+
+[00:02:39]
+tengas.
+
+[00:02:40]
+Pero sí ya ese gran avance que yo te
+
+[00:02:42]
+miré que de repente ya te fondeaste, ya
+
+[00:02:45]
+este retiraste, o sea, ya es como que
+
+[00:02:49]
+tienes ya por lo menos el logro hecho y
+
+[00:02:51]
+ahora ya no más es seguir con la
+
+[00:02:53]
+consistencia, ¿no?
+
+[00:02:55]
+Sí, el mes de enero fue muy bueno, la
+
+[00:02:57]
+verdad y y vamos, no había pensado en
+
+[00:03:01]
+fondearme y haber retirado en en cuatro
+
+[00:03:04]
+clases que que estaba contigo, la
+
+[00:03:05]
+verdad, pero que muy bien. como coge ya
+
+[00:03:08]
+otro concepto de lo que tenía yo antes,
+
+[00:03:12]
+me ha ido bien. Me ha ido muy bien, la
+
+[00:03:14]
+verdad. Muy bien.
+
+[00:03:16]
+Sí, ¿no? Y lo aparte que sí lo has este
+
+[00:03:19]
+porque también tiene que ver mucho el
+
+[00:03:21]
+tema de que tú te has puesto a estudiar
+
+[00:03:23]
+realmente, o sea, realmente te has
+
+[00:03:24]
+puesto a aplicar los conceptos, hacerles
+
+[00:03:27]
+back testing, hacer las tareas que les
+
+[00:03:30]
+voy dejando. Entonces sí se nota
+
+[00:03:32]
+muchísimo. Y nada, felicitarte porque
+
+[00:03:35]
+eres un gran caso de éxito para mí y muy
+
+[00:03:37]
+contento de haberte tenido por acá. este
+
+[00:03:41]
+y lo agarraste lo como dic en España,
+
+[00:03:43]
+¿no? Lo pillaste muy rápido y
+
+[00:03:45]
+felicitarte. Felicitarte, lo único que
+
+[00:03:47]
+me queda es felicitarte. Yo muy contento
+
+[00:03:48]
+contigo y gracias por haber confiado acá
+
+[00:03:51]
+conmigo en la mentoría. ¿Qué le dirías a
+
+[00:03:54]
+las personas a lo mejor que que tal vez
+
+[00:03:56]
+están de afuera y que quisieran tomar
+
+[00:03:58]
+clases o se lo pensaron o o que están de
+
+[00:04:01]
+afuera y no saben lo que lo que nosotros
+
+[00:04:03]
+estamos haciendo desde dentro, no?
+
+[00:04:05]
+Pues mira, lo primero, Gustavo, la
+
+[00:04:07]
+verdad, agradecértelo,
+
+[00:04:09]
+eh, porque me has hecho ver el gráfico
+
+[00:04:13]
+diferente, la verdad. eh coges otros
+
+[00:04:16]
+conceptos como analizar eh a la gente
+
+[00:04:20]
+que le diría que lo prueben, que que es
+
+[00:04:23]
+una de las mejores formaciones que que
+
+[00:04:25]
+he hecho, a menos yo, a nivel personal,
+
+[00:04:29]
+una de las mejores, el uno a uno, estar
+
+[00:04:31]
+con una persona uno a uno y enseñarte si
+
+[00:04:34]
+tienes alguna duda, algún problema,
+
+[00:04:37]
+puedes comentarlo con el directo y no
+
+[00:04:39]
+todas las formaciones tienen eso y eso
+
+[00:04:41]
+vale mucho, mucho. Yo lo recomendaría
+
+[00:04:44]
+100%.
+
+[00:04:46]
+Excelente. Pues más, muchas gracias por
+
+[00:04:47]
+tus palabras, Tony. La verdad yo muy
+
+[00:04:50]
+feliz y contento contigo desde que
+
+[00:04:51]
+llegaste. Y nada, igual las personas que
+
+[00:04:54]
+toman mentoría terminan su proceso, pero
+
+[00:04:56]
+luego ahí se quedan en el grupo de
+
+[00:04:58]
+alumnos que tenemos privado, pues para
+
+[00:05:00]
+siempre. Y aparte, como dices tú, yo
+
+[00:05:03]
+siempre les doy chance de que puedan
+
+[00:05:04]
+seguir preguntando. A pesar de que
+
+[00:05:06]
+terminaron su mentoría, me siguen
+
+[00:05:08]
+preguntando lo que ustedes quieren o
+
+[00:05:10]
+siguen aprobando cuentas de fondeo y me
+
+[00:05:12]
+siguen hablando, eh, Gustavo, este,
+
+[00:05:14]
+aprobé ahora otra cuenta, ya volví a
+
+[00:05:16]
+retirar y todo ese rollo. Entonces, muy
+
+[00:05:18]
+bien, muy feliz. Y nada más, este,
+
+[00:05:20]
+despedirnos de la gente. Muchas gracias
+
+[00:05:21]
+por haber escuchado este ratito el
+
+[00:05:23]
+testimonio de Tony. Muy feliz con él y
+
+[00:05:25]
+nada, nos vemos. Chao.
+
+[00:05:27]
+Eo.
+```
