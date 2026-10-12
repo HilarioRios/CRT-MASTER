@@ -27,12 +27,12 @@
 
 import crtPlaylist from './playlists/crt.json';
 
-// LA CLASE 4 ESTÁ BLOQUEADA ENTERA: su video y su PDF. La persona le escribe
+// LA CLASE 7 ESTÁ BLOQUEADA ENTERA: su video y su PDF. La persona le escribe
 // a Gustavo por WhatsApp, recibe un código y con ese código se abre todo.
 //
 // Ni el video ni el link del PDF van acá (este archivo es público): viven en
-// el servidor, en RESOURCE_VIDEO_CRT_C4 y RESOURCE_URL_CRT_C4.
-const CRT_BLOQUEO_CLASE_4 = { id: 'crt-c4', access: 'team' };
+// el servidor, en RESOURCE_VIDEO_CRT_C7 y RESOURCE_URL_CRT_C7.
+const CRT_BLOQUEO_CLASE_7 = { id: 'crt-c7', access: 'team' };
 
 // UN SOLO RECURSO POR CLASE: su PDF.
 //
@@ -44,11 +44,11 @@ const CRT_BLOQUEO_CLASE_4 = { id: 'crt-c4', access: 'team' };
 //   1      cómo se mueve el mercado             cap 1
 //   2      niveles clave                        cap 2 y 3
 //   3      alineación de temporalidades         cap 4 y 5
-//   4      tipos de rangos / modelos de CRT     cap 6, 7 y 8   (bloqueado)
-//   5      escenarios semanales e intradía      cap 6, 7 y 8   (bloqueado)
-//   6      estructura de mercado avanzada       cap 6, 7 y 8   (bloqueado)
-//   7      trading de rangos                    cap 9, 10 y 11
-//   8      apertura y cierre de velas (AMD)     cap 9, 10 y 11
+//   4      tipos de rangos / modelos de CRT     cap 6, 7 y 8
+//   5      escenarios semanales e intradía      cap 6, 7 y 8
+//   6      estructura de mercado avanzada       cap 6, 7 y 8
+//   7      trading de rangos                    cap 9, 10 y 11 (bloqueado)
+//   8      apertura y cierre de velas (AMD)     cap 9, 10 y 11 (bloqueado)
 //   9      divergencias SMT                     cap 12, 13 y 14
 //   10     el tiempo: sesiones y horarios       cap 12, 13 y 14
 //   11     gestión de riesgo                    cap 15 y 16
@@ -56,16 +56,16 @@ const CRT_BLOQUEO_CLASE_4 = { id: 'crt-c4', access: 'team' };
 //   13     contexto del precio                  cap 17 y 18
 //   14     modelo de entrada                    cap 17 y 18
 //
-// Los PDF públicos están en /public/recursos. El de los capítulos 6, 7 y 8
+// Los PDF públicos están en /public/recursos. El de los capítulos 9, 10 y 11
 // es el de la clase bloqueada: NO está en /public ni lleva `url` acá; lo
-// entrega el servidor con el código, y las clases 5 y 6 lo abren con ese
-// mismo desbloqueo (`accessKey`).
+// entrega el servidor con el código, y la clase 8 lo abre con ese mismo
+// desbloqueo (`accessKey`).
 const CRT_PDFS = [
   { clases: [1], capitulo: 'Capítulo 1', url: '/recursos/crt-master-cap-1.pdf' },
   { clases: [2], capitulo: 'Capítulos 2 y 3', url: '/recursos/crt-master-cap-2-3.pdf' },
   { clases: [3], capitulo: 'Capítulos 4 y 5', url: '/recursos/crt-master-cap-4-5.pdf' },
-  { clases: [4, 5, 6], capitulo: 'Capítulos 6, 7 y 8', bloqueo: CRT_BLOQUEO_CLASE_4.id },
-  { clases: [7, 8], capitulo: 'Capítulos 9, 10 y 11', url: '/recursos/crt-master-cap-9-10-11.pdf' },
+  { clases: [4, 5, 6], capitulo: 'Capítulos 6, 7 y 8', url: '/recursos/crt-master-cap-6-7-8.pdf' },
+  { clases: [7, 8], capitulo: 'Capítulos 9, 10 y 11', bloqueo: CRT_BLOQUEO_CLASE_7.id },
   { clases: [9, 10], capitulo: 'Capítulos 12, 13 y 14', url: '/recursos/crt-master-cap-12-13-14.pdf' },
   { clases: [11, 12], capitulo: 'Capítulos 15 y 16', url: '/recursos/crt-master-cap-15-16.pdf' },
   { clases: [13, 14], capitulo: 'Capítulos 17 y 18', url: '/recursos/crt-master-cap-17-18.pdf' },
@@ -89,12 +89,12 @@ const pdf = (lessonId, order) => {
 // El video, la duración y la miniatura original de cada una salen de
 // src/data/playlists/crt.json (posición 1 = clase 1), que se genera con:
 //
-//   npm run import:playlist -- crt --private=4 <los 14 links, en orden>
+//   npm run import:playlist -- crt --private=7 <los 14 links, en orden>
 //
 // El título, la descripción y la dirección (slug) se escriben acá: así no
 // cambian si se edita el título en YouTube.
 //
-// La clase 4 no expone su enlace en el JSON: el servidor lo entrega después
+// La clase 7 no expone su enlace en el JSON: el servidor lo entrega después
 // de validar el código del equipo.
 const CRT_CLASES = [
   ['el-punto-de-partida', 'Lo que casi nadie explica del trading', 'El punto de partida del curso: la idea sobre la que se apoya toda la estrategia CRT.'],
@@ -126,7 +126,7 @@ const crtLessons = CRT_CLASES.map(([slug, title, description], index) => {
     description,
     duration: video?.duration || '',
     locked: false,
-    ...(order === 4 ? { gate: CRT_BLOQUEO_CLASE_4 } : {}),
+    ...(order === 7 ? { gate: CRT_BLOQUEO_CLASE_7 } : {}),
     video: { loom: video?.loom || '', file: '', poster: video?.thumbnail || '' },
     resources: pdf(id, order),
   };

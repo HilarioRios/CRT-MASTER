@@ -1,6 +1,6 @@
 // POST /api/recurso  { resourceId, code }  →  { url, video? }
 //
-// Desbloqueo real de lo que entrega el equipo (la clase 4: su video y su
+// Desbloqueo real de lo que entrega el equipo (la clase 7: su video y su
 // recurso). Ni el link del documento ni el id del video están en el sitio:
 // viven en variables de entorno del servidor y solo se responden si el código
 // es válido.
@@ -10,7 +10,7 @@
 //   RESOURCE_VIDEO_<ID>   URL de Loom del video de la clase (opcional)
 //
 //   <ID> = id del bloqueo en mayúsculas, guiones → guion bajo
-//          (crt-c4 → RESOURCE_URL_CRT_C4 y RESOURCE_VIDEO_CRT_C4)
+//          (crt-c7 → RESOURCE_URL_CRT_C7 y RESOURCE_VIDEO_CRT_C7)
 
 const normalize = (value) => (typeof value === 'string' ? value.trim().toUpperCase() : '');
 

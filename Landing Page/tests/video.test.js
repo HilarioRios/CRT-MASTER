@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { parseLoomId, parseYoutubeId, resolveVideo } from '../src/lib/video.js';
+import { loomPlayerCommand, loomPlayerEvent, parseLoomId, parseYoutubeId, resolveVideo } from '../src/lib/video.js';
 import { isVslUnlocked } from '../src/lib/vsl.js';
 
 describe('parseYoutubeId', () => {
@@ -69,9 +69,46 @@ describe('resolveVideo', () => {
     expect(resolveVideo({ loom: `https://www.loom.com/share/${id}`, poster: '/p.gif' })).toEqual({
       kind: 'loom',
       id,
-      embedUrl: `https://www.loom.com/embed/${id}`,
+      embedUrl: `https://www.loom.com/embed/${id}?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true`,
       poster: '/p.gif',
     });
+  });
+
+  it('el embed de Loom oculta dueño, compartir, título y barra superior', () => {
+    const { embedUrl } = resolveVideo({ loom: 'https://www.loom.com/share/32a18566e0b84bbb8ac4d93b7d7f2db1' });
+    const params = new URL(embedUrl).searchParams;
+    expect(params.get('hide_owner')).toBe('true');
+    expect(params.get('hide_share')).toBe('true');
+    expect(params.get('hide_title')).toBe('true');
+    expect(params.get('hideEmbedTopBar')).toBe('true');
+  });
+});
+
+describe('loomPlayerEvent', () => {
+  const ready = JSON.stringify({ context: 'player.js', version: '0.0.11', event: 'ready', value: {} });
+
+  it('reconoce el aviso de que el reproductor de Loom está listo', () => {
+    expect(loomPlayerEvent({ origin: 'https://www.loom.com', data: ready })).toBe('ready');
+  });
+
+  it('acepta el mensaje como objeto además de como texto', () => {
+    expect(loomPlayerEvent({ origin: 'https://www.loom.com', data: { context: 'player.js', event: 'play' } })).toBe('play');
+  });
+
+  it('ignora mensajes de otro origen', () => {
+    expect(loomPlayerEvent({ origin: 'https://evil.example', data: ready })).toBe('');
+  });
+
+  it('ignora mensajes que no son del reproductor o no se pueden leer', () => {
+    expect(loomPlayerEvent({ origin: 'https://www.loom.com', data: '{no es json' })).toBe('');
+    expect(loomPlayerEvent({ origin: 'https://www.loom.com', data: JSON.stringify({ context: 'otro', event: 'ready' }) })).toBe('');
+    expect(loomPlayerEvent({ origin: 'https://www.loom.com', data: null })).toBe('');
+  });
+});
+
+describe('loomPlayerCommand', () => {
+  it('arma la orden de reproducir en el formato que entiende Loom', () => {
+    expect(JSON.parse(loomPlayerCommand('play'))).toEqual({ context: 'player.js', version: '0.0.11', method: 'play' });
   });
 });
 

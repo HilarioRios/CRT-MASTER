@@ -5,3 +5,7 @@ dist
 .netlify
 
 .vercel
+
+# PDF de la clase bloqueada: se publica en una ruta que no se puede adivinar
+# y no va al repositorio.
+public/privado/

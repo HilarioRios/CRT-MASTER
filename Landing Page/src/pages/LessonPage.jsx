@@ -28,7 +28,7 @@ export function LessonPage({ course, lesson }) {
   const locked = state === 'locked';
   const module = findModuleOf(course, lesson.id);
 
-  // Bloqueo de equipo (clase 4): hasta que se canjea el código no hay video
+  // Bloqueo de equipo (clase 7): hasta que se canjea el código no hay video
   // ni recursos, y la clase no se puede completar.
   const gate = useResourceAccess(lesson.gate || SIN_BLOQUEO);
   // Una clase bloqueada solo se abre si el servidor entregó también su video.

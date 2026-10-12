@@ -4,15 +4,15 @@
 //   npm run import:playlist -- <clave> <url de la playlist | urls de videos...>
 //
 //   npm run import:playlist -- crt "https://www.youtube.com/playlist?list=XXXX"
-//   npm run import:playlist -- crt --reverse --private=4 "https://..."
+//   npm run import:playlist -- crt --reverse --private=7 "https://..."
 //       --reverse     la playlist está de la última clase a la primera
-//       --private=4   la clase 4 está bloqueada por el equipo
+//       --private=7   la clase 7 está bloqueada por el equipo
 //
 // Escribe src/data/playlists/<clave>.json. La clave "crt" es el Curso CRT
 // (ver src/data/courses.js). No descarga los videos: se reproducen embebidos.
 //
 // Las clases se numeran por posición en la playlist: si después se reordena
-// o se inserta un video, el progreso guardado y el recurso de la clase 4
+// o se inserta un video, el progreso guardado y el recurso de la clase 7
 // pasan a apuntar a otro video.
 //
 // Necesita yt-dlp (variable YT_DLP con la ruta, o tenerlo en el PATH).
@@ -26,7 +26,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const args = process.argv.slice(2);
 // --reverse: para playlists ordenadas de la última clase a la primera.
 const reverse = args.includes('--reverse');
-// --private=4 (o 4,6): clases bloqueadas por el equipo. Su id de YouTube NO
+// --private=7 (o 4,7): clases bloqueadas por el equipo. Su id de YouTube NO
 // se escribe en el JSON (que es público): se muestra en pantalla para
 // cargarlo en el servidor como RESOURCE_VIDEO_<ID>.
 const privadas = (args.find((arg) => arg.startsWith('--private='))?.split('=')[1] || '')

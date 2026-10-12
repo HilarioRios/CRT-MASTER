@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { resolveVideo } from '../lib/video.js';
+import { LOOM_ORIGIN, loomPlayerCommand, loomPlayerEvent, resolveVideo } from '../lib/video.js';
 import { PlayIcon } from './Icons.jsx';
 import { Poster } from './Poster.jsx';
 
@@ -13,6 +13,8 @@ import { Poster } from './Poster.jsx';
 //             termina (YouTube bloqueado por la red o una extensión)
 //
 // Antes de reproducir solo se carga el poster: ni el iframe ni el video.
+// La excepción es Loom: su reproductor tarda varios segundos en llegar, así
+// que se precarga oculto detrás del poster y al tocar ya está listo.
 
 let youtubeApi;
 const API_TIMEOUT_MS = 8000;
@@ -121,11 +123,45 @@ export function VideoPlayer({ video, title, onPlay, onProgress, onEnded, onTrack
   const source = resolveVideo(video);
   const [playing, setPlaying] = useState(false);
   const [loomReady, setLoomReady] = useState(false);
+  const [loomMounted, setLoomMounted] = useState(false);
+  const loomFrame = useRef(null);
   const loomReadyTimer = useRef();
+  const wantsPlay = useRef(false);
   const handlers = useRef({});
   handlers.current = { onProgress, onEnded, onTrackingUnavailable };
+  const isLoom = source.kind === 'loom';
 
   useEffect(() => () => clearTimeout(loomReadyTimer.current), []);
+
+  const sendLoomPlay = () => loomFrame.current?.contentWindow?.postMessage(loomPlayerCommand('play'), LOOM_ORIGIN);
+  const markLoomReady = () => {
+    clearTimeout(loomReadyTimer.current);
+    setLoomReady(true);
+    if (wantsPlay.current) sendLoomPlay();
+  };
+
+  // Precarga el reproductor de Loom cuando el navegador queda libre, salvo
+  // que la persona haya pedido ahorrar datos.
+  useEffect(() => {
+    if (!isLoom || loomMounted || navigator.connection?.saveData) return undefined;
+    if (window.requestIdleCallback) {
+      const handle = window.requestIdleCallback(() => setLoomMounted(true), { timeout: 1500 });
+      return () => window.cancelIdleCallback(handle);
+    }
+    const handle = setTimeout(() => setLoomMounted(true), 600);
+    return () => clearTimeout(handle);
+  }, [isLoom, loomMounted]);
+
+  // Loom avisa por postMessage cuando su reproductor ya se puede usar.
+  useEffect(() => {
+    if (!isLoom) return undefined;
+    const onMessage = (event) => {
+      if (event.source !== loomFrame.current?.contentWindow) return;
+      if (loomPlayerEvent(event) === 'ready') markLoomReady();
+    };
+    window.addEventListener('message', onMessage);
+    return () => window.removeEventListener('message', onMessage);
+  }, [isLoom]);
 
   if (source.kind === 'pending') {
     return (
@@ -161,31 +197,54 @@ export function VideoPlayer({ video, title, onPlay, onProgress, onEnded, onTrack
     );
   }
 
-  if (playing && source.kind === 'loom') {
+  if (isLoom) {
+    const visible = playing && loomReady;
     return (
-      <div className={`video video-loom ${loomReady ? 'video-loom-listo' : 'video-loom-cargando'}`} aria-busy={!loomReady}>
-        {!loomReady && (
-          <>
-            <Poster className="video-poster-img video-loom-poster" src={source.poster} fallback={source.posterFallback} eager />
-            <span className="video-loom-estado" role="status">
-              <span className="video-loom-spinner" aria-hidden="true" />
-              Cargando video…
-            </span>
-          </>
+      <div className={`video video-loom ${visible ? 'video-loom-listo' : ''}`} aria-busy={playing && !loomReady}>
+        {loomMounted && (
+          <iframe
+            ref={loomFrame}
+            className="video-loom-frame"
+            src={source.embedUrl}
+            title={title}
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowFullScreen
+            tabIndex={visible ? 0 : -1}
+            aria-hidden={!visible}
+            onLoad={() => {
+              // Respaldo por si el aviso de "listo" de Loom no llega.
+              clearTimeout(loomReadyTimer.current);
+              loomReadyTimer.current = setTimeout(markLoomReady, 2500);
+            }}
+          />
         )}
-        <iframe
-          className="video-loom-frame"
-          src={source.embedUrl}
-          title={title}
-          allow="autoplay; fullscreen; picture-in-picture"
-          allowFullScreen
-          onLoad={() => {
-            clearTimeout(loomReadyTimer.current);
-            // El documento de Loom ya llegó; se deja un instante para que su
-            // reproductor pinte antes de retirar la portada.
-            loomReadyTimer.current = setTimeout(() => setLoomReady(true), 350);
-          }}
-        />
+        {!visible && (
+          <button
+            type="button"
+            className="video-poster video-loom-tapa"
+            aria-label={`Reproducir: ${title}`}
+            disabled={playing}
+            onClick={() => {
+              wantsPlay.current = true;
+              setPlaying(true);
+              setLoomMounted(true);
+              onPlay?.();
+              if (loomReady) sendLoomPlay();
+            }}
+          >
+            <Poster className="video-poster-img" src={source.poster} fallback={source.posterFallback} eager />
+            {playing ? (
+              <span className="video-loom-estado" role="status">
+                <span className="video-loom-spinner" aria-hidden="true" />
+                Cargando video…
+              </span>
+            ) : (
+              <span className="video-play" aria-hidden="true">
+                <PlayIcon />
+              </span>
+            )}
+          </button>
+        )}
       </div>
     );
   }
